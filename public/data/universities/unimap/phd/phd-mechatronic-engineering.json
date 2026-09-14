@@ -1,0 +1,38 @@
+{
+  "university": "Universiti Malaysia Perlis",
+  "university_slug": "unimap",
+  "level": "phd",
+  "program_name": "Ph.D.(Mechatronic Engineering)",
+  "slug": "phd-mechatronic-engineering",
+  "field": "Engineering",
+  "duration": "FT: 2-5 Yrs; PT: 3-7 Yrs",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
+  "fees": {
+    "local": "19650/Course",
+    "international": "34920/Course",
+    "currency": "MYR",
+    "local_total": 19650,
+    "international_total": 34920,
+    "per_year_local": 19650,
+    "per_year_international": 34920,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "entry_requirements": null,
+    "minimum_cgpa": null
+  },
+  "accreditation": {
+    "mqa": true,
+    "programme_accreditation": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UniMAP/0003746/",
+    "https://www.studymalaysia.com/edu/unimap/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

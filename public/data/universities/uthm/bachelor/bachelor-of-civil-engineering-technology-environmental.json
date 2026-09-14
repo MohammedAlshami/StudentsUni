@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Civil Engineering Technology (Environmental) (Hons)",
+  "program_slug": "bachelor-of-civil-engineering-technology-environmental",
+  "field": "Engineering & Engineering Trades",
+  "faculty": "Civil Engineering and Built Environment",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "700/sem",
+    "international": null,
+    "currency": "MYR",
+    "local_total": 7600,
+    "per_year_local": 1900,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 22800,
+    "per_year_international": 5700
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0054792/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

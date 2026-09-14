@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Vocational Education (Welding and Metal Fabrication)(Hons)",
+  "program_slug": "bachelor-of-vocational-education-welding-and-metal-fabrication",
+  "field": "Education",
+  "faculty": "Technical and Vocational Education",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": null,
+    "currency": "MYR",
+    "local_total": 7200,
+    "international_total": 21600,
+    "per_year_local": 1800,
+    "per_year_international": 5400,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0054798/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "university": "Royal College of Surgeons in Ireland & UCD Malaysia Campus",
+    "university_slug": "rumc",
+    "level": "foundation",
+    "program_name": "Foundation in Science",
+    "field": "Science",
+    "slug": "foundation-in-science",
+    "duration": "1 year",
+    "mode": "Full Time",
+    "intakes": [
+      "July",
+      "August"
+    ],
+    "fees": {
+      "local": "RM 30,000",
+      "international": "RM 35,000"
+    },
+    "requirements": null,
+    "accreditation": "R/010/3/0491 (12/27) (MQA/FA9105)",
+    "sources": [
+      "https://www.rumc.edu.my/programmes/foundation-in-science/"
+    ],
+    "confidence": 0.9,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Royal College of Surgeons in Ireland & UCD Malaysia Campus",
+    "university_slug": "rumc",
+    "level": "foundation",
+    "program_name": "Pre-Medical Foundation Year",
+    "field": "Science",
+    "slug": "pre-medical-foundation-year",
+    "duration": "9 months",
+    "mode": "Full Time",
+    "intakes": [
+      "September"
+    ],
+    "fees": {
+      "local": "RM 40,000",
+      "international": "RM 45,000"
+    },
+    "requirements": null,
+    "accreditation": "R3/010/3/0099 (12/27) (MQA/A7144)",
+    "sources": [
+      "https://www.rumc.edu.my/programmes/pre-medical-foundation-year/"
+    ],
+    "confidence": 0.9,
+    "last_updated": "2026-09-14"
+  }
+]

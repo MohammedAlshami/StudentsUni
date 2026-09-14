@@ -1,0 +1,38 @@
+{
+  "university": "Universiti Malaysia Perlis",
+  "university_slug": "unimap",
+  "level": "bachelor",
+  "program_name": "Bachelor of Business (International Business) (Hons)",
+  "slug": "bachelor-business-international",
+  "field": "Business",
+  "duration": "6 Semesters",
+  "mode": "Full-time",
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
+  "fees": {
+    "local": "650/Sem",
+    "international": null,
+    "currency": "MYR",
+    "local_total": 650,
+    "international_total": null,
+    "per_year_local": 1300,
+    "per_year_international": null,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "entry_requirements": null,
+    "minimum_cgpa": null
+  },
+  "accreditation": {
+    "mqa": true,
+    "programme_accreditation": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UNIMAP/0000373/",
+    "https://www.studymalaysia.com/edu/unimap/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

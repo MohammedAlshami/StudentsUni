@@ -1,0 +1,38 @@
+{
+  "university_slug": "mahsa",
+  "level": "diploma",
+  "program_name": "Diploma in Medical Laboratory Technology",
+  "program_slug": "diploma-in-medical-laboratory-technology",
+  "field": "Medicine and Health",
+  "duration": "2.5 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Nov",
+    "Oct",
+    "Jan",
+    "May",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 13280,
+    "international_total": 17080,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mahsa.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

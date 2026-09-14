@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "diploma",
+  "program_name": "Diploma in Information & Communication Technology with a specialism in Software Engineering",
+  "program_slug": "diploma-ict-software-engineering",
+  "field": "Computing & Technology",
+  "duration": "2+ years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM50,800.00",
+    "international": "RM54,200.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/diploma-in-ict-software-engineering",
+    "https://www.studymalaysia.com/what/course/APU/0008386/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

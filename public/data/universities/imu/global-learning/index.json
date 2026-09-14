@@ -1,0 +1,19 @@
+{
+  "level": "global-learning",
+  "university": "imu",
+  "programs": [
+    {
+      "slug": "international-placement",
+      "name": "International Placement",
+      "mode": "Unknown",
+      "field": "Various"
+    },
+    {
+      "slug": "student-mobility",
+      "name": "Student Mobility",
+      "mode": "Unknown",
+      "field": "Various"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

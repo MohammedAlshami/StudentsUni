@@ -1,0 +1,250 @@
+{
+  "university": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "university_slug": "umpsa",
+  "level": "bachelor",
+  "source": "https://www.studymalaysia.com/edu/ump/courses/",
+  "last_updated": "2026-09-15",
+  "programs": [
+    {
+      "slug": "bachelor-of-computer-science-computer-systems-networks",
+      "name": "Bachelor of Computer Science (Computer Systems & Networks) (Hons)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-applied-science-industrial-biotechnology",
+      "name": "Bachelor of Applied Science (Industrial Biotechnology) (Hons)",
+      "field": "Science (Life Science)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-industrial-chemistry",
+      "name": "Bachelor of Applied Science (Industrial Chemistry) (Hons)",
+      "field": "Science (Physical Science)"
+    },
+    {
+      "slug": "bachelor-of-industrial-technology-management",
+      "name": "Bachelor of Industrial Technology Management (Hons)",
+      "field": "Engineering & Engineering Trades"
+    },
+    {
+      "slug": "bachelor-of-project-management",
+      "name": "Bachelor of Project Management (Hons)",
+      "field": "Business Management & Administration"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering",
+      "name": "Bachelor of Mechanical Engineering (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-business-engineering",
+      "name": "Bachelor of Business Engineering (Hons)",
+      "field": "Business Management & Administration"
+    },
+    {
+      "slug": "bachelor-of-computer-science-software-engineering",
+      "name": "Bachelor of Computer Science (Software Engineering) (Hons)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-automotive-engineering",
+      "name": "Bachelor of Automotive Engineering (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-electrical-engineering",
+      "name": "Bachelor of Electrical Engineering (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-chemical-engineering",
+      "name": "Bachelor of Chemical Engineering (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-civil-engineering",
+      "name": "Bachelor of Civil Engineering (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-computer-science-graphic-multimedia-technology",
+      "name": "Bachelor of Computer Science (Graphic & Multimedia Technology) (Hons)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-applied-science-material-technology",
+      "name": "Bachelor of Applied Science (Material Technology) (Hons)",
+      "field": "Science (Applied Science)"
+    },
+    {
+      "slug": "bachelor-of-electrical-engineering-electronics",
+      "name": "Bachelor of Electrical Engineering (Electronics)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-business-analytical",
+      "name": "Bachelor of Business Analytical (Hons)",
+      "field": "Business Management & Administration"
+    },
+    {
+      "slug": "bachelor-of-occupational-safety-and-health",
+      "name": "Bachelor of Occupational Safety and Health (Hons)",
+      "field": "Occupational Health & Hygiene"
+    },
+    {
+      "slug": "bachelor-of-mechatronic-engineering",
+      "name": "Bachelor of Mechatronic Engineering (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering-automotive",
+      "name": "Bachelor of Mechanical Engineering (Automotive) (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-manufacturing-engineering",
+      "name": "Bachelor of Manufacturing Engineering (Hons)",
+      "field": "Manufacturing & Processing"
+    },
+    {
+      "slug": "bachelor-of-engineering-technology-infrastructure-management",
+      "name": "Bachelor of Engineering Technology (Infrastructure Management) (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-technology-energy-environment",
+      "name": "Bachelor of Engineering Technology (Energy and Environment) (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-technology-pharmaceuticals",
+      "name": "Bachelor of Engineering Technology (Pharmaceuticals) (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-technology-manufacturing",
+      "name": "Bachelor of Engineering Technology (Manufacturing) (Hons)",
+      "field": "Manufacturing & Processing"
+    },
+    {
+      "slug": "bachelor-of-engineering-technology-electrical",
+      "name": "Bachelor of Engineering Technology (Electrical) (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-chemical-engineering-technology",
+      "name": "Bachelor of Chemical Engineering Technology (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-electronic-engineering-technology-computer-system",
+      "name": "Bachelor of Electronic Engineering Technology (Computer System) (Hons)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering-technology-petroleum",
+      "name": "Bachelor of Mechanical Engineering Technology (Petroleum) (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-manufacturing-engineering-technology-pharmaceutical",
+      "name": "Bachelor of Manufacturing Engineering Technology (Pharmaceutical) (Hons)",
+      "field": "Manufacturing & Processing"
+    },
+    {
+      "slug": "bachelor-of-applied-science-data-analytics",
+      "name": "Bachelor of Applied Science (Data Analytics) (Hons)",
+      "field": "Science (Applied Science)"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering-technology-design-analysis",
+      "name": "Bachelor of Mechanical Engineering Technology (Design & Analysis) (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering-technology-oil-gas",
+      "name": "Bachelor of Mechanical Engineering Technology (Oil and Gas) (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-manufacturing-engineering-technology-industrial-automation",
+      "name": "Bachelor of Manufacturing Engineering Technology (Industrial Automation) (Hons)",
+      "field": "Manufacturing & Processing"
+    },
+    {
+      "slug": "bachelor-of-mechatronic-engineering-technology-robotics",
+      "name": "Bachelor of Mechatronic Engineering Technology (Robotics) (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering-technology-automotive",
+      "name": "Bachelor of Mechanical Engineering Technology (Automotive) (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-computer-science-cyber-security",
+      "name": "Bachelor of Computer Science (Cyber Security) (Hons)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-technology-industrial-electronic-automation",
+      "name": "Bachelor of Technology in Industrial Electronic Automation (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-technology-automotive",
+      "name": "Bachelor of Technology in Automotive (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-civil-engineering-technology-building",
+      "name": "Bachelor of Civil Engineering Technology (Building) (Hons)",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-technology-welding",
+      "name": "Bachelor of Technology in Welding (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-technology-building-construction",
+      "name": "Bachelor of Technology in Building Construction (Hons)",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-technology-industrial-machining",
+      "name": "Bachelor of Technology Industrial Machining (Hons)",
+      "field": "Manufacturing & Processing"
+    },
+    {
+      "slug": "bachelor-of-technology-oil-gas-facilities-maintenance",
+      "name": "Bachelor of Technology in Oil & Gas Facilities Maintenance (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-technology-electrical-system-maintenance",
+      "name": "Bachelor of Technology in Electrical System Maintenance (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-electrical-engineering-technology-energy",
+      "name": "Bachelor of Electrical Engineering Technology (Energy) with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-financial-technology",
+      "name": "Bachelor of Financial Technology with Honours",
+      "field": "Accounting & Finance"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 680.0,
+    "per_year_international": null,
+    "notes": "Per semester: 340/sem"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/umpsa/courses/"
+  ]
+}

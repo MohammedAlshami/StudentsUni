@@ -1,0 +1,16 @@
+{
+  "slug": "ucsf",
+  "name": "University College Sabah Foundation",
+  "abbr": "UCSF",
+  "type": "private-university-college",
+  "state": "Sabah",
+  "city": "Kota Kinabalu",
+  "website": "https://www.ucsf.edu.my",
+  "levels_available": ["diploma", "bachelor", "postgraduate"],
+  "sources": [
+    "https://www.ucsf.edu.my",
+    "https://www.ucsf.edu.my/degree",
+    "https://www.ucsf.edu.my/diploma"
+  ],
+  "last_updated": "2026-09-14"
+}

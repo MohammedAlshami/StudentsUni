@@ -1,0 +1,37 @@
+{
+  "university": "University of Selangor",
+  "university_slug": "unisel",
+  "level": "diploma",
+  "program_name": "Diploma In Communication And Media",
+  "field": "Communication",
+  "duration": "2.5 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Nov",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 8486,
+    "international_total": 10644,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.studymalaysia.com/edu/unisel/courses/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "diploma-in-communication-and-media"
+}

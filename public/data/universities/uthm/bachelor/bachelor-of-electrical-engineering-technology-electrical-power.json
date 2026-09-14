@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Electrical Engineering Technology (Hons) (Electrical Power)",
+  "program_slug": "bachelor-of-electrical-engineering-technology-electrical-power",
+  "field": "Engineering & Engineering Trades",
+  "faculty": "Electrical and Electronic Engineering",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "700/sem",
+    "international": "USD7635/Course",
+    "currency": "MYR",
+    "local_total": 7600,
+    "per_year_local": 1900,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 22800,
+    "per_year_international": 5700
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0053957/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

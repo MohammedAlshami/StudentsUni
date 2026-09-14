@@ -1,0 +1,31 @@
+{
+  "university": "Berjaya University College",
+  "university_slug": "berjaya",
+  "level": "bachelor",
+  "program_name": "Bachelor of Business Management (Honours)",
+  "field": "Business",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.berjaya.edu.my/university/faculty-of-business/bachelor-of-business-management-hons/index.html",
+      "type": "official"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

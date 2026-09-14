@@ -1,0 +1,21 @@
+{
+  "university": "GMI-University College of Applied Sciences",
+  "university_slug": "gmi-ucas",
+  "level": "diploma",
+  "program_name": "Diploma of Mechanical Engineering Technology (Manufacturing)",
+  "field": "Mechanical Engineering",
+  "duration": "6 Semester / 3 Years",
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": "RM 33,324",
+  "requirements": null,
+  "accreditation": "R2/0714/4/0011 (02/28) (MQA/FA 14871) - Accredited",
+  "sources": [
+    {
+      "url": "https://www.gmi.edu.my/mechanical-engineering/manufacturing-system/",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

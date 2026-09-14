@@ -1,0 +1,50 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "level": "foundation",
+  "program_name": "Foundation in Accounting",
+  "program_slug": "foundation-in-accounting",
+  "field": "Business",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "January",
+    "July",
+    "September"
+  ],
+  "fees": {
+    "local": {
+      "tuition": "RM6,000",
+      "registration": "RM1,348",
+      "medical_insurance": "RM88/year",
+      "accommodation_deposit": "RM250"
+    },
+    "international": {
+      "tuition": null,
+      "visa_application": null,
+      "registration": null,
+      "medical_insurance": null
+    },
+    "currency": "MYR",
+    "local_total": 6000,
+    "per_year_local": null
+  },
+  "requirements": {
+    "local": "SPM / equivalent with credits in Mathematics and English",
+    "international": "Varies by country. Check MQA requirements."
+  },
+  "accreditation": {
+    "mqa_code": null,
+    "status": "Accredited by MQA"
+  },
+  "sources": [
+    "https://www.uniten.edu.my/programme/foundation/",
+    {
+      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14"
+}

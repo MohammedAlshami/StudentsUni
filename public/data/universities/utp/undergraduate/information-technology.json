@@ -1,0 +1,31 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Information Technology (Hons)",
+  "slug": "information-technology",
+  "field": "Computing",
+  "duration": "3.5 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": "RM 82,530",
+    "currency": "MYR",
+    "note": "Total estimated fees; contact university for current rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Mathematics, Additional Mathematics, and English"
+  },
+  "accreditation": "R2/0611/6/0026 (11/26) MQA/FA16960",
+  "description": "Covers network administration, cybersecurity, cloud computing, web development, and IT infrastructure. Prepares graduates for careers in IT operations and management.",
+  "career_prospect": ["IT Administrator", "Network Engineer", "Cybersecurity Analyst", "Cloud Architect", "IT Support Manager"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://www.studymalaysia.com/edu/utp/courses/",
+    "https://eduadvisor.my/university/universiti-teknologi-petronas-utp/all-courses",
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

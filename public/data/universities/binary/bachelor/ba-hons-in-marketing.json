@@ -1,0 +1,46 @@
+{
+  "university": "Binary University",
+  "university_slug": "binary",
+  "level": "bachelor",
+  "program_name": "BA (Hons) in Marketing",
+  "program_slug": "ba-hons-in-marketing",
+  "field": "marketing",
+  "duration": "3 years",
+  "mode": "Full-Time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "MQA approved",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://web.archive.org/web/20231209170826/https://binary.edu.my/bbs/",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-15"
+}

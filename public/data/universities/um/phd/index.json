@@ -1,0 +1,9 @@
+{
+  "university_slug": "um",
+  "level": "phd",
+  "programs": [
+    {"slug": "doctor-of-public-health", "name": "Doctor of Public Health", "field": "Medicine / Public Health", "detail_status": "pending"},
+    {"slug": "doctor-of-medicine", "name": "Doctor of Medicine", "field": "Medicine", "detail_status": "pending"},
+    {"slug": "doctor-of-philosophy", "name": "Doctor of Philosophy", "field": "General / Research", "detail_status": "pending"}
+  ]
+}

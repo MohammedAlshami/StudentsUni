@@ -1,0 +1,25 @@
+{
+  "university": "GlobalNxt University",
+  "university_slug": "gnu",
+  "level": "master",
+  "program_name": "Master of Science in Information Technology Management",
+  "field": "Information Technology",
+  "duration": null,
+  "mode": "ODL",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": {
+    "mqa_code": "R2/0611/7/0046",
+    "expiry": "08/27",
+    "mqa_id": "MQA/FA2062"
+  },
+  "sources": [
+    {
+      "url": "https://www.globalnxt.edu.my",
+      "type": "official"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-14"
+}

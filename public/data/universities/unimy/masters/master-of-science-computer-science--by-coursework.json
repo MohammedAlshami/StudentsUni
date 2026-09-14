@@ -1,0 +1,22 @@
+{
+  "university": "University Malaysia of Computer Science & Engineering",
+  "university_slug": "unimy",
+  "level": "masters",
+  "program_name": "Master of Science (Computer Science) - By Coursework",
+  "field": "Computing",
+  "duration": "2 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM24,000",
+    "international": "RM25,000"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unimy/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "master-of-science-computer-science--by-coursework"
+}

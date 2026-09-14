@@ -1,0 +1,19 @@
+{
+  "university": "Universiti Pendidikan Sultan Idris",
+  "university_slug": "upsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Education (Multimedia) (Hons)",
+  "field": "Education",
+  "duration": "8 semesters",
+  "mode": "Full-time",
+  "intakes": ["September"],
+  "fees": {"currency": "MYR", "local_total": 7832, "international_total": 11200, "per_year_local": 1958, "per_year_international": 2800, "notes": "Per semester: MYR 979 local, MYR 1,400 international"},
+  "requirements": {
+    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
+    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+  },
+  "accreditation": {"mqa_status": null, "mqa_ref": null},
+  "sources": ["https://www.studymalaysia.com/what/course/UPSI/0001084/", "https://meta.upsi.edu.my/bachelor-of-education-multimedia-with-honours/"],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

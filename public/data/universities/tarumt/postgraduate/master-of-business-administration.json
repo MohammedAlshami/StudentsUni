@@ -1,0 +1,34 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "postgraduate",
+  "program_name": "Master of Business Administration",
+  "program_slug": "master-of-business-administration",
+  "field": "Business Management & Administration",
+  "duration": "1 year (FT) / 2 years (PT)",
+  "mode": "Flexible",
+  "intakes": null,
+  "fees": {
+    "local": "RM17,800.00 (FT) / RM18,700.00 (PT)",
+    "international": "RM33,800.00 (EMGS fees not included)",
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://sites.google.com/tarc.edu.my/cpsr/programmes/by-coursework/faculty-of-accountancy-finance-and-business/master-of-business-administration",
+    "https://www.studymalaysia.com/what/course/tarumt/0058679/",
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": 0.85,
+  "last_updated": "2026-09-15"
+}

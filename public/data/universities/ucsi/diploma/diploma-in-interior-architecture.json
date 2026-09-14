@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "diploma",
+  "program_name": "Diploma in Interior Architecture",
+  "field": "Interior Architecture",
+  "duration": "2.5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 54,190",
+    "international": "RM 68,880",
+    "currency": "MYR",
+    "local_total": 54190,
+    "international_total": 68880,
+    "per_year_local": 54190,
+    "per_year_international": 68880,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0006018/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

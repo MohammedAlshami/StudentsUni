@@ -1,0 +1,42 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor of Biomedical Science (Honours)",
+  "slug": "bachelor-of-biomedical-science",
+  "program_slug": "bachelor-of-biomedical-science",
+  "field": "Biosciences",
+  "duration": "3.5 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep",
+    "Feb"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 37835,
+    "international_total": 43606,
+    "per_year_local": 110250,
+    "per_year_international": 36677,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-biomedical-science.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

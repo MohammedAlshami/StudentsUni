@@ -1,0 +1,36 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "bachelor",
+  "program_name": "B.Eng. (Hons) Electrical & Electronic Engineering",
+  "program_slug": "beng-hons-electrical-electronic-engineering",
+  "field": "Engineering & Engineering Trades",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": [
+    "Jul",
+    "Jan"
+  ],
+  "fees": {
+    "local": "Refer to newinti.edu.my",
+    "international": "Refer to newinti.edu.my",
+    "local_total": 23870,
+    "currency": "MYR",
+    "international_total": 23870
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "faculty": "Engineering, Technology & Quantity Surveying",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0005358/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

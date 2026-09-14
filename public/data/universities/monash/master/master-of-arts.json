@@ -1,0 +1,42 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "master",
+  "program_name": "Master of Arts",
+  "field": "Arts & Social Sciences",
+  "duration": "2 years (FT) / 4 years (PT)",
+  "mode": "Full-time / Part-time",
+  "intakes": [
+    "February",
+    "July"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 84666,
+    "international_total": 93112,
+    "per_year_local": "RM42,333 per year",
+    "per_year_international": "RM46,556 per year",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "bachelor_degree": null,
+      "cgpa": null
+    },
+    "international": {
+      "bachelor_degree": null,
+      "cgpa": null,
+      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/postgraduate-and-research/arts-social-sciences",
+    "https://www.studymalaysia.com/what/course/MONASH/0001516/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

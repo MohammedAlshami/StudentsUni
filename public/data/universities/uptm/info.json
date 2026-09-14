@@ -1,0 +1,31 @@
+{
+  "university": "Poly-Tech University of Malaysia",
+  "university_slug": "uptm",
+  "abbreviation": "UPTM",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "website": "https://www.uptm.edu.my",
+  "studymalaysia_url": null,
+  "last_updated": "2026-09-15",
+  "sources": [
+    {
+      "url": "https://www.uptm.edu.my/index.php/academics/programmes/diploma-programmes",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "masters",
+    "doctorate"
+  ],
+  "program_counts": {
+    "foundation": 1,
+    "diploma": 6,
+    "bachelor": 9,
+    "masters": 3,
+    "doctorate": 2
+  }
+}

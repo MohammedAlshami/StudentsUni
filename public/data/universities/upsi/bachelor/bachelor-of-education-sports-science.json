@@ -1,0 +1,19 @@
+{
+  "university": "Universiti Pendidikan Sultan Idris",
+  "university_slug": "upsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Education (Sports Science) (Hons)",
+  "field": "Education",
+  "duration": "8 semesters",
+  "mode": "Full-time",
+  "intakes": ["September"],
+  "fees": {"currency": "MYR", "local_total": 7192, "international_total": 8800, "per_year_local": 1798, "per_year_international": 2200, "notes": "Per semester: MYR 899 local, MYR 1,100 international"},
+  "requirements": {
+    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
+    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+  },
+  "accreditation": {"mqa_status": null, "mqa_ref": null},
+  "sources": ["https://www.studymalaysia.com/what/course/UPSI/0001096/", "https://fssk.upsi.edu.my/"],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,14 @@
+{
+  "university": "Universiti Putra Malaysia",
+  "university_slug": "upm",
+  "level": "postgraduate",
+  "source": "https://www.upm.edu.my/kemasukan/program/pascasiswazah-76276",
+  "last_updated": "2026-09-14",
+  "programs": [
+    {"slug": "master-of-veterinary-science", "name": "Master of Veterinary Science (M.V.Sc.)", "field": "Research"},
+    {"slug": "master-of-science", "name": "Master of Science (M.S.)", "field": "Research"},
+    {"slug": "master-of-arts", "name": "Master of Arts (M.A.)", "field": "Research"},
+    {"slug": "doctor-of-philosophy", "name": "Doctor of Philosophy (Ph.D.)", "field": "Research"},
+    {"slug": "doctor-of-engineering", "name": "Doctor of Engineering (DEng)", "field": "Research"}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "berjaya",
+  "name": "Berjaya University College",
+  "abbr": "BERJAYA",
+  "type": "private-university-college",
+  "state": "Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "website": "https://www.berjaya.edu.my",
+  "levels_available": ["foundation", "diploma", "bachelor", "master", "doctorate"],
+  "program_counts": {
+    "foundation": 2,
+    "diploma": 10,
+    "bachelor": 7,
+    "master": 3,
+    "doctorate": 1
+  },
+  "sources": [
+    {
+      "url": "https://www.berjaya.edu.my/university/index.html",
+      "type": "official",
+      "note": "Full program listing retrieved from main website"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Programs across 4 faculties: Business, Culinary Arts, Hospitality & Tourism, Education & Arts. DKU007(W). Located at Berjaya Times Square."
+}

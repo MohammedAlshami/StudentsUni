@@ -1,0 +1,32 @@
+{
+  "university_slug": "pu",
+  "level": "masters",
+  "program_name": "Master of Business Administration (Leadership and Global Strategy)",
+  "program_slug": "master-of-business-administration-leadership-and-global-strategy",
+  "field": "Business",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 41750,
+    "international_total": 45925,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://perdanauniversity.edu.my/explore-all-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

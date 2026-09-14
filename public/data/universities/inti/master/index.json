@@ -1,0 +1,14 @@
+{
+  "level": "master",
+  "level_label": "Masters Degree Level",
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "total_programs": 1,
+  "programs": [
+    {
+      "program_name": "Master of Business Administration (MBA) (Dual-Award Degree)",
+      "program_slug": "master-of-business-administration-mba-dual-award"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

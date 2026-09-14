@@ -1,0 +1,17 @@
+{
+  "university": "First City University College",
+  "university_slug": "fcuc",
+  "level": "foundation",
+  "program_name": "Foundation in Art & Design",
+  "program_slug": "foundation-in-art-design",
+  "field": "Art & Design",
+  "duration": "1 year",
+  "mode": "Full Time",
+  "intakes": ["January", "May", "September"],
+  "fees": null,
+  "requirements": {"spm": "Minimum 5 credits (including English)"},
+  "accreditation": null,
+  "sources": ["https://www.firstcity.edu.my/programmes"],
+  "confidence": 0.7,
+  "last_updated": "2026-09-14"
+}

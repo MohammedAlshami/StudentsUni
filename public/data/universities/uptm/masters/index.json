@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "master-of-business-administration",
+    "name": "Master of Business Administration",
+    "field": "Business"
+  },
+  {
+    "slug": "master-of-science-in-information-technology",
+    "name": "Master of Science in Information Technology",
+    "field": "Computing"
+  },
+  {
+    "slug": "master-of-education",
+    "name": "Master of Education",
+    "field": "Education"
+  }
+]

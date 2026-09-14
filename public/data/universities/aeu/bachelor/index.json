@@ -1,0 +1,46 @@
+{
+  "programs": [
+    {
+      "slug": "bachelor-in-accounting-honours",
+      "program_name": "Bachelor in Accounting (Honours)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-hons",
+      "program_name": "Bachelor of Business Administration (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-tesl-with-honours",
+      "program_name": "Bachelor of Education (TESL) with Honours"
+    },
+    {
+      "slug": "bachelor-of-education-early-childhood-education-honours",
+      "program_name": "Bachelor of Education (Early Childhood Education) Honours"
+    },
+    {
+      "slug": "bachelor-of-education-teaching-malay-language-in-primary-school-with-honours",
+      "program_name": "Bachelor of Education (Teaching Malay Language in Primary School) with Honours"
+    },
+    {
+      "slug": "bachelor-of-education-teaching-islamic-studies-in-primary-school-with-honours",
+      "program_name": "Bachelor of Education (Teaching Islamic Studies in Primary School) with Honours"
+    },
+    {
+      "slug": "bachelor-of-arts-honours-in-graphic-design",
+      "program_name": "Bachelor of Arts (Honours) in Graphic Design"
+    },
+    {
+      "slug": "bachelor-of-digital-creative-media-hons",
+      "program_name": "Bachelor of Digital Creative Media (Hons)"
+    },
+    {
+      "slug": "bachelor-of-new-media-communications-honours",
+      "program_name": "Bachelor of New Media Communications (Honours)"
+    },
+    {
+      "slug": "bachelor-of-information-and-communication-technology-honours",
+      "program_name": "Bachelor of Information and Communication Technology (Honours)"
+    }
+  ],
+  "total": 10,
+  "last_updated": "2026-09-14"
+}

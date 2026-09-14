@@ -1,0 +1,17 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "certificate",
+  "total_programs": 2,
+  "programs": [
+    {
+      "program_name": "Post Basic Certificate in Perioperative Nursing",
+      "program_slug": "post-basic-certificate-in-perioperative-nursing"
+    },
+    {
+      "program_name": "Post Basic Certificate in Intensive Care Nursing",
+      "program_slug": "post-basic-certificate-in-intensive-care-nursing"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

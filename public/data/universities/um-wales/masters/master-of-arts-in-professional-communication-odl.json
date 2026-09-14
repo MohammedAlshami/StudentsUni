@@ -1,0 +1,39 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "masters",
+  "program_name": "Master of Arts in Professional Communication (ODL)",
+  "field": "Communication",
+  "duration": "1 year",
+  "mode": "Online",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "RM22,100",
+    "international": "RM27,760",
+    "local_total": 24040,
+    "currency": "MYR",
+    "international_total": 29960
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "master-of-arts-in-professional-communication-odl"
+}

@@ -1,0 +1,24 @@
+{
+  "university": "Universiti Malaysia Sarawak",
+  "university_slug": "unimas",
+  "abbreviation": "UNIMAS",
+  "type": "public-university",
+  "state": "Sarawak",
+  "city": "Kota Samarahan",
+  "postcode": "94300",
+  "address": "Universiti Malaysia Sarawak, 94300 Kota Samarahan, Sarawak, Malaysia",
+  "website": "https://www.unimas.my",
+  "email": "corporate@unimas.my",
+  "phone": "+60 82 58 1000",
+  "fax": "+60 82 665088",
+  "established": 1992,
+  "faculties_count": 10,
+  "programs_count": 90,
+  "faculty_members_count": 898,
+  "description": "Community-Driven University for a Sustainable World. Located in the heart of Borneo, UNIMAS is a prominent global player in empowering communities, nurturing creativity and pioneering innovation for a sustainable world.",
+  "sources": [
+    "https://www.unimas.my",
+    "https://www.studymalaysia.com/edu/unimas/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

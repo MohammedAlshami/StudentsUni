@@ -1,0 +1,21 @@
+{
+  "university": "University College TATI",
+  "university_slug": "uc-tati",
+  "level": "bachelor",
+  "program_name": "Bachelor of Information Technology with Business Management (Honours)",
+  "field": "Information Technology",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "KPT: R3/0611/6/0037 (01/2033) - MQA: A 9351",
+  "sources": [
+    {
+      "url": "https://www.uctati.edu.my/Undergraduate.html",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

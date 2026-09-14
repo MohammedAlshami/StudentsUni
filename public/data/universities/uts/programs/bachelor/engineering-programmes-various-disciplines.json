@@ -1,0 +1,17 @@
+{
+  "university": "University of Technology Sarawak",
+  "university_slug": "uts",
+  "level": "bachelor",
+  "program_name": "Engineering programmes (various disciplines)",
+  "field": "engineering",
+  "duration": null,
+  "mode": "full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "MQA approved, EAC accredited",
+  "sources": ["https://en.wikipedia.org/wiki/University_of_Technology_Sarawak"],
+  "confidence": "low",
+  "notes": "UTS School of Engineering and Technology offers engineering programmes. Exact programme names not available from accessible sources.",
+  "last_updated": "2026-09-14"
+}

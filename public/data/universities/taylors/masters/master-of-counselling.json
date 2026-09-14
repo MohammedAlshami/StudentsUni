@@ -1,0 +1,28 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "masters",
+  "program_name": "Master of Counselling",
+  "slug": "master-of-counselling",
+  "program_slug": "master-of-counselling",
+  "field": "Liberal Arts",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 50,
+    "international_total": 18,
+    "per_year_local": 100,
+    "per_year_international": 36,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/master-coursework/master-of-counselling.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "bachelor-of-marine-engineering-technology-hons",
+    "program_name": "Bachelor of Marine Engineering Technology (Hons)",
+    "field": "marine-engineering"
+  },
+  {
+    "slug": "bachelor-of-nautical-studies-hons",
+    "program_name": "Bachelor of Nautical Studies (Hons)",
+    "field": "nautical-studies"
+  },
+  {
+    "slug": "engineering-programmes-various-disciplines",
+    "program_name": "Engineering programmes (various disciplines)",
+    "field": "engineering"
+  },
+  {
+    "slug": "business-and-management-programmes",
+    "program_name": "Business and Management programmes",
+    "field": "business"
+  },
+  {
+    "slug": "built-environment-programmes",
+    "program_name": "Built Environment programmes",
+    "field": "built-environment"
+  },
+  {
+    "slug": "computing-and-creative-media-programmes",
+    "program_name": "Computing and Creative Media programmes",
+    "field": "computing"
+  }
+]

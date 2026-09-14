@@ -1,0 +1,273 @@
+{
+  "university": "Multimedia University",
+  "university_slug": "mmu",
+  "level": "bachelor",
+  "program_count": 44,
+  "programs": [
+    {
+      "slug": "bachelor-of-communication-strategic-communication-hons",
+      "name": "Bachelor of Communication (Strategic Communication) (Hons)",
+      "field": "Communication",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-engineering-hons-electronics-majoring-in-telecommunications",
+      "name": "Bachelor of Engineering (Hons.) Electronics majoring in Telecommunications",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-engineering-hons-electronics",
+      "name": "Bachelor of Engineering (Hons.) Electronics",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-engineering-hons-electrical",
+      "name": "Bachelor of Electrical and Electronics Engineering with Honours",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-engineering-hons-electronics-majoring-in-nanotechnology",
+      "name": "Bachelor of Engineering (Hons.) Electronics majoring in Nanotechnology",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-cinematic-arts-hons",
+      "name": "Bachelor of Cinematic Arts (Hons.)",
+      "field": "Cinematic Arts",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-science-hons-intelligent-robotics",
+      "name": "Bachelor of Science (Hons.) Intelligent Robotics",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-digital-enterprise-management-hons",
+      "name": "Bachelor of Digital Enterprise Management (Hons.)",
+      "field": "Management",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-multimedia-hons-visual-effects",
+      "name": "Bachelor of Multimedia (Hons) Visual Effects",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-computer-science-hons",
+      "name": "Bachelor of Computer Science (Hons.)",
+      "field": "Computer Science",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-multimedia-hons-animation",
+      "name": "Bachelor of Multimedia (Hons) Animation",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-management-hons-human-resources-management-odl",
+      "name": "Bachelor of Management (Hons.) Human Resources Management (ODL)",
+      "field": "Management",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-analytical-economics-hons",
+      "name": "Bachelor of Analytical Economics (Hons.)",
+      "field": "Economics",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-accounting-hons",
+      "name": "Bachelor of Accounting (Hons.)",
+      "field": "Accounting",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-management-hons-odl",
+      "name": "Bachelor of Management (Hons.) (ODL)",
+      "field": "Management",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-information-technology-hons-information-systems",
+      "name": "Bachelor of Information Technology (Hons.) Information Systems",
+      "field": "Information Technology",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-marketing-hons",
+      "name": "Bachelor of Marketing (Hons.)",
+      "field": "Marketing",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-business-management-hons",
+      "name": "Bachelor of Business Management (Hons.)",
+      "field": "Business",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-management-hons-marketing-management-odl",
+      "name": "Bachelor of Management (Hons.) Marketing Management (ODL)",
+      "field": "Management",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-financial-engineering-hons",
+      "name": "Bachelor of Financial Engineering (Hons.)",
+      "field": "Finance",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-multimedia-hons-advertising-design",
+      "name": "Bachelor of Multimedia (Hons.) Advertising Design",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-finance-hons",
+      "name": "Bachelor of Finance (Hons.)",
+      "field": "Finance",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-engineering-hons-electronics-majoring-in-computer",
+      "name": "Bachelor of Engineering (Hons.) Electronics majoring in Computer",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-multimedia-hons-interface-design",
+      "name": "Bachelor of Multimedia (Hons.) Interface Design",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-multimedia-hons-media-arts",
+      "name": "Bachelor of Multimedia (Hons.) Media Arts",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-multimedia-hons-virtual-reality",
+      "name": "Bachelor of Multimedia (Hons.) Virtual Reality",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-information-technology-hons",
+      "name": "Bachelor of Information Technology (Honours)",
+      "field": "Information Technology",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-computer-science-hons-artificial-intelligence",
+      "name": "Bachelor of Computer Science (Honours) (Artificial Intelligence)",
+      "field": "Computer Science",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-information-technology-hons-security-technology",
+      "name": "Bachelor of Information Technology (Honours) (Security Technology)",
+      "field": "Information Technology",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-information-technology-hons-data-communications-and-networking",
+      "name": "Bachelor of Information Technology (Honours) (Data Communications and Networking)",
+      "field": "Information Technology",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-information-technology-hons-business-intelligence-and-analytics",
+      "name": "Bachelor of Information Technology (Honours) (Business Intelligence and Analytics)",
+      "field": "Information Technology",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-science-hons-bioinformatics",
+      "name": "Bachelor of Science (Hons) Bioinformatics",
+      "field": "Computer Science",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-science-hons-applied-artificial-intelligence",
+      "name": "Bachelor of Science (Honours) in Applied Artificial Intelligence",
+      "field": "Computer Science",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-engineering-hons-mechanical",
+      "name": "Bachelor of Engineering (Hons) Mechanical",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-electronics-engineering-robotics-and-automation-hons",
+      "name": "Bachelor of Electronics Engineering (Robotics and Automation) with Honours",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-engineering-hons-electronics-majoring-in-telecommunications-melaka",
+      "name": "Bachelor of Engineering (Honours) Electronics majoring in Telecommunications (Melaka)",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-digital-technology-hons",
+      "name": "Bachelor of Digital Technology (Honours)",
+      "field": "Information Technology",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-business-administration-hons-human-resource-management",
+      "name": "Bachelor in Business Administration (Honours) (Human Resource Management)",
+      "field": "Business Administration",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-business-administration-hons-marketing-management",
+      "name": "Bachelor in Business Administration (Hons) (Marketing Management)",
+      "field": "Business Administration",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-business-administration-hons-banking-and-finance",
+      "name": "Bachelor of Business Administration (Hons) Banking and Finance",
+      "field": "Business Administration",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-accounting-hons-melaka",
+      "name": "Bachelor in Accounting (Honours) (Melaka)",
+      "field": "Accounting",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-business-administration-hons-international-business",
+      "name": "Bachelor of Business Administration (Hons) (International Business)",
+      "field": "Business Administration",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-business-administration-hons-digital-business-management",
+      "name": "Bachelor of Business Administration (Hons) (Digital Business Management)",
+      "field": "Business Administration",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "bachelor-of-law-hons",
+      "name": "Bachelor of Law (Hons)",
+      "field": "Law",
+      "detail_status": "complete"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

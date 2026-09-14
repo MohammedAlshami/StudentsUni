@@ -1,0 +1,39 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "bachelor",
+  "program_name": "Bachelor of Early Childhood Education (Honours)",
+  "program_slug": "bachelor-of-early-childhood-education-honours",
+  "field": "Education",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Feb",
+    "Jan",
+    "May",
+    "Sep",
+    "Aug"
+  ],
+  "fees": {
+    "local": "RM76,800.00",
+    "international": null,
+    "local_total": 24779,
+    "currency": "MYR",
+    "international_total": 27017
+  },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0058729/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

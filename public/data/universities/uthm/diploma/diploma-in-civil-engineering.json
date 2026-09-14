@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "diploma",
+  "program_name": "Diploma in Civil Engineering",
+  "program_slug": "diploma-in-civil-engineering",
+  "field": "Engineering & Engineering Trades",
+  "faculty": "Civil Engineering and Built Environment",
+  "duration": "5 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "225/sem",
+    "international": null,
+    "currency": "MYR",
+    "local_total": 3250,
+    "per_year_local": 1300,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 9750,
+    "per_year_international": 3900
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0000110/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

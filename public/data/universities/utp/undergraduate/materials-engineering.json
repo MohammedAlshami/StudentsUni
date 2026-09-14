@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Materials Engineering with Honours",
+  "slug": "materials-engineering",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": null,
+    "currency": "MYR",
+    "note": "Contact university for current fee rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Mathematics, Additional Mathematics, Physics, Chemistry, and English"
+  },
+  "accreditation": "N/0714/6/0012 (04/26) MQA/FA11225",
+  "description": "Covers material science, metallurgy, polymer science, ceramic materials, and material characterization. Prepares graduates for careers in manufacturing, quality control, and materials research.",
+  "career_prospect": ["Materials Engineer", "Quality Engineer", "Process Engineer", "R&D Engineer", "Metallurgist"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

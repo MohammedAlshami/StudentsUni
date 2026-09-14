@@ -1,0 +1,618 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "masters",
+  "level_label": "Postgraduate Master Degree Studies",
+  "program_count": 30,
+  "programs": [
+    {
+      "program_name": "MSc in Software Engineering",
+      "program_slug": "msc-software-engineering",
+      "field": "Computing & Technology",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM38,800.00",
+        "international": "RM42,000.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-software-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0005496/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Science in Artificial Intelligence",
+      "program_slug": "msc-artificial-intelligence",
+      "field": "Computing & Technology",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM40,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-artificial-intelligence",
+        "https://www.studymalaysia.com/what/course/APU/0005519/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Science in Cyber Security",
+      "program_slug": "msc-cyber-security",
+      "field": "Computing & Technology",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM40,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-cyber-security",
+        "https://www.studymalaysia.com/what/course/APU/0056885/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "MSc in Data Science and Business Analytics",
+      "program_slug": "msc-data-science-business-analytics",
+      "field": "Computing & Technology",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM36,800.00",
+        "international": "RM36,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-data-science-and-business-analytics",
+        "https://www.studymalaysia.com/what/course/APU/0006106/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "MSc in Information Technology Management",
+      "program_slug": "msc-information-technology-management",
+      "field": "Computing & Technology",
+      "duration": "FT: 1 year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM38,800.00",
+        "international": "RM42,000.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-information-technoloy-management",
+        "https://www.studymalaysia.com/what/course/APU/0058859/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Technology Management",
+      "program_slug": "master-technology-management",
+      "field": "Computing & Technology",
+      "duration": "1+ years",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM38,800.00",
+        "international": "RM42,000.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/master-technology-management",
+        "https://www.studymalaysia.com/what/course/APU/0005498/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Science in Digital Transformation",
+      "program_slug": "msc-digital-transformation",
+      "field": "Computing & Technology",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM38,800.00",
+        "international": "RM42,000.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-digital-transformation",
+        "https://www.studymalaysia.com/what/course/APU/0058651/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "program_slug": "mba",
+      "field": "Business & Management",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-business-administration",
+        "https://www.studymalaysia.com/what/course/APU/0006317/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Business Administration with a specialism in Digital Leadership",
+      "program_slug": "mba-digital-leadership",
+      "field": "Business & Management",
+      "duration": "FT: 1+ years; PT: 2.5-3 years",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-business-administration-digital-leadership",
+        "https://www.studymalaysia.com/what/course/APU/0058141/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Business Administration with a specialism in Business Analytics",
+      "program_slug": "mba-business-analytics",
+      "field": "Business & Management",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-business-administration-business-analytics",
+        "https://www.studymalaysia.com/what/course/APU/0009930/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Business Administration with a specialism in Supply Chain Management",
+      "program_slug": "mba-supply-chain-management",
+      "field": "Business & Management",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-business-administration-supply-chain-management",
+        "https://www.studymalaysia.com/what/course/APU/0058532/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Business Administration with a specialism in Hospitality and Tourism",
+      "program_slug": "mba-hospitality-tourism",
+      "field": "Business & Management",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-business-administration-hospitality-and-tourism",
+        "https://www.studymalaysia.com/what/course/APU/0058654/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Business Administration with a specialism in Artificial Intelligence (MBAi)",
+      "program_slug": "mba-ai",
+      "field": "Business & Management",
+      "duration": "FT: 1 year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-business-administration-ai",
+        "https://www.studymalaysia.com/what/course/APU/0058860/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Business Administration with a specialism in Oil and Gas Management",
+      "program_slug": "mba-oil-gas-management",
+      "field": "Business & Management",
+      "duration": "FT: 1 year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-business-administration-oil-and-gas-management",
+        "https://www.studymalaysia.com/what/course/APU/0058861/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master in Digital Communication",
+      "program_slug": "master-digital-communication",
+      "field": "Digital Marketing & Media",
+      "duration": "FT: 1 year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM38,800.00",
+        "international": "RM42,000.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/master-digital-Communication",
+        "https://www.studymalaysia.com/what/course/APU/0058862/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Science in Digital Marketing",
+      "program_slug": "msc-digital-marketing",
+      "field": "Digital Marketing & Media",
+      "duration": "FT: 1+ year; PT: 2 years 5 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-science-digital-marketing",
+        "https://www.studymalaysia.com/what/course/APU/0058655/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Project Management",
+      "program_slug": "master-project-management",
+      "field": "Business & Management",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-project-management",
+        "https://www.studymalaysia.com/what/course/APU/0009935/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Accounting",
+      "program_slug": "master-accounting",
+      "field": "Accounting & Finance",
+      "duration": "1+ years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-accounting",
+        "https://www.studymalaysia.com/what/course/APU/0055059/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Accounting in Forensic Analysis",
+      "program_slug": "master-accounting-forensic-analysis",
+      "field": "Accounting & Finance",
+      "duration": "1+ year",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-accounting-forensic-analysis",
+        "https://www.studymalaysia.com/what/course/APU/0055060/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Finance",
+      "program_slug": "master-finance",
+      "field": "Accounting & Finance",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM38,800.00",
+        "international": "RM42,000.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-finance",
+        "https://www.studymalaysia.com/what/course/APU/0055061/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Finance with a specialism in FinTech",
+      "program_slug": "master-finance-fintech",
+      "field": "Accounting & Finance",
+      "duration": "FT: 1+ year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM38,800.00",
+        "international": "RM42,000.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-finance-FinTech",
+        "https://www.studymalaysia.com/what/course/APU/0057830/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Science in Actuarial Science",
+      "program_slug": "msc-actuarial-science",
+      "field": "Actuarial Studies",
+      "duration": "FT: 1 year; PT: 2 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM34,800.00",
+        "international": "RM38,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-actuarial-science",
+        "https://www.studymalaysia.com/what/course/APU/0058656/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Science in Actuarial Science with a specialism in Business Analytics",
+      "program_slug": "msc-actuarial-science-business-analytics",
+      "field": "Actuarial Studies",
+      "duration": null,
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-actuarial-science-business-analytics"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Science in Actuarial Science with a specialism in Economics",
+      "program_slug": "msc-actuarial-science-economics",
+      "field": "Actuarial Studies",
+      "duration": null,
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-actuarial-science-economics"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Arts in Design Innovation Management",
+      "program_slug": "ma-design-innovation-management",
+      "field": "Design & Creative Media",
+      "duration": null,
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-arts-innovation-management"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Philosophy in Engineering",
+      "program_slug": "mphil-engineering",
+      "field": "Engineering",
+      "duration": "FT: 2 years; PT: 3 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM27,500.00",
+        "international": "RM29,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-philosophy-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0009936/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Science in Computing",
+      "program_slug": "msc-computing",
+      "field": "Computing & Technology",
+      "duration": "FT: 2 years; PT: 3 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM27,500.00",
+        "international": "RM29,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-science-computing",
+        "https://www.studymalaysia.com/what/course/APU/0006100/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Philosophy in Immersive Technologies and Video Game Studies",
+      "program_slug": "mphil-immersive-technologies-video-game-studies",
+      "field": "Games Development",
+      "duration": "FT: 2 years; PT: 3 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM27,500.00",
+        "international": "RM29,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/master-philosophy-immersive-technologies-video-game-studies",
+        "https://www.studymalaysia.com/what/course/APU/0058863/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Philosophy in Management",
+      "program_slug": "mphil-management",
+      "field": "Business & Management",
+      "duration": "FT: 2 years; PT: 3 years 6 months",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM27,500.00",
+        "international": "RM29,800.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-of-philosophy-management",
+        "https://www.studymalaysia.com/what/course/APU/0009931/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Master of Education in Learning Design and Technology",
+      "program_slug": "med-learning-design-technology",
+      "field": "Education",
+      "duration": "FT: 1+ year; PT: 2 years",
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM30,600.00",
+        "international": "RM34,000.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/msc-in-education-in-learning-design-and-technology",
+        "https://www.studymalaysia.com/what/course/APU/0058657/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 26800.0,
+    "international_total": 28400.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: RM26,800.00"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/apu/courses/"
+  ],
+  "last_updated": "2026-09-15"
+}

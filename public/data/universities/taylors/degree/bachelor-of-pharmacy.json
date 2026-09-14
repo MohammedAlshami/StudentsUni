@@ -1,0 +1,28 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor of Pharmacy (Honours)",
+  "slug": "bachelor-of-pharmacy",
+  "program_slug": "bachelor-of-pharmacy",
+  "field": "Pharmacy",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 164900,
+    "international_total": 52620,
+    "per_year_local": 164900,
+    "per_year_international": 52620,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/undergraduate/bachelor-of-pharmacy.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

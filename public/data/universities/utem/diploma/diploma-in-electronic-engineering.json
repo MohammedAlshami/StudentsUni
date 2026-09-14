@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Teknikal Malaysia Melaka",
+  "university_slug": "utem",
+  "level": "diploma",
+  "program_name": "Diploma in Electronic Engineering",
+  "program_slug": "diploma-in-electronic-engineering",
+  "field": "Engineering & Engineering Trades",
+  "duration": "6 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "300/sem",
+    "international": null,
+    "currency": "MYR",
+    "local_total": 3900,
+    "international_total": 11700,
+    "per_year_local": 1300,
+    "per_year_international": 3900,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTEM/0001304/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

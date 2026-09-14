@@ -1,0 +1,194 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "bachelor",
+  "level_label": "Bachelor's Degree",
+  "program_count": 37,
+  "programs": [
+    {
+      "slug": "bachelor-of-arts-and-social-sciences",
+      "name": "Bachelor of Arts and Social Sciences",
+      "field": "Arts & Social Sciences"
+    },
+    {
+      "slug": "bachelor-of-digital-media-and-communication",
+      "name": "Bachelor of Digital Media and Communication",
+      "field": "Arts & Social Sciences"
+    },
+    {
+      "slug": "bachelor-of-arts-honours",
+      "name": "Bachelor of Arts (Honours)",
+      "field": "Arts & Social Sciences"
+    },
+    {
+      "slug": "bachelor-of-business-and-commerce",
+      "name": "Bachelor of Business and Commerce",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-business-and-commerce-honours",
+      "name": "Bachelor of Business and Commerce (Honours)",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-business-and-commerce-bachelor-of-digital-media-and-communication",
+      "name": "Bachelor of Business and Commerce and Bachelor of Digital Media and Communication",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-business-and-commerce-bachelor-of-computer-science",
+      "name": "Bachelor of Business and Commerce and Bachelor of Computer Science",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-digital-business",
+      "name": "Bachelor of Digital Business",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-in-actuarial-analytics",
+      "name": "Bachelor in Actuarial Analytics",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-civil-engineering-honours",
+      "name": "Bachelor of Civil Engineering (Honours)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-chemical-engineering-honours",
+      "name": "Bachelor of Chemical Engineering (Honours)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-electrical-and-computer-systems-engineering-honours",
+      "name": "Bachelor of Electrical and Computer Systems Engineering (Honours)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering-honours",
+      "name": "Bachelor of Mechanical Engineering (Honours)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-robotics-and-mechatronics-engineering-honours",
+      "name": "Bachelor of Robotics and Mechatronics Engineering (Honours)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-software-engineering-honours",
+      "name": "Bachelor of Software Engineering (Honours)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-materials-engineering-honours",
+      "name": "Bachelor of Materials Engineering (Honours)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-biomedical-engineering-honours",
+      "name": "Bachelor of Biomedical Engineering (Honours)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-computer-science",
+      "name": "Bachelor of Computer Science",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-computer-science-honours",
+      "name": "Bachelor of Computer Science (Honours)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-computer-science-in-data-science",
+      "name": "Bachelor of Computer Science in Data Science",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-computer-science-in-artificial-intelligence",
+      "name": "Bachelor of Computer Science in Artificial Intelligence",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-medical-science-and-doctor-of-medicine",
+      "name": "Bachelor of Medical Science and Doctor of Medicine",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-human-nutrition",
+      "name": "Bachelor of Human Nutrition",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-medical-science-honours",
+      "name": "Bachelor of Medical Science (Honours)",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-health-sciences-honours",
+      "name": "Bachelor of Health Sciences (Honours)",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-psychology",
+      "name": "Bachelor of Psychology",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-psychological-science",
+      "name": "Bachelor of Psychological Science",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-psychological-science-and-business",
+      "name": "Bachelor of Psychological Science and Business",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-psychological-science-honours",
+      "name": "Bachelor of Psychological Science (Honours)",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-pharmacy-honours",
+      "name": "Bachelor of Pharmacy (Honours)",
+      "field": "Pharmacy"
+    },
+    {
+      "slug": "bachelor-of-pharmaceutical-science",
+      "name": "Bachelor of Pharmaceutical Science",
+      "field": "Pharmacy"
+    },
+    {
+      "slug": "bachelor-of-pharmaceutical-science-honours",
+      "name": "Bachelor of Pharmaceutical Science (Honours)",
+      "field": "Pharmacy"
+    },
+    {
+      "slug": "bachelor-of-science",
+      "name": "Bachelor of Science",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-medical-bioscience",
+      "name": "Bachelor of Medical Bioscience",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-food-science-and-technology",
+      "name": "Bachelor of Food Science and Technology",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-honours",
+      "name": "Bachelor of Science (Honours)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-applied-data-science",
+      "name": "Bachelor of Applied Data Science",
+      "field": "Science"
+    }
+  ]
+}

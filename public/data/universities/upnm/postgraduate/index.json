@@ -1,0 +1,20 @@
+{
+  "level": "postgraduate",
+  "level_name": "Pascasiswazah",
+  "count": 2,
+  "programs": [
+    {
+      "name": "Sarjana (Mod Penyelidikan)",
+      "slug": "sarjana-penyelidikan"
+    },
+    {
+      "name": "Doktor Falsafah (Mod Penyelidikan)",
+      "slug": "doktor-falsafah-penyelidikan"
+    }
+  ],
+  "notes": "UPNM offers 141 research fields for Master and PhD programs, and 8 coursework Master programs. Specific program details are available in the UPNM Postgraduate Prospectus 2022-2026.",
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pasca-siswazah"
+  ],
+  "last_updated": "2026-09-14"
+}

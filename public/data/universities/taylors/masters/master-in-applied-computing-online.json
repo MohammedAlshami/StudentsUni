@@ -1,0 +1,40 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "masters",
+  "program_name": "Master in Applied Computing (100% Online)",
+  "slug": "master-in-applied-computing-online",
+  "program_slug": "master-in-applied-computing-online",
+  "field": "Computer Science",
+  "duration": "2 years",
+  "mode": "Online",
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Nov",
+    "Jun",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 14504,
+    "international_total": 16301,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/master-online/master-in-applied-computing-online.html",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

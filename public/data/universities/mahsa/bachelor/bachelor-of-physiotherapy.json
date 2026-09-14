@@ -1,0 +1,35 @@
+{
+  "university_slug": "mahsa",
+  "level": "bachelor",
+  "program_name": "Bachelor of Physiotherapy",
+  "program_slug": "bachelor-of-physiotherapy",
+  "field": "Medicine and Health",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 25225,
+    "international_total": 28125,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mahsa.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

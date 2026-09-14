@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Malaysia Perlis",
+  "university_slug": "unimap",
+  "abbreviation": "UniMAP",
+  "type": "public-university",
+  "state": "Perlis",
+  "city": "Kangar",
+  "website": "https://www.unimap.edu.my",
+  "established": 2002,
+  "faculties": [
+    "Faculty of Electronic Engineering & Technology",
+    "Faculty of Electrical Engineering & Technology",
+    "Faculty of Mechanical Engineering & Technology",
+    "Faculty of Business and Communication",
+    "Faculty of Civil Engineering & Technology",
+    "Faculty of Chemical Engineering & Technology",
+    "Faculty of Intelligent Computing"
+  ],
+  "accreditation": {
+    "mqa": true,
+    "setsara": "Tier 5 (Excellent)",
+    "qs_ranking": 341
+  },
+  "sources": [
+    "https://www.unimap.edu.my",
+    "https://www.studymalaysia.com/edu/unimap/courses/",
+    "https://www.unimap.edu.my/index.php/en/directory/schools-faculty"
+  ],
+  "last_updated": "2026-09-14"
+}

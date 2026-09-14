@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "diploma",
+  "program_name": "Diploma in Music Performance",
+  "field": "Music Performance",
+  "duration": "2.5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 56,080",
+    "international": "RM 72,280",
+    "currency": "MYR",
+    "local_total": 56080,
+    "international_total": 72280,
+    "per_year_local": 56080,
+    "per_year_international": 72280,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057286/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "understanding-mqa-accreditation-why-it-actually-matters",
+  "title": "Understanding MQA Accreditation: Why It Actually Matters",
+  "category": "Choosing a Programme",
+  "tags": [
+    "MQA",
+    "accreditation",
+    "quality assurance"
+  ],
+  "coverImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=80",
+  "author": "Aina R., Education Counsellor",
+  "date": "2026-03-16",
+  "readTimeMin": 4,
+  "excerpt": "Accreditation sounds like fine print until it affects your job offer or your postgraduate application. Here is what it actually protects you from.",
+  "intro": [
+    "The Malaysian Qualifications Agency (MQA) is the national body responsible for quality-assuring higher education programmes and maintaining the Malaysian Qualifications Register (MQR), which is the official record of exactly which programmes are actually recognised in Malaysia."
+  ],
+  "sections": [
+    {
+      "heading": "What accreditation actually protects you from",
+      "paragraphs": [
+        "A degree from an unaccredited, or improperly accredited, programme can cause real, practical problems later. Employers and professional bodies may not recognise it. It may not be accepted for further postgraduate study, for certain government scholarships, or for particular visa categories. Accreditation is not bureaucratic box-ticking. It is what makes your degree count outside the institution that issued it in the first place."
+      ]
+    },
+    {
+      "heading": "Accreditation statuses explained",
+      "paragraphs": [],
+      "table": {
+        "headers": [
+          "Status",
+          "What It Means",
+          "Should You Be Concerned"
+        ],
+        "rows": [
+          [
+            "Full Accreditation",
+            "Programme has demonstrated sustained quality over time",
+            "No, this is the strongest status a programme can hold"
+          ],
+          [
+            "Provisional Accreditation",
+            "New programme, not yet produced a graduating cohort",
+            "No, this is normal and expected for genuinely new programmes"
+          ],
+          [
+            "Accreditation lapsed or not renewed",
+            "Programme failed to maintain required standards",
+            "Yes, investigate further before applying"
+          ],
+          [
+            "No listing found on MQR",
+            "Programme may be unaccredited or the name does not match exactly",
+            "Yes, contact MQA directly to confirm before applying"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Full accreditation vs provisional accreditation",
+      "paragraphs": [
+        "Provisional accreditation is given to genuinely new programmes before they have produced a graduating cohort. It is a normal and expected status, not automatically a red flag on its own. Full accreditation is granted after the programme has demonstrated sustained quality over a longer period. What is actually worth watching for is a programme with no accreditation status listed at all, or one that has run well past the point where it should have progressed from provisional to full status."
+      ]
+    },
+    {
+      "heading": "Professional body recognition is separate, and matters more in some fields",
+      "paragraphs": [
+        "For regulated professions, engineering through the Board of Engineers Malaysia (BEM), medicine through the Malaysian Medical Council (MMC), law through the Bar Council, and accounting through the Malaysian Institute of Accountants (MIA) among others, MQA accreditation alone does not guarantee you can practice. Check the specific professional body's own recognition list for the exact programme and university, not just its general MQA accreditation status."
+      ]
+    },
+    {
+      "heading": "How to check it yourself in five minutes",
+      "paragraphs": [
+        "The Malaysian Qualifications Register is the authoritative public source, and it is worth five minutes of searching the exact programme and university before applying, rather than relying solely on marketing materials. Brochures occasionally describe accreditation status in ways that are technically true but slightly misleading about timing or scope, so checking the primary source directly is always the safer move."
+      ]
+    },
+    {
+      "heading": "Mistakes students make around accreditation",
+      "paragraphs": [
+        "Accreditation confusion is one of the more expensive mistakes a student can make, since it is often discovered only after enrolling."
+      ],
+      "list": [
+        "Assuming a university's overall reputation guarantees every one of its individual programmes is fully accredited.",
+        "Not checking professional body recognition separately for regulated fields like engineering or medicine.",
+        "Taking a brochure's accreditation claim at face value instead of verifying it on the MQR directly.",
+        "Confusing provisional accreditation, which is normal for new programmes, with a quality warning sign.",
+        "Forgetting to recheck accreditation status if a programme was chosen more than a year before actually enrolling."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I still get a job with a degree from a provisionally accredited programme?",
+      "answer": "Yes, in most cases, since provisional accreditation is a normal and expected status for a genuinely new programme, not a quality concern. What matters most is that the programme progresses to full accreditation by the time you graduate."
+    },
+    {
+      "question": "How do I search the MQR for a specific programme?",
+      "answer": "The Malaysian Qualifications Register maintains a public searchable database where you can look up a programme by institution name and programme title to confirm its current accreditation status directly, rather than relying on secondhand information."
+    },
+    {
+      "question": "Does MQA accreditation guarantee I can work in a regulated profession?",
+      "answer": "Not on its own. Regulated professions such as engineering, medicine, law, and accounting require separate recognition from their specific professional body, in addition to general MQA accreditation, before you can formally practice."
+    }
+  ]
+}

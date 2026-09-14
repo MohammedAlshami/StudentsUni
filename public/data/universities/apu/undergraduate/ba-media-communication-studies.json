@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Arts (Honours) in Media and Communication Studies",
+  "program_slug": "ba-media-communication-studies",
+  "field": "Digital Marketing & Media",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM100,400.00",
+    "international": "RM108,500.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/bachelor-of-arts-media-and-communication-studies",
+    "https://www.studymalaysia.com/what/course/APU/0058840/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

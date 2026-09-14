@@ -1,0 +1,46 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor in International Business Management (Hons)",
+  "field": "Business Management & Administration",
+  "slug": "bachelor-in-international-business-management-hons",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Oct",
+    "Mar"
+  ],
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 17934,
+    "currency": "MYR",
+    "international_total": 22567,
+    "per_year_local": 5978,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058824/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,37 @@
+{
+  "level": "phd",
+  "university": "imu",
+  "programs": [
+    {
+      "slug": "behavioural-social-science",
+      "name": "Behavioural and Social Science (PhD)",
+      "mode": "Unknown",
+      "field": "Social Sciences"
+    },
+    {
+      "slug": "business-management",
+      "name": "Business and Management (PhD)",
+      "mode": "Unknown",
+      "field": "Business"
+    },
+    {
+      "slug": "health-professions-education",
+      "name": "Health Professions Education (PhD)",
+      "mode": "Unknown",
+      "field": "Education"
+    },
+    {
+      "slug": "healthcare-management",
+      "name": "Healthcare Management (PhD)",
+      "mode": "Unknown",
+      "field": "Health Sciences"
+    },
+    {
+      "slug": "medical-health-sciences",
+      "name": "Medical & Health Sciences (MSc/PhD)",
+      "mode": "Unknown",
+      "field": "Health Sciences"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

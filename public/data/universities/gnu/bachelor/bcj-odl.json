@@ -1,0 +1,25 @@
+{
+  "university": "GlobalNxt University",
+  "university_slug": "gnu",
+  "level": "bachelor",
+  "program_name": "Bachelor of Criminal Justice (Honours)",
+  "field": "Criminal Justice",
+  "duration": null,
+  "mode": "ODL",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": {
+    "mqa_code": "N-DL/1032/6/0009",
+    "expiry": "05/29",
+    "mqa_id": "MQA/PA17428"
+  },
+  "sources": [
+    {
+      "url": "https://www.globalnxt.edu.my",
+      "type": "official"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-14"
+}

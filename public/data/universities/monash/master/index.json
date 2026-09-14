@@ -1,0 +1,64 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "master",
+  "level_label": "Master's Degree",
+  "program_count": 11,
+  "programs": [
+    {
+      "slug": "master-of-communications-and-media-studies",
+      "name": "Master of Communications and Media Studies",
+      "field": "Arts & Social Sciences"
+    },
+    {
+      "slug": "master-of-professional-counselling",
+      "name": "Master of Professional Counselling",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "master-of-biomedical-science",
+      "name": "Master of Biomedical Science",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "master-of-engineering-science-research",
+      "name": "Master of Engineering Science (Research)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-philosophy-business",
+      "name": "Master of Philosophy (Business)",
+      "field": "Business"
+    },
+    {
+      "slug": "master-of-philosophy-information-technology",
+      "name": "Master of Philosophy (Information Technology)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "master-of-science-research",
+      "name": "Master of Science (Research)",
+      "field": "Science"
+    },
+    {
+      "slug": "master-of-arts",
+      "name": "Master of Arts",
+      "field": "Arts & Social Sciences"
+    },
+    {
+      "slug": "master-of-international-business",
+      "name": "Master of International Business",
+      "field": "Business"
+    },
+    {
+      "slug": "master-of-business-information-systems",
+      "name": "Master of Business Information Systems",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "master-of-pharmaceutical-science",
+      "name": "Master of Pharmaceutical Science",
+      "field": "Pharmacy"
+    }
+  ]
+}

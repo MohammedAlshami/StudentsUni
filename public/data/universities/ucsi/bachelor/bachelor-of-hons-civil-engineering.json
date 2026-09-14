@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of (Hons) Civil Engineering",
+  "field": "Civil Engineering",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 99,560",
+    "international": "RM 116,700",
+    "currency": "MYR",
+    "local_total": 99560,
+    "international_total": 116700,
+    "per_year_local": 99560,
+    "per_year_international": 116700,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0053373/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

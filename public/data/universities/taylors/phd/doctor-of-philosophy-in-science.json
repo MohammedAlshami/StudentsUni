@@ -1,0 +1,20 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "phd",
+  "program_name": "Doctor of Philosophy (PhD) in Science",
+  "slug": "doctor-of-philosophy-in-science",
+  "program_slug": "doctor-of-philosophy-in-science",
+  "field": "Biosciences",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/phd-research/doctor-of-philosophy-in-science.html"
+  ],
+  "confidence": 0.5,
+  "last_updated": "2026-09-14"
+}

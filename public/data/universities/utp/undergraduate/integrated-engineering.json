@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Integrated Engineering with Honours",
+  "slug": "integrated-engineering",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": "RM 160,000",
+    "currency": "MYR",
+    "note": "Total estimated fees; contact university for current rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Mathematics, Additional Mathematics, Physics, Chemistry, and English"
+  },
+  "accreditation": null,
+  "description": "New programme offering a multidisciplinary approach to engineering, integrating knowledge from multiple engineering disciplines. Prepares graduates for versatile engineering roles across industries.",
+  "career_prospect": ["Integrated Engineer", "Project Engineer", "Systems Engineer", "Technical Consultant"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://eduadvisor.my/university/universiti-teknologi-petronas-utp/all-courses",
+    "https://unienrol.com/study-malaysia/universiti-teknologi-petronas-utp/courses/all"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

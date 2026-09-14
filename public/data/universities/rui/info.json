@@ -1,0 +1,18 @@
+{
+  "name": "Raffles University Iskandar",
+  "abbreviation": "RUI",
+  "slug": "rui",
+  "type": "private-university",
+  "state": "Johor",
+  "website": null,
+  "studymalaysia_url": "https://studymalaysia.com/edu/rui/courses/",
+  "total_programs": 26,
+  "last_updated": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://raffles-university.edu.my/programme/rui/",
+      "publisher": "Raffles University",
+      "fetched_at": "2026-09-15"
+    }
+  ]
+}

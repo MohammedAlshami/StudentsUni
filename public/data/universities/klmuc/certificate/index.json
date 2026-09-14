@@ -1,0 +1,58 @@
+[
+  {
+    "program_name": "Certificate in Business Management",
+    "field": "Business & Entrepreneurship",
+    "duration": "4 Semesters / 1 Year 4 Months",
+    "mode": ["Full-time"],
+    "intakes": ["January", "May", "September"],
+    "fees": {"local": "RM 6,500"},
+    "requirements": null,
+    "accreditation": {"mqa_ref": "R/0414/3/0045", "valid_until": "04/30"},
+    "campus": "KLMUC (multiple campuses)",
+    "sources": ["https://www.unitar.my/programmes/"],
+    "confidence": "high",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "program_name": "Certificate in Business Studies",
+    "field": "Business & Entrepreneurship",
+    "duration": "4 Semesters / 1 Year 4 Months",
+    "mode": ["Full-time"],
+    "intakes": ["January", "May", "September"],
+    "fees": {"local": "RM 6,500"},
+    "requirements": null,
+    "accreditation": {"mqa_ref": "R/0414/3/0011", "valid_until": "04/29"},
+    "campus": "KLMUC (multiple campuses)",
+    "sources": ["https://www.unitar.my/programmes/"],
+    "confidence": "high",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "program_name": "Certificate in Information Technology",
+    "field": "Computing",
+    "duration": "4 Semesters / 1 Year 4 Months",
+    "mode": ["Full-time"],
+    "intakes": ["January", "May", "September"],
+    "fees": {"local": "RM 6,500"},
+    "requirements": null,
+    "accreditation": null,
+    "campus": "KLMUC",
+    "sources": ["https://www.unitar.my/programmes/"],
+    "confidence": "medium",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "program_name": "Certificate in Early Childhood Education",
+    "field": "Education",
+    "duration": "4 Semesters / 1 Year 4 Months",
+    "mode": ["Full-time"],
+    "intakes": ["January", "May", "September"],
+    "fees": {"local": "RM 6,500"},
+    "requirements": null,
+    "accreditation": null,
+    "campus": "KLMUC",
+    "sources": ["https://www.unitar.my/programmes/"],
+    "confidence": "medium",
+    "last_updated": "2026-09-14"
+  }
+]

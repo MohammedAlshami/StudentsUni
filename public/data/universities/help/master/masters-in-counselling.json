@@ -1,0 +1,17 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "master",
+  "program_name": "Masters in Counselling",
+  "program_slug": "masters-in-counselling",
+  "field": "Social Sciences",
+  "duration": "Minimum 2 years (Full-Time), 3 years (Part-Time), Maximum 6 years",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "fees": { "local": "RM70,600.00", "international": null },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0006281/",
+    "https://www.help.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

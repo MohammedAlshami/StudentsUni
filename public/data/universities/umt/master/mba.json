@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Malaysia Terengganu",
+  "university_slug": "umt",
+  "level": "master",
+  "program_name": "Master of Business Administration",
+  "program_name_malay": "Sarjana Pentadbiran Perniagaan",
+  "program_slug": "mba",
+  "field": "Business Administration",
+  "type": "coursework",
+  "duration": "48 months",
+  "mode": "full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 15530.0,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: 15530/Course"
+  },
+  "requirements": null,
+  "accreditation": "MQA/FA0392",
+  "sources": [
+    "https://umt.my/all-programs-at-umt/",
+    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255",
+    "https://www.studymalaysia.com/edu/umt/courses/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,37 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Masters Degree",
+  "program_name": "Master of Science in Public Health (Global Health)",
+  "field": "Medicine & Healthcare",
+  "slug": "master-of-science-in-public-health-global-health",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Oct"
+  ],
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 46100,
+    "currency": "MYR",
+    "international_total": 52300
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058820/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

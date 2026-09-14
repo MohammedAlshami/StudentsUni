@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "bachelor-of-computer-science-with-honours",
+    "program_name": "Bachelor of Computer Science with Honours",
+    "field": "Computing",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "bachelor-of-software-engineering-with-honours",
+    "program_name": "Bachelor of Software Engineering with Honours",
+    "field": "Computing",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "bachelor-of-computer-engineering-with-honours",
+    "program_name": "Bachelor of Computer Engineering with Honours",
+    "field": "Engineering",
+    "duration": "4 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "bachelor-of-business-administration-management-information-systems-hons",
+    "program_name": "Bachelor of Business Administration (Management Information Systems) (Hons)",
+    "field": "Business",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  }
+]

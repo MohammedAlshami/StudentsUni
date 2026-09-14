@@ -1,0 +1,41 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Pre-University/Foundation Studies",
+  "program_name": "Foundation Programme in Management",
+  "field": "Business Management & Administration",
+  "slug": "foundation-programme-in-management",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "7280/Course",
+    "international": "7280/Course",
+    "local_total": 7280,
+    "currency": "MYR",
+    "international_total": 21505,
+    "per_year_local": 7280,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0008934/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/unitar/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

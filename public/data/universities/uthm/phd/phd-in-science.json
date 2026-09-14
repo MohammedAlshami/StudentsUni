@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "phd",
+  "program_name": "Ph.D in Science",
+  "program_slug": "phd-in-science",
+  "field": "Science",
+  "faculty": "Applied Sciences and Technology",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "9450/Course",
+    "international": "USD6220/Course",
+    "currency": "MYR",
+    "local_total": 37500,
+    "international_total": 112500,
+    "per_year_local": 12500,
+    "per_year_international": 37500,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "research_areas": "Physics, Mathematics and Statistics, Biology and Chemistry",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0053952/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

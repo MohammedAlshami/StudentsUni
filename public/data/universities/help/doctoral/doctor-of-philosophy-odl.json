@@ -1,0 +1,17 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "doctoral",
+  "program_name": "Doctor of Philosophy (Open & Distance Learning – ODL)",
+  "program_slug": "doctor-of-philosophy-odl",
+  "field": "Business Management & Administration",
+  "duration": "Full-time: min 3 years, max 5 years. Part-time: min 4 years, max 8 years.",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "fees": { "local": "RM38,000.00", "international": null },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0059083/",
+    "https://www.help.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "twintech",
+  "name": "Twintech International University College of Technology",
+  "abbr": "Twintech",
+  "type": "private-university-college",
+  "state": "Kuala Lumpur",
+  "city": "Petaling Jaya",
+  "website": "https://www.twintech.edu.my",
+  "levels_available": [
+    "diploma",
+    "undergraduate",
+    "postgraduate",
+    "doctorate"
+  ],
+  "program_counts": {
+    "diploma": 1,
+    "undergraduate": 1,
+    "postgraduate": 1,
+    "doctorate": 1
+  },
+  "sources": [
+    {
+      "url": "https://newtwintech.edu.my/",
+      "type": "official",
+      "note": "New website"
+    }
+  ],
+  "last_updated": "2026-09-15"
+}

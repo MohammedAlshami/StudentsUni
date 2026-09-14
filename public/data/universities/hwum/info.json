@@ -1,0 +1,34 @@
+{
+  "university": "Heriot-Watt University Malaysia",
+  "university_slug": "hwum",
+  "abbreviation": "HWUM",
+  "slug": "hwum",
+  "name": "Heriot-Watt University Malaysia",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": "Putrajaya",
+  "website": "https://www.hwum.edu.my",
+  "studymalaysia_url": null,
+  "levels_available": ["foundation", "undergraduate", "postgraduate"],
+  "program_counts": {},
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.hw.ac.uk/malaysia/study",
+      "type": "official",
+      "note": "Study page confirms foundation, undergraduate and postgraduate degrees available"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Heriot-Watt_University",
+      "type": "wikipedia",
+      "note": "Wikipedia page for parent university with campus in Putrajaya, Malaysia since 2012. Offers undergraduate and master's degrees."
+    },
+    {
+      "url": "https://www.hwum.edu.my",
+      "type": "official",
+      "note": "Malaysia campus website (connection issues during data collection)"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Branch campus of Heriot-Watt University (UK). Campus opened in Putrajaya in 2014. First green campus in Malaysia. Offers foundation, undergraduate and postgraduate programmes based on UK curriculum."
+}

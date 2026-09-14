@@ -1,0 +1,24 @@
+{
+  "university": "Curtin University Malaysia",
+  "university_slug": "curtin",
+  "level": "diploma",
+  "level_label": "Diploma",
+  "program_count": 3,
+  "programs": [
+    {
+      "slug": "diploma-of-commerce",
+      "name": "Diploma of Commerce",
+      "field": "Business & Commerce"
+    },
+    {
+      "slug": "diploma-of-information-technology",
+      "name": "Diploma of Information Technology",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "diploma-of-media-studies",
+      "name": "Diploma of Media Studies",
+      "field": "Humanities & Communications"
+    }
+  ]
+}

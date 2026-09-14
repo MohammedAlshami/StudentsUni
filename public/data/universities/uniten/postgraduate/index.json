@@ -1,0 +1,90 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "level": "postgraduate",
+  "level_name": "Postgraduate",
+  "programs_count": 16,
+  "programs": [
+    {
+      "program_name": "Master of Business Administration",
+      "program_slug": "master-of-business-administration",
+      "field": "Business"
+    },
+    {
+      "program_name": "Master of Energy Management",
+      "program_slug": "master-of-energy-management",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Master in Engineering Management",
+      "program_slug": "master-in-engineering-management",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Master of Electrical Engineering",
+      "program_slug": "master-of-electrical-engineering",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Master of Civil Engineering",
+      "program_slug": "master-of-civil-engineering",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Master of Mechanical Engineering",
+      "program_slug": "master-of-mechanical-engineering",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Master of Structural Engineering",
+      "program_slug": "master-of-structural-engineering",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Master of Information Technology",
+      "program_slug": "master-of-information-technology",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Master in Artificial Intelligence",
+      "program_slug": "master-in-artificial-intelligence",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Master in Data Science",
+      "program_slug": "master-in-data-science",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Master of Science in Accounting",
+      "program_slug": "master-of-science-in-accounting",
+      "field": "Business"
+    },
+    {
+      "program_name": "Master of Science in Finance",
+      "program_slug": "master-of-science-in-finance",
+      "field": "Business"
+    },
+    {
+      "program_name": "Master of Science in Management",
+      "program_slug": "master-of-science-in-management",
+      "field": "Business"
+    },
+    {
+      "program_name": "Doctor of Philosophy in Engineering",
+      "program_slug": "doctor-of-philosophy-in-engineering",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Doctor of Philosophy in Information & Communication Technology",
+      "program_slug": "doctor-of-philosophy-in-information-communication-technology",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Doctor of Philosophy in Business Management",
+      "program_slug": "doctor-of-philosophy-in-business-management",
+      "field": "Business"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

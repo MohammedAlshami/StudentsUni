@@ -1,0 +1,17 @@
+{
+  "university": "University of Wollongong Malaysia",
+  "university_slug": "uowm",
+  "level": "postgraduate",
+  "program_name": "Master of Science (Engineering)",
+  "program_slug": "master-science-engineering",
+  "field": "Engineering",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": ["https://www.uow.edu.my/programmes"],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

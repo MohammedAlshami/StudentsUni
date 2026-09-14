@@ -1,0 +1,20 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor in Philosophy, Politics, and Economics (Honours)",
+  "slug": "bachelor-in-philosophy-politics-and-economics",
+  "program_slug": "bachelor-in-philosophy-politics-and-economics",
+  "field": "Law",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/undergraduate/bachelor-in-philosophy-politics-and-economics.html"
+  ],
+  "confidence": 0.5,
+  "last_updated": "2026-09-14"
+}

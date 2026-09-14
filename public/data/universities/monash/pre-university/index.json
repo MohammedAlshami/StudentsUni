@@ -1,0 +1,79 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "pre-university",
+  "level_label": "Pre-University / Foundation / Diploma Pathway",
+  "program_count": 3,
+  "programs": [
+    {
+      "program_name": "Monash University Foundation Year (MUFY)",
+      "program_slug": "monash-university-foundation-year",
+      "field": "Foundation Studies",
+      "duration": "1 year (3 semesters)",
+      "mode": "Full-time",
+      "intakes": [
+        "January",
+        "April",
+        "August"
+      ],
+      "fees": {
+        "local": null,
+        "international": null,
+        "notes": "Enquire for fees"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.monash.edu.my/study/diploma-and-pathway/mufy"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma of Business",
+      "program_slug": "diploma-of-business",
+      "field": "Business",
+      "duration": "1.5 years (3 semesters)",
+      "mode": "Full-time",
+      "intakes": [
+        "February",
+        "July"
+      ],
+      "fees": {
+        "local": null,
+        "international": null,
+        "notes": "Enquire for fees"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.monash.edu.my/study/diploma-and-pathway/diploma-of-business"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma of Higher Education Studies",
+      "program_slug": "diploma-of-higher-education-studies",
+      "field": "General Studies",
+      "duration": "1.5 years (3 semesters)",
+      "mode": "Full-time",
+      "intakes": [
+        "February",
+        "July"
+      ],
+      "fees": {
+        "local": null,
+        "international": null,
+        "notes": "Enquire for fees"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.monash.edu.my/study/diploma-and-pathway/diploma-higher-education-studies"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    }
+  ]
+}

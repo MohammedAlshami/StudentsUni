@@ -1,0 +1,43 @@
+{
+  "university": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "university_slug": "umpsa",
+  "level": "phd",
+  "program_name": "Doctor of Philosophy (Gas Engineering)",
+  "field": "Engineering",
+  "duration": "12 Semesters",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 150000,
+    "international_total": 450000,
+    "per_year_local": 12500,
+    "per_year_international": 37500,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/ump/courses/",
+    "https://studymalaysia.com/what/course/UMP/0053978/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14",
+  "research_areas": "Gas Engineering"
+}

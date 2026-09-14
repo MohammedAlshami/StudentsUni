@@ -1,0 +1,23 @@
+{
+  "university": "Universiti Kuala Lumpur",
+  "university_slug": "unikl",
+  "level": "foundation",
+  "program_name": "Foundation in Medical Sciences (Bachelor of Pharmacy)",
+  "program_slug": "foundation-in-medical-sciences-pharmacy",
+  "field": "Medical Sciences",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "intakes": ["July"],
+  "fees": null,
+  "requirements": null,
+  "accreditation": {
+    "mqa_code": null,
+    "valid_until": null,
+    "additional_codes": null
+  },
+  "sources": [
+    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

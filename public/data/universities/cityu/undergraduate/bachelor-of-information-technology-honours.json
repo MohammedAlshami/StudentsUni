@@ -1,0 +1,40 @@
+{
+  "university": "City University Malaysia",
+  "university_slug": "cityu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Information Technology (Honours)",
+  "program_slug": "bachelor-of-information-technology-honours",
+  "field": "Computing & Technology",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Feb",
+    "Oct",
+    "Jun",
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 16134,
+    "international_total": 19850,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.city.edu.my",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

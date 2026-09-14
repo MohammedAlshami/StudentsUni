@@ -1,0 +1,37 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor of Applied Health Sciences (Honours)",
+  "slug": "bachelor-of-applied-health-sciences",
+  "program_slug": "bachelor-of-applied-health-sciences",
+  "field": "Biosciences",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 44145,
+    "international_total": 50862,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-applied-health-sciences.html",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

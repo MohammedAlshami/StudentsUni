@@ -1,0 +1,21 @@
+{
+  "university": "University College TATI",
+  "university_slug": "uc-tati",
+  "level": "foundation",
+  "program_name": "Foundation in Engineering",
+  "field": "Engineering",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "KPT: R3/010/3/0152 (08/2028) - MQA: A 9367",
+  "sources": [
+    {
+      "url": "https://www.uctati.edu.my/Undergraduate.html",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

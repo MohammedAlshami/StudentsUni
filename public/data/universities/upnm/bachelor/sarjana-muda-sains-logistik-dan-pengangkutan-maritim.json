@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Pertahanan Nasional Malaysia",
+  "university_slug": "upnm",
+  "level": "bachelor",
+  "program_name": "Sarjana Muda Sains (Kepujian) Logistik dan Pengangkutan Maritim",
+  "program_slug": "sarjana-muda-sains-logistik-dan-pengangkutan-maritim",
+  "field": "Transport Services",
+  "duration": "6 semesters",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 5400,
+    "international_total": 16200,
+    "per_year_local": 1800,
+    "per_year_international": 5400,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": "SPM+STPM/Matriculation+MUET",
+  "accreditation": "MQA",
+  "faculty": "Fakulti Sains dan Teknologi Pertahanan",
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pra-siswazah",
+    "https://www.studymalaysia.com/what/course/UPNM/0056963/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

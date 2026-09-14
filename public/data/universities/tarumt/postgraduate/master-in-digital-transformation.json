@@ -1,0 +1,37 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "postgraduate",
+  "program_name": "Master in Digital Transformation",
+  "program_slug": "master-in-digital-transformation",
+  "field": "Computing & IT",
+  "duration": "1 year (FT) / 2 years (PT)",
+  "mode": "Flexible",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 18600.0,
+    "international_total": 34900.0,
+    "per_year_local": 9300,
+    "per_year_international": 17450,
+    "notes": "From StudyMalaysia: RM18,600 (FT) RM19,500 (PT)"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/tarumt/",
+    "https://www.studymalaysia.com/edu/tarumt/courses/",
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": 0.85,
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,22 @@
+{
+  "university_slug": "uptm",
+  "level": "doctorate",
+  "program_name": "Doctor of Philosophy in Information Technology",
+  "program_slug": "doctor-of-philosophy-in-information-technology",
+  "field": "Computing",
+  "duration": "3-5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.uptm.edu.my/index.php/academics/programmes/post-graduates-programmes",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

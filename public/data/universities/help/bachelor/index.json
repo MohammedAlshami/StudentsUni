@@ -1,0 +1,214 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "bachelor",
+  "programs": [
+    {
+      "program_name": "Bachelor in Accounting (Honours)",
+      "program_slug": "bachelor-in-accounting-honours",
+      "field": "Accounting & Finance",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005667/"]
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Honours)",
+      "program_slug": "bachelor-of-information-technology-honours",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058730/"]
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Honours)",
+      "program_slug": "bachelor-of-computer-science-honours",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM88,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058728/"]
+    },
+    {
+      "program_name": "Bachelor of Psychology (Honours)",
+      "program_slug": "bachelor-of-psychology-honours",
+      "field": "Social Sciences",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM99,300.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058727/"]
+    },
+    {
+      "program_name": "Bachelor of Business Psychology (Honours)",
+      "program_slug": "bachelor-of-business-psychology-honours",
+      "field": "Social Sciences",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM85,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0059082/"]
+    },
+    {
+      "program_name": "Bachelor in Communication (Media Studies) (Honours)",
+      "program_slug": "bachelor-in-communication-media-studies-honours",
+      "field": "Communication & Broadcasting",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005730/"]
+    },
+    {
+      "program_name": "Bachelor in Marketing (Honours)",
+      "program_slug": "bachelor-in-marketing-honours",
+      "field": "Marketing & Sales",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005688/"]
+    },
+    {
+      "program_name": "Bachelor in International Business (Honours)",
+      "program_slug": "bachelor-in-international-business-honours",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005683/"]
+    },
+    {
+      "program_name": "Bachelor of Business (Human Resource Management) (Honours)",
+      "program_slug": "bachelor-of-business-human-resource-management-honours",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005682/"]
+    },
+    {
+      "program_name": "Bachelor of Business Analytics (Honours)",
+      "program_slug": "bachelor-of-business-analytics-honours",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058726/"]
+    },
+    {
+      "program_name": "Bachelor in Hospitality Management (Honours)",
+      "program_slug": "bachelor-in-hospitality-management-honours",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM87,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005681/"]
+    },
+    {
+      "program_name": "Bachelor in Information Technology (Data Analytics) (Honours)",
+      "program_slug": "bachelor-in-information-technology-data-analytics-honours",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058725/"]
+    },
+    {
+      "program_name": "Bachelor of Business (Finance) (Honours)",
+      "program_slug": "bachelor-of-business-finance-honours",
+      "field": "Accounting & Finance",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005673/"]
+    },
+    {
+      "program_name": "Bachelor of Business (Entrepreneurship) (Honours)",
+      "program_slug": "bachelor-of-business-entrepreneurship-honours",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005672/"]
+    },
+    {
+      "program_name": "UK Degree Transfer Programme (Law)",
+      "program_slug": "uk-degree-transfer-programme-law",
+      "field": "Law",
+      "duration": "2 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM65,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058745/"]
+    },
+    {
+      "program_name": "Bachelor of Communication (Marketing Communication) (Honours)",
+      "program_slug": "bachelor-of-communication-marketing-communication-honours",
+      "field": "Communication & Broadcasting",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005729/"]
+    },
+    {
+      "program_name": "Bachelor of Early Childhood Education (Honours)",
+      "program_slug": "bachelor-of-early-childhood-education-honours",
+      "field": "Education",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM76,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058729/"]
+    },
+    {
+      "program_name": "Bachelor of Communication (Public Relations) (Honours)",
+      "program_slug": "bachelor-of-communication-public-relations-honours",
+      "field": "Communication & Broadcasting",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM79,400.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005731/"]
+    },
+    {
+      "program_name": "Bachelor of Economics (Honours)",
+      "program_slug": "bachelor-of-economics-honours",
+      "field": "Social Sciences",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0007882/"]
+    },
+    {
+      "program_name": "Bachelor of Tourism Management (Honours)",
+      "program_slug": "bachelor-of-tourism-management-honours",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM87,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0056456/"]
+    },
+    {
+      "program_name": "Bachelor of Management (Honours)",
+      "program_slug": "bachelor-of-management-honours",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005818/"]
+    },
+    {
+      "program_name": "Bachelor of Laws (Honours)",
+      "program_slug": "bachelor-of-laws-honours",
+      "field": "Law",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM78,990.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005815/"]
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Honours)(2U 1I)(Work-Based Learning)",
+      "program_slug": "bachelor-of-information-technology-honours-2u-1i-work-based-learning",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM82,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0057835/"]
+    }
+  ]
+}

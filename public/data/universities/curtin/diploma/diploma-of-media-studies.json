@@ -1,0 +1,46 @@
+{
+  "university": "Curtin University Malaysia",
+  "university_slug": "curtin",
+  "level": "diploma",
+  "program_name": "Diploma of Media Studies",
+  "field": "Humanities & Communications",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "February",
+    "July",
+    "October"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 39800,
+    "international_total": 59000,
+    "per_year_local": "RM19,900",
+    "per_year_international": "RM29,500",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.curtin.edu.my/study/diploma/diploma-media-studies/",
+    "https://curtin.edu.my/study/fees-and-scholarships/course-fees/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

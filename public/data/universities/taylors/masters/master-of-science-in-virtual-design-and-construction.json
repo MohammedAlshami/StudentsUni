@@ -1,0 +1,40 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "masters",
+  "program_name": "Master of Science in Virtual Design and Construction",
+  "slug": "master-of-science-in-virtual-design-and-construction",
+  "program_slug": "master-of-science-in-virtual-design-and-construction",
+  "field": "Architecture",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Nov",
+    "Jun",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 43760,
+    "international_total": 59054,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/master-coursework/master-of-science-in-virtual-design-and-construction.html",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

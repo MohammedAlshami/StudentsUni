@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Sultan Zainal Abidin",
+  "university_slug": "unisza",
+  "level": "bachelor",
+  "program_name": "Bachelor of Accountancy (Hons)",
+  "slug": "bachelor-of-accountancy",
+  "field": "Accounting & Finance",
+  "duration": "8 Sem",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "600 - 1000/sem",
+    "international": "Enquire",
+    "currency": "MYR",
+    "local_total": 6800,
+    "per_year_local": 1700,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 20400,
+    "per_year_international": 5100
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unisza/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

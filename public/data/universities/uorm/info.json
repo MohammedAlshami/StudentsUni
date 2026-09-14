@@ -1,0 +1,20 @@
+{
+  "university": "University of Reading Malaysia",
+  "slug": "uorm",
+  "abbreviation": "UoRM",
+  "type": "private-university",
+  "state": "Johor",
+  "website": "https://www.reading.edu.my/",
+  "studymalaysia_url": "https://www.studymalaysia.com/edu/reading/courses/",
+  "levels": [
+    "pre-university",
+    "bachelors",
+    "masters",
+    "phd"
+  ],
+  "total_programs": 12,
+  "sources": [
+    "https://www.studymalaysia.com/edu/reading/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

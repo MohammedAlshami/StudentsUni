@@ -1,0 +1,31 @@
+{
+  "level": "executive",
+  "university": "gnu",
+  "programs": [
+    {
+      "slug": "womens-leadership-programme",
+      "name": "Women's Leadership Programme",
+      "mode": "Unknown",
+      "field": "Leadership"
+    },
+    {
+      "slug": "emerging-managers-leadership-programme",
+      "name": "Emerging Managers Leadership Programme",
+      "mode": "Unknown",
+      "field": "Leadership"
+    },
+    {
+      "slug": "faculty-certificate-online-teaching",
+      "name": "Faculty Certificate in Online Teaching",
+      "mode": "Unknown",
+      "field": "Education"
+    },
+    {
+      "slug": "digital-transformation-certificate",
+      "name": "Digital Transformation Certificate Programme",
+      "mode": "Unknown",
+      "field": "Digital Transformation"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,86 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor of Computer Science (Honours)",
+  "field": "Computer Science",
+  "slug": "bachelor-of-computer-science",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep",
+    "Feb"
+  ],
+  "fees": {
+    "local": "MYR 121,730",
+    "international": "USD 40,049",
+    "currency": "MYR",
+    "local_total": 38565,
+    "international_total": 45246,
+    "per_year_local": 94500,
+    "per_year_international": 31848,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "spm": "5 credits including Additional Mathematics",
+    "pre_u pathways": {
+      "ausmat_sacei": "ATAR 55",
+      "a_level": "Minimum DD",
+      "cpu": "Average 50% in 6 subjects",
+      "stpm": "Grade C in Mathematics and one Science/ICT subject",
+      "uec": "5Bs including Mathematics",
+      "foundation": "CGPA 2.00",
+      "diploma_it": "CGPA 2.50",
+      "ib": "Minimum 24 points in 6 subjects",
+      "mufy": "Overall 50%"
+    },
+    "english_requirements": {
+      "local": "Pass English / Taylor's EET 5.0",
+      "international": "IELTS 5.5"
+    }
+  },
+  "accreditation": "KPT/JPS (R2/0613/6/0149) (MQA/FA2541) 03/28",
+  "specialisations": [
+    "Data Science",
+    "Cyber Security",
+    "Mobile Computing",
+    "Artificial Intelligence"
+  ],
+  "dual_award": "University of the West of England (UWE)",
+  "triple_track_mode": [
+    "Conventional",
+    "Work-Based Learning",
+    "Technopreneurship"
+  ],
+  "offered_by": "School of Computer Science",
+  "career_prospects": [
+    "Applications Developer",
+    "Database Designer",
+    "E-Business Consultant",
+    "IT Consultant",
+    "Network Engineer",
+    "Programmer",
+    "Software Developer",
+    "Software Engineer",
+    "Systems Analyst",
+    "Systems Developer",
+    "Technical Support Engineer"
+  ],
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/undergraduate/bachelor-of-computer-science.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

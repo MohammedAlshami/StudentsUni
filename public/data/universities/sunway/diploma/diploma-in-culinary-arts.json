@@ -1,0 +1,48 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "diploma",
+  "program_name": "Diploma in Culinary Arts",
+  "program_slug": "diploma-in-culinary-arts",
+  "field": "Hospitality & Tourism",
+  "faculty": "School of Hospitality and Service Management",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr"
+  ],
+  "fees": {
+    "local": "From RM41,740",
+    "international": "International Administrative Fee RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 29925,
+    "per_year_local": null,
+    "notes": "Fee: FromRM41,740.00",
+    "international_total": 32175
+  },
+  "requirements": [
+    "SPM/SPMV/O-Level Pass with minimum 3 credits",
+    "UEC Pass with minimum 3 grade Bs",
+    "Other qualifications considered on a case-to-case basis"
+  ],
+  "accreditation": "MQA/FA 0076 3/6/2013 JPT/BPP(U)1000-801/57/Jld.13(27)",
+  "awarding_country": "Malaysia",
+  "exam_body": "Le Cordon Bleu",
+  "study_abroad": true,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0009146/",
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,41 @@
+{
+  "level": "foundation",
+  "level_label": "Pre-University / Foundation Studies",
+  "university": "Universiti Malaysia Sarawak",
+  "university_slug": "unimas",
+  "total_programs": 3,
+  "programs": [
+    {
+      "slug": "foundation-in-life-science",
+      "program_name": "Foundation in Life Science",
+      "field": "Science",
+      "duration": "2 semesters (12 months)",
+      "mode": "Full-time",
+      "local_fees_per_sem": 350,
+      "international_fees_per_sem": null,
+      "notes": "Bumiputera only"
+    },
+    {
+      "slug": "foundation-in-physical-science",
+      "program_name": "Foundation in Physical Science",
+      "field": "Science",
+      "duration": "2 semesters (12 months)",
+      "mode": "Full-time",
+      "local_fees_per_sem": 350,
+      "international_fees_per_sem": 6594.10,
+      "notes": "Bumiputera only"
+    },
+    {
+      "slug": "foundation-in-computing",
+      "program_name": "Foundation in Computing",
+      "field": "Computing & IT",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "local_fees_per_sem": null,
+      "international_fees_per_sem": null,
+      "notes": "Bumiputera only. Fees: Enquire for details."
+    }
+  ],
+  "sources": ["https://www.studymalaysia.com/edu/unimas/courses/"],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "master",
+  "program_name": "Master in Technical Education (Mechanical Engineering)",
+  "program_slug": "master-in-technical-education-mechanical-engineering",
+  "field": "Education",
+  "faculty": "Technical and Vocational Education",
+  "duration": "1.5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "4550/Course",
+    "international": "USD3060/Course",
+    "currency": "MYR",
+    "local_total": 4550.0,
+    "per_year_local": 1137.5,
+    "notes": "Fee: 4550/Course"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0004763/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

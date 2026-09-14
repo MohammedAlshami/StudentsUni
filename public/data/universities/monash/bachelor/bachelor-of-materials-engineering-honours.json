@@ -1,0 +1,45 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "bachelor",
+  "program_name": "Bachelor of Materials Engineering (Honours)",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "February",
+    "July",
+    "October"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 192404,
+    "international_total": 219660,
+    "per_year_local": "RM48,101 per year",
+    "per_year_international": "RM54,915 per year",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/undergraduate/engineering/bachelor-of-materials-engineering-honours"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

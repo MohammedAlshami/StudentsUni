@@ -1,0 +1,97 @@
+[
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "diploma",
+    "program_name": "Diploma in Islamic Studies",
+    "field": "Islamic Studies",
+    "slug": "diploma-in-islamic-studies",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-diploma"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "diploma",
+    "program_name": "Diploma in Accounting",
+    "field": "Business",
+    "slug": "diploma-in-accounting",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-diploma"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "diploma",
+    "program_name": "Diploma in Business Administration",
+    "field": "Business",
+    "slug": "diploma-in-business-administration",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-diploma"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "diploma",
+    "program_name": "Diploma in Computer Science",
+    "field": "Computer Science",
+    "slug": "diploma-in-computer-science",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-diploma"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "diploma",
+    "program_name": "Diploma in Education",
+    "field": "Education",
+    "slug": "diploma-in-education",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-diploma"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  }
+]

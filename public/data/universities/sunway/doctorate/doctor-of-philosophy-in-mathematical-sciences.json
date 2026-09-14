@@ -1,0 +1,43 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "doctorate",
+  "program_name": "Doctor of Philosophy in Mathematical Sciences",
+  "program_slug": "doctor-of-philosophy-in-mathematical-sciences",
+  "field": "Mathematics & Statistics",
+  "faculty": null,
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Jan"
+  ],
+  "fees": {
+    "local": "From RM49,680",
+    "international": "International Student Administration Fee: RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 20327,
+    "per_year_local": null,
+    "notes": "Fee: FromRM49,680.00",
+    "international_total": 22577
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0056971/",
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

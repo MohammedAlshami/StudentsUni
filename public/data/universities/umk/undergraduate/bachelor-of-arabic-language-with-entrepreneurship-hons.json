@@ -1,0 +1,42 @@
+{
+  "university": "Universiti Malaysia Kelantan",
+  "university_slug": "umk",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Arabic Language with Entrepreneurship (Hons)",
+  "field": "Languages (National language & other languages)",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 6400,
+    "international_total": 19200,
+    "per_year_local": 1600,
+    "per_year_international": 4800,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UMK/0057719/",
+    "https://www.studymalaysia.com/edu/umk/courses/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Science (Hons) in Architecture",
+  "field": "Architecture",
+  "duration": "3.3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 98,804",
+    "international": "RM 120,400",
+    "currency": "MYR",
+    "local_total": 98804,
+    "international_total": 120400,
+    "per_year_local": 98804,
+    "per_year_international": 120400,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0005512/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

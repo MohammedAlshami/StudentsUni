@@ -1,0 +1,19 @@
+{
+  "university": "Selangor Islamic University",
+  "university_slug": "uis",
+  "level": "phd",
+  "program_name": "Doctor of Philosophy in Education",
+  "field": "Education",
+  "slug": "doctor-of-philosophy-in-education",
+  "duration": null,
+  "mode": null,
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://study.uis.edu.my/peringkat-phd"
+  ],
+  "confidence": 0.5,
+  "last_updated": "2026-09-14"
+}

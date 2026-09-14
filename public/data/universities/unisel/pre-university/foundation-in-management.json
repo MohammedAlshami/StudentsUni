@@ -1,0 +1,37 @@
+{
+  "university": "University of Selangor",
+  "university_slug": "unisel",
+  "level": "pre-university",
+  "program_name": "Foundation in Management",
+  "field": "Business",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Jul",
+    "Nov"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 9000,
+    "international_total": 18000,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.studymalaysia.com/edu/unisel/courses/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "foundation-in-management"
+}

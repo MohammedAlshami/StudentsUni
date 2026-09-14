@@ -1,0 +1,18 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "doctorate",
+  "total_programs": 9,
+  "programs": [
+    { "program_name": "Doctor of Philosophy in Medical Science", "program_slug": "doctor-of-philosophy-in-medical-science" },
+    { "program_name": "Doctor of Philosophy in Creative Arts and Media", "program_slug": "doctor-of-philosophy-in-creative-arts-and-media" },
+    { "program_name": "Doctor of Philosophy in Mathematical Sciences", "program_slug": "doctor-of-philosophy-in-mathematical-sciences" },
+    { "program_name": "Doctor of Philosophy in Psychology", "program_slug": "doctor-of-philosophy-in-psychology" },
+    { "program_name": "Doctor of Philosophy in Biology", "program_slug": "doctor-of-philosophy-in-biology" },
+    { "program_name": "Doctor of Philosophy in Sustainable Development", "program_slug": "doctor-of-philosophy-in-sustainable-development" },
+    { "program_name": "Doctor of Philosophy (Computing)", "program_slug": "doctor-of-philosophy-computing" },
+    { "program_name": "Doctor of Philosophy in Sustainability Science and Technology", "program_slug": "doctor-of-philosophy-in-sustainability-science-and-technology" },
+    { "program_name": "Doctor of Philosophy (Business)", "program_slug": "doctor-of-philosophy-business" }
+  ],
+  "last_updated": "2026-09-14"
+}

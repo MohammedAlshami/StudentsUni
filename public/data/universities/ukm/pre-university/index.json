@@ -1,0 +1,32 @@
+{
+  "university": "Universiti Kebangsaan Malaysia",
+  "university_slug": "ukm",
+  "level": "pre-university",
+  "programs": [
+    {
+      "slug": "asasipintar-perdana",
+      "name": "ASASIpintar Perdana"
+    },
+    {
+      "slug": "asasipintar-komersial",
+      "name": "ASASIpintar Komersial"
+    },
+    {
+      "slug": "asasipintar-antarabangsa",
+      "name": "ASASIpintar Antarabangsa"
+    }
+  ],
+  "sources": [
+    "https://www.ukm.my/permatapintar/asasipintar/",
+    "https://www.studymalaysia.com/edu/ukm/courses/"
+  ],
+  "last_updated": "2026-09-15",
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 1200.0,
+    "per_year_international": null,
+    "notes": "Per semester: 600/sem"
+  }
+}

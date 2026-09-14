@@ -1,0 +1,50 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Design (Honours) in Graphic Design",
+  "program_slug": "bachelor-of-graphic-design",
+  "field": "Arts & Design",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
+  "fees": {
+    "local": "RM36,600.00",
+    "international": "RM64,000.00",
+    "local_total": 11700,
+    "currency": "MYR",
+    "international_total": 18800,
+    "per_year_local": 3900,
+    "per_year_international": 6267
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/tarumt/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

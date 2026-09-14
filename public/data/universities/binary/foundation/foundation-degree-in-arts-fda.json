@@ -1,0 +1,46 @@
+{
+  "university": "Binary University",
+  "university_slug": "binary",
+  "level": "foundation",
+  "program_name": "Foundation Degree in Arts (FDA)",
+  "program_slug": "foundation-degree-in-arts-fda",
+  "field": "general",
+  "duration": "1 year",
+  "mode": "Full-Time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "O Levels with minimum 5 credits",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "MQA approved",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://web.archive.org/web/20231209170826/https://binary.edu.my/bbs/",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-15"
+}

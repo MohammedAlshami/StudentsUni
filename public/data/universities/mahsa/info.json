@@ -1,0 +1,25 @@
+{
+  "slug": "mahsa",
+  "name": "MAHSA University",
+  "abbr": "MAHSA",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "city": "Petaling Jaya",
+  "website": "https://www.mahsa.edu.my",
+  "levels_available": [
+    "diploma",
+    "bachelor",
+    "master",
+    "doctorate"
+  ],
+  "program_counts": {
+    "diploma": 8,
+    "bachelor": 13,
+    "master": 7,
+    "doctorate": 4
+  },
+  "sources": [
+    "https://www.mahsa.edu.my"
+  ],
+  "last_updated": "2026-09-15"
+}

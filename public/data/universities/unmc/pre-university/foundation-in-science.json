@@ -1,0 +1,32 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "pre-university",
+  "program_name": "Foundation in Science",
+  "field": "Science",
+  "duration": "2-3 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM8,950/Sem",
+    "international": "RM10,130/Sem",
+    "local_total": 17900,
+    "per_year_local": 17900,
+    "international_total": 20260,
+    "per_year_international": 20260,
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15",
+  "slug": "foundation-in-science"
+}

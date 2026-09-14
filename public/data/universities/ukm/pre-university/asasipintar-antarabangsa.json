@@ -1,0 +1,41 @@
+{
+  "university": "Universiti Kebangsaan Malaysia",
+  "university_slug": "ukm",
+  "level": "pre-university",
+  "program_name": "ASASIpintar Antarabangsa",
+  "field": "Pre-University",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 2000,
+    "international_total": 6000,
+    "per_year_local": 1000,
+    "per_year_international": 3000,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.ukm.my/permatapintar/asasipintar/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14"
+}

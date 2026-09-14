@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "diploma",
+  "program_name": "Diploma in Culinary Arts",
+  "field": "Culinary Arts",
+  "duration": "2.5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 46,325",
+    "international": "RM 59,300",
+    "currency": "MYR",
+    "local_total": 46325,
+    "international_total": 59300,
+    "per_year_local": 46325,
+    "per_year_international": 59300,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0008898/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

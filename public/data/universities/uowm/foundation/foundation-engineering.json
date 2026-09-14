@@ -1,0 +1,37 @@
+{
+  "university": "University of Wollongong Malaysia",
+  "university_slug": "uowm",
+  "level": "foundation",
+  "program_name": "Foundation in Engineering",
+  "program_slug": "foundation-engineering",
+  "field": "Engineering",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 23660,
+    "international_total": 32910,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.uow.edu.my/programmes",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

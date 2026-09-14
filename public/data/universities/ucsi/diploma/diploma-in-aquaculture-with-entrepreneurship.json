@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "diploma",
+  "program_name": "Diploma in Aquaculture with Entrepreneurship",
+  "field": "Aquaculture with Entrepreneurship",
+  "duration": "2 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 55,777",
+    "international": "RM 67,039",
+    "currency": "MYR",
+    "local_total": 55777,
+    "international_total": 67039,
+    "per_year_local": 55777,
+    "per_year_international": 67039,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0055410/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

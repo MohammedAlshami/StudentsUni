@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "diploma",
+  "program_name": "Diploma in International Studies",
+  "program_slug": "diploma-international-studies",
+  "field": "International Relations",
+  "duration": "2+ years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM45,000.00",
+    "international": "RM54,200.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/diploma-in-international-studies",
+    "https://www.studymalaysia.com/what/course/APU/0056381/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

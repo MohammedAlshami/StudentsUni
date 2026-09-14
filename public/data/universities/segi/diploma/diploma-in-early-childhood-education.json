@@ -1,0 +1,30 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "diploma",
+  "program_name": "Diploma in Early Childhood Education",
+  "program_slug": "diploma-in-early-childhood-education",
+  "field": "Education (Teacher Training & Education Sciences)",
+  "duration": "2.5 Yrs",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 28000,
+    "international_total": 36000,
+    "per_year_local": "RM14,000-RM18,000",
+    "per_year_international": "RM18,000-RM25,000",
+    "notes": ""
+  },
+  "requirements": "SPM/O-Level \u2013 min. 3 credits; Any equivalent qualifications. International students: TOEFL 500 or IELTS 5.0",
+  "accreditation": "MQA/FA2108",
+  "campus": "SEGi University Kota Damansara, SEGi College Kota Damansara",
+  "faculty": "Early Childhood Care & Education",
+  "exam_body": "Internal Diploma, Malaysia",
+  "sources": [
+    "https://studymalaysia.com/what/course/SEGI/0054551/",
+    "https://eduswasta.my/university/segi-university/"
+  ],
+  "confidence": 0.85,
+  "last_updated": "2026-09-15"
+}

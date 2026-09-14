@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "master",
+  "program_name": "Master in Civil Engineering",
+  "program_slug": "master-in-civil-engineering",
+  "field": "Engineering & Engineering Trades",
+  "faculty": "Civil Engineering and Built Environment",
+  "duration": "Coursework: 1.5 Years; Research: 3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "Coursework: 4550/Course; Research: 3550/Course",
+    "international": "Coursework: USD2200/Course; Research: USD3060/Course",
+    "currency": "MYR",
+    "local_total": 4050.0,
+    "per_year_local": 1012.5,
+    "notes": "Fee: By Coursework : 4550/Course; By Research: 3550/Course"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0004734/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

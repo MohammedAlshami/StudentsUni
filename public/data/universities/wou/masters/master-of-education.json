@@ -1,0 +1,19 @@
+{
+  "university": "Wawasan Open University",
+  "university_slug": "wou",
+  "level": "masters",
+  "program_name": "Master of Education",
+  "field": "Education",
+  "duration": "2 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/wou/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "master-of-education"
+}

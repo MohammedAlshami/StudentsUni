@@ -1,0 +1,32 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "foundation",
+  "program_name": "Foundation in Business Management & Computing",
+  "slug": "business-management-computing",
+  "field": "Business & Computing",
+  "duration": "1 year",
+  "mode": "full-time",
+  "intakes": ["may"],
+  "fees": {
+    "total": "RM 17,700",
+    "currency": "MYR",
+    "note": "Total estimated fees; contact university for current rates"
+  },
+  "requirements": {
+    "spm": "5 credits including Mathematics, English, and relevant subjects"
+  },
+  "accreditation": "JPT/BPP(R3/0011/3/0066)(07/29)(A4231)",
+  "description": "Foundation programme designed to prepare students for undergraduate studies in business management and computing disciplines at UTP.",
+  "pathway_to": [
+    "Business Management",
+    "Computer Science",
+    "Information Systems",
+    "Information Technology"
+  ],
+  "sources": [
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

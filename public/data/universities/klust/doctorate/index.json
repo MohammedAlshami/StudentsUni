@@ -1,0 +1,7 @@
+[
+  {"slug": "phd-business-administration", "name": "Doctor of Philosophy (PhD) in Business Administration", "field": "Business"},
+  {"slug": "phd-communication", "name": "Doctor of Philosophy (PhD) in Communication", "field": "Communication"},
+  {"slug": "phd-information-technology", "name": "Doctor of Philosophy (PhD) in Information Technology", "field": "Computing"},
+  {"slug": "phd-civil-engineering", "name": "Doctor of Philosophy in Civil Engineering", "field": "Engineering"},
+  {"slug": "phd-education", "name": "Doctor of Philosophy in Education", "field": "Education"}
+]

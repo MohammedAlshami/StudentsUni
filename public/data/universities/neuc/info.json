@@ -1,0 +1,57 @@
+{
+  "slug": "neuc",
+  "name": "New Era University College",
+  "abbr": "NEUC",
+  "type": "private-university-college",
+  "state": "Selangor",
+  "city": "Kajang",
+  "website": "https://www.newera.edu.my",
+  "levels_available": [
+    "bachelor",
+    "diploma",
+    "foundation",
+    "master",
+    "phd"
+  ],
+  "program_counts": {
+    "foundation": 2,
+    "diploma": 14,
+    "bachelor": 14,
+    "master": 7,
+    "phd": 5
+  },
+  "sources": [
+    {
+      "url": "https://www.newera.edu.my/index.php",
+      "type": "official",
+      "note": "Full faculty/school listing retrieved from main page"
+    },
+    {
+      "url": "https://www.newera.edu.my/course_details.php?acalevel=2",
+      "type": "official",
+      "note": "Foundation programmes with MQA codes"
+    },
+    {
+      "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+      "type": "official",
+      "note": "Diploma programmes with MQA codes"
+    },
+    {
+      "url": "https://www.newera.edu.my/course_details.php?acalevel=1",
+      "type": "official",
+      "note": "Bachelor degree programmes with MQA codes"
+    },
+    {
+      "url": "https://www.newera.edu.my/gs.php",
+      "type": "official",
+      "note": "Postgraduate programmes (Masters and PhD) with MQA codes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Era_University_College",
+      "type": "wikipedia",
+      "note": "Faculties and history; established 1997, university college 2017"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Private non-profit. 6 faculties: FAME, FICT, FASS, FMCA, Education, Health/Safety/Security/Environment. Also has Graduate School, Institute of International Education, Institute of Ageing. DKU040(B). LCCI RTC, Cisco Networking Academy. Founded 1997, university college 2017. MAPCU affiliated. 42 programs verified from official website with MQA codes."
+}

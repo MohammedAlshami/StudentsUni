@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Business (Accounting)",
+  "field": "Accounting & Finance",
+  "slug": "bachelor-of-business-accounting",
+  "duration": "3 Yrs (6 Sem)",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "RM93,360",
+    "international": "RM118,320",
+    "currency": "MYR",
+    "local_total": 93360,
+    "international_total": 118320,
+    "per_year_local": 31120,
+    "per_year_international": 39440,
+    "notes": "Annual fee; total = annual x 3 years"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0001526/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

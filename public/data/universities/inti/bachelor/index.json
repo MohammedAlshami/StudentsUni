@@ -1,0 +1,122 @@
+{
+  "level": "bachelor",
+  "level_label": "Bachelor's Degree Level",
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "total_programs": 28,
+  "programs": [
+    {
+      "program_name": "Bachelor of Computer Science (Hons) (Digital Multimedia) (Dual-Award Degree)",
+      "program_slug": "bachelor-of-computer-science-hons-digital-multimedia-dual-award"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons) (Network Security) (Dual-Award Degree)",
+      "program_slug": "bachelor-of-computer-science-hons-network-security-dual-award"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons) (Mobile Development) (Dual-Award Degree)",
+      "program_slug": "bachelor-of-computer-science-hons-mobile-development-dual-award"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons)",
+      "program_slug": "bachelor-of-computer-science-hons"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons) (Specialisation in Network and Mobile Computing) (Dual-Award Degree)",
+      "program_slug": "bachelor-of-computer-science-hons-network-mobile-computing-dual-award"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons) (Specialisation in Software Engineering) (Dual-Award Degree)",
+      "program_slug": "bachelor-of-computer-science-hons-software-engineering-dual-award"
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Hons)",
+      "program_slug": "bachelor-of-information-technology-hons"
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) Finance",
+      "program_slug": "bachelor-of-business-hons-finance"
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) Accounting",
+      "program_slug": "bachelor-of-business-hons-accounting"
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) Marketing",
+      "program_slug": "bachelor-of-business-hons-marketing"
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) Human Resource Management",
+      "program_slug": "bachelor-of-business-hons-human-resource-management"
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) International Business",
+      "program_slug": "bachelor-of-business-hons-international-business"
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) Business Administration",
+      "program_slug": "bachelor-of-business-hons-business-administration"
+    },
+    {
+      "program_name": "Bachelor of Accountancy (Hons)",
+      "program_slug": "bachelor-of-accountancy-hons"
+    },
+    {
+      "program_name": "Bachelor of Financial Planning (Hons) (Dual-Award Degree)",
+      "program_slug": "bachelor-of-financial-planning-hons-dual-award"
+    },
+    {
+      "program_name": "Bachelor of Biotechnology (Hons)",
+      "program_slug": "bachelor-of-biotechnology-hons"
+    },
+    {
+      "program_name": "B.Eng. (Hons) Electrical & Electronic Engineering",
+      "program_slug": "beng-hons-electrical-electronic-engineering"
+    },
+    {
+      "program_name": "Bachelor of Engineering (Hons) in Mechanical Engineering",
+      "program_slug": "bachelor-of-engineering-hons-mechanical-engineering"
+    },
+    {
+      "program_name": "Bachelor of Engineering (Hons) in Civil Engineering",
+      "program_slug": "bachelor-of-engineering-hons-civil-engineering"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Quantity Surveying",
+      "program_slug": "bachelor-of-science-hons-quantity-surveying"
+    },
+    {
+      "program_name": "Bachelor of Mass Communication (Hons)",
+      "program_slug": "bachelor-of-mass-communication-hons"
+    },
+    {
+      "program_name": "Bachelor of Science in Physiotherapy (Hons)",
+      "program_slug": "bachelor-of-science-physiotherapy-hons"
+    },
+    {
+      "program_name": "Bachelor of Traditional Chinese Medicine (Hons)",
+      "program_slug": "bachelor-of-traditional-chinese-medicine-hons"
+    },
+    {
+      "program_name": "American Degree Transfer Program (Arts)",
+      "program_slug": "american-degree-transfer-program-arts"
+    },
+    {
+      "program_name": "American Degree Transfer Program (Applied Science)",
+      "program_slug": "american-degree-transfer-program-applied-science"
+    },
+    {
+      "program_name": "Australian Degree Transfer Programme (Commerce)",
+      "program_slug": "australian-degree-transfer-programme-commerce"
+    },
+    {
+      "program_name": "Australian Degree Transfer Programme (Science)",
+      "program_slug": "australian-degree-transfer-programme-science"
+    },
+    {
+      "program_name": "UK Degree Transfer Programmes (Law)",
+      "program_slug": "uk-degree-transfer-programmes-law"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

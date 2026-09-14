@@ -1,0 +1,31 @@
+{
+  "university": "IMU University",
+  "university_slug": "imu",
+  "level": "phd",
+  "program_name": "Medical & Health Sciences (MSc/PhD)",
+  "field": "Health Sciences",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 6500,
+    "international_total": 11800,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.imu.edu.my",
+      "type": "official"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

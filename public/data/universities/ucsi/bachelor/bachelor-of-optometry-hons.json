@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Optometry (Hons)",
+  "field": "Optometry",
+  "duration": "4 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 101,870",
+    "international": "RM 136,860",
+    "currency": "MYR",
+    "local_total": 101870,
+    "international_total": 136860,
+    "per_year_local": 101870,
+    "per_year_international": 136860,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0010014/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

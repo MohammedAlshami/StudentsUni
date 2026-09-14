@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "master",
+  "program_name": "Master of Music (Performance Studies)",
+  "field": "Music Performance Studies",
+  "duration": "1.25-3 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 44,810",
+    "international": "RM 69,150",
+    "currency": "MYR",
+    "local_total": 44810,
+    "international_total": 69150,
+    "per_year_local": 44810,
+    "per_year_international": 69150,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0010012/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

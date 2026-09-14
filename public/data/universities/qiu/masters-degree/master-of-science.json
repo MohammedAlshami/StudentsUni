@@ -1,0 +1,22 @@
+{
+  "university": "Quest International University",
+  "university_slug": "qiu",
+  "level": "Masters Degree",
+  "program_name": "Master of Science",
+  "field": "Science",
+  "slug": "master-of-science",
+  "duration": "Full-time: Minimum 2 years/Maximum 4 years; Part-time: Minimum 3 years/ Maximum 6 years",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to the University"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/qiu/0055313/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

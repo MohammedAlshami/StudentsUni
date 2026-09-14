@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Arts (Honours) in Human Resource Management with a specialism in People Analytics",
+  "program_slug": "ba-human-resource-management-people-analytics",
+  "field": "Business & Management",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM100,400.00",
+    "international": "RM108,500.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/ba-hons-human-resource-management-people-analytics",
+    "https://www.studymalaysia.com/what/course/APU/0058836/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

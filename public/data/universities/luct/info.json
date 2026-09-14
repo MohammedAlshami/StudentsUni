@@ -1,0 +1,23 @@
+{
+  "slug": "luct",
+  "name": "Limkokwing University of Creative Technology",
+  "abbr": "LUCT",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": "Cyberjaya",
+  "website": "https://www.limkokwing.edu.my",
+  "levels_available": ["pre-university", "diploma", "bachelor", "master", "doctorate"],
+  "program_counts": {
+    "pre-university": 1,
+    "diploma": 2,
+    "bachelor": 22,
+    "master": 3,
+    "doctorate": 1
+  },
+  "sources": [
+    "https://www.limkokwing.edu.my",
+    "https://limkokwing.net/malaysia/academic/courses/",
+    "https://en.wikipedia.org/wiki/Limkokwing_University_of_Creative_Technology"
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,28 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "masters",
+  "program_name": "Master of Science in Tourism",
+  "slug": "master-of-science-in-tourism",
+  "program_slug": "master-of-science-in-tourism",
+  "field": "Hospitality and Tourism",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 29300,
+    "international_total": 12520,
+    "per_year_local": 29300,
+    "per_year_international": 12520,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/master-research/master-of-science-in-tourism.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

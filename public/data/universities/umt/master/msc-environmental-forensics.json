@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Malaysia Terengganu",
+  "university_slug": "umt",
+  "level": "master",
+  "program_name": "Master of Science (Environmental Forensics)",
+  "program_name_malay": "Masters of Science (Environmental Forensics)",
+  "program_slug": "msc-environmental-forensics",
+  "field": "Environmental Science",
+  "type": "coursework",
+  "duration": "40 months",
+  "mode": "full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 10000,
+    "international_total": 30000,
+    "per_year_local": 5000,
+    "per_year_international": 15000,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": "MQA/FA9346",
+  "sources": [
+    "https://umt.my/all-programs-at-umt/",
+    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

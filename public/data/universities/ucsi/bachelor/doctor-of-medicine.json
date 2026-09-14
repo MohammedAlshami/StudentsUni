@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "bachelor",
+  "program_name": "Doctor of Medicine",
+  "field": "Medicine",
+  "duration": "5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 372,810",
+    "international": "RM 458,710",
+    "currency": "MYR",
+    "local_total": 372810,
+    "international_total": 458710,
+    "per_year_local": 372810,
+    "per_year_international": 458710,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0006135/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

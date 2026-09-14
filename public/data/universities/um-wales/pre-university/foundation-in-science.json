@@ -1,0 +1,39 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "pre-university",
+  "program_name": "Foundation In Science",
+  "field": "Science",
+  "duration": "1 year",
+  "mode": "Online",
+  "intakes": [
+    "May",
+    "Sep",
+    "Feb"
+  ],
+  "fees": {
+    "local": "RM14,800",
+    "international": "RM19,800",
+    "local_total": 13000,
+    "currency": "MYR",
+    "international_total": 17700
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "foundation-in-science"
+}

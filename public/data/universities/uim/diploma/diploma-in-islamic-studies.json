@@ -1,0 +1,22 @@
+{
+  "university_slug": "uim",
+  "level": "diploma",
+  "program_name": "Diploma in Islamic Studies",
+  "program_slug": "diploma-in-islamic-studies",
+  "field": "Islamic Sciences",
+  "duration": "2-3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.uim.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

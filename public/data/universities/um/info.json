@@ -1,0 +1,17 @@
+{
+  "slug": "um",
+  "name": "University of Malaya",
+  "abbr": "UM",
+  "type": "public-university",
+  "state": "Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "website": "https://www.um.edu.my",
+  "levels_available": ["bachelor", "master", "phd"],
+  "program_counts": {"bachelor": 82, "master": 95, "phd": 18},
+  "sources": [
+    {"url": "https://www.um.edu.my/faculties", "publisher": "UM Official Site", "fetched_at": "2026-09-14"},
+    {"url": "https://study.um.edu.my/programmes", "publisher": "UM Study Portal", "fetched_at": "2026-09-14"},
+    {"url": "https://studymalaysia.com/edu/um/courses/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"}
+  ],
+  "last_updated": "2026-09-14"
+}

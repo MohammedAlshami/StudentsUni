@@ -1,0 +1,25 @@
+{
+  "slug": "juc",
+  "name": "Jesselton University College",
+  "abbr": "JUC",
+  "type": "private-university-college",
+  "state": "Sabah",
+  "city": "Kota Kinabalu",
+  "website": "https://www.juc.edu.my",
+  "levels_available": [],
+  "program_counts": {},
+  "sources": [
+    {
+      "url": "https://www.juc.edu.my",
+      "type": "official",
+      "note": "Domain is parked (Exabytes); website no longer active"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_universities_in_Malaysia",
+      "type": "wikipedia",
+      "note": "Listed as university college in Malaysia's private university colleges list"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Jesselton University College. Domain appears to be parked/expired. No Wayback Machine archives available. No program data retrievable. Institution may have ceased operations or changed domain."
+}

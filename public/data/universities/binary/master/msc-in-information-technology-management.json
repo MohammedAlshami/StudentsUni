@@ -1,0 +1,46 @@
+{
+  "university": "Binary University",
+  "university_slug": "binary",
+  "level": "master",
+  "program_name": "MSc in Information Technology Management",
+  "program_slug": "msc-in-information-technology-management",
+  "field": "information-technology",
+  "duration": "2 years",
+  "mode": "Full-Time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "RM 16,000/year"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "Recognised Bachelor's degree",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "MQA approved",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://web.archive.org/web/20240229194734/https://binary.edu.my/bgs/",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-15"
+}

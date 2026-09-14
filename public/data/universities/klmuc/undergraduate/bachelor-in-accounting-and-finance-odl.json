@@ -1,0 +1,16 @@
+{
+  "university": "UNITAR University College Kuala Lumpur",
+  "university_slug": "klmuc",
+  "level": "bachelor",
+  "program_name": "Bachelor in Accounting and Finance",
+  "field": "Accounting & Finance",
+  "duration": "9 Semesters / 3 Years (Full time) | 18 Semesters / 6 Years (Part time)",
+  "mode": ["Full-time", "Part-time"],
+  "intakes": ["January", "May", "September"],
+  "fees": {"local": "RM 31,200 - RM 48,000"},
+  "requirements": null,
+  "accreditation": {"mqa_ref": "N/0411/6/0137", "valid_until": "06/31"},
+  "sources": ["https://www.unitar.my/programmes/"],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

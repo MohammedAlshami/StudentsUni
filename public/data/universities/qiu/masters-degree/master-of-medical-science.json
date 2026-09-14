@@ -1,0 +1,22 @@
+{
+  "university": "Quest International University",
+  "university_slug": "qiu",
+  "level": "Masters Degree",
+  "program_name": "Master of Medical Science",
+  "field": "Medicine & Healthcare",
+  "slug": "master-of-medical-science",
+  "duration": "Full-time: Minimum 2 years/Maximum 4 years; Part-time: Minimum 3 years/ Maximum 5 years",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "local": "14200/Course",
+    "international": "Refer to the University"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/qiu/0057245/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

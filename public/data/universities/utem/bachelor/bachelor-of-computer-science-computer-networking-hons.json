@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Teknikal Malaysia Melaka",
+  "university_slug": "utem",
+  "level": "bachelor",
+  "program_name": "Bachelor of Computer Science (Computer Networking) (Hons)",
+  "program_slug": "bachelor-of-computer-science-computer-networking-hons",
+  "field": "Computing & IT",
+  "duration": "7 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "850/sem",
+    "international": null,
+    "currency": "MYR",
+    "local_total": 5600,
+    "international_total": 16800,
+    "per_year_local": 1600,
+    "per_year_international": 4800,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTEM/0000865/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

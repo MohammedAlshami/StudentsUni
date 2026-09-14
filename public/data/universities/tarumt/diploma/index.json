@@ -1,0 +1,483 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "diploma",
+  "level_label": "Diploma",
+  "program_count": 48,
+  "programs": [
+    {
+      "program_name": "Diploma in Accounting",
+      "program_slug": "diploma-in-accounting",
+      "field": "Accounting & Finance",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,700.00",
+        "international": "RM45,300.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Advertising",
+      "program_slug": "diploma-in-advertising",
+      "field": "Communication & Broadcasting",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM20,000.00",
+        "international": "RM37,500.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Aquaculture",
+      "program_slug": "diploma-in-aquaculture",
+      "field": "Life Sciences",
+      "duration": "4 years (2yr MY + 2yr China)",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,300.00",
+        "international": "15400 RMB/year (Jimei University)"
+      }
+    },
+    {
+      "program_name": "Diploma in Banking and Finance",
+      "program_slug": "diploma-in-banking-and-finance",
+      "field": "Accounting & Finance",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM18,900.00",
+        "international": "RM43,700.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Broadcast Communication",
+      "program_slug": "diploma-in-broadcast-communication",
+      "field": "Communication & Broadcasting",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,700.00",
+        "international": "RM36,800.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Building",
+      "program_slug": "diploma-in-building",
+      "field": "Architecture & Building",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,800.00",
+        "international": "RM37,100.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Business Administration",
+      "program_slug": "diploma-in-business-administration",
+      "field": "Business Management & Administration",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,100.00",
+        "international": "RM44,100.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Business Economics",
+      "program_slug": "diploma-in-business-economics",
+      "field": "Business Management & Administration",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,100.00",
+        "international": "RM44,100.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Communication and Media Studies",
+      "program_slug": "diploma-in-communication-and-media-studies",
+      "field": "Communication & Broadcasting",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,800.00",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science",
+      "program_slug": "diploma-in-computer-science",
+      "field": "Computing & IT",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,300.00",
+        "international": "RM36,100.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Counselling",
+      "program_slug": "diploma-in-counselling",
+      "field": "Social Sciences",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,300.00",
+        "international": "RM36,100.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Culinary Arts",
+      "program_slug": "diploma-in-culinary-arts",
+      "field": "Hospitality & Tourism",
+      "duration": "2 years 4 months",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM20,100.00",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Diploma in E-Marketing",
+      "program_slug": "diploma-in-e-marketing",
+      "field": "Marketing & Sales",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,200.00",
+        "international": "RM44,400.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education",
+      "program_slug": "diploma-in-early-childhood-education",
+      "field": "Education",
+      "duration": "2 years 2 months (FT) / 3 years 7 months (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM19,500.00 (FT) / RM20,300.00 (PT)",
+        "international": "RM37,800.00 (FT) / RM40,100.00 (PT)"
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Special Education",
+      "program_slug": "diploma-in-early-childhood-special-education",
+      "field": "Education",
+      "duration": "2 years 2 months (FT) / 4 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM19,500.00 (FT) / RM20,300.00 (PT)",
+        "international": "RM37,800.00 (FT) / RM40,100.00 (PT)"
+      }
+    },
+    {
+      "program_name": "Diploma in Electronic Engineering",
+      "program_slug": "diploma-in-electronic-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "2 years 6 months",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM21,000.00",
+        "international": "RM39,700.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Entrepreneurship",
+      "program_slug": "diploma-in-entrepreneurship",
+      "field": "Business Management & Administration",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM18,900.00",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Diploma in Event Management",
+      "program_slug": "diploma-in-event-management",
+      "field": "Hospitality & Tourism",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,300.00",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Diploma in Fashion Design",
+      "program_slug": "diploma-in-fashion-design",
+      "field": "Arts & Design",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,800.00",
+        "international": "RM37,100.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Finance and Investment",
+      "program_slug": "diploma-in-finance-and-investment",
+      "field": "Accounting & Finance",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,100.00",
+        "international": "RM44,000.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Food Science",
+      "program_slug": "diploma-in-food-science",
+      "field": "Applied Sciences",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM20,000.00",
+        "international": "RM37,500.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Graphic Design",
+      "program_slug": "diploma-in-graphic-design",
+      "field": "Arts & Design",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM20,200.00",
+        "international": "RM37,800.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "program_slug": "diploma-in-hotel-management",
+      "field": "Hospitality & Tourism",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,300.00",
+        "international": "RM36,100.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Human Resource Management",
+      "program_slug": "diploma-in-human-resource-management",
+      "field": "Business Management & Administration",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,100.00",
+        "international": "RM44,000.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "program_slug": "diploma-in-information-technology",
+      "field": "Computing & IT",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,300.00",
+        "international": "RM36,100.00"
+      }
+    },
+    {
+      "program_name": "Diploma in International Business",
+      "program_slug": "diploma-in-international-business",
+      "field": "Business Management & Administration",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM18,900.00",
+        "international": "RM43,800.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Journalism",
+      "program_slug": "diploma-in-journalism",
+      "field": "Communication & Broadcasting",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM20,000.00",
+        "international": "RM37,500.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Logistics and Supply Chain Management",
+      "program_slug": "diploma-in-logistics-and-supply-chain-management",
+      "field": "Transport Services",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,200.00",
+        "international": "RM44,400.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Manufacturing Technology",
+      "program_slug": "diploma-in-manufacturing-technology",
+      "field": "Manufacturing & Processing",
+      "duration": "2 years 4 months",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM20,300.00",
+        "international": "RM38,900.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Marketing",
+      "program_slug": "diploma-in-marketing",
+      "field": "Marketing & Sales",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,200.00",
+        "international": "RM44,400.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Mechanical Engineering",
+      "program_slug": "diploma-in-mechanical-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "2 years 6 months",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM21,700.00",
+        "international": "RM41,100.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Mechatronic Engineering",
+      "program_slug": "diploma-in-mechatronic-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "2 years 6 months",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM21,700.00",
+        "international": "RM41,100.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Media Studies",
+      "program_slug": "diploma-in-media-studies",
+      "field": "Communication & Broadcasting",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,700.00",
+        "international": "RM36,800.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Multimedia Design",
+      "program_slug": "diploma-in-multimedia-design",
+      "field": "Arts & Design",
+      "duration": "2 years 4 months",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM20,200.00",
+        "international": "RM38,800.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Product Development Technology",
+      "program_slug": "diploma-in-product-development-technology",
+      "field": "Manufacturing & Processing",
+      "duration": "2 years 4 months",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM20,500.00",
+        "international": "RM39,200.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Public Relations",
+      "program_slug": "diploma-in-public-relations",
+      "field": "Communication & Broadcasting",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,700.00",
+        "international": "RM36,800.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Quantity Surveying",
+      "program_slug": "diploma-in-quantity-surveying",
+      "field": "Architecture & Building",
+      "duration": "2.5 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM21,800.00",
+        "international": "RM41,600.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Real Estate Management",
+      "program_slug": "diploma-in-real-estate-management",
+      "field": "Architecture & Building",
+      "duration": "2 years 4 months",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM21,800.00",
+        "international": "RM41,600.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Science",
+      "program_slug": "diploma-in-science",
+      "field": "Applied Sciences",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM20,000.00",
+        "international": "RM37,500.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Software Engineering",
+      "program_slug": "diploma-in-software-engineering",
+      "field": "Computing & IT",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,100.00",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Diploma in Sport and Exercise Science",
+      "program_slug": "diploma-in-sport-and-exercise-science",
+      "field": "Applied Sciences",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,500.00",
+        "international": "RM36,500.00"
+      }
+    },
+    {
+      "program_name": "Diploma in Tourism Management",
+      "program_slug": "diploma-in-tourism-management",
+      "field": "Hospitality & Tourism",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM19,300.00",
+        "international": "RM36,100.00"
+      }
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 10200.0,
+    "international_total": 18400.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: RM10,200.00"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/tarumt/courses/"
+  ],
+  "last_updated": "2026-09-15"
+}

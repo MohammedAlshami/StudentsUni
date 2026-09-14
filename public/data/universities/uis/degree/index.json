@@ -1,0 +1,154 @@
+[
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "degree",
+    "program_name": "Bachelor of Islamic Studies",
+    "field": "Islamic Studies",
+    "slug": "bachelor-of-islamic-studies",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "degree",
+    "program_name": "Bachelor of Accounting",
+    "field": "Business",
+    "slug": "bachelor-of-accounting",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "degree",
+    "program_name": "Bachelor of Business Administration",
+    "field": "Business",
+    "slug": "bachelor-of-business-administration",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "degree",
+    "program_name": "Bachelor of Computer Science",
+    "field": "Computer Science",
+    "slug": "bachelor-of-computer-science",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "degree",
+    "program_name": "Bachelor of Education",
+    "field": "Education",
+    "slug": "bachelor-of-education",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "degree",
+    "program_name": "Bachelor of Syariah",
+    "field": "Islamic Studies",
+    "slug": "bachelor-of-syariah",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "degree",
+    "program_name": "Bachelor of Media and Communication",
+    "field": "Media",
+    "slug": "bachelor-of-media-and-communication",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "degree",
+    "program_name": "Bachelor of Science in Halal Management",
+    "field": "Business",
+    "slug": "bachelor-of-science-in-halal-management",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  }
+]

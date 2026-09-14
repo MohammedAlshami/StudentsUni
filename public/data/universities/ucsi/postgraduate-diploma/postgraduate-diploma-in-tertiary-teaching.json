@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "postgraduate-diploma",
+  "program_name": "Postgraduate Diploma in Tertiary Teaching",
+  "field": "Tertiary Teaching",
+  "duration": "1-2 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 20,480",
+    "international": "RM 31,750",
+    "currency": "MYR",
+    "local_total": 20480,
+    "international_total": 31750,
+    "per_year_local": 20480,
+    "per_year_international": 31750,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057299/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

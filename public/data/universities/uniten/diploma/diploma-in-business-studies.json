@@ -1,0 +1,38 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "level": "diploma",
+  "program_name": "Diploma in Business Studies",
+  "program_slug": "diploma-in-business-studies",
+  "field": "Business",
+  "duration": "2.5 years",
+  "mode": "Full-time",
+  "intakes": ["January", "July", "September"],
+  "fees": {
+    "local": {
+      "tuition": null,
+      "registration": "RM1,348",
+      "medical_insurance": "RM88/year",
+      "accommodation_deposit": "RM250"
+    },
+    "international": {
+      "tuition": null,
+      "visa_application": "USD787.50 (RM3,150)",
+      "registration": "USD1,650 (RM6,600)",
+      "medical_insurance": null
+    }
+  },
+  "requirements": {
+    "local": "SPM / equivalent with credits in Mathematics and English",
+    "international": "Varies by country. Check MQA requirements."
+  },
+  "accreditation": {
+    "mqa_code": null,
+    "status": "Accredited by MQA"
+  },
+  "sources": [
+    "https://www.uniten.edu.my/programme/diploma/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14"
+}

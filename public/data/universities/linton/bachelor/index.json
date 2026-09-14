@@ -1,0 +1,487 @@
+{
+  "university": "Linton University College",
+  "university_slug": "linton",
+  "level": "bachelor",
+  "level_label": "Bachelor's Degree",
+  "program_count": 11,
+  "programs": [
+    {
+      "program_name": "Bachelor of Engineering",
+      "program_slug": "bachelor-of-engineering",
+      "field": "engineering",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        },
+        {
+          "url": "https://web.archive.org/web/20241219182245/https://www.linton.edu.my/web/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Bachelor of Quantity Surveying",
+      "program_slug": "bachelor-of-quantity-surveying",
+      "field": "quantity-surveying",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Bachelor of Architecture",
+      "program_slug": "bachelor-of-architecture",
+      "field": "architecture",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Bachelor of Construction Management",
+      "program_slug": "bachelor-of-construction-management",
+      "field": "construction-management",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Bachelor of Information Technology",
+      "program_slug": "bachelor-of-information-technology",
+      "field": "ict",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Bachelor of Computer Science",
+      "program_slug": "bachelor-of-computer-science",
+      "field": "computer-science",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Bachelor of Business",
+      "program_slug": "bachelor-of-business",
+      "field": "business",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Bachelor of Accounting",
+      "program_slug": "bachelor-of-accounting",
+      "field": "accounting",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Bachelor of Art and Design",
+      "program_slug": "bachelor-of-art-and-design",
+      "field": "design",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Bachelor of Visual Arts",
+      "program_slug": "bachelor-of-visual-arts",
+      "field": "visual-arts",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Bachelor of Nursing",
+      "program_slug": "bachelor-of-nursing",
+      "field": "nursing",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "partial",
+      "last_updated": "2026-09-15"
+    }
+  ]
+}

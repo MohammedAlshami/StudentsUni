@@ -1,0 +1,39 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Accounting (Hons)",
+  "field": "Accounting & Finance",
+  "slug": "bachelor-of-accounting-hons",
+  "duration": "40 months",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "50080/Course",
+    "international": "50080/Course",
+    "local_total": 12240,
+    "currency": "MYR",
+    "international_total": 17532
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0005225/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

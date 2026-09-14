@@ -1,0 +1,25 @@
+{
+  "university": "Universiti Kuala Lumpur",
+  "university_slug": "unikl",
+  "level": "master",
+  "program_name": "Master of Management",
+  "program_slug": "master-of-management",
+  "field": "Business & Management",
+  "duration": "2 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": {
+    "mqa_code": "A10143",
+    "valid_until": null,
+    "additional_codes": null
+  },
+  "sources": [
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    "https://www.unikl.edu.my/programme/master-of-management/",
+    "https://studymalaysia.com/what/course/UNIKL/0008082/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

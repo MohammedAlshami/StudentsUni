@@ -1,0 +1,52 @@
+{
+  "university": "Han Chiang University College of Communication",
+  "university_slug": "hcuc",
+  "level": "master",
+  "level_label": "Master's Degree",
+  "program_count": 1,
+  "programs": [
+    {
+      "program_name": "Master of Arts in Chinese Studies",
+      "program_slug": "master-of-arts-in-chinese-studies",
+      "field": "chinese-studies",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.hcu.edu.my/postgraduate",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    }
+  ]
+}

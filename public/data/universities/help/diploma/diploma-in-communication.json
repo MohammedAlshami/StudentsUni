@@ -1,0 +1,42 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "diploma",
+  "program_name": "Diploma in Communication",
+  "program_slug": "diploma-in-communication",
+  "field": "Communication & Broadcasting",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Feb",
+    "Jan",
+    "May",
+    "Sep",
+    "Aug"
+  ],
+  "fees": {
+    "local": "RM43,800.00",
+    "international": null,
+    "local_total": 20318,
+    "currency": "MYR",
+    "international_total": 22125
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0056458/",
+    "https://www.help.edu.my",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

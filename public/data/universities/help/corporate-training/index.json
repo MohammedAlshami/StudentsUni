@@ -1,0 +1,16 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "corporate-training",
+  "programs": [
+    {
+      "program_name": "Polygraph Examiner's Course",
+      "program_slug": "polygraph-examiners-course",
+      "field": "Social Sciences",
+      "duration": "Four (4) Months (Classes on weekends and weekday evenings)",
+      "mode": "Part-time Study",
+      "fees": { "local": "RM25,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058744/"]
+    }
+  ]
+}

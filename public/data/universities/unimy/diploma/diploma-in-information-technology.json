@@ -1,0 +1,22 @@
+{
+  "university": "University Malaysia of Computer Science & Engineering",
+  "university_slug": "unimy",
+  "level": "diploma",
+  "program_name": "Diploma in Information Technology",
+  "field": "Computing",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM23,000",
+    "international": "RM28,500"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unimy/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "diploma-in-information-technology"
+}

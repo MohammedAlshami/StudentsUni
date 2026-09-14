@@ -1,0 +1,33 @@
+{
+  "university": "Raffles University Iskandar",
+  "university_slug": "rui",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Graphic Design (Honours)",
+  "field": "Arts & Design",
+  "slug": "bachelor-of-graphic-design-honours",
+  "duration": "3 Yrs",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": "105050/Course",
+    "international_total": 105050,
+    "currency": "MYR",
+    "per_year_international": 35017,
+    "notes": "Total fee from existing data; subject to 6% SST from Sep 2025 Local fees not published online; contact university.",
+    "local_total": null,
+    "per_year_local": null
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/RUI/0055325/",
+    {
+      "url": "https://raffles-university.edu.my/programme/bachelor-of-graphic-design-honours/",
+      "publisher": "Raffles University",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

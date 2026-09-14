@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "master",
+  "program_name": "Master of Science (Healthy Aging, Medical Aesthetic and Regenerative Medicine)",
+  "field": "Healthy Aging, Medical Aesthetic and Regenerative Medicine",
+  "duration": "2 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 61,510",
+    "international": "RM 72,480",
+    "currency": "MYR",
+    "local_total": 61510,
+    "international_total": 72480,
+    "per_year_local": 61510,
+    "per_year_international": 72480,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0009165/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

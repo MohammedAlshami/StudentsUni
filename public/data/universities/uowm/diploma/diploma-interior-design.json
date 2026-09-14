@@ -1,0 +1,37 @@
+{
+  "university": "University of Wollongong Malaysia",
+  "university_slug": "uowm",
+  "level": "diploma",
+  "program_name": "Diploma in Interior Design",
+  "program_slug": "diploma-interior-design",
+  "field": "Design & Creative Media",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 22260,
+    "international_total": 26690,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.uow.edu.my/programmes",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,60 @@
+{
+  "university": "Multimedia University",
+  "university_slug": "mmu",
+  "level": "master",
+  "program_name": "Master of Electrical and Electronic Engineering (By Coursework)",
+  "field": "Engineering",
+  "duration": "1-3 years (FT); 2-5 years (PT)",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": 25875,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "Total programme fee"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": "R2/0713/7/0010"
+  },
+  "sources": [
+    {
+      "url": "https://www.mmu.edu.my/full-list-of-programmes-offered/",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.studymalaysia.com/what/course/MMU/0055533/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.mmu.edu.my/fee-structure/",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.mmu.edu.my/fee-structure-international/",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

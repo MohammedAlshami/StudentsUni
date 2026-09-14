@@ -1,0 +1,34 @@
+{
+  "slug": "imu",
+  "name": "IMU University",
+  "abbr": "IMU",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "website": "https://www.imu.edu.my",
+  "levels_available": ["foundation", "diploma", "bachelor", "master", "phd", "executive", "odl", "lifelong-learning", "global-learning"],
+  "program_counts": {
+    "foundation": 2,
+    "diploma": 1,
+    "bachelor": 22,
+    "master": 17,
+    "phd": 7,
+    "executive": 2,
+    "odl": 6,
+    "lifelong-learning": 4,
+    "global-learning": 2
+  },
+  "sources": [
+    {
+      "url": "https://www.imu.edu.my",
+      "type": "official",
+      "note": "Main university website with programme listings"
+    },
+    {
+      "url": "https://www.imu.edu.my/programmes",
+      "type": "official",
+      "note": "Programmes search page"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

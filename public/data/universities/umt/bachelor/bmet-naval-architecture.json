@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Malaysia Terengganu",
+  "university_slug": "umt",
+  "level": "bachelor",
+  "program_name": "Bachelor of Mechanical Engineering Technology (Naval Architecture) with Honours",
+  "program_name_malay": "Sarjana Muda Teknologi Kejuruteraan Mekanikal (Senibina Kapal) dengan Kepujian",
+  "program_slug": "bmet-naval-architecture",
+  "field": "Naval Architecture",
+  "faculty": "Faculty of Ocean Engineering Technology",
+  "duration": null,
+  "mode": "full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7200,
+    "international_total": 21600,
+    "per_year_local": 1800,
+    "per_year_international": 5400,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": "MQA/FA6525003",
+  "sources": [
+    "https://umt.my/all-programs-at-umt/",
+    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

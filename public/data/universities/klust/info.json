@@ -1,0 +1,22 @@
+{
+  "slug": "klust",
+  "name": "Kuala Lumpur University of Science & Technology",
+  "abbr": "KLUST",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "city": "Kajang",
+  "website": "https://www.klust.edu.my",
+  "levels_available": ["pre-university", "diploma", "bachelor", "master", "doctorate"],
+  "program_counts": {
+    "pre-university": 2,
+    "diploma": 7,
+    "bachelor": 15,
+    "master": 13,
+    "doctorate": 5
+  },
+  "sources": [
+    "https://www.klust.edu.my",
+    "https://www.klust.edu.my/academic/postgraduate"
+  ],
+  "last_updated": "2026-09-14"
+}

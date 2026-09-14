@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "diploma",
+  "program_name": "Diploma in Finance",
+  "field": "Finance",
+  "duration": "2 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 46,315",
+    "international": "RM 59,110",
+    "currency": "MYR",
+    "local_total": 46315,
+    "international_total": 59110,
+    "per_year_local": 46315,
+    "per_year_international": 59110,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057289/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

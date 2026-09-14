@@ -1,0 +1,22 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "postgraduate",
+  "program_name": "Doctor of Philosophy in Information Technology",
+  "slug": "phd-information-technology",
+  "field": "Computing",
+  "duration": "2 years",
+  "mode": "full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "description": "Doctoral research programme in information technology covering software engineering, data science, artificial intelligence, and digital transformation.",
+  "career_prospect": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/utp/courses/",
+    "https://www.utp.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

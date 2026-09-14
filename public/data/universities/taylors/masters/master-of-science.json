@@ -1,0 +1,44 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "masters",
+  "program_name": "Master of Science",
+  "slug": "master-of-science",
+  "program_slug": "master-of-science",
+  "field": "Biosciences",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Oct",
+    "Jun",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 16550,
+    "international_total": 25347,
+    "per_year_local": 29300,
+    "per_year_international": 12520,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/master-research/master-of-science.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

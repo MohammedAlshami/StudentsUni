@@ -1,0 +1,21 @@
+{
+  "university": "GMI-University College of Applied Sciences",
+  "university_slug": "gmi-ucas",
+  "level": "diploma",
+  "program_name": "Diploma in Engineering Technology (Industrial Design)",
+  "field": "Mechanical Engineering",
+  "duration": "6 Semester / 3 Years",
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": "RM 33,324",
+  "requirements": null,
+  "accreditation": "R2/0741/4/0010 (02/30) (MQA/FA 4785) - Accredited",
+  "sources": [
+    {
+      "url": "https://www.gmi.edu.my/mechanical-engineering/industrial-design-2/",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

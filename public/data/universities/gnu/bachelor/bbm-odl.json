@@ -1,0 +1,25 @@
+{
+  "university": "GlobalNxt University",
+  "university_slug": "gnu",
+  "level": "bachelor",
+  "program_name": "Bachelor of Business Management (Honours)",
+  "field": "Business",
+  "duration": null,
+  "mode": "ODL",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": {
+    "mqa_code": "N-DL/0414/6/0222",
+    "expiry": "03/29",
+    "mqa_id": "MQA/PA17152"
+  },
+  "sources": [
+    {
+      "url": "https://www.globalnxt.edu.my",
+      "type": "official"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,16 @@
+{
+  "university": "UNITAR University College Kuala Lumpur",
+  "university_slug": "klmuc",
+  "level": "bachelor",
+  "program_name": "Bachelor of Education (Hons)",
+  "field": "Education",
+  "duration": "9 Semesters / 3 Years",
+  "mode": ["Full-time"],
+  "intakes": ["January", "May", "September"],
+  "fees": {"local": "RM 30,000 - RM 46,153"},
+  "requirements": null,
+  "accreditation": {"mqa_ref": "R2/0414/6/0058", "valid_until": "05/2030"},
+  "sources": ["https://www.unitar.my/programmes/"],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

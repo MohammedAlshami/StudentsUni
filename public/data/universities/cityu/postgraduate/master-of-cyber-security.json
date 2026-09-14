@@ -1,0 +1,17 @@
+{
+  "university": "City University Malaysia",
+  "university_slug": "cityu",
+  "level": "postgraduate",
+  "program_name": "Master of Cyber Security",
+  "program_slug": "master-of-cyber-security",
+  "field": "Computing & Technology",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": ["https://www.city.edu.my"],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

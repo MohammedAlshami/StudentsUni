@@ -1,0 +1,46 @@
+{
+  "university": "DRB-HICOM University of Automotive Malaysia",
+  "university_slug": "dhu",
+  "level": "diploma",
+  "program_name": "Diploma in Automotive Technology",
+  "program_slug": "diploma-in-automotive-technology",
+  "field": "automotive-engineering",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://web.archive.org/web/20231130172019/http://dhu.edu.my/",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-15"
+}

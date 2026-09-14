@@ -1,0 +1,29 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "bachelors",
+  "program_name": "American Degree Transfer Programme (Science / Engineering) (Advanced Entry)",
+  "program_slug": "american-degree-transfer-programme-science-engineering-advanced-entry",
+  "field": "Science",
+  "faculty": null,
+  "duration": "1.5-2 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "USD30,000 (Western Michigan University), USD25,000 (South Dakota State University), USD27,000 (St. Cloud State University)",
+    "international": null,
+    "currency": "MYR",
+    "local_total": null,
+    "per_year_local": 55000.0,
+    "notes": "Fee: USD30000 (Western Michigan University), USD25000 (South Dakota State University),"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "United States",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0057910/",
+    "https://www.studymalaysia.com/edu/sunway/courses/"
+  ],
+  "confidence": 0.7,
+  "last_updated": "2026-09-14"
+}

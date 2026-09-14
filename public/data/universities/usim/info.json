@@ -1,0 +1,65 @@
+{
+  "university": "Universiti Sains Islam Malaysia",
+  "university_slug": "usim",
+  "abbreviation": "USIM",
+  "type": "public-university",
+  "state": "Negeri Sembilan",
+  "city": "Nilai",
+  "address": "Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan, Malaysia",
+  "phone": "+606-798 8000",
+  "website": "https://www.usim.edu.my",
+  "admission_url": "https://admission.usim.edu.my",
+  "faculties": [
+    {
+      "name": "Faculty of Quranic and Sunnah Studies (FPQS)",
+      "code": "FPQS",
+      "website": "https://fpqs.usim.edu.my"
+    },
+    {
+      "name": "Faculty of Leadership and Management (FKP)",
+      "code": "FKP",
+      "website": "https://fkp.usim.edu.my"
+    },
+    {
+      "name": "Faculty of Syariah and Law (FSU)",
+      "code": "FSU",
+      "website": "https://fsu.usim.edu.my"
+    },
+    {
+      "name": "Faculty of Economics and Muamalat (FEM)",
+      "code": "FEM",
+      "website": "https://fem.usim.edu.my"
+    },
+    {
+      "name": "Faculty of Science and Technology (FST)",
+      "code": "FST",
+      "website": "https://fst.usim.edu.my"
+    },
+    {
+      "name": "Faculty of Medicine and Health Sciences (FPSK)",
+      "code": "FPSK",
+      "website": "https://fpsk.usim.edu.my"
+    },
+    {
+      "name": "Faculty of Major Language Studies (FPBU)",
+      "code": "FPBU",
+      "website": "https://fpbu.usim.edu.my"
+    },
+    {
+      "name": "Faculty of Dentistry (FPg)",
+      "code": "FPg",
+      "website": "https://fpg.usim.edu.my"
+    },
+    {
+      "name": "Faculty of Engineering and Built Environment (FKAB)",
+      "code": "FKAB",
+      "website": "https://fkab.usim.edu.my"
+    }
+  ],
+  "sources": [
+    "https://www.usim.edu.my",
+    "https://www.studymalaysia.com/edu/usim/courses/",
+    "https://admission.usim.edu.my"
+  ],
+  "last_updated": "2026-09-14"
+}

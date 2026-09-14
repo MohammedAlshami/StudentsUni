@@ -1,0 +1,22 @@
+{
+  "university": "Nilai University",
+  "university_slug": "nilai",
+  "abbreviation": "Nilai",
+  "type": "private-university",
+  "state": "Negeri Sembilan",
+  "website": "https://www.nilai.edu.my",
+  "studymalaysia_url": "https://studymalaysia.com/edu/nilai/courses/",
+  "last_updated": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://studymalaysia.com/edu/nilai/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.nilai.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    }
+  ]
+}

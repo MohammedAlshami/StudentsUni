@@ -1,0 +1,51 @@
+{
+  "university": "Management & Science University",
+  "university_slug": "msu",
+  "level": "bachelors",
+  "program_name": "Bachelor in Game Development (Honours)",
+  "program_slug": "bachelor-in-game-development-honours",
+  "field": "General",
+  "duration": "4 years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "currency": "RM",
+    "local_total": 79240.0,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "Local: RM79,240.00"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://studymalaysia.com/what/course/MSU/0058667/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/msu/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

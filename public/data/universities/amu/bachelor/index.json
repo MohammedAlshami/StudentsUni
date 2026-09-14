@@ -1,0 +1,30 @@
+{
+  "programs": [
+    {
+      "slug": "bachelor-of-accountancy",
+      "program_name": "Bachelor of Accountancy"
+    },
+    {
+      "slug": "bachelor-of-business-administration-hons",
+      "program_name": "Bachelor of Business Administration (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-odl",
+      "program_name": "Bachelor of Business Administration (ODL)"
+    },
+    {
+      "slug": "bachelor-of-information-technology-honours",
+      "program_name": "Bachelor of Information Technology (Honours)"
+    },
+    {
+      "slug": "bachelor-of-information-technology-odl",
+      "program_name": "Bachelor of Information Technology (ODL)"
+    },
+    {
+      "slug": "bachelor-of-science-in-healthcare-management-hons",
+      "program_name": "Bachelor of Science in Healthcare Management (Hons)"
+    }
+  ],
+  "total": 6,
+  "last_updated": "2026-09-14"
+}

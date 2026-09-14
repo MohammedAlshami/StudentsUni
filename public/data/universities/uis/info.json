@@ -1,0 +1,34 @@
+{
+  "university": "Selangor Islamic University",
+  "university_slug": "uis",
+  "abbreviation": "UIS",
+  "slug": "uis",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": "Kajang",
+  "website": "https://www.uis.edu.my",
+  "studymalaysia_url": null,
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "degree",
+    "masters",
+    "phd"
+  ],
+  "program_counts": {
+    "foundation": 3,
+    "diploma": 5,
+    "degree": 10,
+    "masters": 6,
+    "phd": 3
+  },
+  "sources": [
+    {
+      "url": "https://study.uis.edu.my/program-pengajian",
+      "type": "official",
+      "note": "Study@UIS program listing"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Formerly known as Universiti Islam Selangor. Owned by MAIS."
+}

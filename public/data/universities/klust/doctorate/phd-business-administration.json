@@ -1,0 +1,41 @@
+{
+  "university": "Kuala Lumpur University of Science & Technology",
+  "university_slug": "klust",
+  "level": "doctorate",
+  "program_name": "Doctor of Philosophy (PhD) in Business Administration",
+  "field": "Business",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Oct",
+    "Mar",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 11670,
+    "international_total": 17960,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.klust.edu.my",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.klust.edu.my/academic/postgraduate",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

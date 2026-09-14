@@ -1,0 +1,25 @@
+{
+  "slug": "ijnuc",
+  "name": "IJN University College",
+  "abbr": "IJNUC",
+  "type": "private-university-college",
+  "state": "Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "website": "https://www.ijnuc.edu.my",
+  "levels_available": [],
+  "program_counts": {},
+  "sources": [
+    {
+      "url": "https://www.ijnuc.edu.my",
+      "type": "official",
+      "note": "Website returned transport error; inaccessible via WebFetch"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_universities_in_Malaysia",
+      "type": "wikipedia",
+      "note": "Listed as university college in Malaysia's private university colleges list"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "IJN University College (International Jantung Negara). Affiliated with National Heart Institute. Website inaccessible at time of collection. No Wayback Machine archives available. No program data retrievable from any source. Institution likely offers health/medical programs given National Heart Institute affiliation."
+}

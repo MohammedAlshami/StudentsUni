@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Science (Hons) in Industrial Physics",
+  "slug": "industrial-physics",
+  "field": "Science",
+  "duration": "3.5 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": null,
+    "currency": "MYR",
+    "note": "Contact university for current fee rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Physics, Mathematics, Additional Mathematics, and English"
+  },
+  "accreditation": null,
+  "description": "Covers applied mechanics, optics, semiconductor physics, instrumentation, and computational physics. Prepares graduates for careers in industrial applications of physics and technology.",
+  "career_prospect": ["Physicist", "Instrumentation Engineer", "Quality Assurance Engineer", "Research Scientist", "Technical Specialist"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

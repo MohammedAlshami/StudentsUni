@@ -1,0 +1,25 @@
+{
+  "university": "GlobalNxt University",
+  "university_slug": "gnu",
+  "level": "bachelor",
+  "program_name": "Bachelor of Early Childhood Education (Honours)",
+  "field": "Education",
+  "duration": null,
+  "mode": "ODL",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": {
+    "mqa_code": "N-DL/0112/6/0053",
+    "expiry": "06/33",
+    "mqa_id": "MQA/PA18930"
+  },
+  "sources": [
+    {
+      "url": "https://www.globalnxt.edu.my",
+      "type": "official"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-14"
+}

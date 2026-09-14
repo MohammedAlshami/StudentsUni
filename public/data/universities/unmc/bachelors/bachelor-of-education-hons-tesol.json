@@ -1,0 +1,37 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "bachelors",
+  "program_name": "Bachelor of Education (Hons) TESOL",
+  "field": "Education",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep"
+  ],
+  "fees": {
+    "local": "RM27,600/Yr",
+    "international": "RM33,400/Yr",
+    "local_total": 42000,
+    "currency": "MYR",
+    "international_total": 50000
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "bachelor-of-education-hons-tesol"
+}

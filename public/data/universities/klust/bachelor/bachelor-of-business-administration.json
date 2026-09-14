@@ -1,0 +1,38 @@
+{
+  "university": "Kuala Lumpur University of Science & Technology",
+  "university_slug": "klust",
+  "level": "bachelor",
+  "program_name": "Bachelor of Business Administration (Hons)",
+  "field": "Business",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Oct",
+    "Jun",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 15420,
+    "international_total": 20620,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.klust.edu.my",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

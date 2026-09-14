@@ -1,0 +1,19 @@
+{
+  "university": "University of Selangor",
+  "university_slug": "unisel",
+  "level": "diploma",
+  "program_name": "Diploma in Medical Imaging",
+  "field": "Healthcare",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unisel/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "diploma-in-medical-imaging"
+}

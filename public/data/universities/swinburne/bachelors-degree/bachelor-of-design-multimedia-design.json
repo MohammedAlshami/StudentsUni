@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Design (Multimedia Design)",
+  "field": "Arts & Design",
+  "slug": "bachelor-of-design-multimedia-design",
+  "duration": "2.5 - 3 Years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "RM115,800",
+    "international": "RM144,480",
+    "currency": "MYR",
+    "local_total": 115800,
+    "international_total": 144480,
+    "per_year_local": 38600,
+    "per_year_international": 48160,
+    "notes": "Annual fee; total = annual x 3 years"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0001472/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

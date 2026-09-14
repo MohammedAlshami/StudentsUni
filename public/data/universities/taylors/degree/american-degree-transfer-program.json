@@ -1,0 +1,28 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "American Degree Transfer Program",
+  "slug": "american-degree-transfer-program",
+  "program_slug": "american-degree-transfer-program",
+  "field": "Liberal Arts",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 730,
+    "international_total": null,
+    "per_year_local": 1460,
+    "per_year_international": null,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/american-degree-transfer-program.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

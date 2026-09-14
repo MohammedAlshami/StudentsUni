@@ -1,0 +1,16 @@
+{
+  "university": "UNITAR University College Kuala Lumpur",
+  "university_slug": "klmuc",
+  "level": "foundation",
+  "program_name": "Foundation in Arts",
+  "field": "Arts & Humanities",
+  "duration": "4 Semesters / 1 Year 4 Months",
+  "mode": ["Full-time"],
+  "intakes": ["January", "May", "September"],
+  "fees": {"local": "RM 8,500"},
+  "requirements": null,
+  "accreditation": null,
+  "sources": ["https://www.unitar.my/programmes/"],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

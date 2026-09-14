@@ -1,0 +1,33 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "postgraduate",
+  "program_name": "Master of Science in Economics",
+  "program_slug": "master-of-science-in-economics",
+  "field": "Business Management & Administration",
+  "duration": "2 years (FT) / 3 years (PT)",
+  "mode": "Flexible",
+  "intakes": null,
+  "fees": {
+    "local": "RM10,800.00 (FT) / RM11,900.00 (PT)",
+    "international": "RM24,600.00",
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/tarumt/",
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": 0.85,
+  "last_updated": "2026-09-15"
+}

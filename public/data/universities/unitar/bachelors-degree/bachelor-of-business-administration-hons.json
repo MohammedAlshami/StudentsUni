@@ -1,0 +1,46 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Business Administration (Hons)",
+  "field": "Business Management & Administration",
+  "slug": "bachelor-of-business-administration-hons",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "40980/Course",
+    "international": "40980/Course",
+    "local_total": 40980,
+    "currency": "MYR",
+    "international_total": 19479,
+    "per_year_local": 13660,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0005695/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/unitar/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

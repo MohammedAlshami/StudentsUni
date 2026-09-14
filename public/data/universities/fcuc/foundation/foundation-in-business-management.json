@@ -1,0 +1,17 @@
+{
+  "university": "First City University College",
+  "university_slug": "fcuc",
+  "level": "foundation",
+  "program_name": "Foundation in Business Management",
+  "program_slug": "foundation-in-business-management",
+  "field": "Business",
+  "duration": "1 year",
+  "mode": "Full Time",
+  "intakes": ["January", "May", "September"],
+  "fees": null,
+  "requirements": {"spm": "Minimum 5 credits (including English)"},
+  "accreditation": "R3/0410/3/0065(A9286)10/28",
+  "sources": ["https://www.firstcity.edu.my/programmes/foundation"],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

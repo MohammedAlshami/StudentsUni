@@ -1,0 +1,452 @@
+{
+  "level": "bachelor",
+  "level_slug": "bachelor",
+  "university": "Universiti Teknikal Malaysia Melaka",
+  "university_slug": "utem",
+  "programs": [
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Hons)",
+      "program_slug": "bachelor-of-mechanical-engineering-technology-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/Sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Technology Management (High Technology Marketing) (Hons)",
+      "program_slug": "bachelor-of-technology-management-high-technology-marketing-hons",
+      "field": "Business, Management & Administration",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Technology Management (Innovation Technology) (Hons)",
+      "program_slug": "bachelor-of-technology-management-innovation-technology-hons",
+      "field": "Business, Management & Administration",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Interactive Media) (Hons)",
+      "program_slug": "bachelor-of-computer-science-interactive-media-hons",
+      "field": "Computing & IT",
+      "duration": "7 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Computer Security) (Hons)",
+      "program_slug": "bachelor-of-computer-science-computer-security-hons",
+      "field": "Computing & IT",
+      "duration": "7 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Electronic Engineering Technology (Telecommunication) (Hons)",
+      "program_slug": "bachelor-of-electronic-engineering-technology-telecommunication-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Electrical Engineering Technology (Industrial Automation and Robotic) (Hons)",
+      "program_slug": "bachelor-of-electrical-engineering-technology-industrial-automation-and-robotic-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Electronic Engineering Technology (Industrial Electronic) (Hons)",
+      "program_slug": "bachelor-of-electronic-engineering-technology-industrial-electronic-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Electrical Engineering Technology (Hons)",
+      "program_slug": "bachelor-of-electrical-engineering-technology-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/Sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Electronic Engineering Technology (Hons)",
+      "program_slug": "bachelor-of-electronic-engineering-technology-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/Sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Manufacturing Engineering (Hons)",
+      "program_slug": "bachelor-of-manufacturing-engineering-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": "32398/Course"
+      }
+    },
+    {
+      "program_name": "Bachelor of Manufacturing Engineering Technology (Hons)",
+      "program_slug": "bachelor-of-manufacturing-engineering-technology-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/Sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Game Technology) (Hons)",
+      "program_slug": "bachelor-of-information-technology-game-technology-hons",
+      "field": "Computing & IT",
+      "duration": "7 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Technology in Industrial Electronic Automation (Hons)",
+      "program_slug": "bachelor-of-technology-in-industrial-electronic-automation-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "3.5 Years",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Technology in Automotive (Hons)",
+      "program_slug": "bachelor-of-technology-in-automotive-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "3 Years",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor Degree of Technology in Welding (Hons)",
+      "program_slug": "bachelor-degree-of-technology-in-welding-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "7 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Technology in Industrial Machining (Hons)",
+      "program_slug": "bachelor-of-technology-in-industrial-machining-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "3.5 Years",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Technology in Air Conditioning and Refrigeration (Hons)",
+      "program_slug": "bachelor-of-technology-in-air-conditioning-and-refrigeration-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "3.5 Years",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Technology in Electrical Maintenance System (Hons)",
+      "program_slug": "bachelor-of-technology-in-electrical-maintenance-system-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "4 Years",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Internet of Things (IoT) Technology with Honours",
+      "program_slug": "bachelor-of-internet-of-things-iot-technology-with-honours",
+      "field": "Computing & IT",
+      "duration": "7 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Artificial Intelligence) (Hons)",
+      "program_slug": "bachelor-of-computer-science-artificial-intelligence-hons",
+      "field": "Computing & IT",
+      "duration": "7 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Automotive Engineering (Hons)",
+      "program_slug": "bachelor-of-automotive-engineering-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Industrial Engineering (Hons)",
+      "program_slug": "bachelor-of-industrial-engineering-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Technology Management (Supply Chain Management and Logistics) (Hons)",
+      "program_slug": "bachelor-of-technology-management-supply-chain-management-and-logistics-hons",
+      "field": "Business, Management & Administration",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Engineering Technology (Computer System) (Hons)",
+      "program_slug": "bachelor-of-computer-engineering-technology-computer-system-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering (Hons)",
+      "program_slug": "bachelor-of-mechanical-engineering-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": "Refer to Univ."
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechatronics Engineering (Hons)",
+      "program_slug": "bachelor-of-mechatronics-engineering-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": "Refer to Univ."
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Computer Networking) (Hons)",
+      "program_slug": "bachelor-of-computer-science-computer-networking-hons",
+      "field": "Computing & IT",
+      "duration": "7 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Automotive Technology) (Hons)",
+      "program_slug": "bachelor-of-mechanical-engineering-technology-automotive-technology-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Technopreneurship (Hons)",
+      "program_slug": "bachelor-of-technopreneurship-hons",
+      "field": "Business, Management & Administration",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Electrical Engineering (Hons)",
+      "program_slug": "bachelor-of-electrical-engineering-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Refrigerator System and Air Conditioning) (Hons)",
+      "program_slug": "bachelor-of-mechanical-engineering-technology-refrigerator-system-and-air-conditioning-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Manufacturing Engineering Technology (Product Design) (Hons)",
+      "program_slug": "bachelor-of-manufacturing-engineering-technology-product-design-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/Sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Electrical Engineering Technology (Industrial Power) (Hons)",
+      "program_slug": "bachelor-of-electrical-engineering-technology-industrial-power-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Maintenance Technology) (Hons)",
+      "program_slug": "bachelor-of-mechanical-engineering-technology-maintenance-technology-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Manufacturing Engineering Technology (Process & Technology) (Hons)",
+      "program_slug": "bachelor-of-manufacturing-engineering-technology-process-technology-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Software Development) (Hons)",
+      "program_slug": "bachelor-of-computer-science-software-development-hons",
+      "field": "Computing & IT",
+      "duration": "7 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Database Management) (Hons)",
+      "program_slug": "bachelor-of-computer-science-database-management-hons",
+      "field": "Computing & IT",
+      "duration": "7 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": "32398/Course"
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Engineering (Hons)",
+      "program_slug": "bachelor-of-computer-engineering-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Electronic Engineering (Hons)",
+      "program_slug": "bachelor-of-electronic-engineering-hons",
+      "field": "Engineering & Engineering Trades",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "850/sem",
+        "international": "32398/Course"
+      }
+    }
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/utem/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

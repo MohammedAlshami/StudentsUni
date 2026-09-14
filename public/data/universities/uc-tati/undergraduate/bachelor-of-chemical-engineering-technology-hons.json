@@ -1,0 +1,21 @@
+{
+  "university": "University College TATI",
+  "university_slug": "uc-tati",
+  "level": "bachelor",
+  "program_name": "Bachelor of Chemical Engineering Technology (Honours)",
+  "field": "Chemical Engineering",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "KPT: R2/524/6/0032 (07/2026) - MQA/FA 16818 - MBOT/FA/CM/0/02/0004",
+  "sources": [
+    {
+      "url": "https://www.uctati.edu.my/Undergraduate.html",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

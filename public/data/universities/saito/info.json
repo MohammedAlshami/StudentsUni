@@ -1,0 +1,25 @@
+{
+  "slug": "saito",
+  "name": "SAITO University College",
+  "abbr": "SAITO",
+  "type": "private-university-college",
+  "state": "Selangor",
+  "city": "Petaling Jaya",
+  "website": "https://www.saito.edu.my",
+  "levels_available": ["foundation", "diploma", "bachelor", "postgraduate"],
+  "sources": [
+    "https://www.saito.edu.my",
+    "https://www.saito.edu.my/explore-courses",
+    "https://www.saito.edu.my/our-programmes/diploma"
+  ],
+  "last_updated": "2026-09-14",
+  "schools": [
+    "K² School of Business and Design",
+    "Saito Law Enforcement Academy",
+    "Lé Masters School of Hospitality and Culinary Arts",
+    "The Prime School of Integrated Logistics",
+    "Saito Graduate School",
+    "Saito Open & Distance Learning",
+    "Professional and Continuing Education"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Pertahanan Nasional Malaysia",
+  "university_slug": "upnm",
+  "level": "bachelor",
+  "program_name": "Sarjana Muda Sains Komputer (Kepintaran Buatan) dengan Kepujian",
+  "program_slug": "sarjana-muda-sains-komputer-kepintaran-buatan",
+  "field": "Computing & IT",
+  "duration": "6 semesters",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 3720,
+    "international_total": 11160,
+    "per_year_local": 1240,
+    "per_year_international": 3720,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": "SPM+STPM/Matriculation+MUET",
+  "accreditation": "MQA",
+  "faculty": "Fakulti Sains dan Teknologi Pertahanan",
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pra-siswazah",
+    "https://www.studymalaysia.com/what/course/UPNM/0000440/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

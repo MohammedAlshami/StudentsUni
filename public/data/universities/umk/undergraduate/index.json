@@ -1,0 +1,139 @@
+{
+  "university": "Universiti Malaysia Kelantan",
+  "university_slug": "umk",
+  "level": "undergraduate",
+  "programs": [
+    {
+      "slug": "bachelor-of-accountancy-hons",
+      "name": "Bachelor of Accountancy (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-food-security-hons",
+      "name": "Bachelor of Applied Science (Food Security) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-architecture-hons",
+      "name": "Bachelor of Science Architecture (Hons)"
+    },
+    {
+      "slug": "doctor-of-veterinary-medicine",
+      "name": "Doctor of Veterinary Medicine"
+    },
+    {
+      "slug": "bachelor-of-landscape-architecture-hons",
+      "name": "Bachelor of Landscape Architecture (Hons)"
+    },
+    {
+      "slug": "bachelor-of-arabic-language-with-entrepreneurship-hons",
+      "name": "Bachelor of Arabic Language with Entrepreneurship (Hons)"
+    },
+    {
+      "slug": "bachelor-of-heritage-studies-hons",
+      "name": "Bachelor of Heritage Studies (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-statistics-hons-and-bachelor-of-entrepreneurship-logistics-and-business-distribution-hons",
+      "name": "Bachelor of Science(Statistics)(Hons) and Bachelor of Entrepreneurship(Logistics and Business Distribution)(Hons)"
+    },
+    {
+      "slug": "bachelor-of-entrepreneurship-hons-2u2i-mode",
+      "name": "Bachelor of Entrepreneurship (Hons) (2U2I Mode)"
+    },
+    {
+      "slug": "bachelor-of-information-technology-hons",
+      "name": "Bachelor of Information Technology (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-livestock-science-hons",
+      "name": "Bachelor of Applied Science (Livestock Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-community-management-with-social-entrepreneurship-honours",
+      "name": "Bachelor of Community Management with Social Entrepreneurship (Honours)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-environmental-analytics-honours",
+      "name": "Bachelor of Applied Science (Environmental Analytics) with Honours"
+    },
+    {
+      "slug": "bachelor-of-minerals-technology-honours",
+      "name": "Bachelor of Minerals Technology with Honours"
+    },
+    {
+      "slug": "bachelor-of-energy-technology-honours",
+      "name": "Bachelor of Energy Technology with Honours"
+    },
+    {
+      "slug": "bachelor-of-entrepreneurship-commerce-hons",
+      "name": "Bachelor of Entrepreneurship (Commerce) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-entrepreneurship-tourism-hons",
+      "name": "Bachelor of Entrepreneurship (Tourism) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-geoscience-hons",
+      "name": "Bachelor of Applied Science (Geoscience) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-islamic-banking-finance-hons",
+      "name": "Bachelor of Business Administration (Islamic Banking & Finance) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-sustainability-science-hons",
+      "name": "Bachelor of Applied Science (Sustainability Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-entrepreneurship-retailing-hons",
+      "name": "Bachelor of Entrepreneurship (Retailing) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-entrepreneurship-logistic-distributive-trade-hons",
+      "name": "Bachelor of Entrepreneurship (Logistic & Distributive Trade) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-entrepreneurship-hospitality-hons",
+      "name": "Bachelor of Entrepreneurship (Hospitality) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-creative-technology-hons",
+      "name": "Bachelor of Creative Technology (Hons)"
+    },
+    {
+      "slug": "bachelor-of-entrepreneurship-health-entrepreneurship-hons",
+      "name": "Bachelor of Entrepreneurship (Health Entrepreneurship) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-communication-with-english-language-honours",
+      "name": "Bachelor of Business Communication with English Language(Honours)"
+    },
+    {
+      "slug": "bachelor-of-interior-architecture-hons",
+      "name": "Bachelor of Interior Architecture (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-natural-resources-science-hons",
+      "name": "Bachelor of Applied Science (Natural Resources Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-bio-industrial-technology-hons",
+      "name": "Bachelor of Applied Science (Bio-industrial Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-agrotechnology-hons",
+      "name": "Bachelor of Applied Science (AgroTechnology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-materials-technology-hons",
+      "name": "Bachelor of Applied Science (Materials Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-science-forest-resource-technology-hons",
+      "name": "Bachelor of Applied Science (Forest Resource Technology) (Hons)"
+    }
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/umk/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

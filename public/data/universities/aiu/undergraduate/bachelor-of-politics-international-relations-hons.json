@@ -1,0 +1,27 @@
+{
+  "university": "Albukhary International University",
+  "university_slug": "aiu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Politics and International Relations (Honours)",
+  "program_slug": "bachelor-of-politics-international-relations-hons",
+  "field": "Social Sciences",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 0,
+    "international_total": 0,
+    "per_year_local": "Full scholarship",
+    "per_year_international": "Full scholarship",
+    "notes": "Fully funded by Albukhary Foundation - tuition, accommodation, meals, stipend covered"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.aiu.edu.my/academics",
+    "https://www.aiu.edu.my/academics"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-15"
+}

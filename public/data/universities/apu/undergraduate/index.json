@@ -1,0 +1,1158 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "undergraduate",
+  "level_label": "Undergraduate Studies",
+  "program_count": 50,
+  "programs": [
+    {
+      "program_name": "Bachelor of Science (Honours) in Information Technology",
+      "program_slug": "bsc-information-technology",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-information-technology",
+        "https://www.studymalaysia.com/what/course/APU/0005533/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Information Technology with a specialism in Information System Security",
+      "program_slug": "bsc-information-technology-information-system-security",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-information-technology-information-system-security",
+        "https://www.studymalaysia.com/what/course/APU/0005535/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Information Technology with a specialism in Cloud Engineering",
+      "program_slug": "bsc-information-technology-cloud-engineering",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-information-technology-cloud-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0056388/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Information Technology with a specialism in Internet of Things (IoT)",
+      "program_slug": "bsc-information-technology-internet-of-things",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-information-technology-internet-of-things",
+        "https://www.studymalaysia.com/what/course/APU/0008392/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Information Technology with a specialism in Financial Technology (FinTech)",
+      "program_slug": "bsc-information-technology-fintech",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-information-technology-fintech",
+        "https://www.studymalaysia.com/what/course/APU/0057364/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Information Technology with a specialism in Business Information Systems",
+      "program_slug": "bsc-information-technology-business-information-systems",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-information-technology-business-information-systems",
+        "https://www.studymalaysia.com/what/course/APU/0008390/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Information Technology with a specialism in Sustainable Computing",
+      "program_slug": "bsc-information-technology-sustainable-computing",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-information-technology-sustainable-computing",
+        "https://www.studymalaysia.com/what/course/APU/0058639/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in Software Engineering",
+      "program_slug": "bsc-software-engineering",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bsc-hons-in-software-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0005524/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Computer Science",
+      "program_slug": "bsc-computer-science",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bsc-hons-in-computer-science",
+        "https://www.studymalaysia.com/what/course/APU/0055068/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Computer Science with a specialism in Quantum Computing",
+      "program_slug": "bsc-computer-science-quantum-computing",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/bsc-hons-in-computer-quantum-computing"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Computer Science with a specialism in Data Analytics",
+      "program_slug": "bsc-computer-science-data-analytics",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bsc-hons-in-computer-science-data-analytics",
+        "https://www.studymalaysia.com/what/course/APU/0056387/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Computer Science (Cyber Security)",
+      "program_slug": "bsc-computer-science-cyber-security",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bsc-hons-in-computer-science-cyber-security",
+        "https://www.studymalaysia.com/what/course/APU/0056665/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons) (Artificial Intelligence)",
+      "program_slug": "bsc-computer-science-ai",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bsc-hons-in-computer-science-ai",
+        "https://www.studymalaysia.com/what/course/APU/0058640/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Computer Science (Cyber Security) with a specialism in Digital Forensics",
+      "program_slug": "bsc-computer-science-cyber-security-digital-forensics",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bsc-hons-in-computer-science-digital-forensics",
+        "https://www.studymalaysia.com/what/course/APU/0056666/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor in Interactive Media and Immersive Technology (Honours)",
+      "program_slug": "bsc-interactive-media-immersive-technology",
+      "field": "Design & Creative Media",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM102,200.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bsc-interactive-media-immersive-technology",
+        "https://www.studymalaysia.com/what/course/APU/0058641/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor in Interactive Media and Immersive Technology (Honours) with a specialism in VR/AR",
+      "program_slug": "bsc-interactive-media-immersive-technology-vr-ar",
+      "field": "Design & Creative Media",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM102,200.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bsc-interactive-media-immersive-technology-vr-ar",
+        "https://www.studymalaysia.com/what/course/APU/0056894/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor in Game Development (Honours)",
+      "program_slug": "bsc-computer-games-development",
+      "field": "Games Development",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM102,200.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bsc-hons-in-computer-games-development",
+        "https://www.studymalaysia.com/what/course/APU/0008396/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Accounting and Finance (Honours)",
+      "program_slug": "bachelor-accounting-finance",
+      "field": "Accounting & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM99,800.00",
+        "international": "RM104,600.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-accounting-finance",
+        "https://www.studymalaysia.com/what/course/APU/0005279/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Accounting and Finance (Honours) with a specialism in Forensic Accounting",
+      "program_slug": "bachelor-accounting-finance-forensic-accounting",
+      "field": "Accounting & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-accounting-finance-forensic-accounting",
+        "https://www.studymalaysia.com/what/course/APU/0009798/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Accounting and Finance (Honours) with a specialism in Forex and Investments",
+      "program_slug": "bachelor-accounting-finance-forex-investments",
+      "field": "Accounting & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-accounting-finance-forex-investments",
+        "https://www.studymalaysia.com/what/course/APU/0009799/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Accounting and Finance (Honours) with a specialism in Accounting Technology",
+      "program_slug": "bachelor-accounting-finance-accounting-technology",
+      "field": "Accounting & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-accounting-finance-accounting-technology",
+        "https://www.studymalaysia.com/what/course/APU/0058240/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor in Banking and Finance (Hons)",
+      "program_slug": "bachelor-banking-finance",
+      "field": "Banking & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM98,000.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-banking-finance",
+        "https://www.studymalaysia.com/what/course/APU/0009926/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor in Banking and Finance (Hons) with a specialism in Investment Analytics",
+      "program_slug": "bachelor-banking-finance-investment-analytics",
+      "field": "Banking & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM98,000.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-banking-finance-investment-analytics",
+        "https://www.studymalaysia.com/what/course/APU/0058241/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor in Banking and Finance (Hons) with a specialism in Financial Technology",
+      "program_slug": "bachelor-banking-finance-financial-technology",
+      "field": "Banking & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM98,000.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-banking-finance-financial-technology",
+        "https://www.studymalaysia.com/what/course/APU/0056898/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Financial Technology (Honours)",
+      "program_slug": "bachelor-financial-technology",
+      "field": "Banking & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM98,000.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-financial-technology",
+        "https://www.studymalaysia.com/what/course/APU/0058642/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Actuarial Studies",
+      "program_slug": "bachelor-actuarial-studies",
+      "field": "Actuarial Studies",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM98,000.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-accounting-finance-actuarial-studies",
+        "https://www.studymalaysia.com/what/course/APU/0009924/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Actuarial Studies with a specialism in Data Analytics",
+      "program_slug": "bachelor-actuarial-studies-data-analytics",
+      "field": "Actuarial Studies",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM98,000.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-accounting-finance-actuarial-studies-data-analytics",
+        "https://www.studymalaysia.com/what/course/APU/0058037/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Actuarial Studies with a specialism in Financial Technology",
+      "program_slug": "bachelor-actuarial-studies-financial-technology",
+      "field": "Actuarial Studies",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM98,000.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-accounting-finance-actuarial-studies-financial-technology",
+        "https://www.studymalaysia.com/what/course/APU/0058038/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Business Management",
+      "program_slug": "ba-business-management",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-business-management",
+        "https://www.studymalaysia.com/what/course/APU/0005280/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Business Management with a specialism in E-Business",
+      "program_slug": "ba-business-management-e-business",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-business-management-e-business",
+        "https://www.studymalaysia.com/what/course/APU/0008398/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Business Management with a specialism in Digital Leadership",
+      "program_slug": "ba-business-management-digital-leadership",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-business-management-digital-leadership",
+        "https://www.studymalaysia.com/what/course/APU/0057820/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Business Management with a specialism in AI & Business Analytics",
+      "program_slug": "ba-business-management-business-analytics",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-business-management-business-analytics",
+        "https://www.studymalaysia.com/what/course/APU/0058835/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Business Management with a specialism in Business Economics",
+      "program_slug": "ba-business-management-business-economics",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-business-management-business-economics",
+        "https://www.studymalaysia.com/what/course/APU/0058834/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Human Resource Management",
+      "program_slug": "ba-human-resource-management",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/ba-hons-human-resource-management",
+        "https://www.studymalaysia.com/what/course/APU/0005281/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Human Resource Management with a specialism in People Analytics",
+      "program_slug": "ba-human-resource-management-people-analytics",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/ba-hons-human-resource-management-people-analytics",
+        "https://www.studymalaysia.com/what/course/APU/0058836/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in International Business Management",
+      "program_slug": "ba-international-business-management",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-international-business-management",
+        "https://www.studymalaysia.com/what/course/APU/0005282/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in International Business Management with a specialism in Supply Chain Management",
+      "program_slug": "ba-international-business-management-supply-chain-management",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-international-business-management-supply-chain-management",
+        "https://www.studymalaysia.com/what/course/APU/0058837/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor in Digital Marketing (Honours)",
+      "program_slug": "ba-digital-marketing",
+      "field": "Digital Marketing & Media",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/ba-digital-marketing-hons",
+        "https://www.studymalaysia.com/what/course/APU/0059002/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Tourism Management",
+      "program_slug": "ba-tourism-management",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-tourism-management",
+        "https://www.studymalaysia.com/what/course/APU/0005286/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Hospitality and Tourism with a specialism in Hospitality Innovation",
+      "program_slug": "bsc-hospitality-tourism-hospitality-innovation",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-science-hospitality-tourism-specialism-hospitality-innovation",
+        "https://www.studymalaysia.com/what/course/APU/0058644/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Hospitality and Tourism with a specialism in Events Management",
+      "program_slug": "bsc-hospitality-tourism-events-management",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-science-hospitality-tourism-specialism-events-management",
+        "https://www.studymalaysia.com/what/course/APU/0058645/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Hospitality and Tourism with a specialism in Aviation Management",
+      "program_slug": "bsc-hospitality-tourism-aviation-management",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-science-hospitality-tourism-specialism-aviation-management",
+        "https://www.studymalaysia.com/what/course/APU/0058839/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Media and Communication Studies",
+      "program_slug": "ba-media-communication-studies",
+      "field": "Digital Marketing & Media",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-media-and-communication-studies",
+        "https://www.studymalaysia.com/what/course/APU/0058840/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in International Relations",
+      "program_slug": "ba-international-relations",
+      "field": "International Relations",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-international-relations",
+        "https://www.studymalaysia.com/what/course/APU/0058841/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Psychology",
+      "program_slug": "bsc-psychology",
+      "field": "Psychology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-science-psychology",
+        "https://www.studymalaysia.com/what/course/APU/0057822/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Psychology with a specialism in Cyberpsychology",
+      "program_slug": "bsc-psychology-cyberpsychology",
+      "field": "Psychology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-science-psychology-cyberpsychology"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Psychology with a specialism in People and Culture",
+      "program_slug": "bsc-psychology-people-culture",
+      "field": "Psychology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-science-psychology-people-culture"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Electrical and Electronic Engineering with Honours",
+      "program_slug": "bachelor-electrical-electronic-engineering",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM118,400.00",
+        "international": "RM137,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA, Board of Engineers Malaysia (BEM)",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-electrical-and-electronic-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0005359/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Computer Engineering with Honours",
+      "program_slug": "bachelor-computer-engineering",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM118,400.00",
+        "international": "RM137,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA, Board of Engineers Malaysia (BEM)",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-computer-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0008391/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Mechatronic Engineering with Honours",
+      "program_slug": "bachelor-mechatronic-engineering",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM118,400.00",
+        "international": "RM137,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA, Board of Engineers Malaysia (BEM)",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-mechatronic-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0005362/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering with Honours",
+      "program_slug": "bachelor-mechanical-engineering",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM118,400.00",
+        "international": "RM137,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA, Board of Engineers Malaysia (BEM)",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-mechanical-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0058533/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Petroleum Engineering with Honours",
+      "program_slug": "bachelor-petroleum-engineering",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM116,000.00",
+        "international": "RM128,000.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA, Board of Engineers Malaysia (BEM)",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-petroleum-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0056385/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Industrial Design",
+      "program_slug": "ba-industrial-design",
+      "field": "Design & Creative Media",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-industrial-design",
+        "https://www.studymalaysia.com/what/course/APU/0056900/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Visual Effects",
+      "program_slug": "ba-visual-effects",
+      "field": "Design & Creative Media",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-visual-effects",
+        "https://www.studymalaysia.com/what/course/APU/0056669/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Animation",
+      "program_slug": "ba-animation",
+      "field": "Design & Creative Media",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-animation",
+        "https://www.studymalaysia.com/what/course/APU/0056670/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Digital Advertising",
+      "program_slug": "ba-digital-advertising",
+      "field": "Design & Creative Media",
+      "duration": "3 years 6 months",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-arts-digital-advertising",
+        "https://www.studymalaysia.com/what/course/APU/0056899/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Architecture",
+      "program_slug": "bsc-architecture",
+      "field": "Architecture",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM106,800.00",
+        "international": "RM110,400.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/bachelor-of-science-architecture",
+        "https://www.studymalaysia.com/what/course/APU/0058647/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 26800.0,
+    "international_total": 28400.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: RM26,800.00"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/apu/courses/"
+  ],
+  "last_updated": "2026-09-15"
+}

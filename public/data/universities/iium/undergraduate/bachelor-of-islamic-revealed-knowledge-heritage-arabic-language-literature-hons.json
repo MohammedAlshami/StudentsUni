@@ -1,0 +1,41 @@
+{
+  "university": "International Islamic University Malaysia",
+  "university_slug": "iium",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Islamic Revealed Knowledge & Heritage (Arabic Language and Literature) (Hons)",
+  "field": "Islamic Studies",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 6400,
+    "international_total": 19200,
+    "per_year_local": 1600,
+    "per_year_international": 4800,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/IIUM/0057798/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

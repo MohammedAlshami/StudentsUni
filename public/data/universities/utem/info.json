@@ -1,0 +1,32 @@
+{
+  "university": "Universiti Teknikal Malaysia Melaka",
+  "university_slug": "utem",
+  "abbreviation": "UTeM",
+  "type": "public-university",
+  "state": "Melaka",
+  "website": "https://www.utem.edu.my",
+  "phone": "606-331 6251",
+  "address": "Hang Tuah Jaya, 76100 Durian Tunggal, Melaka, Malaysia",
+  "established": null,
+  "students": {
+    "undergraduate": 18261,
+    "postgraduate": 1485
+  },
+  "faculties": [
+    "Faculty of Electronics and Computer Technology and Engineering (FTKEK)",
+    "Faculty of Electrical Technology and Engineering (FTKE)",
+    "Faculty of Mechanical Technology and Engineering (FTKM)",
+    "Faculty of Industrial and Manufacturing Technology and Engineering (FTKIP)",
+    "Faculty of Information and Communications Technology (FTMK)",
+    "Faculty of Technology Management and Technopreneurship (FPTT)",
+    "Faculty of Artificial Intelligence and Cyber Security (FAIX)",
+    "School of Graduate Studies (SPS)",
+    "School of International Studies and Global Languages",
+    "Institute of Technology Management and Entrepreneurship (IPTK)"
+  ],
+  "sources": [
+    "https://www.utem.edu.my",
+    "https://www.studymalaysia.com/edu/utem/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

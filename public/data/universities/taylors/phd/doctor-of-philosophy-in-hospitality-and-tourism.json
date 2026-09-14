@@ -1,0 +1,20 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "phd",
+  "program_name": "Doctor of Philosophy In Hospitality & Tourism",
+  "slug": "doctor-of-philosophy-in-hospitality-and-tourism",
+  "program_slug": "doctor-of-philosophy-in-hospitality-and-tourism",
+  "field": "Hospitality and Tourism",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/phd-research/doctor-of-philosophy-in-hospitality-tourism.html"
+  ],
+  "confidence": 0.5,
+  "last_updated": "2026-09-14"
+}

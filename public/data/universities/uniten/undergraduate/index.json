@@ -1,0 +1,80 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "level": "undergraduate",
+  "level_name": "Bachelor's Degree",
+  "programs_count": 14,
+  "programs": [
+    {
+      "program_name": "Bachelor of Civil Engineering (Hons)",
+      "program_slug": "bachelor-of-civil-engineering-hons",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Bachelor of Electrical & Electronics Engineering (Hons)",
+      "program_slug": "bachelor-of-electrical-electronics-engineering-hons",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Bachelor of Electrical Power Engineering (Hons)",
+      "program_slug": "bachelor-of-electrical-power-engineering-hons",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering (Hons)",
+      "program_slug": "bachelor-of-mechanical-engineering-hons",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Systems and Networking) (Hons)",
+      "program_slug": "bachelor-of-computer-science-systems-networking-hons",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Software Engineering) (Hons)",
+      "program_slug": "bachelor-of-computer-science-software-engineering-hons",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Cyber Security) (Hons)",
+      "program_slug": "bachelor-of-computer-science-cyber-security-hons",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Artificial Intelligence) (Hons)",
+      "program_slug": "bachelor-of-computer-science-artificial-intelligence-hons",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Graphics & Multimedia) (Hons)",
+      "program_slug": "bachelor-of-information-technology-graphics-multimedia-hons",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Information System) (Hons)",
+      "program_slug": "bachelor-of-information-technology-information-system-hons",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Bachelor of Business Economics (Hons)",
+      "program_slug": "bachelor-of-business-economics-hons",
+      "field": "Business"
+    },
+    {
+      "program_name": "Bachelor of Economics (Hons) in Energy",
+      "program_slug": "bachelor-of-economics-hons-in-energy",
+      "field": "Business"
+    },
+    {
+      "program_name": "Bachelor of Accounting (Hons)",
+      "program_slug": "bachelor-of-accounting-hons",
+      "field": "Business"
+    },
+    {
+      "program_name": "Bachelor of Finance (Hons)",
+      "program_slug": "bachelor-of-finance-hons",
+      "field": "Business"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

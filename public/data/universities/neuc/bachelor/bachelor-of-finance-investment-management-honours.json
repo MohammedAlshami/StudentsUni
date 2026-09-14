@@ -1,0 +1,46 @@
+{
+  "university": "New Era University College",
+  "university_slug": "neuc",
+  "level": "bachelor",
+  "program_name": "Bachelor of Finance (Investment Management) (Honours)",
+  "program_slug": "bachelor-of-finance-investment-management-honours",
+  "field": "finance",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "MQA approved (N/0412/6/0060)",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.newera.edu.my/course_details.php?acalevel=1",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-15"
+}

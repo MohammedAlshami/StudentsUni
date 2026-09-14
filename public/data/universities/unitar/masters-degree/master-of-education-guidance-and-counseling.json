@@ -1,0 +1,34 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Masters Degree",
+  "program_name": "Master of Education (Guidance and Counseling)",
+  "field": "Education (Teacher Training & Education Sciences)",
+  "slug": "master-of-education-guidance-and-counseling",
+  "duration": "16 months",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "23580/Course",
+    "international": "23580/Course",
+    "local_total": 10875,
+    "currency": "MYR",
+    "international_total": 19815
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0054316/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

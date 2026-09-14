@@ -1,0 +1,46 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Pre-University/Foundation Studies",
+  "program_name": "Foundation in Science (Medical/Pharmacy)",
+  "field": "Science",
+  "slug": "foundation-in-science-medical-pharmacy",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Oct",
+    "Mar"
+  ],
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 20450,
+    "currency": "MYR",
+    "international_total": 27400,
+    "per_year_local": 20450,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0006345/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

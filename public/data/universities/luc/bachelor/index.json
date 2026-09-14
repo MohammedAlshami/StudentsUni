@@ -1,0 +1,35 @@
+{
+  "level": "bachelor",
+  "programs": [
+    {
+      "slug": "bachelor-hons-in-business-administration",
+      "name": "Bachelor (Hons) in Business Administration",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-in-business-administration-with-health-administration-honours",
+      "name": "Bachelor in Business Administration with Health Administration (Honours)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-of-business-administration-in-human-resource-management",
+      "name": "Bachelor of Business Administration in Human Resource Management",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-of-management-oil-and-gas-management",
+      "name": "Bachelor of Management (Oil and Gas Management)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-of-business-entrepreneurship",
+      "name": "Bachelor of Business Entrepreneurship",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-of-business-administration-in-airline-and-airport-management",
+      "name": "Bachelor of Business Administration in Airline and Airport Management",
+      "field": "Business & Management"
+    }
+  ]
+}

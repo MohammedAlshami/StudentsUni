@@ -1,0 +1,29 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "masters",
+  "program_name": "Master of Science in Actuarial Science with a specialism in Economics",
+  "program_slug": "msc-actuarial-science-economics",
+  "field": "Actuarial Studies",
+  "duration": null,
+  "mode": "Full-time / Part-time",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": null,
+    "currency": "MYR",
+    "local_total": 34800.0,
+    "international_total": 38800.0,
+    "notes": "Based on MSc Actuarial Science fee from StudyMalaysia",
+    "per_year_local": 13920.0
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/msc-in-actuarial-science-economics",
+    "https://www.studymalaysia.com/edu/apu/courses/",
+    "https://www.studymalaysia.com/what/course/APU/0053545/"
+  ],
+  "confidence": 0.7,
+  "last_updated": "2026-09-15"
+}

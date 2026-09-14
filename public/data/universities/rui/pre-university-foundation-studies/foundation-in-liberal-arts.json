@@ -1,0 +1,33 @@
+{
+  "university": "Raffles University Iskandar",
+  "university_slug": "rui",
+  "level": "Pre-University/Foundation Studies",
+  "program_name": "Foundation in Liberal Arts",
+  "field": "Arts & Design",
+  "slug": "foundation-in-liberal-arts",
+  "duration": "1 Yr",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": "27500/Course",
+    "international_total": 27500,
+    "currency": "MYR",
+    "per_year_international": 27500,
+    "notes": "Total fee from existing data Local fees not published online; contact university.",
+    "local_total": null,
+    "per_year_local": null
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/RUI/0055330/",
+    {
+      "url": "https://raffles-university.edu.my/programme/foundation-in-liberal-arts/",
+      "publisher": "Raffles University",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

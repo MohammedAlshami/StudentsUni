@@ -1,0 +1,36 @@
+{
+  "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
+  "university_slug": "unishams",
+  "abbreviation": "UniSHAMS",
+  "slug": "unishams",
+  "type": "private-university",
+  "state": "Kedah",
+  "city": "Kuala Ketil",
+  "website": "https://www.unishams.edu.my",
+  "studymalaysia_url": null,
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "degree",
+    "postgraduate-diploma",
+    "masters",
+    "phd"
+  ],
+  "program_counts": {
+    "foundation": 3,
+    "diploma": 11,
+    "degree": 12,
+    "postgraduate-diploma": 2,
+    "masters": 9,
+    "phd": 8
+  },
+  "sources": [
+    {
+      "url": "https://unishams.edu.my/program-offered",
+      "type": "official",
+      "note": "Programs offered page"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "SIRIM Certified & SETARA Competitive. Formerly Kolej Universiti Insaniah (KUIN)."
+}

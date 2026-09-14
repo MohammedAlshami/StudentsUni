@@ -1,0 +1,69 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "abbreviation": "TARUMT",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "country": "Malaysia",
+  "website": "https://www.tarc.edu.my",
+  "established": null,
+  "accreditation": "MQA",
+  "ranking": {
+    "setara": "Competent (Tier 5)",
+    "mdharti": "Approved"
+  },
+  "study_areas": [
+    "Accounting & Finance",
+    "Business Management & Administration",
+    "Computing & IT",
+    "Engineering & Engineering Trades",
+    "Architecture & Building",
+    "Communication & Broadcasting",
+    "Arts & Design",
+    "Hospitality & Tourism",
+    "Social Sciences",
+    "Education",
+    "Applied Sciences",
+    "Life Sciences",
+    "Physical Sciences"
+  ],
+  "faculties": [
+    "Faculty of Accountancy, Finance and Business",
+    "Faculty of Applied Sciences",
+    "Faculty of Computing and Information Technology",
+    "Faculty of Built Environment",
+    "Faculty of Engineering and Technology",
+    "Faculty of Communication and Creative Industries",
+    "Faculty of Social Science and Humanities",
+    "Centre for Pre-University Studies",
+    "Centre for Postgraduate Studies and Research"
+  ],
+  "campuses": [
+    "Kuala Lumpur Campus",
+    "Penang Branch",
+    "Perak Branch",
+    "Johor Branch",
+    "Pahang Branch",
+    "Sabah Branch"
+  ],
+  "sources": [
+    "https://www.tarc.edu.my",
+    "https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/undergraduate-programme/",
+    "https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/postgraduate-programme/",
+    "https://www.studymalaysia.com/edu/tarumt/courses/",
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "last_updated": "2026-09-15",
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "TAR UMT does not publish PhD fees online. Contact university for current fee information."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "pre-university",
+  "program_name": "Foundation Programme (Architecture & Design Route)",
+  "program_slug": "foundation-programme-architecture-design",
+  "field": "Architecture & Design",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM26,800.00",
+    "international": "RM28,400.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/foundation-programme-architecture-design",
+    "https://www.studymalaysia.com/what/course/APU/0058857/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

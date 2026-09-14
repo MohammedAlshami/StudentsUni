@@ -1,0 +1,160 @@
+{
+  "university": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "university_slug": "umpsa",
+  "level": "phd",
+  "source": "https://www.studymalaysia.com/edu/ump/courses/",
+  "last_updated": "2026-09-15",
+  "programs": [
+    {
+      "slug": "phd-biotechnology",
+      "name": "Doctor of Philosophy (Biotechnology)",
+      "field": "Science (Life Science)"
+    },
+    {
+      "slug": "phd-civil-engineering",
+      "name": "Doctor of Philosophy (Civil Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-technology-management",
+      "name": "Doctor of Philosophy (Technology Management)",
+      "field": "Business Management & Administration"
+    },
+    {
+      "slug": "phd-mechanical-engineering",
+      "name": "Doctor of Philosophy (Mechanical Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-automotive-engineering",
+      "name": "Doctor of Philosophy (Automotive Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-chemical-engineering",
+      "name": "Doctor of Philosophy (Chemical Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-bio-process-engineering",
+      "name": "Doctor of Philosophy (Bio-Process Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-construction",
+      "name": "Doctor of Philosophy (Construction)",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "phd-computer-science",
+      "name": "Doctor of Philosophy (Computer Science)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "phd-electrical-engineering",
+      "name": "Doctor of Philosophy (Electrical Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-electronic-engineering",
+      "name": "Doctor of Philosophy (Electronic Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-manufacturing-engineering",
+      "name": "Doctor of Philosophy (Manufacturing Engineering)",
+      "field": "Manufacturing & Processing"
+    },
+    {
+      "slug": "phd-environmental-technology",
+      "name": "Doctor of Philosophy (Environmental Technology)",
+      "field": "Science (Applied Science)"
+    },
+    {
+      "slug": "phd-environmental-management",
+      "name": "Doctor of Philosophy (Environmental Management)",
+      "field": "Science (Applied Science)"
+    },
+    {
+      "slug": "phd-instrumentation-engineering",
+      "name": "Doctor of Philosophy (Instrumentation Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-gas-engineering",
+      "name": "Doctor of Philosophy (Gas Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-industrial-engineering",
+      "name": "Doctor of Philosophy (Industrial Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-mechatronic-engineering",
+      "name": "Doctor of Philosophy (Mechatronic Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-manufacturing",
+      "name": "Doctor of Philosophy (Manufacturing)",
+      "field": "Manufacturing & Processing"
+    },
+    {
+      "slug": "phd-software-engineering",
+      "name": "Doctor of Philosophy (Software Engineering)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "phd-industrial-chemistry",
+      "name": "Doctor of Philosophy (Industrial Chemistry)",
+      "field": "Science (Physical Science)"
+    },
+    {
+      "slug": "phd-mathematics",
+      "name": "Doctor of Philosophy (Mathematics)",
+      "field": "Mathematics & Statistics"
+    },
+    {
+      "slug": "phd-chemistry",
+      "name": "Doctor of Philosophy (Chemistry)",
+      "field": "Science (Physical Science)"
+    },
+    {
+      "slug": "phd-advanced-material",
+      "name": "Doctor of Philosophy (Advanced Material)",
+      "field": "Science (Physical Science)"
+    },
+    {
+      "slug": "phd-physics",
+      "name": "Doctor of Philosophy (Physics)",
+      "field": "Science (Physical Science)"
+    },
+    {
+      "slug": "phd-statistics",
+      "name": "Doctor of Philosophy (Statistics)",
+      "field": "Mathematics & Statistics"
+    },
+    {
+      "slug": "phd-food-science",
+      "name": "Doctor of Philosophy (Food Science)",
+      "field": "Science (Life Science)"
+    },
+    {
+      "slug": "phd-food-technology",
+      "name": "Doctor of Philosophy (Food Technology)",
+      "field": "Science (Life Science)"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 680.0,
+    "per_year_international": null,
+    "notes": "Per semester: 340/sem"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/umpsa/courses/"
+  ]
+}

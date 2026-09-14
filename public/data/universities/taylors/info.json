@@ -1,0 +1,16 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "abbreviation": "Taylors",
+  "type": "private-university",
+  "state": "Selangor",
+  "website": "https://www.taylors.edu.my",
+  "qs_ranking": "Top 272 in the World, Top 30 in Asia",
+  "levels_available": ["diploma", "degree", "masters", "phd"],
+  "total_programs": 62,
+  "last_updated": "2026-09-14",
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes.html",
+    "https://university.taylors.edu.my/en.html"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "university": "University of Selangor",
+  "university_slug": "unisel",
+  "level": "phd",
+  "program_name": "Doctor Of Philosophy In Education",
+  "field": "Education",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Nov",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 9174,
+    "international_total": 17424,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.studymalaysia.com/edu/unisel/courses/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "doctor-of-philosophy-in-education"
+}

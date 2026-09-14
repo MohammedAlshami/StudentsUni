@@ -1,0 +1,32 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "phd",
+  "program_name": "Ph.D. in English",
+  "field": "English",
+  "duration": "2-3 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM35,690/Yr",
+    "international": "RM39,940/Yr",
+    "local_total": 107070,
+    "per_year_local": 35690,
+    "international_total": 119820,
+    "per_year_international": 39940,
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15",
+  "slug": "phd-in-english"
+}

@@ -1,0 +1,28 @@
+{
+  "level": "diploma",
+  "level_name": "Diploma",
+  "count": 4,
+  "programs": [
+    {
+      "name": "Diploma Pengurusan Logistik",
+      "slug": "diploma-pengurusan-logistik"
+    },
+    {
+      "name": "Diploma Pentadbiran Perniagaan",
+      "slug": "diploma-pentadbiran-perniagaan"
+    },
+    {
+      "name": "Diploma Kecergasan Pertahanan",
+      "slug": "diploma-kecergasan-pertahanan"
+    },
+    {
+      "name": "Diploma Tahfiz dan Tafsir Al-Quran",
+      "slug": "diploma-tahfiz-dan-tafsir-al-quran"
+    }
+  ],
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pra-siswazah",
+    "https://www.studymalaysia.com/edu/upnm/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

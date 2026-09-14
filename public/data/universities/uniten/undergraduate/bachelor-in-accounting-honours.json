@@ -1,0 +1,36 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "level": "undergraduate",
+  "program_name": "Bachelor in Accounting (Honours)",
+  "program_slug": "bachelor-in-accounting-honours",
+  "field": "Accounting",
+  "duration": "3.5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 63000,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": null
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "college": "UNITEN Business School (UBS)",
+  "campuses": [
+    "Putrajaya",
+    "KSHAS"
+  ],
+  "sources": [
+    "https://www.uniten.edu.my/programme/undergraduate/",
+    {
+      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

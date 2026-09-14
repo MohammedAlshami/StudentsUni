@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Mechanical Engineering with Honours",
+  "program_slug": "bachelor-mechanical-engineering",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM118,400.00",
+    "international": "RM137,200.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA, Board of Engineers Malaysia (BEM)",
+  "sources": [
+    "https://www.apu.edu.my/course/bachelor-of-mechanical-engineering",
+    "https://www.studymalaysia.com/what/course/APU/0058533/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

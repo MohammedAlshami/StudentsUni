@@ -1,0 +1,47 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "master",
+  "program_name": "Master of Business Administration (MBA) (Dual-Award Degree)",
+  "program_slug": "master-of-business-administration-mba-dual-award",
+  "field": "Business Management & Administration",
+  "duration": "14 months",
+  "mode": "Full-time",
+  "study_type": "Flexible Full-time/Part-time Mode",
+  "intakes": [
+    "Mar",
+    "Oct",
+    "Jan",
+    "May",
+    "Aug"
+  ],
+  "fees": {
+    "local": "Refer to newinti.edu.my",
+    "international": "Refer to newinti.edu.my",
+    "local_total": 27648,
+    "currency": "MYR",
+    "international_total": 27648
+  },
+  "requirements": "Bachelor's degree or its equivalent acceptable by the university",
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "awarding_body": "Dual-award Degree - MBA conferred by INTI and MA Management Studies by University of Hertfordshire, UK",
+  "faculty": "Postgraduate",
+  "format": "By Coursework",
+  "credit_hours": 44,
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0006275/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

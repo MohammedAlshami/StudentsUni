@@ -1,0 +1,26 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "bachelor",
+  "program_name": "American Degree Transfer Program (Arts)",
+  "program_slug": "american-degree-transfer-program-arts",
+  "field": "Arts & Design",
+  "duration": "2 Years (Malaysia) + 2 Years (USA/Canada)",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to website",
+    "international": "Refer to website"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "major_options": "Business, Computer Science, Mass Communication, Psychology, etc.",
+  "faculty": "American Degree Transfer Program",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0009951/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,27 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "masters",
+  "program_name": "Master of Science in Internet Engineering",
+  "field": "Engineering",
+  "duration": "1.5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 35000,
+    "international_total": 40000,
+    "per_year_local": "RM35,000-RM45,000",
+    "per_year_international": "RM40,000-RM50,000",
+    "notes": "Typical engineering master's at UM Wales"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/",
+    "https://www.walesum.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15",
+  "slug": "master-of-science-in-internet-engineering"
+}

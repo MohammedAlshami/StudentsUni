@@ -1,0 +1,43 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "diploma",
+  "program_name": "Diploma in Mechanical Engineering",
+  "program_slug": "diploma-in-mechanical-engineering",
+  "field": "Engineering & Engineering Trades",
+  "duration": "2.5 years",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": [
+    "Aug",
+    "Jun",
+    "Jan"
+  ],
+  "fees": {
+    "local": "Enquire for fees",
+    "international": "Enquire for fees",
+    "local_total": 17049,
+    "currency": "MYR",
+    "international_total": 17049
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "faculty": "Engineering",
+  "exam_body": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0006037/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

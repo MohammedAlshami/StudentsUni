@@ -1,0 +1,25 @@
+{
+  "university": "GlobalNxt University",
+  "university_slug": "gnu",
+  "level": "master",
+  "program_name": "Master of Business Administration (Banking and Finance)",
+  "field": "Business Administration",
+  "duration": null,
+  "mode": "ODL",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": {
+    "mqa_code": "R2/0414/7/0171",
+    "expiry": "04/29",
+    "mqa_id": "MQA/FA4022"
+  },
+  "sources": [
+    {
+      "url": "https://www.globalnxt.edu.my",
+      "type": "official"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-14"
+}

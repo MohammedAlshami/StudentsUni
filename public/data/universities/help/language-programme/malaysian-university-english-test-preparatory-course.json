@@ -1,0 +1,17 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "language-programme",
+  "program_name": "Malaysian University English Test Preparatory Course",
+  "program_slug": "malaysian-university-english-test-preparatory-course",
+  "field": "Languages",
+  "duration": "Part 1: 4 weeks, Part 2: 4 weeks",
+  "mode": "Short-term Course",
+  "fees": { "local": "RM1,000 Per Level", "international": null },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0058741/",
+    "https://www.help.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

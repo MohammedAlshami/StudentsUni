@@ -1,0 +1,317 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "postgraduate",
+  "level_label": "Master's Degree & Postgraduate Diploma",
+  "program_count": 32,
+  "programs": [
+    {
+      "program_name": "Master of Accounting and Finance",
+      "program_slug": "master-of-accounting-and-finance",
+      "field": "Accounting & Finance",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM18,600.00 (FT) / RM19,500.00 (PT)",
+        "international": "RM34,900.00"
+      }
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "program_slug": "master-of-business-administration",
+      "field": "Business Management & Administration",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM17,800.00 (FT) / RM18,700.00 (PT)",
+        "international": "RM33,800.00"
+      }
+    },
+    {
+      "program_name": "Master in Business Analytics",
+      "program_slug": "master-in-business-analytics",
+      "field": "Computing & IT",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null,
+      "international_fees_note": "EMGS fees not included"
+    },
+    {
+      "program_name": "Master of Corporate Governance",
+      "program_slug": "master-of-corporate-governance",
+      "field": "Accounting & Finance",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM18,000.00 (FT) / RM18,900.00 (PT)",
+        "international": "RM34,000.00"
+      }
+    },
+    {
+      "program_name": "Master in Digital Transformation",
+      "program_slug": "master-in-digital-transformation",
+      "field": "Computing & IT",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Science in Economics",
+      "program_slug": "master-of-science-in-economics",
+      "field": "Business Management & Administration",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM10,800.00 (FT) / RM11,900.00 (PT)",
+        "international": "RM24,600.00"
+      }
+    },
+    {
+      "program_name": "Master of Investment Management",
+      "program_slug": "master-of-investment-management",
+      "field": "Accounting & Finance",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM17,800.00 (FT) / RM18,700.00 (PT)",
+        "international": "RM33,800.00"
+      }
+    },
+    {
+      "program_name": "Master of Management",
+      "program_slug": "master-of-management",
+      "field": "Business Management & Administration",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM10,800.00 (FT) / RM11,900.00 (PT)",
+        "international": "RM24,600.00"
+      }
+    },
+    {
+      "program_name": "Master in Supply Chain Management",
+      "program_slug": "master-in-supply-chain-management",
+      "field": "Transport Services",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Science in Built Environment",
+      "program_slug": "master-of-science-in-built-environment",
+      "field": "Architecture & Building",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM10,800.00 (FT) / RM11,900.00 (PT)",
+        "international": "RM24,600.00"
+      }
+    },
+    {
+      "program_name": "Master of Architecture",
+      "program_slug": "master-of-architecture",
+      "field": "Architecture & Building",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Science in Construction Contract Management",
+      "program_slug": "master-of-science-in-construction-contract-management",
+      "field": "Architecture & Building",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Science in Construction Project Management",
+      "program_slug": "master-of-science-in-construction-project-management",
+      "field": "Architecture & Building",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Science in Property and Facilities Management",
+      "program_slug": "master-of-science-in-property-and-facilities-management",
+      "field": "Architecture & Building",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Science in Real Estate Development",
+      "program_slug": "master-of-science-in-real-estate-development",
+      "field": "Architecture & Building",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM19,800.00 (FT) / RM20,700.00 (PT)",
+        "international": "RM36,600.00"
+      }
+    },
+    {
+      "program_name": "Master in Computer Science",
+      "program_slug": "master-of-computer-science",
+      "field": "Computing & IT",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Information Technology",
+      "program_slug": "master-of-information-technology",
+      "field": "Computing & IT",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM10,800.00 (FT) / RM11,900.00 (PT)",
+        "international": "RM24,600.00"
+      }
+    },
+    {
+      "program_name": "Master of Science in Mathematical Sciences",
+      "program_slug": "master-of-science-in-mathematical-sciences",
+      "field": "Computing & IT",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Engineering Science",
+      "program_slug": "master-of-engineering-science",
+      "field": "Engineering & Engineering Trades",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Arts in Communication",
+      "program_slug": "master-of-arts-in-communication",
+      "field": "Communication & Broadcasting",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Art and Design",
+      "program_slug": "master-of-art-and-design",
+      "field": "Arts & Design",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Science in Applied Biotechnology",
+      "program_slug": "master-of-science-in-applied-biotechnology",
+      "field": "Applied Sciences",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Science in Industrial Chemistry",
+      "program_slug": "master-of-science-in-industrial-chemistry",
+      "field": "Applied Sciences",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Science (Food Science)",
+      "program_slug": "master-of-science-food-science",
+      "field": "Applied Sciences",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM10,800.00 (FT) / RM11,900.00 (PT)",
+        "international": "RM24,600.00"
+      }
+    },
+    {
+      "program_name": "Master of Science (Life Science)",
+      "program_slug": "master-of-science-life-science",
+      "field": "Life Sciences",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM10,800.00 (FT) / RM11,900.00 (PT)",
+        "international": "RM24,600.00"
+      }
+    },
+    {
+      "program_name": "Master of Science in Sports Science",
+      "program_slug": "master-of-science-in-sports-science",
+      "field": "Applied Sciences",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM10,800.00 (FT) / RM11,900.00 (PT)",
+        "international": "RM24,600.00"
+      }
+    },
+    {
+      "program_name": "Master of Arts in English Studies",
+      "program_slug": "master-of-arts-in-english-studies",
+      "field": "Social Sciences",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Arts (Psychology)",
+      "program_slug": "master-of-arts-psychology",
+      "field": "Social Sciences",
+      "duration": "2 years (FT) / 3 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM11,200.00 (FT) / RM12,400.00 (PT)",
+        "international": "RM25,300.00"
+      }
+    },
+    {
+      "program_name": "Master of Counselling",
+      "program_slug": "master-of-counselling",
+      "field": "Social Sciences",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master of Education",
+      "program_slug": "master-of-education",
+      "field": "Education",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Master in Hospitality and Tourism Management",
+      "program_slug": "master-in-hospitality-and-tourism-management",
+      "field": "Hospitality & Tourism",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Postgraduate Diploma in Education",
+      "program_slug": "postgraduate-diploma-in-education",
+      "field": "Education",
+      "duration": "1 year (FT) / 2 years (PT)",
+      "mode": "Flexible",
+      "fees": null
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 10200.0,
+    "international_total": 18400.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: RM10,200.00"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/tarumt/courses/"
+  ],
+  "last_updated": "2026-09-15"
+}

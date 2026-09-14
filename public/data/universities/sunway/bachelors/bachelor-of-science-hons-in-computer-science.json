@@ -1,0 +1,44 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "bachelors",
+  "program_name": "Bachelor of Science (Hons) in Computer Science",
+  "program_slug": "bachelor-of-science-hons-in-computer-science",
+  "field": "Computing & IT",
+  "faculty": null,
+  "duration": "3 years, 9 semesters",
+  "mode": "Full-time",
+  "intakes": [
+    "Aug",
+    "Jun",
+    "Jan"
+  ],
+  "fees": {
+    "local": "From RM78,190",
+    "international": "International Administrative Fee RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 30038,
+    "per_year_local": null,
+    "notes": "Fee: FromRM78,190.00",
+    "international_total": 31725
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0053646/",
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

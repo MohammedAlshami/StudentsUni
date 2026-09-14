@@ -1,0 +1,21 @@
+{
+  "university": "Widad University College",
+  "university_slug": "widad",
+  "level": "diploma",
+  "program_name": "Diploma in Fashion Creative Design",
+  "field": "Fashion Design",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.widad.edu.my/uc/my/courses/fess/fashion-creative-design",
+      "type": "official"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

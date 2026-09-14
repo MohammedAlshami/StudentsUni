@@ -1,0 +1,57 @@
+{
+  "university": "Multimedia University",
+  "university_slug": "mmu",
+  "level": "foundation",
+  "program_count": 8,
+  "programs": [
+    {
+      "slug": "foundation-in-communication",
+      "name": "Foundation in Communication",
+      "field": "Communication",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "foundation-in-cinematic-arts",
+      "name": "Foundation in Cinematic Arts",
+      "field": "Cinematic Arts",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "foundation-in-creative-multimedia",
+      "name": "Foundation in Creative Multimedia",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "foundation-in-engineering",
+      "name": "Foundation in Engineering",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "foundation-in-information-technology",
+      "name": "Foundation in Information Technology",
+      "field": "Information Technology",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "foundation-in-management",
+      "name": "Foundation in Management",
+      "field": "Management",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "foundation-in-business",
+      "name": "Foundation in Business",
+      "field": "Business",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "foundation-in-applied-science",
+      "name": "Foundation in Applied Science",
+      "field": "Applied Science",
+      "detail_status": "complete"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

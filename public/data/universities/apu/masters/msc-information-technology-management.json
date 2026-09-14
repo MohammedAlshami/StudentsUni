@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "masters",
+  "program_name": "MSc in Information Technology Management",
+  "program_slug": "msc-information-technology-management",
+  "field": "Computing & Technology",
+  "duration": "FT: 1 year; PT: 2 years 6 months",
+  "mode": "Full-time / Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM38,800.00",
+    "international": "RM42,000.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/msc-information-technoloy-management",
+    "https://www.studymalaysia.com/what/course/APU/0058859/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

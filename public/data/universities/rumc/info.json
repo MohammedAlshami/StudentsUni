@@ -1,0 +1,33 @@
+{
+  "university": "Royal College of Surgeons in Ireland & UCD Malaysia Campus",
+  "university_slug": "rumc",
+  "abbreviation": "RUMC",
+  "slug": "rumc",
+  "type": "private-university",
+  "state": "Penang",
+  "city": "George Town",
+  "website": "https://www.rumc.edu.my",
+  "studymalaysia_url": null,
+  "levels_available": [
+    "foundation",
+    "pre-u",
+    "degree",
+    "masters",
+    "phd"
+  ],
+  "program_counts": {
+    "foundation": 2,
+    "degree": 2,
+    "masters": 1,
+    "phd": 1
+  },
+  "sources": [
+    {
+      "url": "https://www.rumc.edu.my/programmes/",
+      "type": "official",
+      "note": "Programmes listing page"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Medical school campus of RCSI and UCD in Penang."
+}

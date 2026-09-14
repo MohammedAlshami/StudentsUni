@@ -1,0 +1,50 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "level": "postgraduate",
+  "program_name": "Master of Science in Finance",
+  "program_slug": "master-of-science-in-finance",
+  "field": "Business",
+  "duration": "1-4 years",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": [
+    "January",
+    "July",
+    "September"
+  ],
+  "fees": {
+    "local": {
+      "tuition": "RM14,800",
+      "registration": "RM1,348",
+      "accommodation_deposit": "RM250"
+    },
+    "international": {
+      "tuition": "RM16,800",
+      "visa_application": "USD787.50 (RM3,150)",
+      "registration": "USD1,650 (RM6,600)"
+    },
+    "currency": "MYR",
+    "local_total": 14800,
+    "per_year_local": null
+  },
+  "requirements": {
+    "local": "Bachelor's degree in Finance or related field with minimum CGPA 2.50 or equivalent",
+    "international": "Bachelor's degree in Finance or related field with minimum CGPA 2.50 or equivalent, English proficiency"
+  },
+  "accreditation": {
+    "mqa_code": null,
+    "status": "Accredited by MQA"
+  },
+  "structure_type": "By Research (Structure A)",
+  "sources": [
+    "https://www.uniten.edu.my/programme/postgraduate/",
+    "https://www.studymalaysia.com/what/course/UNITEN/0054332/",
+    {
+      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

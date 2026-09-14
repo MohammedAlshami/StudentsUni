@@ -1,0 +1,33 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "masters",
+  "program_name": "M.Sc. (Environmental Engineering)",
+  "field": "Engineering",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep",
+    "Feb"
+  ],
+  "fees": {
+    "local": "RM51,570",
+    "international": "RM57,180",
+    "local_total": 50000,
+    "currency": "MYR",
+    "international_total": 55000
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "msc-environmental-engineering"
+}

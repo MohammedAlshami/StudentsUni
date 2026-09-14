@@ -1,0 +1,51 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "diploma",
+  "program_name": "Diploma in Accounting",
+  "program_slug": "diploma-in-accounting",
+  "field": "Accounting & Finance",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
+  "fees": {
+    "local": "RM19,700.00",
+    "international": "RM45,300.00",
+    "local_total": 9000,
+    "currency": "MYR",
+    "international_total": 15700,
+    "per_year_local": 3600,
+    "per_year_international": 6280
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://fafb.tarc.edu.my/programmes/diploma/accounting",
+    "https://www.studymalaysia.com/what/course/tarumt/0058374/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

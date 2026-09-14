@@ -1,0 +1,43 @@
+{
+  "level": "master",
+  "university": "gnu",
+  "programs": [
+    {
+      "slug": "mba-odl",
+      "name": "Master of Business Administration",
+      "mode": "ODL",
+      "field": "Business Administration"
+    },
+    {
+      "slug": "mba-on-campus",
+      "name": "Master of Business Administration",
+      "mode": "On-Campus",
+      "field": "Business Administration"
+    },
+    {
+      "slug": "mba-banking-finance-odl",
+      "name": "Master of Business Administration (Banking and Finance)",
+      "mode": "ODL",
+      "field": "Business Administration"
+    },
+    {
+      "slug": "msc-it-management-odl",
+      "name": "Master of Science in Information Technology Management",
+      "mode": "ODL",
+      "field": "Information Technology"
+    },
+    {
+      "slug": "msc-business-odl",
+      "name": "Master of Science (Business)",
+      "mode": "ODL",
+      "field": "Business"
+    },
+    {
+      "slug": "med-odl",
+      "name": "Master of Education",
+      "mode": "ODL",
+      "field": "Education"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

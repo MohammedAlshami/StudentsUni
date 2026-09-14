@@ -1,0 +1,39 @@
+{
+  "slug": "uum",
+  "name": "Universiti Utara Malaysia",
+  "abbr": "UUM",
+  "type": "public-university",
+  "state": "Kedah",
+  "city": "Sintok",
+  "website": "https://www.uum.edu.my",
+  "levels_available": ["bachelor", "master", "phd"],
+  "program_counts": {
+    "foundation": 1,
+    "bachelor": 44,
+    "master": 68,
+    "phd": 7
+  },
+  "sources": [
+    {
+      "url": "https://www.uum.edu.my",
+      "publisher": "UUM Official Website",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.studymalaysia.com/edu/uum/courses/",
+      "publisher": "StudyMalaysia.com",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.uum.edu.my/admissions/application-guidelines/undergraduate-local",
+      "publisher": "UUM Admissions",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.uum.edu.my/admissions/application-guidelines/postgraduate",
+      "publisher": "UUM Admissions",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

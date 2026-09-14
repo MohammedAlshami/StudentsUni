@@ -1,0 +1,19 @@
+{
+  "level": "executive",
+  "university": "imu",
+  "programs": [
+    {
+      "slug": "digital-leadership-value-creation",
+      "name": "Digital Leadership and Value Creation",
+      "mode": "Unknown",
+      "field": "Leadership"
+    },
+    {
+      "slug": "professional-certificate-hospital-management",
+      "name": "Professional Certificate in Hospital Management",
+      "mode": "Unknown",
+      "field": "Healthcare Management"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

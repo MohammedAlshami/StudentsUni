@@ -1,0 +1,37 @@
+{
+  "university": "University of Southampton Malaysia",
+  "university_slug": "usmc",
+  "level": "pre-university",
+  "program_name": "Engineering Foundation Year",
+  "field": "Engineering",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep",
+    "Mar",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 26200,
+    "international_total": 31440,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.studymalaysia.com/edu/usmc/courses/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "engineering-foundation-year"
+}

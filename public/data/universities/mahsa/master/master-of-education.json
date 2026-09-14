@@ -1,0 +1,37 @@
+{
+  "university_slug": "mahsa",
+  "level": "master",
+  "program_name": "Master of Education",
+  "program_slug": "master-of-education",
+  "field": "Education",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Aug",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 19000,
+    "international_total": 22800,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mahsa.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

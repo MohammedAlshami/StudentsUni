@@ -1,0 +1,17 @@
+{
+  "university": "First City University College",
+  "university_slug": "fcuc",
+  "level": "postgraduate",
+  "program_name": "Master of Business Administration (MBA)",
+  "program_slug": "master-of-business-administration",
+  "field": "Business",
+  "duration": "1.5 years",
+  "mode": "Full Time",
+  "intakes": ["January", "May", "September"],
+  "fees": null,
+  "requirements": {"bachelor": "Bachelor's degree with minimum CGPA 2.5"},
+  "accreditation": null,
+  "sources": ["https://www.firstcity.edu.my/programmes"],
+  "confidence": 0.7,
+  "last_updated": "2026-09-14"
+}

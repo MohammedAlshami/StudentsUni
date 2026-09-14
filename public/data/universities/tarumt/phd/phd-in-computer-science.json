@@ -1,0 +1,32 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "phd",
+  "program_name": "Doctor of Philosophy in Computer Science",
+  "program_slug": "phd-in-computer-science",
+  "field": "Computing & IT",
+  "duration": "3-5 years",
+  "mode": "Flexible",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "TAR UMT does not publish PhD fees online. Contact university for current fee information."
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://sites.google.com/tarc.edu.my/cpsr/programmes/by-research/faculty-of-computing-and-information-technology/doctor-of-philosophy-computer-science",
+    "https://www.tarc.edu.my/admissions/programmes/programme-offered-a-z/postgraduate-programme/",
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-15"
+}

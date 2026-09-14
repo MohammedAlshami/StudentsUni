@@ -1,0 +1,37 @@
+{
+  "university": "DRB-HICOM University of Automotive Malaysia",
+  "university_slug": "dhu",
+  "abbreviation": "DHU",
+  "slug": "dhu",
+  "name": "DRB-HICOM University of Automotive Malaysia",
+  "type": "private-university",
+  "state": "Pahang",
+  "city": "Pekan",
+  "website": "https://www.dhu.edu.my",
+  "levels_available": [
+    "diploma"
+  ],
+  "program_counts": {
+    "diploma": 1
+  },
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.dhu.edu.my",
+      "type": "official",
+      "note": "Website displays maintenance page: 'We'll be back soon!' on all URLs"
+    },
+    {
+      "url": "https://www.easyuni.com/search?q=drb+hicom+university",
+      "type": "aggregator",
+      "note": "EasyUni search did not return DHU results"
+    },
+    {
+      "url": "https://www.uniklik.com/university/list",
+      "type": "aggregator",
+      "note": "Uniklik does not list DHU"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Private university in Pekan, Pahang. Website under maintenance. Specializes in automotive education. No program data could be retrieved from any source."
+}

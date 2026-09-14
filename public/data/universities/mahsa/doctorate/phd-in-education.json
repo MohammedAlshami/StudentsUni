@@ -1,0 +1,36 @@
+{
+  "university_slug": "mahsa",
+  "level": "doctorate",
+  "program_name": "PhD in Education",
+  "program_slug": "phd-in-education",
+  "field": "Education",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Aug",
+    "Jan"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 11534,
+    "international_total": 20084,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mahsa.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

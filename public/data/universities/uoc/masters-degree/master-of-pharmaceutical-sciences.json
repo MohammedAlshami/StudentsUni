@@ -1,0 +1,47 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Masters Degree",
+  "program_name": "Master of Pharmaceutical Sciences",
+  "field": "Medicine & Healthcare",
+  "slug": "master-of-pharmaceutical-sciences",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Dec",
+    "Sep",
+    "Mar",
+    "Jun"
+  ],
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 19850,
+    "currency": "MYR",
+    "international_total": 17150,
+    "per_year_local": 9925,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058815/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

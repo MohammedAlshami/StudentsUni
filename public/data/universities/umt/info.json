@@ -1,0 +1,62 @@
+{
+  "university": "Universiti Malaysia Terengganu",
+  "university_slug": "umt",
+  "abbreviation": "UMT",
+  "type": "public-university",
+  "state": "Terengganu",
+  "city": "Kuala Nerus",
+  "website": "https://www.umt.edu.my",
+  "faculties": [
+    {
+      "name": "STEM Foundation Centre",
+      "name_malay": "Pusat Asasi STEM",
+      "abbreviation": "PASTEM"
+    },
+    {
+      "name": "Faculty of Fisheries and Aquaculture Sciences",
+      "name_malay": "Fakulti Sains Perikanan dan Akuakultur",
+      "abbreviation": "FSPA"
+    },
+    {
+      "name": "Faculty of Food Science and Agrotechnology",
+      "name_malay": "Fakulti Sains Makanan dan Agroteknologi",
+      "abbreviation": "FSMA"
+    },
+    {
+      "name": "Faculty of Science and Marine Environment",
+      "name_malay": "Fakulti Sains dan Sekitaran Marin",
+      "abbreviation": "FSSM"
+    },
+    {
+      "name": "Faculty of Computer Science and Mathematics",
+      "name_malay": "Fakulti Sains Komputer dan Matematik",
+      "abbreviation": "FSKM"
+    },
+    {
+      "name": "Faculty of Ocean Engineering Technology",
+      "name_malay": "Fakulti Teknologi Kejuruteraan Kelautan",
+      "abbreviation": "FTKK"
+    },
+    {
+      "name": "Faculty of Maritime Studies",
+      "name_malay": "Fakulti Pengajian Maritim",
+      "abbreviation": "FPM"
+    },
+    {
+      "name": "Faculty of Business, Economics and Social Development",
+      "name_malay": "Fakulti Perniagaan, Ekonomi dan Pembangunan Sosial",
+      "abbreviation": "FPEPS"
+    }
+  ],
+  "total_bachelor_programs": 37,
+  "total_master_programs": 30,
+  "total_phd_programs": 50,
+  "sources": [
+    "https://www.umt.edu.my",
+    "https://www.studymalaysia.com/edu/umt/courses/",
+    "https://umt.my/all-programs-at-umt/",
+    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255",
+    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
+  ],
+  "last_updated": "2026-09-14"
+}

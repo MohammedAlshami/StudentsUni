@@ -1,0 +1,42 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "diploma",
+  "program_name": "Diploma in Early Childhood Education",
+  "program_slug": "diploma-in-early-childhood-education",
+  "field": "Education",
+  "duration": "28 months",
+  "mode": "Full-time",
+  "intakes": [
+    "Feb",
+    "Jan",
+    "May",
+    "Sep",
+    "Aug"
+  ],
+  "fees": {
+    "local": "RM29,800.00",
+    "international": null,
+    "local_total": 11315,
+    "currency": "MYR",
+    "international_total": 11529
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0058733/",
+    "https://www.help.edu.my",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

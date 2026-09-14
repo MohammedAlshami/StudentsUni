@@ -1,0 +1,41 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor of Mechatronics Engineering with Honours",
+  "slug": "bachelor-of-mechatronics-engineering",
+  "program_slug": "bachelor-of-mechatronics-engineering",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 40267,
+    "international_total": 45891,
+    "per_year_local": 94500,
+    "per_year_international": 31848,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/undergraduate/bachelor-of-mechatronics-engineering.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

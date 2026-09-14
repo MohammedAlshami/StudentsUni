@@ -1,0 +1,32 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "bachelors",
+  "program_name": "Bachelor of Science (Hons) Software Engineering",
+  "field": "Computing",
+  "duration": "3 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM38,690/Yr",
+    "international": "RM43,830/Yr",
+    "local_total": 116070,
+    "per_year_local": 38690,
+    "international_total": 131490,
+    "per_year_international": 43830,
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15",
+  "slug": "bachelor-of-science-hons-software-engineering"
+}

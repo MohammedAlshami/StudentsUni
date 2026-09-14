@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Engineering (Chemical) (Honours)",
+  "field": "Engineering & Engineering Trades",
+  "slug": "bachelor-of-engineering-chemical-honours",
+  "duration": "4 Years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "RM113,400",
+    "international": "RM154,560",
+    "currency": "MYR",
+    "local_total": 113400,
+    "international_total": 154560,
+    "per_year_local": 37800,
+    "per_year_international": 51520,
+    "notes": "Annual fee; total = annual x 4 years"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0056006/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

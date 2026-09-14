@@ -1,0 +1,38 @@
+{
+  "university": "Universiti Malaysia Perlis",
+  "university_slug": "unimap",
+  "level": "diploma",
+  "program_name": "Diploma in Engineering (Mechatronic Engineering)",
+  "slug": "diploma-in-engineering-mechatronic",
+  "field": "Engineering",
+  "duration": "6 Semesters",
+  "mode": "Full-time",
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
+  "fees": {
+    "local": "450/Sem",
+    "international": null,
+    "currency": "MYR",
+    "local_total": 450,
+    "international_total": null,
+    "per_year_local": 900,
+    "per_year_international": null,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "entry_requirements": null,
+    "minimum_cgpa": null
+  },
+  "accreditation": {
+    "mqa": true,
+    "programme_accreditation": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UNIMAP/0009339/",
+    "https://www.studymalaysia.com/edu/unimap/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

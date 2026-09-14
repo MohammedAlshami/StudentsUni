@@ -1,0 +1,21 @@
+{
+  "university": "University Malaysia of Computer Science & Engineering",
+  "slug": "unimy",
+  "abbreviation": "UniMy",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "website": "https://www.unimy.edu.my/",
+  "studymalaysia_url": "https://www.studymalaysia.com/edu/unimy/courses/",
+  "levels": [
+    "pre-university",
+    "diploma",
+    "bachelors",
+    "masters",
+    "phd"
+  ],
+  "total_programs": 13,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unimy/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

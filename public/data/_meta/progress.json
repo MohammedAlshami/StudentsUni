@@ -1,0 +1,19 @@
+{
+  "last_updated": "2026-09-15",
+  "total_institutions": 96,
+  "institutions_with_data": 94,
+  "institutions_empty": 2,
+  "total_programs": 4285,
+  "waves": [
+    {"wave": 1, "universities": ["um", "usm", "ukm", "upm", "utm"], "status": "complete"},
+    {"wave": 2, "universities": ["uum", "unimas", "ums", "upsi", "uitm", "iium", "unimap", "umpsa", "uthm", "usim", "umk", "upnm", "utem", "unisza", "umt"], "status": "complete"},
+    {"wave": 3_private_batch1", "universities": ["aimst", "apu", "help", "inti", "monash", "curtin", "sunway", "taylors", "tarumt", "ucsi"], "status": "complete"},
+    {"wave": 4_private_batch2", "universities": ["mmu", "segi", "unikl", "uniten", "utp"], "status": "complete"},
+    {"wave": 5_private_batch3", "universities": ["msu", "oum", "nilai", "numed", "misi", "qiu", "rui", "swinburne", "unirazak", "unitar", "uoc", "um-wales", "unisel", "unimy", "unmc", "uorm", "usmc", "uowm", "wou", "xmum"], "status": "complete"},
+    {"wave": 6_university_colleges", "universities": ["berjaya", "fcuc", "gmi-ucas", "hcuc", "ijnuc", "juc", "luc", "linton", "neuc", "saito", "southern", "twintech", "klmuc", "ucsf", "uc-tati", "widad"], "status": "complete"},
+    {"wave": 7_thin_data", "universities": ["mediu", "uim", "mahsa", "unimel", "must", "mila", "pu", "uptm"], "status": "complete"},
+    {"wave": 8_empty_retry", "universities": ["aeu", "amu", "binary", "dhu", "inceif", "usas", "uts", "rumc", "uis", "unishams"], "status": "complete"}
+  ],
+  "universities_with_0_programs": ["hwum", "usas"],
+  "notes": "hwum (Heriot-Watt) website JS-rendered and inaccessible. usas (Sultan Azlan Shah) website inaccessible. dhu, ijnuc, juc websites down/defunct. twintech genuinely small (4 programs)."
+}

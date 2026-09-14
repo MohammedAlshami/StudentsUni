@@ -1,0 +1,37 @@
+{
+  "university": "City University Malaysia",
+  "university_slug": "cityu",
+  "level": "foundation",
+  "program_name": "Foundation in Arts (Built Environment)",
+  "program_slug": "foundation-arts-built-environment",
+  "field": "Architecture & Built Environment",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 13700,
+    "international_total": 24850,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.city.edu.my",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

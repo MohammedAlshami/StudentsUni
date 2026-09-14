@@ -1,0 +1,39 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "masters",
+  "program_name": "Master of Business Administration",
+  "field": "Business",
+  "duration": "1 year",
+  "mode": "Online",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "RM31,490",
+    "international": "RM42,180",
+    "local_total": 21300,
+    "currency": "MYR",
+    "international_total": 24500
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "master-of-business-administration"
+}

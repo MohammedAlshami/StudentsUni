@@ -1,0 +1,46 @@
+{
+  "level": "pre-university",
+  "level_label": "Pre-University/Foundation Studies",
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "total_programs": 9,
+  "programs": [
+    {
+      "program_name": "Foundation Programme (Engineering/Science)",
+      "program_slug": "foundation-programme-engineering-science"
+    },
+    {
+      "program_name": "Foundation in Arts",
+      "program_slug": "foundation-in-arts"
+    },
+    {
+      "program_name": "Foundation in Business Information Technology",
+      "program_slug": "foundation-in-business-information-technology"
+    },
+    {
+      "program_name": "Cambridge GCE A Levels (Humanities) [3 Subjects]",
+      "program_slug": "cambridge-gce-a-levels-humanities-3-subjects"
+    },
+    {
+      "program_name": "Cambridge GCE A Levels (Humanities) [4 Subjects]",
+      "program_slug": "cambridge-gce-a-levels-humanities-4-subjects"
+    },
+    {
+      "program_name": "Cambridge GCE A Levels (Science) [3 Subjects]",
+      "program_slug": "cambridge-gce-a-levels-science-3-subjects"
+    },
+    {
+      "program_name": "Cambridge GCE A Levels (Science) [4 Subjects]",
+      "program_slug": "cambridge-gce-a-levels-science-4-subjects"
+    },
+    {
+      "program_name": "South Australian Matriculation (SAM) [Humanities]",
+      "program_slug": "south-australian-matriculation-sam-humanities"
+    },
+    {
+      "program_name": "South Australian Matriculation (SAM) [Science]",
+      "program_slug": "south-australian-matriculation-sam-science"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

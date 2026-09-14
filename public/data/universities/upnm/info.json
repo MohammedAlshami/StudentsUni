@@ -1,0 +1,29 @@
+{
+  "name": "Universiti Pertahanan Nasional Malaysia",
+  "slug": "upnm",
+  "abbreviation": "UPNM",
+  "type": "public-university",
+  "state": "Kuala Lumpur",
+  "city": "Kem Perdana",
+  "address": "Kem Perdana Sungai Besi, 57000 Kuala Lumpur",
+  "phone": "+603-9051 2699",
+  "fax": "+603-9051 2698",
+  "website": "https://www.upnm.edu.my",
+  "email": "webmaster@upnm.edu.my",
+  "faculties": [
+    "Fakulti Pengajian dan Pengurusan Pertahanan",
+    "Fakulti Perubatan dan Kesihatan Pertahanan",
+    "Fakulti Kejuruteraan",
+    "Fakulti Sains dan Teknologi Pertahanan",
+    "Pusat Bahasa",
+    "Akademi Kecergasan Pertahanan",
+    "Akademi Pengajian Pertahanan Islam",
+    "Pusat Asasi Pertahanan"
+  ],
+  "established": "2006",
+  "sources": [
+    "https://www.upnm.edu.my",
+    "https://www.studymalaysia.com/edu/upnm/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

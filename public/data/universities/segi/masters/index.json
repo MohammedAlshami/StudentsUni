@@ -1,0 +1,124 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "masters",
+  "total_programs": 14,
+  "programs": [
+    {
+      "program_name": "Master of Science (Pharmaceutical Science)",
+      "program_slug": "master-of-science-pharmaceutical-science",
+      "field": "Medicine & Healthcare",
+      "duration": null,
+      "mode": "Full-time",
+      "accreditation": "MQA/PA11457",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0057844/"]
+    },
+    {
+      "program_name": "Master of Business Administration (Finance) (Dual Awards)",
+      "program_slug": "master-of-business-administration-finance-dual-awards",
+      "field": "Business Management & Administration",
+      "duration": "1.5 - 5 Yrs",
+      "mode": "Full-time",
+      "accreditation": "MQA/FA3467",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0057847/"]
+    },
+    {
+      "program_name": "Master of Arts in Corporate Communications",
+      "program_slug": "master-of-arts-in-corporate-communications",
+      "field": "Communication & Broadcasting",
+      "duration": "1.5 Yrs",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "accreditation": "MQA/FA2507",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0056876/"]
+    },
+    {
+      "program_name": "Master of Business Administration (Human Resource Management) (Dual Awards)",
+      "program_slug": "master-of-business-administration-human-resource-management-dual-awards",
+      "field": "Business Management & Administration",
+      "duration": "1 Year",
+      "mode": "Full-time",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0057848/"]
+    },
+    {
+      "program_name": "Master of Business Administration (Global Business) (Dual Awards)",
+      "program_slug": "master-of-business-administration-global-business-dual-awards",
+      "field": "Business Management & Administration",
+      "duration": "1 Year",
+      "mode": "Full-time",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0054566/"]
+    },
+    {
+      "program_name": "Master of Business Administration (General Management) (Dual Awards)",
+      "program_slug": "master-of-business-administration-general-management-dual-awards",
+      "field": "Business Management & Administration",
+      "duration": "1.5 - 5 Yrs",
+      "mode": "Full-time",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0054567/"]
+    },
+    {
+      "program_name": "Master of Education by Research",
+      "program_slug": "master-of-education-by-research",
+      "field": "Education (Teacher Training & Education Sciences)",
+      "duration": "1.5 - 3 Yrs",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0056389/"]
+    },
+    {
+      "program_name": "Master of Accountancy",
+      "program_slug": "master-of-accountancy",
+      "field": "Accounting & Finance",
+      "duration": "1 Year",
+      "mode": "Full-time",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0004694/"]
+    },
+    {
+      "program_name": "MSc (Management) by Research",
+      "program_slug": "msc-management-by-research",
+      "field": "Business Management & Administration",
+      "duration": "2 - 4 Yrs (FT) / 3 – 6 Yrs (PT)",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0009966/"]
+    },
+    {
+      "program_name": "Master of Financial Planning",
+      "program_slug": "master-of-financial-planning",
+      "field": "Accounting & Finance",
+      "duration": "1 Year",
+      "mode": "Full-time",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0054521/"]
+    },
+    {
+      "program_name": "Master of Business Administration (Marketing) (Dual Award)",
+      "program_slug": "master-of-business-administration-marketing-dual-award",
+      "field": "Business Management & Administration",
+      "duration": "1 Year",
+      "mode": "Full-time",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0054519/"]
+    },
+    {
+      "program_name": "MSc (Information Technology) by Research",
+      "program_slug": "msc-information-technology-by-research",
+      "field": "Computing & IT",
+      "duration": "2 – 4 Yrs (Full-Time) / 3 – 6 Yrs (Part-Time)",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0009970/"]
+    },
+    {
+      "program_name": "MSc (Engineering) by Research",
+      "program_slug": "msc-engineering-by-research",
+      "field": "Engineering & Engineering Trades",
+      "duration": "2 - 4 Yrs (FT) / 3 – 6 Yrs (PT)",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0009974/"]
+    },
+    {
+      "program_name": "MSc (Vision Science) by Research",
+      "program_slug": "msc-vision-science-by-research",
+      "field": "Medicine & Healthcare",
+      "duration": "2 - 4 Yrs",
+      "mode": "Full-time",
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0009978/"]
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

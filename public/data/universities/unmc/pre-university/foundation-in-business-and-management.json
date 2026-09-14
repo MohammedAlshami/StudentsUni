@@ -1,0 +1,32 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "pre-university",
+  "program_name": "Foundation in Business & Management",
+  "field": "Business",
+  "duration": "2-3 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM7,800/Sem",
+    "international": "RM9,500/Sem",
+    "local_total": 15600,
+    "per_year_local": 15600,
+    "international_total": 19000,
+    "per_year_international": 19000,
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15",
+  "slug": "foundation-in-business-and-management"
+}

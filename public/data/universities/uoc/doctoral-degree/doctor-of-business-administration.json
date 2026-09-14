@@ -1,0 +1,39 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Doctoral Degree (Ph.D)",
+  "program_name": "Doctor of Business Administration",
+  "field": "Business Management & Administration",
+  "slug": "doctor-of-business-administration",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Oct",
+    "Feb"
+  ],
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 21100,
+    "currency": "MYR",
+    "international_total": 16434
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058803/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

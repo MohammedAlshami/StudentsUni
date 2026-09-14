@@ -1,0 +1,17 @@
+{
+  "university": "First City University College",
+  "university_slug": "fcuc",
+  "level": "diploma",
+  "program_name": "Diploma in Mass Communication",
+  "program_slug": "diploma-in-mass-communication",
+  "field": "Communication",
+  "duration": "2 years",
+  "mode": "Full Time",
+  "intakes": ["January", "May", "September"],
+  "fees": null,
+  "requirements": {"spm": "Minimum 3 credits and at least a pass in English"},
+  "accreditation": null,
+  "sources": ["https://www.firstcity.edu.my/programmes"],
+  "confidence": 0.7,
+  "last_updated": "2026-09-14"
+}

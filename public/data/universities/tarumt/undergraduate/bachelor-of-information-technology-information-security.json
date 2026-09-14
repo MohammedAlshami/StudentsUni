@@ -1,0 +1,49 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Information Technology (Honours) in Information Security",
+  "program_slug": "bachelor-of-information-technology-information-security",
+  "field": "Computing & IT",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jun"
+  ],
+  "fees": {
+    "local": "RM37,500.00",
+    "international": "RM65,700.00",
+    "local_total": 11267,
+    "currency": "MYR",
+    "international_total": 20134,
+    "per_year_local": 3756,
+    "per_year_international": 6711
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/tarumt/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

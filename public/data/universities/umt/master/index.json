@@ -1,0 +1,115 @@
+{
+  "level": "master",
+  "level_label": "Master's Degree",
+  "programs": [
+    {
+      "program_name": "Master of Science in Aquaculture",
+      "program_slug": "msc-aquaculture",
+      "field": "Aquaculture",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Science in Tropical Fisheries",
+      "program_slug": "msc-tropical-fisheries",
+      "field": "Fisheries",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Management (Integrated Coastal Zone)",
+      "program_slug": "mmgmt-integrated-coastal-zone",
+      "field": "Management",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "program_slug": "mba",
+      "field": "Business Administration",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Counselling",
+      "program_slug": "mcounselling",
+      "field": "Counselling",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Economics",
+      "program_slug": "meconomics",
+      "field": "Economics",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Computer Science",
+      "program_slug": "mcs",
+      "field": "Computer Science",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Information Technology",
+      "program_slug": "mit",
+      "field": "Information Technology",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Mathematics",
+      "program_slug": "mmathematics",
+      "field": "Mathematics",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Statistics in Marine Science",
+      "program_slug": "mstats-marine-science",
+      "field": "Statistics",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Science (Environmental Forensics)",
+      "program_slug": "msc-environmental-forensics",
+      "field": "Environmental Science",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Master of Science (Tropical Marine Environment)",
+      "program_slug": "msc-tropical-marine-environment",
+      "field": "Marine Science",
+      "type": "research"
+    },
+    {
+      "program_name": "Master of Science (Tropical Biodiversity)",
+      "program_slug": "msc-tropical-biodiversity",
+      "field": "Biodiversity",
+      "type": "research"
+    },
+    {
+      "program_name": "Master of Science (Maritime Studies)",
+      "program_slug": "msc-maritime-studies",
+      "field": "Maritime Studies",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Postgraduate Diploma in Maritime Studies",
+      "program_slug": "pgdip-maritime-studies",
+      "field": "Maritime Studies",
+      "type": "coursework"
+    },
+    {
+      "program_name": "Postgraduate Certificate in Maritime Studies",
+      "program_slug": "pgcert-maritime-studies",
+      "field": "Maritime Studies",
+      "type": "coursework"
+    }
+  ],
+  "total": 16,
+  "last_updated": "2026-09-15",
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 2260.0,
+    "per_year_international": null,
+    "notes": "Per semester: 1130-1630/Sem"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/umt/courses/"
+  ]
+}

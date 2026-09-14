@@ -1,0 +1,52 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "pre-university",
+  "program_name": "Foundation in Business",
+  "program_slug": "foundation-in-business",
+  "field": "Business",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Oct",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "local": "RM9,900.00",
+    "international": "RM18,100.00",
+    "local_total": 9900,
+    "currency": "MYR",
+    "international_total": 16700,
+    "per_year_local": 9900,
+    "per_year_international": 16700
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://cpus.tarc.edu.my/programmes/foundation-in-business",
+    "https://www.studymalaysia.com/what/course/tarumt/0058155/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

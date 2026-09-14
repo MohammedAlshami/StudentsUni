@@ -1,0 +1,42 @@
+{
+  "university": "Universiti Malaysia Sarawak",
+  "university_slug": "unimas",
+  "level": "bachelor",
+  "program_name": "Bachelor of Chemical Engineering With Honours",
+  "slug": "bachelor-of-chemical-engineering-hons",
+  "field": "Engineering",
+  "duration": "8 semesters (4 years)",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 1650,
+    "international_total": 2350,
+    "per_year_local": 3300,
+    "per_year_international": 4700,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/unimas/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "computer-science-vs-it-vs-software-engineering-what-s-the-difference",
+  "title": "Computer Science vs IT vs Software Engineering: What's the Difference?",
+  "category": "Programme Guides",
+  "tags": [
+    "computer science",
+    "IT",
+    "software engineering"
+  ],
+  "coverImage": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=80",
+  "author": "Aina R., Education Counsellor",
+  "date": "2026-05-03",
+  "readTimeMin": 4,
+  "excerpt": "Three degree titles that sound almost identical but lead to genuinely different skill sets, coursework, and careers.",
+  "intro": [
+    "These three programme names get used almost interchangeably in casual conversation, but the actual curricula, and the careers they tend to lead to, differ more than the similar-sounding names would suggest."
+  ],
+  "sections": [
+    {
+      "heading": "Side by side comparison",
+      "paragraphs": [],
+      "table": {
+        "headers": [
+          "Programme",
+          "Core Focus",
+          "Typical Career Path"
+        ],
+        "rows": [
+          [
+            "Computer Science",
+            "Algorithms, theory, mathematical foundations of computing",
+            "AI/ML research, systems programming, broad flexibility"
+          ],
+          [
+            "Information Technology",
+            "Networking, systems administration, databases, cybersecurity",
+            "Infrastructure, IT support, enterprise systems"
+          ],
+          [
+            "Software Engineering",
+            "Engineering principles, architecture, development lifecycle",
+            "Application and software development directly"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Computer Science",
+      "paragraphs": [
+        "The most theoretical of the three, covering algorithms, computational theory, data structures, and the mathematical foundations underlying all of computing. It is the strongest base if you are interested in AI or machine learning research, systems-level programming, or simply want maximum flexibility to specialise further later in your career."
+      ]
+    },
+    {
+      "heading": "Information Technology",
+      "paragraphs": [
+        "More applied and infrastructure-focused, covering networking, systems administration, databases, cybersecurity, and enterprise systems. IT graduates often move into infrastructure, IT support, and systems administration roles rather than the heavier software-development-focused paths that Computer Science or Software Engineering typically lead to."
+      ]
+    },
+    {
+      "heading": "Software Engineering",
+      "paragraphs": [
+        "Focused specifically on the practice of building software: engineering principles, project methodology, software architecture, testing, and the full development lifecycle from planning through deployment. This is the most direct route if application or software development is specifically your career goal, rather than a general interest in computing."
+      ]
+    },
+    {
+      "heading": "Choosing between them",
+      "paragraphs": [
+        "If you are drawn to theory and want the flexibility to pivot into research, data science, or advanced technical specialisations later, Computer Science offers the broadest foundation. If you want to build software professionally as directly as possible, Software Engineering is more targeted toward that specific outcome. If systems, networks, and enterprise infrastructure interest you more than writing application code day to day, Information Technology is the better fit."
+      ]
+    },
+    {
+      "heading": "Common mistakes when choosing between these three degrees",
+      "paragraphs": [
+        "Because the names sound so similar, students frequently pick based on assumptions rather than the actual curriculum."
+      ],
+      "list": [
+        "Assuming all three degrees teach roughly the same content because of the overlapping names.",
+        "Choosing based on which one sounds more prestigious rather than actual career goals.",
+        "Not checking the specific module list, since curricula for the same degree title vary between universities.",
+        "Ignoring personal interest in theory versus hands-on building when the two lead to different daily work.",
+        "Assuming a coding bootcamp afterward can fully substitute for choosing the wrong degree upfront."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which of the three has the best job prospects in Malaysia right now?",
+      "answer": "All three have strong demand, but the mix shifts with the market. Software Engineering and Computer Science graduates tend to have the widest range of options currently, given the concentration of tech and digital roles in the Klang Valley and Penang."
+    },
+    {
+      "question": "Can I switch between these fields after graduating?",
+      "answer": "To a meaningful degree, yes, especially between Computer Science and Software Engineering, since the underlying technical skills overlap significantly. Moving from IT into a heavier software development role is also possible but usually requires additional self-study or further qualifications."
+    },
+    {
+      "question": "Do I need to already know how to code before starting any of these degrees?",
+      "answer": "No prior coding experience is required for any of the three, though having some exposure beforehand, even a free online course, can make the first year noticeably less overwhelming."
+    }
+  ]
+}

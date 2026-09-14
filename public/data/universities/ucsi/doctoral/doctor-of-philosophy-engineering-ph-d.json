@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "doctoral",
+  "program_name": "Doctor of Philosophy (Engineering) (Ph.D.)",
+  "field": "Engineering",
+  "duration": "3-7 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 50,960 - RM 51,680",
+    "international": "RM 63,282 - RM 64,182",
+    "currency": "MYR",
+    "local_total": 50960,
+    "international_total": 63282,
+    "per_year_local": 50960,
+    "per_year_international": 63282,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0053922/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

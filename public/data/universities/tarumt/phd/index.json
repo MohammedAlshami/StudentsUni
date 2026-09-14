@@ -1,0 +1,133 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "phd",
+  "level_label": "Doctoral Degree (Ph.D)",
+  "program_count": 14,
+  "programs": [
+    {
+      "program_name": "Doctor of Philosophy in Built Environment",
+      "program_slug": "phd-in-built-environment",
+      "field": "Architecture & Building",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Business",
+      "program_slug": "phd-in-business",
+      "field": "Business Management & Administration",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Communication",
+      "program_slug": "phd-in-communication",
+      "field": "Communication & Broadcasting",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Computer Science",
+      "program_slug": "phd-in-computer-science",
+      "field": "Computing & IT",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Economics",
+      "program_slug": "phd-in-economics",
+      "field": "Business Management & Administration",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Education",
+      "program_slug": "phd-in-education",
+      "field": "Education",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Engineering",
+      "program_slug": "phd-in-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in English Studies",
+      "program_slug": "phd-in-english-studies",
+      "field": "Social Sciences",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Finance",
+      "program_slug": "phd-in-finance",
+      "field": "Accounting & Finance",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Food Science",
+      "program_slug": "phd-in-food-science",
+      "field": "Applied Sciences",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Life Sciences",
+      "program_slug": "phd-in-life-sciences",
+      "field": "Life Sciences",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Physical Science",
+      "program_slug": "phd-in-physical-science",
+      "field": "Applied Sciences",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Psychology",
+      "program_slug": "phd-in-psychology",
+      "field": "Social Sciences",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    },
+    {
+      "program_name": "Doctor of Philosophy in Sports Science",
+      "program_slug": "phd-in-sports-science",
+      "field": "Applied Sciences",
+      "duration": "3-5 years",
+      "mode": "Flexible",
+      "fees": null
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 10200.0,
+    "international_total": 18400.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: RM10,200.00"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/tarumt/courses/"
+  ],
+  "last_updated": "2026-09-15"
+}

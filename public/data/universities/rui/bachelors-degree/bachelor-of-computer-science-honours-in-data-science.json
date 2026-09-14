@@ -1,0 +1,33 @@
+{
+  "university": "Raffles University Iskandar",
+  "university_slug": "rui",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Computer Science (Honours) in Data Science",
+  "field": "Computing & IT",
+  "slug": "bachelor-of-computer-science-honours-in-data-science",
+  "duration": "3 Years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": "82500/Course",
+    "international_total": 82500,
+    "currency": "MYR",
+    "per_year_international": 27500,
+    "local_total": null,
+    "per_year_local": null,
+    "notes": " Local fees not published online; contact university."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/RUI/0058260/",
+    {
+      "url": "https://raffles-university.edu.my/programme/bachelor-of-computer-science-honours-in-data-science/",
+      "publisher": "Raffles University",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

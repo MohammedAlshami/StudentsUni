@@ -1,0 +1,31 @@
+{
+  "level": "postgraduate",
+  "university": "Universiti Teknologi Malaysia",
+  "university_slug": "utm",
+  "programs": [
+    {
+      "slug": "doctor-of-philosophy",
+      "name": "Doctor of Philosophy (PhD)",
+      "field": "Research"
+    },
+    {
+      "slug": "master-by-research",
+      "name": "Master by Research",
+      "field": "Research"
+    },
+    {
+      "slug": "master-mixed-mode",
+      "name": "Master (Mixed Mode)",
+      "field": "Mixed Mode"
+    },
+    {
+      "slug": "master-coursework",
+      "name": "Master (Coursework)",
+      "field": "Coursework"
+    }
+  ],
+  "sources": [
+    "https://admission.utm.my/malaysian-postgraduate-study/"
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,21 @@
+{
+  "university": "GMI-University College of Applied Sciences",
+  "university_slug": "gmi-ucas",
+  "level": "bachelor",
+  "program_name": "Bachelor Electrical Engineering Technology (BELT)",
+  "field": "Electrical Engineering",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.gmi.edu.my/bachelor-electrical-engineering-technology-belt/",
+      "type": "official"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

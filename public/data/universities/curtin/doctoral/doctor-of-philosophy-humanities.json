@@ -1,0 +1,46 @@
+{
+  "university": "Curtin University Malaysia",
+  "university_slug": "curtin",
+  "level": "doctoral",
+  "program_name": "Doctor of Philosophy (Humanities)",
+  "field": "Humanities & Communications",
+  "duration": "3-4 years full time",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": [
+    "February",
+    "July",
+    "October"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 86100,
+    "international_total": 133368,
+    "per_year_local": "RM28,700 per annum",
+    "per_year_international": "RM44,456 per annum",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://curtin.edu.my/study/postgraduate/research-degrees/",
+    "https://www.studymalaysia.com/edu/curtin/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

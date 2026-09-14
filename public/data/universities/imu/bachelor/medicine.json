@@ -1,0 +1,21 @@
+{
+  "university": "IMU University",
+  "university_slug": "imu",
+  "level": "bachelor",
+  "program_name": "Medicine",
+  "field": "Medicine",
+  "duration": null,
+  "mode": "Unknown",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.imu.edu.my",
+      "type": "official"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-14"
+}

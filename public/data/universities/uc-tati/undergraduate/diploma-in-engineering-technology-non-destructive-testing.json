@@ -1,0 +1,21 @@
+{
+  "university": "University College TATI",
+  "university_slug": "uc-tati",
+  "level": "diploma",
+  "program_name": "Diploma in Engineering Technology (Non-Destructive Testing)",
+  "field": "Engineering Technology",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "KPT: R3/0714/4/0006 (09/2029) - MQA/FA 15543 - MBOT/FA/ME/0/01/0150",
+  "sources": [
+    {
+      "url": "https://www.uctati.edu.my/Undergraduate.html",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

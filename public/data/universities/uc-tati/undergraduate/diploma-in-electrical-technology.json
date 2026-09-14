@@ -1,0 +1,21 @@
+{
+  "university": "University College TATI",
+  "university_slug": "uc-tati",
+  "level": "diploma",
+  "program_name": "Diploma in Electrical Technology",
+  "field": "Electrical Engineering",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "KPT: N/0712/4/0026 (01/2031) - MQA/PA 18193 - MBOT/PA/EE/0/01/0005",
+  "sources": [
+    {
+      "url": "https://www.uctati.edu.my/Undergraduate.html",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

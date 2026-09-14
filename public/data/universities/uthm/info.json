@@ -1,0 +1,79 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "abbreviation": "UTHM",
+  "type": "public-university",
+  "state": "Johor",
+  "city": "Batu Pahat",
+  "address": "Universiti Tun Hussein Onn Malaysia, 86400 Parit Raja, Batu Pahat, Johor, Malaysia",
+  "phone": "+607 9507000",
+  "email": "pro@uthm.edu.my",
+  "website": "https://www.uthm.edu.my",
+  "established": 1993,
+  "student_enrollment": 22300,
+  "alumni": 68100,
+  "employment_rate": 97.5,
+  "faculties": [
+    {
+      "name": "Civil Engineering and Built Environment",
+      "slug": "civil-engineering-and-built-environment",
+      "website": "https://fkaab.uthm.edu.my"
+    },
+    {
+      "name": "Electrical and Electronic Engineering",
+      "slug": "electrical-and-electronic-engineering",
+      "website": "https://fkee.uthm.edu.my"
+    },
+    {
+      "name": "Mechanical and Manufacturing Engineering",
+      "slug": "mechanical-and-manufacturing-engineering",
+      "website": "https://fkmp.uthm.edu.my"
+    },
+    {
+      "name": "Technology Management and Business",
+      "slug": "technology-management-and-business",
+      "website": "https://ftmb.uthm.edu.my"
+    },
+    {
+      "name": "Technical and Vocational Education",
+      "slug": "technical-and-vocational-education",
+      "website": "https://fptv.uthm.edu.my"
+    },
+    {
+      "name": "Computer Science and Information Technology",
+      "slug": "computer-science-and-information-technology",
+      "website": "https://fcsit.uthm.edu.my"
+    },
+    {
+      "name": "Applied Sciences and Technology",
+      "slug": "applied-sciences-and-technology",
+      "website": "https://fast.uthm.edu.my"
+    },
+    {
+      "name": "Engineering Technology",
+      "slug": "engineering-technology",
+      "website": "https://ftk.uthm.edu.my"
+    },
+    {
+      "name": "Johor Business School",
+      "slug": "johor-business-school",
+      "website": "https://jbs.uthm.edu.my"
+    },
+    {
+      "name": "Metro System Academy (MSA)",
+      "slug": "metro-system-academy",
+      "website": "https://msa.uthm.edu.my"
+    }
+  ],
+  "branch_campus": {
+    "name": "UTHM Pagoh Campus",
+    "location": "Hab Pendidikan Tinggi Pagoh, KM 1, Jalan Panchor, 84600 Panchor, Johor",
+    "phone": "07-9509811",
+    "website": "https://pagoh.uthm.edu.my"
+  },
+  "sources": [
+    "https://www.uthm.edu.my",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

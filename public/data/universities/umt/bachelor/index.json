@@ -1,0 +1,247 @@
+{
+  "level": "bachelor",
+  "level_label": "Bachelor's Degree",
+  "programs": [
+    {
+      "program_name": "Bachelor of Science (Marine Science) with Honours",
+      "program_slug": "bsc-marine-science",
+      "field": "Marine Science",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Bachelor of Science (Marine Biology) with Honours",
+      "program_slug": "bsc-marine-biology",
+      "field": "Marine Biology",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Bachelor of Science (Marine Geosciences) with Honours",
+      "program_slug": "bsc-marine-geosciences",
+      "field": "Earth Sciences",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Bachelor of Science (Biological Sciences) with Honours",
+      "program_slug": "bsc-biological-sciences",
+      "field": "Biology",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Bachelor of Applied Science (Biodiversity Conservation and Management) with Honours",
+      "program_slug": "bas-biodiversity-conservation-and-management",
+      "field": "Biodiversity Conservation",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Bachelor of Science (Analytical and Environmental Chemistry) with Honours",
+      "program_slug": "bsc-analytical-and-environmental-chemistry",
+      "field": "Chemistry",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Bachelor of Science (Chemical Sciences) with Honours",
+      "program_slug": "bsc-chemical-sciences",
+      "field": "Chemistry",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Bachelor of Applied Science in Nanophysics with Honours",
+      "program_slug": "bas-nanophysics",
+      "field": "Physics",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Software Engineering) with Honours",
+      "program_slug": "bcs-software-engineering",
+      "field": "Computer Science",
+      "faculty": "Faculty of Computer Science and Mathematics"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Mobile Computing) with Honours",
+      "program_slug": "bcs-mobile-computing",
+      "field": "Computer Science",
+      "faculty": "Faculty of Computer Science and Mathematics"
+    },
+    {
+      "program_name": "Bachelor of Computer Science with Maritime Informatics (Honours)",
+      "program_slug": "bcs-maritime-informatics",
+      "field": "Computer Science",
+      "faculty": "Faculty of Computer Science and Mathematics"
+    },
+    {
+      "program_name": "Bachelor of Science (Applied Mathematics) with Honours",
+      "program_slug": "bsc-applied-mathematics",
+      "field": "Mathematics",
+      "faculty": "Faculty of Computer Science and Mathematics"
+    },
+    {
+      "program_name": "Bachelor of Science (Financial Mathematics) with Honours",
+      "program_slug": "bsc-financial-mathematics",
+      "field": "Mathematics",
+      "faculty": "Faculty of Computer Science and Mathematics"
+    },
+    {
+      "program_name": "Bachelor of Science (Data Analytics) with Honours",
+      "program_slug": "bsc-data-analytics",
+      "field": "Data Science",
+      "faculty": "Faculty of Computer Science and Mathematics"
+    },
+    {
+      "program_name": "Bachelor of Applied Science (Maritime Technology) with Honours",
+      "program_slug": "bas-maritime-technology",
+      "field": "Maritime Technology",
+      "faculty": "Faculty of Ocean Engineering Technology"
+    },
+    {
+      "program_name": "Bachelor of Applied Science (Electronic and Instrumentation) with Honours",
+      "program_slug": "bas-electronic-and-instrumentation",
+      "field": "Electronics",
+      "faculty": "Faculty of Ocean Engineering Technology"
+    },
+    {
+      "program_name": "Bachelor of Technology (Environment) with Honours",
+      "program_slug": "btech-environment",
+      "field": "Environmental Technology",
+      "faculty": "Faculty of Ocean Engineering Technology"
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Naval Architecture) with Honours",
+      "program_slug": "bmet-naval-architecture",
+      "field": "Naval Architecture",
+      "faculty": "Faculty of Ocean Engineering Technology"
+    },
+    {
+      "program_name": "Bachelor of Electrical Technology (Energy and Power) with Honours",
+      "program_slug": "bet-energy-and-power",
+      "field": "Electrical Engineering",
+      "faculty": "Faculty of Ocean Engineering Technology"
+    },
+    {
+      "program_name": "Bachelor of Renewable Energy Technology with Honours",
+      "program_slug": "brenewable-energy-technology",
+      "field": "Renewable Energy",
+      "faculty": "Faculty of Ocean Engineering Technology"
+    },
+    {
+      "program_name": "Bachelor of Applied Science (Maritime Technology) with Honours (Dual Degree)",
+      "program_slug": "bas-maritime-technology-dual-degree",
+      "field": "Maritime Technology",
+      "faculty": "Faculty of Ocean Engineering Technology"
+    },
+    {
+      "program_name": "Bachelor of Occupational Safety and Health with Environmental Technology (Honours)",
+      "program_slug": "bosh-environmental-technology",
+      "field": "Occupational Safety",
+      "faculty": "Faculty of Ocean Engineering Technology"
+    },
+    {
+      "program_name": "Bachelor of Applied Science (Fisheries) with Honours",
+      "program_slug": "bas-fisheries",
+      "field": "Fisheries",
+      "faculty": "Faculty of Fisheries and Aquaculture Sciences"
+    },
+    {
+      "program_name": "Bachelor of Science in Aquaculture with Honours",
+      "program_slug": "bsc-aquaculture",
+      "field": "Aquaculture",
+      "faculty": "Faculty of Fisheries and Aquaculture Sciences"
+    },
+    {
+      "program_name": "Bachelor of Food Science (Food Technology) with Honours",
+      "program_slug": "bsc-food-technology",
+      "field": "Food Science",
+      "faculty": "Faculty of Food Science and Agrotechnology"
+    },
+    {
+      "program_name": "Bachelor of Food Science (Food Service and Nutrition) with Honours",
+      "program_slug": "bsc-food-service-and-nutrition",
+      "field": "Food Science",
+      "faculty": "Faculty of Food Science and Agrotechnology"
+    },
+    {
+      "program_name": "Bachelor of Science in Agrotechnology (Crop Science) with Honours",
+      "program_slug": "bsc-agrotechnology-crop-science",
+      "field": "Agrotechnology",
+      "faculty": "Faculty of Food Science and Agrotechnology"
+    },
+    {
+      "program_name": "Bachelor of Agrotechnology (Postharvest Technology) with Honours",
+      "program_slug": "bagrotechnology-postharvest-technology",
+      "field": "Agrotechnology",
+      "faculty": "Faculty of Food Science and Agrotechnology"
+    },
+    {
+      "program_name": "Bachelor of Science (Nautical Sciences and Maritime Transport) with Honours",
+      "program_slug": "bsc-nautical-sciences-and-maritime-transport",
+      "field": "Nautical Science",
+      "faculty": "Faculty of Maritime Studies"
+    },
+    {
+      "program_name": "Bachelor of Management (Maritime) with Honours",
+      "program_slug": "bmgmt-maritime",
+      "field": "Maritime Management",
+      "faculty": "Faculty of Maritime Studies"
+    },
+    {
+      "program_name": "Bachelor of Management (Maritime Operations) with Honours",
+      "program_slug": "bmgmt-maritime-operations",
+      "field": "Maritime Operations",
+      "faculty": "Faculty of Maritime Studies"
+    },
+    {
+      "program_name": "Bachelor of Accounting with Honours",
+      "program_slug": "bacc-accounting",
+      "field": "Accounting",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Bachelor of Management (Marketing) with Honours",
+      "program_slug": "bmgmt-marketing",
+      "field": "Marketing",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Bachelor of Management (Tourism) with Honours",
+      "program_slug": "bmgmt-tourism",
+      "field": "Tourism Management",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Bachelor of Economics (Natural Resources) with Honours",
+      "program_slug": "becon-natural-resources",
+      "field": "Economics",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Bachelor of Management (Policy Studies) with Honours",
+      "program_slug": "bmgmt-policy-studies",
+      "field": "Management",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Bachelor of Counselling with Honours",
+      "program_slug": "bcounselling",
+      "field": "Counselling",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Bachelor of Finance with Honours",
+      "program_slug": "bfinance",
+      "field": "Finance",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    }
+  ],
+  "total": 37,
+  "last_updated": "2026-09-15",
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 2260.0,
+    "per_year_international": null,
+    "notes": "Per semester: 1130-1630/Sem"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/umt/courses/"
+  ]
+}

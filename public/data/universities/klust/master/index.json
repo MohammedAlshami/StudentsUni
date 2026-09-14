@@ -1,0 +1,15 @@
+[
+  {"slug": "master-in-communication", "name": "Master in Communication", "field": "Communication"},
+  {"slug": "master-of-architecture", "name": "Master of Architecture", "field": "Architecture"},
+  {"slug": "master-of-arts-tesol", "name": "Master of Arts in Teaching of English to Speakers of Other Languages", "field": "Education"},
+  {"slug": "master-of-business-administration", "name": "Master of Business Administration", "field": "Business"},
+  {"slug": "master-of-business-administration-accounting", "name": "Master of Business Administration (Accounting Major)", "field": "Business"},
+  {"slug": "master-of-business-administration-banking-finance", "name": "Master of Business Administration (Banking and Finance Major)", "field": "Business"},
+  {"slug": "master-of-business-administration-hrm", "name": "Master of Business Administration (Human Resource Management Major)", "field": "Business"},
+  {"slug": "master-of-business-administration-management", "name": "Master of Business Administration (Management Major)", "field": "Business"},
+  {"slug": "master-of-business-administration-marketing", "name": "Master of Business Administration (Marketing Major)", "field": "Business"},
+  {"slug": "master-of-business-administration-project-management", "name": "Master of Business Administration (Project Management Major)", "field": "Business"},
+  {"slug": "master-of-civil-engineering", "name": "Master of Civil Engineering", "field": "Engineering"},
+  {"slug": "master-of-information-systems", "name": "Master of Information Systems", "field": "Computing"},
+  {"slug": "master-of-information-technology", "name": "Master of Information Technology", "field": "Computing"}
+]

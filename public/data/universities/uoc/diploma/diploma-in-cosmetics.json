@@ -1,0 +1,39 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Diploma",
+  "program_name": "Diploma in Cosmetics",
+  "field": "Science",
+  "slug": "diploma-in-cosmetics",
+  "duration": "2.5 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Oct",
+    "Mar"
+  ],
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 13100,
+    "currency": "MYR",
+    "international_total": 24280
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058813/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

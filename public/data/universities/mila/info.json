@@ -1,0 +1,31 @@
+{
+  "university": "MILA University",
+  "university_slug": "mila",
+  "abbreviation": "MILA",
+  "type": "private-university",
+  "state": "Johor",
+  "website": "https://www.mila.edu.my",
+  "studymalaysia_url": "https://studymalaysia.com/edu/mila/courses/",
+  "last_updated": "2026-09-15",
+  "sources": [
+    {
+      "url": "https://mila.edu.my/programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "masters",
+    "doctorate"
+  ],
+  "program_counts": {
+    "foundation": 3,
+    "diploma": 3,
+    "bachelor": 20,
+    "masters": 9,
+    "doctorate": 3
+  }
+}

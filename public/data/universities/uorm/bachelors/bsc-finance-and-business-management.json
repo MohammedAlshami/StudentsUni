@@ -1,0 +1,22 @@
+{
+  "university": "University of Reading Malaysia",
+  "university_slug": "uorm",
+  "level": "bachelors",
+  "program_name": "BSc Finance & Business Management",
+  "field": "Business",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM36,775",
+    "international": "RM52,500"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/reading/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "bsc-finance-and-business-management"
+}

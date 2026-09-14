@@ -1,0 +1,36 @@
+{
+  "university_slug": "pu",
+  "level": "masters",
+  "program_name": "Master of Education (Coursework)",
+  "program_slug": "master-of-education-coursework",
+  "field": "Education",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 23150,
+    "international_total": 28900,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://perdanauniversity.edu.my/explore-all-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

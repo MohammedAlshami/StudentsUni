@@ -1,0 +1,41 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "diploma",
+  "program_name": "Advanced Diploma in Patisserie and Gastronomic Cuisine",
+  "slug": "advanced-diploma-in-patisserie-and-gastronomic-cuisine",
+  "program_slug": "advanced-diploma-in-patisserie-and-gastronomic-cuisine",
+  "field": "Culinary Arts",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 35090,
+    "international_total": 49494,
+    "per_year_local": 33030,
+    "per_year_international": 12597,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/advanced-diploma-in-patisserie-and-gastronomic-cuisine.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

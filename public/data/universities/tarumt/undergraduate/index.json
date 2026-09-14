@@ -1,0 +1,692 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "undergraduate",
+  "level_label": "Bachelor's Degree",
+  "program_count": 65,
+  "programs": [
+    {
+      "program_name": "Bachelor of Accounting (Honours)",
+      "program_slug": "bachelor-of-accounting",
+      "field": "Accounting & Finance",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM45,100.00",
+        "international": "RM88,000.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Honours) Accounting and Finance",
+      "program_slug": "bachelor-of-accounting-and-finance",
+      "field": "Accounting & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM38,400.00",
+        "international": "RM74,300.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Banking and Finance (Honours)",
+      "program_slug": "bachelor-of-banking-and-finance",
+      "field": "Accounting & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,000.00",
+        "international": "RM73,500.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Administration (Honours)",
+      "program_slug": "bachelor-of-business-administration",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM74,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor in Business Analytics (Honours)",
+      "program_slug": "bachelor-of-business-analytics",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,700.00",
+        "international": "RM75,000.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Commerce (Honours)",
+      "program_slug": "bachelor-of-commerce",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,500.00",
+        "international": "RM76,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Corporate Administration (Honours)",
+      "program_slug": "bachelor-of-corporate-administration",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,800.00",
+        "international": "RM75,200.00"
+      }
+    },
+    {
+      "program_name": "Bachelor in Digital Business (Honours)",
+      "program_slug": "bachelor-of-digital-business",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,900.00",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Economics (Honours)",
+      "program_slug": "bachelor-of-economics",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,900.00",
+        "international": "RM74,000.00"
+      }
+    },
+    {
+      "program_name": "Bachelor in Entrepreneurship (Honours)",
+      "program_slug": "bachelor-of-entrepreneurship",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM74,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Finance (Honours)",
+      "program_slug": "bachelor-of-finance",
+      "field": "Accounting & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,700.00",
+        "international": "RM73,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Finance and Investment (Honours)",
+      "program_slug": "bachelor-of-finance-and-investment",
+      "field": "Accounting & Finance",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,000.00",
+        "international": "RM74,200.00"
+      }
+    },
+    {
+      "program_name": "Bachelor in Human Resource Management (Honours)",
+      "program_slug": "bachelor-of-human-resource-management",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM74,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor in International Business (Honours)",
+      "program_slug": "bachelor-of-international-business",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM74,500.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Honours) International Business Management",
+      "program_slug": "bachelor-of-international-business-management",
+      "field": "Business Management & Administration",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM74,500.00"
+      }
+    },
+    {
+      "program_name": "Bachelor in Logistics and Supply Chain Management (Honours)",
+      "program_slug": "bachelor-of-logistics-and-supply-chain-management",
+      "field": "Transport Services",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,400.00",
+        "international": "RM74,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor in Marketing (Honours)",
+      "program_slug": "bachelor-of-marketing",
+      "field": "Marketing & Sales",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,400.00",
+        "international": "RM74,800.00"
+      }
+    },
+    {
+      "program_name": "Bachelor in Applied Business Analytics (Honours)",
+      "program_slug": "bachelor-of-applied-business-analytics",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,400.00",
+        "international": "RM74,500.00"
+      }
+    },
+    {
+      "program_name": "Bachelor in Data Science (Honours)",
+      "program_slug": "bachelor-of-data-science",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,500.00",
+        "international": "RM65,200.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Honours) in Interactive Software Technology",
+      "program_slug": "bachelor-of-computer-science-interactive-software-technology",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM38,400.00",
+        "international": "RM66,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Systems (Honours) in Enterprise Information Systems",
+      "program_slug": "bachelor-of-information-systems-enterprise-information-systems",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,500.00",
+        "international": "RM65,200.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Honours) in Information Security",
+      "program_slug": "bachelor-of-information-technology-information-security",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,500.00",
+        "international": "RM65,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Honours) in Software Systems Development",
+      "program_slug": "bachelor-of-information-technology-software-systems-development",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,800.00",
+        "international": "RM65,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Management Mathematics with Computing",
+      "program_slug": "bachelor-of-management-mathematics-with-computing",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM64,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Software Engineering (Honours)",
+      "program_slug": "bachelor-of-software-engineering",
+      "field": "Computing & IT",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,800.00",
+        "international": "RM65,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Electrical and Electronics Engineering with Honours",
+      "program_slug": "bachelor-of-electrical-and-electronics-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM44,700.00",
+        "international": "RM77,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Electronics Engineering Technology with Honours",
+      "program_slug": "bachelor-of-electronics-engineering-technology",
+      "field": "Engineering & Engineering Trades",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM44,200.00",
+        "international": "RM76,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Manufacturing & Industrial Technology with Honours",
+      "program_slug": "bachelor-of-manufacturing-industrial-technology",
+      "field": "Manufacturing & Processing",
+      "duration": "3 years 6 months",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM37,800.00",
+        "international": "RM66,000.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Materials and Manufacturing Technology with Honours",
+      "program_slug": "bachelor-of-materials-manufacturing-technology",
+      "field": "Manufacturing & Processing",
+      "duration": "3 years 6 months",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,800.00",
+        "international": "RM66,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering with Honours",
+      "program_slug": "bachelor-of-mechanical-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM44,700.00",
+        "international": "RM77,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechatronics Engineering with Honours",
+      "program_slug": "bachelor-of-mechatronics-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM44,700.00",
+        "international": "RM77,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Honours) in Advertising",
+      "program_slug": "bachelor-of-advertising",
+      "field": "Communication & Broadcasting",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,800.00",
+        "international": "RM65,800.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Honours) in Broadcasting",
+      "program_slug": "bachelor-of-broadcasting",
+      "field": "Communication & Broadcasting",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,500.00",
+        "international": "RM65,200.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Honours) in Journalism",
+      "program_slug": "bachelor-of-journalism",
+      "field": "Communication & Broadcasting",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,500.00",
+        "international": "RM65,400.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Honours) in Media Studies",
+      "program_slug": "bachelor-of-media-studies",
+      "field": "Communication & Broadcasting",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM64,900.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication Studies (Honours)",
+      "program_slug": "bachelor-of-communication-studies",
+      "field": "Communication & Broadcasting",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,900.00",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Creative Multimedia (Honours)",
+      "program_slug": "bachelor-of-creative-multimedia",
+      "field": "Arts & Design",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM64,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Design (Honours) in Fashion Design",
+      "program_slug": "bachelor-of-fashion-design",
+      "field": "Arts & Design",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,600.00",
+        "international": "RM64,000.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Design (Honours) in Graphic Design",
+      "program_slug": "bachelor-of-graphic-design",
+      "field": "Arts & Design",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,600.00",
+        "international": "RM64,000.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Public Relations (Honours)",
+      "program_slug": "bachelor-of-public-relations",
+      "field": "Communication & Broadcasting",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,300.00",
+        "international": "RM63,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Science in Architecture (Honours)",
+      "program_slug": "bachelor-of-architecture",
+      "field": "Architecture & Building",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,500.00",
+        "international": "RM64,900.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Construction Management and Economics (Honours)",
+      "program_slug": "bachelor-of-construction-management-and-economics",
+      "field": "Architecture & Building",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM40,100.00",
+        "international": "RM69,400.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Interior Architecture (Honours)",
+      "program_slug": "bachelor-of-interior-architecture",
+      "field": "Architecture & Building",
+      "duration": "3.5 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM41,300.00",
+        "international": "RM72,000.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Quantity Surveying (Honours)",
+      "program_slug": "bachelor-of-quantity-surveying",
+      "field": "Architecture & Building",
+      "duration": "4 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM40,100.00",
+        "international": "RM79,000.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Real Estate Management (Honours)",
+      "program_slug": "bachelor-of-real-estate-management",
+      "field": "Architecture & Building",
+      "duration": "3.5 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM43,300.00",
+        "international": "RM75,300.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Early Childhood Education (Honours)",
+      "program_slug": "bachelor-of-early-childhood-education",
+      "field": "Education",
+      "duration": "3 years (FT) / 5 years (PT)",
+      "mode": "Flexible",
+      "fees": {
+        "local": "RM36,300.00 (FT) / RM37,400.00 (PT)",
+        "international": "RM63,700.00 (FT) / RM67,700.00 (PT)"
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) English Studies",
+      "program_slug": "bachelor-of-english-studies",
+      "field": "Social Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,300.00",
+        "international": "RM63,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) English with Education",
+      "program_slug": "bachelor-of-english-with-education",
+      "field": "Social Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,300.00",
+        "international": "RM63,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Social Science (Honours) in Psychology",
+      "program_slug": "bachelor-of-psychology",
+      "field": "Social Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM39,600.00",
+        "international": "RM64,400.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Gastropreneurship (Honours)",
+      "program_slug": "bachelor-of-gastropreneurship",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,200.00",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Hospitality and Catering Management (Honours)",
+      "program_slug": "bachelor-of-hospitality-and-catering-management",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,500.00",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Hospitality Management (Honours)",
+      "program_slug": "bachelor-of-hospitality-management",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,900.00",
+        "international": "RM64,300.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Tourism Management (Honours)",
+      "program_slug": "bachelor-of-tourism-management",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,300.00",
+        "international": "RM63,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Tourism Management (Honours) Event Management",
+      "program_slug": "bachelor-of-tourism-management-event-management",
+      "field": "Hospitality & Tourism",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM36,600.00",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Analytical Chemistry",
+      "program_slug": "bachelor-of-analytical-chemistry",
+      "field": "Applied Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM38,100.00",
+        "international": "RM66,100.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Applied Physics (Instrumentation)",
+      "program_slug": "bachelor-of-applied-physics-instrumentation",
+      "field": "Applied Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,200.00",
+        "international": "RM64,700.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Bioscience with Chemistry",
+      "program_slug": "bachelor-of-bioscience-with-chemistry",
+      "field": "Life Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM38,100.00",
+        "international": "RM66,100.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Food Science",
+      "program_slug": "bachelor-of-food-science",
+      "field": "Applied Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM38,400.00",
+        "international": "RM66,600.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Nutrition",
+      "program_slug": "bachelor-of-nutrition",
+      "field": "Applied Sciences",
+      "duration": "3 years 6 months",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM43,400.00",
+        "international": "RM76,300.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) Sports and Exercise Science",
+      "program_slug": "bachelor-of-sports-and-exercise-science",
+      "field": "Applied Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,500.00",
+        "international": "RM65,200.00"
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) Sports Coaching and Performance Analysis",
+      "program_slug": "bachelor-of-sports-coaching-and-performance-analysis",
+      "field": "Applied Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "fees": {
+        "local": "RM37,500.00",
+        "international": "RM65,200.00"
+      }
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 10200.0,
+    "international_total": 18400.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: RM10,200.00"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/tarumt/courses/"
+  ],
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,22 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "phd",
+  "program_name": "Ph.D in Business",
+  "field": "Business",
+  "duration": "3 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM45,470",
+    "international": "RM53,710"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "phd-in-business"
+}

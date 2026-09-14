@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "master",
+  "program_name": "Master in Management of Technology",
+  "program_slug": "master-in-management-of-technology",
+  "field": "Business Management & Administration",
+  "faculty": "Technology Management and Business",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "3550/Course",
+    "international": "USD3060/Course",
+    "currency": "MYR",
+    "local_total": 9450.0,
+    "per_year_local": 2362.5,
+    "notes": "Fee: 9450/Course"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "research_areas": "Technology Management, Real Estate and Facilities Management",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0053949/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

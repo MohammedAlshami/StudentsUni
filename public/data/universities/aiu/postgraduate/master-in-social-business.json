@@ -1,0 +1,22 @@
+{
+  "university": "Albukhary International University",
+  "university_slug": "aiu",
+  "level": "postgraduate",
+  "program_name": "Master in Social Business",
+  "program_slug": "master-in-social-business",
+  "field": "Business & Management",
+  "duration": "1.5 - 2 years (Full-time), 2 - 3 years (Part-time)",
+  "mode": "Full-time / Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM30,350",
+    "international": "RM30,950"
+  },
+  "requirements": "Bachelor's degree with minimum CGPA of 2.75 or equivalent from AIU or any university recognised by the AIU Senate",
+  "accreditation": "N/0419/7/0001 (12/27) MQA/PA 15825",
+  "sources": [
+    "https://www.aiu.edu.my/postgraduate"
+  ],
+  "confidence": 0.95,
+  "last_updated": "2026-09-14"
+}

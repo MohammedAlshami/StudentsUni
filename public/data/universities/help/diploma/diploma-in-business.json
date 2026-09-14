@@ -1,0 +1,55 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "diploma",
+  "program_name": "Diploma in Business",
+  "program_slug": "diploma-in-business",
+  "field": "Business Management & Administration",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Feb",
+    "Jan",
+    "May",
+    "Sep",
+    "Aug"
+  ],
+  "fees": {
+    "local": "RM43,800.00",
+    "international": null,
+    "local_total": 20963,
+    "currency": "MYR",
+    "international_total": 22825
+  },
+  "requirements": {
+    "general": "SPM with at least credit in THREE subjects, or SKM Level 3, or Certificate Level 3 MQF with CGPA 2.00, or STPM Grade C (GP 2.0), or STAM Grade Maqbul",
+    "english_international": "Minimum IELTS 5.0 or equivalent"
+  },
+  "accreditation": {
+    "mqa_code": "R3/0410/4/0024",
+    "valid_until": "01/30",
+    "additional_codes": [
+      "A6487"
+    ]
+  },
+  "campus": [
+    "Subang Bestari"
+  ],
+  "faculty": "Faculty of Business, Economics and Accounting",
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0005487/",
+    "https://www.help.edu.my",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

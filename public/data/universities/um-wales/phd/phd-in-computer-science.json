@@ -1,0 +1,34 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "phd",
+  "program_name": "Ph.D in Computer Science",
+  "field": "Computing",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "RM39,460",
+    "international": "RM53,100",
+    "local_total": 14044,
+    "currency": "MYR",
+    "international_total": 18994
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "phd-in-computer-science"
+}

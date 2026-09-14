@@ -1,0 +1,50 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "level": "diploma",
+  "level_name": "Diploma",
+  "programs_count": 8,
+  "programs": [
+    {
+      "program_name": "Diploma in Electrical Engineering",
+      "program_slug": "diploma-in-electrical-engineering",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Diploma in Mechanical Engineering",
+      "program_slug": "diploma-in-mechanical-engineering",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Diploma in Renewable Energy Technologies",
+      "program_slug": "diploma-in-renewable-energy-technologies",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Diploma of Computer Science",
+      "program_slug": "diploma-of-computer-science",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Diploma in Corporate Management with Tahfiz",
+      "program_slug": "diploma-in-corporate-management-with-tahfiz",
+      "field": "Business"
+    },
+    {
+      "program_name": "Diploma in Accounting",
+      "program_slug": "diploma-in-accounting",
+      "field": "Business"
+    },
+    {
+      "program_name": "Diploma in Business Studies",
+      "program_slug": "diploma-in-business-studies",
+      "field": "Business"
+    },
+    {
+      "program_name": "Diploma in Digital Business",
+      "program_slug": "diploma-in-digital-business",
+      "field": "Business"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

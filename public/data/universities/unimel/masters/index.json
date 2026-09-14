@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "master-in-business-analytics",
+    "name": "Master in Business Analytics",
+    "field": "Business"
+  },
+  {
+    "slug": "master-in-hajj-and-umrah",
+    "name": "Master in Hajj and Umrah",
+    "field": "Islamic Sciences"
+  },
+  {
+    "slug": "master-in-business-management",
+    "name": "Master in Business Management",
+    "field": "Business"
+  },
+  {
+    "slug": "master-in-business-administration",
+    "name": "Master in Business Administration",
+    "field": "Business"
+  },
+  {
+    "slug": "master-in-science-management",
+    "name": "Master in Science Management",
+    "field": "Business"
+  },
+  {
+    "slug": "master-in-syariah",
+    "name": "Master in Syariah",
+    "field": "Islamic Sciences"
+  },
+  {
+    "slug": "master-in-islamic-studies-dakwah",
+    "name": "Master in Islamic Studies Dakwah",
+    "field": "Islamic Sciences"
+  },
+  {
+    "slug": "master-in-islamic-studies",
+    "name": "Master in Islamic Studies",
+    "field": "Islamic Sciences"
+  },
+  {
+    "slug": "master-in-law-and-forensics",
+    "name": "Master in Law and Forensics",
+    "field": "Law"
+  },
+  {
+    "slug": "master-in-psychology",
+    "name": "Master in Psychology",
+    "field": "Social Sciences"
+  },
+  {
+    "slug": "master-in-communication",
+    "name": "Master in Communication",
+    "field": "Social Sciences"
+  },
+  {
+    "slug": "master-in-counselling",
+    "name": "Master in Counselling",
+    "field": "Social Sciences"
+  },
+  {
+    "slug": "master-in-cultural-heritage-management",
+    "name": "Master in Cultural Heritage Management",
+    "field": "Social Sciences"
+  },
+  {
+    "slug": "master-in-public-administration",
+    "name": "Master in Public Administration",
+    "field": "Social Sciences"
+  },
+  {
+    "slug": "master-in-leadership-and-educational-management",
+    "name": "Master in Leadership and Educational Management",
+    "field": "Education"
+  },
+  {
+    "slug": "master-of-nursing",
+    "name": "Master of Nursing",
+    "field": "Medicine and Health"
+  }
+]

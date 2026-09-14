@@ -1,0 +1,44 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "bachelors",
+  "program_name": "Bachelor of Science (Honours) Biomedicine",
+  "program_slug": "bachelor-of-science-honours-biomedicine",
+  "field": "Science",
+  "faculty": null,
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep",
+    "Feb"
+  ],
+  "fees": {
+    "local": "From RM85,460",
+    "international": "International Administrative Fee RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 41314,
+    "per_year_local": null,
+    "notes": "Fee: FromRM85,460.00",
+    "international_total": 43564
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0056937/",
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

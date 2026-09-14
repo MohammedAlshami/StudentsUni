@@ -1,0 +1,34 @@
+{
+  "programs": [
+    {
+      "slug": "master-of-business-administration",
+      "program_name": "Master of Business Administration"
+    },
+    {
+      "slug": "master-of-business-administration-in-entrepreneurial-marketing",
+      "program_name": "Master of Business Administration in Entrepreneurial Marketing"
+    },
+    {
+      "slug": "master-of-education",
+      "program_name": "Master of Education"
+    },
+    {
+      "slug": "master-of-human-resource-management",
+      "program_name": "Master of Human Resource Management"
+    },
+    {
+      "slug": "master-in-information-and-communication-technology-management",
+      "program_name": "Master in Information and Communication Technology Management"
+    },
+    {
+      "slug": "master-in-management",
+      "program_name": "Master in Management"
+    },
+    {
+      "slug": "master-of-science-management",
+      "program_name": "Master of Science (Management)"
+    }
+  ],
+  "total": 7,
+  "last_updated": "2026-09-14"
+}

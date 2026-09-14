@@ -1,0 +1,33 @@
+{
+  "university": "Raffles University Iskandar",
+  "university_slug": "rui",
+  "level": "Diploma",
+  "program_name": "Diploma in Business Studies",
+  "field": "Business Management & Administration",
+  "slug": "diploma-in-business-studies",
+  "duration": "2 Yrs",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": "44000/Course",
+    "international_total": 44000,
+    "currency": "MYR",
+    "per_year_international": 22000,
+    "notes": "Total fee from existing data Local fees not published online; contact university.",
+    "local_total": null,
+    "per_year_local": null
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/RUI/0055316/",
+    {
+      "url": "https://raffles-university.edu.my/programme/diploma-in-business-studies/",
+      "publisher": "Raffles University",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

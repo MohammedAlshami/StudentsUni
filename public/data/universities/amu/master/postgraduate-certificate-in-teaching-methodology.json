@@ -1,0 +1,51 @@
+{
+  "university": "Asia Metropolitan University",
+  "university_slug": "amu",
+  "level": "master",
+  "program_name": "Postgraduate Certificate in Teaching Methodology",
+  "slug": "postgraduate-certificate-in-teaching-methodology",
+  "field": "education",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": {},
+  "fees": {
+    "currency": "MYR",
+    "local_total": 8000,
+    "international_total": null,
+    "per_year_local": 8000,
+    "per_year_international": null,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "MQA approved",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://amu.edu.my/programmes/",
+      "publisher": "Official Website",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/amu/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-15"
+}

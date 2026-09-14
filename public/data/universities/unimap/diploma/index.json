@@ -1,0 +1,34 @@
+{
+  "programs": [
+    {
+      "slug": "diploma-in-engineering-electrical",
+      "program_name": "Diploma in Engineering (Electrical Engineering)"
+    },
+    {
+      "slug": "diploma-in-mechanical-engineering-technology",
+      "program_name": "Diploma in Mechanical Engineering Technology"
+    },
+    {
+      "slug": "diploma-in-materials-engineering",
+      "program_name": "Diploma in Materials Engineering"
+    },
+    {
+      "slug": "diploma-in-engineering-electronics",
+      "program_name": "Diploma in Engineering (Electronics Engineering)"
+    },
+    {
+      "slug": "diploma-in-engineering-mechatronic",
+      "program_name": "Diploma in Engineering (Mechatronic Engineering)"
+    },
+    {
+      "slug": "diploma-in-engineering-computer",
+      "program_name": "Diploma in Engineering (Computer Engineering)"
+    },
+    {
+      "slug": "diploma-in-engineering-manufacturing",
+      "program_name": "Diploma in Engineering (Manufacturing Engineering)"
+    }
+  ],
+  "total": 7,
+  "last_updated": "2026-09-14"
+}

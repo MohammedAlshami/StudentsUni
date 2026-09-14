@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "master",
+  "program_name": "Master in Science (Actuarial Management)",
+  "field": "Actuarial Management",
+  "duration": "1+ Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 30,608 - RM 41,148",
+    "international": "RM 45,639 - RM 56,689",
+    "currency": "MYR",
+    "local_total": 30608,
+    "international_total": 45639,
+    "per_year_local": 30608,
+    "per_year_international": 45639,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057295/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

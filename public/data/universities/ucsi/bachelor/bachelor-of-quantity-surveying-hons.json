@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Quantity Surveying (Hons)",
+  "field": "Quantity Surveying",
+  "duration": "3.5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 76,440",
+    "international": "RM 101,210",
+    "currency": "MYR",
+    "local_total": 76440,
+    "international_total": 101210,
+    "per_year_local": 76440,
+    "per_year_international": 101210,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057293/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

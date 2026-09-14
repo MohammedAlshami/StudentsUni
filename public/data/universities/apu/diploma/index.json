@@ -1,0 +1,281 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "diploma",
+  "level_label": "Diploma Level",
+  "program_count": 14,
+  "programs": [
+    {
+      "program_name": "Diploma in Information & Communication Technology",
+      "program_slug": "diploma-ict",
+      "field": "Computing & Technology",
+      "duration": "2+ years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM50,800.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-ict",
+        "https://www.studymalaysia.com/what/course/APU/0005954/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Information & Communication Technology with a specialism in Software Engineering",
+      "program_slug": "diploma-ict-software-engineering",
+      "field": "Computing & Technology",
+      "duration": "2+ years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM50,800.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-ict-software-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0008386/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Information & Communication Technology with a specialism in Data Informatics",
+      "program_slug": "diploma-ict-data-informatics",
+      "field": "Computing & Technology",
+      "duration": "2+ years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM50,800.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-ict-data-informatics",
+        "https://www.studymalaysia.com/what/course/APU/0056377/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Information & Communication Technology with a specialism in Interactive Technology",
+      "program_slug": "diploma-ict-interactive-technology",
+      "field": "Computing & Technology",
+      "duration": "2+ years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM50,800.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-ict-IT",
+        "https://www.studymalaysia.com/what/course/APU/0056378/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Business Information Technology",
+      "program_slug": "diploma-business-information-technology",
+      "field": "Computing & Technology",
+      "duration": "2+ years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM47,600.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-business-information-technology",
+        "https://www.studymalaysia.com/what/course/APU/0009803/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Business Administration",
+      "program_slug": "diploma-business-administration",
+      "field": "Business & Management",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM47,600.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-business-administration",
+        "https://www.studymalaysia.com/what/course/APU/0008388/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Accounting",
+      "program_slug": "diploma-accounting",
+      "field": "Accounting & Finance",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM47,600.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-accounting",
+        "https://www.studymalaysia.com/what/course/APU/0008389/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Mechatronic Engineering",
+      "program_slug": "diploma-mechatronic-engineering",
+      "field": "Engineering",
+      "duration": "2+ years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM50,800.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-mechatronic-engineering",
+        "https://www.studymalaysia.com/what/course/APU/0058239/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Design & Media",
+      "program_slug": "diploma-design-media",
+      "field": "Design & Creative Media",
+      "duration": "2+ years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM50,800.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-design-media",
+        "https://www.studymalaysia.com/what/course/APU/0056380/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in International Studies",
+      "program_slug": "diploma-international-studies",
+      "field": "International Relations",
+      "duration": "2+ years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM45,000.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-international-studies",
+        "https://www.studymalaysia.com/what/course/APU/0056381/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "program_slug": "diploma-hotel-management",
+      "field": "Hospitality & Tourism",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM47,600.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-hotel-management",
+        "https://www.studymalaysia.com/what/course/APU/0058554/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Events Management",
+      "program_slug": "diploma-events-management",
+      "field": "Hospitality & Tourism",
+      "duration": "2+ years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM47,600.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-events-management",
+        "https://www.studymalaysia.com/what/course/APU/0058555/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Diploma in Psychology",
+      "program_slug": "diploma-psychology",
+      "field": "Psychology",
+      "duration": "2 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM47,600.00",
+        "international": "RM54,200.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/diploma-in-psychology",
+        "https://www.studymalaysia.com/what/course/APU/0058858/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 26800.0,
+    "international_total": 28400.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: RM26,800.00"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/apu/courses/"
+  ],
+  "last_updated": "2026-09-15"
+}

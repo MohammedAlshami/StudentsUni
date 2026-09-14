@@ -1,0 +1,42 @@
+{
+  "university": "Universiti Malaysia Sarawak",
+  "university_slug": "unimas",
+  "level": "bachelor",
+  "program_name": "Bachelor of Business Management (Corporate Management) (Hons)",
+  "slug": "bachelor-of-business-management-corporate-management-hons",
+  "field": "Business Management",
+  "duration": "6 semesters (3 years)",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 3300,
+    "international_total": null,
+    "per_year_local": 1100,
+    "per_year_international": null,
+    "notes": "Per semester fees from StudyMalaysia. Some programs: Enquire for fees."
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/unimas/courses/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14"
+}

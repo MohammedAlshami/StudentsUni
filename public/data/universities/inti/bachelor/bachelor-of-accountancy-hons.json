@@ -1,0 +1,42 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "bachelor",
+  "program_name": "Bachelor of Accountancy (Hons)",
+  "program_slug": "bachelor-of-accountancy-hons",
+  "field": "Accounting & Finance",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": [
+    "Aug",
+    "Jun",
+    "Jan"
+  ],
+  "fees": {
+    "local": "Refer to newinti.edu.my",
+    "international": "Refer to newinti.edu.my",
+    "local_total": 22298,
+    "currency": "MYR",
+    "international_total": 22298
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "faculty": "Business",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0005220/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,127 @@
+{
+  "level": "bachelor",
+  "university": "imu",
+  "programs": [
+    {
+      "slug": "biomedical-science",
+      "name": "Biomedical Science",
+      "mode": "Unknown",
+      "field": "Science"
+    },
+    {
+      "slug": "bioveterinary-science",
+      "name": "Bioveterinary Science",
+      "mode": "Unknown",
+      "field": "Veterinary Science"
+    },
+    {
+      "slug": "business-administration",
+      "name": "Business Administration",
+      "mode": "Unknown",
+      "field": "Business"
+    },
+    {
+      "slug": "business-administration-healthcare-management",
+      "name": "Business Administration with Healthcare Management",
+      "mode": "Unknown",
+      "field": "Business"
+    },
+    {
+      "slug": "business-analytics",
+      "name": "Business Analytics",
+      "mode": "Unknown",
+      "field": "Business Analytics"
+    },
+    {
+      "slug": "chinese-medicine",
+      "name": "Chinese Medicine",
+      "mode": "Unknown",
+      "field": "Medicine"
+    },
+    {
+      "slug": "chiropractic",
+      "name": "Chiropractic",
+      "mode": "Unknown",
+      "field": "Medicine"
+    },
+    {
+      "slug": "cosmetic-science",
+      "name": "Cosmetic Science",
+      "mode": "Unknown",
+      "field": "Science"
+    },
+    {
+      "slug": "dentistry",
+      "name": "Dentistry",
+      "mode": "Unknown",
+      "field": "Dentistry"
+    },
+    {
+      "slug": "dietetics-with-nutrition",
+      "name": "Dietetics with Nutrition",
+      "mode": "Unknown",
+      "field": "Health Sciences"
+    },
+    {
+      "slug": "digital-health",
+      "name": "Digital Health",
+      "mode": "Unknown",
+      "field": "Health Sciences"
+    },
+    {
+      "slug": "food-science-innovation",
+      "name": "Food Science Innovation",
+      "mode": "Unknown",
+      "field": "Science"
+    },
+    {
+      "slug": "medical-biotechnology",
+      "name": "Medical Biotechnology",
+      "mode": "Unknown",
+      "field": "Biotechnology"
+    },
+    {
+      "slug": "medicine",
+      "name": "Medicine",
+      "mode": "Unknown",
+      "field": "Medicine"
+    },
+    {
+      "slug": "nursing",
+      "name": "Nursing",
+      "mode": "Unknown",
+      "field": "Nursing"
+    },
+    {
+      "slug": "nursing-odl",
+      "name": "Nursing (ODL)",
+      "mode": "ODL",
+      "field": "Nursing"
+    },
+    {
+      "slug": "nutrition",
+      "name": "Nutrition",
+      "mode": "Unknown",
+      "field": "Health Sciences"
+    },
+    {
+      "slug": "pharmaceutical-chemistry",
+      "name": "Pharmaceutical Chemistry",
+      "mode": "Unknown",
+      "field": "Pharmacy"
+    },
+    {
+      "slug": "pharmacy",
+      "name": "Pharmacy",
+      "mode": "Unknown",
+      "field": "Pharmacy"
+    },
+    {
+      "slug": "psychology",
+      "name": "Psychology",
+      "mode": "Unknown",
+      "field": "Psychology"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

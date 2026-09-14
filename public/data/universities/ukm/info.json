@@ -1,0 +1,21 @@
+{
+  "slug": "ukm",
+  "name": "Universiti Kebangsaan Malaysia",
+  "abbr": "UKM",
+  "type": "public-university",
+  "state": "Selangor",
+  "city": "Bangi",
+  "website": "https://www.ukm.my",
+  "levels_available": ["pre-university", "undergraduate", "postgraduate"],
+  "program_counts": {
+    "pre-university": 3,
+    "undergraduate": 68,
+    "postgraduate": 72
+  },
+  "sources": [
+    "https://www.ukm.my/portal/undergraduate-programmes/",
+    "https://www.ukm.my/portal/postgraduate-programme/",
+    "https://www.ukm.my/permatapintar/asasipintar/"
+  ],
+  "last_updated": "2026-09-14"
+}

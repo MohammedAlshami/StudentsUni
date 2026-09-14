@@ -1,0 +1,201 @@
+{
+  "university": "Albukhary International University",
+  "university_slug": "aiu",
+  "level": "undergraduate",
+  "level_label": "Undergraduate Studies",
+  "program_count": 12,
+  "programs": [
+    {
+      "program_name": "Bachelor of Business Administration (Honours)",
+      "program_slug": "bachelor-of-business-administration-hons",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Business Administration with Computer Science (Honours)",
+      "program_slug": "bachelor-of-business-administration-computer-science-hons",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Business Administration (Honours) (Marketing)",
+      "program_slug": "bachelor-of-business-administration-marketing-hons",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Business Administration (Honours) (Human Resource Management)",
+      "program_slug": "bachelor-of-business-administration-human-resource-management-hons",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Economics (Honours)",
+      "program_slug": "bachelor-of-economics-hons",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Social Development (Honours)",
+      "program_slug": "bachelor-of-social-development-hons",
+      "field": "Social Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Politics and International Relations (Honours)",
+      "program_slug": "bachelor-of-politics-international-relations-hons",
+      "field": "Social Sciences",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Finance (Islamic Finance) (Honours)",
+      "program_slug": "bachelor-of-finance-islamic-finance-hons",
+      "field": "Business & Management",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Elementary Education (Honours)",
+      "program_slug": "bachelor-of-elementary-education-hons",
+      "field": "Education",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Media and Communication (Honours)",
+      "program_slug": "bachelor-of-media-communication-hons",
+      "field": "Communication & Media",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor in Early Childhood Education (Honours)",
+      "program_slug": "bachelor-in-early-childhood-education-hons",
+      "field": "Education",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Honours)",
+      "program_slug": "bachelor-of-computer-science-hons",
+      "field": "Computing & Technology",
+      "duration": "3 years",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.aiu.edu.my/academics"
+      ],
+      "confidence": 0.8,
+      "last_updated": "2026-09-14"
+    }
+  ]
+}

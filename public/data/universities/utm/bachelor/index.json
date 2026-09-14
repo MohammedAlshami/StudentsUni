@@ -1,0 +1,293 @@
+{
+  "level": "bachelor",
+  "university": "Universiti Teknologi Malaysia",
+  "university_slug": "utm",
+  "programs": [
+    {
+      "slug": "bachelor-of-civil-engineering",
+      "name": "Bachelor of Civil Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-chemical-engineering",
+      "name": "Bachelor of Chemical Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-nuclear-engineering",
+      "name": "Bachelor of Nuclear Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-chemical-engineering-bioprocess",
+      "name": "Bachelor of Chemical Engineering (Bioprocess) with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-chemical-engineering-gas",
+      "name": "Bachelor of Chemical Engineering (Gas) with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-petroleum-engineering",
+      "name": "Bachelor of Petroleum Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-biomedical-engineering",
+      "name": "Bachelor of Biomedical Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-electronic-engineering",
+      "name": "Bachelor of Electronic Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-electrical-engineering",
+      "name": "Bachelor of Electrical Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-electrical-mechatronics",
+      "name": "Bachelor of Engineering (Electrical-Mechatronics) with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering-manufacturing",
+      "name": "Bachelor of Mechanical Engineering (Manufacturing) with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-naval-architecture",
+      "name": "Bachelor of Engineering (Naval Architecture) with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-aeronautical-engineering",
+      "name": "Bachelor of Aeronautical Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-in-software-engineering",
+      "name": "Bachelor in Software Engineering with Honours",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-computer-science-computer-networks-security",
+      "name": "Bachelor of Computer Science (Computer Networks and Security) with Honours",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-computer-science-graphics-multimedia",
+      "name": "Bachelor of Computer Science (Graphics and Multimedia Software) with Honours",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-in-data-science-intelligent-analytics",
+      "name": "Bachelor in Data Science (Intelligent Analytics) with Honours",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-in-computer-science-data-engineering",
+      "name": "Bachelor in Computer Science (Data Engineering) with Honours",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-in-artificial-intelligence",
+      "name": "Bachelor in Artificial Intelligence with Honours",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-in-accounting",
+      "name": "Bachelor in Accounting with Honours",
+      "field": "Accounting & Finance"
+    },
+    {
+      "slug": "bachelor-in-digital-marketing",
+      "name": "Bachelor in Digital Marketing with Honours",
+      "field": "Business Management"
+    },
+    {
+      "slug": "bachelor-of-management",
+      "name": "Bachelor of Management with Honours",
+      "field": "Business Management"
+    },
+    {
+      "slug": "bachelor-of-science-architecture",
+      "name": "Bachelor of Science in Architecture with Honours",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-quantity-surveying",
+      "name": "Bachelor of Quantity Surveying with Honours",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-science-construction",
+      "name": "Bachelor of Science in Construction with Honours",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-urban-and-regional-planning",
+      "name": "Bachelor of Urban and Regional Planning with Honours",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-landscape-architecture",
+      "name": "Bachelor of Landscape Architecture with Honours",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-geomatics-engineering",
+      "name": "Bachelor of Geomatics Engineering with Honours",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-science-geoinformatics",
+      "name": "Bachelor of Science in Geoinformatics with Honours",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-science-land-administration-development",
+      "name": "Bachelor of Science in Land Administration and Development with Honours",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-real-estate",
+      "name": "Bachelor of Real Estate with Honours",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "bachelor-of-science-biology",
+      "name": "Bachelor of Science Biology with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-chemistry",
+      "name": "Bachelor of Science (Chemistry) with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-mathematics",
+      "name": "Bachelor of Science (Mathematics) with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-physics",
+      "name": "Bachelor of Science (Physics) with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-biotechnology",
+      "name": "Bachelor of Science in Biotechnology with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-industrial-chemistry",
+      "name": "Bachelor of Science (Industrial Chemistry) with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-industrial-mathematics",
+      "name": "Bachelor of Science (Industrial Mathematics) with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-industrial-physics",
+      "name": "Bachelor of Science (Industrial Physics) with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-in-human-resource-development",
+      "name": "Bachelor in Human Resource Development with Honours",
+      "field": "Social Sciences"
+    },
+    {
+      "slug": "bachelor-of-psychology-with-human-resource-development",
+      "name": "Bachelor of Psychology with Human Resource Development with Honours",
+      "field": "Social Sciences"
+    },
+    {
+      "slug": "bachelor-of-science-industrial-design",
+      "name": "Bachelor of Science with Honours (Industrial Design)",
+      "field": "Design"
+    },
+    {
+      "slug": "bachelor-of-technology-education-mechanical-engineering",
+      "name": "Bachelor of Technology with Education (Mechanical Engineering) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-technology-education-electrical-electronics",
+      "name": "Bachelor of Technology with Education (Electrical & Electronics Engineering) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-technology-education-civil-engineering",
+      "name": "Bachelor of Technology with Education (Civil Engineering) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-technology-education-design-technology",
+      "name": "Bachelor of Technology with Education (Design and Technology) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-tesl",
+      "name": "Bachelor of Education (Teaching English as a Second Language) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-science-education-sports-science",
+      "name": "Bachelor of Science with Education (Sports Science) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-science-education-physics",
+      "name": "Bachelor of Science with Education (Physics) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-science-education-chemistry",
+      "name": "Bachelor of Science with Education (Chemistry) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-science-education-mathematics",
+      "name": "Bachelor of Science with Education (Mathematics) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-islamic-studies",
+      "name": "Bachelor of Education (Islamic Studies) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-electronic-systems-engineering",
+      "name": "Bachelor of Electronic Systems Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-mechanical-precision-engineering",
+      "name": "Bachelor of Mechanical Precision Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-chemical-process-engineering",
+      "name": "Bachelor of Chemical Process Engineering with Honours",
+      "field": "Engineering"
+    }
+  ],
+  "sources": [
+    "https://admission.utm.my/offered-allcourses-malaysian/",
+    "https://studymalaysia.com/edu/utm_space/",
+    "https://comp.utm.my/undergraduate/"
+  ],
+  "last_updated": "2026-09-14"
+}

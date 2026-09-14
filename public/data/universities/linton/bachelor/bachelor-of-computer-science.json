@@ -1,0 +1,51 @@
+{
+  "university": "Linton University College",
+  "university_slug": "linton",
+  "level": "bachelor",
+  "program_name": "Bachelor of Computer Science",
+  "program_slug": "bachelor-of-computer-science",
+  "field": "computer-science",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 47500,
+    "international_total": 71250,
+    "per_year_local": "RM11,667-RM20,000",
+    "per_year_international": "RM17,500-RM30,000",
+    "notes": "Indicative range based on EduSwasta 2026"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "MQA approved",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/KTG_Education_Group",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://eduswasta.my/university/linton-university-college/",
+      "publisher": "aggregator",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "partial",
+  "last_updated": "2026-09-15"
+}

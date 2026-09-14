@@ -1,0 +1,22 @@
+{
+  "university_slug": "mediu",
+  "level": "doctorate",
+  "program_name": "PhD in Fiqh Al-Sunnah (By Research)",
+  "program_slug": "phd-in-fiqh-al-sunnah-by-research",
+  "field": "Islamic Sciences",
+  "duration": "3-5 Years",
+  "mode": "Full-time, Online",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mediu.edu.my/list-of-fully-accredited-programs-by-mqa/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

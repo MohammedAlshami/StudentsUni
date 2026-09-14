@@ -1,0 +1,611 @@
+{
+  "university": "New Era University College",
+  "university_slug": "neuc",
+  "level": "diploma",
+  "level_label": "Diploma",
+  "program_count": 14,
+  "programs": [
+    {
+      "program_name": "Diploma in Graphic Design",
+      "program_slug": "diploma-in-graphic-design",
+      "field": "design",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/0211/4/0090)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Visual Arts",
+      "program_slug": "diploma-in-visual-arts",
+      "field": "arts",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/0210/4/0002)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Accounting",
+      "program_slug": "diploma-in-accounting",
+      "field": "accounting",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/0411/4/0561)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Media Studies",
+      "program_slug": "diploma-in-media-studies",
+      "field": "media",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/0321/4/0006)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Performing Arts",
+      "program_slug": "diploma-in-performing-arts",
+      "field": "performing-arts",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/210/4/0028)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Business Administration",
+      "program_slug": "diploma-in-business-administration",
+      "field": "business",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/340/4/0241)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Marketing",
+      "program_slug": "diploma-in-marketing",
+      "field": "marketing",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R/342/4/0208)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "program_slug": "diploma-in-information-technology",
+      "field": "ict",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/0611/4/0039)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Elderly Care Management",
+      "program_slug": "diploma-in-elderly-care-management",
+      "field": "health",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (N/0921/4/0001)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Teaching Chinese as a Second Language",
+      "program_slug": "diploma-in-teaching-chinese-as-a-second-language",
+      "field": "education",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/0110/4/0001)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Digital Media Design",
+      "program_slug": "diploma-in-digital-media-design",
+      "field": "design",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R/0211/4/0164)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Interior Design",
+      "program_slug": "diploma-in-interior-design",
+      "field": "design",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/0212/4/0038)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Computer Science",
+      "program_slug": "diploma-in-computer-science",
+      "field": "computer-science",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R/0613/4/0048)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education",
+      "program_slug": "diploma-in-early-childhood-education",
+      "field": "education",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/0112/4/0065)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    }
+  ]
+}

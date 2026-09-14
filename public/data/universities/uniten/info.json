@@ -1,0 +1,39 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "abbreviation": "UNITEN",
+  "type": "private-university",
+  "state": "Selangor",
+  "website": "https://www.uniten.edu.my",
+  "campuses": [
+    {
+      "name": "Putrajaya Campus",
+      "address": "Jalan IKRAM-UNITEN, 43000 Kajang, Selangor Darul Ehsan, Malaysia",
+      "phone": "+603-8921 2020"
+    },
+    {
+      "name": "Sultan Haji Ahmad Shah Campus",
+      "address": "26700 Muadzam Shah, Pahang Darul Makmur, Malaysia",
+      "phone": "+609-455 2020"
+    }
+  ],
+  "colleges": [
+    "College of Engineering (COE)",
+    "College of Computing & Informatics (CCI)",
+    "UNITEN Business School (UBS)",
+    "College of Graduate Studies (COGS)",
+    "College of Continuing Education (CCEd)"
+  ],
+  "accreditations": [
+    "Malaysian Qualifications Agency (MQA)",
+    "Engineers Australia (Washington Accord)",
+    "British Computer Society (BCS)",
+    "Association of Chartered Certified Accountants (ACCA)"
+  ],
+  "sources": [
+    "https://www.uniten.edu.my",
+    "https://www.uniten.edu.my/programme/",
+    "https://www.studymalaysia.com/edu/uniten/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

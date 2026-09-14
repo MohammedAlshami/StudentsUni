@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Vocational Education (Electrical and Electronics) (Hons)",
+  "program_slug": "bachelor-of-vocational-education-electrical-and-electronics",
+  "field": "Education",
+  "faculty": "Technical and Vocational Education",
+  "duration": "4 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": null,
+    "currency": "MYR",
+    "local_total": 7200,
+    "per_year_local": 1800,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 21600,
+    "per_year_international": 5400
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0058305/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

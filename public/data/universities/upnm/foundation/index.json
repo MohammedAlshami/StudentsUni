@@ -1,0 +1,28 @@
+{
+  "level": "foundation",
+  "level_name": "Program Asasi",
+  "count": 4,
+  "programs": [
+    {
+      "name": "Asasi Perubatan",
+      "slug": "asasi-perubatan"
+    },
+    {
+      "name": "Asasi Kejuruteraan dan Teknologi",
+      "slug": "asasi-kejuruteraan-dan-teknologi"
+    },
+    {
+      "name": "Asasi Pengurusan dan Strategi",
+      "slug": "asasi-pengurusan-dan-strategi"
+    },
+    {
+      "name": "Asasi Pengurusan dan Strategi (Elektif Pengajian Islam)",
+      "slug": "asasi-pengurusan-dan-strategi-elektif-pengajian-islam"
+    }
+  ],
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/program-asasi",
+    "https://www.studymalaysia.com/edu/upnm/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

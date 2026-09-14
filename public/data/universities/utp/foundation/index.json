@@ -1,0 +1,45 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "foundation",
+  "programs": [
+    {
+      "slug": "engineering-science",
+      "program_name": "Foundation in Engineering & Science",
+      "field": "Engineering & Science",
+      "duration": "1 year",
+      "mode": "full-time",
+      "intakes": ["may"],
+      "fees": "RM 17,700 (total)",
+      "requirements": {
+        "spm": "5 credits including Mathematics, Additional Mathematics, Physics, Chemistry, and English"
+      },
+      "accreditation": "JPT/BPP(R3/0011/3/0066)(07/29)(A4231)",
+      "sources": [
+        "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx",
+        "https://unienrol.com/study-malaysia/universiti-teknologi-petronas-utp/courses/all"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "slug": "business-management-computing",
+      "program_name": "Foundation in Business Management & Computing",
+      "field": "Business & Computing",
+      "duration": "1 year",
+      "mode": "full-time",
+      "intakes": ["may"],
+      "fees": "RM 17,700 (total)",
+      "requirements": {
+        "spm": "5 credits including Mathematics, English, and relevant subjects"
+      },
+      "accreditation": "JPT/BPP(R3/0011/3/0066)(07/29)(A4231)",
+      "sources": [
+        "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

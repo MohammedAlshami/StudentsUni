@@ -1,0 +1,21 @@
+{
+  "university": "Widad University College",
+  "university_slug": "widad",
+  "level": "diploma",
+  "program_name": "Diploma in Medical and Health Sciences",
+  "field": "Health Sciences",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.widad.edu.my/uc/my/courses/fahs/medical-health-sciences",
+      "type": "official"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

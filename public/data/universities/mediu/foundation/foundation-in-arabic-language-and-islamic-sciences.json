@@ -1,0 +1,22 @@
+{
+  "university_slug": "mediu",
+  "level": "foundation",
+  "program_name": "Foundation in Arabic Language and Islamic Sciences",
+  "program_slug": "foundation-in-arabic-language-and-islamic-sciences",
+  "field": "Islamic Sciences",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mediu.edu.my/list-of-fully-accredited-programs-by-mqa/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

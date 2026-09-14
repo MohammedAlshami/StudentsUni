@@ -1,0 +1,32 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "bachelors",
+  "program_name": "Bachelor of Engineering (Hons) Mechanical Engineering",
+  "field": "Engineering",
+  "duration": "3-4 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM47,100/Yr",
+    "international": "RM55,200/Yr",
+    "local_total": 188400,
+    "per_year_local": 47100,
+    "international_total": 220800,
+    "per_year_international": 55200,
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15",
+  "slug": "bachelor-of-engineering-hons-mechanical-engineering"
+}

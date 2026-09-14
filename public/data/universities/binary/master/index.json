@@ -1,0 +1,267 @@
+{
+  "university": "Binary University",
+  "university_slug": "binary",
+  "level": "master",
+  "level_label": "Master's Degree",
+  "program_count": 6,
+  "programs": [
+    {
+      "program_name": "MBA (Industry Specialist)",
+      "program_slug": "mba-industry-specialist",
+      "field": "business",
+      "duration": "16 months",
+      "mode": "Full-Time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "RM 16,000/year"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": "Recognised Bachelor's degree",
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20240229194734/https://binary.edu.my/bgs/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "MPhil (Master of Philosophy)",
+      "program_slug": "mphil-master-of-philosophy",
+      "field": "general",
+      "duration": "2 years",
+      "mode": "Full-Time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "RM 16,000/year"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": "Recognised Bachelor's degree",
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20240229194734/https://binary.edu.my/bgs/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "MSc in Education Management",
+      "program_slug": "msc-in-education-management",
+      "field": "education",
+      "duration": "2 years",
+      "mode": "Part-Time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "RM 16,000/year"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": "Recognised Bachelor's degree",
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20240229194734/https://binary.edu.my/bgs/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "MSc in Information Technology Management",
+      "program_slug": "msc-in-information-technology-management",
+      "field": "information-technology",
+      "duration": "2 years",
+      "mode": "Full-Time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "RM 16,000/year"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": "Recognised Bachelor's degree",
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20240229194734/https://binary.edu.my/bgs/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "MSc in Accounting and Finance",
+      "program_slug": "msc-in-accounting-and-finance",
+      "field": "accounting",
+      "duration": "2 years",
+      "mode": "Full-Time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "RM 16,000/year"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": "Recognised Bachelor's degree",
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20240229194734/https://binary.edu.my/bgs/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "MSc in Social Entrepreneurship",
+      "program_slug": "msc-in-social-entrepreneurship",
+      "field": "entrepreneurship",
+      "duration": "2 years",
+      "mode": "Full-Time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "RM 16,000/year"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": "Recognised Bachelor's degree",
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20240229194734/https://binary.edu.my/bgs/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "bachelor",
+  "program_name": "Bachelor of Psychological Science (Honours)",
+  "field": "Medicine & Health Sciences",
+  "duration": "1 year (Honours year)",
+  "mode": "Full-time",
+  "intakes": [
+    "February",
+    "July",
+    "October"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 38213,
+    "international_total": 43575,
+    "per_year_local": "RM38,213 per year",
+    "per_year_international": "RM43,575 per year",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-psychology-honours",
+    "https://www.studymalaysia.com/what/course/MONASH/0054350/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

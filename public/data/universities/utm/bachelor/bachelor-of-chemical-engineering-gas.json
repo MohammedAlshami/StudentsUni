@@ -1,0 +1,45 @@
+{
+  "university": "Universiti Teknologi Malaysia",
+  "university_slug": "utm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Chemical Engineering (Gas) with Honours",
+  "field": "Engineering",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7600,
+    "international_total": 22800,
+    "per_year_local": 1900,
+    "per_year_international": 5700,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://admission.utm.my/offered-allcourses-malaysian/",
+    "https://fkt.utm.my/bachelor-of-chemical-gas-2/",
+    "https://www.studymalaysia.com/edu/utm/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

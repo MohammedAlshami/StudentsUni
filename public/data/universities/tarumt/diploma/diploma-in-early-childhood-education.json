@@ -1,0 +1,47 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "diploma",
+  "program_name": "Diploma in Early Childhood Education",
+  "program_slug": "diploma-in-early-childhood-education",
+  "field": "Education",
+  "duration": "26 months",
+  "mode": "Full-time",
+  "intakes": [
+    "Nov"
+  ],
+  "fees": {
+    "local": "RM19,500.00 (FT) / RM20,300.00 (PT)",
+    "international": "RM37,800.00 (FT) / RM40,100.00 (PT)",
+    "local_total": 8308,
+    "currency": "MYR",
+    "per_year_local": 3323
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/tarumt/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

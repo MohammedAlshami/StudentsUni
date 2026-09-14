@@ -1,0 +1,46 @@
+{
+  "slug": "monash",
+  "name": "Monash University Malaysia",
+  "abbr": "Monash",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": "Bandar Sunway",
+  "country": "Malaysia",
+  "website": "https://www.monash.edu.my",
+  "established": "1998",
+  "accreditation": "MQA, Monash University (Australia)",
+  "ranking": {
+    "qs_world_2026": "37",
+    "qs_asia": null,
+    "times_higher_education": null
+  },
+  "study_areas": [
+    "Arts & Social Sciences",
+    "Business & Commerce",
+    "Engineering",
+    "Information Technology",
+    "Medicine & Health Sciences",
+    "Pharmacy",
+    "Science"
+  ],
+  "levels_available": [
+    "pre-university",
+    "bachelor",
+    "master",
+    "postgraduate-diploma",
+    "phd"
+  ],
+  "program_counts": {
+    "pre-university": 3,
+    "bachelor": 37,
+    "master": 11,
+    "postgraduate-diploma": 2,
+    "phd": 7
+  },
+  "sources": [
+    "https://www.monash.edu.my",
+    "https://www.monash.edu.my/study",
+    "https://www.studymalaysia.com/edu/monash/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

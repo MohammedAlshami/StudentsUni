@@ -1,0 +1,22 @@
+{
+  "university": "Quest International University",
+  "university_slug": "qiu",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Electronics Technology with Honours",
+  "field": "Engineering & Engineering Trades",
+  "slug": "bachelor-of-electronics-technology-with-honours",
+  "duration": "3 years | Full-time",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": null
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/QIU/0059066/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

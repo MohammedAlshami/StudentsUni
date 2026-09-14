@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "master",
+  "program_name": "M.Sc. (Food Science with Business Management)",
+  "field": "Food Science with Business Management",
+  "duration": "1.5-3 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 36,760 - RM 45,672",
+    "international": "RM 51,425 - RM 61,724",
+    "currency": "MYR",
+    "local_total": 36760,
+    "international_total": 51425,
+    "per_year_local": 36760,
+    "per_year_international": 51425,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0009164/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

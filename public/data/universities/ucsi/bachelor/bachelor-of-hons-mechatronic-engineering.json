@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of (Hons) Mechatronic Engineering",
+  "field": "Mechatronic Engineering",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 100,230",
+    "international": "RM 116,450",
+    "currency": "MYR",
+    "local_total": 100230,
+    "international_total": 116450,
+    "per_year_local": 100230,
+    "per_year_international": 116450,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0005368/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

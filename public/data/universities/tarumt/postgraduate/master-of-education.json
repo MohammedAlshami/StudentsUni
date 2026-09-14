@@ -1,0 +1,37 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "postgraduate",
+  "program_name": "Master of Education",
+  "program_slug": "master-of-education",
+  "field": "Education",
+  "duration": "1 year (FT) / 2 years (PT)",
+  "mode": "Flexible",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 18700.0,
+    "international_total": 35500.0,
+    "per_year_local": 9350,
+    "per_year_international": 17750,
+    "notes": "From StudyMalaysia: RM18,700 (FT)   RM19,600 (PT)"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/tarumt/",
+    "https://www.studymalaysia.com/edu/tarumt/courses/",
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": 0.85,
+  "last_updated": "2026-09-15"
+}

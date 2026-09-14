@@ -1,0 +1,20 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "masters",
+  "program_name": "Master of Management (100% Online)",
+  "slug": "master-of-management-online",
+  "program_slug": "master-of-management-online",
+  "field": "Business",
+  "duration": null,
+  "mode": "Online",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-online/master-of-management-online.html"
+  ],
+  "confidence": 0.5,
+  "last_updated": "2026-09-14"
+}

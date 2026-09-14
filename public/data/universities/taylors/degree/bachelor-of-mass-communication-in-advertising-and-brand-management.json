@@ -1,0 +1,38 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor of Mass Communication (Honours) in Advertising and Brand Management",
+  "slug": "bachelor-of-mass-communication-in-advertising-and-brand-management",
+  "program_slug": "bachelor-of-mass-communication-in-advertising-and-brand-management",
+  "field": "Media and Communication",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep",
+    "Feb"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 37881,
+    "international_total": 44598,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication-in-advertising-and-brand-management.html",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

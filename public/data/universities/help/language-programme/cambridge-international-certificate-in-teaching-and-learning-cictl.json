@@ -1,0 +1,17 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "language-programme",
+  "program_name": "Cambridge International Certificate in Teaching and Learning (CICTL)",
+  "program_slug": "cambridge-international-certificate-in-teaching-and-learning-cictl",
+  "field": "Education",
+  "duration": "9-10 months",
+  "mode": "Part-time Study",
+  "fees": { "local": "Enquire for fees", "international": null },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0058731/",
+    "https://www.help.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,10 @@
+{
+  "university": "AIMST University", "university_slug": "aimst", "level": "postgraduate",
+  "program_name": "Master of Science (Pharmaceutical Chemistry)", "slug": "master-of-science-pharmaceutical-chemistry", "field": "Pharmacy",
+  "duration": "1 year (full-time) / 2-3 years (part-time)", "mode": "Full-time / Part-time", "intakes": null,
+  "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
+  "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
+  "accreditation": { "mqa_status": null, "mqa_ref": null },
+  "sources": ["https://www.studymalaysia.com/what/course/AIMST/0056701/"],
+  "confidence": "low", "last_updated": "2026-09-14"
+}

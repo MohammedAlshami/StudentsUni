@@ -1,0 +1,21 @@
+{
+  "university": "Berjaya University College",
+  "university_slug": "berjaya",
+  "level": "doctorate",
+  "program_name": "Doctor of Philosophy in Management",
+  "field": "Management",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.berjaya.edu.my/university/faculty-of-business/doctor-of-philosophy-in-management/index.html",
+      "type": "official"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

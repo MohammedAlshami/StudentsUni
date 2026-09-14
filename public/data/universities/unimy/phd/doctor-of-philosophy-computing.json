@@ -1,0 +1,22 @@
+{
+  "university": "University Malaysia of Computer Science & Engineering",
+  "university_slug": "unimy",
+  "level": "phd",
+  "program_name": "Doctor Of Philosophy (Computing)",
+  "field": "Computing",
+  "duration": "3 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM27,000",
+    "international": "RM27,100"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unimy/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "doctor-of-philosophy-computing"
+}

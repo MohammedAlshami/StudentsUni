@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Malaysia Terengganu",
+  "university_slug": "umt",
+  "level": "bachelor",
+  "program_name": "Bachelor of Science in Agrotechnology (Crop Science) with Honours",
+  "program_name_malay": "Sarjana Muda Sains Agroteknologi (Sains Tanaman) dengan Kepujian",
+  "program_slug": "bsc-agrotechnology-crop-science",
+  "field": "Agrotechnology",
+  "faculty": "Faculty of Food Science and Agrotechnology",
+  "duration": null,
+  "mode": "full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7600,
+    "international_total": 22800,
+    "per_year_local": 1900,
+    "per_year_international": 5700,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": "MQA/FA6621001",
+  "sources": [
+    "https://umt.my/all-programs-at-umt/",
+    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "gmi-ucas",
+  "name": "GMI-University College of Applied Sciences",
+  "abbr": "GMI-UcAS",
+  "type": "private-university-college",
+  "state": "Selangor",
+  "city": "Kajang",
+  "website": "https://www.gmi.edu.my",
+  "levels_available": ["pre-university", "diploma", "bachelor"],
+  "program_counts": {
+    "pre-university": 2,
+    "diploma": 16,
+    "bachelor": 1
+  },
+  "sources": [
+    {
+      "url": "https://www.gmi.edu.my/",
+      "type": "official",
+      "note": "Full program listing from main website and department pages"
+    },
+    {
+      "url": "https://www.gmi.edu.my/electrical-engineering/",
+      "type": "official",
+      "note": "Electrical Engineering department diplomas with fees and codes"
+    },
+    {
+      "url": "https://www.gmi.edu.my/mechanical-engineering/",
+      "type": "official",
+      "note": "Mechanical Engineering department diplomas with fees and codes"
+    },
+    {
+      "url": "https://www.gmi.edu.my/computer-and-information/",
+      "type": "official",
+      "note": "Computer and Information department diplomas with fees and codes"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "German-Malaysian Institute. MARA-owned TVET institution. German dual vocational training model. KPT(JPS)600-48/B/103(2), DK040(B). All diplomas RM 33,324 fee, 6 semesters/3 years, full time. ISO 9001 certified. MYQUEST and MQA awarded."
+}

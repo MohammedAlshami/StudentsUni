@@ -1,0 +1,22 @@
+{
+  "university": "Quest International University",
+  "university_slug": "qiu",
+  "level": "Diploma",
+  "program_name": "Diploma in Information Technology",
+  "field": "Computing & IT",
+  "slug": "diploma-in-information-technology",
+  "duration": "2 years 4 months | Full-time",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to the University"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/qiu/0055311/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

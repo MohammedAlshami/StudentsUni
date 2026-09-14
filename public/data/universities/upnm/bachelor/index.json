@@ -1,0 +1,92 @@
+{
+  "level": "bachelor",
+  "level_name": "Sarjana Muda",
+  "count": 19,
+  "programs": [
+    {
+      "name": "Sarjana Muda Pengajian Strategi",
+      "slug": "sarjana-muda-pengajian-strategi"
+    },
+    {
+      "name": "Sarjana Muda Pengurusan Sumber Manusia Pertahanan",
+      "slug": "sarjana-muda-pengurusan-sumber-manusia-pertahanan"
+    },
+    {
+      "name": "Sarjana Muda Pengurusan Pertahanan dan Keselamatan",
+      "slug": "sarjana-muda-pengurusan-pertahanan-dan-keselamatan"
+    },
+    {
+      "name": "Sarjana Muda Sains (Kepujian) Kepolisan, Keselamatan Global dan Perisikan",
+      "slug": "sarjana-muda-sains-kepolisan-keselamatan-global-dan-perisikan"
+    },
+    {
+      "name": "Sarjana Muda Hubungan Antarabangsa (Diplomasi dan Keselamatan Antarabangsa)",
+      "slug": "sarjana-muda-hubungan-antarabangsa"
+    },
+    {
+      "name": "Sarjana Muda Pengurusan Rantaian Bekalan dan Logistik dengan Kepujian",
+      "slug": "sarjana-muda-pengurusan-rantaian-bekalan-dan-logistik"
+    },
+    {
+      "name": "Sarjana Muda Doktor Perubatan",
+      "slug": "sarjana-muda-doktor-perubatan"
+    },
+    {
+      "name": "Sarjana Muda Kejuruteraan Awam dengan Kepujian",
+      "slug": "sarjana-muda-kejuruteraan-awam"
+    },
+    {
+      "name": "Sarjana Muda Kejuruteraan Mekanikal dengan Kepujian",
+      "slug": "sarjana-muda-kejuruteraan-mekanikal"
+    },
+    {
+      "name": "Sarjana Muda Kejuruteraan Elektrik dan Elektronik dengan Kepujian",
+      "slug": "sarjana-muda-kejuruteraan-elektrik-dan-elektronik"
+    },
+    {
+      "name": "Sarjana Muda Penerbangan",
+      "slug": "sarjana-muda-penerbangan"
+    },
+    {
+      "name": "Sarjana Muda Sains Komputer (Keselamatan Sistem Komputer)",
+      "slug": "sarjana-muda-sains-komputer-keselamatan-sistem-komputer"
+    },
+    {
+      "name": "Sarjana Muda Sains Komputer (Kepintaran Buatan) dengan Kepujian",
+      "slug": "sarjana-muda-sains-komputer-kepintaran-buatan"
+    },
+    {
+      "name": "Sarjana Muda Sains Komputer dengan Kepujian",
+      "slug": "sarjana-muda-sains-komputer"
+    },
+    {
+      "name": "Sarjana Muda Penyelidikan Operasi dengan Sains Data",
+      "slug": "sarjana-muda-penyelidikan-operasi-dengan-sains-data"
+    },
+    {
+      "name": "Sarjana Muda Teknologi Maritim",
+      "slug": "sarjana-muda-teknologi-maritim"
+    },
+    {
+      "name": "Sarjana Muda Sains (Kepujian) Logistik dan Pengangkutan Maritim",
+      "slug": "sarjana-muda-sains-logistik-dan-pengangkutan-maritim"
+    },
+    {
+      "name": "Sarjana Muda Sains Sosial (Bahasa dan Komunikasi Silang Budaya) dengan Kepujian",
+      "slug": "sarjana-muda-sains-sosial-bahasa-dan-komunikasi-silang-budaya"
+    },
+    {
+      "name": "Sarjana Muda Sains Kecergasan Pertahanan dengan Kepujian",
+      "slug": "sarjana-muda-sains-kecergasan-pertahanan"
+    },
+    {
+      "name": "Sarjana Muda Pertahanan dan Keselamatan Islam",
+      "slug": "sarjana-muda-pertahanan-dan-keselamatan-islam"
+    }
+  ],
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pra-siswazah",
+    "https://www.studymalaysia.com/edu/upnm/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

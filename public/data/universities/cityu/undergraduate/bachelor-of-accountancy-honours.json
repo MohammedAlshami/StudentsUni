@@ -1,0 +1,17 @@
+{
+  "university": "City University Malaysia",
+  "university_slug": "cityu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Accountancy (Honours)",
+  "program_slug": "bachelor-of-accountancy-honours",
+  "field": "Accounting & Finance",
+  "duration": "3.5 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": ["https://www.city.edu.my"],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

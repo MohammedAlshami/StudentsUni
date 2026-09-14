@@ -1,0 +1,22 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "postgraduate",
+  "program_name": "Master of Science (MSc) in Information Technology",
+  "slug": "master-of-science-information-technology",
+  "field": "Computing",
+  "duration": "1 year",
+  "mode": "full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "description": "Advanced study in information technology covering software engineering, data science, cybersecurity, and enterprise systems.",
+  "career_prospect": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/utp/courses/",
+    "https://www.utp.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

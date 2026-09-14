@@ -1,0 +1,73 @@
+{
+  "level": "master",
+  "university": "imu",
+  "programs": [
+    {
+      "slug": "acupuncture-msc",
+      "name": "Acupuncture (MSc)",
+      "mode": "Unknown",
+      "field": "Medicine"
+    },
+    {
+      "slug": "analytical-pharmaceutical-chemistry-msc",
+      "name": "Analytical & Pharmaceutical Chemistry (MSc)",
+      "mode": "Unknown",
+      "field": "Pharmacy"
+    },
+    {
+      "slug": "business-administration-healthcare-management",
+      "name": "Business Administration in Healthcare Management (Postgraduate Certificate/Diploma/Master)",
+      "mode": "Unknown",
+      "field": "Business"
+    },
+    {
+      "slug": "clinical-psychology",
+      "name": "Clinical Psychology (Master)",
+      "mode": "Unknown",
+      "field": "Psychology"
+    },
+    {
+      "slug": "counselling",
+      "name": "Counselling (Master)",
+      "mode": "Unknown",
+      "field": "Psychology"
+    },
+    {
+      "slug": "health-informatics-analytics",
+      "name": "Health Informatics & Analytics (Postgraduate Certificate/Diploma/Master)",
+      "mode": "Unknown",
+      "field": "Health Sciences"
+    },
+    {
+      "slug": "health-professions-education",
+      "name": "Health Professions Education (Postgraduate Certificate/Diploma/Master)",
+      "mode": "Unknown",
+      "field": "Education"
+    },
+    {
+      "slug": "medical-health-sciences-msc",
+      "name": "Medical & Health Sciences (MSc/PhD)",
+      "mode": "Unknown",
+      "field": "Health Sciences"
+    },
+    {
+      "slug": "molecular-medicine-msc",
+      "name": "Molecular Medicine (MSc)",
+      "mode": "Unknown",
+      "field": "Medicine"
+    },
+    {
+      "slug": "pharmacy-practice",
+      "name": "Pharmacy Practice (Master)",
+      "mode": "Unknown",
+      "field": "Pharmacy"
+    },
+    {
+      "slug": "public-health-msc",
+      "name": "Public Health (MSc)",
+      "mode": "Unknown",
+      "field": "Health Sciences"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

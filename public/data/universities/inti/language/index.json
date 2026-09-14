@@ -1,0 +1,14 @@
+{
+  "level": "language",
+  "level_label": "Language Programme (short-term)",
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "total_programs": 1,
+  "programs": [
+    {
+      "program_name": "Laureate English Programme",
+      "program_slug": "laureate-english-programme"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,41 @@
+{
+  "university": "Universiti Kebangsaan Malaysia",
+  "university_slug": "ukm",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Science with Honours (Plant Biotechnology)",
+  "field": "Science & Technology",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7600,
+    "international_total": 22800,
+    "per_year_local": 1900,
+    "per_year_international": 5700,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.ukm.my/portal/undergraduate-programmes/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14"
+}

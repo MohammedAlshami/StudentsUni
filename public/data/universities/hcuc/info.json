@@ -1,0 +1,52 @@
+{
+  "slug": "hcuc",
+  "name": "Han Chiang University College of Communication",
+  "abbr": "HCUC",
+  "type": "private-university-college",
+  "state": "Penang",
+  "city": "George Town",
+  "website": "https://www.hcu.edu.my",
+  "levels_available": [
+    "bachelor",
+    "diploma",
+    "foundation",
+    "master",
+    "phd"
+  ],
+  "program_counts": {
+    "foundation": 1,
+    "diploma": 6,
+    "bachelor": 8,
+    "master": 1,
+    "phd": 1
+  },
+  "sources": [
+    {
+      "url": "https://www.hcu.edu.my/",
+      "type": "official",
+      "note": "Full programme listing retrieved from official website"
+    },
+    {
+      "url": "https://www.hcu.edu.my/foundation",
+      "type": "official",
+      "note": "Foundation programme confirmed"
+    },
+    {
+      "url": "https://www.hcu.edu.my/undergraduate",
+      "type": "official",
+      "note": "Diploma and bachelor programmes listed across 4 schools"
+    },
+    {
+      "url": "https://www.hcu.edu.my/postgraduate",
+      "type": "official",
+      "note": "Postgraduate programmes confirmed: MA and PhD in Chinese Studies"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Han_Chiang_University_College",
+      "type": "wikipedia",
+      "note": "Basic institutional info; established 1999, upgraded to university college 2017"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "4 schools: Communication & Media, Applied Arts & Design, Business & Management, Chinese Studies. DKU037(P). MyQUEST 5-star rating. Founded 1999, university college status 2017. Located at Jalan Lim Lean Teng, George Town, Penang. 16 programs verified from official website."
+}

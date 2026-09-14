@@ -1,0 +1,27 @@
+{
+  "university": "Newcastle University Medicine Malaysia",
+  "university_slug": "numed",
+  "abbreviation": "NUMed",
+  "type": "private-university",
+  "state": "Johor",
+  "website": "https://www.newcastle.edu.my",
+  "studymalaysia_url": "https://studymalaysia.com/edu/numed/courses/",
+  "last_updated": "2026-09-15",
+  "sources": [
+    {
+      "url": "https://studymalaysia.com/edu/numed/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "levels_available": [
+    "foundation",
+    "bachelors",
+    "masters"
+  ],
+  "program_counts": {
+    "foundation": 1,
+    "bachelors": 2,
+    "masters": 2
+  }
+}

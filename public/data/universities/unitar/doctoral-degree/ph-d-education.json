@@ -1,0 +1,30 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Doctoral Degree (Ph.D)",
+  "program_name": "Ph.D. (Education)",
+  "field": "Education (Teacher Training & Education Sciences)",
+  "slug": "ph-d-education",
+  "duration": "3 Yrs (9 Sem)",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "local": "23480/Course",
+    "international": "23480/Course",
+    "local_total": 23480,
+    "per_year_local": 7827,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0053581/",
+    {
+      "url": "https://studymalaysia.com/edu/unitar/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

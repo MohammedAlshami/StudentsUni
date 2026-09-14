@@ -1,0 +1,28 @@
+{
+  "slug": "mediu",
+  "name": "Al-Madinah International University",
+  "abbr": "MEDIU",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": "Kuala Lumpur",
+  "website": "https://www.mediu.edu.my",
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "master",
+    "doctorate"
+  ],
+  "program_counts": {
+    "foundation": 1,
+    "diploma": 2,
+    "bachelor": 17,
+    "master": 28,
+    "doctorate": 21
+  },
+  "sources": [
+    "https://www.mediu.edu.my/list-of-fully-accredited-programs-by-mqa/",
+    "https://www.mediu.edu.my"
+  ],
+  "last_updated": "2026-09-15"
+}

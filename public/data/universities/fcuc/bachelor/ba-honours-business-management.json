@@ -1,0 +1,17 @@
+{
+  "university": "First City University College",
+  "university_slug": "fcuc",
+  "level": "bachelor",
+  "program_name": "BA (Honours) Business Management",
+  "program_slug": "ba-honours-business-management",
+  "field": "Business",
+  "duration": "3 years",
+  "mode": "Full Time",
+  "intakes": ["January", "May", "September"],
+  "fees": null,
+  "requirements": {"stpm": "Minimum 2Cs and 5 credits in SPM (including English)", "foundation": "Pass with minimum CGPA 2.0"},
+  "accreditation": "R/0414/6/0106 (MQA/FA6544)12/25",
+  "sources": ["https://www.firstcity.edu.my/programmes/ba-honours-business-management"],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

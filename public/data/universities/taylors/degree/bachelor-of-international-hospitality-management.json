@@ -1,0 +1,28 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor of International Hospitality Management (Honours)",
+  "slug": "bachelor-of-international-hospitality-management",
+  "program_slug": "bachelor-of-international-hospitality-management",
+  "field": "Hospitality and Tourism",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 99900,
+    "international_total": 33391,
+    "per_year_local": 99900,
+    "per_year_international": 33391,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/undergraduate/bachelor-of-international-hospitality-management.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

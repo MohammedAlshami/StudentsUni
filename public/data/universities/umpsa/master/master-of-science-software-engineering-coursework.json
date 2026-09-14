@@ -1,0 +1,44 @@
+{
+  "university": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "university_slug": "umpsa",
+  "level": "master",
+  "program_name": "Master of Science (Software Engineering)",
+  "field": "Computing & IT",
+  "duration": "3 Semesters",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7500,
+    "international_total": 22500,
+    "per_year_local": 5000,
+    "per_year_international": 15000,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/ump/courses/",
+    "https://studymalaysia.com/what/course/UMP/0053985/",
+    "https://www.studymalaysia.com/edu/umpsa/courses/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-15",
+  "research_areas": "Software Engineering"
+}

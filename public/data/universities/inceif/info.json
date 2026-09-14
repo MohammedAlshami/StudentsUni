@@ -1,0 +1,36 @@
+{
+  "university": "INCEIF University",
+  "university_slug": "inceif",
+  "abbreviation": "INCEIF",
+  "slug": "inceif",
+  "name": "INCEIF University",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "website": "https://www.inceif.edu.my",
+  "levels_available": [
+    "certificate",
+    "master",
+    "phd"
+  ],
+  "program_counts": {
+    "certificate": 4,
+    "master": 4,
+    "phd": 3
+  },
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/INCEIF_University",
+      "type": "wikipedia",
+      "note": "Wikipedia page confirming INCEIF is a Malaysian Islamic university established in 2005 by Bank Negara Malaysia for Islamic finance education."
+    },
+    {
+      "url": "https://www.inceif.edu.my",
+      "type": "official",
+      "note": "Website returned 403 Forbidden during data collection"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Established in 2005 by Bank Negara Malaysia. Specializes in Islamic finance education. Previously known as Global University of Islamic Finance. Granted university status in 2007."
+}

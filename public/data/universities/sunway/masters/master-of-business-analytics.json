@@ -1,0 +1,48 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "masters",
+  "program_name": "Master of Business Analytics",
+  "program_slug": "master-of-business-analytics",
+  "field": "Business Management & Administration",
+  "faculty": "Sunway University Business School",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Jan"
+  ],
+  "fees": {
+    "local": "From RM41,600",
+    "international": "International Student Administration Fee: RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 23350,
+    "per_year_local": null,
+    "notes": "Fee: FromRM41,600.00",
+    "international_total": 25600
+  },
+  "requirements": [
+    "A Bachelor's Degree with a minimum CGPA of 2.50 out of 4.00 or its equivalent qualifications as accepted by HEP Senate",
+    "A Bachelor's Degree or equivalent with CGPA lower than 2.50, with at least 5 years of work experience",
+    "IELTS 6.0 or equivalent for non-English medium first degree holders"
+  ],
+  "accreditation": "MQA/PA 14138 JPT/BPP(U)1000-801/57/Jld.13(40)",
+  "awarding_country": "Malaysia",
+  "format": "Taught",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0056975/",
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

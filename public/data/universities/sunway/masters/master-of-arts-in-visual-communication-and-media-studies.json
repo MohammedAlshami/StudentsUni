@@ -1,0 +1,44 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "masters",
+  "program_name": "Master of Arts in Visual Communication and Media Studies",
+  "program_slug": "master-of-arts-in-visual-communication-and-media-studies",
+  "field": "Communication & Broadcasting",
+  "faculty": null,
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "From RM40,050",
+    "international": "International Student Administration Fee: RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 46950,
+    "per_year_local": null,
+    "notes": "Fee: FromRM40,050.00",
+    "international_total": 51750
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0056980/",
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

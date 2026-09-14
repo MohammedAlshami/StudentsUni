@@ -1,0 +1,21 @@
+{
+  "university": "University College TATI",
+  "university_slug": "uc-tati",
+  "level": "bachelor",
+  "program_name": "Bachelor of Mechatronics Engineering Technology (Honours)",
+  "field": "Mechatronics Engineering",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "KPT: R3/0713/6/0077 (01/2033) - MQA: A 9365 - MBOT/ACAD/FA/EE/6/0001",
+  "sources": [
+    {
+      "url": "https://www.uctati.edu.my/Undergraduate.html",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

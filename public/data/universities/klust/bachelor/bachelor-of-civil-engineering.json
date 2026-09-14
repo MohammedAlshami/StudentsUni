@@ -1,0 +1,38 @@
+{
+  "university": "Kuala Lumpur University of Science & Technology",
+  "university_slug": "klust",
+  "level": "bachelor",
+  "program_name": "Bachelor of Civil Engineering with Honours",
+  "field": "Engineering",
+  "duration": "2.5 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Oct",
+    "Jun",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 13008,
+    "international_total": 18148,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.klust.edu.my",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

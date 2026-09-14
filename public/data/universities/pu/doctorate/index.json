@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "doctor-of-philosophy-phd-by-research-in-health",
+    "name": "Doctor of Philosophy (PhD) by Research in Health",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "doctor-of-philosophy-phd-in-computer-science",
+    "name": "Doctor of Philosophy (PhD) in Computer Science",
+    "field": "Computing"
+  },
+  {
+    "slug": "doctor-of-philosophy-phd-in-management",
+    "name": "Doctor of Philosophy (PhD) in Management",
+    "field": "Business"
+  },
+  {
+    "slug": "doctor-of-business-administration-dba",
+    "name": "Doctor of Business Administration (DBA)",
+    "field": "Business"
+  },
+  {
+    "slug": "doctor-of-philosophy-phd-in-education",
+    "name": "Doctor of Philosophy (PhD) in Education",
+    "field": "Education"
+  }
+]

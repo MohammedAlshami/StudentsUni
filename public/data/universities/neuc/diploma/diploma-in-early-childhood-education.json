@@ -1,0 +1,46 @@
+{
+  "university": "New Era University College",
+  "university_slug": "neuc",
+  "level": "diploma",
+  "program_name": "Diploma in Early Childhood Education",
+  "program_slug": "diploma-in-early-childhood-education",
+  "field": "education",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "MQA approved (R3/0112/4/0065)",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-15"
+}

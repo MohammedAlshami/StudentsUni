@@ -1,0 +1,41 @@
+{
+  "university": "University of Malaya",
+  "university_slug": "um",
+  "level": "bachelor",
+  "program_name": "Bachelor of Muamalat Management",
+  "field": "Business / Islamic Finance",
+  "duration": "8 semesters (4 years)",
+  "mode": "Full-time",
+  "intakes": ["September"],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 8400,
+    "international_total": null,
+    "per_year_local": 2100,
+    "per_year_international": null,
+    "notes": "Based on RM1,050/semester from StudyMalaysia (local)."
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
+  "sources": [
+    {"url": "https://studymalaysia.com/what/course/UM/0000200/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"}
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

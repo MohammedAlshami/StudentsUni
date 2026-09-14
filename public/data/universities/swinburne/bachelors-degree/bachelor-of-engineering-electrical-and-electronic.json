@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Engineering (Electrical and Electronic)",
+  "field": "Engineering & Engineering Trades",
+  "slug": "bachelor-of-engineering-electrical-and-electronic",
+  "duration": "FT(4 Years) & PT(8 Years)",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "local": "RM121,920",
+    "international": "RM154,560",
+    "currency": "MYR",
+    "local_total": 121920,
+    "international_total": 154560,
+    "per_year_local": 40640,
+    "per_year_international": 51520,
+    "notes": "Annual fee; total = annual x 3 years"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0001484/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

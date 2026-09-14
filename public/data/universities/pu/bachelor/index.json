@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "bachelor-of-medicine-bachelor-of-surgery-mbbs",
+    "name": "Bachelor of Medicine, Bachelor of Surgery (MBBS)",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "bachelor-of-science-honours-in-occupational-therapy",
+    "name": "Bachelor of Science (Honours) in Occupational Therapy",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "bachelor-in-information-technology-honours",
+    "name": "Bachelor in Information Technology (Honours)",
+    "field": "Computing"
+  },
+  {
+    "slug": "bachelor-in-business-administration-honours",
+    "name": "Bachelor in Business Administration (Honours)",
+    "field": "Business"
+  },
+  {
+    "slug": "bachelor-in-accounting-honours",
+    "name": "Bachelor in Accounting (Honours)",
+    "field": "Business"
+  },
+  {
+    "slug": "bachelor-of-business-honours",
+    "name": "Bachelor of Business (Honours)",
+    "field": "Business"
+  },
+  {
+    "slug": "bachelor-of-marketing-honours",
+    "name": "Bachelor of Marketing (Honours)",
+    "field": "Business"
+  },
+  {
+    "slug": "bachelor-of-business-administration-in-logistics-and-supply-chain-management",
+    "name": "Bachelor of Business Administration in Logistics and Supply Chain Management",
+    "field": "Business"
+  },
+  {
+    "slug": "bachelor-of-education-honours-in-teaching-english-as-a-second-language-tesl",
+    "name": "Bachelor of Education (Honours) in Teaching English as a Second Language (TESL)",
+    "field": "Education"
+  },
+  {
+    "slug": "bachelor-of-science-honours-in-psychology",
+    "name": "Bachelor of Science (Honours) in Psychology",
+    "field": "Social Sciences"
+  },
+  {
+    "slug": "bachelor-of-science-honours-in-counselling-with-psychology",
+    "name": "Bachelor of Science (Honours) in Counselling with Psychology",
+    "field": "Social Sciences"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "university_slug": "mila",
+  "level": "diploma",
+  "program_name": "Diploma in Mass Communication",
+  "program_slug": "diploma-in-mass-communication",
+  "field": "Media",
+  "duration": "2.5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://mila.edu.my/programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

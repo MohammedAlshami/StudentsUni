@@ -1,0 +1,31 @@
+{
+  "university": "Universiti Teknologi MARA",
+  "university_slug": "uitm",
+  "level": "pre-university",
+  "programs": [
+    {
+      "slug": "foundation-studies-in-law-kpm",
+      "name": "Foundation Studies in Law (KPM)"
+    },
+    {
+      "slug": "foundation-studies-in-science",
+      "name": "Foundation Studies in Science"
+    },
+    {
+      "slug": "foundation-studies-in-tesl-teaching-english-as-a-second-language",
+      "name": "Foundation Studies in TESL (Teaching English as a Second Language)"
+    },
+    {
+      "slug": "foundation-studies-in-law-uitm",
+      "name": "Foundation Studies in Law (UiTM)"
+    },
+    {
+      "slug": "foundation-studies-in-engineering",
+      "name": "Foundation Studies in Engineering"
+    }
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/uitm/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

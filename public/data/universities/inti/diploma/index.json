@@ -1,0 +1,26 @@
+{
+  "level": "diploma",
+  "level_label": "Diploma Level",
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "total_programs": 4,
+  "programs": [
+    {
+      "program_name": "Diploma in Mechanical Engineering",
+      "program_slug": "diploma-in-mechanical-engineering"
+    },
+    {
+      "program_name": "Diploma in Business",
+      "program_slug": "diploma-in-business"
+    },
+    {
+      "program_name": "Diploma in Accounting",
+      "program_slug": "diploma-in-accounting"
+    },
+    {
+      "program_name": "Diploma in Information & Communications Technology",
+      "program_slug": "diploma-in-information-and-communications-technology"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

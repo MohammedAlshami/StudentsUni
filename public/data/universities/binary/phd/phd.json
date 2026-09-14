@@ -1,0 +1,46 @@
+{
+  "university": "Binary University",
+  "university_slug": "binary",
+  "level": "phd",
+  "program_name": "PhD",
+  "program_slug": "phd",
+  "field": "general",
+  "duration": "3-6 years",
+  "mode": "Full-Time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "RM 17,000/year"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "Recognised Master's degree, IELTS 6.0",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "MQA approved",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://web.archive.org/web/20240229194734/https://binary.edu.my/bgs/",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-15"
+}

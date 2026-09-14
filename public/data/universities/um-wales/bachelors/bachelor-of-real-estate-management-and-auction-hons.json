@@ -1,0 +1,39 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "bachelors",
+  "program_name": "Bachelor of Real Estate Management and Auction (Hons)",
+  "field": "Business",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "RM56,740",
+    "international": "RM68,810",
+    "local_total": 20688,
+    "currency": "MYR",
+    "international_total": 22937
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "bachelor-of-real-estate-management-and-auction-hons"
+}

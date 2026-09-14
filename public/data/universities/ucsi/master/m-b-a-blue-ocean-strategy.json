@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "master",
+  "program_name": "M.B.A. (Blue Ocean Strategy)",
+  "field": "Blue Ocean Strategy",
+  "duration": "1.5-3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 28,910 - RM 32,390",
+    "international": "RM 46,050 - RM 49,480",
+    "currency": "MYR",
+    "local_total": 28910,
+    "international_total": 46050,
+    "per_year_local": 28910,
+    "per_year_international": 46050,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0008895/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

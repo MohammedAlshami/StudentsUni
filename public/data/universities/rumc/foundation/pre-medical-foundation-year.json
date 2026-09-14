@@ -1,0 +1,24 @@
+{
+  "university": "Royal College of Surgeons in Ireland & UCD Malaysia Campus",
+  "university_slug": "rumc",
+  "level": "foundation",
+  "program_name": "Pre-Medical Foundation Year",
+  "field": "Science",
+  "slug": "pre-medical-foundation-year",
+  "duration": "9 months",
+  "mode": "Full Time",
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "local": "RM 40,000",
+    "international": "RM 45,000"
+  },
+  "requirements": null,
+  "accreditation": "R3/010/3/0099 (12/27) (MQA/A7144)",
+  "sources": [
+    "https://www.rumc.edu.my/programmes/pre-medical-foundation-year/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

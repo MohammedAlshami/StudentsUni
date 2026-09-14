@@ -1,0 +1,22 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Masters Degree",
+  "program_name": "Master of Business Administration (Open & Distance Learning)",
+  "field": "Business Management & Administration",
+  "slug": "master-of-business-administration-open-distance-learning",
+  "duration": "Full-time, 1-2 years Part time, 2-4 years",
+  "mode": "Open and Distance Learning (ODL)",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058807/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

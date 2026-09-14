@@ -1,0 +1,22 @@
+{
+  "university": "Albukhary International University",
+  "university_slug": "aiu",
+  "level": "postgraduate",
+  "program_name": "Master of Computing",
+  "program_slug": "master-of-computing",
+  "field": "Computing & Technology",
+  "duration": "2 - 4 years (Full-time), 3 - 6 years (Part-time)",
+  "mode": "Full-time / Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM8,150",
+    "international": "RM8,750"
+  },
+  "requirements": "Bachelor's degree with minimum CGPA of 3.00 or equivalent from AIU or any university recognised by the AIU Senate",
+  "accreditation": "N/0610/7/0011 (6/26) MQA/PA 18676",
+  "sources": [
+    "https://www.aiu.edu.my/postgraduate"
+  ],
+  "confidence": 0.95,
+  "last_updated": "2026-09-14"
+}

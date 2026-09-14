@@ -1,0 +1,22 @@
+{
+  "university": "University of Reading Malaysia",
+  "university_slug": "uorm",
+  "level": "phd",
+  "program_name": "PhD in Business and Management",
+  "field": "Business",
+  "duration": "3-4 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM27,000/Yr",
+    "international": "RM33,000/Yr"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/reading/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "phd-in-business-and-management"
+}

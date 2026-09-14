@@ -1,0 +1,17 @@
+{
+  "university": "Universiti Kuala Lumpur",
+  "university_slug": "unikl",
+  "level": "master",
+  "program_name": "Master in Computer Science",
+  "program_slug": "master-in-computer-science",
+  "field": "Information Technology",
+  "duration": null,
+  "mode": "Mixed Mode",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": ["https://www.unikl.edu.my/postgraduate-admission/"],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

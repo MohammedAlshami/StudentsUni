@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "phd-in-business-and-management",
+    "program_name": "PhD in Business and Management",
+    "field": "Business",
+    "duration": "3-4 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "phd-in-built-environment",
+    "program_name": "PhD in Built Environment",
+    "field": "Construction",
+    "duration": "3-4 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "phd-in-pharmacy",
+    "program_name": "PhD in Pharmacy",
+    "field": "Pharmacy",
+    "duration": "3-4 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "phd-in-psychology",
+    "program_name": "PhD in Psychology",
+    "field": "Psychology",
+    "duration": "3-4 Years",
+    "mode": "Part-time"
+  }
+]

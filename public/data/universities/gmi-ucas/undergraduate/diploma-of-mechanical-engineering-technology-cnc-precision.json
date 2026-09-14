@@ -1,0 +1,21 @@
+{
+  "university": "GMI-University College of Applied Sciences",
+  "university_slug": "gmi-ucas",
+  "level": "diploma",
+  "program_name": "Diploma of Mechanical Engineering Technology (CNC Precision)",
+  "field": "Mechanical Engineering",
+  "duration": "6 Semester / 3 Years",
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": "RM 33,324",
+  "requirements": null,
+  "accreditation": "R3/0714/4/0025 (12/27) (MQA/FA 14870) - Accredited",
+  "sources": [
+    {
+      "url": "https://www.gmi.edu.my/mechanical-engineering/cnc-precision-technology/",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,33 @@
+{
+  "university": "Raffles University Iskandar",
+  "university_slug": "rui",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Psychology (Honours)",
+  "field": "Social Sciences",
+  "slug": "bachelor-of-psychology-honours",
+  "duration": "3 Years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": "77000/Course",
+    "international_total": 77000,
+    "currency": "MYR",
+    "per_year_international": 25667,
+    "notes": "Total fee from existing data; subject to 6% SST from Sep 2025 Local fees not published online; contact university.",
+    "local_total": null,
+    "per_year_local": null
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/RUI/0057249/",
+    {
+      "url": "https://raffles-university.edu.my/programme/bachelor-of-psychology-honours/",
+      "publisher": "Raffles University",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

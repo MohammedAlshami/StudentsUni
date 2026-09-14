@@ -1,0 +1,33 @@
+{
+  "university": "University of Selangor",
+  "university_slug": "unisel",
+  "level": "phd",
+  "program_name": "PhD in Management",
+  "field": "Business",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7600,
+    "international_total": 8000,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.studymalaysia.com/edu/unisel/courses/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "phd-in-management"
+}

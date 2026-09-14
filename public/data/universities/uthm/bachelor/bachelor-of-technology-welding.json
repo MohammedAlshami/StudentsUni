@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Technology in Welding (Hons)",
+  "program_slug": "bachelor-of-technology-welding",
+  "field": "Manufacturing & Processing",
+  "faculty": "Engineering Technology",
+  "duration": "4 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": null,
+    "currency": "MYR",
+    "local_total": 6400,
+    "per_year_local": 1600,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 19200,
+    "per_year_international": 4800
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0058308/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

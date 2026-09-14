@@ -1,0 +1,22 @@
+{
+  "university": "Quest International University",
+  "university_slug": "qiu",
+  "level": "Diploma",
+  "program_name": "Diploma in Mechatronics Engineering",
+  "field": "Engineering & Engineering Trades",
+  "slug": "diploma-in-mechatronics-engineering",
+  "duration": "3 years | Full-time",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to the University"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/qiu/0055365/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

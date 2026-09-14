@@ -1,0 +1,38 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor of Accounting with Fintech (Honours)",
+  "slug": "bachelor-of-accounting-fintech",
+  "program_slug": "bachelor-of-accounting-fintech",
+  "field": "Business",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep",
+    "Feb"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 38362,
+    "international_total": 45072,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-accounting-fintech.html",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,22 @@
+{
+  "university": "University Malaysia of Computer Science & Engineering",
+  "university_slug": "unimy",
+  "level": "pre-university",
+  "program_name": "Foundation in Computing and Engineering",
+  "field": "Computing",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM10,000",
+    "international": "RM15,000"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unimy/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "foundation-in-computing-and-engineering"
+}

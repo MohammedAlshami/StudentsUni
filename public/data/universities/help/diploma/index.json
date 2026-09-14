@@ -1,0 +1,57 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "diploma",
+  "programs": [
+    {
+      "program_name": "Diploma in Business",
+      "program_slug": "diploma-in-business",
+      "field": "Business Management & Administration",
+      "duration": "2 years",
+      "mode": "Full-time Study",
+      "intakes": ["Jan", "Feb", "May", "Jul", "Aug", "Oct"],
+      "fees": { "local": "RM43,800.00", "international": null },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005487/"]
+    },
+    {
+      "program_name": "Diploma in Communication",
+      "program_slug": "diploma-in-communication",
+      "field": "Communication & Broadcasting",
+      "duration": "2 years",
+      "mode": "Full-time Study",
+      "intakes": ["Jan", "May", "Jul", "Sep"],
+      "fees": { "local": "RM43,800.00", "international": null },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0056458/"]
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education",
+      "program_slug": "diploma-in-early-childhood-education",
+      "field": "Education",
+      "duration": "28 months (7 semesters)",
+      "mode": "Full-time Study",
+      "intakes": ["Jan", "May", "Jul", "Sep"],
+      "fees": { "local": "RM29,800.00", "international": null },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058733/"]
+    },
+    {
+      "program_name": "Diploma in Education",
+      "program_slug": "diploma-in-education",
+      "field": "Education",
+      "duration": "28 months (7 semesters)",
+      "mode": "Full-time Study",
+      "intakes": ["Jan", "May", "Jul", "Sep"],
+      "fees": { "local": "RM18,200.00", "international": null },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058734/"]
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "program_slug": "diploma-in-information-technology",
+      "field": "Computing & IT",
+      "duration": "2 years",
+      "mode": "Full-time Study",
+      "intakes": ["Jan", "May", "Jul", "Sep"],
+      "fees": { "local": "RM46,800.00", "international": null },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058735/"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "university": "Selangor Islamic University",
+  "university_slug": "uis",
+  "level": "asasi",
+  "program_name": "Foundation in Islamic Studies",
+  "field": "Islamic Studies",
+  "slug": "foundation-in-islamic-studies",
+  "duration": null,
+  "mode": null,
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://study.uis.edu.my/peringkat-asasi"
+  ],
+  "confidence": 0.5,
+  "last_updated": "2026-09-14"
+}

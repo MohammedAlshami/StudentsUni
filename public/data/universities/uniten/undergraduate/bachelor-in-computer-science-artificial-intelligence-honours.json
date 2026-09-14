@@ -1,0 +1,43 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "level": "undergraduate",
+  "program_name": "Bachelor in Computer Science (Artificial Intelligence) (Honours)",
+  "program_slug": "bachelor-in-computer-science-artificial-intelligence-honours",
+  "field": "Computer Science - Artificial Intelligence",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": {
+      "tuition": "RM75,000",
+      "registration": "RM1,348 (one-time)",
+      "medical_insurance": "RM88/year",
+      "accommodation_deposit": "RM250 (one-time)",
+      "monthly_accommodation": "From RM270/month"
+    },
+    "international": {
+      "tuition": "USD19,500 (RM78,000)",
+      "visa_application": "USD787.50 (RM3,150) (one-time)",
+      "registration": "USD1,650 (RM6,600) (one-time)",
+      "medical_insurance": null
+    },
+    "currency": "MYR",
+    "local_total": 75000,
+    "per_year_local": null
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "college": "College of Computing & Informatics (CCI)",
+  "articulation_pathway": "University of Sheffield",
+  "sources": [
+    "https://www.uniten.edu.my/programme/undergraduate/",
+    {
+      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

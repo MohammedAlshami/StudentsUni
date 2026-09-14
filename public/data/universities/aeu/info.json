@@ -1,0 +1,45 @@
+{
+  "university": "Asia e University",
+  "university_slug": "aeu",
+  "slug": "aeu",
+  "name": "Asia e University",
+  "abbr": "AeU",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "city": "Subang Jaya",
+  "website": "https://www.aeu.edu.my",
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "master",
+    "doctorate",
+    "phd"
+  ],
+  "program_counts": {
+    "foundation": 1,
+    "diploma": 4,
+    "bachelor": 10,
+    "master": 7,
+    "doctorate": 2,
+    "phd": 6
+  },
+  "schools": [
+    "School of Education & Cognitive Science",
+    "School of Management",
+    "School of Artificial Intelligence & Digital Technologies",
+    "School of Arts, Humanities & Social Sciences",
+    "Centre of Graduate Studies",
+    "School of Foundation Studies"
+  ],
+  "accreditation": "MQA approved, SETARA rated",
+  "sources": [
+    {
+      "url": "https://aeu.edu.my/study/programme/",
+      "type": "official",
+      "note": "Full programme listing from official website"
+    }
+  ],
+  "last_updated": "2026-09-15",
+  "notes": "30 programs total from official website (Foundation: 1, Diploma: 4, Bachelor: 10, Master: 7, Doctorate: 2, PhD: 6). Comprehensive listing confirmed via aeU homepage and programs.json."
+}

@@ -1,0 +1,22 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "masters",
+  "program_name": "Master of Business Administration (Dual Award)",
+  "field": "Business",
+  "duration": "1.5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM45,890",
+    "international": "RM56,580"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "master-of-business-administration-dual-award"
+}

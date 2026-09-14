@@ -1,0 +1,27 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "masters",
+  "program_name": "Master of Education by Research",
+  "program_slug": "master-of-education-by-research",
+  "field": "Education (Teacher Training & Education Sciences)",
+  "duration": "1.5 - 3 Yrs",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 15000,
+    "international_total": 20000,
+    "per_year_local": "RM15,000-RM25,000",
+    "per_year_international": "RM20,000-RM30,000",
+    "notes": ""
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SEGI/0056389/",
+    "https://eduswasta.my/university/segi-university/"
+  ],
+  "confidence": 0.7,
+  "last_updated": "2026-09-15"
+}

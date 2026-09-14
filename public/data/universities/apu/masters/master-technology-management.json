@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "masters",
+  "program_name": "Master of Technology Management",
+  "program_slug": "master-technology-management",
+  "field": "Computing & Technology",
+  "duration": "1+ years",
+  "mode": "Full-time / Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM38,800.00",
+    "international": "RM42,000.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/master-technology-management",
+    "https://www.studymalaysia.com/what/course/APU/0005498/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

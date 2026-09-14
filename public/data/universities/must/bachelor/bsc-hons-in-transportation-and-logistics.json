@@ -1,0 +1,22 @@
+{
+  "university_slug": "must",
+  "level": "bachelor",
+  "program_name": "BSc (Hons) in Transportation and Logistics",
+  "program_slug": "bsc-hons-in-transportation-and-logistics",
+  "field": "Transport and Logistics",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://must.edu.my/programmes_explore-our-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

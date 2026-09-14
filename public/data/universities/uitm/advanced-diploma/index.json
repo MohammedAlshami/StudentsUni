@@ -1,0 +1,19 @@
+{
+  "university": "Universiti Teknologi MARA",
+  "university_slug": "uitm",
+  "level": "advanced-diploma",
+  "programs": [
+    {
+      "slug": "bachelor-of-corporate-administration-hons",
+      "name": "Bachelor of Corporate Administration (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-chemical-environmental-hons",
+      "name": "Bachelor of Engineering (Chemical & Environmental) (Hons)"
+    }
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/uitm/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

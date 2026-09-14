@@ -1,0 +1,494 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "bachelor",
+  "programs": [
+    {
+      "program_name": "Bachelor of Arts (Hons) Visual Communication Design",
+      "slug": "bachelor-of-arts-hons-visual-communication-design",
+      "field": "Audio-visual Techniques & Media Production",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054508/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Dental Surgery (BDS)",
+      "slug": "bachelor-of-dental-surgery-bds",
+      "field": "Medicine & Healthcare",
+      "duration": "5 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054472/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Hons) (Double Degree)",
+      "slug": "bachelor-of-information-technology-hons-double-degree",
+      "field": "Computing & IT",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054487/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Chemical Engineering with Honours (Double Degree)",
+      "slug": "bachelor-of-chemical-engineering-with-honours-double-degree",
+      "field": "Engineering & Engineering Trades",
+      "duration": "4 – 4.5 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054497/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Electrical and Electronics Engineering with Honours (Double Degree)",
+      "slug": "bachelor-of-electrical-and-electronics-engineering-with-honours-double-degree",
+      "field": "Engineering & Engineering Trades",
+      "duration": "4 – 4.5 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054499/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) Multimedia Design",
+      "slug": "bachelor-of-arts-hons-multimedia-design",
+      "field": "Audio-visual Techniques & Media Production",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054505/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Civil Engineering (Hons) (Double Degree)",
+      "slug": "bachelor-of-civil-engineering-hons-double-degree",
+      "field": "Engineering & Engineering Trades",
+      "duration": "4 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054506/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Quantity Surveying",
+      "slug": "bachelor-of-science-hons-quantity-surveying",
+      "field": "Architecture & Building",
+      "duration": "3 – 3.5 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054507/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Architecture",
+      "slug": "bachelor-of-science-hons-architecture",
+      "field": "Architecture & Building",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0056869/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering with Honours (Double Degree)",
+      "slug": "bachelor-of-mechanical-engineering-with-honours-double-degree",
+      "field": "Engineering & Engineering Trades",
+      "duration": "4 – 4.5 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054498/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Mass Communication (Hons) (Double Degree)",
+      "slug": "bachelor-of-mass-communication-hons-double-degree",
+      "field": "Communication & Broadcasting",
+      "duration": "3 Yrs",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054514/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Education (Hons) (Double Degree)",
+      "slug": "bachelor-of-education-hons-double-degree",
+      "field": "Education (Teacher Training & Education Sciences)",
+      "duration": "3 Yrs including (20 week compulsory Practicum)",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054523/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) in English and Public Relations (Double Degree)",
+      "slug": "bachelor-of-arts-hons-in-english-and-public-relations-double-degree",
+      "field": "Languages (National language & other languages)",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054527/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Hospitality Management (Hons) (Double Degree)",
+      "slug": "bachelor-of-hospitality-management-hons-double-degree",
+      "field": "Hospitality & Tourism",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054555/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Honours) in Cybersecurity",
+      "slug": "bachelor-of-computer-science-honours-in-cybersecurity",
+      "field": "Computing & IT",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0057845/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Medicine, Bachelor of Surgery (M.B.,B.S.)",
+      "slug": "bachelor-of-medicine-bachelor-of-surgery-m-b-s",
+      "field": "Medicine & Healthcare",
+      "duration": "5 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054464/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Biomedical Science (Hons)",
+      "slug": "bachelor-of-biomedical-science-hons",
+      "field": "Medicine & Healthcare",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0056849/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Accounting and Finance (Honours) (Double Degree)",
+      "slug": "bachelor-of-accounting-and-finance-honours-double-degree",
+      "field": "Accounting & Finance",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0008737/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Business Management (Honours) (Double Degree)",
+      "slug": "bachelor-of-business-management-honours-double-degree",
+      "field": "Business Management & Administration",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0008738/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Psychology (Honours)",
+      "slug": "bachelor-of-psychology-honours",
+      "field": "Social Sciences",
+      "duration": "3 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0009907/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Optometry (Hons)",
+      "slug": "bachelor-of-optometry-hons",
+      "field": "Medicine & Healthcare",
+      "duration": "4 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054467/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Pharmacy (Hons)",
+      "slug": "bachelor-of-pharmacy-hons",
+      "field": "Medicine & Healthcare",
+      "duration": "4 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0009979/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Interior Architecture",
+      "slug": "bachelor-of-arts-honours-in-interior-architecture",
+      "field": "Architecture & Building",
+      "duration": "3.5 Yrs",
+      "mode": "Full-time Study",
+      "intakes": null,
+      "fees": {
+        "local": "Refer to the Univ.",
+        "international": "Refer to the Univ."
+      },
+      "requirements": {
+        "academic": null
+      },
+      "accreditation": null,
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0009977/"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    }
+  ],
+  "sources": [
+    "https://studymalaysia.com/edu/segi/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

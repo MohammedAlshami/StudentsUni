@@ -1,0 +1,19 @@
+{
+  "level": "foundation",
+  "university": "imu",
+  "programs": [
+    {
+      "slug": "foundation-in-arts",
+      "name": "Foundation in Arts",
+      "mode": "Unknown",
+      "field": "Arts"
+    },
+    {
+      "slug": "foundation-in-science",
+      "name": "Foundation in Science",
+      "mode": "Unknown",
+      "field": "Science"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

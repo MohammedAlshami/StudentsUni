@@ -1,0 +1,32 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "masters",
+  "program_name": "M.Sc. (Management Psychology)",
+  "field": "Psychology",
+  "duration": "2-3 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM48,620",
+    "international": "RM51,050",
+    "local_total": 48620,
+    "per_year_local": 16207,
+    "international_total": 51050,
+    "per_year_international": 17017,
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15",
+  "slug": "msc-management-psychology"
+}

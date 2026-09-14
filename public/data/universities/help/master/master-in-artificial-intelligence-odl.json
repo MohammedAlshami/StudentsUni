@@ -1,0 +1,17 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "master",
+  "program_name": "Master in Artificial Intelligence (Open & Distance Learning – ODL)",
+  "program_slug": "master-in-artificial-intelligence-odl",
+  "field": "Computing & IT",
+  "duration": "Minimum 1 year (full-time), minimum 2 years (part-time)",
+  "mode": "Open and Distance Learning (ODL)",
+  "fees": { "local": "Enquire for fees", "international": null },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0059085/",
+    "https://www.help.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

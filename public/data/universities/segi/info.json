@@ -1,0 +1,25 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "name": "SEGi University",
+  "abbreviation": "SEGi",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": "Petaling Jaya",
+  "address": "No.9, Jalan Teknologi, Taman Sains Selangor, Kota Damansara, PJU 5, 47810 Petaling Jaya, Selangor, Malaysia",
+  "phone": "03-6145 1777",
+  "website": "https://www.segi.edu.my",
+  "total_programs": 46,
+  "levels": [
+    "pre-university",
+    "diploma",
+    "bachelors",
+    "masters",
+    "doctoral"
+  ],
+  "sources": [
+    "https://www.segi.edu.my",
+    "https://studymalaysia.com/edu/segi/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

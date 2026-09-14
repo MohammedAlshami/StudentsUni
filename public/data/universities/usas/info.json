@@ -1,0 +1,29 @@
+{
+  "university": "Sultan Azlan Shah University",
+  "university_slug": "usas",
+  "abbreviation": "USAS",
+  "slug": "usas",
+  "name": "Sultan Azlan Shah University",
+  "type": "private-university",
+  "state": "Perak",
+  "city": "Kuala Kangsar",
+  "website": "https://www.usas.edu.my",
+  "studymalaysia_url": null,
+  "levels_available": [],
+  "program_counts": {},
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Universiti_Sultan_Azlan_Shah",
+      "type": "wikipedia",
+      "note": "Wikipedia page confirming USAS is a private university owned by Perak State Government, located in Kuala Kangsar. Established 1999, upgraded to university status in 2016."
+    },
+    {
+      "url": "https://www.usas.edu.my",
+      "type": "official",
+      "note": "Website connection error during data collection"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Owned by Perak State Government. Located in Kuala Kangsar, Perak. Previously known as KISDAR (1999) and KUISAS (2013). Upgraded to full university status on 15 June 2016."
+}

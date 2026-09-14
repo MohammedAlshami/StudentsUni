@@ -1,0 +1,40 @@
+{
+  "university": "City University Malaysia",
+  "university_slug": "cityu",
+  "level": "postgraduate",
+  "program_name": "Master of Architectural Project Management",
+  "program_slug": "master-of-architectural-project-management",
+  "field": "Architecture & Built Environment",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Feb",
+    "Oct",
+    "Jun",
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 19240,
+    "international_total": 30390,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.city.edu.my",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

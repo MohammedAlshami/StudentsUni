@@ -1,0 +1,22 @@
+{
+  "university_slug": "mahsa",
+  "level": "master",
+  "program_name": "Master of Law",
+  "program_slug": "master-of-law",
+  "field": "Law",
+  "duration": "1.5-2 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mahsa.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

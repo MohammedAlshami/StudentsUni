@@ -1,0 +1,44 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "bachelors",
+  "program_name": "Bachelor of Software Engineering (Hons)",
+  "program_slug": "bachelor-of-software-engineering-hons",
+  "field": "Engineering & Engineering Trades",
+  "faculty": null,
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "From RM81,620",
+    "international": "International Administrative Fee RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 39367,
+    "per_year_local": null,
+    "notes": "Fee: FromRM81,620.00",
+    "international_total": 41617
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0056939/",
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Science (Biotechnology)",
+  "field": "Science",
+  "slug": "bachelor-of-science-biotechnology",
+  "duration": "3 Yrs (6 Sem)",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "RM123,000",
+    "international": "RM157,080",
+    "currency": "MYR",
+    "local_total": 123000,
+    "international_total": 157080,
+    "per_year_local": 41000,
+    "per_year_international": 52360,
+    "notes": "Annual fee; total = annual x 3 years"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0008856/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

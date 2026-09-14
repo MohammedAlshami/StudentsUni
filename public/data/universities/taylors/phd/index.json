@@ -1,0 +1,287 @@
+[
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy (PhD) in Architecture",
+    "field": "Architecture",
+    "slug": "doctor-of-philosophy-in-architecture",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/phd-research/doctor-of-philosophy-in-architecture.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy (PhD) in Science",
+    "field": "Biosciences",
+    "slug": "doctor-of-philosophy-in-science",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/phd-research/doctor-of-philosophy-in-science.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Business Administration (DBA)",
+    "field": "Business",
+    "slug": "doctor-of-business-administration",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/business/phd-coursework/doctor-of-business-administration.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy (PhD) in Business",
+    "field": "Business",
+    "slug": "doctor-of-philosophy-in-business",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/business/phd-research/doctor-of-philosophy-in-business.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy (PhD) In Food Studies",
+    "field": "Culinary Arts",
+    "slug": "doctor-of-philosophy-in-food-studies",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/phd-research/doctor-of-philosophy-in-food-studies.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy (PhD) in Media and Communication Studies",
+    "field": "Media and Communication",
+    "slug": "doctor-of-philosophy-in-media-and-communication-studies",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/phd-research/doctor-of-philosophy-in-media-and-communication-studies.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy (PhD) in Computer Science",
+    "field": "Computer Science",
+    "slug": "doctor-of-philosophy-in-computer-science",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/phd-research/doctor-of-philosophy-in-computer-science.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy In Design Management",
+    "field": "Design",
+    "slug": "doctor-of-philosophy-in-design-management",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/design/phd-research/doctor-of-philosophy-in-design-management.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy in Education",
+    "field": "Education",
+    "slug": "doctor-of-philosophy-in-education",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/education/phd-research/doctor-of-philosophy-in-education.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy in Engineering",
+    "field": "Engineering",
+    "slug": "doctor-of-philosophy-in-engineering",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/phd-research/doctor-of-philosophy-in-engineering.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy In Hospitality & Tourism",
+    "field": "Hospitality and Tourism",
+    "slug": "doctor-of-philosophy-in-hospitality-and-tourism",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/phd-research/doctor-of-philosophy-in-hospitality-tourism.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy in Law",
+    "field": "Law",
+    "slug": "doctor-of-philosophy-in-law",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/phd-research/doctor-of-philosophy-in-law.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy in Social Sciences",
+    "field": "Liberal Arts",
+    "slug": "doctor-of-philosophy-in-social-sciences",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/phd-research/doctor-of-philosophy-in-social-sciences.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy in Pharmaceutical Sciences",
+    "field": "Pharmacy",
+    "slug": "doctor-of-philosophy-in-pharmaceutical-science",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/phd-research/doctor-of-philosophy-in-pharmaceutical-science.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "phd",
+    "program_name": "Doctor of Philosophy in Medical Science",
+    "field": "Medicine",
+    "slug": "doctor-of-philosophy-in-medical-science",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/medicine/phd-research/doctor-of-philosophy-in-medical-science.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  }
+]

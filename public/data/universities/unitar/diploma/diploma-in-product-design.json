@@ -1,0 +1,41 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Diploma",
+  "program_name": "Diploma in Product Design",
+  "field": "Arts & Design",
+  "slug": "diploma-in-product-design",
+  "duration": "2.5 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "28000/Course",
+    "international": "28000/Course",
+    "local_total": 28000,
+    "currency": "MYR",
+    "international_total": 20896,
+    "per_year_local": 12017,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0056634/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/unitar/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

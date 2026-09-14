@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Electrical and Electronics Engineering with Honours",
+  "slug": "electrical-and-electronics-engineering",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": null,
+    "currency": "MYR",
+    "note": "Contact university for current fee rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Mathematics, Additional Mathematics, Physics, Chemistry, and English"
+  },
+  "accreditation": "R/0713/6/0012 (12/27) MQA/FA7663",
+  "description": "Covers electrical circuits, electronics, power systems, control systems, signal processing, and telecommunications. Prepares graduates for careers in electrical utilities, electronics manufacturing, and automation.",
+  "career_prospect": ["Electrical Engineer", "Electronics Engineer", "Power Systems Engineer", "Control Systems Engineer", "Telecommunications Engineer"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://www.studymalaysia.com/edu/utp/courses/",
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

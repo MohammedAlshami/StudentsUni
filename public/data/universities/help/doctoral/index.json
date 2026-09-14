@@ -1,0 +1,52 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "doctoral",
+  "programs": [
+    {
+      "program_name": "Doctor of Business Administration",
+      "program_slug": "doctor-of-business-administration",
+      "field": "Business Management & Administration",
+      "duration": "Minimum 3 years",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "RM37,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0007881/"]
+    },
+    {
+      "program_name": "Doctor of Philosophy (Business, Management and Entrepreneurship)",
+      "program_slug": "doctor-of-philosophy-business-management-and-entrepreneurship",
+      "field": "Business Management & Administration",
+      "duration": "Full-time: min 3 years, max 5 years. Part-time: min 4 years, max 8 years.",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "RM35,000" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058736/"]
+    },
+    {
+      "program_name": "Doctor of Philosophy (Psychology)",
+      "program_slug": "doctor-of-philosophy-psychology",
+      "field": "Social Sciences",
+      "duration": "3 years (full-time). Part-time options available.",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "RM48,100 (including Application Fee, Registration Fee, Resources Fee and Tuition Fee)" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058738/"]
+    },
+    {
+      "program_name": "Doctor of Philosophy in Education",
+      "program_slug": "doctor-of-philosophy-in-education",
+      "field": "Education",
+      "duration": "3-year programme (1 year coursework + 2 years dissertation)",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "RM50,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058739/"]
+    },
+    {
+      "program_name": "Doctor of Philosophy (Open & Distance Learning – ODL)",
+      "program_slug": "doctor-of-philosophy-odl",
+      "field": "Business Management & Administration",
+      "duration": "Full-time: min 3 years, max 5 years. Part-time: min 4 years, max 8 years.",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "RM38,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0059083/"]
+    }
+  ]
+}

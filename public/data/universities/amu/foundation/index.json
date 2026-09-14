@@ -1,0 +1,14 @@
+{
+  "programs": [
+    {
+      "slug": "foundation-in-business-studies",
+      "program_name": "Foundation in Business Studies"
+    },
+    {
+      "slug": "foundation-in-information-technology",
+      "program_name": "Foundation in Information Technology"
+    }
+  ],
+  "total": 2,
+  "last_updated": "2026-09-14"
+}

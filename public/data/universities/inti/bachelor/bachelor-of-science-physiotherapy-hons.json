@@ -1,0 +1,25 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "bachelor",
+  "program_name": "Bachelor of Science in Physiotherapy (Hons)",
+  "program_slug": "bachelor-of-science-physiotherapy-hons",
+  "field": "Medicine & Healthcare",
+  "duration": "4 Years",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to website",
+    "international": "Refer to website"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "faculty": "Health Sciences",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0008473/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

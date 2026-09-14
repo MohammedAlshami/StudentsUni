@@ -1,0 +1,32 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "bachelors",
+  "program_name": "Bachelor of Science (Hons) Biotechnology",
+  "field": "Biotechnology",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM44,800/Yr",
+    "international": "RM52,600/Yr",
+    "local_total": 134400,
+    "per_year_local": 44800,
+    "international_total": 157800,
+    "per_year_international": 52600,
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15",
+  "slug": "bachelor-of-science-hons-biotechnology"
+}

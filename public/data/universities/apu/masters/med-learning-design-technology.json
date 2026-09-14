@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "masters",
+  "program_name": "Master of Education in Learning Design and Technology",
+  "program_slug": "med-learning-design-technology",
+  "field": "Education",
+  "duration": "FT: 1+ year; PT: 2 years",
+  "mode": "Full-time / Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM30,600.00",
+    "international": "RM34,000.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/msc-in-education-in-learning-design-and-technology",
+    "https://www.studymalaysia.com/what/course/APU/0058657/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

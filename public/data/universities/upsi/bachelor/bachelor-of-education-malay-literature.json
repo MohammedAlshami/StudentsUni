@@ -1,0 +1,19 @@
+{
+  "university": "Universiti Pendidikan Sultan Idris",
+  "university_slug": "upsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Education (Malay Literature) (Hons)",
+  "field": "Education",
+  "duration": "8 semesters",
+  "mode": "Full-time",
+  "intakes": ["September"],
+  "fees": {"currency": "MYR", "local_total": 6632, "international_total": null, "per_year_local": 1658, "per_year_international": null, "notes": "Per semester: MYR 829 local"},
+  "requirements": {
+    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
+    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+  },
+  "accreditation": {"mqa_status": null, "mqa_ref": null},
+  "sources": ["https://www.studymalaysia.com/what/course/UPSI/0001082/", "https://fbk.upsi.edu.my/at01-bachelor-malay-literature/"],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

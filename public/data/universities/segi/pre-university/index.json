@@ -1,0 +1,36 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "pre-university",
+  "total_programs": 2,
+  "programs": [
+    {
+      "program_name": "Foundation in Science",
+      "program_slug": "foundation-in-science",
+      "field": "Science",
+      "duration": "1 Year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": null,
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0008732/"],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Arts",
+      "program_slug": "foundation-in-arts",
+      "field": "Arts",
+      "duration": "1 Year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": null,
+      "sources": ["https://studymalaysia.com/what/course/SEGI/0054463/"],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    }
+  ]
+}

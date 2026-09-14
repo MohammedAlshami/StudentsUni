@@ -1,0 +1,41 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "diploma",
+  "program_name": "Diploma in Hotel Management",
+  "slug": "diploma-in-hotel-management",
+  "program_slug": "diploma-in-hotel-management",
+  "field": "Hospitality",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 28001,
+    "international_total": 149752,
+    "per_year_local": 47508,
+    "per_year_international": 34,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/diploma-in-hotel-management.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

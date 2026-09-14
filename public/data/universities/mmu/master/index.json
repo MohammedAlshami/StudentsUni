@@ -1,0 +1,105 @@
+{
+  "university": "Multimedia University",
+  "university_slug": "mmu",
+  "level": "master",
+  "program_count": 16,
+  "programs": [
+    {
+      "slug": "master-of-creative-multimedia-by-coursework",
+      "name": "Master of Creative Multimedia (By Coursework)",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-philosophy-communication-by-research",
+      "name": "Master of Philosophy in Communication (By Research)",
+      "field": "Communication",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-computer-science-software-engineering-via-odl-by-coursework",
+      "name": "Master of Computer Science in Software Engineering via ODL (By Coursework)",
+      "field": "Computer Science",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-science-creative-multimedia-by-research",
+      "name": "Master of Science (Creative Multimedia) (By Research)",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-science-information-technology-by-research",
+      "name": "Master of Science (Information Technology) (By Research)",
+      "field": "Information Technology",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-electrical-and-electronic-engineering-by-coursework",
+      "name": "Master of Electrical and Electronic Engineering (By Coursework)",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-engineering-in-telecommunications-by-coursework",
+      "name": "Master of Engineering in Telecommunications (By Coursework)",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-engineering-science-by-research",
+      "name": "Master of Engineering Science (By Research)",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-philosophy-management-by-research",
+      "name": "Master of Philosophy in Management (By Research)",
+      "field": "Management",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-multimedia-digital-learning-by-coursework",
+      "name": "Master of Multimedia (Digital Learning) (By Coursework & ODL)",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-business-administration-by-coursework",
+      "name": "Master of Business Administration (M.B.A) (By Coursework)",
+      "field": "Business",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-science-in-engineering-business-management-by-coursework",
+      "name": "Master of Science in Engineering Business Management (By Coursework)",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "executive-master-of-business-administration-via-odl-by-coursework",
+      "name": "Executive Master of Business Administration (E.M.B.A) via ODL (By Coursework)",
+      "field": "Business",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-engineering-in-microelectronics-by-coursework",
+      "name": "Master of Engineering in Microelectronics",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-accountancy-by-coursework",
+      "name": "Master of Accountancy",
+      "field": "Accounting",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "master-of-converged-telecommunications-policy-and-regulations",
+      "name": "Master in Converged Telecommunications Policy and Regulations",
+      "field": "Telecommunications",
+      "detail_status": "complete"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

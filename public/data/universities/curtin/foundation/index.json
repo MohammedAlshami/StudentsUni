@@ -1,0 +1,19 @@
+{
+  "university": "Curtin University Malaysia",
+  "university_slug": "curtin",
+  "level": "foundation",
+  "level_label": "Foundation Studies",
+  "program_count": 2,
+  "programs": [
+    {
+      "slug": "foundation-in-arts-and-commerce",
+      "name": "Foundation in Arts & Commerce",
+      "field": "Pre-University"
+    },
+    {
+      "slug": "foundation-in-engineering-and-science",
+      "name": "Foundation in Engineering & Science",
+      "field": "Pre-University"
+    }
+  ]
+}

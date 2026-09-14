@@ -1,0 +1,37 @@
+{
+  "university": "Tun Abdul Razak University",
+  "university_slug": "unirazak",
+  "level": "Masters Degree",
+  "program_name": "Master of Management",
+  "field": "Business Management & Administration",
+  "slug": "master-of-management",
+  "duration": "2.5 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Nov"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 8340,
+    "international_total": 13200,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://studymalaysia.com/what/course/UNIRAZAK/0055968/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

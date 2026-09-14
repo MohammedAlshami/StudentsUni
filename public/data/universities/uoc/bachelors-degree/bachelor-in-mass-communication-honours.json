@@ -1,0 +1,22 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor in Mass Communication (Honours)",
+  "field": "Communication & Broadcasting",
+  "slug": "bachelor-in-mass-communication-honours",
+  "duration": "3 Years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058789/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

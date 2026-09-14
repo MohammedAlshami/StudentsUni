@@ -1,0 +1,19 @@
+{
+  "university": "Selangor Islamic University",
+  "university_slug": "uis",
+  "level": "degree",
+  "program_name": "Bachelor of Business Administration",
+  "field": "Business",
+  "slug": "bachelor-of-business-administration",
+  "duration": null,
+  "mode": null,
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
+  ],
+  "confidence": 0.5,
+  "last_updated": "2026-09-14"
+}

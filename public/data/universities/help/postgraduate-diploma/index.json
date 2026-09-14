@@ -1,0 +1,16 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "postgraduate-diploma",
+  "programs": [
+    {
+      "program_name": "Cambridge International Diploma in Teaching and Learning",
+      "program_slug": "cambridge-international-diploma-in-teaching-and-learning",
+      "field": "Education",
+      "duration": "12-14 months",
+      "mode": "Part-time Study",
+      "fees": { "local": "Enquire for fees" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058732/"]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "pre-university",
+  "program_name": "Cambridge GCE A Levels (Humanities) [4 Subjects]",
+  "program_slug": "cambridge-gce-a-levels-humanities-4-subjects",
+  "field": "Pre-University Programme / University Foundation Studies",
+  "duration": "1.5 Years",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to website",
+    "international": "Refer to website"
+  },
+  "requirements": null,
+  "accreditation": "Cambridge Assessment International Education",
+  "awarding_country": "Malaysia",
+  "faculty": "Pre-University",
+  "exam_body": "Cambridge Assessment International Education",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0009052/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

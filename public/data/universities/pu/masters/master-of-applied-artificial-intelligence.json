@@ -1,0 +1,22 @@
+{
+  "university_slug": "pu",
+  "level": "masters",
+  "program_name": "Master of Applied Artificial Intelligence",
+  "program_slug": "master-of-applied-artificial-intelligence",
+  "field": "Computing",
+  "duration": "1.5-3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://perdanauniversity.edu.my/explore-all-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

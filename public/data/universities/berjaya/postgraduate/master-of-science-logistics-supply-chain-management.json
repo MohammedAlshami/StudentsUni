@@ -1,0 +1,21 @@
+{
+  "university": "Berjaya University College",
+  "university_slug": "berjaya",
+  "level": "master",
+  "program_name": "Master of Science in Logistics and Supply Chain Management",
+  "field": "Logistics and Supply Chain Management",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.berjaya.edu.my/university/faculty-of-business/master-of-science-logistics-supply-chain-management/index.html",
+      "type": "official"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

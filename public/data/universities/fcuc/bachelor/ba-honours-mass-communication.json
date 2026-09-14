@@ -1,0 +1,17 @@
+{
+  "university": "First City University College",
+  "university_slug": "fcuc",
+  "level": "bachelor",
+  "program_name": "BA (Honours) Mass Communication",
+  "program_slug": "ba-honours-mass-communication",
+  "field": "Communication",
+  "duration": "3 years",
+  "mode": "Full Time",
+  "intakes": ["January", "May", "September"],
+  "fees": null,
+  "requirements": {"stpm": "Minimum 2Cs and 5 credits in SPM (including English)"},
+  "accreditation": null,
+  "sources": ["https://www.firstcity.edu.my/programmes"],
+  "confidence": 0.7,
+  "last_updated": "2026-09-14"
+}

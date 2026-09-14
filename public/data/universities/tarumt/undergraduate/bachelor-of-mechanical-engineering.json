@@ -1,0 +1,51 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Mechanical Engineering with Honours",
+  "program_slug": "bachelor-of-mechanical-engineering",
+  "field": "Engineering & Engineering Trades",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
+  "fees": {
+    "local": "RM44,700.00",
+    "international": "RM77,600.00",
+    "local_total": 10250,
+    "currency": "MYR",
+    "international_total": 17875,
+    "per_year_local": 2562,
+    "per_year_international": 4469
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://foet.tarc.edu.my/programmes/bachelor-degree/bachelor-of-mechanical-engineering-with-honours",
+    "https://www.studymalaysia.com/what/course/tarumt/0058233/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

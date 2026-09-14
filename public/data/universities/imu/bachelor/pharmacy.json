@@ -1,0 +1,34 @@
+{
+  "university": "IMU University",
+  "university_slug": "imu",
+  "level": "bachelor",
+  "program_name": "Pharmacy",
+  "field": "Pharmacy",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 56000,
+    "international_total": 58250,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.imu.edu.my",
+      "type": "official"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,30 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Diploma",
+  "program_name": "Diploma in Healthcare",
+  "field": "Science",
+  "slug": "diploma-in-healthcare",
+  "duration": "3 years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 15967,
+    "per_year_local": 5322,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058809/",
+    {
+      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

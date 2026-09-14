@@ -1,0 +1,42 @@
+{
+  "university": "Xiamen University Malaysia",
+  "university_slug": "xmum",
+  "abbreviation": "XMUM",
+  "slug": "xmum",
+  "name": "Xiamen University Malaysia",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": "Sepang",
+  "website": "https://www.xmu.edu.my",
+  "levels_available": ["foundation", "undergraduate", "postgraduate"],
+  "program_counts": {
+    "foundation": 3,
+    "undergraduate": 27,
+    "postgraduate": 14
+  },
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.xmu.edu.my/foundation-programmes",
+      "type": "official",
+      "note": "Foundation programmes page listing 3 foundation streams"
+    },
+    {
+      "url": "https://www.xmu.edu.my/undergraduate-programmes",
+      "type": "official",
+      "note": "Undergraduate programmes page with 27 degree programmes across 9 schools"
+    },
+    {
+      "url": "https://www.xmu.edu.my/postgraduate-programmes",
+      "type": "official",
+      "note": "Postgraduate programmes page with Master's and PhD programmes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xiamen_University_Malaysia",
+      "type": "wikipedia",
+      "note": "Wikipedia page confirming 49 programmes, 10,350 students, 94% employability rate"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "First overseas campus of Xiamen University (China). Accredited by both Malaysia and China governments. Ranked 1st in Malaysia for Nature Index Institution Research Output 2025. 49 programmes across 11 schools. 94% employability rate (2024)."
+}

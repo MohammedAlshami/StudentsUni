@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Science (Honours) in Information Technology with a specialism in Internet of Things (IoT)",
+  "program_slug": "bsc-information-technology-internet-of-things",
+  "field": "Computing & Technology",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM104,600.00",
+    "international": "RM108,500.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/bachelor-information-technology-internet-of-things",
+    "https://www.studymalaysia.com/what/course/APU/0008392/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

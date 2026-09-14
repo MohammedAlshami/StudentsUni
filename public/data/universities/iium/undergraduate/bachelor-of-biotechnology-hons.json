@@ -1,0 +1,41 @@
+{
+  "university": "International Islamic University Malaysia",
+  "university_slug": "iium",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Biotechnology (Hons)",
+  "field": "Science",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7200,
+    "international_total": 21600,
+    "per_year_local": 1800,
+    "per_year_international": 5400,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "Credit in Mathematics, Chemistry, Biology, Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Diploma in related area with CGPA 2.5 or above"
+    },
+    "international": {
+      "a_level": "3 principal passes",
+      "ib": "Minimum 6 subjects",
+      "other_qualifications": "Qualifications recognized by IIUM Senate",
+      "english_requirement": "IELTS 6.0 / TOEFL 550 paper-based / IIUM EPT"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/IIUM/0008352/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

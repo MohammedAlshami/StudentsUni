@@ -1,0 +1,41 @@
+{
+  "university": "International Islamic University Malaysia",
+  "university_slug": "iium",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Accounting (Hons)",
+  "field": "Accounting & Finance",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 6800,
+    "international_total": 20400,
+    "per_year_local": 1700,
+    "per_year_international": 5100,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "Credit in Bahasa Melayu, Credit in Sejarah (from 2013). Minimum STPM CGPA 3.00 with Grade B in Economics/Accounting/Maths/Business Studies. Credit in Islamic Education at SPM. MUET Band 3.5.",
+      "stpm": "Minimum CGPA 2.00 with Grade C in General Studies and 2 other subjects",
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "3 principal passes in GCE A-Level",
+      "ib": "Minimum 6 subjects",
+      "other_qualifications": "Qualifications recognized by IIUM Senate",
+      "english_requirement": "IELTS / TOEFL / IIUM English Placement Test"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/IIUM/0000786/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

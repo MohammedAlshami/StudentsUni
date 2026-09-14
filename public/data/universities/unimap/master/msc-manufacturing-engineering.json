@@ -1,0 +1,38 @@
+{
+  "university": "Universiti Malaysia Perlis",
+  "university_slug": "unimap",
+  "level": "master",
+  "program_name": "M.Sc.(Manufacturing Engineering)",
+  "slug": "msc-manufacturing-engineering",
+  "field": "Engineering",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
+  "fees": {
+    "local": "4000/Course",
+    "international": "5500/Course",
+    "currency": "MYR",
+    "local_total": 4000,
+    "international_total": 5500,
+    "per_year_local": 8000,
+    "per_year_international": 11000,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "entry_requirements": null,
+    "minimum_cgpa": null
+  },
+  "accreditation": {
+    "mqa": true,
+    "programme_accreditation": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UniMAP/0003718/",
+    "https://www.studymalaysia.com/edu/unimap/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

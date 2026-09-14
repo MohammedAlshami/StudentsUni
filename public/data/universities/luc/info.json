@@ -1,0 +1,28 @@
+{
+  "slug": "luc",
+  "name": "Lincoln University College",
+  "abbr": "LUC",
+  "type": "private-university-college",
+  "state": "Kuala Lumpur",
+  "city": "Petaling Jaya",
+  "website": "https://www.lincoln.edu.my",
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "master",
+    "doctorate"
+  ],
+  "sources": [
+    "https://www.lincoln.edu.my",
+    "https://www.studymalaysia.com/edu/lincoln-university-college/courses/"
+  ],
+  "last_updated": "2026-09-14",
+  "program_counts": {
+    "foundation": 1,
+    "diploma": 1,
+    "bachelor": 6,
+    "master": 8,
+    "doctorate": 6
+  }
+}

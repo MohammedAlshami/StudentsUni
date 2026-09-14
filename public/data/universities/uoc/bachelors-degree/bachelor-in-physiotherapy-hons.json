@@ -1,0 +1,45 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor in Physiotherapy (Hons)",
+  "field": "Medicine & Healthcare",
+  "slug": "bachelor-in-physiotherapy-hons",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Oct",
+    "Mar"
+  ],
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 23600,
+    "currency": "MYR",
+    "international_total": 27175,
+    "per_year_local": 5900,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0055129/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

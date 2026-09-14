@@ -1,0 +1,32 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "pre-university",
+  "program_name": "Foundation in Engineering",
+  "field": "Engineering",
+  "duration": "2-3 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM9,390/Sem",
+    "international": "RM10,640/Sem",
+    "local_total": 18780,
+    "per_year_local": 18780,
+    "international_total": 21280,
+    "per_year_international": 21280,
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15",
+  "slug": "foundation-in-engineering"
+}

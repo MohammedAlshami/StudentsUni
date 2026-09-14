@@ -1,0 +1,36 @@
+{
+  "university": "University of Selangor",
+  "university_slug": "unisel",
+  "level": "masters",
+  "program_name": "Master of Management (By Research)",
+  "field": "Business",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Jan"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 5100,
+    "international_total": 10200,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.studymalaysia.com/edu/unisel/courses/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "master-of-management-by-research"
+}

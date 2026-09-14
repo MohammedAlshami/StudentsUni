@@ -1,0 +1,136 @@
+{
+  "slug": "a-month-by-month-budget-breakdown-for-students-in-kuala-lumpur",
+  "title": "A Month-by-Month Budget Breakdown for Students in Kuala Lumpur",
+  "category": "Cost & Budgeting",
+  "tags": [
+    "budgeting",
+    "Kuala Lumpur",
+    "cost of living"
+  ],
+  "coverImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+  "author": "Aina R., Education Counsellor",
+  "date": "2026-05-09",
+  "readTimeMin": 4,
+  "excerpt": "A concrete, line by line sample budget for a student living in KL. Useful as a starting template to adapt, not as a fixed answer.",
+  "intro": [
+    "Generic cost ranges are useful for early planning, but a concrete example often makes budgeting far easier to actually act on. Below is a realistic sample month for a student sharing an off-campus apartment in the Klang Valley, cooking most meals and eating out occasionally on weekends."
+  ],
+  "sections": [
+    {
+      "heading": "Full monthly budget breakdown",
+      "paragraphs": [],
+      "table": {
+        "caption": "Sample monthly budget, Klang Valley, moderate lifestyle (RM)",
+        "headers": [
+          "Category",
+          "Item",
+          "Monthly Cost (RM)"
+        ],
+        "rows": [
+          [
+            "Fixed",
+            "Rent (shared room, off-campus)",
+            "750"
+          ],
+          [
+            "Fixed",
+            "Utilities (electricity, water, shared internet)",
+            "100"
+          ],
+          [
+            "Fixed",
+            "Phone / data plan",
+            "45"
+          ],
+          [
+            "Variable",
+            "Groceries (cooking most weekday meals)",
+            "450"
+          ],
+          [
+            "Variable",
+            "Eating out (weekends, occasional convenience)",
+            "250"
+          ],
+          [
+            "Variable",
+            "Public transport (LRT/MRT pass, occasional Grab)",
+            "130"
+          ],
+          [
+            "Variable",
+            "Laundry and toiletries",
+            "60"
+          ],
+          [
+            "Extras",
+            "Entertainment and social activities",
+            "150"
+          ],
+          [
+            "Extras",
+            "Course materials, printing, miscellaneous",
+            "50"
+          ],
+          [
+            "Extras",
+            "Emergency buffer",
+            "150"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Fixed costs",
+      "paragraphs": [
+        "Rent, utilities, and phone plan together come to RM895 before a single meal is even purchased. These are the costs that stay essentially constant every month regardless of how carefully or loosely you manage your day to day spending."
+      ]
+    },
+    {
+      "heading": "Variable costs",
+      "paragraphs": [
+        "Groceries, eating out, transport, and laundry together add another RM890, and this is the category with the most room to adjust up or down depending on your habits and choices from week to week."
+      ]
+    },
+    {
+      "heading": "The extras that make or break a budget",
+      "paragraphs": [
+        "Entertainment, course materials, and a genuine emergency buffer add RM350 more. The emergency buffer line is the one students cut first when tightening a budget, and it is also the one that causes the most stress later when something unexpected inevitably comes up."
+      ]
+    },
+    {
+      "heading": "The total, and how to adjust it",
+      "paragraphs": [
+        "Adding everything up comes to roughly RM2,135 for the month. That sits on the higher end of the general RM1,500 to RM2,500 range mentioned across most cost of living guides, because this particular example assumes central Klang Valley rent and a moderate, neither frugal nor lavish, lifestyle.",
+        "Cutting the eating-out and entertainment lines roughly in half brings the total down closer to RM1,700, which is a realistic and sustainable target for a more budget-conscious student living in the same city under the same conditions."
+      ]
+    },
+    {
+      "heading": "Mistakes that blow up a monthly budget",
+      "paragraphs": [
+        "A well-planned budget on paper still fails in practice if a few common habits go unchecked."
+      ],
+      "list": [
+        "Not tracking actual spending against the plan for at least the first full month.",
+        "Treating the emergency buffer as spare spending money rather than a true reserve.",
+        "Underestimating how quickly small daily purchases, like coffee or snacks, add up over a month.",
+        "Forgetting irregular but predictable costs, such as visa renewal fees or semester textbook purchases.",
+        "Splitting shared costs informally with roommates instead of tracking them clearly, which often leads to disputes."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is this budget realistic for a student outside Kuala Lumpur?",
+      "answer": "This specific example assumes Klang Valley rent, which is the highest in the country, so students in Penang, Johor Bahru, or smaller towns can generally expect a lower total, particularly on the rent line."
+    },
+    {
+      "question": "What is the easiest single change to reduce this budget?",
+      "answer": "Splitting rent with an additional roommate, moving slightly further from the city centre, or cooking a few more meals a week are the three changes that tend to produce the largest savings with the least lifestyle disruption."
+    },
+    {
+      "question": "Should I keep a stricter budget in my first month in a new city?",
+      "answer": "Yes. First months almost always run over budget due to one-time setup costs such as furnishing a room or a deposit, so it is wise to plan a higher buffer specifically for your first month before spending settles into a predictable monthly pattern."
+    }
+  ]
+}

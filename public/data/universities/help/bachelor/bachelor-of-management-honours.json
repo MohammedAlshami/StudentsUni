@@ -1,0 +1,34 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "bachelor",
+  "program_name": "Bachelor of Management (Honours)",
+  "program_slug": "bachelor-of-management-honours",
+  "field": "Business Management & Administration",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Feb",
+    "Jan",
+    "May",
+    "Sep",
+    "Aug"
+  ],
+  "fees": {
+    "local": "RM82,800.00",
+    "international": null,
+    "local_total": 25900,
+    "currency": "MYR",
+    "international_total": 28450
+  },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0005818/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

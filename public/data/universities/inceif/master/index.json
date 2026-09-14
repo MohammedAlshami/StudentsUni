@@ -1,0 +1,181 @@
+{
+  "university": "INCEIF University",
+  "university_slug": "inceif",
+  "level": "master",
+  "level_label": "Master's Degree",
+  "program_count": 4,
+  "programs": [
+    {
+      "program_name": "Masters in Islamic Finance Practice (MIFP)",
+      "program_slug": "masters-in-islamic-finance-practice-mifp",
+      "field": "islamic-finance",
+      "duration": "4 semesters / 2 years",
+      "mode": "Face-To-Face",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20230105073752/https://inceif.edu.my/academic-programmes/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Master of Science in Islamic Finance (MSc)",
+      "program_slug": "master-of-science-in-islamic-finance-msc",
+      "field": "islamic-finance",
+      "duration": "6 semesters / 3 years",
+      "mode": "Face-To-Face",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20230105073752/https://inceif.edu.my/academic-programmes/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "MBA (Sustainable Business)",
+      "program_slug": "mba-sustainable-business",
+      "field": "business",
+      "duration": "4 semesters / 2 years",
+      "mode": "Face-To-Face",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20230105073752/https://inceif.edu.my/academic-programmes/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Executive Masters in Islamic Finance (eMIF)",
+      "program_slug": "executive-masters-in-islamic-finance-emif",
+      "field": "islamic-finance",
+      "duration": "4 semesters / 2 years",
+      "mode": "Online",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20230105073752/https://inceif.edu.my/academic-programmes/",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    }
+  ]
+}

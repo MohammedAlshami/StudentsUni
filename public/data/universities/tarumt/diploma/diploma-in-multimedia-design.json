@@ -1,0 +1,49 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "diploma",
+  "program_name": "Diploma in Multimedia Design",
+  "program_slug": "diploma-in-multimedia-design",
+  "field": "Arts & Design",
+  "duration": "28 months",
+  "mode": "Full-time",
+  "intakes": [
+    "Jun"
+  ],
+  "fees": {
+    "local": "RM20,200.00",
+    "international": "RM38,800.00",
+    "local_total": 7929,
+    "currency": "MYR",
+    "international_total": 14315,
+    "per_year_local": 3172,
+    "per_year_international": 5726
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/tarumt/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

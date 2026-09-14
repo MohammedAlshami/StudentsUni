@@ -1,0 +1,22 @@
+{
+  "university_slug": "misi",
+  "level": "masters",
+  "program_name": "Master of Science in Supply Chain Management (Part-Time)",
+  "program_slug": "master-of-science-in-supply-chain-management-part-time",
+  "field": "Transport and Logistics",
+  "duration": "2 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.misi.edu.my/part-time-master/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

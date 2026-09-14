@@ -1,0 +1,31 @@
+{
+  "university": "Malacca Islamic University",
+  "university_slug": "unimel",
+  "abbreviation": "UNIMEL",
+  "type": "private-university",
+  "state": "Melaka",
+  "website": "https://www.unimel.edu.my",
+  "studymalaysia_url": "https://studymalaysia.com/edu/unimel/courses/",
+  "last_updated": "2026-09-15",
+  "sources": [
+    {
+      "url": "https://unimel.edu.my/programme-list/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "masters",
+    "doctorate"
+  ],
+  "program_counts": {
+    "foundation": 2,
+    "diploma": 17,
+    "bachelor": 15,
+    "masters": 16,
+    "doctorate": 7
+  }
+}

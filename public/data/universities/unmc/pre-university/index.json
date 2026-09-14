@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "foundation-in-business-and-management",
+    "program_name": "Foundation in Business & Management",
+    "field": "Business",
+    "duration": "2-3 Semesters",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "foundation-in-engineering",
+    "program_name": "Foundation in Engineering",
+    "field": "Engineering",
+    "duration": "2-3 Semesters",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "foundation-in-science",
+    "program_name": "Foundation in Science",
+    "field": "Science",
+    "duration": "2-3 Semesters",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "foundation-in-arts-and-education",
+    "program_name": "Foundation in Arts and Education",
+    "field": "Arts",
+    "duration": "2-3 Semesters",
+    "mode": "Full-time"
+  }
+]

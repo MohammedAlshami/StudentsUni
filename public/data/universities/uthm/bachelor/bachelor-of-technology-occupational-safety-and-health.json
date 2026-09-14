@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Technology in Occupational Safety and Health (Hons)",
+  "program_slug": "bachelor-of-technology-occupational-safety-and-health",
+  "field": "Occupational Health & Hygiene",
+  "faculty": "Engineering Technology",
+  "duration": "4 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": null,
+    "currency": "MYR",
+    "local_total": 6400,
+    "international_total": 19200,
+    "per_year_local": 1600,
+    "per_year_international": 4800,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0058307/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

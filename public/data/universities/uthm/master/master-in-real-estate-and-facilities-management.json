@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "master",
+  "program_name": "Master in Real Estate and Facilities Management",
+  "program_slug": "master-in-real-estate-and-facilities-management",
+  "field": "Business Management & Administration",
+  "faculty": "Technology Management and Business",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "3550/Course",
+    "international": "USD3060",
+    "currency": "MYR",
+    "local_total": 3550.0,
+    "per_year_local": 887.5,
+    "notes": "Fee: 3550/Course"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0004785/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

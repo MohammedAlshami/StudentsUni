@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "doctoral",
+  "program_name": "Doctor of Philosophy in Architecture (PhD)",
+  "field": "Architecture",
+  "duration": "3-7 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 51,357 - RM 53,547",
+    "international": "RM 65,800 - RM 68,320",
+    "currency": "MYR",
+    "local_total": 51357,
+    "international_total": 65800,
+    "per_year_local": 51357,
+    "per_year_international": 65800,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057303/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

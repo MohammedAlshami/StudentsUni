@@ -1,0 +1,39 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Masters Degree",
+  "program_name": "Master of Business Data Science",
+  "field": "Computing & IT",
+  "slug": "master-of-business-data-science",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Oct",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 50100,
+    "currency": "MYR",
+    "international_total": 35800
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058802/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

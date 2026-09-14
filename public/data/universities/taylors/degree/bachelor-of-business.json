@@ -1,0 +1,80 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor of Business (Honours)",
+  "field": "Business",
+  "slug": "bachelor-of-business",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep",
+    "Feb"
+  ],
+  "fees": {
+    "local": "MYR 129,830",
+    "international": "USD 42,309",
+    "currency": "MYR",
+    "local_total": 41265,
+    "international_total": 47982,
+    "per_year_local": 99900,
+    "per_year_international": 33391,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "spm": "5 credits including Mathematics and English",
+    "pre_u pathways": {
+      "taylors_foundation": "CGPA 2.00",
+      "taylors_diploma": "CGPA 2.00",
+      "stpm": "Minimum CC",
+      "a_level": "Minimum DD",
+      "ausmat_sacei": "ATAR 60",
+      "cpu": "Average 60% in 6 subjects",
+      "ib": "Minimum 24 points in 6 subjects",
+      "uec": "5Bs including Mathematics and English",
+      "mufy": "Overall 50%"
+    },
+    "english_requirements": {
+      "local": "Pass English / Taylor's EET 5.0 / Pre-U Diploma in English",
+      "international": "MUET Band 3 / IELTS / TOEFL"
+    }
+  },
+  "accreditation": "KPT/JPS (R2/345/6/0561) (A 9964) 07/26",
+  "specialisations": [
+    "Finance",
+    "Marketing",
+    "Management",
+    "Digital Marketing and Analytics",
+    "Digital Business and Transformation",
+    "Global Business and Sustainability",
+    "Supply Chain Management"
+  ],
+  "offered_by": "Taylor's Business School",
+  "career_prospects": [
+    "Business Consultant",
+    "Public Relations Specialist",
+    "Entrepreneur",
+    "Product Development Manager",
+    "Business Developer",
+    "Strategic Marketing Expert",
+    "Social Media Specialist",
+    "Market Researcher"
+  ],
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-business.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

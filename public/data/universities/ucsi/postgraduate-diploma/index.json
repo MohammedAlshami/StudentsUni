@@ -1,0 +1,12 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "postgraduate-diploma",
+  "level_name": "Postgraduate Diploma",
+  "total_programs": 1,
+  "programs": [
+    {"program_name": "Postgraduate Diploma in Tertiary Teaching", "slug": "postgraduate-diploma-in-tertiary-teaching"}
+  ],
+  "sources": ["https://www.studymalaysia.com/edu/ucsi/courses/"],
+  "last_updated": "2026-09-14"
+}

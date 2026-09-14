@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Masters Degree",
+  "program_name": "Master of Human Resource Management",
+  "field": "Business Management & Administration",
+  "slug": "master-of-human-resource-management",
+  "duration": "FT(1.5 Years) & PT(3 Years)",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "local": "RM45,540",
+    "international": "RM53,820",
+    "currency": "MYR",
+    "local_total": 45540,
+    "international_total": 53820,
+    "per_year_local": 22770,
+    "per_year_international": 26910,
+    "notes": "Total course fee for 2-year programme"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0056013/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

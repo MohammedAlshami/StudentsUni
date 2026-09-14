@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "master",
+  "program_name": "Master of Child Psychology",
+  "field": "Child Psychology",
+  "duration": "1.5-3 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 39,510",
+    "international": "RM 53,550",
+    "currency": "MYR",
+    "local_total": 39510,
+    "international_total": 53550,
+    "per_year_local": 39510,
+    "per_year_international": 53550,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057298/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

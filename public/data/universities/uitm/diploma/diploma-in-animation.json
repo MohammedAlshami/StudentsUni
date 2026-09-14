@@ -1,0 +1,41 @@
+{
+  "university": "Universiti Teknologi MARA",
+  "university_slug": "uitm",
+  "level": "diploma",
+  "program_name": "Diploma in Animation",
+  "field": "Arts & Creative",
+  "duration": "5 Semesters",
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 3250,
+    "international_total": 9750,
+    "per_year_local": 1300,
+    "per_year_international": 3900,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/uitm/courses/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14"
+}

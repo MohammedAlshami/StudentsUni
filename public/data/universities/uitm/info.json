@@ -1,0 +1,21 @@
+{
+  "slug": "uitm",
+  "name": "Universiti Teknologi MARA",
+  "abbr": "UiTM",
+  "type": "public-university",
+  "state": "Selangor",
+  "city": "Shah Alam",
+  "website": "https://www.uitm.edu.my",
+  "levels_available": ["pre-university", "diploma", "advanced-diploma", "undergraduate"],
+  "program_counts": {
+    "pre-university": 5,
+    "diploma": 71,
+    "advanced-diploma": 2,
+    "undergraduate": 166
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/uitm/courses/",
+    "https://www.uitm.edu.my"
+  ],
+  "last_updated": "2026-09-14"
+}

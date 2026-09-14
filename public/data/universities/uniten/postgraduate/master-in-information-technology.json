@@ -1,0 +1,40 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "level": "postgraduate",
+  "program_name": "Master in Information Technology",
+  "program_slug": "master-in-information-technology",
+  "field": "Information Technology",
+  "duration": "1-3 Years (FT) / 2-4 Years (PT)",
+  "mode": "Full-time / Part-time",
+  "intakes": null,
+  "fees": {
+    "local": {
+      "tuition": "RM28,100",
+      "registration": "RM1,348 (one-time)"
+    },
+    "international": {
+      "tuition": "RM31,100",
+      "visa_application": "USD787.50 (RM3,150) (one-time)",
+      "registration": "USD1,650 (RM6,600) (one-time)"
+    },
+    "currency": "MYR",
+    "local_total": 6000,
+    "per_year_local": null
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "college": "College of Graduate Studies (COGS)",
+  "structure": "Coursework & Research (Structure B)",
+  "sources": [
+    "https://www.uniten.edu.my/programme/postgraduate/",
+    "https://www.studymalaysia.com/what/course/UNITEN/0006289/",
+    {
+      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

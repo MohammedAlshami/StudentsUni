@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "engineering-foundation-year",
+    "program_name": "Engineering Foundation Year",
+    "field": "Engineering",
+    "duration": "1 Year",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "master-of-engineering-in-electrical-and-electronic-engineering",
+    "program_name": "Master of Engineering in Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "duration": "4 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "master-of-engineering-mechanical-engineering-2+2-in-collaboration-with-university-of-southampton-uk",
+    "program_name": "Master of Engineering Mechanical Engineering 2+2 in collaboration with University of Southampton, UK",
+    "field": "Engineering",
+    "duration": "4 Years",
+    "mode": "Full-time"
+  }
+]

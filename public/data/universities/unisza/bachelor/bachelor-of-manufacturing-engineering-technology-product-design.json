@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Sultan Zainal Abidin",
+  "university_slug": "unisza",
+  "level": "bachelor",
+  "program_name": "Bachelor of Manufacturing Engineering Technology (Product Design) (Hons)",
+  "slug": "bachelor-of-manufacturing-engineering-technology-product-design",
+  "field": "Engineering & Engineering Trades",
+  "duration": "8 Sem",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "600 - 1000/sem",
+    "international": "Enquire",
+    "currency": "MYR",
+    "local_total": 7600,
+    "per_year_local": 1900,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 22800,
+    "per_year_international": 5700
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unisza/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

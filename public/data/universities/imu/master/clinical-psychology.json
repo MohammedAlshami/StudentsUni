@@ -1,0 +1,33 @@
+{
+  "university": "IMU University",
+  "university_slug": "imu",
+  "level": "master",
+  "program_name": "Clinical Psychology (Master)",
+  "field": "Psychology",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 36000,
+    "international_total": 40500,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.imu.edu.my",
+      "type": "official"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

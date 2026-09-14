@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "diploma-of-accountancy",
+    "name": "Diploma of Accountancy",
+    "field": "Business"
+  },
+  {
+    "slug": "diploma-in-computer-science",
+    "name": "Diploma in Computer Science",
+    "field": "Computing"
+  },
+  {
+    "slug": "diploma-in-corporate-communication",
+    "name": "Diploma in Corporate Communication",
+    "field": "Media"
+  },
+  {
+    "slug": "diploma-in-business-administration",
+    "name": "Diploma in Business Administration",
+    "field": "Business"
+  },
+  {
+    "slug": "diploma-in-early-childhood-education",
+    "name": "Diploma in Early Childhood Education",
+    "field": "Education"
+  },
+  {
+    "slug": "diploma-in-information-technology",
+    "name": "Diploma in Information Technology",
+    "field": "Computing"
+  }
+]

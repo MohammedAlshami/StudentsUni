@@ -1,0 +1,22 @@
+{
+  "university": "Quest International University",
+  "university_slug": "qiu",
+  "level": "Masters Degree",
+  "program_name": "Master of Business Administration",
+  "field": "Business Management & Administration",
+  "slug": "master-of-business-administration",
+  "duration": "Full time: 1 year (min); 4 years (max); Part time: 2 years 5 months (min); 5 years (max)",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/qiu/0058131/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

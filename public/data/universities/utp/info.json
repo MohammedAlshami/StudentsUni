@@ -1,0 +1,33 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "name": "Universiti Teknologi PETRONAS",
+  "abbreviation": "UTP",
+  "type": "private-university",
+  "state": "Perak",
+  "city": "Manjung",
+  "postcode": "31750",
+  "address": "Bandar Seri Iskandar, 31750 Tronoh, Perak, Malaysia",
+  "phone": "1-300-22-8887",
+  "website": "https://www.utp.edu.my",
+  "established": 1997,
+  "owner": "PETRONAS",
+  "mqa_registration": "DU003(A)",
+  "moh_approval": "KP(JPS)5195/US/7(9)",
+  "faculties": [
+    "Centre for Foundation Studies",
+    "Faculty of Engineering",
+    "Faculty of Science, Management & Computing"
+  ],
+  "program_levels": ["foundation", "undergraduate", "postgraduate"],
+  "total_programs": 38,
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://www.studymalaysia.com/edu/utp/courses/",
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx",
+    "https://eduadvisor.my/university/universiti-teknologi-petronas-utp/all-courses",
+    "https://afterschool.my/uni/universiti-teknologi-petronas/courses"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,39 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Diploma",
+  "program_name": "Diploma in Information Technology (IT)",
+  "field": "Computing & IT",
+  "slug": "diploma-in-information-technology-it",
+  "duration": "27 months",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Oct",
+    "Mar"
+  ],
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 14523,
+    "currency": "MYR",
+    "international_total": 17378
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058818/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

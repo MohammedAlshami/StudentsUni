@@ -1,0 +1,21 @@
+{
+  "university": "Widad University College",
+  "university_slug": "widad",
+  "level": "bachelor",
+  "program_name": "Bachelor of Islamic Finance (Honours)",
+  "field": "Islamic Finance",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.widad.edu.my/uc/my/courses/fbm/bachelor-islamic-finance",
+      "type": "official"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

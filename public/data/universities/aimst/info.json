@@ -1,0 +1,36 @@
+{
+  "university": "AIMST University",
+  "slug": "aimst",
+  "abbreviation": "AIMST",
+  "type": "private-university",
+  "state": "Kedah",
+  "address": "Batu 3 1/2, Bukit Air Nasi, Jalan Bedong-Semeling, 08100 Bedong, Kedah, Malaysia",
+  "website": "https://www.aimst.edu.my",
+  "phone": "+604-4298 000",
+  "email": "choose@aimst.edu.my",
+  "registration": "DU010(K)",
+  "established": "2001",
+  "total_programs": 39,
+  "levels": [
+    "foundation",
+    "diploma",
+    "undergraduate",
+    "postgraduate"
+  ],
+  "faculties": [
+    "School of General & Foundation Studies",
+    "Faculty of Allied Health Professions",
+    "Faculty of Applied Science",
+    "Faculty of Business & Management",
+    "Faculty of Dentistry",
+    "Faculty of Engineering & Computer Technology",
+    "Faculty of Medicine",
+    "Faculty of Pharmacy"
+  ],
+  "sources": [
+    "https://www.aimst.edu.my",
+    "https://www.aimst.edu.my/academic",
+    "https://www.studymalaysia.com/edu/aimst/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

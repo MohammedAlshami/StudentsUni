@@ -1,0 +1,35 @@
+{
+  "university": "Universiti Tenaga Nasional",
+  "university_slug": "uniten",
+  "level": "foundation",
+  "level_name": "Foundation",
+  "programs_count": 5,
+  "programs": [
+    {
+      "program_name": "Foundation in Engineering",
+      "program_slug": "foundation-in-engineering",
+      "field": "Engineering"
+    },
+    {
+      "program_name": "Foundation in Computer Science",
+      "program_slug": "foundation-in-computer-science",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Foundation in Information Technology",
+      "program_slug": "foundation-in-information-technology",
+      "field": "Computing & IT"
+    },
+    {
+      "program_name": "Foundation in Management",
+      "program_slug": "foundation-in-management",
+      "field": "Business"
+    },
+    {
+      "program_name": "Foundation in Accounting",
+      "program_slug": "foundation-in-accounting",
+      "field": "Business"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

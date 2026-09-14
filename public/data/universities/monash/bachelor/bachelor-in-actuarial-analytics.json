@@ -1,0 +1,45 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "bachelor",
+  "program_name": "Bachelor in Actuarial Analytics",
+  "field": "Business",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "February",
+    "July",
+    "October"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 114639,
+    "international_total": 131040,
+    "per_year_local": "RM38,213 per year",
+    "per_year_international": "RM43,680 per year",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/undergraduate/business/bachelor-in-actuarial-analytics"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

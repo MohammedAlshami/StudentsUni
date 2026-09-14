@@ -1,0 +1,24 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Chemical Engineering with Honours (Double Degree)",
+  "slug": "bachelor-of-chemical-engineering-with-honours-double-degree",
+  "field": "Engineering & Engineering Trades",
+  "duration": "4 – 4.5 Yrs",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to the Univ.",
+    "international": "Refer to the Univ."
+  },
+  "requirements": {
+    "academic": null
+  },
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SEGI/0054497/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

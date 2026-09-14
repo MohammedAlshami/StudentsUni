@@ -1,0 +1,22 @@
+{
+  "university_slug": "misi",
+  "level": "foundation",
+  "program_name": "Foundation in Supply Chain Management",
+  "program_slug": "foundation-in-supply-chain-management",
+  "field": "Transport and Logistics",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.misi.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

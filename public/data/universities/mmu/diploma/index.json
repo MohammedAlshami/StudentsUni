@@ -1,0 +1,99 @@
+{
+  "university": "Multimedia University",
+  "university_slug": "mmu",
+  "level": "diploma",
+  "program_count": 15,
+  "programs": [
+    {
+      "slug": "diploma-in-applied-communication",
+      "name": "Diploma in Applied Communication",
+      "field": "Communication",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-creative-multimedia",
+      "name": "Diploma in Creative Multimedia",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-digital-creative-producing",
+      "name": "Diploma in Digital Creative Producing",
+      "field": "Cinematic Arts",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-cinematography",
+      "name": "Diploma in Cinematography",
+      "field": "Cinematic Arts",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-information-technology",
+      "name": "Diploma in Information Technology",
+      "field": "Information Technology",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-finance",
+      "name": "Diploma in Finance",
+      "field": "Finance",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-management",
+      "name": "Diploma in Management",
+      "field": "Management",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-digital-motion-graphic",
+      "name": "Diploma in Digital Motion Graphic",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-3d-modelling-and-animation",
+      "name": "Diploma in 3D Modelling and Animation",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-creative-audio",
+      "name": "Diploma in Creative Audio",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-accounting",
+      "name": "Diploma in Accounting",
+      "field": "Accounting",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-business-administration",
+      "name": "Diploma in Business Administration",
+      "field": "Business Administration",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-digital-business",
+      "name": "Diploma in Digital Business",
+      "field": "Business",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-electronic-engineering",
+      "name": "Diploma in Electronic Engineering",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "diploma-in-mechanical-engineering",
+      "name": "Diploma in Mechanical Engineering",
+      "field": "Engineering",
+      "detail_status": "complete"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

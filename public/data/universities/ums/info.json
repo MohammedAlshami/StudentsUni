@@ -1,0 +1,16 @@
+{
+  "slug": "ums",
+  "name": "Universiti Malaysia Sabah",
+  "abbr": "UMS",
+  "type": "public-university",
+  "state": "Sabah",
+  "city": "Kota Kinabalu",
+  "website": "https://www.ums.edu.my",
+  "levels_available": ["foundation", "diploma", "bachelor"],
+  "program_counts": {"foundation": 4, "diploma": 1, "bachelor": 66},
+  "sources": [
+    {"url": "https://www.ums.edu.my", "publisher": "UMS Official Site", "fetched_at": "2026-09-14"},
+    {"url": "https://studymalaysia.com/edu/ums/courses/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"}
+  ],
+  "last_updated": "2026-09-14"
+}

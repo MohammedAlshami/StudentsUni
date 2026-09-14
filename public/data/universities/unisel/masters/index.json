@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "master-of-business-administration-mba",
+    "program_name": "Master of Business Administration (MBA)",
+    "field": "Business",
+    "duration": "1.5 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "master-of-education-discipline-management",
+    "program_name": "Master Of Education (Discipline Management)",
+    "field": "Education",
+    "duration": "2 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "master-of-management-by-research",
+    "program_name": "Master of Management (By Research)",
+    "field": "Business",
+    "duration": "2 Years",
+    "mode": "Full-time"
+  }
+]

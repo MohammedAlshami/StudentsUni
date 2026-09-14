@@ -1,0 +1,53 @@
+{
+  "slug": "curtin",
+  "name": "Curtin University Malaysia",
+  "abbr": "Curtin",
+  "type": "private-university",
+  "state": "Sarawak",
+  "city": "Miri",
+  "country": "Malaysia",
+  "website": "https://www.curtin.edu.my",
+  "established": "1999",
+  "accreditation": "MQA, Curtin University (Australia), AACSB, SETARA",
+  "ranking": {
+    "qs_world_2027": "189",
+    "qs_asia": null,
+    "times_higher_education": null
+  },
+  "study_areas": [
+    "Business & Commerce",
+    "Engineering",
+    "Information Technology",
+    "Health Sciences",
+    "Built Environment",
+    "Humanities & Communications",
+    "Science"
+  ],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "postgraduate-diploma",
+    "postgraduate-certificate",
+    "masters",
+    "doctoral"
+  ],
+  "program_counts": {
+    "foundation": 2,
+    "diploma": 3,
+    "bachelor": 28,
+    "postgraduate-diploma": 2,
+    "postgraduate-certificate": 2,
+    "masters": 14,
+    "doctoral": 4
+  },
+  "sources": [
+    "https://www.curtin.edu.my",
+    "https://www.curtin.edu.my/study/foundation/",
+    "https://www.curtin.edu.my/study/diploma/",
+    "https://www.curtin.edu.my/study/undergraduate/",
+    "https://www.curtin.edu.my/study/postgraduate/",
+    "https://www.studymalaysia.com/edu/curtin/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

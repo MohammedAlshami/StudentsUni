@@ -1,0 +1,44 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "phd",
+  "level_label": "Doctoral Degree (Ph.D)",
+  "program_count": 7,
+  "programs": [
+    {
+      "slug": "doctor-of-philosophy-science",
+      "name": "Doctor of Philosophy (Science)",
+      "field": "Science"
+    },
+    {
+      "slug": "doctor-of-philosophy-information-technology",
+      "name": "Doctor of Philosophy (Information Technology)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "doctor-of-philosophy-medicine-and-health-science",
+      "name": "Doctor of Philosophy (Medicine and Health Science)",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "doctor-of-philosophy-arts-and-social-sciences",
+      "name": "Doctor of Philosophy (Arts and Social Sciences)",
+      "field": "Arts & Social Sciences"
+    },
+    {
+      "slug": "doctor-of-philosophy-business",
+      "name": "Doctor of Philosophy (Business)",
+      "field": "Business"
+    },
+    {
+      "slug": "doctor-of-philosophy-engineering",
+      "name": "Doctor of Philosophy (Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "doctor-of-philosophy-pharmacy",
+      "name": "Doctor of Philosophy (Pharmacy)",
+      "field": "Pharmacy"
+    }
+  ]
+}

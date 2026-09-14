@@ -1,0 +1,15 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "bachelor",
+  "program_name": "Bachelor of Communication (Marketing Communication) (Honours)",
+  "program_slug": "bachelor-of-communication-marketing-communication-honours",
+  "field": "Communication & Broadcasting",
+  "duration": "3 years",
+  "mode": "Full-time Study",
+  "intakes": ["Jan", "May", "Jul", "Sep"],
+  "fees": { "local": "RM82,800.00", "international": null },
+  "sources": ["https://studymalaysia.com/what/course/HELP/0005729/"],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "master-of-business-administration",
+    "name": "Master of Business Administration",
+    "field": "Business"
+  },
+  {
+    "slug": "master-of-science-in-public-health",
+    "name": "Master of Science in Public Health",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "master-of-science-in-biotechnology",
+    "name": "Master of Science in Biotechnology",
+    "field": "Science"
+  },
+  {
+    "slug": "master-of-science-in-nursing",
+    "name": "Master of Science in Nursing",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "master-of-education",
+    "name": "Master of Education",
+    "field": "Education"
+  },
+  {
+    "slug": "master-of-law",
+    "name": "Master of Law",
+    "field": "Law"
+  },
+  {
+    "slug": "master-of-computer-science",
+    "name": "Master of Computer Science",
+    "field": "Computing"
+  }
+]

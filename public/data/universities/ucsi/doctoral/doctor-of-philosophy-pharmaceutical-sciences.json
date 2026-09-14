@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "doctoral",
+  "program_name": "Doctor of Philosophy (Pharmaceutical Sciences)",
+  "field": "Pharmaceutical Sciences",
+  "duration": "3-7 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 54,780",
+    "international": "RM 83,150",
+    "currency": "MYR",
+    "local_total": 54780,
+    "international_total": 83150,
+    "per_year_local": 54780,
+    "per_year_international": 83150,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0055560/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

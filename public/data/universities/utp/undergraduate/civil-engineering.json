@@ -1,0 +1,31 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Civil Engineering with Honours",
+  "slug": "civil-engineering",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": "RM 104,500",
+    "currency": "MYR",
+    "note": "Total estimated fees; contact university for current rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Mathematics, Additional Mathematics, Physics, Chemistry, and English"
+  },
+  "accreditation": "MQA/FA3982",
+  "description": "Engineering programme covering structural analysis, geotechnical engineering, transportation, hydraulics, and construction management. Prepares graduates for careers in construction, infrastructure, and project management.",
+  "career_prospect": ["Civil Engineer", "Structural Engineer", "Project Manager", "Site Engineer", "Geotechnical Engineer"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://www.studymalaysia.com/edu/utp/courses/",
+    "https://eduadvisor.my/university/universiti-teknologi-petronas-utp/all-courses",
+    "https://unienrol.com/study-malaysia/universiti-teknologi-petronas-utp/courses/all"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

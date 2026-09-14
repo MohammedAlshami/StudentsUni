@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "bachelor-of-medicine-and-bachelor-of-surgery-mbbs",
+    "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "bachelor-of-dental-surgery",
+    "name": "Bachelor of Dental Surgery",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "bachelor-of-pharmacy",
+    "name": "Bachelor of Pharmacy",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "bachelor-of-nursing-science",
+    "name": "Bachelor of Nursing Science",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "bachelor-of-business-administration",
+    "name": "Bachelor of Business Administration",
+    "field": "Business"
+  },
+  {
+    "slug": "bachelor-of-law",
+    "name": "Bachelor of Law",
+    "field": "Law"
+  },
+  {
+    "slug": "bachelor-of-biomedical-science",
+    "name": "Bachelor of Biomedical Science",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "bachelor-of-physiotherapy",
+    "name": "Bachelor of Physiotherapy",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "bachelor-of-medical-laboratory-technology",
+    "name": "Bachelor of Medical Laboratory Technology",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "bachelor-of-environmental-health",
+    "name": "Bachelor of Environmental Health",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "bachelor-of-computer-science",
+    "name": "Bachelor of Computer Science",
+    "field": "Computing"
+  },
+  {
+    "slug": "bachelor-of-education-tesl",
+    "name": "Bachelor of Education (TESL)",
+    "field": "Education"
+  },
+  {
+    "slug": "bachelor-of-science-in-psychology",
+    "name": "Bachelor of Science in Psychology",
+    "field": "Social Sciences"
+  }
+]

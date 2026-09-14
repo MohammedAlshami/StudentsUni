@@ -1,0 +1,20 @@
+{
+  "slug": "southern",
+  "name": "Southern University College",
+  "abbr": "Southern",
+  "type": "private-university-college",
+  "state": "Johor",
+  "city": "Skudai",
+  "website": "https://www.southern.edu.my",
+  "levels_available": ["foundation", "diploma", "bachelor", "postgraduate"],
+  "sources": [
+    "https://www.southern.edu.my",
+    "https://www.southern.edu.my/faculty-of-business-management/",
+    "https://www.southern.edu.my/faculty-of-art-design/",
+    "https://www.southern.edu.my/faculty-of-engineering-information-technology/",
+    "https://www.southern.edu.my/faculty-of-chinese-medicine/",
+    "https://www.southern.edu.my/faculty-of-humanities-social-science/",
+    "https://www.southern.edu.my/faculty-of-chinese-studies/"
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,45 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "bachelor",
+  "program_name": "Bachelor of Computer Science in Artificial Intelligence",
+  "field": "Computing & IT",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "February",
+    "July",
+    "October"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 122460,
+    "international_total": 139920,
+    "per_year_local": "RM40,820 per year",
+    "per_year_international": "RM46,640 per year",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/undergraduate/information-technology/bachelor-of-computer-science-in-artificial-intelligence"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

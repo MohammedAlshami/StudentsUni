@@ -1,0 +1,45 @@
+{
+  "university": "Universiti Teknologi Malaysia",
+  "university_slug": "utm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Technology with Education (Electrical & Electronics Engineering) with Honours",
+  "field": "Education",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7200,
+    "international_total": 21600,
+    "per_year_local": 1800,
+    "per_year_international": 5400,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://admission.utm.my/offered-allcourses-malaysian/",
+    "https://fest.utm.my/undergraduates-programs/",
+    "https://www.studymalaysia.com/edu/utm/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

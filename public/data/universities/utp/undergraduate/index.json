@@ -1,0 +1,144 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "programs": [
+    {
+      "slug": "chemical-engineering",
+      "program_name": "Bachelor of Chemical Engineering with Honours",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": "RM 110,000 (total)"
+    },
+    {
+      "slug": "civil-engineering",
+      "program_name": "Bachelor of Civil Engineering with Honours",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": "RM 104,500 (total)"
+    },
+    {
+      "slug": "computer-engineering",
+      "program_name": "Bachelor of Computer Engineering with Honours",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": "RM 104,500 (total)"
+    },
+    {
+      "slug": "electrical-and-electronics-engineering",
+      "program_name": "Bachelor of Electrical and Electronics Engineering with Honours",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": null
+    },
+    {
+      "slug": "integrated-engineering",
+      "program_name": "Bachelor of Integrated Engineering with Honours",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": "RM 160,000 (total)"
+    },
+    {
+      "slug": "materials-engineering",
+      "program_name": "Bachelor of Materials Engineering with Honours",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": null
+    },
+    {
+      "slug": "mechanical-engineering",
+      "program_name": "Bachelor of Mechanical Engineering with Honours",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": "RM 110,000 (total)"
+    },
+    {
+      "slug": "petroleum-engineering",
+      "program_name": "Bachelor of Petroleum Engineering with Honours",
+      "field": "Engineering",
+      "duration": "4 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": null
+    },
+    {
+      "slug": "computer-science",
+      "program_name": "Bachelor of Computer Science (Hons)",
+      "field": "Computing",
+      "duration": "3.5 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": "RM 82,530 (total)"
+    },
+    {
+      "slug": "information-systems",
+      "program_name": "Bachelor of Information Systems (Hons)",
+      "field": "Computing",
+      "duration": "3.5 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": "RM 82,530 (total)"
+    },
+    {
+      "slug": "information-technology",
+      "program_name": "Bachelor of Information Technology (Hons)",
+      "field": "Computing",
+      "duration": "3.5 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": "RM 82,530 (total)"
+    },
+    {
+      "slug": "applied-chemistry",
+      "program_name": "Bachelor of Science (Hons) in Applied Chemistry",
+      "field": "Science",
+      "duration": "3.5 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": null
+    },
+    {
+      "slug": "industrial-physics",
+      "program_name": "Bachelor of Science (Hons) in Industrial Physics",
+      "field": "Science",
+      "duration": "3.5 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": null
+    },
+    {
+      "slug": "petroleum-geoscience",
+      "program_name": "Bachelor of Science (Hons) in Petroleum Geoscience",
+      "field": "Science",
+      "duration": "3.5 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": null
+    },
+    {
+      "slug": "business-management",
+      "program_name": "Bachelor in Business Management (Hons)",
+      "field": "Business Management",
+      "duration": "3.5 years",
+      "mode": "full-time",
+      "intakes": ["january", "may", "september"],
+      "fees": "RM 73,500 (total)"
+    }
+  ],
+  "total_programs": 15,
+  "last_updated": "2026-09-14"
+}

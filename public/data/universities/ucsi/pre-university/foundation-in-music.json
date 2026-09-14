@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "pre-university",
+  "program_name": "Foundation in Music",
+  "field": "Music",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 27,786",
+    "international": "RM 40,100",
+    "currency": "MYR",
+    "local_total": 27786,
+    "international_total": 40100,
+    "per_year_local": 27786,
+    "per_year_international": 40100,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057285/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

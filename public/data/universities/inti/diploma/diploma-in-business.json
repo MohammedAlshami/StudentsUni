@@ -1,0 +1,45 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "diploma",
+  "program_name": "Diploma in Business",
+  "program_slug": "diploma-in-business",
+  "field": "Business Management & Administration",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": [
+    "Mar",
+    "Oct",
+    "Jan",
+    "May",
+    "Aug"
+  ],
+  "fees": {
+    "local": "Enquire for fees",
+    "international": "Enquire for fees",
+    "local_total": 9724,
+    "currency": "MYR",
+    "international_total": 9724
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "faculty": "Business",
+  "exam_body": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0056470/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

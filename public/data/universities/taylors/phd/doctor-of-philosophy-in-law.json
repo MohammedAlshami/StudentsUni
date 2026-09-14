@@ -1,0 +1,28 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "phd",
+  "program_name": "Doctor of Philosophy in Law",
+  "slug": "doctor-of-philosophy-in-law",
+  "program_slug": "doctor-of-philosophy-in-law",
+  "field": "Law",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 42300,
+    "international_total": 16891,
+    "per_year_local": 42300,
+    "per_year_international": 16891,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/phd-research/doctor-of-philosophy-in-law.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

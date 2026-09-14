@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Malaysia Terengganu",
+  "university_slug": "umt",
+  "level": "bachelor",
+  "program_name": "Bachelor of Renewable Energy Technology with Honours",
+  "program_name_malay": "Sarjana Muda Teknologi Tenaga Boleh Diperbaharui dengan Kepujian",
+  "program_slug": "brenewable-energy-technology",
+  "field": "Renewable Energy",
+  "faculty": "Faculty of Ocean Engineering Technology",
+  "duration": null,
+  "mode": "full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7200,
+    "international_total": 21600,
+    "per_year_local": 1800,
+    "per_year_international": 5400,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": "MQA/FA6400001",
+  "sources": [
+    "https://umt.my/all-programs-at-umt/",
+    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

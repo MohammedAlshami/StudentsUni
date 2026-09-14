@@ -1,0 +1,37 @@
+{
+  "university": "University of Selangor",
+  "university_slug": "unisel",
+  "level": "bachelors",
+  "program_name": "Bachelor of Accountancy (Hons)",
+  "field": "Accounting",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Nov",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 10710,
+    "international_total": 16965,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.studymalaysia.com/edu/unisel/courses/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "bachelor-of-accountancy-hons"
+}

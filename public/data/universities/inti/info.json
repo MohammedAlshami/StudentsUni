@@ -1,0 +1,52 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "abbreviation": "INTI",
+  "type": "private-university",
+  "state": "Negeri Sembilan",
+  "city": "Nilai",
+  "address": "Persiaran Perdana BBN, Putra Nilai, 71800 Nilai, Negeri Sembilan, Malaysia",
+  "phone": "606-798 2000",
+  "website": "https://www.inti.edu.my",
+  "official_website": "https://newinti.edu.my",
+  "campuses": [
+    {
+      "name": "INTI International University Nilai",
+      "location": "Putra Nilai, Negeri Sembilan",
+      "type": "university"
+    },
+    {
+      "name": "INTI International College Subang",
+      "location": "Subang, Selangor",
+      "type": "college"
+    },
+    {
+      "name": "INTI International College Penang",
+      "location": "Penang",
+      "type": "college"
+    },
+    {
+      "name": "INTI College Sabah",
+      "location": "Sabah",
+      "type": "college"
+    }
+  ],
+  "partner_universities": [
+    "Coventry University, UK",
+    "University of Hertfordshire, UK",
+    "Sheffield Hallam University, UK",
+    "Southern New Hampshire University, USA",
+    "Swinburne University of Technology, Australia",
+    "CY Cergy Paris Université, France"
+  ],
+  "accreditation": {
+    "mqa": true,
+    "notes": "DU022(N) - INTI International University"
+  },
+  "total_programs_found": 43,
+  "sources": [
+    "https://studymalaysia.com/edu/inti/courses/",
+    "https://newinti.edu.my"
+  ],
+  "last_updated": "2026-09-14"
+}

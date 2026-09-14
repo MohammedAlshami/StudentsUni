@@ -1,0 +1,50 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "diploma",
+  "program_name": "Diploma in Advertising",
+  "program_slug": "diploma-in-advertising",
+  "field": "Communication & Broadcasting",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
+  "fees": {
+    "local": "RM20,000.00",
+    "international": "RM37,500.00",
+    "local_total": 9150,
+    "currency": "MYR",
+    "international_total": 15950,
+    "per_year_local": 3660,
+    "per_year_international": 6380
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/tarumt/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

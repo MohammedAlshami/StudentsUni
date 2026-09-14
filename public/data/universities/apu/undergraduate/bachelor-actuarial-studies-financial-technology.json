@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Science (Honours) in Actuarial Studies with a specialism in Financial Technology",
+  "program_slug": "bachelor-actuarial-studies-financial-technology",
+  "field": "Actuarial Studies",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM98,000.00",
+    "international": "RM108,500.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/bachelor-of-accounting-finance-actuarial-studies-financial-technology",
+    "https://www.studymalaysia.com/what/course/APU/0058038/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

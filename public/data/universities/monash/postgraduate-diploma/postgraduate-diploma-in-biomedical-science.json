@@ -1,0 +1,42 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "postgraduate-diploma",
+  "program_name": "Postgraduate Diploma in Biomedical Science",
+  "field": "Medicine & Health Sciences",
+  "duration": "1 year (FT) / 2 years (PT)",
+  "mode": "Full-time / Part-time",
+  "intakes": [
+    "February",
+    "July"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 41100,
+    "international_total": 45200,
+    "per_year_local": "RM41,100 per year",
+    "per_year_international": "RM45,200 per year",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "bachelor_degree": null,
+      "cgpa": null
+    },
+    "international": {
+      "bachelor_degree": null,
+      "cgpa": null,
+      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/postgraduate-and-research/medicine-health-sciences",
+    "https://www.studymalaysia.com/what/course/MONASH/0057183/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

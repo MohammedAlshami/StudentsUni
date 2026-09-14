@@ -1,0 +1,19 @@
+{
+  "slug": "umk",
+  "name": "Universiti Malaysia Kelantan",
+  "abbr": "UMK",
+  "type": "public-university",
+  "state": "Kelantan",
+  "city": "Bachok",
+  "website": "https://www.umk.edu.my",
+  "levels_available": ["foundation", "undergraduate"],
+  "program_counts": {
+    "foundation": 3,
+    "undergraduate": 32
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/umk/courses/",
+    "https://www.umk.edu.my"
+  ],
+  "last_updated": "2026-09-14"
+}

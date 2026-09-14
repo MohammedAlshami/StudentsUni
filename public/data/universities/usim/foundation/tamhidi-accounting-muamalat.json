@@ -1,0 +1,44 @@
+{
+  "university": "Universiti Sains Islam Malaysia",
+  "university_slug": "usim",
+  "level": "foundation",
+  "level_name": "Pre-University / Foundation Studies",
+  "program_name": "Tamhidi (Foundation Studies) for Accounting & Muamalat",
+  "slug": "tamhidi-accounting-muamalat",
+  "field": "Accounting & Finance",
+  "duration": "2 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 350/semester",
+    "international": null,
+    "notes": "Standard public university fees (MQA regulated)",
+    "currency": "MYR",
+    "local_total": 1000,
+    "international_total": 3000,
+    "per_year_local": 1000,
+    "per_year_international": 3000
+  },
+  "requirements": {
+    "general": "SPM with credits in Bahasa Melayu and Sejarah",
+    "specific": "Relevant accounting and muamalat subjects",
+    "muet": "Band 1"
+  },
+  "accreditation": {
+    "mqa_program_code": null,
+    "board": "Internal Degree, Malaysia",
+    "body": "Malaysian Qualifications Agency (MQA)"
+  },
+  "faculties": [
+    "Faculty of Economics and Muamalat"
+  ],
+  "career_prospects": [
+    "Entry pathway to Accounting and Muamalat undergraduate programmes"
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/what/course/USIM/0001286/",
+    "https://admission.usim.edu.my/tamhidi/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "diploma-in-information-technology",
+    "program_name": "Diploma in Information Technology",
+    "field": "Computing",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "diploma-in-information-technology-cyber-security",
+    "program_name": "Diploma In Information Technology (Cyber Security)",
+    "field": "Computing",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "diploma-in-interactive-and-digital-media",
+    "program_name": "Diploma In Interactive And Digital Media",
+    "field": "Computing",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "diploma-in-game-development",
+    "program_name": "Diploma In Game Development",
+    "field": "Computing",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "diploma-in-information-systems-business-computing",
+    "program_name": "Diploma In Information Systems (Business Computing)",
+    "field": "Computing",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  }
+]

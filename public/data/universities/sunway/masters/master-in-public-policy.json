@@ -1,0 +1,29 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "masters",
+  "program_name": "Master in Public Policy",
+  "program_slug": "master-in-public-policy",
+  "field": "Social Sciences",
+  "faculty": null,
+  "duration": "Full-Time: 1 year / Part-Time: 2 years",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "From RM47,320",
+    "international": "International Student Administration Fee: RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 47320.0,
+    "per_year_local": null,
+    "notes": "Fee: FromRM47,320.00"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/sunway/0056981/",
+    "https://www.studymalaysia.com/edu/sunway/courses/"
+  ],
+  "confidence": 0.7,
+  "last_updated": "2026-09-14"
+}

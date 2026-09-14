@@ -1,0 +1,32 @@
+{
+  "university": "Xiamen University Malaysia",
+  "university_slug": "xmum",
+  "level": "postgraduate",
+  "program_name": "Master in Chemical Engineering (Research Mode)",
+  "program_slug": "master-chemical-engineering-research",
+  "field": "Engineering",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "local": null,
+    "international": null,
+    "local_total": 30100,
+    "currency": "MYR",
+    "international_total": 35000
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.xmu.edu.my/postgraduate-programmes",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

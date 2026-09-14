@@ -1,0 +1,56 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "bachelor",
+  "program_name": "Bachelor of Software Engineering (Honours)",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Oct",
+    "Feb"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 53280,
+    "international_total": 62880,
+    "per_year_local": "RM48,101 per year",
+    "per_year_international": "RM54,915 per year",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/undergraduate/engineering/bachelor-of-software-engineering-honours",
+    "https://www.studymalaysia.com/what/course/MONASH/0056485/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

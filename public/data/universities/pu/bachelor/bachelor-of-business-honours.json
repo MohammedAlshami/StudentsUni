@@ -1,0 +1,22 @@
+{
+  "university_slug": "pu",
+  "level": "bachelor",
+  "program_name": "Bachelor of Business (Honours)",
+  "program_slug": "bachelor-of-business-honours",
+  "field": "Business",
+  "duration": "3-5 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://perdanauniversity.edu.my/explore-all-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

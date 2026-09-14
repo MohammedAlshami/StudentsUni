@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Malaysia Terengganu",
+  "university_slug": "umt",
+  "level": "phd",
+  "program_name": "Doctor of Philosophy (Humanities)",
+  "program_name_malay": "Doktor Falsafah (Kemanusiaan)",
+  "program_slug": "phd-humanities",
+  "field": "Humanities",
+  "faculty": "Faculty of Business, Economics and Social Development",
+  "duration": null,
+  "mode": "full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 37500,
+    "international_total": 112500,
+    "per_year_local": 12500,
+    "per_year_international": 37500,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

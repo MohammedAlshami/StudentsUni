@@ -1,0 +1,109 @@
+{
+  "slug": "best-cities-in-malaysia-for-university-students",
+  "title": "Best Cities in Malaysia for University Students",
+  "category": "Student Life",
+  "tags": [
+    "student cities",
+    "Kuala Lumpur",
+    "Penang"
+  ],
+  "coverImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+  "author": "Marcus T., Education Counsellor",
+  "date": "2026-03-04",
+  "readTimeMin": 4,
+  "excerpt": "Where you study shapes your whole experience: cost, career access, culture, and how far your ringgit actually stretches.",
+  "intro": [
+    "Malaysia's university options are spread across genuinely different kinds of cities, and the right one for you depends heavily on what you are optimising for: career opportunities, cost of living, culture, or simply a quieter pace of life while you study."
+  ],
+  "sections": [
+    {
+      "heading": "City comparison at a glance",
+      "paragraphs": [],
+      "table": {
+        "headers": [
+          "City",
+          "Relative Cost of Living",
+          "Strongest For",
+          "Notable Universities Nearby"
+        ],
+        "rows": [
+          [
+            "Kuala Lumpur / Klang Valley",
+            "Highest",
+            "Internships, networking, largest job market",
+            "UM, most major private universities"
+          ],
+          [
+            "Penang",
+            "Medium",
+            "Engineering and tech, food, walkable heritage core",
+            "USM, several private colleges"
+          ],
+          [
+            "Johor Bahru",
+            "Medium to low",
+            "Proximity to Singapore, cross-border opportunities",
+            "UTM (Skudai), several private institutions"
+          ],
+          [
+            "Smaller towns (Nilai, Kangar, Bangi, Skudai)",
+            "Lowest",
+            "Savings, quieter focused study environment",
+            "UniMAP, various campuses"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Kuala Lumpur and the Klang Valley",
+      "paragraphs": [
+        "The obvious choice for internships, professional networking, and access to the largest concentration of private universities and multinational employers in the country. It is also the most expensive place to live in Malaysia, and traffic is a genuine quality-of-life factor depending on exactly where you are based relative to campus."
+      ]
+    },
+    {
+      "heading": "Penang",
+      "paragraphs": [
+        "A strong hub for engineering and technology, thanks to its established electronics manufacturing industry, with a lower cost of living than KL, excellent and famously affordable food, and a genuinely walkable historic core in George Town. USM's main campus is here, along with several respected private colleges."
+      ]
+    },
+    {
+      "heading": "Johor Bahru",
+      "paragraphs": [
+        "Proximity to Singapore is the standout feature here. Cross-border internships and job opportunities are realistic and commonly pursued, and living costs are noticeably lower than KL while still offering solid transport connectivity and a growing local economy."
+      ]
+    },
+    {
+      "heading": "Smaller university towns",
+      "paragraphs": [
+        "Places like Skudai, Kangar, Nilai, and Bangi trade big-city energy for significantly lower rent and a quieter, more focused study environment. This is often the better choice for students prioritising savings and fewer distractions over networking access, particularly in the earlier years of a degree."
+      ]
+    },
+    {
+      "heading": "Mistakes to avoid when choosing a student city",
+      "paragraphs": [
+        "Choosing a city based on a short visit or secondhand opinions alone often leads to a mismatch that only becomes clear after moving."
+      ],
+      "list": [
+        "Judging a city's cost of living from a single short holiday visit rather than researching typical student costs.",
+        "Ignoring commute time between planned housing and the actual campus location.",
+        "Assuming every part of a large city like Kuala Lumpur has the same cost of living.",
+        "Choosing a city mainly for nightlife without weighing career and internship access.",
+        "Not accounting for how far a smaller town is from the nearest airport for holiday travel."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Kuala Lumpur too expensive for an international student on a tight budget?",
+      "answer": "It is the most expensive option, but far from impossible on a tight budget, particularly if you live in an outer suburb with LRT or MRT access rather than the very central districts, and cook most of your own meals."
+    },
+    {
+      "question": "Which city is best for finding part-time or post-graduation work?",
+      "answer": "Kuala Lumpur and the wider Klang Valley offer by far the largest concentration of employers across nearly every industry, making it the strongest choice for students prioritising career networking and job access above all else."
+    },
+    {
+      "question": "Are smaller university towns safe and comfortable for international students?",
+      "answer": "Generally yes. Smaller towns often have lower crime rates than big cities and a close-knit local student community, though options for entertainment, dining variety, and part-time work tend to be more limited than in a major city."
+    }
+  ]
+}

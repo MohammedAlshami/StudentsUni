@@ -1,0 +1,295 @@
+{
+  "university": "Universiti Teknologi MARA",
+  "university_slug": "uitm",
+  "level": "diploma",
+  "programs": [
+    {
+      "slug": "diploma-in-sports-studies",
+      "name": "Diploma in Sports Studies"
+    },
+    {
+      "slug": "diploma-in-theater",
+      "name": "Diploma in Theater"
+    },
+    {
+      "slug": "diploma-in-environmental-health",
+      "name": "Diploma in Environmental Health"
+    },
+    {
+      "slug": "diploma-in-tourism-management",
+      "name": "Diploma in Tourism Management"
+    },
+    {
+      "slug": "diploma-in-pharmacy",
+      "name": "Diploma in Pharmacy"
+    },
+    {
+      "slug": "diploma-in-culinary-arts",
+      "name": "Diploma in Culinary Arts"
+    },
+    {
+      "slug": "diploma-in-medical-imaging",
+      "name": "Diploma in Medical Imaging"
+    },
+    {
+      "slug": "diploma-in-medical-laboratory-technology",
+      "name": "Diploma in Medical Laboratory Technology"
+    },
+    {
+      "slug": "diploma-in-physiotherapy",
+      "name": "Diploma in Physiotherapy"
+    },
+    {
+      "slug": "diploma-in-hotel-management",
+      "name": "Diploma in Hotel Management"
+    },
+    {
+      "slug": "diploma-in-food-service-management",
+      "name": "Diploma in Food Service Management"
+    },
+    {
+      "slug": "diploma-in-building-surveying",
+      "name": "Diploma in Building Surveying"
+    },
+    {
+      "slug": "diploma-in-civil-engineering",
+      "name": "Diploma in Civil Engineering"
+    },
+    {
+      "slug": "diploma-in-actuarial-science",
+      "name": "Diploma in Actuarial Science"
+    },
+    {
+      "slug": "diploma-in-quantity-surveying",
+      "name": "Diploma in Quantity Surveying"
+    },
+    {
+      "slug": "diploma-in-microbiology",
+      "name": "Diploma in Microbiology"
+    },
+    {
+      "slug": "diploma-in-public-administration",
+      "name": "Diploma in Public Administration"
+    },
+    {
+      "slug": "diploma-in-mechanical-engineering",
+      "name": "Diploma in Mechanical Engineering"
+    },
+    {
+      "slug": "diploma-in-science",
+      "name": "Diploma in Science"
+    },
+    {
+      "slug": "diploma-in-wood-industry",
+      "name": "Diploma in Wood Industry"
+    },
+    {
+      "slug": "diploma-in-polymer-technology",
+      "name": "Diploma in Polymer Technology"
+    },
+    {
+      "slug": "diploma-in-office-management-technology",
+      "name": "Diploma in Office Management & Technology"
+    },
+    {
+      "slug": "diploma-in-accounting-information-system",
+      "name": "Diploma in Accounting Information System"
+    },
+    {
+      "slug": "diploma-in-information-management",
+      "name": "Diploma in Information Management"
+    },
+    {
+      "slug": "diploma-in-communication-media",
+      "name": "Diploma in Communication & Media"
+    },
+    {
+      "slug": "diploma-in-accountancy",
+      "name": "Diploma in Accountancy"
+    },
+    {
+      "slug": "diploma-in-industrial-chemistry",
+      "name": "Diploma in Industrial Chemistry"
+    },
+    {
+      "slug": "diploma-in-electrical-engineering-power",
+      "name": "Diploma in Electrical Engineering (Power)"
+    },
+    {
+      "slug": "diploma-in-geomatical-science",
+      "name": "Diploma in Geomatical Science"
+    },
+    {
+      "slug": "diploma-in-computer-science",
+      "name": "Diploma in Computer Science"
+    },
+    {
+      "slug": "diploma-in-statistics",
+      "name": "Diploma in Statistics"
+    },
+    {
+      "slug": "diploma-in-planting-industry-management",
+      "name": "Diploma in Planting Industry Management"
+    },
+    {
+      "slug": "diploma-in-art-design",
+      "name": "Diploma in Art & Design"
+    },
+    {
+      "slug": "diploma-in-landscape-architecture",
+      "name": "Diploma in Landscape Architecture"
+    },
+    {
+      "slug": "diploma-in-chemical-engineering",
+      "name": "Diploma in Chemical Engineering"
+    },
+    {
+      "slug": "diploma-in-business-studies",
+      "name": "Diploma in Business Studies"
+    },
+    {
+      "slug": "diploma-in-business-studies-insurance",
+      "name": "Diploma in Business Studies (Insurance)"
+    },
+    {
+      "slug": "diploma-in-interior-design",
+      "name": "Diploma in Interior Design"
+    },
+    {
+      "slug": "diploma-in-corporate-administration",
+      "name": "Diploma in Corporate Administration"
+    },
+    {
+      "slug": "diploma-in-halal-management",
+      "name": "Diploma in Halal Management"
+    },
+    {
+      "slug": "diploma-in-muamalat",
+      "name": "Diploma in Muamalat"
+    },
+    {
+      "slug": "diploma-in-electrical-engineering-electronic",
+      "name": "Diploma in Electrical Engineering (Electronic)"
+    },
+    {
+      "slug": "diploma-in-film",
+      "name": "Diploma in Film"
+    },
+    {
+      "slug": "diploma-in-scriptwriting",
+      "name": "Diploma in Scriptwriting"
+    },
+    {
+      "slug": "diploma-in-investment-analysis",
+      "name": "Diploma in Investment Analysis"
+    },
+    {
+      "slug": "diploma-in-nursing",
+      "name": "Diploma in Nursing"
+    },
+    {
+      "slug": "diploma-in-food-technology",
+      "name": "Diploma in Food Technology"
+    },
+    {
+      "slug": "diploma-in-business-studies-transportation",
+      "name": "Diploma in Business Studies (Transportation)"
+    },
+    {
+      "slug": "diploma-in-music-art",
+      "name": "Diploma in Music Art"
+    },
+    {
+      "slug": "diploma-in-occupational-therapy",
+      "name": "Diploma in Occupational Therapy"
+    },
+    {
+      "slug": "diploma-in-sports-and-recreational-management",
+      "name": "Diploma in Sports and Recreational Management"
+    },
+    {
+      "slug": "diploma-in-textile-technology",
+      "name": "Diploma in Textile Technology"
+    },
+    {
+      "slug": "diploma-in-science-mathematics",
+      "name": "Diploma in Science (Mathematics)"
+    },
+    {
+      "slug": "diploma-in-pastry-arts",
+      "name": "Diploma in Pastry Arts"
+    },
+    {
+      "slug": "diploma-in-animation",
+      "name": "Diploma in Animation"
+    },
+    {
+      "slug": "diploma-in-banking-studies",
+      "name": "Diploma in Banking Studies"
+    },
+    {
+      "slug": "diploma-in-urban-regional-planning",
+      "name": "Diploma in Urban & Regional Planning"
+    },
+    {
+      "slug": "diploma-in-aquaculture",
+      "name": "Diploma in Aquaculture"
+    },
+    {
+      "slug": "diploma-in-herbal-production",
+      "name": "Diploma in Herbal Production"
+    },
+    {
+      "slug": "diploma-in-english-language-for-professional-communication",
+      "name": "Diploma in English Language for Professional Communication"
+    },
+    {
+      "slug": "diploma-in-arts-management",
+      "name": "Diploma in Arts Management"
+    },
+    {
+      "slug": "diploma-in-digital-audio-production",
+      "name": "Diploma in Digital Audio Production"
+    },
+    {
+      "slug": "diploma-in-real-estate-management",
+      "name": "Diploma in Real Estate Management"
+    },
+    {
+      "slug": "diploma-in-library-informatics",
+      "name": "Diploma in Library Informatics"
+    },
+    {
+      "slug": "diploma-in-dental-surgery-assistant",
+      "name": "Diploma in Dental Surgery Assistant"
+    },
+    {
+      "slug": "diploma-in-technology-geospatial",
+      "name": "Diploma in Technology Geospatial"
+    },
+    {
+      "slug": "diploma-in-agropreneurship",
+      "name": "Diploma in Agropreneurship"
+    },
+    {
+      "slug": "diploma-in-early-childhood-education",
+      "name": "Diploma in Early Childhood Education"
+    },
+    {
+      "slug": "diploma-in-islamic-education",
+      "name": "Diploma in Islamic Education"
+    },
+    {
+      "slug": "diploma-in-dance-performance",
+      "name": "Diploma in Dance Performance"
+    },
+    {
+      "slug": "diploma-in-digital-media-communication-technology",
+      "name": "Diploma in Digital Media Communication Technology"
+    }
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/uitm/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

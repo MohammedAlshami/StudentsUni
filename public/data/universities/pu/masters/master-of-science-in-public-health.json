@@ -1,0 +1,32 @@
+{
+  "university_slug": "pu",
+  "level": "masters",
+  "program_name": "Master of Science in Public Health",
+  "program_slug": "master-of-science-in-public-health",
+  "field": "Medicine and Health",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 25000,
+    "international_total": 30000,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://perdanauniversity.edu.my/explore-all-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

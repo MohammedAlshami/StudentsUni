@@ -1,0 +1,17 @@
+{
+  "university": "University College Sabah Foundation",
+  "university_slug": "ucsf",
+  "level": "diploma",
+  "program_name": "Diploma in Media Studies",
+  "program_slug": "diploma-in-media-studies",
+  "field": "Media & Communication",
+  "duration": "2.5 years",
+  "mode": "Full Time",
+  "intakes": ["January", "May", "September"],
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": ["https://www.ucsf.edu.my/diploma"],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

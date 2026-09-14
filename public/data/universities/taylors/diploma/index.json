@@ -1,0 +1,59 @@
+[
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "diploma",
+    "program_name": "Diploma in Hotel Management",
+    "field": "Hospitality",
+    "slug": "diploma-in-hotel-management",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/diploma-in-hotel-management.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "diploma",
+    "program_name": "Diploma in Culinary Arts",
+    "field": "Culinary Arts",
+    "slug": "diploma-in-culinary-arts",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/diploma-in-culinary-arts.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Taylor's University",
+    "university_slug": "taylors",
+    "level": "diploma",
+    "program_name": "Advanced Diploma in Patisserie and Gastronomic Cuisine",
+    "field": "Culinary Arts",
+    "slug": "advanced-diploma-in-patisserie-and-gastronomic-cuisine",
+    "duration": null,
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/advanced-diploma-in-patisserie-and-gastronomic-cuisine.html"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  }
+]

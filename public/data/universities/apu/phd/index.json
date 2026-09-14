@@ -1,0 +1,135 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "phd",
+  "level_label": "Postgraduate DBA & PhD Studies",
+  "program_count": 6,
+  "programs": [
+    {
+      "program_name": "Doctor of Philosophy in Computing",
+      "program_slug": "phd-computing",
+      "field": "Computing & Technology",
+      "duration": null,
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/phd-in-computing"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "PhD in Technology",
+      "program_slug": "phd-technology",
+      "field": "Computing & Technology",
+      "duration": null,
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/phd-in-technology"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "PhD in Management",
+      "program_slug": "phd-management",
+      "field": "Business & Management",
+      "duration": null,
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/phd-in-management"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "PhD in Finance",
+      "program_slug": "phd-finance",
+      "field": "Accounting & Finance",
+      "duration": null,
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/phd-in-finance"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Doctor of Philosophy in Engineering",
+      "program_slug": "phd-engineering",
+      "field": "Engineering",
+      "duration": null,
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/phd-in-philosophy-engineering"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Doctor of Business Administration (DBA)",
+      "program_slug": "dba",
+      "field": "Business & Management",
+      "duration": null,
+      "mode": "Full-time / Part-time",
+      "intakes": null,
+      "fees": {
+        "local": null,
+        "international": null
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/phd-in-DBA"
+      ],
+      "confidence": 0.7,
+      "last_updated": "2026-09-14"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 26800.0,
+    "international_total": 28400.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: RM26,800.00"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/apu/courses/"
+  ],
+  "last_updated": "2026-09-15"
+}

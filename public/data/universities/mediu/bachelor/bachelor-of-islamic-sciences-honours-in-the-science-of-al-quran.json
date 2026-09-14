@@ -1,0 +1,22 @@
+{
+  "university_slug": "mediu",
+  "level": "bachelor",
+  "program_name": "Bachelor of Islamic Sciences (Honours) in the Science of Al-Quran",
+  "program_slug": "bachelor-of-islamic-sciences-honours-in-the-science-of-al-quran",
+  "field": "Islamic Sciences",
+  "duration": "3-4 Years",
+  "mode": "Full-time, Online",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mediu.edu.my/list-of-fully-accredited-programs-by-mqa/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

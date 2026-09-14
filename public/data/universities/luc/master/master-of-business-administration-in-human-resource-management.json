@@ -1,0 +1,35 @@
+{
+  "university": "Lincoln University College",
+  "university_slug": "luc",
+  "level": "master",
+  "program_name": "Master of Business Administration in Human Resource Management",
+  "field": "Business & Management",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jun",
+    "Jan"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 13250,
+    "international_total": 10145,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.lincoln.edu.my/school-of-business-management/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

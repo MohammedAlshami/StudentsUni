@@ -1,0 +1,18 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "doctoral",
+  "level_name": "Doctoral Degree (Ph.D) Level",
+  "total_programs": 7,
+  "programs": [
+    {"program_name": "Doctor of Philosophy (Business and Management)", "slug": "doctor-of-philosophy-business-and-management"},
+    {"program_name": "Doctor of Business Administration (DBA)", "slug": "doctor-of-business-administration-dba"},
+    {"program_name": "Industrial PhD in Engineering", "slug": "industrial-phd-in-engineering"},
+    {"program_name": "Doctor of Philosophy in Architecture (PhD)", "slug": "doctor-of-philosophy-in-architecture-phd"},
+    {"program_name": "Doctorate of Philosophy (Science)", "slug": "doctorate-of-philosophy-science"},
+    {"program_name": "Doctor of Philosophy (Engineering) (Ph.D.)", "slug": "doctor-of-philosophy-engineering-ph-d"},
+    {"program_name": "Doctor of Philosophy (Pharmaceutical Sciences)", "slug": "doctor-of-philosophy-pharmaceutical-sciences"}
+  ],
+  "sources": ["https://www.studymalaysia.com/edu/ucsi/courses/"],
+  "last_updated": "2026-09-14"
+}

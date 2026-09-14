@@ -1,0 +1,43 @@
+{
+  "university": "Asia Metropolitan University",
+  "university_slug": "amu",
+  "slug": "amu",
+  "name": "Asia Metropolitan University",
+  "abbr": "AMU",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": null,
+  "website": "https://www.amu.edu.my",
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "master",
+    "doctorate",
+    "phd"
+  ],
+  "program_counts": {
+    "foundation": 2,
+    "diploma": 4,
+    "bachelor": 6,
+    "master": 6,
+    "doctorate": 2,
+    "phd": 2
+  },
+  "accreditation": "MQA approved",
+  "faculties": [
+    "Faculty of Business, Management and Accounting",
+    "Faculty of Science & Technology",
+    "Centre for Research and Graduate Studies",
+    "Centre for Foundation, Language & General Studies"
+  ],
+  "sources": [
+    {
+      "url": "https://amu.edu.my/programmes/",
+      "type": "official",
+      "note": "Full programme listing from official website"
+    }
+  ],
+  "last_updated": "2026-09-15",
+  "notes": "22 programs total from official website. 4 ODL programs listed as 'Coming Soon'. Added 4 ODL variants (BBA ODL, BIT ODL, PGCert Teaching ODL, DBA ODL) on 2026-09-15."
+}

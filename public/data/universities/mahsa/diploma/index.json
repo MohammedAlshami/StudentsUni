@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "diploma-in-nursing",
+    "name": "Diploma in Nursing",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "diploma-in-pharmacy",
+    "name": "Diploma in Pharmacy",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "diploma-in-biomedical-science",
+    "name": "Diploma in Biomedical Science",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "diploma-in-medical-laboratory-technology",
+    "name": "Diploma in Medical Laboratory Technology",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "diploma-in-physiotherapy",
+    "name": "Diploma in Physiotherapy",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "diploma-in-environmental-health",
+    "name": "Diploma in Environmental Health",
+    "field": "Medicine and Health"
+  },
+  {
+    "slug": "diploma-in-business-administration",
+    "name": "Diploma in Business Administration",
+    "field": "Business"
+  },
+  {
+    "slug": "diploma-in-computer-science",
+    "name": "Diploma in Computer Science",
+    "field": "Computing"
+  }
+]

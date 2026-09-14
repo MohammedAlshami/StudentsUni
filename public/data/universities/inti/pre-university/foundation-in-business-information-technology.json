@@ -1,0 +1,43 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "pre-university",
+  "program_name": "Foundation in Business Information Technology",
+  "program_slug": "foundation-in-business-information-technology",
+  "field": "Pre-University Programme / University Foundation Studies",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": [
+    "Aug",
+    "Jun",
+    "Jan"
+  ],
+  "fees": {
+    "local": "Refer to website",
+    "international": "Refer to newinti.edu.my",
+    "local_total": 19942,
+    "currency": "MYR",
+    "international_total": 19942
+  },
+  "requirements": null,
+  "accreditation": "Internal Qualification, Malaysia",
+  "awarding_country": "Malaysia",
+  "faculty": "Pre-University",
+  "exam_body": "Internal Qualification, Malaysia",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0006158/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,34 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Diploma",
+  "program_name": "Diploma in Interior Architecture",
+  "field": "Arts & Design",
+  "slug": "diploma-in-interior-architecture",
+  "duration": "2.5 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "28000/Course",
+    "international": "28000/Course",
+    "local_total": 12720,
+    "currency": "MYR",
+    "international_total": 20896
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0056632/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

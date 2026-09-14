@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "bachelor",
+  "program_name": "BA (Hons) Fashion Design with Marketing",
+  "field": "Fashion Design with Marketing",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 83,045",
+    "international": "RM 96,510",
+    "currency": "MYR",
+    "local_total": 83045,
+    "international_total": 96510,
+    "per_year_local": 83045,
+    "per_year_international": 96510,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0005602/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

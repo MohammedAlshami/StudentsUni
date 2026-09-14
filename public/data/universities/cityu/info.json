@@ -1,0 +1,47 @@
+{
+  "slug": "cityu",
+  "name": "City University Malaysia",
+  "abbr": "CityU",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": "Petaling Jaya",
+  "website": "https://www.city.edu.my",
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "undergraduate",
+    "postgraduate"
+  ],
+  "program_counts": {
+    "foundation": 9,
+    "diploma": 20,
+    "undergraduate": 24,
+    "postgraduate": 21
+  },
+  "faculties": [
+    "Faculty of Nursing",
+    "Faculty of Allied Health Sciences",
+    "Faculty of Architecture & Built Environment",
+    "Faculty of Business & Management",
+    "Faculty of Creative Industries",
+    "Faculty of Education & Liberal Studies",
+    "Faculty of Engineering",
+    "Faculty of Hospitality & Tourism",
+    "Faculty of Information Technology"
+  ],
+  "schools": [
+    "City Fashion School",
+    "City Animation & Game Design School"
+  ],
+  "campuses": [
+    "Petaling Jaya",
+    "Cyberjaya",
+    "Johor Bahru",
+    "Kota Kinabalu"
+  ],
+  "established": 1984,
+  "sources": [
+    "https://www.city.edu.my"
+  ],
+  "last_updated": "2026-09-14"
+}

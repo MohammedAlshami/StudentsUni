@@ -1,0 +1,26 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "pre-university",
+  "program_name": "South Australian Matriculation (SAM) [Humanities]",
+  "program_slug": "south-australian-matriculation-sam-humanities",
+  "field": "Pre-University Programme / University Foundation Studies",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to website",
+    "international": "Refer to newinti.edu.my"
+  },
+  "requirements": null,
+  "accreditation": "SACE International",
+  "awarding_country": "Malaysia",
+  "faculty": "Pre-University",
+  "exam_body": "SACE International",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0006330/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

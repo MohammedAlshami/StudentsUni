@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Chemical Engineering Technology (Hons) (Biotechnology)",
+  "program_slug": "bachelor-of-chemical-engineering-technology-biotechnology",
+  "field": "Engineering & Engineering Trades",
+  "faculty": "Engineering Technology",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "700/Sem",
+    "international": "USD7635/Course",
+    "currency": "MYR",
+    "local_total": 7600,
+    "per_year_local": 1900,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 22800,
+    "per_year_international": 5700
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0053961/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,41 @@
+{
+  "university": "Universiti Kebangsaan Malaysia",
+  "university_slug": "ukm",
+  "level": "postgraduate",
+  "program_name": "Master of Public Health",
+  "field": "Medicine",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 20000,
+    "international_total": 60000,
+    "per_year_local": 5000,
+    "per_year_international": 15000,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.ukm.my/portal/postgraduate-programme/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14"
+}

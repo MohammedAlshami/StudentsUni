@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "diploma",
+  "program_name": "Diploma in 3D Animation Design",
+  "field": "3D Animation Design",
+  "duration": "2 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 52,060",
+    "international": "RM 64,590",
+    "currency": "MYR",
+    "local_total": 52060,
+    "international_total": 64590,
+    "per_year_local": 52060,
+    "per_year_international": 64590,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0007771/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

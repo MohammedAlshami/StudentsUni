@@ -1,0 +1,51 @@
+{
+  "university": "INCEIF University",
+  "university_slug": "inceif",
+  "level": "phd",
+  "program_name": "PhD in Islamic Finance",
+  "program_slug": "phd-in-islamic-finance",
+  "field": "islamic-finance",
+  "duration": "8 semesters / 4 years",
+  "mode": "Face-To-Face",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": "By semester",
+    "per_year_international": "By semester",
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "MQA approved",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://web.archive.org/web/20230105073752/https://inceif.edu.my/academic-programmes/",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://eduswasta.my/university/inceif-university/",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-15"
+}

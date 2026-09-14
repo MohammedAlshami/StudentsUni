@@ -1,0 +1,37 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "bachelor",
+  "program_name": "UK Degree Transfer Programme (Law)",
+  "program_slug": "uk-degree-transfer-programme-law",
+  "field": "Law",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "RM65,800.00",
+    "international": null,
+    "local_total": 31925,
+    "currency": "MYR",
+    "international_total": 34925
+  },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0058745/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,17 @@
+{
+  "university": "University of Wollongong Malaysia",
+  "university_slug": "uowm",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Information Systems (Honours)",
+  "program_slug": "bachelor-information-systems-hons",
+  "field": "Computing & IT",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": ["https://www.uow.edu.my/programmes"],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

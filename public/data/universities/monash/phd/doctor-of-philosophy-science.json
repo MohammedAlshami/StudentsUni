@@ -1,0 +1,44 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "phd",
+  "program_name": "Doctor of Philosophy (Science)",
+  "field": "Science",
+  "duration": "3-4 years (FT) / 6-8 years (PT)",
+  "mode": "Full-time / Part-time",
+  "intakes": [
+    "February",
+    "July"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 126999,
+    "international_total": 139668,
+    "per_year_local": "RM42,333 per year",
+    "per_year_international": "RM46,556 per year",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "master_degree": null,
+      "cgpa": null,
+      "research_proposal": null
+    },
+    "international": {
+      "master_degree": null,
+      "cgpa": null,
+      "research_proposal": null,
+      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/postgraduate-and-research/science",
+    "https://www.studymalaysia.com/what/course/MONASH/0054370/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

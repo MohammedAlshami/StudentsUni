@@ -1,0 +1,38 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Masters Degree",
+  "program_name": "Master of Science in Occupational Safety and Health Management",
+  "field": "Science",
+  "slug": "master-of-science-in-occupational-safety-and-health-management",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 22350,
+    "currency": "MYR",
+    "international_total": 23400
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0055137/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

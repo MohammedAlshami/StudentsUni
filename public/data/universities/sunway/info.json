@@ -1,0 +1,28 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "abbreviation": "Sunway",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": "Petaling Jaya",
+  "address": "No. 5, Jalan Universiti, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia",
+  "website": "https://www.sunway.edu.my",
+  "phone": "+603-7491 8622",
+  "email": "info@sunway.edu.my",
+  "founded": 1987,
+  "accreditation": "Malaysian Qualifications Agency (MQA)",
+  "total_programs": 67,
+  "levels": [
+    "certificate",
+    "diploma",
+    "bachelors",
+    "masters",
+    "postgraduate-diploma",
+    "doctorate"
+  ],
+  "sources": [
+    "https://www.sunway.edu.my",
+    "https://www.studymalaysia.com/edu/sunway/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,42 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "bachelors",
+  "program_name": "Bachelor (Honours) in Finance",
+  "program_slug": "bachelor-honours-in-finance",
+  "field": "Accounting & Finance",
+  "faculty": null,
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Oct"
+  ],
+  "fees": {
+    "local": "From RM89,430",
+    "international": "International Administrative Fee RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 22365,
+    "per_year_local": null,
+    "notes": "Fee: FromRM89,430.00",
+    "international_total": 24615
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0057908/",
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

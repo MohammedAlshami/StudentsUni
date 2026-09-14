@@ -1,0 +1,22 @@
+{
+  "programs": [
+    {
+      "slug": "diploma-in-islamic-studies",
+      "program_name": "Diploma in Islamic Studies"
+    },
+    {
+      "slug": "graduate-diploma-in-accounting",
+      "program_name": "Graduate Diploma in Accounting"
+    },
+    {
+      "slug": "graduate-diploma-in-business-management",
+      "program_name": "Graduate Diploma in Business Management"
+    },
+    {
+      "slug": "graduate-diploma-in-early-childhood-education",
+      "program_name": "Graduate Diploma in Early Childhood Education"
+    }
+  ],
+  "total": 4,
+  "last_updated": "2026-09-14"
+}

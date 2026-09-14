@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Commerce (Accounting & Finance)",
+  "field": "Accounting & Finance",
+  "slug": "bachelor-of-commerce-accounting-finance",
+  "duration": "3 Years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "RM93,360",
+    "international": "RM118,320",
+    "currency": "MYR",
+    "local_total": 93360,
+    "international_total": 118320,
+    "per_year_local": 31120,
+    "per_year_international": 39440,
+    "notes": "Annual fee (B.Com Accounting & Finance maps to B.Business Accounting and Finance); total = annual x 3 years"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0008847/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

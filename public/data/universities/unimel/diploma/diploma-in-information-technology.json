@@ -1,0 +1,22 @@
+{
+  "university_slug": "unimel",
+  "level": "diploma",
+  "program_name": "Diploma in Information Technology",
+  "program_slug": "diploma-in-information-technology",
+  "field": "Computing",
+  "duration": "2.5-3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://unimel.edu.my/programme-list/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

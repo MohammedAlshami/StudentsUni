@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "pre-university",
+  "program_name": "Foundation in Computing (ODL)",
+  "program_slug": "foundation-computing-odl",
+  "field": "Computing & Technology",
+  "duration": "1 year",
+  "mode": "Open and Distance Learning",
+  "intakes": null,
+  "fees": {
+    "local": "RM21,200.00",
+    "international": "RM21,200.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/foundation-programme-odl",
+    "https://www.studymalaysia.com/what/course/APU/0058238/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

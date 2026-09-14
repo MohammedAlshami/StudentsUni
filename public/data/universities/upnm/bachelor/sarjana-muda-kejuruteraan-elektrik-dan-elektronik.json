@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Pertahanan Nasional Malaysia",
+  "university_slug": "upnm",
+  "level": "bachelor",
+  "program_name": "Sarjana Muda Kejuruteraan Elektrik dan Elektronik dengan Kepujian",
+  "program_slug": "sarjana-muda-kejuruteraan-elektrik-dan-elektronik",
+  "field": "Engineering & Engineering Trades",
+  "duration": "8 semesters",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7600,
+    "international_total": 22800,
+    "per_year_local": 1900,
+    "per_year_international": 5700,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": "SPM+STPM/Matriculation+MUET",
+  "accreditation": "MQA",
+  "faculty": "Fakulti Kejuruteraan",
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pra-siswazah",
+    "https://www.studymalaysia.com/what/course/UPNM/0056964/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

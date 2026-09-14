@@ -1,0 +1,21 @@
+{
+  "university": "Wawasan Open University",
+  "slug": "wou",
+  "abbreviation": "WOU",
+  "type": "private-university",
+  "state": "Penang",
+  "website": "http://www.wou.edu.my/",
+  "studymalaysia_url": "https://www.studymalaysia.com/edu/wou/courses/",
+  "levels": [
+    "certificate",
+    "diploma",
+    "advanced-diploma",
+    "bachelors",
+    "masters"
+  ],
+  "total_programs": 26,
+  "sources": [
+    "https://www.studymalaysia.com/edu/wou/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

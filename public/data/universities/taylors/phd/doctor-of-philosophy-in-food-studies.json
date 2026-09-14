@@ -1,0 +1,40 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "phd",
+  "program_name": "Doctor of Philosophy (PhD) In Food Studies",
+  "slug": "doctor-of-philosophy-in-food-studies",
+  "program_slug": "doctor-of-philosophy-in-food-studies",
+  "field": "Culinary Arts",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Oct",
+    "Jun",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 16350,
+    "international_total": 22982,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/phd-research/doctor-of-philosophy-in-food-studies.html",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

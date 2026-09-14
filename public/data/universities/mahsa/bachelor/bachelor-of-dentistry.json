@@ -1,0 +1,44 @@
+{
+  "university": "MAHSA University",
+  "university_slug": "mahsa",
+  "level": "bachelor",
+  "program_name": "Bachelor of Dental Surgery",
+  "field": "Medicine and Health",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Nov",
+    "Oct",
+    "Jan",
+    "May",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 13834,
+    "international_total": 16567,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.mahsa.edu.my",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/MAHSA_University",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

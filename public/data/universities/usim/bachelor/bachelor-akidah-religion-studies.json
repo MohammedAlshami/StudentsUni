@@ -1,0 +1,42 @@
+{
+  "university": "Universiti Sains Islam Malaysia",
+  "university_slug": "usim",
+  "level": "bachelor",
+  "level_name": "Bachelor's Degree",
+  "program_name": "Bachelor of Akidah and Religion Studies (Hons)",
+  "slug": "bachelor-akidah-religion-studies",
+  "field": "Islamic Studies",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 483/semester",
+    "international": null,
+    "notes": "Standard public university fees (MQA regulated)",
+    "currency": "MYR",
+    "local_total": 6400,
+    "international_total": 19200,
+    "per_year_local": 1600,
+    "per_year_international": 4800
+  },
+  "requirements": {
+    "general": "SPM with credits in Bahasa Melayu and Sejarah; STPM/Matriculation/Diploma with CGPA 2.00",
+    "specific": null,
+    "muet": "Band 1"
+  },
+  "accreditation": {
+    "mqa_program_code": null,
+    "board": "Internal Degree, Malaysia",
+    "body": "Malaysian Qualifications Agency (MQA)"
+  },
+  "faculties": [
+    "Faculty of Quranic and Sunnah Studies"
+  ],
+  "career_prospects": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/USIM/0001288/",
+    "https://admission.usim.edu.my/undergraduate-studies/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

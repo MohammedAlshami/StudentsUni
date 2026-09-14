@@ -1,0 +1,21 @@
+{
+  "university": "GMI-University College of Applied Sciences",
+  "university_slug": "gmi-ucas",
+  "level": "diploma",
+  "program_name": "Diploma of Electronics Engineering Technology (Computer)",
+  "field": "Electrical Engineering",
+  "duration": "6 Semester / 3 Years",
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": "RM 33,324",
+  "requirements": null,
+  "accreditation": "R3/0741/4/0013 (07/30) (MQA/FA 14613) - Accredited",
+  "sources": [
+    {
+      "url": "https://www.gmi.edu.my/electrical-engineering/electric-information-technology/",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

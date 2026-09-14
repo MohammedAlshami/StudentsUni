@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Pertahanan Nasional Malaysia",
+  "university_slug": "upnm",
+  "level": "bachelor",
+  "program_name": "Sarjana Muda Sains Sosial (Bahasa dan Komunikasi Silang Budaya) dengan Kepujian",
+  "program_slug": "sarjana-muda-sains-sosial-bahasa-dan-komunikasi-silang-budaya",
+  "field": "Languages (National language & other languages)",
+  "duration": "6 semesters",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 3300,
+    "international_total": 9900,
+    "per_year_local": 1100,
+    "per_year_international": 3300,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": "SPM+STPM/Matriculation+MUET",
+  "accreditation": "MQA",
+  "faculty": "Pusat Bahasa",
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pra-siswazah",
+    "https://www.studymalaysia.com/what/course/UPNM/0055034/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

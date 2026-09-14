@@ -1,0 +1,21 @@
+{
+  "university": "University of Selangor",
+  "slug": "unisel",
+  "abbreviation": "UNISEL",
+  "type": "private-university",
+  "state": "Selangor",
+  "website": "http://www.unisel.edu.my/",
+  "studymalaysia_url": "https://www.studymalaysia.com/edu/unisel/courses/",
+  "levels": [
+    "pre-university",
+    "diploma",
+    "bachelors",
+    "masters",
+    "phd"
+  ],
+  "total_programs": 27,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unisel/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

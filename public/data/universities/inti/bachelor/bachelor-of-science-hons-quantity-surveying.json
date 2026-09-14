@@ -1,0 +1,42 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "bachelor",
+  "program_name": "Bachelor of Science (Hons) Quantity Surveying",
+  "program_slug": "bachelor-of-science-hons-quantity-surveying",
+  "field": "Engineering & Engineering Trades",
+  "duration": "3.5 years",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": [
+    "Aug",
+    "Jun",
+    "Jan"
+  ],
+  "fees": {
+    "local": "Refer to newinti.edu.my",
+    "international": "Refer to newinti.edu.my",
+    "local_total": 22848,
+    "currency": "MYR",
+    "international_total": 22848
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "faculty": "Engineering, Technology & Quantity Surveying",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0053470/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

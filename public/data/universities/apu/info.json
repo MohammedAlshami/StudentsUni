@@ -1,0 +1,37 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "abbreviation": "APU",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "country": "Malaysia",
+  "website": "https://www.apu.edu.my",
+  "established": null,
+  "accreditation": "MQA, ISO 9001:2015, QAA UK",
+  "ranking": {
+    "qs_world_2027": "Top 2%",
+    "qs_international_students": "No. 20 Worldwide",
+    "applied_he": "No. 2"
+  },
+  "study_areas": [
+    "Computing & Technology",
+    "Engineering",
+    "Business & Management",
+    "Accounting & Finance",
+    "Banking & Finance",
+    "Design & Creative Media",
+    "Digital Marketing & Media",
+    "Actuarial Studies",
+    "Hospitality & Tourism",
+    "International Relations",
+    "Games Development",
+    "Psychology",
+    "Education",
+    "Architecture"
+  ],
+  "sources": [
+    "https://www.apu.edu.my",
+    "https://www.studymalaysia.com/edu/apu/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

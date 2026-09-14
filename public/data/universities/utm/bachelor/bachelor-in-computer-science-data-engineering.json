@@ -1,0 +1,45 @@
+{
+  "university": "Universiti Teknologi Malaysia",
+  "university_slug": "utm",
+  "level": "bachelor",
+  "program_name": "Bachelor in Computer Science (Data Engineering) with Honours",
+  "field": "Computing & IT",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 6400,
+    "international_total": 19200,
+    "per_year_local": 1600,
+    "per_year_international": 4800,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": "MQA/SWA0648"
+  },
+  "sources": [
+    "https://admission.utm.my/offered-allcourses-malaysian/",
+    "https://comp.utm.my/undergraduate/",
+    "https://www.studymalaysia.com/edu/utm/courses/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

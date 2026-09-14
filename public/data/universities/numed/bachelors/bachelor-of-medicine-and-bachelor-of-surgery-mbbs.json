@@ -1,0 +1,63 @@
+{
+  "university": "Newcastle University Medicine Malaysia",
+  "university_slug": "numed",
+  "level": "bachelors",
+  "program_name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+  "program_slug": "bachelor-of-medicine-and-bachelor-of-surgery-mbbs",
+  "field": "Medicine & Healthcare",
+  "duration": "5 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 100600,
+    "international_total": 139920,
+    "per_year_local": 95000.0,
+    "per_year_international": 105000.0,
+    "notes": "RM95,000/Yr local, RM105,000/Yr international, for each of the five years of the programme"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://studymalaysia.com/what/course/NUMED/0055618/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/numed/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

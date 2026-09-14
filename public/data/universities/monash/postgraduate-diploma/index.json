@@ -1,0 +1,19 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "postgraduate-diploma",
+  "level_label": "Postgraduate Diploma",
+  "program_count": 2,
+  "programs": [
+    {
+      "slug": "postgraduate-diploma-in-business-and-commerce",
+      "name": "Postgraduate Diploma in Business and Commerce",
+      "field": "Business"
+    },
+    {
+      "slug": "postgraduate-diploma-in-biomedical-science",
+      "name": "Postgraduate Diploma in Biomedical Science",
+      "field": "Medicine & Health Sciences"
+    }
+  ]
+}

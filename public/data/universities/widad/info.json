@@ -1,0 +1,26 @@
+{
+  "slug": "widad",
+  "name": "Widad University College",
+  "abbr": "Widad",
+  "type": "private-university-college",
+  "state": "Kelantan",
+  "city": "Kuantan",
+  "website": "https://www.widad.edu.my",
+  "levels_available": ["foundation", "diploma", "bachelor", "master", "doctorate"],
+  "program_counts": {
+    "foundation": 2,
+    "diploma": 17,
+    "bachelor": 11,
+    "master": 2,
+    "doctorate": 1
+  },
+  "sources": [
+    {
+      "url": "https://www.widad.edu.my/uc/my",
+      "type": "official",
+      "note": "Full program listing from main page with all faculties"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Faculties: Medicine (MBBS), Business & Management, Education & Social Sciences, Information IT, Nursing, Health Sciences, Sports & Coaching Science, Architecture. 43k graduates, 93.9% employability rate. Widad Education Sdn Bhd (DK317(C) for college). Also has Widad College with UiTM and UTM diploma programs. MBBS program offered."
+}

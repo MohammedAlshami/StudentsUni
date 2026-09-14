@@ -1,0 +1,29 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "diploma",
+  "program_name": "Executive Diploma in Business Administration",
+  "program_slug": "executive-diploma-in-business-administration",
+  "field": "Business Management & Administration",
+  "duration": "2.5 \u2013 3 Yrs",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 28000,
+    "international_total": 36000,
+    "per_year_local": "RM14,000-RM18,000",
+    "per_year_international": "RM18,000-RM25,000",
+    "notes": ""
+  },
+  "requirements": "A pass in SPM with at least credit in any 3 subjects, or any equivalent qualification; OR A pass in STPM, with a minimum of Grade C (GP 2.0) in any subject, or any equivalent qualification; OR A pass in STAM with a minimum grade of Maqbul; OR A pass in SKM Level 3 in a related field, and a pass in SPM with a minimum of 1 credit in any subject; OR Any qualifications equivalent to Certificate (Level 3, MQF). International students: minimum IELTS 5.0. Prerequisites: 3 years of working experience, minimum age 21",
+  "accreditation": "MQA/FA4032",
+  "campus": "SEGi University Kota Damansara",
+  "exam_body": "Internal Diploma, Malaysia",
+  "sources": [
+    "https://studymalaysia.com/what/course/SEGI/0005819/",
+    "https://eduswasta.my/university/segi-university/"
+  ],
+  "confidence": 0.85,
+  "last_updated": "2026-09-15"
+}

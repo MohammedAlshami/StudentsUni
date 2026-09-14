@@ -1,0 +1,37 @@
+{
+  "university": "City University Malaysia",
+  "university_slug": "cityu",
+  "level": "postgraduate",
+  "program_name": "Doctor of Education",
+  "program_slug": "doctor-of-education",
+  "field": "Education",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 12274,
+    "international_total": 15990,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.city.edu.my",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

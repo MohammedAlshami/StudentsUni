@@ -1,0 +1,13 @@
+{
+  "level": "diploma",
+  "university": "imu",
+  "programs": [
+    {
+      "slug": "diploma-in-nursing",
+      "name": "Diploma in Nursing",
+      "mode": "Unknown",
+      "field": "Nursing"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

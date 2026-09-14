@@ -1,0 +1,31 @@
+{
+  "university": "Perdana University",
+  "university_slug": "pu",
+  "abbreviation": "PU",
+  "type": "private-university",
+  "state": "Selangor",
+  "website": "https://www.perdanauniversity.edu.my",
+  "studymalaysia_url": null,
+  "last_updated": "2026-09-15",
+  "sources": [
+    {
+      "url": "https://perdanauniversity.edu.my/explore-all-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "masters",
+    "doctorate"
+  ],
+  "program_counts": {
+    "foundation": 2,
+    "diploma": 9,
+    "bachelor": 11,
+    "masters": 29,
+    "doctorate": 5
+  }
+}

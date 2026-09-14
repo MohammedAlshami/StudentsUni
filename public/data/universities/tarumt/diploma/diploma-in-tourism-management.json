@@ -1,0 +1,50 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "diploma",
+  "program_name": "Diploma in Tourism Management",
+  "program_slug": "diploma-in-tourism-management",
+  "field": "Hospitality & Tourism",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
+  "fees": {
+    "local": "RM19,300.00",
+    "international": "RM36,100.00",
+    "local_total": 8800,
+    "currency": "MYR",
+    "international_total": 16650,
+    "per_year_local": 3520,
+    "per_year_international": 6660
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/tarumt/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

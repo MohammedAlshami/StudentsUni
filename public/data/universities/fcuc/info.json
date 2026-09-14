@@ -1,0 +1,15 @@
+{
+  "slug": "fcuc",
+  "name": "First City University College",
+  "abbr": "FCUC",
+  "type": "private-university-college",
+  "state": "Selangor",
+  "city": "Petaling Jaya",
+  "website": "https://www.firstcity.edu.my",
+  "levels_available": ["foundation", "diploma", "bachelor", "postgraduate"],
+  "sources": [
+    "https://www.firstcity.edu.my",
+    "https://www.firstcity.edu.my/programmes"
+  ],
+  "last_updated": "2026-09-14"
+}

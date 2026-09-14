@@ -1,0 +1,24 @@
+{
+  "university": "Royal College of Surgeons in Ireland & UCD Malaysia Campus",
+  "university_slug": "rumc",
+  "level": "masters",
+  "program_name": "Master of Science in Occupational Therapy",
+  "field": "Occupational Therapy",
+  "slug": "master-of-science-in-occupational-therapy",
+  "duration": "2 years",
+  "mode": "Part Time",
+  "intakes": [
+    "2025/2026"
+  ],
+  "fees": {
+    "local": "RM 28,000",
+    "international": "RM 35,000"
+  },
+  "requirements": null,
+  "accreditation": "N/0915/7/0009 (MOA/PA 18398) (06/30)",
+  "sources": [
+    "https://www.rumc.edu.my/programmes/master-of-science-in-occupational-therapy/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

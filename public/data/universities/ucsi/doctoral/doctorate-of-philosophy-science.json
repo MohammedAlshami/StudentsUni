@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "doctoral",
+  "program_name": "Doctorate of Philosophy (Science)",
+  "field": "Science",
+  "duration": "3 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 63,390",
+    "international": "RM 72,400",
+    "currency": "MYR",
+    "local_total": 63390,
+    "international_total": 72400,
+    "per_year_local": 63390,
+    "per_year_international": 72400,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0009162/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

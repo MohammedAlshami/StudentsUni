@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "master",
+  "program_name": "Master of Philosophy in Engineering (M.Phil)",
+  "field": "Engineering",
+  "duration": "2-4 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 30,320 - RM 31,040",
+    "international": "RM 43,230 - RM 44,130",
+    "currency": "MYR",
+    "local_total": 30320,
+    "international_total": 43230,
+    "per_year_local": 30320,
+    "per_year_international": 43230,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057302/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

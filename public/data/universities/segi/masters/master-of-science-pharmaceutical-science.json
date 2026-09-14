@@ -1,0 +1,30 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "masters",
+  "program_name": "Master of Science (Pharmaceutical Science)",
+  "program_slug": "master-of-science-pharmaceutical-science",
+  "field": "Medicine & Healthcare",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 90000,
+    "international_total": 105000,
+    "per_year_local": "RM30,000-RM40,000",
+    "per_year_international": "RM35,000-RM45,000",
+    "notes": ""
+  },
+  "requirements": "Bachelor's degree in pharmacy with Honours or equivalent; Bachelors degree in related Sciences with Honours/Equivalent; Minimum CGPA of 2.75 or equivalent; Candidate with CGPA of 2.50 \u2013 2.74 with at least one year of job experience in relevant fields; TOEFL 500 or IELTS 6.0 (International students)",
+  "accreditation": "MQA/PA11457",
+  "campus": "SEGi University Kota Damansara",
+  "faculty": "Postgraduate Studies",
+  "exam_body": "Internal Postgraduate Degree, Malaysia",
+  "sources": [
+    "https://studymalaysia.com/what/course/SEGI/0057844/",
+    "https://eduswasta.my/university/segi-university/"
+  ],
+  "confidence": 0.85,
+  "last_updated": "2026-09-15"
+}

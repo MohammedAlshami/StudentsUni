@@ -1,0 +1,25 @@
+{
+  "level": "diploma",
+  "university": "Universiti Pendidikan Sultan Idris",
+  "university_slug": "upsi",
+  "programs": [
+    {"slug": "diploma-in-sport-science-and-coaching", "name": "Diploma in Sport Science and Coaching", "field": "Sports Science"},
+    {"slug": "diploma-in-laboratory-technology", "name": "Diploma in Laboratory Technology", "field": "Science"},
+    {"slug": "diploma-in-entrepreneurship", "name": "Diploma in Entrepreneurship", "field": "Business"},
+    {"slug": "diploma-in-computer-science", "name": "Diploma in Computer Science", "field": "Computing & IT"},
+    {"slug": "diploma-in-music", "name": "Diploma in Music", "field": "Performing Arts"},
+    {"slug": "diploma-in-science-mathematics", "name": "Diploma in Science (Mathematics)", "field": "Science"},
+    {"slug": "diploma-in-theatre", "name": "Diploma in Theatre", "field": "Performing Arts"},
+    {"slug": "diploma-in-turath-islami-studies", "name": "Diploma in Turath Islami Studies", "field": "Humanities"},
+    {"slug": "diploma-in-early-childhood-education", "name": "Diploma in Early Childhood Education", "field": "Education"},
+    {"slug": "diploma-in-english-language", "name": "Diploma in English Language", "field": "Languages"},
+    {"slug": "diploma-in-game-designs-and-development", "name": "Diploma in Game Designs & Development", "field": "Computing & IT"},
+    {"slug": "diploma-in-science", "name": "Diploma in Science", "field": "Science"},
+    {"slug": "diploma-in-dance", "name": "Diploma in Dance", "field": "Performing Arts"}
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/upsi/courses/",
+    "https://www.upsi.edu.my/faculty/"
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,10 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "postgraduate-diploma",
+  "total_programs": 1,
+  "programs": [
+    { "program_name": "Post Graduate Diploma in Primary Care for Elderly", "program_slug": "post-graduate-diploma-in-primary-care-for-elderly" }
+  ],
+  "last_updated": "2026-09-14"
+}

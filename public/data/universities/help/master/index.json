@@ -1,0 +1,169 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "master",
+  "programs": [
+    {
+      "program_name": "Master of Business Administration",
+      "program_slug": "master-of-business-administration",
+      "field": "Business Management & Administration",
+      "duration": "2 Years",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "RM45,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0006254/"]
+    },
+    {
+      "program_name": "Master of Business Administration (Open & Distance Learning – ODL)",
+      "program_slug": "master-of-business-administration-odl",
+      "field": "Business Management & Administration",
+      "duration": "2 years (maximum candidature of 3 years)",
+      "mode": "Open and Distance Learning (ODL)",
+      "fees": { "local": "RM18,000.00", "international": "RM30,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0057841/"]
+    },
+    {
+      "program_name": "Masters in Counselling",
+      "program_slug": "masters-in-counselling",
+      "field": "Social Sciences",
+      "duration": "Minimum 2 years (Full-Time), 3 years (Part-Time), Maximum 6 years",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "RM70,600.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0006281/"]
+    },
+    {
+      "program_name": "Master of Clinical Psychology",
+      "program_slug": "master-of-clinical-psychology",
+      "field": "Social Sciences",
+      "duration": "Approximately 2 years (full-time)",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM83,600.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0053405/"]
+    },
+    {
+      "program_name": "Master of Data Science",
+      "program_slug": "master-of-data-science",
+      "field": "Computing & IT",
+      "duration": "Minimum 1 year (6 academic courses)",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM30,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0057836/"]
+    },
+    {
+      "program_name": "Master of Education (Teaching and Learning)",
+      "program_slug": "master-of-education-teaching-and-learning",
+      "field": "Education",
+      "duration": "2 Years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM30,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0057842/"]
+    },
+    {
+      "program_name": "Master of Philosophy (Psychology)",
+      "program_slug": "master-of-philosophy-psychology",
+      "field": "Social Sciences",
+      "duration": "Approximately 2 years (full-time)",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM38,100.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0057366/"]
+    },
+    {
+      "program_name": "Master of Science in Economic Crime Management",
+      "program_slug": "master-of-science-in-economic-crime-management",
+      "field": "Business Management & Administration",
+      "duration": "Minimum 1 year 8 months, maximum 2 years 8 months",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM30,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0056465/"]
+    },
+    {
+      "program_name": "Master of Project Management",
+      "program_slug": "master-of-project-management",
+      "field": "Business Management & Administration",
+      "duration": "19 Months",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM30,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0056464/"]
+    },
+    {
+      "program_name": "Master of Human Resource Development",
+      "program_slug": "master-of-human-resource-development",
+      "field": "Business Management & Administration",
+      "duration": "Minimum 1.5 Years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM30,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0056462/"]
+    },
+    {
+      "program_name": "Master of Corporate Governance",
+      "program_slug": "master-of-corporate-governance",
+      "field": "Business Management & Administration",
+      "duration": "Maximum 3 Years",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "RM30,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0056460/"]
+    },
+    {
+      "program_name": "Master of Accounting and Finance",
+      "program_slug": "master-of-accounting-and-finance",
+      "field": "Accounting & Finance",
+      "duration": "Maximum 3 Years",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "RM30,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0007880/"]
+    },
+    {
+      "program_name": "Master of Entrepreneurship",
+      "program_slug": "master-of-entrepreneurship",
+      "field": "Business Management & Administration",
+      "duration": "Minimum 1.5 years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM30,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0005847/"]
+    },
+    {
+      "program_name": "Master in Investment and Wealth Management",
+      "program_slug": "master-in-investment-and-wealth-management",
+      "field": "Accounting & Finance",
+      "duration": "Full-time: 1 year, Part-time: up to 5 years",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "Enquire for fees" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058742/"]
+    },
+    {
+      "program_name": "Master in Artificial Intelligence",
+      "program_slug": "master-in-artificial-intelligence",
+      "field": "Computing & IT",
+      "duration": "Minimum 1 year (full-time), minimum 2 years (part-time)",
+      "mode": "Flexible Full-time/Part-time Mode",
+      "fees": { "local": "Enquire for fees" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0059084/"]
+    },
+    {
+      "program_name": "Master in Artificial Intelligence (Open & Distance Learning – ODL)",
+      "program_slug": "master-in-artificial-intelligence-odl",
+      "field": "Computing & IT",
+      "duration": "Minimum 1 year (full-time), minimum 2 years (part-time)",
+      "mode": "Open and Distance Learning (ODL)",
+      "fees": { "local": "Enquire for fees" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0059085/"]
+    },
+    {
+      "program_name": "Master in Cybersecurity (Open & Distance Learning – ODL)",
+      "program_slug": "master-in-cybersecurity-odl",
+      "field": "Computing & IT",
+      "duration": "Minimum 1 year (full-time), minimum 2 years (part-time)",
+      "mode": "Open and Distance Learning (ODL)",
+      "fees": { "local": "RM20,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0059086/"]
+    },
+    {
+      "program_name": "Master of Philosophy (Mphil)",
+      "program_slug": "master-of-philosophy-mphil",
+      "field": "Social Sciences",
+      "duration": "2 Years",
+      "mode": "Full-time Study",
+      "fees": { "local": "RM30,000.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0059087/"]
+    }
+  ]
+}

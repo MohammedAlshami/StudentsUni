@@ -1,0 +1,42 @@
+{
+  "university_slug": "usim",
+  "level": "foundation",
+  "level_name": "Pre-University / Foundation Studies",
+  "total_programs": 4,
+  "programs": [
+    {
+      "slug": "tamhidi-medicine-dentistry-science",
+      "program_name": "Tamhidi (Foundation Studies) for Medicine, Dentistry and Science",
+      "field": "Science",
+      "duration": "2 Semesters",
+      "mode": "Full-time",
+      "faculties": ["Faculty of Medicine and Health Sciences", "Faculty of Science and Technology"]
+    },
+    {
+      "slug": "tamhidi-physical-science-technology",
+      "program_name": "Tamhidi (Foundation Studies) for Physical Science and Technology",
+      "field": "Physical Science & Technology",
+      "duration": "2 Semesters",
+      "mode": "Full-time",
+      "faculties": ["Faculty of Science and Technology", "Faculty of Engineering and Built Environment"]
+    },
+    {
+      "slug": "tamhidi-syariah-law",
+      "program_name": "Tamhidi (Foundation Studies) for Syariah & Law",
+      "field": "Syariah & Law",
+      "duration": "2 Semesters",
+      "mode": "Full-time",
+      "faculties": ["Faculty of Syariah and Law"]
+    },
+    {
+      "slug": "tamhidi-accounting-muamalat",
+      "program_name": "Tamhidi (Foundation Studies) for Accounting & Muamalat",
+      "field": "Accounting & Finance",
+      "duration": "2 Semesters",
+      "mode": "Full-time",
+      "faculties": ["Faculty of Economics and Muamalat"]
+    }
+  ],
+  "sources": ["https://www.studymalaysia.com/edu/usim/courses/", "https://admission.usim.edu.my/tamhidi/"],
+  "last_updated": "2026-09-14"
+}

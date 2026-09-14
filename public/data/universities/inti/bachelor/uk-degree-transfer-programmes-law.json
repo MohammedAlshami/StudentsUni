@@ -1,0 +1,25 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "bachelor",
+  "program_name": "UK Degree Transfer Programmes (Law)",
+  "program_slug": "uk-degree-transfer-programmes-law",
+  "field": "Law",
+  "duration": "2 Years (Malaysia) + 1-1.5 Years (Australia/New Zealand)",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to newinti.edu.my",
+    "international": "Refer to newinti.edu.my"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "faculty": "Law",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0006336/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,25 @@
+{
+  "university": "Royal College of Surgeons in Ireland & UCD Malaysia Campus",
+  "university_slug": "rumc",
+  "level": "degree",
+  "program_name": "Bachelor of Science in Medical Informatics",
+  "field": "Health Informatics",
+  "slug": "bachelor-of-science-in-medical-informatics",
+  "duration": "3 years",
+  "mode": "Full Time",
+  "intakes": [
+    "January",
+    "September"
+  ],
+  "fees": {
+    "local": "RM 93,000",
+    "international": "RM 102,000"
+  },
+  "requirements": null,
+  "accreditation": "N/0688/6/0001 (01/29) (MQA/PA16934)",
+  "sources": [
+    "https://www.rumc.edu.my/programmes/medical-informatics/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,43 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "doctorate",
+  "program_name": "Doctor of Philosophy in Creative Arts and Media",
+  "program_slug": "doctor-of-philosophy-in-creative-arts-and-media",
+  "field": "Arts & Design",
+  "faculty": null,
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Jan"
+  ],
+  "fees": {
+    "local": "From RM30,720",
+    "international": "New international students are required to pay RM 18,000 advance fees or first semester fees (whichever is higher)",
+    "currency": "MYR",
+    "local_total": 18007,
+    "per_year_local": null,
+    "notes": "Fee: FromRM30,720.00",
+    "international_total": 20257
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0056978/",
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "iium",
+  "name": "International Islamic University Malaysia",
+  "abbr": "IIUM",
+  "type": "public-university",
+  "state": "Kuala Lumpur",
+  "city": "Gombak",
+  "website": "https://www.iium.edu.my",
+  "levels_available": ["pre-university", "undergraduate"],
+  "program_counts": {
+    "pre-university": 20,
+    "undergraduate": 52
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/iium/courses/",
+    "https://www.iium.edu.my/academics/",
+    "https://www.iium.edu.my/admissions/"
+  ],
+  "last_updated": "2026-09-14"
+}

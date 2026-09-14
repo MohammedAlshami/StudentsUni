@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "phd",
+  "program_name": "Ph.D. in Electrical Engineering",
+  "program_slug": "phd-in-electrical-engineering",
+  "field": "Engineering & Engineering Trades",
+  "faculty": "Electrical and Electronic Engineering",
+  "duration": "3 Years (Max 7 Years)",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "9450/Course",
+    "international": "USD6220/Course",
+    "currency": "MYR",
+    "local_total": 9450.0,
+    "per_year_local": 2362.5,
+    "notes": "Fee: 9450/Course"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0004738/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

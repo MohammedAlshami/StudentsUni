@@ -1,0 +1,13 @@
+{
+  "name": "Universiti Sultan Zainal Abidin",
+  "slug": "unisza",
+  "abbreviation": "UniSZA",
+  "type": "public-university",
+  "state": "Terengganu",
+  "website": "https://www.unisza.edu.my",
+  "sources": [
+    "https://www.unisza.edu.my",
+    "https://www.studymalaysia.com/edu/unisza/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

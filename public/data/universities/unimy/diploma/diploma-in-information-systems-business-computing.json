@@ -1,0 +1,22 @@
+{
+  "university": "University Malaysia of Computer Science & Engineering",
+  "university_slug": "unimy",
+  "level": "diploma",
+  "program_name": "Diploma In Information Systems (Business Computing)",
+  "field": "Computing",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM23,000",
+    "international": "RM26,000"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unimy/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "diploma-in-information-systems-business-computing"
+}

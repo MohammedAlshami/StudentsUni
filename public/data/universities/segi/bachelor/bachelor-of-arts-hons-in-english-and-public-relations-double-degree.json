@@ -1,0 +1,41 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Arts (Hons) in English and Public Relations (Double Degree)",
+  "slug": "bachelor-of-arts-hons-in-english-and-public-relations-double-degree",
+  "field": "Languages (National language & other languages)",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "Refer to the Univ.",
+    "international": "Refer to the Univ.",
+    "local_total": 21385,
+    "currency": "MYR",
+    "international_total": 27902
+  },
+  "requirements": {
+    "academic": null
+  },
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SEGI/0054527/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

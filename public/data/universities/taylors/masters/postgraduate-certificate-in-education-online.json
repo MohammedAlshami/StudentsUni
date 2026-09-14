@@ -1,0 +1,40 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "masters",
+  "program_name": "Postgraduate Certificate in Education (100% online)",
+  "slug": "postgraduate-certificate-in-education-online",
+  "program_slug": "postgraduate-certificate-in-education-online",
+  "field": "Education",
+  "duration": "1 year",
+  "mode": "Online",
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Nov",
+    "Jun",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 13380,
+    "international_total": 16980,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-online/postgraduate-certificate-in-education-online.html",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

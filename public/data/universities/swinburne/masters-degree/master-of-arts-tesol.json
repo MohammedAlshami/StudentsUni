@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Masters Degree",
+  "program_name": "Master of Arts (TESOL)",
+  "field": "Education (Teacher Training & Education Sciences)",
+  "slug": "master-of-arts-tesol",
+  "duration": "2 Years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "RM38,240",
+    "international": "RM46,640",
+    "currency": "MYR",
+    "local_total": 38240,
+    "international_total": 46640,
+    "per_year_local": 19120,
+    "per_year_international": 23320,
+    "notes": "Total course fee for 2-year programme"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0056011/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

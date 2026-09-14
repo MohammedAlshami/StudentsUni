@@ -1,0 +1,31 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "master",
+  "level_name": "Masters Degree Level",
+  "total_programs": 19,
+  "programs": [
+    {"program_name": "M.Sc. Technopreneurship", "slug": "m-sc-technopreneurship"},
+    {"program_name": "Master of Philosophy in Engineering (M.Phil)", "slug": "master-of-philosophy-in-engineering-m-phil"},
+    {"program_name": "Master of Art & Design", "slug": "master-of-art-design"},
+    {"program_name": "Master of Child Psychology", "slug": "master-of-child-psychology"},
+    {"program_name": "Master of Science in Nutrition with Management", "slug": "master-of-science-in-nutrition-with-management"},
+    {"program_name": "Master in Science (Actuarial Management)", "slug": "master-in-science-actuarial-management"},
+    {"program_name": "M.Sc. (Applied Sciences) by Research", "slug": "m-sc-applied-sciences-by-research"},
+    {"program_name": "M.Sc. (Biotechnology with Business Management)", "slug": "m-sc-biotechnology-with-business-management"},
+    {"program_name": "M.Sc. (Biotechnology)", "slug": "m-sc-biotechnology"},
+    {"program_name": "M.B.A. (Blue Ocean Strategy)", "slug": "m-b-a-blue-ocean-strategy"},
+    {"program_name": "M.Sc. in Pharmaceutical Chemistry", "slug": "m-sc-in-pharmaceutical-chemistry"},
+    {"program_name": "Master of Science (Healthy Aging, Medical Aesthetic and Regenerative Medicine)", "slug": "master-of-science-healthy-aging-medical-aesthetic-regenerative-medicine"},
+    {"program_name": "M.Sc. (Food Science with Business Management)", "slug": "m-sc-food-science-with-business-management"},
+    {"program_name": "MBA (ODL Mode) - Online", "slug": "mba-odl-mode-online"},
+    {"program_name": "Master of Architecture", "slug": "master-of-architecture"},
+    {"program_name": "Master of Music (Performance Studies)", "slug": "master-of-music-performance-studies"},
+    {"program_name": "M.Sc. in Pharmaceutical Technology", "slug": "m-sc-in-pharmaceutical-technology"},
+    {"program_name": "Master of Clinical Pharmacy Practice", "slug": "master-of-clinical-pharmacy-practice"},
+    {"program_name": "Master of Science in Logistics Management", "slug": "master-of-science-in-logistics-management"},
+    {"program_name": "Master of Business Administration (MBA)", "slug": "master-of-business-administration-mba"}
+  ],
+  "sources": ["https://www.studymalaysia.com/edu/ucsi/courses/"],
+  "last_updated": "2026-09-14"
+}

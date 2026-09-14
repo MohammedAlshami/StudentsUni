@@ -1,0 +1,11 @@
+{
+  "university": "Curtin University Malaysia",
+  "university_slug": "curtin",
+  "level": "postgraduate-diploma",
+  "level_label": "Graduate Diploma",
+  "program_count": 2,
+  "programs": [
+    { "slug": "graduate-diploma-in-project-management", "name": "Graduate Diploma in Project Management", "field": "Business & Commerce" },
+    { "slug": "graduate-diploma-in-public-health", "name": "Graduate Diploma in Public Health", "field": "Health Sciences" }
+  ]
+}

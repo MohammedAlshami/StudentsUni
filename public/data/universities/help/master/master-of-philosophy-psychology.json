@@ -1,0 +1,17 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "master",
+  "program_name": "Master of Philosophy (Psychology)",
+  "program_slug": "master-of-philosophy-psychology",
+  "field": "Social Sciences",
+  "duration": "Approximately 2 years (full-time)",
+  "mode": "Full-time Study",
+  "fees": { "local": "RM38,100.00", "international": null },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0057366/",
+    "https://www.help.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

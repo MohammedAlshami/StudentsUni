@@ -1,0 +1,21 @@
+{
+  "university": "GMI-University College of Applied Sciences",
+  "university_slug": "gmi-ucas",
+  "level": "diploma",
+  "program_name": "Diploma in Cyber Security Technology",
+  "field": "Computer and Information",
+  "duration": "6 Semester / 3 Years",
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": "RM 33,324",
+  "requirements": null,
+  "accreditation": "R3/0613/4/0043 (07/31) (MQA/FA15748-01) - Accredited",
+  "sources": [
+    {
+      "url": "https://www.gmi.edu.my/computer-and-information/cyber-security-technology/",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

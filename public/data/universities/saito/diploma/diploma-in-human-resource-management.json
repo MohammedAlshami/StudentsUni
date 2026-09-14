@@ -1,0 +1,17 @@
+{
+  "university": "SAITO University College",
+  "university_slug": "saito",
+  "level": "diploma",
+  "program_name": "Diploma in Human Resource Management",
+  "program_slug": "diploma-in-human-resource-management",
+  "field": "Business",
+  "duration": "2.5 years",
+  "mode": "Full Time",
+  "intakes": ["January", "May", "September"],
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": ["https://www.saito.edu.my/our-programmes/diploma"],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

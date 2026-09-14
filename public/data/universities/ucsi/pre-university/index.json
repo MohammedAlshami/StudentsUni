@@ -1,0 +1,25 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "pre-university",
+  "level_name": "Pre-University/Foundation Studies",
+  "total_programs": 3,
+  "programs": [
+    {
+      "program_name": "Foundation in Music",
+      "slug": "foundation-in-music"
+    },
+    {
+      "program_name": "Foundation in Science",
+      "slug": "foundation-in-science"
+    },
+    {
+      "program_name": "Foundation in Arts",
+      "slug": "foundation-in-arts"
+    }
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

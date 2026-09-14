@@ -1,0 +1,35 @@
+{
+  "level": "doctorate",
+  "programs": [
+    {
+      "slug": "doctor-of-business-administration",
+      "name": "Doctor of Business Administration",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "doctor-of-philosophy-phd-in-management-by-research",
+      "name": "Doctor of Philosophy (PhD) in Management (By Research)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "doctor-of-philosophy-in-industrial-management-by-research",
+      "name": "Doctor of Philosophy in Industrial Management (By Research)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "doctor-of-philosophy-in-strategic-management-by-research",
+      "name": "Doctor of Philosophy in Strategic Management (By Research)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "doctor-of-philosophy-in-business-administration-by-research",
+      "name": "Doctor of Philosophy in Business Administration (By Research)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "doctor-of-philosophy-in-tourism-and-hospitality-management",
+      "name": "Doctor of Philosophy in Tourism and Hospitality Management",
+      "field": "Hospitality & Tourism"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "bachelors",
+  "program_name": "BA (Hons) International Relations",
+  "field": "International Relations",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep"
+  ],
+  "fees": {
+    "local": "RM36,000/Yr",
+    "international": "RM42,000/Yr",
+    "local_total": 11900,
+    "currency": "MYR",
+    "international_total": 13967
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "ba-hons-international-relations"
+}

@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Technology Management (Furniture Design and Manufacturing)(Hons)",
+  "program_slug": "bachelor-of-technology-management-furniture-design-and-manufacturing",
+  "field": "Business Management & Administration",
+  "faculty": "Technology Management and Business",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "700/Sem",
+    "international": null,
+    "currency": "MYR",
+    "local_total": 6800,
+    "per_year_local": 1700,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 20400,
+    "per_year_international": 5100
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0055627/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

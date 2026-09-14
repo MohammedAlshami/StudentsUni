@@ -1,0 +1,45 @@
+{
+  "university": "Universiti Pendidikan Sultan Idris",
+  "university_slug": "upsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Sports Science (Science of Coaching) (Hons)",
+  "field": "Sports Science",
+  "duration": "8 semesters",
+  "mode": "Full-time",
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 899,
+    "international_total": null,
+    "per_year_local": 224,
+    "per_year_international": null,
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UPSI/0054779/",
+    "https://fssk.upsi.edu.my/",
+    "https://studymalaysia.com/what/course/UPSI/0001096/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14"
+}

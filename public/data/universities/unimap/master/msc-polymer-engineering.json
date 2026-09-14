@@ -1,0 +1,38 @@
+{
+  "university": "Universiti Malaysia Perlis",
+  "university_slug": "unimap",
+  "level": "master",
+  "program_name": "M.Sc.(Polymer Engineering)",
+  "slug": "msc-polymer-engineering",
+  "field": "Engineering",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
+  "fees": {
+    "local": "5330/Yr",
+    "international": null,
+    "currency": "MYR",
+    "local_total": 5330,
+    "international_total": 3125,
+    "per_year_local": 10660,
+    "per_year_international": 6250,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "entry_requirements": null,
+    "minimum_cgpa": null
+  },
+  "accreditation": {
+    "mqa": true,
+    "programme_accreditation": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UniMAP/0003724/",
+    "https://www.studymalaysia.com/edu/unimap/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

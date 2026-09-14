@@ -1,0 +1,19 @@
+{
+  "university": "Universiti Pendidikan Sultan Idris",
+  "university_slug": "upsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Business Administration (Financial Services) (Hons)",
+  "field": "Business",
+  "duration": "8 semesters",
+  "mode": "Full-time",
+  "intakes": ["September"],
+  "fees": {"currency": "MYR", "local_total": 12160, "international_total": null, "per_year_local": 3040, "per_year_international": null, "notes": "Per semester: MYR 1,520 local"},
+  "requirements": {
+    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
+    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+  },
+  "accreditation": {"mqa_status": null, "mqa_ref": null},
+  "sources": ["https://www.studymalaysia.com/what/course/UPSI/0055036/", "https://fpe.upsi.edu.my/"],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,340 @@
+{
+  "level": "masters",
+  "level_label": "Masters Degree",
+  "university": "Universiti Malaysia Sarawak",
+  "university_slug": "unimas",
+  "total_programs": 33,
+  "programs": [
+    {
+      "slug": "ma-cinematography",
+      "program_name": "M.A. in Cinematography",
+      "field": "Arts & Design",
+      "duration": "FT: 4-8 semesters (2-4 years); PT: 6-12 semesters (3-6 years)",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "corporate-master-business-administration",
+      "program_name": "Corporate Master in Business Administration (CMBA)",
+      "field": "Business Management",
+      "duration": "6 semesters (2 years)",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_course": 17760,
+      "international_fees_per_course": 25080
+    },
+    {
+      "slug": "master-advanced-information-technology",
+      "program_name": "Master of Advanced Information Technology (MAIT)",
+      "field": "Computing & IT",
+      "duration": "Unknown",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_course": 17000,
+      "international_fees_per_course": 24000
+    },
+    {
+      "slug": "ma-drama-theatre",
+      "program_name": "M.A. in Drama and Theatre",
+      "field": "Arts & Design",
+      "duration": "FT: 4-8 semesters (2-4 years); PT: 6-12 semesters (3-6 years)",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "ma-fashion-textiles",
+      "program_name": "M.A. in Fashion and Textiles",
+      "field": "Arts & Design",
+      "duration": "FT: 4-8 semesters (2-4 years); PT: 6-12 semesters (3-6 years)",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "ma-industrial-design",
+      "program_name": "M.A. in Industrial Design",
+      "field": "Arts & Design",
+      "duration": "FT: 4-8 semesters (2-4 years); PT: 6-12 semesters (3-6 years)",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "ma-arts-management",
+      "program_name": "M.A. in Arts Management",
+      "field": "Arts & Design",
+      "duration": "FT: 4-8 semesters (2-4 years); PT: 6-12 semesters (3-6 years)",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "ma-phd-gender-studies",
+      "program_name": "M.A./Ph.D. in Gender Studies",
+      "field": "Social Sciences",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "ma-phd-indigenous-communities",
+      "program_name": "M.A./Ph.D. in Indigenous Communities",
+      "field": "Social Sciences",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "ma-phd-urbanisation-community-development",
+      "program_name": "M.A./Ph.D. in Urbanisation and Community Development",
+      "field": "Social Sciences",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "ma-phd-advertising",
+      "program_name": "M.A./Ph.D. in Advertising",
+      "field": "Communication & Broadcasting",
+      "duration": "Master: 12-36 months (FT)/24-72 months (PT)",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_course": 1100,
+      "international_fees_per_course": 1650
+    },
+    {
+      "slug": "msc-phd-rural-ict-and-community-informatics",
+      "program_name": "M.Sc./Ph.D. in Rural ICT and Community Informatics",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-scientific-computing",
+      "program_name": "M.Sc./Ph.D. in Scientific Computing",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-spatial-analysis-and-modeling-for-gis",
+      "program_name": "M.Sc./Ph.D. in Spatial Analysis and Modeling for GIS",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-text-and-data-mining",
+      "program_name": "M.Sc./Ph.D. in Text & Data Mining",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-visualisation-and-image-processing",
+      "program_name": "M.Sc./Ph.D. in Visualisation and Image Processing",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-molecular-pharmacology",
+      "program_name": "M.Sc./Ph.D. in Molecular Pharmacology",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-neurosciences-and-sleep-disorders",
+      "program_name": "M.Sc./Ph.D. in Neurosciences & Sleep Disorders",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-nutritional-assessment-and-health-education",
+      "program_name": "M.Sc./Ph.D. in Nutritional Assessment & Health Education",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-occupational-medicine",
+      "program_name": "M.Sc./Ph.D. in Occupational Medicine",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-reproductive-medicine",
+      "program_name": "M.Sc./Ph.D. in Reproductive Medicine",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-urology",
+      "program_name": "M.Sc./Ph.D. in Urology",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-software-engineering",
+      "program_name": "M.Sc./Ph.D. in Software Engineering",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-computational-linguistic",
+      "program_name": "M.Sc./Ph.D. in Computational Linguistic",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-knowledge-management",
+      "program_name": "M.Sc./Ph.D. in Knowledge Management",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-mobile-networking-and-broadband-communications",
+      "program_name": "M.Sc./Ph.D. in Mobile Networking and Broadband Communications",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-cognitive-science",
+      "program_name": "M.Sc./Ph.D. in Cognitive Science",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-aquatic-pollution",
+      "program_name": "M.Sc./Ph.D. in Aquatic Pollution",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-human-resource-development",
+      "program_name": "M.Sc./Ph.D. in Human Resource Development",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-career-development",
+      "program_name": "M.Sc./Ph.D. in Career Development",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-cognitive-psychology",
+      "program_name": "M.Sc./Ph.D. in Cognitive Psychology",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-human-factors",
+      "program_name": "M.Sc./Ph.D. in Human Factors",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    },
+    {
+      "slug": "msc-phd-human-resource-practices",
+      "program_name": "M.Sc./Ph.D. in Human Resource Practices",
+      "field": "Science",
+      "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
+      "mode": "Flexible Full-time/Part-time",
+      "local_fees_per_sem_ft": 1650,
+      "local_fees_per_sem_pt": 1350,
+      "international_fees_per_sem_ft": 2350
+    }
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/unimas/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,22 @@
+{
+  "university": "University Malaysia of Computer Science & Engineering",
+  "university_slug": "unimy",
+  "level": "masters",
+  "program_name": "Master In Computing - By Research",
+  "field": "Computing",
+  "duration": "2 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM17,000",
+    "international": "RM18,000"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unimy/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "master-in-computing--by-research"
+}

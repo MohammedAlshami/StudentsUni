@@ -1,0 +1,36 @@
+{
+  "university": "Lincoln University College",
+  "university_slug": "luc",
+  "level": "bachelor",
+  "program_name": "Bachelor in Business Administration with Health Administration (Honours)",
+  "field": "Business & Management",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Nov"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 12500,
+    "international_total": 9471,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.lincoln.edu.my/school-of-business-management/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

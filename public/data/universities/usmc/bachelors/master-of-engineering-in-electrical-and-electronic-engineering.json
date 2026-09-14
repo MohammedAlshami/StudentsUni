@@ -1,0 +1,35 @@
+{
+  "university": "University of Southampton Malaysia",
+  "university_slug": "usmc",
+  "level": "bachelors",
+  "program_name": "Master of Engineering in Electrical and Electronic Engineering",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 92588,
+    "international_total": 96713,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.studymalaysia.com/edu/usmc/courses/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "master-of-engineering-in-electrical-and-electronic-engineering"
+}

@@ -1,0 +1,46 @@
+{
+  "university": "New Era University College",
+  "university_slug": "neuc",
+  "level": "master",
+  "program_name": "Master of Art, Design and Creative Media (Coursework)",
+  "program_slug": "master-of-art-design-and-creative-media-coursework",
+  "field": "design",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "MQA approved (N/0210/7/0003)",
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.newera.edu.my/gs.php",
+      "publisher": "official",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-15"
+}

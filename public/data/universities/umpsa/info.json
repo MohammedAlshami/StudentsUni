@@ -1,0 +1,21 @@
+{
+  "slug": "umpsa",
+  "name": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "abbr": "UMPSA",
+  "type": "public-university",
+  "state": "Pahang",
+  "city": "Gambang/Kuantan",
+  "website": "https://www.umpsa.edu.my",
+  "levels_available": ["diploma", "bachelor", "master", "phd"],
+  "program_counts": {
+    "diploma": 8,
+    "bachelor": 47,
+    "master": 33,
+    "phd": 29
+  },
+  "sources": [
+    "https://www.umpsa.edu.my",
+    "https://www.studymalaysia.com/edu/ump/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

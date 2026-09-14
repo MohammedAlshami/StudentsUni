@@ -1,0 +1,30 @@
+{
+  "slug": "uc-tati",
+  "name": "University College TATI",
+  "abbr": "UC-TATI",
+  "type": "private-university-college",
+  "state": "Terengganu",
+  "city": "Kemaman",
+  "website": "https://www.uctati.edu.my",
+  "levels_available": ["foundation", "diploma", "bachelor", "postgraduate"],
+  "program_counts": {
+    "foundation": 2,
+    "diploma": 13,
+    "bachelor": 11,
+    "postgraduate": 7
+  },
+  "sources": [
+    {
+      "url": "https://www.uctati.edu.my/Undergraduate.html",
+      "type": "official",
+      "note": "Full undergraduate program listing with MQA codes and accreditation status"
+    },
+    {
+      "url": "https://www.uctati.edu.my/",
+      "type": "official",
+      "note": "Main page with 26 degree/diploma, 7 postgrad, 2 foundation, 51 short courses"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Leading TVET university college in Terengganu. 2 faculties: FKMPT (Computer, Media & Tech Management), FTK (Engineering Technology). Also City Campus. DKU006(T). Setara 5 rating. THE WUR listed. MBOT accredited programs. Ruane-TATI and TATI Skills subsidiaries."
+}

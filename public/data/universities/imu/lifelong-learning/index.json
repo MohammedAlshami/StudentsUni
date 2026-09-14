@@ -1,0 +1,31 @@
+{
+  "level": "lifelong-learning",
+  "university": "imu",
+  "programs": [
+    {
+      "slug": "english-mastery-programmes",
+      "name": "English Mastery Programmes",
+      "mode": "Unknown",
+      "field": "Languages"
+    },
+    {
+      "slug": "micro-credential",
+      "name": "Micro-Credential",
+      "mode": "Unknown",
+      "field": "Various"
+    },
+    {
+      "slug": "continuing-professional-development",
+      "name": "Continuing Professional Development",
+      "mode": "Unknown",
+      "field": "Various"
+    },
+    {
+      "slug": "teaching-learning-excellence",
+      "name": "Teaching & Learning Excellence",
+      "mode": "Unknown",
+      "field": "Education"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,22 @@
+{
+  "university_slug": "misi",
+  "level": "bachelor",
+  "program_name": "Bachelor in Business (Halal Logistics and Supply Chain Management) with Honours",
+  "program_slug": "bachelor-in-business-halal-logistics-and-supply-chain-management-with-honours",
+  "field": "Transport and Logistics",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.misi.edu.my/degree/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

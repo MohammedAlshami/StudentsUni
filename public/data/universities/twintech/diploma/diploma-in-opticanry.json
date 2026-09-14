@@ -1,0 +1,22 @@
+{
+  "university_slug": "twintech",
+  "level": "diploma",
+  "program_name": "Diploma in Opticanry",
+  "program_slug": "diploma-in-opticanry",
+  "field": "Allied Health Sciences",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://newtwintech.edu.my/diploma-in-opticanry/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

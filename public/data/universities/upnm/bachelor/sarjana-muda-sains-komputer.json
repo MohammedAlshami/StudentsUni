@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Pertahanan Nasional Malaysia",
+  "university_slug": "upnm",
+  "level": "bachelor",
+  "program_name": "Sarjana Muda Sains Komputer dengan Kepujian",
+  "program_slug": "sarjana-muda-sains-komputer",
+  "field": "Computing & IT",
+  "duration": "6 semesters",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4800,
+    "international_total": 14400,
+    "per_year_local": 1600,
+    "per_year_international": 4800,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": "SPM+STPM/Matriculation+MUET",
+  "accreditation": "MQA",
+  "faculty": "Fakulti Sains dan Teknologi Pertahanan",
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pra-siswazah",
+    "https://www.studymalaysia.com/what/course/UPNM/0056961/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

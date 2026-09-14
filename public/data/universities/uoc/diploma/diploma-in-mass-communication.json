@@ -1,0 +1,30 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Diploma",
+  "program_name": "Diploma in Mass Communication",
+  "field": "Communication & Broadcasting",
+  "slug": "diploma-in-mass-communication",
+  "duration": "2 years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 16559,
+    "per_year_local": 8280,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058793/",
+    {
+      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Science (Computational Data Analytics) with Honours",
+  "program_slug": "bachelor-of-science-computational-data-analytics",
+  "field": "Computing & IT",
+  "faculty": "Computer Science and Information Technology",
+  "duration": "7 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": null,
+    "currency": "MYR",
+    "local_total": 5600,
+    "international_total": 16800,
+    "per_year_local": 1600,
+    "per_year_international": 4800,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0058882/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

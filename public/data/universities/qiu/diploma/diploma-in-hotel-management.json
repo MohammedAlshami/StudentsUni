@@ -1,0 +1,22 @@
+{
+  "university": "Quest International University",
+  "university_slug": "qiu",
+  "level": "Diploma",
+  "program_name": "Diploma in Hotel Management",
+  "field": "Hospitality & Tourism",
+  "slug": "diploma-in-hotel-management",
+  "duration": "2.5 years | Full-time",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to the University"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/qiu/0054826/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

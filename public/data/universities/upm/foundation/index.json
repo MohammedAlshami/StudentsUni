@@ -1,0 +1,10 @@
+{
+  "university": "Universiti Putra Malaysia",
+  "university_slug": "upm",
+  "level": "foundation",
+  "source": "https://www.upm.edu.my/kemasukan/program/pengajian_asasi-76278",
+  "last_updated": "2026-09-14",
+  "programs": [
+    {"slug": "foundation-in-agricultural-science", "name": "Foundation in Agricultural Science", "field": "Agriculture"}
+  ]
+}

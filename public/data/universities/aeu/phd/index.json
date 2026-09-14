@@ -1,0 +1,30 @@
+{
+  "programs": [
+    {
+      "slug": "phd-business-administration",
+      "program_name": "PhD (Business Administration)"
+    },
+    {
+      "slug": "phd-education",
+      "program_name": "PhD (Education)"
+    },
+    {
+      "slug": "phd-finance",
+      "program_name": "PhD (Finance)"
+    },
+    {
+      "slug": "phd-humanities",
+      "program_name": "PhD (Humanities)"
+    },
+    {
+      "slug": "phd-ict",
+      "program_name": "PhD (ICT)"
+    },
+    {
+      "slug": "phd-social-behavioural-science",
+      "program_name": "PhD (Social & Behavioural Science)"
+    }
+  ],
+  "total": 6,
+  "last_updated": "2026-09-14"
+}

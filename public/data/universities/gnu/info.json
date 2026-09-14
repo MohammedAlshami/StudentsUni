@@ -1,0 +1,24 @@
+{
+  "slug": "gnu",
+  "name": "GlobalNxt University",
+  "abbr": "GNU",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "website": "https://www.globalnxt.edu.my",
+  "levels_available": ["doctorate", "master", "bachelor", "executive"],
+  "program_counts": {
+    "doctorate": 4,
+    "master": 6,
+    "bachelor": 4,
+    "executive": 4
+  },
+  "sources": [
+    {
+      "url": "https://www.globalnxt.edu.my",
+      "type": "official",
+      "note": "Main university website with programme listings"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

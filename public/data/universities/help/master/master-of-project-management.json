@@ -1,0 +1,17 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "master",
+  "program_name": "Master of Project Management",
+  "program_slug": "master-of-project-management",
+  "field": "Business Management & Administration",
+  "duration": "19 Months",
+  "mode": "Full-time Study",
+  "fees": { "local": "RM30,000.00", "international": null },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0056464/",
+    "https://www.help.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

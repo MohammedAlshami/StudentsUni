@@ -1,0 +1,37 @@
+{
+  "university": "Xiamen University Malaysia",
+  "university_slug": "xmum",
+  "level": "postgraduate",
+  "program_name": "Master in New Energy Science and Engineering",
+  "program_slug": "master-new-energy-science-engineering",
+  "field": "Engineering",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "local": null,
+    "international": null,
+    "local_total": 30100,
+    "currency": "MYR",
+    "international_total": 35000
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.xmu.edu.my/postgraduate-programmes",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

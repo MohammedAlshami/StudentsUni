@@ -1,0 +1,31 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Petroleum Engineering with Honours",
+  "slug": "petroleum-engineering",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": null,
+    "currency": "MYR",
+    "note": "Contact university for current fee rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Mathematics, Additional Mathematics, Physics, Chemistry, and English"
+  },
+  "accreditation": "R3/0724/6/0001 (02/2029) MQA/FA2510",
+  "description": "Covers reservoir engineering, drilling engineering, production engineering, petroleum geomechanics, and enhanced oil recovery. Prepares graduates for careers in oil and gas exploration and production.",
+  "career_prospect": ["Petroleum Engineer", "Drilling Engineer", "Reservoir Engineer", "Production Engineer", "Completion Engineer"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://www.studymalaysia.com/edu/utp/courses/",
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx",
+    "https://unienrol.com/study-malaysia/universiti-teknologi-petronas-utp/courses/all"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

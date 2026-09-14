@@ -1,0 +1,67 @@
+{
+  "level": "diploma",
+  "level_slug": "diploma",
+  "university": "Universiti Teknikal Malaysia Melaka",
+  "university_slug": "utem",
+  "programs": [
+    {
+      "program_name": "Diploma in Manufacturing Engineering",
+      "program_slug": "diploma-in-manufacturing-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "6 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "300/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science",
+      "program_slug": "diploma-in-computer-science",
+      "field": "Computing & IT",
+      "duration": "3 Years",
+      "mode": "Full-time",
+      "fees": {
+        "local": null,
+        "international": null
+      }
+    },
+    {
+      "program_name": "Diploma in Mechanical Engineering",
+      "program_slug": "diploma-in-mechanical-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "6 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "300/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Diploma in Electrical Engineering",
+      "program_slug": "diploma-in-electrical-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "6 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "300/sem",
+        "international": null
+      }
+    },
+    {
+      "program_name": "Diploma in Electronic Engineering",
+      "program_slug": "diploma-in-electronic-engineering",
+      "field": "Engineering & Engineering Trades",
+      "duration": "6 Semesters",
+      "mode": "Full-time",
+      "fees": {
+        "local": "300/sem",
+        "international": null
+      }
+    }
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/utem/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

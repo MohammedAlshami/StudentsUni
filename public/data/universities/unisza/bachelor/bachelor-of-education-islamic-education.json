@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Sultan Zainal Abidin",
+  "university_slug": "unisza",
+  "level": "bachelor",
+  "program_name": "Bachelor of Education (Islamic Education)",
+  "slug": "bachelor-of-education-islamic-education",
+  "field": "Education",
+  "duration": "4 Yrs",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "Enquire",
+    "international": "Enquire",
+    "currency": "MYR",
+    "local_total": 7200,
+    "international_total": 21600,
+    "per_year_local": 1800,
+    "per_year_international": 5400,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unisza/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

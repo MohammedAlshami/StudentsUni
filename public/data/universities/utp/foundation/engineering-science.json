@@ -1,0 +1,40 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "foundation",
+  "program_name": "Foundation in Engineering & Science",
+  "slug": "engineering-science",
+  "field": "Engineering & Science",
+  "duration": "1 year",
+  "mode": "full-time",
+  "intakes": ["may"],
+  "fees": {
+    "total": "RM 17,700",
+    "currency": "MYR",
+    "note": "Total estimated fees; contact university for current rates"
+  },
+  "requirements": {
+    "spm": "5 credits including Mathematics, Additional Mathematics, Physics, Chemistry, and English"
+  },
+  "accreditation": "JPT/BPP(R3/0011/3/0066)(07/29)(A4231)",
+  "description": "Foundation programme designed to prepare students for undergraduate studies in engineering and science disciplines at UTP.",
+  "pathway_to": [
+    "Chemical Engineering",
+    "Civil Engineering",
+    "Computer Engineering",
+    "Electrical and Electronics Engineering",
+    "Integrated Engineering",
+    "Materials Engineering",
+    "Mechanical Engineering",
+    "Petroleum Engineering",
+    "Applied Chemistry",
+    "Industrial Physics",
+    "Petroleum Geoscience"
+  ],
+  "sources": [
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx",
+    "https://unienrol.com/study-malaysia/universiti-teknologi-petronas-utp/courses/all"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

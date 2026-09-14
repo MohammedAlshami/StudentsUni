@@ -1,0 +1,39 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "masters",
+  "program_name": "Master of Food Studies and Gastronomy",
+  "slug": "master-of-food-studies-and-gastronomy",
+  "program_slug": "master-of-food-studies-and-gastronomy",
+  "field": "Culinary Arts",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep",
+    "Nov",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 56480,
+    "international_total": 72924,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/master-coursework/master-of-food-studies-and-gastronomy.html",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

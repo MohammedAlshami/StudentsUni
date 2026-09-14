@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "master",
+  "program_name": "Master of Art & Design",
+  "field": "Art & Design",
+  "duration": "2-3 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 37,760 - RM 44,765",
+    "international": "RM 56,650 - RM 64,224",
+    "currency": "MYR",
+    "local_total": 37760,
+    "international_total": 56650,
+    "per_year_local": 37760,
+    "per_year_international": 56650,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057300/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

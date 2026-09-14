@@ -1,0 +1,41 @@
+{
+  "university": "Kuala Lumpur University of Science & Technology",
+  "university_slug": "klust",
+  "level": "master",
+  "program_name": "Master of Business Administration",
+  "field": "Business",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Oct",
+    "Mar",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 30820,
+    "international_total": 47730,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.klust.edu.my",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.klust.edu.my/academic/postgraduate",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

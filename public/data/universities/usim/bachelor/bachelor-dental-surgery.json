@@ -1,0 +1,42 @@
+{
+  "university": "Universiti Sains Islam Malaysia",
+  "university_slug": "usim",
+  "level": "bachelor",
+  "level_name": "Bachelor's Degree",
+  "program_name": "Bachelor of Dental Surgery",
+  "slug": "bachelor-dental-surgery",
+  "field": "Medicine & Healthcare",
+  "duration": "10 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 1,619/semester",
+    "international": "RM 57,350/course",
+    "notes": "Standard public university fees (MQA regulated)",
+    "currency": "MYR",
+    "local_total": 35000,
+    "international_total": 105000,
+    "per_year_local": 7000,
+    "per_year_international": 21000
+  },
+  "requirements": {
+    "general": "SPM with credits in Bahasa Melayu and Sejarah; STPM/Matriculation/Diploma with CGPA 2.00",
+    "specific": "Pass in Tamhidi USIM (Medicine/Dentistry/Science) with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics",
+    "muet": "Band 3"
+  },
+  "accreditation": {
+    "mqa_program_code": null,
+    "board": "Internal Degree, Malaysia",
+    "body": "Malaysian Qualifications Agency (MQA)"
+  },
+  "faculties": [
+    "Faculty of Dentistry"
+  ],
+  "career_prospects": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/USIM/0009465/",
+    "https://admission.usim.edu.my/undergraduate-studies/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

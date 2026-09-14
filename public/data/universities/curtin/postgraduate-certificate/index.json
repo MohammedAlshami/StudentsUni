@@ -1,0 +1,11 @@
+{
+  "university": "Curtin University Malaysia",
+  "university_slug": "curtin",
+  "level": "postgraduate-certificate",
+  "level_label": "Graduate Certificate",
+  "program_count": 2,
+  "programs": [
+    { "slug": "graduate-certificate-in-project-management", "name": "Graduate Certificate in Project Management", "field": "Business & Commerce" },
+    { "slug": "graduate-certificate-in-public-health", "name": "Graduate Certificate in Public Health", "field": "Health Sciences" }
+  ]
+}

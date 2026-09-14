@@ -1,0 +1,31 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Computer Science (Hons)",
+  "slug": "computer-science",
+  "field": "Computing",
+  "duration": "3.5 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": "RM 82,530",
+    "currency": "MYR",
+    "note": "Total estimated fees; contact university for current rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Mathematics, Additional Mathematics, and English"
+  },
+  "accreditation": "R/0613/6/0049 (08/2032) MQA/FA17021",
+  "description": "Covers programming, algorithms, data structures, artificial intelligence, machine learning, software engineering, and database systems. Prepares graduates for careers in software development and IT.",
+  "career_prospect": ["Software Developer", "Data Scientist", "AI Engineer", "Systems Analyst", "IT Consultant"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://eduadvisor.my/university/universiti-teknologi-petronas-utp/all-courses",
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx",
+    "https://unienrol.com/study-malaysia/universiti-teknologi-petronas-utp/courses/all"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

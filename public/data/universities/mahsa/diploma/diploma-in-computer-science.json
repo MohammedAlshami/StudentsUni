@@ -1,0 +1,39 @@
+{
+  "university_slug": "mahsa",
+  "level": "diploma",
+  "program_name": "Diploma in Computer Science",
+  "program_slug": "diploma-in-computer-science",
+  "field": "Computing",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Nov",
+    "Oct",
+    "Jan",
+    "May",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 3734,
+    "international_total": 16234,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mahsa.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

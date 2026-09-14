@@ -1,0 +1,46 @@
+{
+  "university": "Curtin University Malaysia",
+  "university_slug": "curtin",
+  "level": "masters",
+  "program_name": "Master of Philosophy (Management)",
+  "field": "Business & Commerce",
+  "duration": "1-2 years full time",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": [
+    "February",
+    "July",
+    "October"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 26284,
+    "international_total": 36736,
+    "per_year_local": "RM26,284 per annum",
+    "per_year_international": "RM36,736 per annum",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://curtin.edu.my/study/postgraduate/research-degrees/",
+    "https://www.studymalaysia.com/edu/curtin/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

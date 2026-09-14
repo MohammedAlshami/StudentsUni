@@ -1,0 +1,21 @@
+{
+  "university": "Berjaya University College",
+  "university_slug": "berjaya",
+  "level": "bachelor",
+  "program_name": "Bachelor in Accounting and Finance (Honours)",
+  "field": "Accounting and Finance",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.berjaya.edu.my/university/faculty-of-business/bachelor-in-accounting-and-finance-hons/index.html",
+      "type": "official"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

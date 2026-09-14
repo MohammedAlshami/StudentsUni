@@ -1,0 +1,22 @@
+{
+  "programs": [
+    {
+      "slug": "diploma-in-accounting",
+      "program_name": "Diploma in Accounting"
+    },
+    {
+      "slug": "diploma-in-business-administration",
+      "program_name": "Diploma in Business Administration"
+    },
+    {
+      "slug": "diploma-in-healthcare",
+      "program_name": "Diploma in Healthcare"
+    },
+    {
+      "slug": "diploma-in-information-technology",
+      "program_name": "Diploma in Information Technology"
+    }
+  ],
+  "total": 4,
+  "last_updated": "2026-09-14"
+}

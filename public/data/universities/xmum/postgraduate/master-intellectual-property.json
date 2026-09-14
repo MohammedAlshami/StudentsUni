@@ -1,0 +1,22 @@
+{
+  "university": "Xiamen University Malaysia",
+  "university_slug": "xmum",
+  "level": "postgraduate",
+  "program_name": "Master of Intellectual Property",
+  "program_slug": "master-intellectual-property",
+  "field": "Law",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": ["September"],
+  "fees": {
+    "local": null,
+    "international": null
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.xmu.edu.my/postgraduate-programmes"
+  ],
+  "confidence": 0.95,
+  "last_updated": "2026-09-14"
+}

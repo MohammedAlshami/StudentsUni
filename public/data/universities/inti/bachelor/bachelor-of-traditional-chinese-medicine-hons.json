@@ -1,0 +1,41 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "bachelor",
+  "program_name": "Bachelor of Traditional Chinese Medicine (Hons)",
+  "program_slug": "bachelor-of-traditional-chinese-medicine-hons",
+  "field": "Medicine & Healthcare",
+  "duration": "5 years",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": [
+    "Jul",
+    "Jan"
+  ],
+  "fees": {
+    "local": "Refer to newinti.edu.my",
+    "international": "Refer to newinti.edu.my",
+    "local_total": 27565,
+    "currency": "MYR",
+    "international_total": 27565
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "faculty": "Health Sciences",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0008472/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,38 @@
+{
+  "university": "Xiamen University Malaysia",
+  "university_slug": "xmum",
+  "level": "postgraduate",
+  "program_name": "Master of Communication and Culture",
+  "program_slug": "master-communication-culture",
+  "field": "Communication & Media",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep"
+  ],
+  "fees": {
+    "local": null,
+    "international": null,
+    "local_total": 17650,
+    "currency": "MYR",
+    "international_total": 22500
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.xmu.edu.my/postgraduate-programmes",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "masters",
+  "program_name": "Master of Business Administration with a specialism in Artificial Intelligence (MBAi)",
+  "program_slug": "mba-ai",
+  "field": "Business & Management",
+  "duration": "FT: 1 year; PT: 2 years 6 months",
+  "mode": "Full-time / Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM34,800.00",
+    "international": "RM38,800.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/msc-of-business-administration-ai",
+    "https://www.studymalaysia.com/what/course/APU/0058860/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

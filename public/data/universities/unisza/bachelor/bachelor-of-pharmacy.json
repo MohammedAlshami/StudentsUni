@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Sultan Zainal Abidin",
+  "university_slug": "unisza",
+  "level": "bachelor",
+  "program_name": "Bachelor of Pharmacy (Hons)",
+  "slug": "bachelor-of-pharmacy",
+  "field": "Medicine & Healthcare",
+  "duration": "4 Yrs",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "Enquire",
+    "international": "Enquire",
+    "currency": "MYR",
+    "local_total": 28000,
+    "international_total": 84000,
+    "per_year_local": 7000,
+    "per_year_international": 21000,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unisza/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

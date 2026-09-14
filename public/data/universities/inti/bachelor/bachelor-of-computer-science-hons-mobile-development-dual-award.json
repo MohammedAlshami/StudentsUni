@@ -1,0 +1,26 @@
+{
+  "university": "INTI International University",
+  "university_slug": "inti",
+  "level": "bachelor",
+  "program_name": "Bachelor of Computer Science (Hons) (Mobile Development) (Dual-Award Degree)",
+  "program_slug": "bachelor-of-computer-science-hons-mobile-development-dual-award",
+  "field": "Computing & IT",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "study_type": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to newinti.edu.my",
+    "international": "Refer to newinti.edu.my"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "awarding_body": "Dual-award Degree",
+  "faculty": "Computing & IT",
+  "sources": [
+    "https://studymalaysia.com/what/course/INTI/0009950/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

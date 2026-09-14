@@ -1,0 +1,35 @@
+{
+  "university_slug": "pu",
+  "level": "bachelor",
+  "program_name": "Bachelor of Science (Honours) in Occupational Therapy",
+  "program_slug": "bachelor-of-science-honours-in-occupational-therapy",
+  "field": "Medicine and Health",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Oct"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 17675,
+    "international_total": 20500,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://perdanauniversity.edu.my/explore-all-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

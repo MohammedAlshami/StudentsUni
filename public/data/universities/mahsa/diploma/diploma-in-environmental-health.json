@@ -1,0 +1,38 @@
+{
+  "university_slug": "mahsa",
+  "level": "diploma",
+  "program_name": "Diploma in Environmental Health",
+  "program_slug": "diploma-in-environmental-health",
+  "field": "Medicine and Health",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Nov",
+    "Oct",
+    "Jan",
+    "May",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 14800,
+    "international_total": 18050,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mahsa.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

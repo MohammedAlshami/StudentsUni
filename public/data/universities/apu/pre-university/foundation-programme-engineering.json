@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "pre-university",
+  "program_name": "Foundation Programme (Engineering Route)",
+  "program_slug": "foundation-programme-engineering",
+  "field": "Engineering",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM27,500.00",
+    "international": "RM29,200.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/foundation-programme-engineering",
+    "https://www.studymalaysia.com/what/course/APU/0005481/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

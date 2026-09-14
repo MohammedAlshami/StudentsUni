@@ -1,0 +1,30 @@
+{
+  "university": "Raffles University Iskandar",
+  "university_slug": "rui",
+  "level": "Masters Degree",
+  "program_name": "Master of Business Administration (ODL)",
+  "field": "Business Management & Administration",
+  "slug": "master-of-business-administration-odl",
+  "duration": "1 Year 4 Months (Full Time) | 2-4 Years (Part Time)",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": "Refer to Univ.",
+    "local_total": null,
+    "per_year_local": null,
+    "notes": " Local fees not published online; contact university."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/RUI/0058263/",
+    {
+      "url": "https://raffles-university.edu.my/programme/master-of-business-administration-odl/",
+      "publisher": "Raffles University",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

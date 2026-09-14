@@ -1,0 +1,21 @@
+{
+  "university": "Berjaya University College",
+  "university_slug": "berjaya",
+  "level": "foundation",
+  "program_name": "Foundation in Arts and Social Science",
+  "field": "Arts and Social Science",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.berjaya.edu.my/university/faculty-of-education-and-arts/school-of-communication/foundation-art-social-science/index.html",
+      "type": "official"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

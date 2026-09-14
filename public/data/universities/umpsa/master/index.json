@@ -1,0 +1,185 @@
+{
+  "university": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "university_slug": "umpsa",
+  "level": "master",
+  "source": "https://www.studymalaysia.com/edu/ump/courses/",
+  "last_updated": "2026-09-15",
+  "programs": [
+    {
+      "slug": "master-of-engineering-manufacturing",
+      "name": "Master of Engineering (Manufacturing)",
+      "field": "Manufacturing & Processing"
+    },
+    {
+      "slug": "master-of-technology-management-industrial-safety-health",
+      "name": "Master of Technology Management (Industrial Safety & Health)",
+      "field": "Occupational Health & Hygiene"
+    },
+    {
+      "slug": "master-of-technology-management-project-management",
+      "name": "Master of Technology Management (Project Management)",
+      "field": "Business Management & Administration"
+    },
+    {
+      "slug": "master-of-technology-management-human-capital-resources",
+      "name": "Master of Technology Management (Human Capital Resources)",
+      "field": "Business Management & Administration"
+    },
+    {
+      "slug": "master-of-science-software-engineering",
+      "name": "Master of Science (Software Engineering)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "master-of-science-computer-networking",
+      "name": "Master of Science (Computer Networking)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "master-of-engineering-electrical",
+      "name": "Master of Engineering (Electrical)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-engineering-electronic",
+      "name": "Master of Engineering (Electronic)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-engineering-instrumentation",
+      "name": "Master of Engineering (Instrumentation)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-engineering-chemical",
+      "name": "Master of Engineering (Chemical)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-engineering-bio-process",
+      "name": "Master of Engineering (Bio-Process)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-science-biotechnology",
+      "name": "Master of Science (Biotechnology)",
+      "field": "Science (Life Science)"
+    },
+    {
+      "slug": "master-of-engineering-mechanical",
+      "name": "Master of Engineering (Mechanical)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-technology-management-operation-management",
+      "name": "Master of Technology Management (Operation Management)",
+      "field": "Business Management & Administration"
+    },
+    {
+      "slug": "master-of-engineering-automotive",
+      "name": "Master of Engineering (Automotive)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-engineering-construction",
+      "name": "Master of Engineering (Construction)",
+      "field": "Architecture & Building"
+    },
+    {
+      "slug": "master-of-science-environmental-management",
+      "name": "Master of Science (Environmental Management)",
+      "field": "Science (Applied Science)"
+    },
+    {
+      "slug": "master-of-science-environmental-technology",
+      "name": "Master of Science (Environmental Technology)",
+      "field": "Science (Applied Science)"
+    },
+    {
+      "slug": "master-of-engineering-civil",
+      "name": "Master of Engineering (Civil Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-engineering-gas",
+      "name": "Master of Engineering (Gas)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-engineering-chemical-with-entrepreneurship",
+      "name": "Master of Engineering (Chemical Engineering With Entrepreneurship)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-engineering-industrial",
+      "name": "Master of Engineering (Industrial)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-engineering-mechatronic",
+      "name": "Master of Engineering (Mechatronic)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-science-ict",
+      "name": "Master of Science (Information & Communication Technology)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "master-of-science-software-engineering-coursework",
+      "name": "Master of Science (Software Engineering)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "master-of-science-advanced-materials",
+      "name": "Master of Science (Advanced Materials)",
+      "field": "Science (Physical Science)"
+    },
+    {
+      "slug": "master-of-science-chemistry",
+      "name": "Master of Science (Chemistry)",
+      "field": "Science (Physical Science)"
+    },
+    {
+      "slug": "master-of-science-food-science",
+      "name": "Master of Science (Food Science)",
+      "field": "Science (Life Science)"
+    },
+    {
+      "slug": "master-of-science-industrial-chemistry",
+      "name": "Master of Science (Industrial Chemistry)",
+      "field": "Science (Physical Science)"
+    },
+    {
+      "slug": "master-of-science-physics",
+      "name": "Master of Science (Physics)",
+      "field": "Science (Physical Science)"
+    },
+    {
+      "slug": "master-of-science-statistics",
+      "name": "Master of Science (Statistics)",
+      "field": "Mathematics & Statistics"
+    },
+    {
+      "slug": "master-of-technology-management-techno-preneurship",
+      "name": "Master of Technology Management (Techno-Preneurship)",
+      "field": "Business Management & Administration"
+    },
+    {
+      "slug": "master-of-business-administration",
+      "name": "Master of Business Administration",
+      "field": "Business Management & Administration"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 680.0,
+    "per_year_international": null,
+    "notes": "Per semester: 340/sem"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/umpsa/courses/"
+  ]
+}

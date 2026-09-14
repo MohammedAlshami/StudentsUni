@@ -1,0 +1,36 @@
+{
+  "university_slug": "pu",
+  "level": "masters",
+  "program_name": "Postgraduate Diploma in Bioinformatics",
+  "program_slug": "postgraduate-diploma-in-bioinformatics",
+  "field": "Computing",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 17600,
+    "international_total": 21600,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://perdanauniversity.edu.my/explore-all-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,34 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of English (Hons)",
+  "field": "Languages (National language & other languages)",
+  "slug": "bachelor-of-english-hons",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "43280/Course",
+    "international": "43280/Course",
+    "local_total": 15000,
+    "currency": "MYR",
+    "international_total": 24177
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0005239/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

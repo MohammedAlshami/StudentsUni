@@ -1,0 +1,310 @@
+{
+  "university": "New Era University College",
+  "university_slug": "neuc",
+  "level": "master",
+  "level_label": "Master's Degree",
+  "program_count": 7,
+  "programs": [
+    {
+      "program_name": "Master of Arts in ASEAN Studies",
+      "program_slug": "master-of-arts-in-asean-studies",
+      "field": "southeast-asian-studies",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R/0288/7/0005)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/gs.php",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Master of Arts in Chinese Studies",
+      "program_slug": "master-of-arts-in-chinese-studies",
+      "field": "chinese-studies",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R/0232/7/0014)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/gs.php",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Master of Education (Research)",
+      "program_slug": "master-of-education-research",
+      "field": "education",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R/0110/7/0037)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/gs.php",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Master of Education (Coursework)",
+      "program_slug": "master-of-education-coursework",
+      "field": "education",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (N/0113/7/0007)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/gs.php",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "program_slug": "master-of-business-administration",
+      "field": "business",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R/0414/7/0263)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/gs.php",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Master of Art, Design and Creative Media (Coursework)",
+      "program_slug": "master-of-art-design-and-creative-media-coursework",
+      "field": "design",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (N/0210/7/0003)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/gs.php",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Master of Art, Design and Creative Media (Research)",
+      "program_slug": "master-of-art-design-and-creative-media-research",
+      "field": "design",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (N/0210/7/0005)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/gs.php",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    }
+  ]
+}

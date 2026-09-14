@@ -1,0 +1,43 @@
+{
+  "level": "odl",
+  "university": "imu",
+  "programs": [
+    {
+      "slug": "nursing-odl",
+      "name": "Nursing",
+      "mode": "ODL",
+      "field": "Nursing"
+    },
+    {
+      "slug": "analytical-pharmaceutical-chemistry-msc-odl",
+      "name": "Analytical & Pharmaceutical Chemistry (MSc)",
+      "mode": "ODL",
+      "field": "Pharmacy"
+    },
+    {
+      "slug": "diabetes-management-education-pgdip-odl",
+      "name": "Diabetes Management & Education (Postgraduate Diploma)",
+      "mode": "ODL",
+      "field": "Health Sciences"
+    },
+    {
+      "slug": "health-professions-education-pgcert-master-odl",
+      "name": "Health Professions Education (Postgraduate Certificate / Masters only)",
+      "mode": "ODL",
+      "field": "Education"
+    },
+    {
+      "slug": "molecular-medicine-msc-odl",
+      "name": "Molecular Medicine (MSc)",
+      "mode": "ODL",
+      "field": "Medicine"
+    },
+    {
+      "slug": "public-health-msc-odl",
+      "name": "Public Health (MSc)",
+      "mode": "ODL",
+      "field": "Health Sciences"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

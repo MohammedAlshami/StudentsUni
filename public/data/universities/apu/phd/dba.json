@@ -1,0 +1,28 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "phd",
+  "program_name": "Doctor of Business Administration (DBA)",
+  "program_slug": "dba",
+  "field": "Business & Management",
+  "duration": null,
+  "mode": "Full-time / Part-time",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": null,
+    "currency": "MYR",
+    "local_total": 56800.0,
+    "international_total": 56800.0,
+    "notes": "Total program fee from source",
+    "per_year_local": 18933.0
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/phd-in-DBA",
+    "https://www.studymalaysia.com/edu/apu/courses/"
+  ],
+  "confidence": 0.7,
+  "last_updated": "2026-09-15"
+}

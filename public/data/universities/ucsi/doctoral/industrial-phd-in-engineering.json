@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "doctoral",
+  "program_name": "Industrial PhD in Engineering",
+  "field": "Engineering",
+  "duration": "3-7 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 57,440 - RM 58,160",
+    "international": "RM 72,400 - RM 73,300",
+    "currency": "MYR",
+    "local_total": 57440,
+    "international_total": 72400,
+    "per_year_local": 57440,
+    "per_year_international": 72400,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0057301/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

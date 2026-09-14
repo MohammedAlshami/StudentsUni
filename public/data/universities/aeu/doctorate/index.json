@@ -1,0 +1,14 @@
+{
+  "programs": [
+    {
+      "slug": "doctor-of-business-administration",
+      "program_name": "Doctor of Business Administration"
+    },
+    {
+      "slug": "doctor-of-education",
+      "program_name": "Doctor of Education"
+    }
+  ],
+  "total": 2,
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,29 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Science (Honours) in Psychology with a specialism in Cyberpsychology",
+  "program_slug": "bsc-psychology-cyberpsychology",
+  "field": "Psychology",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": null,
+    "currency": "MYR",
+    "local_total": 100400.0,
+    "international_total": 108500.0,
+    "notes": "Fee based on BSc Psychology from StudyMalaysia",
+    "per_year_local": 33467.0
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/bachelor-of-science-psychology-cyberpsychology",
+    "https://www.studymalaysia.com/edu/apu/courses/",
+    "https://www.studymalaysia.com/what/course/APU/0059082/"
+  ],
+  "confidence": 0.7,
+  "last_updated": "2026-09-15"
+}

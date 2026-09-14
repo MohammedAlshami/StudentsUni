@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Computer Engineering with Honours",
+  "slug": "computer-engineering",
+  "field": "Engineering",
+  "duration": "4 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": "RM 104,500",
+    "currency": "MYR",
+    "note": "Total estimated fees; contact university for current rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Mathematics, Additional Mathematics, Physics, Chemistry, and English"
+  },
+  "accreditation": null,
+  "description": "Integration of computer science and electrical engineering, covering digital systems, microprocessor design, embedded systems, software engineering, and computer networks.",
+  "career_prospect": ["Computer Engineer", "Embedded Systems Engineer", "Hardware Engineer", "IoT Engineer", "Systems Architect"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://afterschool.my/uni/universiti-teknologi-petronas/courses",
+    "https://eduadvisor.my/university/universiti-teknologi-petronas-utp/all-courses"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

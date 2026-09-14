@@ -1,0 +1,18 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "master",
+  "program_name": "Master of Business Administration (Open & Distance Learning – ODL)",
+  "program_slug": "master-of-business-administration-odl",
+  "field": "Business Management & Administration",
+  "duration": "2 years (maximum candidature of 3 years)",
+  "mode": "Open and Distance Learning (ODL)",
+  "intakes": ["Modular"],
+  "fees": { "local": "RM18,000.00", "international": "RM30,000.00" },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0057841/",
+    "https://www.help.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

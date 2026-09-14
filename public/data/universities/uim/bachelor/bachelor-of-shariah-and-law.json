@@ -1,0 +1,22 @@
+{
+  "university_slug": "uim",
+  "level": "bachelor",
+  "program_name": "Bachelor of Shariah and Law",
+  "program_slug": "bachelor-of-shariah-and-law",
+  "field": "Law",
+  "duration": "4 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.uim.edu.my",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

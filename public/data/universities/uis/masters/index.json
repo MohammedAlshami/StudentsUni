@@ -1,0 +1,116 @@
+[
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "masters",
+    "program_name": "Master of Business Administration",
+    "field": "Business",
+    "slug": "master-of-business-administration",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "masters",
+    "program_name": "Master of Education",
+    "field": "Education",
+    "slug": "master-of-education",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "masters",
+    "program_name": "Master of Islamic Studies",
+    "field": "Islamic Studies",
+    "slug": "master-of-islamic-studies",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "masters",
+    "program_name": "Master of Computer Science",
+    "field": "Computer Science",
+    "slug": "master-of-computer-science",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "masters",
+    "program_name": "Master of Halal Management",
+    "field": "Business",
+    "slug": "master-of-halal-management",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-penyelidikan"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  },
+  {
+    "university": "Selangor Islamic University",
+    "university_slug": "uis",
+    "level": "masters",
+    "program_name": "Master of Communication",
+    "field": "Media",
+    "slug": "master-of-communication",
+    "duration": null,
+    "mode": null,
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://study.uis.edu.my/peringkat-ijazah-sarjana-penyelidikan"
+    ],
+    "confidence": 0.5,
+    "last_updated": "2026-09-14"
+  }
+]

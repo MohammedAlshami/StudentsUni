@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "master",
+  "program_name": "M.Sc. Technopreneurship",
+  "field": "Technopreneurship",
+  "duration": "1-3 Years",
+  "mode": "Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 39,370 - RM 40,570",
+    "international": "RM 54,575 - RM 55,925",
+    "currency": "MYR",
+    "local_total": 39370,
+    "international_total": 54575,
+    "per_year_local": 39370,
+    "per_year_international": 54575,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0008896/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,10 @@
+{
+  "university_slug": "ums",
+  "level": "foundation",
+  "programs": [
+    {"slug": "foundation-in-social-science", "name": "Foundation in Social Science", "field": "Pre-University", "detail_status": "pending"},
+    {"slug": "foundation-in-agricultural-science", "name": "Foundation in Agricultural Science", "field": "Pre-University", "detail_status": "pending"},
+    {"slug": "foundation-in-science", "name": "Foundation in Science", "field": "Pre-University", "detail_status": "pending"},
+    {"slug": "foundation-in-information-technology", "name": "Foundation in Information Technology", "field": "Pre-University", "detail_status": "pending"}
+  ]
+}

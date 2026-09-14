@@ -1,0 +1,51 @@
+{
+  "university": "Open University Malaysia",
+  "university_slug": "oum",
+  "level": "masters",
+  "program_name": "Master of Education",
+  "program_slug": "master-of-education",
+  "field": "Education (Teacher Training & Education Sciences)",
+  "duration": "1 Yr 8 Mths ; 2 Yrs (full coursework)",
+  "mode": "Open and Distance Learning (ODL)",
+  "intakes": null,
+  "fees": {
+    "currency": "RM",
+    "local_total": 18396.0,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "Local: 18,396/Course"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://studymalaysia.com/what/course/OUM/0008648/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/oum/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

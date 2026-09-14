@@ -1,0 +1,21 @@
+{
+  "slug": "upm",
+  "name": "Universiti Putra Malaysia",
+  "abbr": "UPM",
+  "type": "public-university",
+  "state": "Selangor",
+  "city": "Serdang",
+  "website": "https://www.upm.edu.my",
+  "levels_available": ["undergraduate", "postgraduate", "foundation"],
+  "program_counts": {
+    "undergraduate": 76,
+    "postgraduate": 296,
+    "foundation": 1
+  },
+  "sources": [
+    "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800",
+    "https://www.upm.edu.my/kemasukan/program/pascasiswazah-76276",
+    "https://www.upm.edu.my/kemasukan/program/pengajian_asasi-76278"
+  ],
+  "last_updated": "2026-09-14"
+}

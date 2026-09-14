@@ -1,0 +1,55 @@
+{
+  "slug": "mmu",
+  "name": "Multimedia University",
+  "abbreviation": "MMU",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": "Cyberjaya",
+  "campuses": ["Cyberjaya", "Melaka"],
+  "website": "https://www.mmu.edu.my",
+  "phone": "1300800668",
+  "address": "Persiaran Multimedia, Cyberjaya, 63100 Cyberjaya, Selangor, Malaysia",
+  "faculties": [
+    "Faculty of Applied Communication (FAC)",
+    "Faculty of Business (FOB)",
+    "Faculty of Cinematic Arts (FCA)",
+    "Faculty of Computing and Informatics (FCI)",
+    "Faculty of Creative Multimedia (FCM)",
+    "Faculty of Artificial Intelligence & Engineering (FAIE)",
+    "Faculty of Engineering & Technology (FET)",
+    "Faculty of Information Science and Technology (FIST)",
+    "Faculty of Law (FOL)",
+    "Faculty of Management (FOM)",
+    "Open and Distance Learning (ODL)"
+  ],
+  "levels_available": ["foundation", "diploma", "bachelor", "master", "phd"],
+  "program_counts": {
+    "foundation": 8,
+    "diploma": 15,
+    "bachelor": 44,
+    "master": 16,
+    "phd": 7
+  },
+  "accreditation": {
+    "mqa_self_accredited": true,
+    "note": "MQA Self-Accreditation status. Premier Digital Tech University. Alliance of Government-Linked Universities."
+  },
+  "sources": [
+    {
+      "url": "https://www.mmu.edu.my",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.mmu.edu.my/full-list-of-programmes-offered/",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.studymalaysia.com/edu/mmu/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

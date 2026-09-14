@@ -1,0 +1,22 @@
+{
+  "university_slug": "twintech",
+  "level": "doctorate",
+  "program_name": "Doctor in Business Administration",
+  "program_slug": "doctor-in-business-administration",
+  "field": "Business & Entrepreneurship",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://newtwintech.edu.my/doctor-in-business-administration/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,33 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "pre-university",
+  "program_name": "Monash University Foundation Year (MUFY)",
+  "field": "Foundation Studies",
+  "duration": "1 year (3 semesters)",
+  "mode": "Full-time",
+  "intakes": [
+    "January",
+    "April",
+    "August"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 38213,
+    "international_total": 43680,
+    "per_year_local": "RM38,213",
+    "per_year_international": "RM43,680",
+    "notes": "Enquire for fees"
+  },
+  "requirements": null,
+  "accreditation": {
+    "mqa_status": "MQA",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/diploma-and-pathway/mufy",
+    "https://eduadvisor.my/university/monash-university-malaysia"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

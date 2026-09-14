@@ -1,0 +1,29 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "bachelors",
+  "program_name": "American Degree Transfer Program (Arts) (Advanced Entry)",
+  "program_slug": "american-degree-transfer-program-arts-advanced-entry",
+  "field": "Arts",
+  "faculty": null,
+  "duration": "1-1.5 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "USD30,000 (Western Michigan University and University of Wisconsin Eau Claire), USD41,000 (Eastern Connecticut State University)",
+    "international": null,
+    "currency": "MYR",
+    "local_total": null,
+    "per_year_local": 71000.0,
+    "notes": "Fee: USD30000 (Western Michigan University and University of Wisconsin Eau Claire),  USD41000 (Eastern Conneticut State University)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "United States",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0057909/",
+    "https://www.studymalaysia.com/edu/sunway/courses/"
+  ],
+  "confidence": 0.7,
+  "last_updated": "2026-09-14"
+}

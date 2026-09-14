@@ -1,0 +1,65 @@
+{
+  "university": "Nilai University",
+  "university_slug": "nilai",
+  "level": "bachelors",
+  "program_name": "Bachelor of Business Administration (Hons) in Human Resource Management",
+  "program_slug": "bachelor-of-business-administration-hons-in-human-resource-management",
+  "field": "Business Management & Administration",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Sep",
+    "Jun",
+    "Jan"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 19347,
+    "international_total": 24884,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "Local: 54000/Course; International: 54000/Course"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://studymalaysia.com/what/course/NILAI/0053411/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/nilai/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

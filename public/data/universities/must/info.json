@@ -1,0 +1,31 @@
+{
+  "university": "Malaysia University of Science & Technology",
+  "university_slug": "must",
+  "abbreviation": "MUST",
+  "type": "private-university",
+  "state": "Selangor",
+  "website": "https://www.must.edu.my",
+  "studymalaysia_url": null,
+  "last_updated": "2026-09-15",
+  "sources": [
+    {
+      "url": "https://must.edu.my/programmes_explore-our-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "masters",
+    "doctorate"
+  ],
+  "program_counts": {
+    "foundation": 1,
+    "diploma": 5,
+    "bachelor": 7,
+    "masters": 5,
+    "doctorate": 3
+  }
+}

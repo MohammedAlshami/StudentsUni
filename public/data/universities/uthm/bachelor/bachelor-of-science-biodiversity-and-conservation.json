@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Tun Hussein Onn Malaysia",
+  "university_slug": "uthm",
+  "level": "bachelor",
+  "program_name": "Bachelor of Science (Biodiversity & Conservation)(Hons)",
+  "program_slug": "bachelor-of-science-biodiversity-and-conservation",
+  "field": "Science",
+  "faculty": "Applied Sciences and Technology",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "700/Sem",
+    "international": "3000/Sem",
+    "currency": "MYR",
+    "local_total": 7200,
+    "per_year_local": 1800,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 21600,
+    "per_year_international": 5400
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTHM/0009766/",
+    "https://www.studymalaysia.com/edu/uthm/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

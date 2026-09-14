@@ -1,0 +1,24 @@
+{
+  "slug": "utm",
+  "name": "Universiti Teknologi Malaysia",
+  "abbr": "UTM",
+  "type": "public-university",
+  "state": "Johor",
+  "city": "Skudai",
+  "website": "https://www.utm.my",
+  "levels_available": ["foundation", "diploma", "bachelor", "postgraduate"],
+  "program_counts": {
+    "foundation": 3,
+    "diploma": 15,
+    "bachelor": 55,
+    "postgraduate": 4
+  },
+  "sources": [
+    "https://www.utm.my",
+    "https://admission.utm.my/offered-allcourses-malaysian/",
+    "https://studymalaysia.com/edu/utm_space/",
+    "https://comp.utm.my/undergraduate/",
+    "https://admission.utm.my/malaysian-postgraduate-study/"
+  ],
+  "last_updated": "2026-09-14"
+}

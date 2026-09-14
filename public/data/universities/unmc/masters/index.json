@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "msc-civil-engineering",
+    "program_name": "M.Sc. (Civil Engineering)",
+    "field": "Engineering",
+    "duration": "1 Year",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "msc-business-and-management",
+    "program_name": "M.Sc. Business and Management",
+    "field": "Business",
+    "duration": "1 Year",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "mba-master-of-business-administration",
+    "program_name": "M.B.A. (Master of Business Administration)",
+    "field": "Business",
+    "duration": "1-2 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "msc-mechanical-engineering",
+    "program_name": "M.Sc. (Mechanical Engineering)",
+    "field": "Engineering",
+    "duration": "1 Year",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "msc-finance-and-investment",
+    "program_name": "M.Sc. (Finance and Investment)",
+    "field": "Finance",
+    "duration": "1-2 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "ma-teaching-of-english-to-speakers-of-other-languages-tesol",
+    "program_name": "M.A. (Teaching of English to Speakers of Other Languages, TESOL)",
+    "field": "Education",
+    "duration": "1-2 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "msc-chemical-engineering",
+    "program_name": "M.Sc. (Chemical Engineering)",
+    "field": "Engineering",
+    "duration": "1 Year",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "msc-electronic-communications-and-computer-engineering",
+    "program_name": "M.Sc. (Electronic Communications & Computer Engineering)",
+    "field": "Engineering",
+    "duration": "1 Year",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "ma-education",
+    "program_name": "M.A. (Education)",
+    "field": "Education",
+    "duration": "1-2 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "ma-international-relations",
+    "program_name": "M.A. (International Relations)",
+    "field": "International Relations",
+    "duration": "1-2 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "ma-educational-leadership-and-management",
+    "program_name": "M.A. (Educational Leadership and Management)",
+    "field": "Education",
+    "duration": "1-2 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "msc-environmental-engineering",
+    "program_name": "M.Sc. (Environmental Engineering)",
+    "field": "Engineering",
+    "duration": "1 Year",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "msc-occupational-health-and-safety-leadership",
+    "program_name": "M.Sc. (Occupational Health & Safety Leadership)",
+    "field": "Occupational Health",
+    "duration": "2-3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "ma-english-with-creative-writing",
+    "program_name": "M.A. English with Creative Writing",
+    "field": "English",
+    "duration": "1 Year",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "ma-english-language-and-literature",
+    "program_name": "M.A. (English Language and Literature)",
+    "field": "English",
+    "duration": "1 Year",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "msc-investment-and-islamic-finance",
+    "program_name": "M.Sc. (Investment and Islamic Finance)",
+    "field": "Finance",
+    "duration": "1 Year",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "msc-management-psychology",
+    "program_name": "M.Sc. (Management Psychology)",
+    "field": "Psychology",
+    "duration": "2-3 Years",
+    "mode": "Part-time"
+  }
+]

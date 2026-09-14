@@ -1,0 +1,21 @@
+[
+  {
+    "university": "Royal College of Surgeons in Ireland & UCD Malaysia Campus",
+    "university_slug": "rumc",
+    "level": "phd",
+    "program_name": "Structured PhD",
+    "field": "Medicine",
+    "slug": "structured-phd",
+    "duration": "3-4 years",
+    "mode": "Full Time",
+    "intakes": null,
+    "fees": null,
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.rumc.edu.my/programmes/structured-ph-d/"
+    ],
+    "confidence": 0.9,
+    "last_updated": "2026-09-14"
+  }
+]

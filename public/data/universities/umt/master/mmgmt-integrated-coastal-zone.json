@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Malaysia Terengganu",
+  "university_slug": "umt",
+  "level": "master",
+  "program_name": "Master of Management (Integrated Coastal Zone)",
+  "program_name_malay": "Sarjana Pengurusan (Integrated Coastal Zone)",
+  "program_slug": "mmgmt-integrated-coastal-zone",
+  "field": "Management",
+  "type": "coursework",
+  "duration": "40 months",
+  "mode": "full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 8320.0,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: 8320/Course"
+  },
+  "requirements": null,
+  "accreditation": "MQA/FA6879",
+  "sources": [
+    "https://umt.my/all-programs-at-umt/",
+    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255",
+    "https://www.studymalaysia.com/edu/umt/courses/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

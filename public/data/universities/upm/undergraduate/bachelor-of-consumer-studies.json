@@ -1,0 +1,43 @@
+{
+  "university": "Universiti Putra Malaysia",
+  "university_slug": "upm",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Consumer Studies with Honours",
+  "program_slug": "bachelor-of-consumer-studies",
+  "field": "Human Ecology",
+  "duration": null,
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 550,
+    "international_total": 5338,
+    "per_year_local": 1100,
+    "per_year_international": 10676,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800",
+    "https://www.studymalaysia.com/edu/upm/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,101 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "pre-university",
+  "level_label": "Pre-University / Foundation Studies",
+  "program_count": 4,
+  "programs": [
+    {
+      "program_name": "Foundation in Arts",
+      "program_slug": "foundation-in-arts",
+      "field": "Arts",
+      "duration": "3 Semesters / 12 months",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM9,900.00",
+        "international": "RM18,100.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://cpus.tarc.edu.my/programmes/foundation-in-arts",
+        "https://www.studymalaysia.com/what/course/tarumt/0058151/"
+      ],
+      "confidence": 0.85,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Science",
+      "program_slug": "foundation-in-science",
+      "field": "Science",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM10,200.00",
+        "international": "RM18,400.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://cpus.tarc.edu.my/programmes/foundation-in-science",
+        "https://www.studymalaysia.com/what/course/tarumt/0058152/"
+      ],
+      "confidence": 0.85,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Business",
+      "program_slug": "foundation-in-business",
+      "field": "Business",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM9,900.00",
+        "international": "RM18,100.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://cpus.tarc.edu.my/programmes/foundation-in-business",
+        "https://www.studymalaysia.com/what/course/tarumt/0058155/"
+      ],
+      "confidence": 0.85,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Computing",
+      "program_slug": "foundation-in-computing",
+      "field": "Computing",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM10,200.00",
+        "international": "RM18,400.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://cpus.tarc.edu.my/programmes/foundation-in-computing",
+        "https://www.studymalaysia.com/what/course/tarumt/0058156/"
+      ],
+      "confidence": 0.85,
+      "last_updated": "2026-09-14"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 10200.0,
+    "international_total": 18400.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: RM10,200.00"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/tarumt/courses/"
+  ],
+  "last_updated": "2026-09-15"
+}

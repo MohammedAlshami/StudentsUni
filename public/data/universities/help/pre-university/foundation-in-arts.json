@@ -1,0 +1,57 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "pre-university",
+  "program_name": "Foundation in Arts",
+  "program_slug": "foundation-in-arts",
+  "field": "Pre-University Programme",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Jul",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "RM17,800.00",
+    "international": null,
+    "local_total": 14700,
+    "currency": "MYR",
+    "international_total": 15200
+  },
+  "requirements": {
+    "spm": "Minimum 5 credits in any subjects with a minimum pass in BM & History",
+    "o_level": "Minimum 5 credits in any subjects",
+    "uec": "Minimum 3 subjects with Grade B"
+  },
+  "accreditation": {
+    "mqa_code": "R3/0011/3/0050",
+    "valid_until": "07/29",
+    "additional_codes": [
+      "A10668"
+    ]
+  },
+  "description": "HELP's Foundation programme equips students with skills, knowledge and qualifications to pursue a degree at university. Covers various areas essential for contemporary education.",
+  "campus": [
+    "Damansara Heights",
+    "Subang Bestari"
+  ],
+  "credit_hours": 50,
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0006146/",
+    "https://www.help.edu.my",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

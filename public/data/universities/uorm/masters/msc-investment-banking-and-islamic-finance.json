@@ -1,0 +1,22 @@
+{
+  "university": "University of Reading Malaysia",
+  "university_slug": "uorm",
+  "level": "masters",
+  "program_name": "MSc Investment Banking and Islamic Finance",
+  "field": "Finance",
+  "duration": "1 Year",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM45,000/Yr",
+    "international": "RM54,000/Yr"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/reading/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "msc-investment-banking-and-islamic-finance"
+}

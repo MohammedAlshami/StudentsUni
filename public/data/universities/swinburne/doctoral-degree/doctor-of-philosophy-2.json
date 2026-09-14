@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Doctoral Degree (Ph.D)",
+  "program_name": "Doctor of Philosophy (2)",
+  "field": "Business Management & Administration",
+  "slug": "doctor-of-philosophy-2",
+  "duration": "FT(4 Years) & PT(8 Years)",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "local": "RM34,160",
+    "international": "RM43,480",
+    "currency": "MYR",
+    "local_total": 34160,
+    "international_total": 43480,
+    "per_year_local": 8540,
+    "per_year_international": 10870,
+    "notes": "Total course fee for 4-year programme"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0056009/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

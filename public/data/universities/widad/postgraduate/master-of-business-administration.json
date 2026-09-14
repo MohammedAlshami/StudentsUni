@@ -1,0 +1,21 @@
+{
+  "university": "Widad University College",
+  "university_slug": "widad",
+  "level": "master",
+  "program_name": "Master of Business Administration (MBA)",
+  "field": "Business Administration",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.widad.edu.my/uc/my/courses/fbm/master-business-administration",
+      "type": "official"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

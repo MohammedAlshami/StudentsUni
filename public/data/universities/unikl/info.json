@@ -1,0 +1,31 @@
+{
+  "university": "Universiti Kuala Lumpur",
+  "university_slug": "unikl",
+  "abbreviation": "UniKL",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "country": "Malaysia",
+  "website": "https://www.unikl.edu.my",
+  "established": "2002",
+  "accreditation": "MQA",
+  "ranking": null,
+  "study_areas": [
+    "Information Technology",
+    "Engineering",
+    "Engineering Technology",
+    "Chemical Engineering",
+    "Business & Management",
+    "Accounting & Finance",
+    "Medical & Health Sciences",
+    "Maritime & Logistics",
+    "Aviation",
+    "Creative Arts & Design",
+    "Food Technology"
+  ],
+  "sources": [
+    "https://www.unikl.edu.my",
+    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
+    "https://www.studymalaysia.com/edu/unikl/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

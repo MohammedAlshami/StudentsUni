@@ -1,0 +1,28 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Science (Hons) Business Information System",
+  "field": "Business Information System",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 80,205 - RM 81,405",
+    "international": "RM 91,500 - RM 92,850",
+    "currency": "MYR",
+    "local_total": 80205,
+    "international_total": 91500,
+    "per_year_local": 80205,
+    "per_year_international": 91500,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UCSI/0005503/",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

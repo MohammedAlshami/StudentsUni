@@ -1,0 +1,43 @@
+{
+  "university": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "university_slug": "umpsa",
+  "level": "master",
+  "program_name": "Master of Engineering (Construction)",
+  "field": "Architecture & Building",
+  "duration": "6 Semesters",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 15000,
+    "international_total": 45000,
+    "per_year_local": 5000,
+    "per_year_international": 15000,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/ump/courses/",
+    "https://studymalaysia.com/what/course/UMP/0003333/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14",
+  "research_areas": "Geotechnical & Highway Engineering & ICT in Construction"
+}

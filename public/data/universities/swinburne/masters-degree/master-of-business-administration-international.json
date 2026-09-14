@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Masters Degree",
+  "program_name": "Master of Business Administration (International)",
+  "field": "Business Management & Administration",
+  "slug": "master-of-business-administration-international",
+  "duration": "2 Years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "RM47,840",
+    "international": "RM58,720",
+    "currency": "MYR",
+    "local_total": 47840,
+    "international_total": 58720,
+    "per_year_local": 23920,
+    "per_year_international": 29360,
+    "notes": "Total course fee for 2-year programme"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0056012/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

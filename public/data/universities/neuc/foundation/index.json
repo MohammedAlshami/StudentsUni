@@ -1,0 +1,95 @@
+{
+  "university": "New Era University College",
+  "university_slug": "neuc",
+  "level": "foundation",
+  "level_label": "Foundation",
+  "program_count": 2,
+  "programs": [
+    {
+      "program_name": "Foundation in Chinese Communication",
+      "program_slug": "foundation-in-chinese-communication",
+      "field": "chinese-studies",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (R3/0231/3/0013)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=2",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    },
+    {
+      "program_name": "Foundation in Arts",
+      "program_slug": "foundation-in-arts",
+      "field": "arts",
+      "duration": null,
+      "mode": "Full-time",
+      "intakes": [],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": ""
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": "MQA approved (N/0011/3/0075)",
+        "mqa_ref": null
+      },
+      "sources": [
+        {
+          "url": "https://www.newera.edu.my/course_details.php?acalevel=2",
+          "publisher": "official",
+          "fetched_at": "2026-09-15"
+        }
+      ],
+      "confidence": "verified",
+      "last_updated": "2026-09-15"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "masters",
+  "program_name": "MSc (Vision Science) by Research",
+  "program_slug": "msc-vision-science-by-research",
+  "field": "Medicine & Healthcare",
+  "duration": "2 - 4 Yrs",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 56000,
+    "international_total": 70000,
+    "per_year_local": "RM28,000-RM35,000",
+    "per_year_international": "RM35,000-RM40,000",
+    "notes": ""
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SEGI/0009978/",
+    "https://eduswasta.my/university/segi-university/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

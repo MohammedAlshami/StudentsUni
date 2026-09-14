@@ -1,0 +1,19 @@
+{
+  "university": "Selangor Islamic University",
+  "university_slug": "uis",
+  "level": "masters",
+  "program_name": "Master of Halal Management",
+  "field": "Business",
+  "slug": "master-of-halal-management",
+  "duration": null,
+  "mode": null,
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://study.uis.edu.my/peringkat-ijazah-sarjana-penyelidikan"
+  ],
+  "confidence": 0.5,
+  "last_updated": "2026-09-14"
+}

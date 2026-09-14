@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Science (Hons) in Applied Chemistry",
+  "slug": "applied-chemistry",
+  "field": "Science",
+  "duration": "3.5 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": null,
+    "currency": "MYR",
+    "note": "Contact university for current fee rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Chemistry, Mathematics, Physics, and English"
+  },
+  "accreditation": "R/0531/6/0001 (09/26) MQA/SWA4584",
+  "description": "Covers analytical chemistry, organic chemistry, physical chemistry, polymer science, and green chemistry. Prepares graduates for careers in chemical analysis, quality control, and R&D.",
+  "career_prospect": ["Chemist", "Quality Control Analyst", "R&D Chemist", "Environmental Scientist", "Laboratory Manager"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

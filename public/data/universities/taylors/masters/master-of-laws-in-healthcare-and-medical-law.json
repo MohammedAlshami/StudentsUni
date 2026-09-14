@@ -1,0 +1,28 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "masters",
+  "program_name": "Master of Laws in Healthcare and Medical Law",
+  "slug": "master-of-laws-in-healthcare-and-medical-law",
+  "program_slug": "master-of-laws-in-healthcare-and-medical-law",
+  "field": "Law",
+  "duration": null,
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 47250,
+    "international_total": 17649,
+    "per_year_local": 47250,
+    "per_year_international": 17649,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/master-coursework/master-of-laws-in-healthcare-and-medical-law.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

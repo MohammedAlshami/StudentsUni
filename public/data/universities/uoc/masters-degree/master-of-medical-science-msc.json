@@ -1,0 +1,30 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Masters Degree",
+  "program_name": "Master of Medical Science (MSc)",
+  "field": "Medicine & Healthcare",
+  "slug": "master-of-medical-science-msc",
+  "duration": "Full-time: 2 - 6 years Part-time: 4 - 8 years",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University",
+    "local_total": 19850,
+    "per_year_local": 9925,
+    "notes": "Estimated total fees (local) for full course duration"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0055136/",
+    {
+      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

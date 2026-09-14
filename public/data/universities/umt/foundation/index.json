@@ -1,0 +1,25 @@
+{
+  "level": "foundation",
+  "level_label": "Foundation Studies",
+  "programs": [
+    {
+      "program_name": "Foundation in STEM",
+      "program_slug": "foundation-in-stem",
+      "field": "General Science",
+      "faculty": "STEM Foundation Centre"
+    }
+  ],
+  "total": 1,
+  "last_updated": "2026-09-15",
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 2260.0,
+    "per_year_international": null,
+    "notes": "Per semester: 1130-1630/Sem"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/umt/courses/"
+  ]
+}

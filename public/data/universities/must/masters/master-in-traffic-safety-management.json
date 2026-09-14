@@ -1,0 +1,22 @@
+{
+  "university_slug": "must",
+  "level": "masters",
+  "program_name": "Master in Traffic Safety Management",
+  "program_slug": "master-in-traffic-safety-management",
+  "field": "Transport and Logistics",
+  "duration": "1-2 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://must.edu.my/programmes_explore-our-programmes/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

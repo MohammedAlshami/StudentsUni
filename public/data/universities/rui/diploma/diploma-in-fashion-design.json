@@ -1,0 +1,33 @@
+{
+  "university": "Raffles University Iskandar",
+  "university_slug": "rui",
+  "level": "Diploma",
+  "program_name": "Diploma in Fashion Design",
+  "field": "Arts & Design",
+  "slug": "diploma-in-fashion-design",
+  "duration": "2 Yrs",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": "60000/Course",
+    "international_total": 60000,
+    "currency": "MYR",
+    "per_year_international": 30000,
+    "notes": "Total fee from existing data Local fees not published online; contact university.",
+    "local_total": null,
+    "per_year_local": null
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/RUI/0057251/",
+    {
+      "url": "https://raffles-university.edu.my/programme/diploma-in-fashion-design/",
+      "publisher": "Raffles University",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

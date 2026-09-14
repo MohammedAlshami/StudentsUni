@@ -1,0 +1,49 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "pre-university",
+  "program_name": "Foundation in Science",
+  "program_slug": "foundation-in-science",
+  "field": "Pre-University Programme",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Jul",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "RM17,800.00",
+    "international": null,
+    "local_total": 16450,
+    "currency": "MYR",
+    "international_total": 16950
+  },
+  "requirements": {
+    "spm": null,
+    "o_level": null,
+    "uec": null
+  },
+  "accreditation": {
+    "mqa_code": null,
+    "valid_until": null,
+    "additional_codes": null
+  },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0006186/",
+    "https://www.help.edu.my",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

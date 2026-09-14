@@ -1,0 +1,27 @@
+{
+  "university": "Universiti Pertahanan Nasional Malaysia",
+  "university_slug": "upnm",
+  "level": "postgraduate",
+  "program_name": "Doktor Falsafah (Mod Penyelidikan)",
+  "program_slug": "doktor-falsafah-penyelidikan",
+  "field": "Various fields",
+  "duration": "3-5 years",
+  "mode": "Research",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 25000,
+    "international_total": 75000,
+    "per_year_local": 5000,
+    "per_year_international": 15000,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": "Master's degree with minimum CGPA",
+  "accreditation": "MQA",
+  "faculty": "Pusat Pengajian Siswazah",
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pasca-siswazah"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,289 @@
+{
+  "level": "phd",
+  "level_label": "Doctoral Degree",
+  "programs": [
+    {
+      "program_name": "Doctor of Philosophy (Accounting and Taxation)",
+      "program_slug": "phd-accounting-and-taxation",
+      "field": "Accounting",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Business and Administration)",
+      "program_slug": "phd-business-and-administration",
+      "field": "Business Administration",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Economics)",
+      "program_slug": "phd-economics",
+      "field": "Economics",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Finance)",
+      "program_slug": "phd-finance",
+      "field": "Finance",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Marketing)",
+      "program_slug": "phd-marketing",
+      "field": "Marketing",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Counselling)",
+      "program_slug": "phd-counselling",
+      "field": "Counselling",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Social Studies)",
+      "program_slug": "phd-social-studies",
+      "field": "Social Sciences",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Management)",
+      "program_slug": "phd-management",
+      "field": "Management",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Philosophy and Civilization)",
+      "program_slug": "phd-philosophy-and-civilization",
+      "field": "Humanities",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Computer Science)",
+      "program_slug": "phd-computer-science",
+      "field": "Computer Science",
+      "faculty": "Faculty of Computer Science and Mathematics"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Mathematics)",
+      "program_slug": "phd-mathematics",
+      "field": "Mathematics",
+      "faculty": "Faculty of Computer Science and Mathematics"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Physical Science)",
+      "program_slug": "phd-physical-science",
+      "field": "Physics",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Environmental Sciences)",
+      "program_slug": "phd-environmental-sciences",
+      "field": "Environmental Science",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Marine Science)",
+      "program_slug": "phd-marine-science",
+      "field": "Marine Science",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Biotechnology)",
+      "program_slug": "phd-biotechnology",
+      "field": "Biotechnology",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Cell and Molecular Biology)",
+      "program_slug": "phd-cell-and-molecular-biology",
+      "field": "Biology",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Botany)",
+      "program_slug": "phd-botany",
+      "field": "Botany",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Ecology)",
+      "program_slug": "phd-ecology",
+      "field": "Ecology",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Genetics)",
+      "program_slug": "phd-genetics",
+      "field": "Genetics",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Physiology)",
+      "program_slug": "phd-physiology",
+      "field": "Physiology",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Microbiology)",
+      "program_slug": "phd-microbiology",
+      "field": "Microbiology",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Oceanography)",
+      "program_slug": "phd-oceanography",
+      "field": "Oceanography",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Chemical Sciences)",
+      "program_slug": "phd-chemical-sciences",
+      "field": "Chemistry",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Chemical Technology)",
+      "program_slug": "phd-chemical-technology",
+      "field": "Chemical Engineering",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Environmental Technology and Management)",
+      "program_slug": "phd-environmental-technology-and-management",
+      "field": "Environmental Technology",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Fisheries)",
+      "program_slug": "phd-fisheries",
+      "field": "Fisheries",
+      "faculty": "Faculty of Fisheries and Aquaculture Sciences"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Aquaculture)",
+      "program_slug": "phd-aquaculture",
+      "field": "Aquaculture",
+      "faculty": "Faculty of Fisheries and Aquaculture Sciences"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Food Science)",
+      "program_slug": "phd-food-science",
+      "field": "Food Science",
+      "faculty": "Faculty of Food Science and Agrotechnology"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Crop Science)",
+      "program_slug": "phd-crop-science",
+      "field": "Crop Science",
+      "faculty": "Faculty of Food Science and Agrotechnology"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Animal Science)",
+      "program_slug": "phd-animal-science",
+      "field": "Animal Science",
+      "faculty": "Faculty of Food Science and Agrotechnology"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Post Harvest Technology)",
+      "program_slug": "phd-post-harvest-technology",
+      "field": "Agricultural Technology",
+      "faculty": "Faculty of Food Science and Agrotechnology"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Maritime Studies)",
+      "program_slug": "phd-maritime-studies",
+      "field": "Maritime Studies",
+      "faculty": "Faculty of Maritime Studies"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Marine Technology)",
+      "program_slug": "phd-marine-technology",
+      "field": "Marine Technology",
+      "faculty": "Faculty of Ocean Engineering Technology"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Remote Sensing)",
+      "program_slug": "phd-remote-sensing",
+      "field": "Remote Sensing",
+      "faculty": "Faculty of Ocean Engineering Technology"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Physics)",
+      "program_slug": "phd-physics",
+      "field": "Physics",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Aquatic Science)",
+      "program_slug": "phd-aquatic-science",
+      "field": "Aquatic Science",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Biodiversity and Conservation)",
+      "program_slug": "phd-biodiversity-and-conservation",
+      "field": "Biodiversity",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Zoology)",
+      "program_slug": "phd-zoology",
+      "field": "Zoology",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Humanities)",
+      "program_slug": "phd-humanities",
+      "field": "Humanities",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Transport Services)",
+      "program_slug": "phd-transport-services",
+      "field": "Transport Services",
+      "faculty": "Faculty of Maritime Studies"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Biochemistry)",
+      "program_slug": "phd-biochemistry",
+      "field": "Biochemistry",
+      "faculty": "Faculty of Science and Marine Environment"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Mathematical Sciences)",
+      "program_slug": "phd-mathematical-sciences",
+      "field": "Mathematics",
+      "faculty": "Faculty of Computer Science and Mathematics"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Information System)",
+      "program_slug": "phd-information-system",
+      "field": "Information Systems",
+      "faculty": "Faculty of Computer Science and Mathematics"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Communication)",
+      "program_slug": "phd-communication",
+      "field": "Communication",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    },
+    {
+      "program_name": "Doctor of Philosophy (Applied Linguistic)",
+      "program_slug": "phd-applied-linguistic",
+      "field": "Linguistics",
+      "faculty": "Faculty of Business, Economics and Social Development"
+    }
+  ],
+  "total": 45,
+  "last_updated": "2026-09-15",
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 2260.0,
+    "per_year_international": null,
+    "notes": "Per semester: 1130-1630/Sem"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/umt/courses/"
+  ]
+}

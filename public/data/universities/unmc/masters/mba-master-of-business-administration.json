@@ -1,0 +1,38 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "masters",
+  "program_name": "M.B.A. (Master of Business Administration)",
+  "field": "Business",
+  "duration": "2 years",
+  "mode": "Part-time",
+  "intakes": [
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "local": "RM60,500",
+    "international": "RM63,530",
+    "local_total": 61500,
+    "currency": "MYR",
+    "international_total": 74000
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "mba-master-of-business-administration"
+}

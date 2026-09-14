@@ -1,0 +1,52 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "master",
+  "program_name": "Master of Professional Counselling",
+  "field": "Medicine & Health Sciences",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Feb"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 35520,
+    "international_total": 40320,
+    "per_year_local": "RM67,626 per course",
+    "per_year_international": "RM76,545 per course",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "bachelor_degree": null,
+      "cgpa": null
+    },
+    "international": {
+      "bachelor_degree": null,
+      "cgpa": null,
+      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/postgraduate-and-research/medicine-health-sciences",
+    "https://www.studymalaysia.com/what/course/MONASH/0053620/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

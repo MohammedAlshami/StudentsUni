@@ -1,0 +1,61 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "certificate",
+  "level_label": "Certificate Level",
+  "program_count": 2,
+  "programs": [
+    {
+      "program_name": "APIIT - Certificate in Information & Communication Technology (CICT)",
+      "program_slug": "certificate-information-communication-technology",
+      "field": "Computing & Technology",
+      "duration": "1 year 5 months",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM19,500.00",
+        "international": "RM22,400.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/cert-in-ICT",
+        "https://www.studymalaysia.com/what/course/APU/0056893/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "APIIT - Certificate in Business Administration (CBA)",
+      "program_slug": "certificate-business-administration",
+      "field": "Business & Management",
+      "duration": "1 year 4 months",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": {
+        "local": "RM19,500.00",
+        "international": "RM22,400.00"
+      },
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.apu.edu.my/course/cert-in-business-administrative",
+        "https://www.studymalaysia.com/what/course/APU/0056892/"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 26800.0,
+    "international_total": 28400.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "From StudyMalaysia: RM26,800.00"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/apu/courses/"
+  ],
+  "last_updated": "2026-09-15"
+}

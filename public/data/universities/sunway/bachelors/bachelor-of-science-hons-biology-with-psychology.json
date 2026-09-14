@@ -1,0 +1,29 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "bachelors",
+  "program_name": "Bachelor of Science (Hons) Biology with Psychology",
+  "program_slug": "bachelor-of-science-hons-biology-with-psychology",
+  "field": "Science",
+  "faculty": null,
+  "duration": "3 years, 9 semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "From RM78,680",
+    "international": "International Administrative Fee RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 78680.0,
+    "per_year_local": null,
+    "notes": "Fee: FromRM78,680.00"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0009945/",
+    "https://www.studymalaysia.com/edu/sunway/courses/"
+  ],
+  "confidence": 0.7,
+  "last_updated": "2026-09-14"
+}

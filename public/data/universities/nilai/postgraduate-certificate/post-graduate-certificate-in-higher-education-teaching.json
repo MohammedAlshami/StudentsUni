@@ -1,0 +1,51 @@
+{
+  "university": "Nilai University",
+  "university_slug": "nilai",
+  "level": "postgraduate-certificate",
+  "program_name": "Post-Graduate Certificate In Higher Education Teaching",
+  "program_slug": "post-graduate-certificate-in-higher-education-teaching",
+  "field": "Education (Teacher Training & Education Sciences)",
+  "duration": "1 Year",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "currency": "RM",
+    "local_total": 12000.0,
+    "international_total": 12000.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "Local: 12000/Course; International: 12000/Course"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://studymalaysia.com/what/course/NILAI/0057211/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/nilai/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

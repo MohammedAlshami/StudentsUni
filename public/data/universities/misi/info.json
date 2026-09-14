@@ -1,0 +1,27 @@
+{
+  "university": "MISI University",
+  "university_slug": "misi",
+  "abbreviation": "MISI",
+  "type": "private-university",
+  "state": "Selangor",
+  "website": "https://www.misi.edu.my",
+  "studymalaysia_url": "https://studymalaysia.com/edu/misi/courses/",
+  "last_updated": "2026-09-15",
+  "sources": [
+    {
+      "url": "https://www.misi.edu.my/degree/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "levels_available": [
+    "foundation",
+    "bachelor",
+    "masters"
+  ],
+  "program_counts": {
+    "foundation": 1,
+    "bachelor": 5,
+    "masters": 2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Teknikal Malaysia Melaka",
+  "university_slug": "utem",
+  "level": "bachelor",
+  "program_name": "Bachelor of Electrical Engineering Technology (Industrial Automation and Robotic) (Hons)",
+  "program_slug": "bachelor-of-electrical-engineering-technology-industrial-automation-and-robotic-hons",
+  "field": "Engineering & Engineering Trades",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "850/sem",
+    "international": null,
+    "currency": "MYR",
+    "local_total": 7600,
+    "international_total": 22800,
+    "per_year_local": 1900,
+    "per_year_international": 5700,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UTEM/0054789/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

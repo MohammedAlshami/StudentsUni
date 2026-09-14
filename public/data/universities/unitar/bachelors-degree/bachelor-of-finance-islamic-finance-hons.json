@@ -1,0 +1,34 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Finance (Islamic Finance) (Hons)",
+  "field": "Accounting & Finance",
+  "slug": "bachelor-of-finance-islamic-finance-hons",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "42480/Course",
+    "international": "42480/Course",
+    "local_total": 14400,
+    "currency": "MYR",
+    "international_total": 23750
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0006271/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

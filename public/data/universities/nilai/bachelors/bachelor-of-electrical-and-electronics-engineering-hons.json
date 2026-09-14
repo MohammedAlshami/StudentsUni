@@ -1,0 +1,51 @@
+{
+  "university": "Nilai University",
+  "university_slug": "nilai",
+  "level": "bachelors",
+  "program_name": "Bachelor of Electrical and Electronics Engineering (Hons)",
+  "program_slug": "bachelor-of-electrical-and-electronics-engineering-hons",
+  "field": "Engineering & Engineering Trades",
+  "duration": "4 years (11 Semesters)",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "currency": "RM",
+    "local_total": 71240.0,
+    "international_total": 71240.0,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "Local: 71240/Course; International: 71240/Course"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://studymalaysia.com/what/course/NILAI/0009136/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/nilai/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

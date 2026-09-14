@@ -1,0 +1,29 @@
+{
+  "university": "Universiti Sains Malaysia",
+  "university_slug": "usm",
+  "level": "master",
+  "program_name": "Master of Science in Cyber Security",
+  "field": "Computing",
+  "slug": "master-of-cyber-security",
+  "duration": "FT: Min 2 Sem/Max 4 Sem",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": ["September"],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 25200,
+    "international_total": 9450,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "Total fees from USM fee schedule (2025/2026). International fees in USD."
+  },
+  "requirements": {
+    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
+    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+  },
+  "accreditation": {"mqa_status": "Full Accreditation", "mqa_ref": null},
+  "sources": [
+    {"url": "https://admission.usm.my/index.php/postgraduate/fee-pg", "publisher": "USM Admissions", "fetched_at": "2026-09-14"}
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

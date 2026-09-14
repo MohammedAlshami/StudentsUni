@@ -1,0 +1,38 @@
+{
+  "university": "Universiti Malaysia Perlis",
+  "university_slug": "unimap",
+  "level": "master",
+  "program_name": "M.Sc.(Biomedical Electronic Engineering)",
+  "slug": "msc-biomedical-electronic-engineering",
+  "field": "Engineering",
+  "duration": "FT: 1-3 Yrs; PT: 2-5 Yrs",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
+  "fees": {
+    "local": "10490/Course",
+    "international": "18260/Course",
+    "currency": "MYR",
+    "local_total": 10490,
+    "international_total": 18260,
+    "per_year_local": 10490,
+    "per_year_international": 18260,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "entry_requirements": null,
+    "minimum_cgpa": null
+  },
+  "accreditation": {
+    "mqa": true,
+    "programme_accreditation": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UniMAP/0054424/",
+    "https://www.studymalaysia.com/edu/unimap/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

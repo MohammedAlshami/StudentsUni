@@ -1,0 +1,22 @@
+{
+  "university": "University of Cyberjaya",
+  "university_slug": "uoc",
+  "level": "Certificate Level",
+  "program_name": "Certificate in Science",
+  "field": "Science",
+  "slug": "certificate-in-science",
+  "duration": "1.5 years",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "Refer to University",
+    "international": "Refer to University"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/CUCMS/0058808/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

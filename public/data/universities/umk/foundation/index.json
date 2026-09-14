@@ -1,0 +1,23 @@
+{
+  "university": "Universiti Malaysia Kelantan",
+  "university_slug": "umk",
+  "level": "foundation",
+  "programs": [
+    {
+      "slug": "foundation-in-science",
+      "name": "Foundation in Science"
+    },
+    {
+      "slug": "foundation-in-social-science",
+      "name": "Foundation in Social Science"
+    },
+    {
+      "slug": "foundation-in-information-technology-huffaz",
+      "name": "Foundation in Information Technology (Huffaz)"
+    }
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/umk/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,14 @@
+{
+  "programs": [
+    {
+      "slug": "doctor-of-philosophy-phd",
+      "program_name": "Doctor of Philosophy (PhD)"
+    },
+    {
+      "slug": "doctor-of-philosophy-in-management-phd",
+      "program_name": "Doctor of Philosophy in Management (PhD)"
+    }
+  ],
+  "total": 2,
+  "last_updated": "2026-09-14"
+}

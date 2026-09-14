@@ -1,0 +1,45 @@
+{
+  "level": "master",
+  "programs": [
+    {
+      "slug": "master-of-business-administration",
+      "name": "Master of Business Administration",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "master-of-business-administration-in-human-resource-management",
+      "name": "Master of Business Administration in Human Resource Management",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "master-of-business-administration-global-business",
+      "name": "Master of Business Administration (Global Business)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "master-of-business-administration-in-health-care-management",
+      "name": "Master of Business Administration in Health Care Management",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "master-of-business-administration-in-project-management",
+      "name": "Master of Business Administration in Project Management",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "master-in-railway-infrastructure-management",
+      "name": "Master in Railway Infrastructure Management",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "master-of-public-administration-by-research",
+      "name": "Master of Public Administration (By Research)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "master-of-science-in-management-by-research",
+      "name": "Master of Science in Management (By Research)",
+      "field": "Business & Management"
+    }
+  ]
+}

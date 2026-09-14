@@ -1,0 +1,46 @@
+{
+  "university": "Curtin University Malaysia",
+  "university_slug": "curtin",
+  "level": "postgraduate-certificate",
+  "program_name": "Graduate Certificate in Public Health",
+  "field": "Health Sciences",
+  "duration": "3-4 years full time",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": [
+    "February",
+    "July",
+    "October"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 10707,
+    "international_total": 13362,
+    "per_year_local": "RM3,569 per unit",
+    "per_year_international": "RM4,454.50 per unit",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://curtin.edu.my/study/postgraduate/public-health/",
+    "https://www.studymalaysia.com/edu/curtin/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

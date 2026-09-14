@@ -1,0 +1,45 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "bachelor",
+  "program_name": "Bachelor of Medical Science (Honours)",
+  "field": "Medicine & Health Sciences",
+  "duration": "1 year (Honours year)",
+  "mode": "Full-time",
+  "intakes": [
+    "February",
+    "July"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 43878,
+    "international_total": 50295,
+    "per_year_local": "RM43,878 per year",
+    "per_year_international": "RM50,295 per year",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-medical-science-honours",
+    "https://www.studymalaysia.com/what/course/MONASH/0053619/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

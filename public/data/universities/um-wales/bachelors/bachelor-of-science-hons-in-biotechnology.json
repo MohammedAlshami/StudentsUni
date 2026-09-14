@@ -1,0 +1,22 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "bachelors",
+  "program_name": "Bachelor of Science (Hons) in Biotechnology",
+  "field": "Science",
+  "duration": "3 Years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM53,560",
+    "international": "RM68,220"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "bachelor-of-science-hons-in-biotechnology"
+}

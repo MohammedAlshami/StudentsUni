@@ -1,0 +1,17 @@
+{
+  "university": "University of Wollongong Malaysia",
+  "university_slug": "uowm",
+  "level": "diploma",
+  "program_name": "Diploma in Information Technology",
+  "program_slug": "diploma-information-technology",
+  "field": "Computing & IT",
+  "duration": "2.5 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": ["https://www.uow.edu.my/programmes"],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

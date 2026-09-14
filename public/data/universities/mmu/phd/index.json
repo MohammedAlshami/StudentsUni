@@ -1,0 +1,51 @@
+{
+  "university": "Multimedia University",
+  "university_slug": "mmu",
+  "level": "phd",
+  "program_count": 7,
+  "programs": [
+    {
+      "slug": "phd-engineering-by-research",
+      "name": "Doctor of Philosophy (Ph.D.) Engineering (By Research)",
+      "field": "Engineering",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "phd-management-by-research",
+      "name": "Doctor of Philosophy (Ph.D.) Management (By Research)",
+      "field": "Management",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "phd-creative-multimedia-by-research",
+      "name": "Doctor of Philosophy (Ph.D.) Creative Multimedia (By Research)",
+      "field": "Creative Multimedia",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "phd-communication-by-research",
+      "name": "Doctor of Philosophy (Ph.D.) Communication (By Research)",
+      "field": "Communication",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "phd-information-technology-by-research",
+      "name": "Doctor of Philosophy (Ph.D.) Information Technology (By Research)",
+      "field": "Information Technology",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "doctor-of-business-administration-by-coursework-and-dissertation",
+      "name": "Doctor of Business Administration (By Coursework and Dissertation)",
+      "field": "Business",
+      "detail_status": "complete"
+    },
+    {
+      "slug": "phd-law-by-research",
+      "name": "Doctor of Philosophy (Laws)",
+      "field": "Law",
+      "detail_status": "complete"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

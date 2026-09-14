@@ -1,0 +1,34 @@
+{
+  "university": "University of Wollongong Malaysia",
+  "university_slug": "uowm",
+  "abbreviation": "UOWM",
+  "slug": "uowm",
+  "name": "University of Wollongong Malaysia",
+  "type": "private-university",
+  "state": "Johor",
+  "city": "Iskandar Puteri",
+  "website": "https://www.uow.edu.my",
+  "studymalaysia_url": null,
+  "levels_available": ["foundation", "diploma", "undergraduate", "postgraduate"],
+  "program_counts": {
+    "foundation": null,
+    "diploma": null,
+    "undergraduate": null,
+    "postgraduate": null
+  },
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/UOW_Malaysia",
+      "type": "wikipedia",
+      "note": "Wikipedia page confirming UOW Malaysia (formerly KDU) is a private university established 1983, part of University of Wollongong Australia global network. Received university status in 2023."
+    },
+    {
+      "url": "https://www.uow.edu.my/programmes",
+      "type": "official",
+      "note": "Programmes page listing courses across Business, Built Environment, Computing, Communication, Engineering, Hospitality, Health Science, Law, Pre-University, and Social Science"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Formerly KDU University College, rebranded as UOW Malaysia after UOW Global Enterprises acquisition in 2019. Received university status in 2023. Campuses at Glenmarie (Selangor), George Town (Penang), and Batu Kawan (Penang). Offers programmes from Certificate to PhD level."
+}

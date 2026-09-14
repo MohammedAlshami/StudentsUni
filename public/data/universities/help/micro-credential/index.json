@@ -1,0 +1,16 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "micro-credential",
+  "programs": [
+    {
+      "program_name": "Professional DJ Course",
+      "program_slug": "professional-dj-course",
+      "field": "Personal Services",
+      "duration": "4 Months",
+      "mode": "Short-term Course",
+      "fees": { "local": "RM8,800.00" },
+      "sources": ["https://studymalaysia.com/what/course/HELP/0058740/"]
+    }
+  ]
+}

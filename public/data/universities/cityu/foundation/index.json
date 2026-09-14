@@ -1,0 +1,153 @@
+{
+  "university": "City University Malaysia",
+  "university_slug": "cityu",
+  "level": "foundation",
+  "level_label": "Foundation Studies",
+  "program_count": 9,
+  "programs": [
+    {
+      "program_name": "Foundation Studies in Science (Life Science)",
+      "program_slug": "foundation-studies-science-life-science",
+      "field": "Science",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.city.edu.my"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Arts (Graphic Design & Multimedia)",
+      "program_slug": "foundation-arts-graphic-design-multimedia",
+      "field": "Design & Creative Media",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.city.edu.my"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Business",
+      "program_slug": "foundation-in-business",
+      "field": "Business & Management",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.city.edu.my"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Arts (Built Environment)",
+      "program_slug": "foundation-arts-built-environment",
+      "field": "Architecture & Built Environment",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.city.edu.my"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Arts (Communication)",
+      "program_slug": "foundation-arts-communication",
+      "field": "Communication & Media",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.city.edu.my"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Arts (Fashion Design)",
+      "program_slug": "foundation-arts-fashion-design",
+      "field": "Design & Creative Media",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.city.edu.my"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Arts (English)",
+      "program_slug": "foundation-arts-english",
+      "field": "Languages",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.city.edu.my"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation Studies in Science (Physical Science)",
+      "program_slug": "foundation-studies-science-physical-science",
+      "field": "Science",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.city.edu.my"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Information Technology",
+      "program_slug": "foundation-in-information-technology",
+      "field": "Computing & Technology",
+      "duration": "1 year",
+      "mode": "Full-time",
+      "intakes": null,
+      "fees": null,
+      "requirements": null,
+      "accreditation": "MQA",
+      "sources": [
+        "https://www.city.edu.my"
+      ],
+      "confidence": 0.9,
+      "last_updated": "2026-09-14"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "masters",
+  "program_name": "Master of Science In Project Management",
+  "field": "Business",
+  "duration": "1.5 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM33,220",
+    "international": "RM44,520"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "master-of-science-in-project-management"
+}

@@ -1,0 +1,41 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Arts (Hons) Multimedia Design",
+  "slug": "bachelor-of-arts-hons-multimedia-design",
+  "field": "Audio-visual Techniques & Media Production",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "Refer to the Univ.",
+    "international": "Refer to the Univ.",
+    "local_total": 22334,
+    "currency": "MYR",
+    "international_total": 28850
+  },
+  "requirements": {
+    "academic": null
+  },
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SEGI/0054505/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

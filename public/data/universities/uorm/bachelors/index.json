@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "bsc-finance-and-business-management",
+    "program_name": "BSc Finance & Business Management",
+    "field": "Business",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "ba-management-and-business",
+    "program_name": "BA Management & Business",
+    "field": "Business",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "bsc-real-estate",
+    "program_name": "BSc Real Estate",
+    "field": "Real Estate",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "bsc-quantity-surveying",
+    "program_name": "BSc Quantity Surveying",
+    "field": "Construction",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "bsc-psychology",
+    "program_name": "BSc Psychology",
+    "field": "Psychology",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  }
+]

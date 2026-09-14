@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Pre-University/Foundation Studies",
+  "program_name": "Swinburne Foundation Studies (Engineering/Science)",
+  "field": "Engineering & Engineering Trades",
+  "slug": "swinburne-foundation-studies-engineering-science",
+  "duration": "1 Yr (2 Sem)",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "RM21,040",
+    "international": "RM29,040",
+    "currency": "MYR",
+    "local_total": 21040,
+    "international_total": 29040,
+    "per_year_local": 21040,
+    "per_year_international": 29040,
+    "notes": "Total course fee for 1-year programme"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0001373/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

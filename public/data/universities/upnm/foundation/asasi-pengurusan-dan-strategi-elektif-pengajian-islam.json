@@ -1,0 +1,27 @@
+{
+  "university": "Universiti Pertahanan Nasional Malaysia",
+  "university_slug": "upnm",
+  "level": "foundation",
+  "program_name": "Asasi Pengurusan dan Strategi (Elektif Pengajian Islam)",
+  "program_slug": "asasi-pengurusan-dan-strategi-elektif-pengajian-islam",
+  "field": "Pre-University Programme / University Foundation Studies",
+  "duration": "2 semesters",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 1000,
+    "international_total": 3000,
+    "per_year_local": 1000,
+    "per_year_international": 3000,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": "SPM with at least 5 credits in relevant subjects",
+  "accreditation": "Internal Qualification, Malaysia",
+  "faculty": "Pusat Asasi Pertahanan",
+  "sources": [
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/program-asasi"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

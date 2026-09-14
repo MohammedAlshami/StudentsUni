@@ -1,0 +1,43 @@
+{
+  "university": "Binary University of Management & IT",
+  "university_slug": "binary",
+  "abbreviation": "Binary",
+  "slug": "binary",
+  "name": "Binary University",
+  "type": "private-university",
+  "state": "Selangor",
+  "city": null,
+  "website": "https://www.binary.edu.my",
+  "levels_available": [
+    "bachelor",
+    "foundation",
+    "master",
+    "phd"
+  ],
+  "program_counts": {
+    "foundation": 1,
+    "bachelor": 6,
+    "master": 6,
+    "phd": 2
+  },
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://www.binary.edu.my",
+      "type": "official",
+      "note": "Website returns 403 Forbidden on all URL variations attempted"
+    },
+    {
+      "url": "https://www.easyuni.com/search?q=binary+university",
+      "type": "aggregator",
+      "note": "EasyUni search did not return Binary University results"
+    },
+    {
+      "url": "https://www.uniklik.com/university/list",
+      "type": "aggregator",
+      "note": "Uniklik does not list Binary University"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "Private university in Selangor. Website returns 403 Forbidden on all URL variations. No program data could be retrieved from any source."
+}

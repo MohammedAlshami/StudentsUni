@@ -1,0 +1,31 @@
+{
+  "level": "doctorate",
+  "university": "gnu",
+  "programs": [
+    {
+      "slug": "dba-odl",
+      "name": "Doctor of Business Administration",
+      "mode": "ODL",
+      "field": "Business Administration"
+    },
+    {
+      "slug": "phd-management-odl",
+      "name": "Doctor of Philosophy in Management",
+      "mode": "ODL",
+      "field": "Management"
+    },
+    {
+      "slug": "phd-management-on-campus",
+      "name": "Doctor of Philosophy in Management",
+      "mode": "On-Campus",
+      "field": "Management"
+    },
+    {
+      "slug": "phd-education-odl",
+      "name": "Doctor of Philosophy in Education",
+      "mode": "ODL",
+      "field": "Education"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

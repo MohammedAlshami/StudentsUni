@@ -1,0 +1,34 @@
+{
+  "university": "Tun Abdul Razak University",
+  "university_slug": "unirazak",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Accounting (Hons)",
+  "field": "Accounting & Finance",
+  "slug": "bachelor-of-accounting-hons",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Nov"
+  ],
+  "fees": {
+    "local": null,
+    "international": null,
+    "local_total": 12784,
+    "currency": "MYR",
+    "international_total": 11000
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNIRAZAK/0055951/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "bachelor-of-business-administration-honours-in-accounting",
+    "name": "Bachelor of Business Administration (Honours) in Accounting",
+    "field": "Business"
+  },
+  {
+    "slug": "bachelor-of-business-administration-honours-in-finance",
+    "name": "Bachelor of Business Administration (Honours) in Finance",
+    "field": "Business"
+  },
+  {
+    "slug": "bachelor-of-business-administration-honours-in-marketing",
+    "name": "Bachelor of Business Administration (Honours) in Marketing",
+    "field": "Business"
+  },
+  {
+    "slug": "bachelor-of-business-administration-honours-in-human-resource-management",
+    "name": "Bachelor of Business Administration (Honours) in Human Resource Management",
+    "field": "Business"
+  },
+  {
+    "slug": "bachelor-of-computer-science-honours",
+    "name": "Bachelor of Computer Science (Honours)",
+    "field": "Computing"
+  },
+  {
+    "slug": "bachelor-of-multimedia-honours",
+    "name": "Bachelor of Multimedia (Honours)",
+    "field": "Computing"
+  },
+  {
+    "slug": "bachelor-of-education-honours-in-early-childhood-education",
+    "name": "Bachelor of Education (Honours) in Early Childhood Education",
+    "field": "Education"
+  },
+  {
+    "slug": "bachelor-of-education-honours-in-teaching-english-as-a-second-language",
+    "name": "Bachelor of Education (Honours) in Teaching English as a Second Language",
+    "field": "Education"
+  },
+  {
+    "slug": "bachelor-of-corporate-communication-honours",
+    "name": "Bachelor of Corporate Communication (Honours)",
+    "field": "Media"
+  }
+]

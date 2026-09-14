@@ -1,0 +1,39 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Masters Degree",
+  "program_name": "Master of Information Technology",
+  "field": "Computing & IT",
+  "slug": "master-of-information-technology",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "20080/Course",
+    "international": "20080/Course",
+    "local_total": 19450,
+    "currency": "MYR",
+    "international_total": 33635
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0005851/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

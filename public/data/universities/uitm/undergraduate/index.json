@@ -1,0 +1,675 @@
+{
+  "university": "Universiti Teknologi MARA",
+  "university_slug": "uitm",
+  "level": "undergraduate",
+  "programs": [
+    {
+      "slug": "bachelor-of-science-furniture-technology-hons",
+      "name": "Bachelor of Science (Furniture Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-food-science-technology-hons",
+      "name": "Bachelor of Science (Food Science & Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-business-economics-hons",
+      "name": "Bachelor of Business Administration (Business Economics) (Hons)"
+    },
+    {
+      "slug": "bachelor-science-in-statistics-hons",
+      "name": "Bachelor Science in Statistics (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-in-management-mathematics-hons",
+      "name": "Bachelor of Science in Management Mathematics (Hons)"
+    },
+    {
+      "slug": "bachelor-of-real-estate-management-hons",
+      "name": "Bachelor of Real Estate Management (Hons)"
+    },
+    {
+      "slug": "bachelor-science-in-biology-hons",
+      "name": "Bachelor Science in Biology (Hons)"
+    },
+    {
+      "slug": "bachelor-science-in-chemistry-forensic-analysis-hons",
+      "name": "Bachelor Science in Chemistry (Forensic Analysis) (Hons)"
+    },
+    {
+      "slug": "bachelor-science-in-mathematics-hons",
+      "name": "Bachelor Science in Mathematics (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-education-mathematics-hons",
+      "name": "Bachelor of Science Education (Mathematics) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-physical-education-health-hons",
+      "name": "Bachelor of Education (Physical Education & Health) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-marine-lestari-technology-hons",
+      "name": "Bachelor of Science (Marine Lestari Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-science-material-and-technology-hons",
+      "name": "Bachelor of Science (Science Material and Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-industrial-physics-hons",
+      "name": "Bachelor of Science (Industrial Physics) (Hons)"
+    },
+    {
+      "slug": "bachelor-science-in-chemistry-hons",
+      "name": "Bachelor Science in Chemistry (Hons)"
+    },
+    {
+      "slug": "bachelor-of-event-management-hons",
+      "name": "Bachelor of Event Management (Hons)"
+    },
+    {
+      "slug": "bachelor-of-nursing-hons",
+      "name": "Bachelor of Nursing (Hons)"
+    },
+    {
+      "slug": "bachelor-of-health-administration-hons",
+      "name": "Bachelor of Health Administration (Hons)"
+    },
+    {
+      "slug": "bachelor-of-health-environmental-safety-hons",
+      "name": "Bachelor of Health & Environmental Safety (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-language-studies-malay-language-for-professional-communication-hons",
+      "name": "Bachelor of Applied Language Studies (Malay Language for Professional Communication) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-language-studies-english-language-for-professional-communication-hons",
+      "name": "Bachelor of Applied Language Studies (English Language for Professional Communication) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-printing-technology-hons",
+      "name": "Bachelor of Printing Technology (Hons)"
+    },
+    {
+      "slug": "bachelor-of-graphic-design-hons",
+      "name": "Bachelor of Graphic Design (Hons)"
+    },
+    {
+      "slug": "bachelor-of-optometry-hons",
+      "name": "Bachelor of Optometry (Hons)"
+    },
+    {
+      "slug": "bachelor-of-fine-arts-hons",
+      "name": "Bachelor of Fine Arts (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-architecture-hons",
+      "name": "Bachelor of Science (Architecture) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-sports-science-hons",
+      "name": "Bachelor of Sports Science (Hons)"
+    },
+    {
+      "slug": "bachelor-of-sports-management-hons",
+      "name": "Bachelor of Sports Management (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-tourism-management-hons",
+      "name": "Bachelor of Science (Tourism Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-food-services-management-hons",
+      "name": "Bachelor of Science (Food Services Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-culinary-arts-management-hons",
+      "name": "Bachelor of Science (Culinary Arts Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-medical-lab-technology-hons",
+      "name": "Bachelor of Medical Lab Technology (Hons)"
+    },
+    {
+      "slug": "bachelor-of-medical-imaging-hons",
+      "name": "Bachelor of Medical Imaging (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-system-intelligent-system-engineering-hons",
+      "name": "Bachelor of Information System (Intelligent System Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-industrial-design-hons",
+      "name": "Bachelor of Industrial Design (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-construction-management-hons",
+      "name": "Bachelor of Science (Construction Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-computer-science-netcentric-computing-hons",
+      "name": "Bachelor of Computer Science (Netcentric Computing) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-physiotherapy-hons",
+      "name": "Bachelor of Physiotherapy (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-science-information-system-management-hons",
+      "name": "Bachelor of Information Science (Information System Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-science-library-management-hons",
+      "name": "Bachelor of Information Science (Library Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-applied-chemistry-hons",
+      "name": "Bachelor of Science (Applied Chemistry) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-administrative-science-hons",
+      "name": "Bachelor of Administrative Science (Hons)"
+    },
+    {
+      "slug": "bachelor-science-in-actuarial-science-hons",
+      "name": "Bachelor Science in Actuarial Science (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-environmental-technology-hons",
+      "name": "Bachelor of Science (Environmental Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-interior-architecture-hons",
+      "name": "Bachelor of Interior Architecture (Hons)"
+    },
+    {
+      "slug": "bachelor-of-quantity-surveying-hons",
+      "name": "Bachelor of Quantity Surveying (Hons)"
+    },
+    {
+      "slug": "bachelor-of-building-surveying-hons",
+      "name": "Bachelor of Building Surveying (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-mechanical-hons",
+      "name": "Bachelor of Engineering (Mechanical) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-electrical-engineering-hons",
+      "name": "Bachelor of Engineering (Electrical Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-civil-hons",
+      "name": "Bachelor of Engineering (Civil) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-chemical-hons",
+      "name": "Bachelor of Engineering (Chemical) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-oil-gas-hons",
+      "name": "Bachelor of Engineering (Oil & Gas) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-park-amenity-management-hons",
+      "name": "Bachelor of Park & Amenity Management (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-finance-hons",
+      "name": "Bachelor of Business Administration (Finance) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-human-resource-management-hons",
+      "name": "Bachelor of Business Administration (Human Resource Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-insurance-hons",
+      "name": "Bachelor of Business Administration (Insurance) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-international-business-hons",
+      "name": "Bachelor of Business Administration (International Business) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-islamic-banking-hons",
+      "name": "Bachelor of Business Administration (Islamic Banking) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-operations-management-hons",
+      "name": "Bachelor of Business Administration (Operations Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-retail-management-hons",
+      "name": "Bachelor of Business Administration (Retail Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-transport-hons",
+      "name": "Bachelor of Business Administration (Transport) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-physics-hons",
+      "name": "Bachelor of Science (Physics) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-electronics-engineering-hons",
+      "name": "Bachelor of Engineering (Electronics Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering-manufacturing-hons",
+      "name": "Bachelor of Mechanical Engineering (Manufacturing) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-landscape-architecture-hons",
+      "name": "Bachelor of Landscape Architecture (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-biodiversity-management-hons",
+      "name": "Bachelor of Science (Biodiversity Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-textile-science-fashion-technology-hons-and-bachelor-of-textile-design-hons",
+      "name": "Bachelor of Science (Textile Science & Fashion Technology) (Hons) and Bachelor of Textile Design (Hons)"
+    },
+    {
+      "slug": "bachelor-of-fashion-design-hons-and-bachelor-of-science-textile-science-and-fashion-technology-hons",
+      "name": "Bachelor of Fashion Design (Hons) and Bachelor of Science (Textile Science and Fashion Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-teaching-english-as-a-second-language-hons",
+      "name": "Bachelor of Education (Teaching English as a Second Language) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-creative-writing-hons",
+      "name": "Bachelor of Creative Writing (Hons)"
+    },
+    {
+      "slug": "bachelor-of-creative-motion-design-hons",
+      "name": "Bachelor of Creative Motion Design (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-system-information-system-engineering-hons",
+      "name": "Bachelor of Information System (Information System Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-technology-hons",
+      "name": "Bachelor of Information Technology (Hons)"
+    },
+    {
+      "slug": "bachelor-of-computer-science-hons",
+      "name": "Bachelor of Computer Science (Hons)"
+    },
+    {
+      "slug": "bachelor-of-accountancy-hons",
+      "name": "Bachelor of Accountancy (Hons)"
+    },
+    {
+      "slug": "bachelor-of-marketing-hons",
+      "name": "Bachelor of Marketing (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-hons",
+      "name": "Bachelor of Business Administration (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-horticulture-science-hons",
+      "name": "Bachelor of Science (Horticulture Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-animal-science-hons",
+      "name": "Bachelor of Science (Animal Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-crop-protection-hons",
+      "name": "Bachelor of Science (Crop Protection) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-agribusiness-management-hons",
+      "name": "Bachelor of Agribusiness Management (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-resource-management-hons",
+      "name": "Bachelor of Science (Resource Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-human-development-management-hons",
+      "name": "Bachelor of Science (Human Development Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-town-regional-planning-hons",
+      "name": "Bachelor of Science (Town & Regional Planning) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-guidance-and-counseling-hons",
+      "name": "Bachelor of Education ( Guidance and Counseling) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-malay-language-hons",
+      "name": "Bachelor of Education ( Malay Language) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-arabic-language-hons",
+      "name": "Bachelor of Education ( Arabic Language) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-management-hons",
+      "name": "Bachelor of Information Management (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-biotechnology-hons",
+      "name": "Bachelor of Science (Biotechnology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-textile-science-and-fashion-technology-hons",
+      "name": "Bachelor of Science (Textile Science and Fashion Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-instructional-multimedia-hons",
+      "name": "Bachelor of Education (Instructional Multimedia) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-visual-communication-design-hons",
+      "name": "Bachelor of Visual Communication Design (Hons)"
+    },
+    {
+      "slug": "bachelor-of-film-television-and-animation-hons",
+      "name": "Bachelor of Film, Television and Animation (Hons)"
+    },
+    {
+      "slug": "bachelor-of-music-hons",
+      "name": "Bachelor of Music (Hons)"
+    },
+    {
+      "slug": "bachelor-of-dental-surgery",
+      "name": "Bachelor of Dental Surgery"
+    },
+    {
+      "slug": "bachelor-of-medicine-and-surgery",
+      "name": "Bachelor of Medicine and Surgery"
+    },
+    {
+      "slug": "bachelor-of-pharmacy-hons",
+      "name": "Bachelor of Pharmacy (Hons)"
+    },
+    {
+      "slug": "bachelor-of-environmental-health-hons",
+      "name": "Bachelor of Environmental Health (Hons)"
+    },
+    {
+      "slug": "bachelor-of-dietetics-hons",
+      "name": "Bachelor of Dietetics (Hons)"
+    },
+    {
+      "slug": "bachelor-of-speech-communication-and-theatre-hons",
+      "name": "Bachelor of Speech Communication and Theatre (Hons)"
+    },
+    {
+      "slug": "bachelor-of-media-and-communication-studies-hons",
+      "name": "Bachelor of Media and Communication Studies (Hons)"
+    },
+    {
+      "slug": "bachelor-of-broadcasting-hons",
+      "name": "Bachelor of Broadcasting (Hons)"
+    },
+    {
+      "slug": "bachelor-of-corporate-communication-hons",
+      "name": "Bachelor of Corporate Communication (Hons)"
+    },
+    {
+      "slug": "bachelor-of-public-relations-hons",
+      "name": "Bachelor of Public Relations (Hons)"
+    },
+    {
+      "slug": "bachelor-of-journalism-hons",
+      "name": "Bachelor of Journalism (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-microbiology-hons",
+      "name": "Bachelor of Science (Microbiology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-biochemistry-hons",
+      "name": "Bachelor of Science (Biochemistry) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-cellular-molecular-biology-hons",
+      "name": "Bachelor of Science (Cellular & Molecular Biology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-genetic-resources-hons",
+      "name": "Bachelor of Science (Genetic Resources) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-marine-science-hons",
+      "name": "Bachelor of Science (Marine Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-plant-biotechnology-hons",
+      "name": "Bachelor of Science (Plant Biotechnology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-animal-biotechnology-hons",
+      "name": "Bachelor of Science (Animal Biotechnology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-food-biotechnology-hons",
+      "name": "Bachelor of Science (Food Biotechnology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-industrial-chemistry-hons",
+      "name": "Bachelor of Science (Industrial Chemistry) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-instrumental-analytical-chemistry-hons",
+      "name": "Bachelor of Science (Instrumental Analytical Chemistry) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-mechatronics-hons",
+      "name": "Bachelor of Engineering (Mechatronics) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-aerospace-hons",
+      "name": "Bachelor of Engineering (Aerospace) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-automotive-hons",
+      "name": "Bachelor of Engineering (Automotive) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-materials-hons",
+      "name": "Bachelor of Engineering (Materials) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-polymer-hons",
+      "name": "Bachelor of Engineering (Polymer) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-food-hons",
+      "name": "Bachelor of Engineering (Food) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-biomedical-hons",
+      "name": "Bachelor of Engineering (Biomedical) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-mining-hons",
+      "name": "Bachelor of Engineering (Mining) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-chemical-environmental-hons",
+      "name": "Bachelor of Engineering (Chemical-Environmental) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-property-management-hons",
+      "name": "Bachelor of Science (Property Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-surveying-science-and-management-hons",
+      "name": "Bachelor of Science (Surveying Science and Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-geomatics-science-hons",
+      "name": "Bachelor of Science (Geomatics Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-geospatial-information-science-hons",
+      "name": "Bachelor of Science (Geospatial Information Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-islamic-education-hons",
+      "name": "Bachelor of Education (Islamic Education) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-early-childhood-education-hons",
+      "name": "Bachelor of Education (Early Childhood Education) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-visual-arts-education-hons",
+      "name": "Bachelor of Education (Visual Arts Education) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-music-education-hons",
+      "name": "Bachelor of Education (Music Education) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-drama-and-theatre-education-hons",
+      "name": "Bachelor of Education (Drama and Theatre Education) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-construction-hons",
+      "name": "Bachelor of Science (Construction) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-quantity-surveying-hons",
+      "name": "Bachelor of Science (Quantity Surveying) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-building-surveying-hons",
+      "name": "Bachelor of Science (Building Surveying) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-in-planning-hons",
+      "name": "Bachelor of Science in Planning (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-environmental-science-and-technology-hons",
+      "name": "Bachelor of Science (Environmental Science and Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-geology-hons",
+      "name": "Bachelor of Science (Geology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-geomatics-hons",
+      "name": "Bachelor of Science (Geomatics) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-computer-science-computer-network-hons",
+      "name": "Bachelor of Computer Science (Computer Network) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-computer-science-software-engineering-hons",
+      "name": "Bachelor of Computer Science (Software Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-computer-science-information-systems-hons",
+      "name": "Bachelor of Computer Science (Information Systems) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-technology-network-technology-hons",
+      "name": "Bachelor of Information Technology (Network Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-technology-web-technology-hons",
+      "name": "Bachelor of Information Technology (Web Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-technology-multimedia-hons",
+      "name": "Bachelor of Information Technology (Multimedia) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-technology-game-technology-hons",
+      "name": "Bachelor of Information Technology (Game Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-muamalat-hons",
+      "name": "Bachelor of Business Administration (Muamalat) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-marketing-hons",
+      "name": "Bachelor of Business Administration (Marketing) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-accountancy-hons-acca",
+      "name": "Bachelor of Accountancy (Hons) (ACCA)"
+    },
+    {
+      "slug": "bachelor-of-banking-hons",
+      "name": "Bachelor of Banking (Hons)"
+    },
+    {
+      "slug": "bachelor-of-finance-hons",
+      "name": "Bachelor of Finance (Hons)"
+    },
+    {
+      "slug": "bachelor-of-insurance-hons",
+      "name": "Bachelor of Insurance (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-economics-hons",
+      "name": "Bachelor of Business Economics (Hons)"
+    },
+    {
+      "slug": "bachelor-of-economics-hons",
+      "name": "Bachelor of Economics (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-economics-hons",
+      "name": "Bachelor of Science (Economics) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-resource-economics-hons",
+      "name": "Bachelor of Science (Resource Economics) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-laws-hons",
+      "name": "Bachelor of Laws (Hons)"
+    },
+    {
+      "slug": "bachelor-of-syariah-hons",
+      "name": "Bachelor of Syariah (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-exercise-and-sports-science-hons",
+      "name": "Bachelor of Science (Exercise and Sports Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-sports-coaching-hons",
+      "name": "Bachelor of Sports Coaching (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-aquatic-science-hons",
+      "name": "Bachelor of Science (Aquatic Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-fisheries-management-hons",
+      "name": "Bachelor of Science (Fisheries Management) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-aquaculture-hons",
+      "name": "Bachelor of Science (Aquaculture) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-wood-science-technology-hons",
+      "name": "Bachelor of Science (Wood Science Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-polymer-technology-hons",
+      "name": "Bachelor of Science (Polymer Technology) (Hons)"
+    }
+  ],
+  "sources": [
+    "https://www.studymalaysia.com/edu/uitm/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

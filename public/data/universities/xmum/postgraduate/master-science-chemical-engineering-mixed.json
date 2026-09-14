@@ -1,0 +1,22 @@
+{
+  "university": "Xiamen University Malaysia",
+  "university_slug": "xmum",
+  "level": "postgraduate",
+  "program_name": "Master of Science in Chemical Engineering (Mixed Mode)",
+  "program_slug": "master-science-chemical-engineering-mixed",
+  "field": "Engineering",
+  "duration": "2 years",
+  "mode": "Mixed Mode",
+  "intakes": ["September"],
+  "fees": {
+    "local": null,
+    "international": null
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.xmu.edu.my/postgraduate-programmes"
+  ],
+  "confidence": 0.95,
+  "last_updated": "2026-09-14"
+}

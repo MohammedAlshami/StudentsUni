@@ -1,0 +1,74 @@
+{
+  "university": "Multimedia University",
+  "university_slug": "mmu",
+  "level": "diploma",
+  "program_name": "Diploma in Information Technology",
+  "field": "Information Technology",
+  "duration": "2 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Oct",
+    "Mar",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 24500,
+    "international_total": 28000,
+    "per_year_local": 12250,
+    "per_year_international": 14000,
+    "notes": "Total programme fee"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": "R3/0611/4/0121"
+  },
+  "sources": [
+    {
+      "url": "https://www.mmu.edu.my/full-list-of-programmes-offered/",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.studymalaysia.com/what/course/MMU/0008576/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.mmu.edu.my/fee-structure/",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.mmu.edu.my/fee-structure-international/",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

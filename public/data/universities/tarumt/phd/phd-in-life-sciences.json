@@ -1,0 +1,31 @@
+{
+  "university": "Tunku Abdul Rahman University of Management and Technology",
+  "university_slug": "tarumt",
+  "level": "phd",
+  "program_name": "Doctor of Philosophy in Life Sciences",
+  "program_slug": "phd-in-life-sciences",
+  "field": "Life Sciences",
+  "duration": "3-5 years",
+  "mode": "Flexible",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "TAR UMT does not publish PhD fees online. Contact university for current fee information."
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/tarumt/",
+    {
+      "url": "https://www.tarc.edu.my/bursary/malaysian-student-fees-guide/",
+      "publisher": "TAR UMT",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": 0.85,
+  "last_updated": "2026-09-15"
+}

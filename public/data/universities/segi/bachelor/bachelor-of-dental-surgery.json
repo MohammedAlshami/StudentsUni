@@ -1,0 +1,27 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "bachelor",
+  "program_name": "Bachelor of Dental Surgery (BDS)",
+  "program_slug": "bachelor-of-dental-surgery",
+  "field": "Medicine & Healthcare",
+  "duration": "5 Yrs",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 225000,
+    "international_total": 250000,
+    "per_year_local": "RM45,000-RM50,000",
+    "per_year_international": "RM50,000-RM60,000",
+    "notes": ""
+  },
+  "requirements": null,
+  "accreditation": "MQA/FA1050",
+  "sources": [
+    "https://studymalaysia.com/what/course/SEGI/0054472/",
+    "https://eduswasta.my/university/segi-university/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

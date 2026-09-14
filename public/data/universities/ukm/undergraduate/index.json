@@ -1,0 +1,292 @@
+{
+  "university": "Universiti Kebangsaan Malaysia",
+  "university_slug": "ukm",
+  "level": "undergraduate",
+  "programs": [
+    {
+      "slug": "bachelor-of-science-in-liberal-studies-hons",
+      "name": "Bachelor of Science in Liberal Studies (Hons.)"
+    },
+    {
+      "slug": "doctor-of-medicine",
+      "name": "Doctor of Medicine"
+    },
+    {
+      "slug": "bachelor-of-nursing-with-honours",
+      "name": "Bachelor of Nursing with Honours"
+    },
+    {
+      "slug": "doctor-of-dentistry",
+      "name": "Degree in Doctor of Dentistry"
+    },
+    {
+      "slug": "bsc-marine-science",
+      "name": "Bachelor of Science with Honours (Marine Science)"
+    },
+    {
+      "slug": "bsc-food-science-and-nutrition",
+      "name": "Bachelor of Science with Honours (Food Science and Nutrition)"
+    },
+    {
+      "slug": "bsc-biology",
+      "name": "Bachelor of Science with Honours (Biology)"
+    },
+    {
+      "slug": "bsc-mathematics",
+      "name": "Bachelor of Science with Honours (Mathematics)"
+    },
+    {
+      "slug": "bsc-statistics",
+      "name": "Bachelor of Science with Honours (Statistics)"
+    },
+    {
+      "slug": "bsc-actuarial-science",
+      "name": "Bachelor of Science with Honours (Actuarial Science)"
+    },
+    {
+      "slug": "bsc-environmental-science",
+      "name": "Bachelor of Science with Honours (Environmental Science)"
+    },
+    {
+      "slug": "bsc-physics",
+      "name": "Bachelor of Science Physics with Honours"
+    },
+    {
+      "slug": "bsc-chemistry",
+      "name": "Bachelor of Science with Honours (Chemistry)"
+    },
+    {
+      "slug": "bsc-geology",
+      "name": "Bachelor of Science with Honours (Geology)"
+    },
+    {
+      "slug": "bsc-nuclear-science",
+      "name": "Bachelor of Science with Honours (Nuclear Science)"
+    },
+    {
+      "slug": "bsc-materials-science",
+      "name": "Bachelor of Science with Honours (Materials Science)"
+    },
+    {
+      "slug": "bsc-chemical-technology",
+      "name": "Bachelor of Science with Honours (Chemical Technology)"
+    },
+    {
+      "slug": "bsc-biochemistry",
+      "name": "Bachelor of Science with Honours (Biochemistry)"
+    },
+    {
+      "slug": "bsc-microbiology",
+      "name": "Bachelor of Science with Honours (Microbiology)"
+    },
+    {
+      "slug": "bsc-bioinformatics",
+      "name": "Bachelor of Science with Honours (Bioinformatics)"
+    },
+    {
+      "slug": "bsc-genetics",
+      "name": "Bachelor of Science with Honours (Genetics)"
+    },
+    {
+      "slug": "bsc-plant-biotechnology",
+      "name": "Bachelor of Science with Honours (Plant Biotechnology)"
+    },
+    {
+      "slug": "bsc-food-science-with-business-management",
+      "name": "Bachelor of Science with Honours (Food Science with Business Management)"
+    },
+    {
+      "slug": "bachelor-of-islamic-studies-theology-and-philosophy",
+      "name": "Bachelor of Islamic Studies with Honours (Theology and Philosophy)"
+    },
+    {
+      "slug": "bachelor-of-islamic-studies-shariah",
+      "name": "Bachelor of Islamic Studies with Honours (Shariah)"
+    },
+    {
+      "slug": "bachelor-of-islamic-studies-arabic-studies-and-islamic-civilization",
+      "name": "Bachelor of Islamic Studies with Honours (Arabic Studies and Islamic Civilization)"
+    },
+    {
+      "slug": "bachelor-of-islamic-studies-dawah-and-leadership-studies",
+      "name": "Bachelor of Islamic Studies with Honours (Da'wah and Leadership Studies)"
+    },
+    {
+      "slug": "bachelor-of-islamic-studies-al-quran-and-al-sunnah-studies",
+      "name": "Bachelor of Islamic Studies with Honours (Al-Quran and Al-Sunnah Studies)"
+    },
+    {
+      "slug": "bachelor-of-accounting-with-honours",
+      "name": "Bachelor of Accounting with Honours"
+    },
+    {
+      "slug": "bachelor-of-economics-with-honours",
+      "name": "Bachelor of Economic with Honours"
+    },
+    {
+      "slug": "bachelor-of-business-administration-with-honours",
+      "name": "Bachelor of Business Administration with Honours"
+    },
+    {
+      "slug": "bachelor-of-entrepreneurship-and-innovation-with-honours",
+      "name": "Bachelor of Entrepreneurship and Innovation with Honours"
+    },
+    {
+      "slug": "bachelor-of-computer-science-with-honours",
+      "name": "Bachelor of Computer Science with Honours"
+    },
+    {
+      "slug": "bachelor-of-information-technology-with-honours",
+      "name": "Bachelor of Information Technology with Honours"
+    },
+    {
+      "slug": "bachelor-of-software-engineering-with-honours",
+      "name": "Bachelor of Software Engineering with Honours (Information System Development)"
+    },
+    {
+      "slug": "bachelor-of-pharmacy-with-honours",
+      "name": "Bachelor of Pharmacy with Honours"
+    },
+    {
+      "slug": "bachelor-of-biomedical-science-with-honours",
+      "name": "Bachelor of Biomedical Science with Honours"
+    },
+    {
+      "slug": "bachelor-of-optometry-with-honours",
+      "name": "Bachelor of Optometry with Honours"
+    },
+    {
+      "slug": "bachelor-of-dietetics-with-honours",
+      "name": "Bachelor of Dietetics with Honours"
+    },
+    {
+      "slug": "bachelor-of-nutrition-science-with-honours",
+      "name": "Bachelor of Nutrition Science with Honours"
+    },
+    {
+      "slug": "bachelor-of-audiology-with-honours",
+      "name": "Bachelor of Audiology with Honours"
+    },
+    {
+      "slug": "bachelor-of-speech-science-with-honours",
+      "name": "Bachelor of Speech Science with Honours"
+    },
+    {
+      "slug": "bachelor-of-environmental-and-occupational-health-with-honours",
+      "name": "Bachelor of Environmental and Occupational Health with Honours"
+    },
+    {
+      "slug": "bachelor-of-forensic-science-with-honours",
+      "name": "Bachelor of Forensic Science with Honours"
+    },
+    {
+      "slug": "bachelor-of-diagnostic-imaging-and-radiotherapy-with-honours",
+      "name": "Bachelor of Diagnostic Imaging and Radiotherapy with Honours"
+    },
+    {
+      "slug": "bachelor-of-physiotherapy-with-honours",
+      "name": "Bachelor of Physiotherapy with Honours"
+    },
+    {
+      "slug": "bachelor-of-occupational-therapy-with-honours",
+      "name": "Bachelor of Occupational Therapy with Honours"
+    },
+    {
+      "slug": "bachelor-of-law-with-honours",
+      "name": "Bachelor of Law with Honours"
+    },
+    {
+      "slug": "bachelor-of-education-sports-and-recreations",
+      "name": "Bachelor of Education with Honours (Sports and Recreations)"
+    },
+    {
+      "slug": "bachelor-of-education-tesl",
+      "name": "Bachelor of Education with Honours (Teaching English as Second Language – TESL)"
+    },
+    {
+      "slug": "bachelor-of-education-special-education",
+      "name": "Bachelor of Education with Honours (Special Education)"
+    },
+    {
+      "slug": "bsc-social-sciences-political-science",
+      "name": "Bachelor of Social Sciences with Honour (Political Science)"
+    },
+    {
+      "slug": "bsc-social-sciences-anthropology-and-sociology",
+      "name": "Bachelor of Social Sciences with Honours (Anthropology and Sociology)"
+    },
+    {
+      "slug": "bsc-social-sciences-psychology",
+      "name": "Bachelor of Social Sciences with Honours (Psychology)"
+    },
+    {
+      "slug": "bsc-social-sciences-geography",
+      "name": "Bachelor of Social Sciences with Honours (Geography)"
+    },
+    {
+      "slug": "bsc-social-sciences-developmental-science",
+      "name": "Bachelor of Social Sciences with Honours (Developmental Science)"
+    },
+    {
+      "slug": "bsc-social-sciences-social-work",
+      "name": "Bachelor of Social Sciences with Honours (Social Work)"
+    },
+    {
+      "slug": "bsc-social-sciences-media-communications",
+      "name": "Bachelor of Social Sciences with Honours (Media Communications)"
+    },
+    {
+      "slug": "bsc-social-sciences-linguistics",
+      "name": "Bachelor of Social Sciences with Honours (Linguistics)"
+    },
+    {
+      "slug": "ba-malay-letters",
+      "name": "Bachelor of Arts with Honours (Malay Letters)"
+    },
+    {
+      "slug": "ba-history",
+      "name": "Bachelor of Arts with Honours (History)"
+    },
+    {
+      "slug": "ba-english-language-studies",
+      "name": "Bachelor of Arts with Honours (English Language Studies)"
+    },
+    {
+      "slug": "ba-malay-language-studies",
+      "name": "Bachelor of Arts with Honours (Malay Language Studies)"
+    },
+    {
+      "slug": "bsc-architecture",
+      "name": "Bachelor of Science Architecture with Honours"
+    },
+    {
+      "slug": "bachelor-of-civil-engineering-with-honours",
+      "name": "Bachelor of Civil Engineering with Honours"
+    },
+    {
+      "slug": "bachelor-of-electrical-and-electronic-engineering-with-honours",
+      "name": "Bachelor of Electric and Electronic Engineering with Honours"
+    },
+    {
+      "slug": "bachelor-of-chemical-engineering-with-honours",
+      "name": "Bachelor of Chemical Engineering with Honours"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering-with-honours",
+      "name": "Bachelor of Mechanical Engineering with Honours"
+    }
+  ],
+  "sources": [
+    "https://www.ukm.my/portal/undergraduate-programmes/",
+    "https://www.studymalaysia.com/edu/ukm/courses/"
+  ],
+  "last_updated": "2026-09-15",
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 1200.0,
+    "per_year_international": null,
+    "notes": "Per semester: 600/sem"
+  }
+}

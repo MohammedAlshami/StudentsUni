@@ -1,0 +1,33 @@
+{
+  "slug": "klmuc",
+  "name": "UNITAR University College Kuala Lumpur",
+  "abbr": "KLMUC",
+  "type": "private-university-college",
+  "state": "Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "website": "https://www.unitar.my",
+  "levels_available": [
+    "certificate",
+    "foundation",
+    "diploma",
+    "bachelor",
+    "master",
+    "phd"
+  ],
+  "program_counts": {
+    "certificate": 4,
+    "foundation": 1,
+    "diploma": 4,
+    "bachelor": 6,
+    "master": 5,
+    "phd": 1
+  },
+  "sources": [
+    {
+      "url": "https://www.unitar.my/programmes/",
+      "type": "official",
+      "note": "UNITAR programmes page - KLMUC programmes listed under UNITAR University College Kuala Lumpur"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

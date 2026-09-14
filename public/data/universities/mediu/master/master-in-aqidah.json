@@ -1,0 +1,22 @@
+{
+  "university_slug": "mediu",
+  "level": "master",
+  "program_name": "Master in Aqidah",
+  "program_slug": "master-in-aqidah",
+  "field": "Islamic Sciences",
+  "duration": "1.5-2 Years",
+  "mode": "Full-time, Online",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.mediu.edu.my/list-of-fully-accredited-programs-by-mqa/",
+      "publisher": "University Website",
+      "fetched_at": "2026-09-15T00:00:00+08:00"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,42 @@
+{
+  "university": "Taylor's University",
+  "university_slug": "taylors",
+  "level": "degree",
+  "program_name": "Bachelor of Business (Honours) in International Business and Marketing",
+  "slug": "bachelor-of-business-in-international-business-and-marketing",
+  "program_slug": "bachelor-of-business-in-international-business-and-marketing",
+  "field": "Business",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Sep",
+    "Feb"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 41265,
+    "international_total": 47982,
+    "per_year_local": 99900,
+    "per_year_international": 33391,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-business-in-international-business-and-marketing.html",
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-15"
+}

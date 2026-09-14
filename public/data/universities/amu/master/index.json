@@ -1,0 +1,30 @@
+{
+  "programs": [
+    {
+      "slug": "master-in-business-administration",
+      "program_name": "Master in Business Administration"
+    },
+    {
+      "slug": "master-in-business-administration-odl",
+      "program_name": "Master in Business Administration (ODL)"
+    },
+    {
+      "slug": "master-of-business-administration-human-resource-management",
+      "program_name": "Master of Business Administration (Human Resource Management)"
+    },
+    {
+      "slug": "master-of-science-in-healthcare-management",
+      "program_name": "Master of Science in Healthcare Management"
+    },
+    {
+      "slug": "postgraduate-certificate-in-teaching-methodology",
+      "program_name": "Postgraduate Certificate in Teaching Methodology"
+    },
+    {
+      "slug": "postgraduate-certificate-in-teaching-methodology-odl",
+      "program_name": "Postgraduate Certificate in Teaching Methodology (ODL)"
+    }
+  ],
+  "total": 6,
+  "last_updated": "2026-09-14"
+}

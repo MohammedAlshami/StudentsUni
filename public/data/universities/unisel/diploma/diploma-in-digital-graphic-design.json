@@ -1,0 +1,37 @@
+{
+  "university": "University of Selangor",
+  "university_slug": "unisel",
+  "level": "diploma",
+  "program_name": "Diploma In Digital Graphic Design",
+  "field": "Design",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Apr",
+    "Nov",
+    "Aug"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 5395,
+    "international_total": 8525,
+    "notes": "From EasyUni"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    {
+      "url": "https://www.studymalaysia.com/edu/unisel/courses/",
+      "publisher": "Unknown",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14",
+  "slug": "diploma-in-digital-graphic-design"
+}

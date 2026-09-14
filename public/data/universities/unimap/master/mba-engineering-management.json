@@ -1,0 +1,38 @@
+{
+  "university": "Universiti Malaysia Perlis",
+  "university_slug": "unimap",
+  "level": "master",
+  "program_name": "Master of Business Administration (Engineering Management)",
+  "slug": "mba-engineering-management",
+  "field": "Business",
+  "duration": "FT: 1-3 Yrs; PT: 2-5 Yrs",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
+  "fees": {
+    "local": "12600/Course",
+    "international": "16800/Course",
+    "currency": "MYR",
+    "local_total": 12600,
+    "international_total": 16800,
+    "per_year_local": 12600,
+    "per_year_international": 16800,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "entry_requirements": null,
+    "minimum_cgpa": null
+  },
+  "accreditation": {
+    "mqa": true,
+    "programme_accreditation": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UniMAP/0054447/",
+    "https://www.studymalaysia.com/edu/unimap/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

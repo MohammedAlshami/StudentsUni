@@ -1,0 +1,46 @@
+{
+  "university": "Curtin University Malaysia",
+  "university_slug": "curtin",
+  "level": "bachelor",
+  "program_name": "Bachelor of Applied Science (Construction Management) (Honours)",
+  "field": "Built Environment",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": [
+    "February",
+    "July",
+    "October"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 110688,
+    "international_total": 166912,
+    "per_year_local": "RM27,672 per annum",
+    "per_year_international": "RM41,728 per annum",
+    "notes": null
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": "Accredited",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://curtin.edu.my/study/undergraduate/bachelor-construction-management/",
+    "https://www.studymalaysia.com/edu/curtin/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

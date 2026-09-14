@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Accounting and Finance (Honours)",
+  "program_slug": "bachelor-accounting-finance",
+  "field": "Accounting & Finance",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM99,800.00",
+    "international": "RM104,600.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/bachelor-of-accounting-finance",
+    "https://www.studymalaysia.com/what/course/APU/0005279/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

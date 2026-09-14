@@ -1,0 +1,28 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "master",
+  "program_name": "Master of Business Administration",
+  "program_slug": "master-of-business-administration",
+  "field": "Business Management & Administration",
+  "duration": "2 Years",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": ["Modular"],
+  "fees": { "local": "RM45,000.00", "international": null },
+  "requirements": {
+    "degree": "Bachelor's degree from a recognised university with CGPA 2.50, preferably with adequate industry experience; CGPA <2.50 with 5 years relevant working experience also admissible",
+    "english": "IELTS 6.0 or equivalent"
+  },
+  "accreditation": {
+    "mqa_code": "R2/0414/7/0147",
+    "valid_until": "05/27",
+    "additional_codes": ["A5957"]
+  },
+  "faculty": "ELM Graduate School",
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0006254/",
+    "https://www.help.edu.my"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

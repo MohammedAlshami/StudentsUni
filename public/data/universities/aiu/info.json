@@ -1,0 +1,30 @@
+{
+  "slug": "aiu",
+  "name": "Albukhary International University",
+  "abbr": "AIU",
+  "type": "private-university",
+  "state": "Kedah",
+  "city": "Alor Setar",
+  "website": "https://www.aiu.edu.my",
+  "levels_available": [
+    "undergraduate",
+    "postgraduate"
+  ],
+  "program_counts": {
+    "undergraduate": 12,
+    "postgraduate": 7
+  },
+  "schools": [
+    "School of Business and Social Sciences",
+    "School of Education and Human Sciences",
+    "School of Computing and Informatics"
+  ],
+  "address": "Jalan Tun Abdul Razak, 05200, Alor Setar, Kedah Darul Aman, Malaysia",
+  "phone": "(60) 4774 7300",
+  "email": "info@aiu.edu.my",
+  "sources": [
+    "https://www.aiu.edu.my",
+    "https://www.aiu.edu.my/postgraduate"
+  ],
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,188 @@
+{
+  "university": "Universiti Kebangsaan Malaysia",
+  "university_slug": "ukm",
+  "level": "postgraduate",
+  "programs": [
+    {
+      "slug": "phd-medicine",
+      "name": "Doctor of Philosophy (PhD) - Medicine"
+    },
+    {
+      "slug": "master-of-medical-science",
+      "name": "Master of Medical Science"
+    },
+    {
+      "slug": "clinical-masters",
+      "name": "Clinical Masters (Specialist Programs)"
+    },
+    {
+      "slug": "master-of-public-health",
+      "name": "Master of Public Health"
+    },
+    {
+      "slug": "phd-islamic-studies",
+      "name": "Doctor of Philosophy (PhD) - Islamic Studies"
+    },
+    {
+      "slug": "master-of-islamic-studies",
+      "name": "Master of Islamic Studies"
+    },
+    {
+      "slug": "phd-economics",
+      "name": "Doctor of Philosophy (PhD) - Economics"
+    },
+    {
+      "slug": "master-of-commerce",
+      "name": "Master of Commerce"
+    },
+    {
+      "slug": "master-of-economics",
+      "name": "Master of Economics"
+    },
+    {
+      "slug": "phd-health-science",
+      "name": "Doctor of Philosophy (PhD) - Health Science"
+    },
+    {
+      "slug": "master-of-health-sciences",
+      "name": "Master of Health Sciences"
+    },
+    {
+      "slug": "phd-dentistry",
+      "name": "Doctor of Philosophy (PhD) - Dentistry"
+    },
+    {
+      "slug": "master-of-dental-science",
+      "name": "Master of Dental Science"
+    },
+    {
+      "slug": "phd-social-science-and-humanities",
+      "name": "Doctor of Philosophy (PhD) - Social Science & Humanities"
+    },
+    {
+      "slug": "master-of-philosophy-social-science",
+      "name": "Master of Philosophy - Social Science & Humanities"
+    },
+    {
+      "slug": "phd-engineering",
+      "name": "Doctor of Philosophy (PhD) - Engineering & Built Environment"
+    },
+    {
+      "slug": "master-of-science-engineering",
+      "name": "Master of Science - Engineering"
+    },
+    {
+      "slug": "master-of-architecture",
+      "name": "Master of Architecture"
+    },
+    {
+      "slug": "phd-law",
+      "name": "Doctor of Philosophy (PhD) - Law"
+    },
+    {
+      "slug": "master-of-laws",
+      "name": "Master of Laws"
+    },
+    {
+      "slug": "phd-science-and-technology",
+      "name": "Doctor of Philosophy (PhD) - Science & Technology"
+    },
+    {
+      "slug": "master-of-science-fst",
+      "name": "Master of Science - Science & Technology"
+    },
+    {
+      "slug": "phd-information-science-and-technology",
+      "name": "Doctor of Philosophy (PhD) - Information Science & Technology"
+    },
+    {
+      "slug": "master-computing",
+      "name": "Master of Computing"
+    },
+    {
+      "slug": "phd-pharmacy",
+      "name": "Doctor of Philosophy (PhD) - Pharmacy"
+    },
+    {
+      "slug": "master-of-science-pharmacy",
+      "name": "Master of Science - Pharmacy"
+    },
+    {
+      "slug": "master-of-clinical-pharmacy",
+      "name": "Master of Clinical Pharmacy"
+    },
+    {
+      "slug": "phd-education",
+      "name": "Doctor of Philosophy (PhD) - Education"
+    },
+    {
+      "slug": "master-of-science-in-education",
+      "name": "Master of Science in Education"
+    },
+    {
+      "slug": "master-of-education",
+      "name": "Master of Education"
+    },
+    {
+      "slug": "phd-environment-and-development",
+      "name": "Doctor of Philosophy - Environment & Development"
+    },
+    {
+      "slug": "phd-malaysian-and-international-studies",
+      "name": "Doctor of Philosophy - Malaysian & International Studies"
+    },
+    {
+      "slug": "phd-systems-biology",
+      "name": "Doctor of Philosophy - Systems Biology"
+    },
+    {
+      "slug": "phd-islamic-civilization",
+      "name": "Doctor of Philosophy in Islamic Civilization"
+    },
+    {
+      "slug": "phd-malay-world-and-civilization",
+      "name": "Doctor of Philosophy - Malay World & Civilization"
+    },
+    {
+      "slug": "phd-fuel-cell",
+      "name": "Doctor of Philosophy - Fuel Cell"
+    },
+    {
+      "slug": "phd-visual-informatics",
+      "name": "Doctor of Philosophy - Visual Informatics"
+    },
+    {
+      "slug": "phd-microengineering-and-nanoelectronics",
+      "name": "Doctor of Philosophy (PhD) - Microengineering & Nanoelectronics"
+    },
+    {
+      "slug": "phd-ethnic-studies",
+      "name": "Doctor of Philosophy (Ethnic Studies)"
+    },
+    {
+      "slug": "phd-climate-change",
+      "name": "Doctor of Philosophy (PhD) - Climate Change"
+    },
+    {
+      "slug": "phd-solar-energy",
+      "name": "Doctor of Philosophy - Solar Energy"
+    },
+    {
+      "slug": "phd-molecular-biology",
+      "name": "Doctor of Philosophy - Molecular Biology"
+    }
+  ],
+  "sources": [
+    "https://www.ukm.my/portal/postgraduate-programme/",
+    "https://www.studymalaysia.com/edu/ukm/courses/"
+  ],
+  "last_updated": "2026-09-15",
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 1200.0,
+    "per_year_international": null,
+    "notes": "Per semester: 600/sem"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "university": "Swinburne University of Technology Sarawak Campus",
+  "university_slug": "swinburne",
+  "level": "Bachelor's Degree",
+  "program_name": "Bachelor of Information and Communication Technology",
+  "field": "Computing & IT",
+  "slug": "bachelor-of-information-and-communication-technology",
+  "duration": "3 Yrs (6 Sem)",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": "RM93,360",
+    "international": "RM121,680",
+    "currency": "MYR",
+    "local_total": 93360,
+    "international_total": 121680,
+    "per_year_local": 31120,
+    "per_year_international": 40560,
+    "notes": "Annual fee; total = annual x 3 years"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SWINBURNE/0009148/",
+    "https://www.swinburne.edu.my/?p=31477"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

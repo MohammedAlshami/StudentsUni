@@ -1,0 +1,21 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "slug": "unmc",
+  "abbreviation": "UNMC",
+  "type": "private-university",
+  "state": "Selangor",
+  "website": "http://www.nottingham.edu.my/",
+  "studymalaysia_url": "https://www.studymalaysia.com/edu/nottingham/courses/",
+  "levels": [
+    "pre-university",
+    "bachelors",
+    "masters",
+    "masters-phd",
+    "phd"
+  ],
+  "total_programs": 95,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

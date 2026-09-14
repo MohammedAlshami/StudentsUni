@@ -1,0 +1,29 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "masters",
+  "program_name": "M.Sc in Computer Science (By Research)",
+  "program_slug": "m-sc-in-computer-science-by-research",
+  "field": "Computing & IT",
+  "faculty": null,
+  "duration": "Full Time: Min. 2 academic years / Part Time: Min. 3 academic years",
+  "mode": "Flexible Full-time/Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "From RM38,600",
+    "international": "International Student Administration Fee: RM1,980 per year",
+    "currency": "MYR",
+    "local_total": 38600.0,
+    "per_year_local": null,
+    "notes": "Fee: FromRM38,600.00"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "awarding_country": "Malaysia",
+  "sources": [
+    "https://www.studymalaysia.com/what/course/SUNWAY/0057912/",
+    "https://www.studymalaysia.com/edu/sunway/courses/"
+  ],
+  "confidence": 0.7,
+  "last_updated": "2026-09-14"
+}

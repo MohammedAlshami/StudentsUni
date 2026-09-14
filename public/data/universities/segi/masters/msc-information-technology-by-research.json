@@ -1,0 +1,27 @@
+{
+  "university": "SEGi University",
+  "university_slug": "segi",
+  "level": "masters",
+  "program_name": "MSc (Information Technology) by Research",
+  "program_slug": "msc-information-technology-by-research",
+  "field": "Computing & IT",
+  "duration": "2 \u2013 4 Yrs (Full-Time) / 3 \u2013 6 Yrs (Part-Time)",
+  "mode": "Flexible Full-time/Part-time Mode",
+  "intakes": null,
+  "fees": {
+    "currency": "MYR",
+    "local_total": 28000,
+    "international_total": 36000,
+    "per_year_local": "RM14,000-RM18,000",
+    "per_year_international": "RM18,000-RM25,000",
+    "notes": ""
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/SEGI/0009970/",
+    "https://eduswasta.my/university/segi-university/"
+  ],
+  "confidence": 0.7,
+  "last_updated": "2026-09-15"
+}

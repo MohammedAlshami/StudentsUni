@@ -1,0 +1,301 @@
+{
+  "posts": [
+    {
+      "slug": "a-month-by-month-budget-breakdown-for-students-in-kuala-lumpur",
+      "title": "A Month-by-Month Budget Breakdown for Students in Kuala Lumpur",
+      "category": "Cost & Budgeting",
+      "tags": [
+        "budgeting",
+        "Kuala Lumpur",
+        "cost of living"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+      "author": "Aina R., Education Counsellor",
+      "date": "2026-05-09",
+      "readTimeMin": 4,
+      "excerpt": "A concrete, line by line sample budget for a student living in KL. Useful as a starting template to adapt, not as a fixed answer."
+    },
+    {
+      "slug": "computer-science-vs-it-vs-software-engineering-what-s-the-difference",
+      "title": "Computer Science vs IT vs Software Engineering: What's the Difference?",
+      "category": "Programme Guides",
+      "tags": [
+        "computer science",
+        "IT",
+        "software engineering"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=80",
+      "author": "Aina R., Education Counsellor",
+      "date": "2026-05-03",
+      "readTimeMin": 4,
+      "excerpt": "Three degree titles that sound almost identical but lead to genuinely different skill sets, coursework, and careers."
+    },
+    {
+      "slug": "twinning-degrees-and-overseas-transfer-programmes-explained",
+      "title": "Twinning Degrees and Overseas Transfer Programmes Explained",
+      "category": "Programme Guides",
+      "tags": [
+        "twinning programme",
+        "study abroad",
+        "transfer"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?auto=format&fit=crop&w=1200&q=80",
+      "author": "Marcus T., Education Counsellor",
+      "date": "2026-04-27",
+      "readTimeMin": 4,
+      "excerpt": "Start in Malaysia, finish overseas, for a fraction of the cost of studying abroad the entire way. Here is how these programmes actually work."
+    },
+    {
+      "slug": "ielts-and-english-requirements-for-malaysian-universities",
+      "title": "IELTS and English Requirements for Malaysian Universities",
+      "category": "Applications & Visas",
+      "tags": [
+        "IELTS",
+        "English requirements",
+        "international students"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=80",
+      "author": "Marcus T., Education Counsellor",
+      "date": "2026-04-21",
+      "readTimeMin": 4,
+      "excerpt": "What score you actually need, when it can be waived entirely, and how to prepare without wasting money on repeat test attempts."
+    },
+    {
+      "slug": "medicine-in-malaysia-entry-requirements-and-costs-explained",
+      "title": "Medicine in Malaysia: Entry Requirements and Costs Explained",
+      "category": "Programme Guides",
+      "tags": [
+        "medicine",
+        "MBBS",
+        "programme guide"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=1200&q=80",
+      "author": "StudentsUni Team",
+      "date": "2026-04-15",
+      "readTimeMin": 4,
+      "excerpt": "One of the most competitive and expensive routes in Malaysian higher education. Here is what it actually requires, costs, and takes to complete."
+    },
+    {
+      "slug": "is-a-business-degree-worth-it-in-malaysia-a-realistic-career-outlook",
+      "title": "Is a Business Degree Worth It in Malaysia? A Realistic Career Outlook",
+      "category": "Programme Guides",
+      "tags": [
+        "business degree",
+        "career outlook"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1200&q=80",
+      "author": "Aina R., Education Counsellor",
+      "date": "2026-04-09",
+      "readTimeMin": 4,
+      "excerpt": "Business degrees are everywhere, which is exactly why the specific specialisation and university you choose matters more than the general label."
+    },
+    {
+      "slug": "top-engineering-programmes-in-malaysia-and-what-to-actually-expect",
+      "title": "Top Engineering Programmes in Malaysia and What to Actually Expect",
+      "category": "Programme Guides",
+      "tags": [
+        "engineering",
+        "programme guide"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=80",
+      "author": "StudentsUni Team",
+      "date": "2026-04-03",
+      "readTimeMin": 4,
+      "excerpt": "Civil, mechanical, electrical, or chemical: what each specialisation actually involves day to day, and where each one tends to lead."
+    },
+    {
+      "slug": "part-time-work-rules-for-international-students-in-malaysia",
+      "title": "Part-Time Work Rules for International Students in Malaysia",
+      "category": "Student Life",
+      "tags": [
+        "part-time work",
+        "student pass",
+        "international students"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=1200&q=80",
+      "author": "StudentsUni Team",
+      "date": "2026-03-28",
+      "readTimeMin": 4,
+      "excerpt": "What is actually allowed on a Student Pass, and why getting this wrong can put your entire visa at risk, not just result in a small fine."
+    },
+    {
+      "slug": "on-campus-vs-off-campus-housing-what-students-in-malaysia-should-know",
+      "title": "On-Campus vs Off-Campus Housing: What Students in Malaysia Should Know",
+      "category": "Student Life",
+      "tags": [
+        "accommodation",
+        "housing",
+        "hostel"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=1200&q=80",
+      "author": "Aina R., Education Counsellor",
+      "date": "2026-03-22",
+      "readTimeMin": 4,
+      "excerpt": "Hostel or apartment? A practical, detailed comparison of cost, convenience, and what each option actually feels like day to day."
+    },
+    {
+      "slug": "understanding-mqa-accreditation-why-it-actually-matters",
+      "title": "Understanding MQA Accreditation: Why It Actually Matters",
+      "category": "Choosing a Programme",
+      "tags": [
+        "MQA",
+        "accreditation",
+        "quality assurance"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=80",
+      "author": "Aina R., Education Counsellor",
+      "date": "2026-03-16",
+      "readTimeMin": 4,
+      "excerpt": "Accreditation sounds like fine print until it affects your job offer or your postgraduate application. Here is what it actually protects you from."
+    },
+    {
+      "slug": "how-to-apply-to-a-malaysian-university-a-step-by-step-guide",
+      "title": "How to Apply to a Malaysian University: A Step-by-Step Guide",
+      "category": "Applications & Visas",
+      "tags": [
+        "application process",
+        "how to apply"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80",
+      "author": "Aina R., Education Counsellor",
+      "date": "2026-03-10",
+      "readTimeMin": 4,
+      "excerpt": "From shortlisting programmes to accepting your offer, the full application timeline laid out clearly, without the usual confusion."
+    },
+    {
+      "slug": "best-cities-in-malaysia-for-university-students",
+      "title": "Best Cities in Malaysia for University Students",
+      "category": "Student Life",
+      "tags": [
+        "student cities",
+        "Kuala Lumpur",
+        "Penang"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+      "author": "Marcus T., Education Counsellor",
+      "date": "2026-03-04",
+      "readTimeMin": 4,
+      "excerpt": "Where you study shapes your whole experience: cost, career access, culture, and how far your ringgit actually stretches."
+    },
+    {
+      "slug": "student-visa-guide-studying-in-malaysia-as-an-international-student",
+      "title": "Student Visa Guide: Studying in Malaysia as an International Student",
+      "category": "Applications & Visas",
+      "tags": [
+        "student visa",
+        "international students",
+        "EMGS"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+      "author": "StudentsUni Team",
+      "date": "2026-02-26",
+      "readTimeMin": 4,
+      "excerpt": "The visa process explained step by step, from the Visa Approval Letter to arrival, so nothing catches you by surprise."
+    },
+    {
+      "slug": "top-scholarships-and-financial-aid-options-for-students-in-malaysia",
+      "title": "Top Scholarships and Financial Aid Options for Students in Malaysia",
+      "category": "Scholarships",
+      "tags": [
+        "scholarships",
+        "financial aid",
+        "funding"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=1200&q=80",
+      "author": "Marcus T., Education Counsellor",
+      "date": "2026-02-20",
+      "readTimeMin": 4,
+      "excerpt": "From government scholarships to university-specific fee waivers, where to actually look, and how to write an application that stands out."
+    },
+    {
+      "slug": "foundation-vs-a-level-vs-diploma-which-pre-university-route-should-you-take",
+      "title": "Foundation vs A-Level vs Diploma: Which Pre-University Route Should You Take?",
+      "category": "Applications & Visas",
+      "tags": [
+        "foundation",
+        "A-Level",
+        "diploma",
+        "pre-university"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=80",
+      "author": "StudentsUni Team",
+      "date": "2026-02-14",
+      "readTimeMin": 4,
+      "excerpt": "Three different roads into university, each suited to a genuinely different kind of student. Here is how to tell which one is actually yours."
+    },
+    {
+      "slug": "spm-and-stpm-explained-your-pathways-to-university-in-malaysia",
+      "title": "SPM and STPM Explained: Your Pathways to University in Malaysia",
+      "category": "Applications & Visas",
+      "tags": [
+        "SPM",
+        "STPM",
+        "pre-university"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=80",
+      "author": "Marcus T., Education Counsellor",
+      "date": "2026-02-08",
+      "readTimeMin": 4,
+      "excerpt": "What SPM and STPM actually qualify you for, and how they compare to Foundation, A-Level, and matriculation routes into university."
+    },
+    {
+      "slug": "public-vs-private-universities-in-malaysia-which-is-right-for-you",
+      "title": "Public vs Private Universities in Malaysia: Which Is Right for You?",
+      "category": "Choosing a Programme",
+      "tags": [
+        "public university",
+        "private university",
+        "comparison"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+      "author": "Marcus T., Education Counsellor",
+      "date": "2026-02-02",
+      "readTimeMin": 4,
+      "excerpt": "Neither option is universally better. An honest, side by side comparison of cost, admission process, teaching style, and campus culture."
+    },
+    {
+      "slug": "10-of-the-cheapest-universities-in-malaysia-for-international-students",
+      "title": "10 of the Cheapest Universities in Malaysia for International Students",
+      "category": "Cost & Budgeting",
+      "tags": [
+        "cheap universities",
+        "affordable tuition",
+        "public universities"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+      "author": "Aina R., Education Counsellor",
+      "date": "2026-01-28",
+      "readTimeMin": 4,
+      "excerpt": "Low fees do not have to mean low quality. A breakdown of where tuition goes furthest without giving up MQA-accredited, internationally recognised degrees."
+    },
+    {
+      "slug": "how-to-choose-the-right-university-programme-for-you",
+      "title": "How to Choose the Right University Programme for You",
+      "category": "Choosing a Programme",
+      "tags": [
+        "choosing a course",
+        "career planning"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+      "author": "StudentsUni Team",
+      "date": "2026-01-20",
+      "readTimeMin": 4,
+      "excerpt": "A structured framework for narrowing down your programme options before you commit three or four years and a significant amount of money."
+    },
+    {
+      "slug": "the-real-cost-of-living-in-malaysia-for-international-students-2026-guide",
+      "title": "The Real Cost of Living in Malaysia for International Students (2026 Guide)",
+      "category": "Cost & Budgeting",
+      "tags": [
+        "cost of living",
+        "budgeting",
+        "international students"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+      "author": "StudentsUni Team",
+      "date": "2026-01-12",
+      "readTimeMin": 6,
+      "excerpt": "A detailed, line by line breakdown of what students actually spend in Malaysia: rent, food, transport, utilities, and the extras nobody warns you about."
+    }
+  ]
+}

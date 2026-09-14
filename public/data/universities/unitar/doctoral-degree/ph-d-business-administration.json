@@ -1,0 +1,36 @@
+{
+  "university": "UNITAR International University",
+  "university_slug": "unitar",
+  "level": "Doctoral Degree (Ph.D)",
+  "program_name": "Ph.D. (Business Administration)",
+  "field": "Business Management & Administration",
+  "slug": "ph-d-business-administration",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Mar",
+    "May",
+    "Sep",
+    "Jan"
+  ],
+  "fees": {
+    "local": "32580/Course",
+    "international": "32580/Course",
+    "local_total": 13000,
+    "currency": "MYR",
+    "international_total": 18167
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/UNITAR/0053488/",
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

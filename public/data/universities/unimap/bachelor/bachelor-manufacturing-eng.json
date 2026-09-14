@@ -1,0 +1,38 @@
+{
+  "university": "Universiti Malaysia Perlis",
+  "university_slug": "unimap",
+  "level": "bachelor",
+  "program_name": "Bachelor of Engineering (Manufacturing Engineering) (Hons)",
+  "slug": "bachelor-manufacturing-eng",
+  "field": "Engineering",
+  "duration": "8 Semesters",
+  "mode": "Full-time",
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
+  "fees": {
+    "local": "800/Sem",
+    "international": null,
+    "currency": "MYR",
+    "local_total": 800,
+    "international_total": null,
+    "per_year_local": 1600,
+    "per_year_international": null,
+    "notes": "Fee data from StudyMalaysia."
+  },
+  "requirements": {
+    "entry_requirements": null,
+    "minimum_cgpa": null
+  },
+  "accreditation": {
+    "mqa": true,
+    "programme_accreditation": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UNIMAP/0009335/",
+    "https://www.studymalaysia.com/edu/unimap/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

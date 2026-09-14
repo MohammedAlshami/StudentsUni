@@ -1,0 +1,33 @@
+{
+  "university": "UCSI University",
+  "university_slug": "ucsi",
+  "abbreviation": "UCSI",
+  "type": "private-university",
+  "state": "Kuala Lumpur",
+  "website": "https://www.ucsiuniversity.edu.my",
+  "address": "No.1, Jalan UCSI, Taman Connaught, 56000 Kuala Lumpur",
+  "phone": "603 9101 8880",
+  "fax": "603 9102 2614",
+  "campuses": ["Kuala Lumpur", "Sarawak", "Bandar Springhill", "Bangladesh"],
+  "faculties": [
+    "Actuarial Science and Data Analytics",
+    "Applied Sciences",
+    "Architecture and Built Environment",
+    "Business",
+    "Computer Science and Information Technology",
+    "Creative Arts and Design",
+    "Engineering",
+    "English Language",
+    "Hospitality and Tourism",
+    "Medicine and Health Sciences",
+    "Music",
+    "Pharmaceutical Sciences",
+    "Science Diplomacy and Sustainability",
+    "Social Sciences and Liberal Arts"
+  ],
+  "sources": [
+    "https://www.ucsiuniversity.edu.my",
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

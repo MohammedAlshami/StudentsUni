@@ -1,0 +1,42 @@
+{
+  "university": "Universiti Sains Islam Malaysia",
+  "university_slug": "usim",
+  "level": "bachelor",
+  "level_name": "Bachelor's Degree",
+  "program_name": "Bachelor of Science (Architecture) (Hons)",
+  "slug": "bachelor-science-architecture",
+  "field": "Architecture",
+  "duration": "6 Semesters",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM 753/semester",
+    "international": null,
+    "notes": "Standard public university fees (MQA regulated)",
+    "currency": "MYR",
+    "local_total": 5400,
+    "international_total": 16200,
+    "per_year_local": 1800,
+    "per_year_international": 5400
+  },
+  "requirements": {
+    "general": "SPM with credits in Bahasa Melayu and Sejarah; STPM/Matriculation/Diploma with CGPA 2.00",
+    "specific": null,
+    "muet": "Band 1"
+  },
+  "accreditation": {
+    "mqa_program_code": null,
+    "board": "Internal Degree, Malaysia",
+    "body": "Malaysian Qualifications Agency (MQA)"
+  },
+  "faculties": [
+    "Faculty of Engineering and Built Environment"
+  ],
+  "career_prospects": null,
+  "sources": [
+    "https://www.studymalaysia.com/what/course/USIM/0008859/",
+    "https://admission.usim.edu.my/undergraduate-studies/"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

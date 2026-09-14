@@ -1,0 +1,60 @@
+{
+  "university": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "university_slug": "umpsa",
+  "level": "diploma",
+  "source": "https://www.studymalaysia.com/edu/ump/courses/",
+  "last_updated": "2026-09-15",
+  "programs": [
+    {
+      "slug": "diploma-in-civil-engineering",
+      "name": "Diploma in Civil Engineering",
+      "field": "Engineering"
+    },
+    {
+      "slug": "diploma-in-mechanical-engineering",
+      "name": "Diploma in Mechanical Engineering",
+      "field": "Engineering"
+    },
+    {
+      "slug": "diploma-in-computer-science",
+      "name": "Diploma in Computer Science",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "diploma-in-manufacturing-engineering-technology",
+      "name": "Diploma in Manufacturing Engineering Technology",
+      "field": "Manufacturing & Processing"
+    },
+    {
+      "slug": "diploma-in-chemical-engineering",
+      "name": "Diploma in Chemical Engineering",
+      "field": "Engineering"
+    },
+    {
+      "slug": "diploma-in-industrial-science",
+      "name": "Diploma in Industrial Science",
+      "field": "Science (Applied Science)"
+    },
+    {
+      "slug": "diploma-in-occupational-safety-and-health",
+      "name": "Diploma in Occupational Safety and Health",
+      "field": "Occupational Health & Hygiene"
+    },
+    {
+      "slug": "diploma-in-electrical-and-electronic-engineering",
+      "name": "Diploma in Electrical and Electronic Engineering",
+      "field": "Engineering"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": null,
+    "international_total": null,
+    "per_year_local": 680.0,
+    "per_year_international": null,
+    "notes": "Per semester: 340/sem"
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/umpsa/courses/"
+  ]
+}

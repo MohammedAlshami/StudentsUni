@@ -1,0 +1,23 @@
+{
+  "programs": [
+    {"slug": "phd-mechanical-engineering-1", "program_name": "Ph.D.(Mechanical Engineering)"},
+    {"slug": "phd-materials-engineering", "program_name": "Ph.D.(Materials Engineering)"},
+    {"slug": "phd-electrical-systems-engineering", "program_name": "Ph.D.(Electrical Systems Engineering)"},
+    {"slug": "phd-product-design-engineering", "program_name": "Ph.D.(Product Design Engineering)"},
+    {"slug": "phd-mechatronic-engineering", "program_name": "Ph.D.(Mechatronic Engineering)"},
+    {"slug": "phd-entrepreneurship-technopreneurship", "program_name": "Ph.D.(Entrepreneurship & Technopreneurship Management)"},
+    {"slug": "phd-microelectronic-engineering", "program_name": "Ph.D.(Microelectronic Engineering)"},
+    {"slug": "phd-economics", "program_name": "Ph.D.(Economics)"},
+    {"slug": "phd-biomedical-electronic-engineering", "program_name": "Ph.D.(Biomedical Electronic Engineering)"},
+    {"slug": "phd-marketing", "program_name": "Ph.D.(Marketing)"},
+    {"slug": "phd-environmental-engineering", "program_name": "Ph.D.(Environmental Engineering)"},
+    {"slug": "phd-engineering-mathematics", "program_name": "Ph.D.(Engineering Mathematics)"},
+    {"slug": "phd-communication-engineering", "program_name": "Ph.D.(Communication Engineering)"},
+    {"slug": "phd-computer-engineering", "program_name": "Ph.D.(Computer Engineering)"},
+    {"slug": "phd-accounting", "program_name": "Ph.D.(Accounting)"},
+    {"slug": "phd-finance", "program_name": "Ph.D.(Finance)"},
+    {"slug": "phd-bioprocess-engineering", "program_name": "Ph.D.(Bioprocess Engineering)"}
+  ],
+  "total": 17,
+  "last_updated": "2026-09-14"
+}

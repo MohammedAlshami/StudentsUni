@@ -1,0 +1,21 @@
+{
+  "university": "GMI-University College of Applied Sciences",
+  "university_slug": "gmi-ucas",
+  "level": "diploma",
+  "program_name": "Diploma in Innovative Product Design Engineering Technology",
+  "field": "Mechanical Engineering",
+  "duration": "6 Semester / 3 Years",
+  "mode": "Full Time",
+  "intakes": null,
+  "fees": "RM 33,324",
+  "requirements": null,
+  "accreditation": "R2/0741/4/0006 (01/26) (A 7165) - Accredited",
+  "sources": [
+    {
+      "url": "https://www.gmi.edu.my/mechanical-engineering/innovative-product-design/",
+      "type": "official"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

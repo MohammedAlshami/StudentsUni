@@ -1,0 +1,37 @@
+{
+  "university": "University of Technology Sarawak",
+  "university_slug": "uts",
+  "abbreviation": "UTS",
+  "slug": "uts",
+  "name": "University of Technology Sarawak",
+  "type": "private-university",
+  "state": "Sarawak",
+  "city": "Sibu",
+  "website": "https://www.uts.edu.my",
+  "studymalaysia_url": null,
+  "levels_available": [
+    "bachelor",
+    "foundation",
+    "master"
+  ],
+  "program_counts": {
+    "foundation": 1,
+    "bachelor": 6,
+    "master": 1
+  },
+  "accreditation": "MQA",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/University_of_Technology_Sarawak",
+      "type": "wikipedia",
+      "note": "Wikipedia page confirming UTS is a private university owned by Yayasan Sarawak, located in Sibu. Established 2013, upgraded to university status 2021. Offers 34 programmes."
+    },
+    {
+      "url": "https://www.uts.edu.my",
+      "type": "official",
+      "note": "Website returned 401 Unauthorized during data collection"
+    }
+  ],
+  "last_updated": "2026-09-14",
+  "notes": "State government-linked university wholly owned by Yayasan Sarawak. Established 2013 as UCTS, upgraded to full university 2021. Located in Sibu, Sarawak. Offers 34 programmes across 6 schools. 5,003 students (2025). First university in Malaysia to achieve GBI Platinum rating."
+}

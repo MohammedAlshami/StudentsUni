@@ -1,0 +1,25 @@
+{
+  "university": "GlobalNxt University",
+  "university_slug": "gnu",
+  "level": "doctorate",
+  "program_name": "Doctor of Philosophy in Management",
+  "field": "Management",
+  "duration": null,
+  "mode": "On-Campus",
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": {
+    "mqa_code": "N/0414/8/0059",
+    "expiry": "07/31",
+    "mqa_id": "MQA/PA 17544"
+  },
+  "sources": [
+    {
+      "url": "https://www.globalnxt.edu.my",
+      "type": "official"
+    }
+  ],
+  "confidence": "verified",
+  "last_updated": "2026-09-14"
+}

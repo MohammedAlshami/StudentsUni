@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "phd-in-project-management",
+    "program_name": "Ph.D in Project Management",
+    "field": "Business",
+    "duration": "3 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "phd-in-computer-science",
+    "program_name": "Ph.D in Computer Science",
+    "field": "Computing",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "phd-in-professional-communication",
+    "program_name": "Ph.D in Professional Communication",
+    "field": "Communication",
+    "duration": "3 Years",
+    "mode": "Part-time"
+  },
+  {
+    "slug": "doctor-of-business-administration",
+    "program_name": "Doctor of Business Administration",
+    "field": "Business",
+    "duration": "3 Years",
+    "mode": "Full-time"
+  },
+  {
+    "slug": "phd-in-business",
+    "program_name": "Ph.D in Business",
+    "field": "Business",
+    "duration": "3 Years",
+    "mode": "Part-time"
+  }
+]

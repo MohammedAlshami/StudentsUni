@@ -1,0 +1,24 @@
+{
+  "university": "Royal College of Surgeons in Ireland & UCD Malaysia Campus",
+  "university_slug": "rumc",
+  "level": "degree",
+  "program_name": "Undergraduate Medicine (MB BCh BAO)",
+  "field": "Medicine",
+  "slug": "undergraduate-medicine-mb-bch-bao",
+  "duration": "5 years",
+  "mode": "Full Time",
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "local": "RM 620,000",
+    "international": "EUR 155,000"
+  },
+  "requirements": null,
+  "accreditation": "R3/721/6/0009 (06/28) (MQA/FA4397)",
+  "sources": [
+    "https://www.rumc.edu.my/programmes/undergraduate-medicine/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}

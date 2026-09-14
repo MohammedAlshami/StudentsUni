@@ -1,0 +1,32 @@
+{
+  "university": "University of Nottingham Malaysia Campus",
+  "university_slug": "unmc",
+  "level": "masters",
+  "program_name": "M.A. (Education)",
+  "field": "Education",
+  "duration": "1-2 Years",
+  "mode": "Part-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM46,000",
+    "international": "RM55,200",
+    "local_total": 46000,
+    "per_year_local": 23000,
+    "international_total": 55200,
+    "per_year_international": 27600,
+    "currency": "MYR"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15",
+  "slug": "ma-education"
+}

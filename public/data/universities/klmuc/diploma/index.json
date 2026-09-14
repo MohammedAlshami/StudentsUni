@@ -1,0 +1,58 @@
+[
+  {
+    "program_name": "Diploma in Business Management",
+    "field": "Business & Entrepreneurship",
+    "duration": "8 Semesters / 2 Years 7 Months",
+    "mode": ["Full-time"],
+    "intakes": ["January", "May", "September"],
+    "fees": {"local": "RM 22,500"},
+    "requirements": null,
+    "accreditation": null,
+    "campus": "KLMUC",
+    "sources": ["https://www.unitar.my/programmes/"],
+    "confidence": "medium",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "program_name": "Diploma in Early Childhood Education",
+    "field": "Education",
+    "duration": "8 Semesters / 2 Years 7 Months",
+    "mode": ["Full-time"],
+    "intakes": ["January", "May", "September"],
+    "fees": {"local": "RM 22,500"},
+    "requirements": null,
+    "accreditation": null,
+    "campus": "KLMUC",
+    "sources": ["https://www.unitar.my/programmes/"],
+    "confidence": "medium",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "program_name": "Diploma in Human Resource Management",
+    "field": "Business & Entrepreneurship",
+    "duration": "8 Semesters / 2 Years 7 Months",
+    "mode": ["Full-time"],
+    "intakes": ["January", "May", "September"],
+    "fees": {"local": "RM 22,500"},
+    "requirements": null,
+    "accreditation": null,
+    "campus": "KLMUC",
+    "sources": ["https://www.unitar.my/programmes/"],
+    "confidence": "medium",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "program_name": "Diploma in Logistics and Supply Chain Management",
+    "field": "Business & Entrepreneurship",
+    "duration": "8 Semesters / 2 Years 7 Months",
+    "mode": ["Full-time"],
+    "intakes": ["January", "May", "September"],
+    "fees": {"local": "RM 22,500"},
+    "requirements": null,
+    "accreditation": null,
+    "campus": "KLMUC",
+    "sources": ["https://www.unitar.my/programmes/"],
+    "confidence": "medium",
+    "last_updated": "2026-09-14"
+  }
+]

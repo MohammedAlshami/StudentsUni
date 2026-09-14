@@ -1,0 +1,28 @@
+{
+  "university": "Universiti Sultan Zainal Abidin",
+  "university_slug": "unisza",
+  "level": "diploma",
+  "program_name": "Diploma in Islamic Studies (Dakwah)",
+  "slug": "diploma-in-islamic-studies-dakwah",
+  "field": "Humanities",
+  "duration": "4 Sem",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "300 - 400/sem",
+    "international": "1400/sem",
+    "currency": "MYR",
+    "local_total": 2600,
+    "per_year_local": 1300,
+    "notes": "Standard public university fees (MQA regulated)",
+    "international_total": 7800,
+    "per_year_international": 3900
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/unisza/courses/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

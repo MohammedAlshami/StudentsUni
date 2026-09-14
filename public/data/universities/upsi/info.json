@@ -1,0 +1,20 @@
+{
+  "slug": "upsi",
+  "name": "Universiti Pendidikan Sultan Idris",
+  "abbr": "UPSI",
+  "type": "public-university",
+  "state": "Perak",
+  "city": "Tanjong Malim",
+  "website": "https://www.upsi.edu.my",
+  "levels_available": ["diploma", "bachelor"],
+  "program_counts": {
+    "diploma": 13,
+    "bachelor": 53
+  },
+  "sources": [
+    "https://www.upsi.edu.my",
+    "https://www.upsi.edu.my/faculty/",
+    "https://www.studymalaysia.com/edu/upsi/courses/"
+  ],
+  "last_updated": "2026-09-14"
+}

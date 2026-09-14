@@ -1,0 +1,63 @@
+{
+  "university": "HELP University",
+  "university_slug": "help",
+  "level": "pre-university",
+  "programs": [
+    {
+      "program_name": "Foundation in Arts",
+      "program_slug": "foundation-in-arts",
+      "field": "Pre-University Programme",
+      "duration": "1 Year",
+      "mode": "Full-time Study",
+      "intakes": ["Jan", "May", "Jul", "Sep"],
+      "fees": {
+        "local": "RM17,800.00",
+        "international": null
+      },
+      "requirements": {
+        "spm": "Minimum 5 credits in any subjects with a minimum pass in BM & History",
+        "o_level": "Minimum 5 credits in any subjects",
+        "uec": "Minimum 3 subjects with Grade B"
+      },
+      "accreditation": {
+        "mqa_code": "R3/0011/3/0050",
+        "valid_until": "07/29",
+        "additional_codes": ["A10668"]
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0006146/",
+        "https://www.help.edu.my"
+      ],
+      "confidence": "high",
+      "last_updated": "2026-09-14"
+    },
+    {
+      "program_name": "Foundation in Science",
+      "program_slug": "foundation-in-science",
+      "field": "Pre-University Programme",
+      "duration": "1 Year",
+      "mode": "Full-time Study",
+      "intakes": ["Jan", "May", "Jul", "Sep"],
+      "fees": {
+        "local": "RM17,800.00",
+        "international": null
+      },
+      "requirements": {
+        "spm": null,
+        "o_level": null,
+        "uec": null
+      },
+      "accreditation": {
+        "mqa_code": null,
+        "valid_until": null,
+        "additional_codes": null
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0006186/",
+        "https://www.help.edu.my"
+      ],
+      "confidence": "medium",
+      "last_updated": "2026-09-14"
+    }
+  ]
+}

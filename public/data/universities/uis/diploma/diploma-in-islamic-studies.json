@@ -1,0 +1,19 @@
+{
+  "university": "Selangor Islamic University",
+  "university_slug": "uis",
+  "level": "diploma",
+  "program_name": "Diploma in Islamic Studies",
+  "field": "Islamic Studies",
+  "slug": "diploma-in-islamic-studies",
+  "duration": null,
+  "mode": null,
+  "intakes": null,
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://study.uis.edu.my/peringkat-diploma"
+  ],
+  "confidence": 0.5,
+  "last_updated": "2026-09-14"
+}

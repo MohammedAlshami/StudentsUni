@@ -1,0 +1,22 @@
+{
+  "university": "Xiamen University Malaysia",
+  "university_slug": "xmum",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Science in Mathematics and Applied Mathematics (Honours)",
+  "program_slug": "bachelor-science-mathematics-applied-mathematics-honours",
+  "field": "Science",
+  "duration": "4 years",
+  "mode": "Full-time",
+  "intakes": ["September"],
+  "fees": {
+    "local": null,
+    "international": null
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.xmu.edu.my/undergraduate-programmes"
+  ],
+  "confidence": 0.95,
+  "last_updated": "2026-09-14"
+}

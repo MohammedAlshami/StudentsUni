@@ -1,0 +1,17 @@
+{
+  "university": "University College Sabah Foundation",
+  "university_slug": "ucsf",
+  "level": "bachelor",
+  "program_name": "Bachelor of Arts (Honours) in Development Studies with Media Communication",
+  "program_slug": "bachelor-arts-development-studies-media-communication",
+  "field": "Media & Communication",
+  "duration": "3 years",
+  "mode": "Full Time",
+  "intakes": ["January", "May", "September"],
+  "fees": null,
+  "requirements": null,
+  "accreditation": null,
+  "sources": ["https://www.ucsf.edu.my/degree"],
+  "confidence": 0.8,
+  "last_updated": "2026-09-14"
+}

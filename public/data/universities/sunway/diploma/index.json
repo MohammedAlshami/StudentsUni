@@ -1,0 +1,15 @@
+{
+  "university": "Sunway University",
+  "university_slug": "sunway",
+  "level": "diploma",
+  "total_programs": 6,
+  "programs": [
+    { "program_name": "Diploma in Culinary Arts", "program_slug": "diploma-in-culinary-arts" },
+    { "program_name": "Diploma in Nursing", "program_slug": "diploma-in-nursing" },
+    { "program_name": "Diploma in Interior Design", "program_slug": "diploma-in-interior-design" },
+    { "program_name": "Diploma in Hotel Management", "program_slug": "diploma-in-hotel-management" },
+    { "program_name": "Diploma in Events Management", "program_slug": "diploma-in-events-management" },
+    { "program_name": "Diploma in Graphic and Multimedia Design", "program_slug": "diploma-in-graphic-and-multimedia-design" }
+  ],
+  "last_updated": "2026-09-14"
+}

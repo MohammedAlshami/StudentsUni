@@ -1,0 +1,14 @@
+{
+  "university": "Universiti Kuala Lumpur",
+  "university_slug": "unikl",
+  "level": "bachelor",
+  "level_label": "Bachelor's Degree",
+  "program_count": null,
+  "programs": [],
+  "note": "Full program list available in PDF: https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf - individual program details not yet extracted",
+  "sources": [
+    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
+    "https://www.unikl.edu.my/undergraduate-admission/"
+  ],
+  "last_updated": "2026-09-14"
+}

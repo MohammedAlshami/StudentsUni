@@ -1,0 +1,18 @@
+[
+  {"slug": "bachelor-of-accountancy", "name": "Bachelor of Accountancy (Honours)", "field": "Accounting"},
+  {"slug": "bachelor-of-agricultural-science", "name": "Bachelor of Agricultural Science (Plantation Management) (Honours)", "field": "Agriculture"},
+  {"slug": "bachelor-of-arts-english", "name": "Bachelor of Arts (Hons) in English for Professional Communication", "field": "Languages"},
+  {"slug": "bachelor-of-arts-tesol", "name": "Bachelor of Arts (Hons) Teaching of English to Speakers of Other Languages (TESOL)", "field": "Education"},
+  {"slug": "bachelor-of-business-administration-ecommerce", "name": "Bachelor of Business Administration (Honours) in E-Commerce", "field": "Business"},
+  {"slug": "bachelor-of-business-administration", "name": "Bachelor of Business Administration (Hons)", "field": "Business"},
+  {"slug": "bachelor-of-civil-engineering", "name": "Bachelor of Civil Engineering with Honours", "field": "Engineering"},
+  {"slug": "bachelor-of-communication-imc", "name": "Bachelor of Communication (Honours) in Integrated Marketing Communication", "field": "Communication"},
+  {"slug": "bachelor-of-communication-corporate", "name": "Bachelor of Communication (Hons) in Corporate Communication", "field": "Communication"},
+  {"slug": "bachelor-of-mechanical-engineering", "name": "Bachelor of Mechanical Engineering with Honours", "field": "Engineering"},
+  {"slug": "bachelor-of-quantity-surveying", "name": "Bachelor of Quantity Surveying (Hons)", "field": "Architecture"},
+  {"slug": "bachelor-of-science-architectural-studies", "name": "Bachelor of Science (Architectural Studies)", "field": "Architecture"},
+  {"slug": "bachelor-of-science-economics-finance", "name": "Bachelor of Science (Honours) in Economics and Finance", "field": "Business"},
+  {"slug": "bachelor-of-science-logistics", "name": "Bachelor of Science (Honours) in Logistics and Supply Chain Management", "field": "Business"},
+  {"slug": "bachelor-of-software-engineering", "name": "Bachelor of Software Engineering (Honours)", "field": "Computing"},
+  {"slug": "bachelor-of-technology-automotive", "name": "Bachelor of Technology (Hons) in Automotive", "field": "Engineering"}
+]

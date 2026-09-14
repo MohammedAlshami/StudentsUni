@@ -1,0 +1,33 @@
+{
+  "university": "Raffles University Iskandar",
+  "university_slug": "rui",
+  "level": "Diploma",
+  "program_name": "Diploma in Interior Design",
+  "field": "Arts & Design",
+  "slug": "diploma-in-interior-design",
+  "duration": "2 Yrs 4 Months",
+  "mode": "Full-time Study",
+  "intakes": null,
+  "fees": {
+    "local": null,
+    "international": "55550/Course",
+    "international_total": 55550,
+    "currency": "MYR",
+    "per_year_international": 27775,
+    "notes": "Total fee from existing data Local fees not published online; contact university.",
+    "local_total": null,
+    "per_year_local": null
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://studymalaysia.com/what/course/RUI/0055321/",
+    {
+      "url": "https://raffles-university.edu.my/programme/diploma-in-interior-design/",
+      "publisher": "Raffles University",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-15"
+}

@@ -1,0 +1,42 @@
+{
+  "university": "Monash University Malaysia",
+  "university_slug": "monash",
+  "level": "pre-university",
+  "program_name": "Diploma of Higher Education Studies",
+  "field": "General Studies",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "Jul",
+    "Oct",
+    "Feb"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 43680,
+    "international_total": 50400,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": "Enquire for fees"
+  },
+  "requirements": null,
+  "accreditation": {
+    "mqa_status": "MQA",
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.monash.edu.my/study/diploma-and-pathway/diploma-higher-education-studies",
+    {
+      "url": "https://www.easyuni.com/malaysia/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.com/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-15"
+    }
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

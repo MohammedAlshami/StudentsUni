@@ -1,0 +1,30 @@
+{
+  "university": "Universiti Teknologi PETRONAS",
+  "university_slug": "utp",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Information Systems (Hons)",
+  "slug": "information-systems",
+  "field": "Computing",
+  "duration": "3.5 years",
+  "mode": "full-time",
+  "intakes": ["january", "may", "september"],
+  "fees": {
+    "total": "RM 82,530",
+    "currency": "MYR",
+    "note": "Total estimated fees; contact university for current rates"
+  },
+  "requirements": {
+    "a_level": "CCC",
+    "spm": "Credits in Mathematics, Additional Mathematics, and English"
+  },
+  "accreditation": "R2/0611/6/0027 (11/26) MQA/FA16961",
+  "description": "Covers information systems design, database management, enterprise systems, business analytics, and IT governance. Prepares graduates for roles bridging business and technology.",
+  "career_prospect": ["Systems Analyst", "Business Analyst", "IT Project Manager", "Database Administrator", "ERP Consultant"],
+  "sources": [
+    "https://www.utp.edu.my",
+    "https://eduadvisor.my/university/universiti-teknologi-petronas-utp/all-courses",
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-14"
+}

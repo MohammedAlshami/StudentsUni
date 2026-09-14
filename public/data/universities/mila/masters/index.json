@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "master-of-business-administration",
+    "name": "Master of Business Administration",
+    "field": "Business"
+  },
+  {
+    "slug": "master-of-business-administration-odl",
+    "name": "Master of Business Administration (ODL)",
+    "field": "Business"
+  },
+  {
+    "slug": "master-of-computer-science",
+    "name": "Master of Computer Science",
+    "field": "Computing"
+  },
+  {
+    "slug": "master-of-education-educational-leadership-and-management",
+    "name": "Master of Education (Educational Leadership and Management)",
+    "field": "Education"
+  },
+  {
+    "slug": "master-of-education-educational-leadership-and-management-odl",
+    "name": "Master of Education (Educational Leadership and Management) (ODL)",
+    "field": "Education"
+  },
+  {
+    "slug": "master-of-new-media-and-communication-studies",
+    "name": "Master of New Media and Communication Studies",
+    "field": "Media"
+  },
+  {
+    "slug": "master-of-science-in-biotechnology",
+    "name": "Master of Science in Biotechnology",
+    "field": "Science"
+  },
+  {
+    "slug": "master-of-science-in-business",
+    "name": "Master of Science in Business",
+    "field": "Business"
+  },
+  {
+    "slug": "master-of-science-in-engineering",
+    "name": "Master of Science in Engineering",
+    "field": "Engineering"
+  }
+]

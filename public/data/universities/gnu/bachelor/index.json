@@ -1,0 +1,31 @@
+{
+  "level": "bachelor",
+  "university": "gnu",
+  "programs": [
+    {
+      "slug": "bece-odl",
+      "name": "Bachelor of Early Childhood Education (Honours)",
+      "mode": "ODL",
+      "field": "Education"
+    },
+    {
+      "slug": "bbm-odl",
+      "name": "Bachelor of Business Management (Honours)",
+      "mode": "ODL",
+      "field": "Business"
+    },
+    {
+      "slug": "bba-on-campus",
+      "name": "Bachelor of Business Administration (Honours)",
+      "mode": "On-Campus",
+      "field": "Business Administration"
+    },
+    {
+      "slug": "bcj-odl",
+      "name": "Bachelor of Criminal Justice (Honours)",
+      "mode": "ODL",
+      "field": "Criminal Justice"
+    }
+  ],
+  "last_updated": "2026-09-14"
+}

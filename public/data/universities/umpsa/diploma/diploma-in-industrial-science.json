@@ -1,0 +1,42 @@
+{
+  "university": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "university_slug": "umpsa",
+  "level": "diploma",
+  "program_name": "Diploma in Industrial Science",
+  "field": "Science (Applied Science)",
+  "duration": "5 Semesters",
+  "mode": "Full-time",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 3250,
+    "international_total": 9750,
+    "per_year_local": 1300,
+    "per_year_international": 3900,
+    "notes": "Standard public university fees (MQA regulated)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/edu/ump/courses/",
+    "https://studymalaysia.com/what/course/UMP/0057702/"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-14"
+}

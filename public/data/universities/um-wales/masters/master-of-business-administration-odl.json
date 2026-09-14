@@ -1,0 +1,22 @@
+{
+  "university": "University of Malaya-Wales",
+  "university_slug": "um-wales",
+  "level": "masters",
+  "program_name": "Master of Business Administration (ODL)",
+  "field": "Business",
+  "duration": "1.5 Years",
+  "mode": "Online",
+  "intakes": null,
+  "fees": {
+    "local": "RM18,870",
+    "international": "RM21,980"
+  },
+  "requirements": null,
+  "accreditation": null,
+  "sources": [
+    "https://www.studymalaysia.com/edu/iumw/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14",
+  "slug": "master-of-business-administration-odl"
+}

@@ -1,0 +1,23 @@
+{
+  "university": "Asia Pacific University of Technology & Innovation",
+  "university_slug": "apu",
+  "level": "undergraduate",
+  "program_name": "Bachelor of Accounting and Finance (Honours) with a specialism in Forensic Accounting",
+  "program_slug": "bachelor-accounting-finance-forensic-accounting",
+  "field": "Accounting & Finance",
+  "duration": "3 years",
+  "mode": "Full-time",
+  "intakes": null,
+  "fees": {
+    "local": "RM100,400.00",
+    "international": "RM108,500.00"
+  },
+  "requirements": null,
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.apu.edu.my/course/bachelor-of-accounting-finance-forensic-accounting",
+    "https://www.studymalaysia.com/what/course/APU/0009798/"
+  ],
+  "confidence": 0.9,
+  "last_updated": "2026-09-14"
+}
