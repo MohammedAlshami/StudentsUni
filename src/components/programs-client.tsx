@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 import {
   ChevronLeft,
   ChevronRight,
@@ -69,7 +70,8 @@ function pageNumbers(current: number, total: number): (number | "…")[] {
 }
 
 export default function ProgramsClient({ programs }: { programs: ProgramRow[] }) {
-  const [search, setSearch] = useState("");
+  const searchParams = useSearchParams();
+  const [search, setSearch] = useState(searchParams.get("q") ?? "");
   const [level, setLevel] = useState("all");
   const [page, setPage] = useState(1);
 

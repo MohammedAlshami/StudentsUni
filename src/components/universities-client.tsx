@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 import { ChevronLeft, ChevronRight, GraduationCap, Landmark, MapPin, Search, SlidersHorizontal, Wallet } from "lucide-react";
 import { wrap, Label } from "@/components/marketing-ui";
 import { getUniversityImage } from "@/lib/university-images";
@@ -83,7 +84,8 @@ export default function UniversitiesClient({
   institutions: Institution[];
   stats: Record<string, UniversityStats>;
 }) {
-  const [search, setSearch] = useState("");
+  const searchParams = useSearchParams();
+  const [search, setSearch] = useState(searchParams.get("q") ?? "");
   const [typeFilter, setTypeFilter] = useState("all");
   const [page, setPage] = useState(1);
 

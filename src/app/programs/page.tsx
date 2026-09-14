@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { Suspense } from "react";
 import { ArrowUpRight } from "lucide-react";
 import ProgramsClient from "@/components/programs-client";
 import { wrap, Pic, Label, Heading, Pill } from "@/components/marketing-ui";
@@ -97,7 +98,9 @@ export default function ProgramsPage() {
           </p>
         </div>
       </div>
-      <ProgramsClient programs={allPrograms} />
+      <Suspense fallback={null}>
+        <ProgramsClient programs={allPrograms} />
+      </Suspense>
 
       {/* Consultation CTA */}
       <div className="bg-[#f5efeb] py-[83px]">

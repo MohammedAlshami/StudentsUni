@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { Suspense } from "react";
 import { ArrowUpRight } from "lucide-react";
 import UniversitiesClient from "@/components/universities-client";
 import { wrap, Pic, Label, Heading, Pill } from "@/components/marketing-ui";
@@ -46,7 +47,9 @@ export default function UniversitiesPage() {
           </p>
         </div>
       </div>
-      <UniversitiesClient institutions={institutions} stats={stats} />
+      <Suspense fallback={null}>
+        <UniversitiesClient institutions={institutions} stats={stats} />
+      </Suspense>
 
       {/* Consultation CTA */}
       <div className="bg-[#f5efeb] py-[83px]">
