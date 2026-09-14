@@ -3,7 +3,7 @@ import path from "path";
 import Link from "next/link";
 import { BadgeCheck, Calendar, Clock, GraduationCap, ShieldCheck, Wallet } from "lucide-react";
 import { wrap, Label, Pill } from "@/components/marketing-ui";
-import { normalizeProgramsList, loadProgramDetail } from "@/lib/university-detail";
+import { normalizeProgramsList, loadProgramDetail, entrySlug } from "@/lib/university-detail";
 
 const LEVEL_LABELS: Record<string, string> = {
   foundation: "Foundation",
@@ -41,6 +41,34 @@ function readJSON(filePath: string): unknown | null {
   } catch {
     return null;
   }
+}
+
+export function generateStaticParams() {
+  const uniDir = path.join(process.cwd(), "public/data/universities");
+  const params: Array<{ slug: string; level: string; program: string }> = [];
+
+  for (const slug of fs.readdirSync(uniDir)) {
+    const uniPath = path.join(uniDir, slug);
+    if (!fs.statSync(uniPath).isDirectory()) continue;
+
+    const levels = fs
+      .readdirSync(uniPath, { withFileTypes: true })
+      .filter((e) => e.isDirectory() && e.name !== "_meta")
+      .map((e) => e.name)
+      .filter((name) => fs.existsSync(path.join(uniPath, name, "index.json")));
+
+    for (const level of levels) {
+      const indexPath = path.join(uniPath, level, "index.json");
+      const rawPrograms = normalizeProgramsList(readJSON(indexPath));
+      for (const raw of rawPrograms) {
+        const program = typeof raw === "string" ? raw : entrySlug(raw);
+        if (!program) continue;
+        params.push({ slug, level, program });
+      }
+    }
+  }
+
+  return params;
 }
 
 export default async function ProgramDetailPage({
