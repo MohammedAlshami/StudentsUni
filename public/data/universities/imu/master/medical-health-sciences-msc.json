@@ -1,0 +1,43 @@
+{
+  "program_name": "MSc in Medical and Health Sciences",
+  "field": "",
+  "duration": "2 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 11000,
+    "international_total": 21500,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Applicants are required to have obtained: MSc in Medical and Health Science A Bachelor’s Degree in the field or related fields with a minimum CGPA of 2.75 or equivalent, as accepted by the University’s Senate; or A Bachelor’s Degree in the field or related fields or equivalent with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment; or A Bachelor’s Degree in the field or related fields or equivalent with minimum CGPA of 2.00 and not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in the relevant field and rigorous internal assessment. Note: Applicants with the relevant experience will be given priority of selection. Bachelor’s degree candidates who are registered for master’s degree programmes may apply to convert to the doctoral degree programmes subjected to the following conditions: within 1 year for full time and within 2 years for part-time candidates; having shown competency and capability in conducting research at doctoral level through rigorous internal evaluation by the HEP; and approval of the University’s Senate. English Proficiency Requirements:   For Malaysian Students Not applicable For International Students IELTS: Band score 5.0; or TOEFL (iBT): Overall score of 42; or Cambridge English: Advanced (CAE): Overall score of 154; or Cambridge English: Proficiency (CPE): Overall score of 154; or Cambridge Linguaskill: Overall score of 160; or Pearson Test of English (PTE): Overall score of 47; The following categories of students are exempted from the above requirements: International students from countries in which English is the first language. International students who graduated from any Malaysian or other institutions where the curriculum is delivered in English."
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/international-medical-university-imu-10211/msc-medical-health-sciences-243127/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

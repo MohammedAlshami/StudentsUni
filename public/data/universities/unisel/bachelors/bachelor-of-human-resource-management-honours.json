@@ -17,7 +17,21 @@
     "international_total": 16454,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Passed Malaysian Higher School Certificate (Sijil Tinggi Persekolahan Malaysia – STPM) or equivalent by obtaining at least C grade (NGMP: 2.00) in two (2) subjects and passed Mathematics and English at Malaysian Ceritificate of Education (SPM) level or equivalent qualifications; OR Passed the Malaysian Higher Certificate of Religion (STAM) with at least the rank of Jayyid (Good) and passed Mathematics and English at the Malaysian Certificate of Education (SPM) level/ equivalent; OR  Pass the United Examination Certificate (UEC) with at least a B grade in five (5) subjects, including Mathematics and pass English; OR Pass Matriculation/Foundation/AsSI with at least CGPA 2.00 out of 4.00; OR Pass the UNISEL Foundation Year Study Programme with a minimum GPA of 2.00; OR Other qualifications recognised as equivalent to a Diploma or Advanced Diploma (Level 4 or 5, KKM) with at least a CGPA of 2.00; OR Other qualifications are recognised as equivalent by the Malaysian Government."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-selangor-unisel-12328/bachelor-of-human-resource-management-hons-294160/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

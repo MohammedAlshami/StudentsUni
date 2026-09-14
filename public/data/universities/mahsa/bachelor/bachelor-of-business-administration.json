@@ -1,0 +1,43 @@
+{
+  "program_name": "Bachelor of Business Administration",
+  "field": "",
+  "duration": "3 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 54300,
+    "international_total": 49320,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: Matriculation / Foundation: Pass with a minimum CGPA of 2.0 and a pass in Mathematics at SPM level or its equivalent. STPM: Pass with TWO (2) full passes with a minimum CGPA of 2.0 or its equivalent and a pass in Mathematics at SPM level or its equivalent. STAM: Pass with minimum grade of Jayyid and a pass in Mathematics at SPM level or its equivalent. UEC: Pass with minimum grade B in any 5 subject A-Levels: Pass with minimum TWO (2) principles. IB: Pass with a minimum score of 24 points. SAM / AUSMAT / SACE: Pass in any 2 subjects with ATAR score of 50%. Canadian Pre-U / TEE: Pass with an aggregate of 50%. VCE / Ontario Secondary School Diploma: Pass. CIMP, Indian Pre-University, AP, Higher School Certificate Sydney Australia, Western Australian Curriculum Council, UNSW Foundation, HSC and New Zealand Bursary: Pass with 50% aggregate or CGPA 2.00 Diploma in DBA: Pass with a minimum CGPA of 2.00 or equivalent (Candidates with CGPA below 2.0 but above 2.0 may be admitted subject to an internal assessment process). Any other Diploma: Pass with a minimum CGPA of 2.0. Other: Other relevant equivalent qualifications recognised by the Malaysian Government. APEL: Age 21 years &amp; above and experience in the related field. English Proficiency Requirements(International Students): IELTS: 5.5 TOEFL PBT: 410 – 413 MUET: Band 3        "
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/mahsa-university-213/bachelor-of-business-administration-bba-271083/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

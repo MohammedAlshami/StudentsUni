@@ -30,8 +30,28 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/uk-degree-transfer-program-law-243460/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-14",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Requirements MUET Band 4 AND any of the following: A pass in STPM, with a minimum Grade C (GP 2.0) in any TWO (2) subjects; or any equivalent qualification; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Jayyid (good) Any qualifications equivalent to Diploma (Level 4, MQF); or any equivalent qualification Matriculation/Foundation qualification with a minimum CGPA of 2.0 out of 4.0; or any equivalent qualification English Requirement (International Students) A score of 600 for Test of English as a Foreign Language (TOEFL) A score of 100 for the Online TOEFL test A score of 6.0 for International English Language Testing System (IELTS) or its equivalent"
+  }
 }

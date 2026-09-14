@@ -11,7 +11,9 @@
   "fees": {
     "local": "RM36,300.00",
     "international": "RM63,700.00",
-    "currency": "MYR"
+    "currency": "MYR",
+    "local_total": 33200,
+    "international_total": 58500
   },
   "requirements": null,
   "accreditation": "MQA",
@@ -26,6 +28,11 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/bachelor-of-tourism-management-honours-292897/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": 0.85,

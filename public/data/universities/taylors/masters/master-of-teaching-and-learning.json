@@ -22,7 +22,21 @@
     "per_year_international": 11968,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: A Bachelor&#39;s degree in the field or related fields with a CGPA &gt; 2.50, recognised by the Malaysian or National Government A Bachelor&#39;s degree in the field or related field not meeting CGPA of 2.50, recognised by the Malaysian or National Government, can be accepted subject to a minimum of 5 years working experience in related field Any other equivalent qualification recognised by the Malaysian Government. Application via APEL A is allowed. English Requirements for international students: IELTS 6.0 / TOEFL 60 (Internet Based Test) (May join IEN preparatory course and achieve the IELTS score)  Note:Students without a qualification in the related fields or relevant working experience requires to undergo and pass a bridging module."
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-coursework/master-of-teaching-and-learning.html",
@@ -36,6 +50,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/master-of-teaching-learning-293113/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

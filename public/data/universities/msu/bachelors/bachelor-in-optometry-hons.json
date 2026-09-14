@@ -28,7 +28,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Pass SPM or its equivalent with minimum 3 credits, including 2 credits in the following subjects: Biology Physics Mathematics Chemistry and at least pass in English Languge Pass STPM in Science Stream with 2.50 CGPA; Pass The South Australian Matriculation (SAM) with average score of 14 (60% ATAR/TER) including 3 Science or Mathematic subjects; Pass Canadian Pre University Programme (CPU) with minimum 2.50 CGPA including 3 Science or Mathematic subjects; Pass Indian Pre-University/HSC/SSC with 60% aggregate, including 3 Science or Mathematic subjects; Pass A Level in Science Stream with 2.50 CGPA, including 3 Science or Mathematic subjects; Pass Australian Matriculation (AUSMAT) with average score of 14 (60% ATAR/TER) including 3 Science or Mathematic subjects; Pass Foundation in Science/ cience Biology/ Health Sciences from MSU/IPTA/IPTS with 2.50 CGPA, including 3 Science or Mathematic subjects; Pass Science Stream Matriculation Programme with 2.50 CGPA; Other equivalent qualification recognised by the Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,
@@ -49,6 +50,11 @@
       "url": "https://www.msu.edu.my",
       "publisher": "official",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-of-optometry-hons-279256/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

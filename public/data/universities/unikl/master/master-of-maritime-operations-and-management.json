@@ -5,15 +5,34 @@
   "program_name": "Master of Maritime Operations and Management",
   "program_slug": "master-of-maritime-operations-and-management",
   "field": "Maritime & Logistics",
-  "duration": null,
+  "duration": "18 months",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students   A Bachelor’s degree (level 6 / MQF) or equivalent with a minimum CGPA of 2.50 in related field, as endorsed by the Senate of UniKL; or A Bachelor’s degree (level 6 / MQF) or equivalent with CGPA not meeting 2.50, can be accepted but with 5 years working experience in related sector as endorsed by the Senate of UniKL; or Professionals qualifications recognised by the Public Service Department as equivalent to a Bachelor’s degree (level 6 / MQF); or Other qualifications recognized by the Government of Malaysia. For International Students Bachelor&#39;s degree (Level 6/MQF) or equivalent with minimum CGPA of 2.50 in a related field. CGPA below 2.50 may be accepted with 5 years of related work experience. IELTS 6.0, TOEFL 550 or equivalent."
+  },
   "accreditation": null,
   "sources": [
     "https://www.unikl.edu.my/postgraduate-admission/",
-    "https://www.unikl.edu.my/programme/master-of-maritime-operations-and-management/"
+    "https://www.unikl.edu.my/programme/master-of-maritime-operations-and-management/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-maritime-operations-and-management-293778/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "high",
   "last_updated": "2026-09-14"

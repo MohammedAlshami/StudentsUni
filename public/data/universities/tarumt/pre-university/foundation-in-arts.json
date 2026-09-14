@@ -21,7 +21,21 @@
     "per_year_local": 9900,
     "per_year_international": 16700
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "SPM - 5 credits in the relevant subjects; * O Level - 5 Grade C in the relevant subjects; * UEC - 3 Grade B in the relevant subjects.  * Note: a) SPM holders must have at least a pass in Bahasa Melayu and SPM holders from Year 2013 onwards must have at least a pass in Sejarah. *Click here to find out more about the Minimum Entry Requirements: https://www.tarc.edu.my/files/admissions/2021mer/93ECE72C-D16E-4DEC-934A-E2A4621CC3A4.pdf"
+  },
   "accreditation": "MQA",
   "sources": [
     "https://cpus.tarc.edu.my/programmes/foundation-in-arts",
@@ -45,6 +59,11 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/foundation-in-arts-289341/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

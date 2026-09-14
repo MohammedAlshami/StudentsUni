@@ -19,7 +19,21 @@
     "international_total": 17628,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Ay one of these: STPM: Minimum 2 Principal Passes (including Mathematics and Physics/Chemistry). A-level: Minimum 2 Principal Passes (D) (including Mathematics and Physics/Chemistry). UEC: Minimum 5 Bs (including Mathematics and Physics/Chemistry). Diploma / HND: Minimum CGPA of 2.00 and Band 2 MUET. Foundation / Matriculation: Minimum CGPA of 2.00 and Band 2 MUET. SAM / HSC / AUSMAT: TER/UAI: Average of 60% or higher in 5 subjects (including Mathematics and Physics/Chemistry). CPU/CIMP: Minimum of 60% or higher in 6 subjects (including Mathematics and Physics/Chemistry). IB: Minimum 26/42 points or higher based on 6 subjects including 4/7 in Mathematics and Physics/Chemistry. DVM: Minimum CGPA of 2.50 (Required to take Remedial Courses during the first semester). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. ENGLISH LANGUAGE REQUIREMENT: IELTS: 5 TOEFL (PBT): 500 TOEFL (IBT): 42 PTE: 47 MUET: BAND 3 Cambridge English: 154"
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -31,6 +45,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/bachelor-of-mechanical-engineering-hons-271026/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

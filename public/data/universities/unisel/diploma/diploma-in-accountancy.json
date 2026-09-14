@@ -17,7 +17,21 @@
     "international_total": 15566,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Pass Malaysian Certificate of Education (Sijill Pelajaran Malaysia – SPM) or equivalent with a minimum of 3 credits, including Mathematics, and pass English; OR Pass a Malaysian Higher School Certificate (STPM) or equivalent, with a minimum of Grade C (NGMP 2.0) in any subject, and credit in Mathematics and pass English at SPM level; OR Pass a Malaysia Higher Religious Certificate (Sijil Tinggi Agama Malaysia – STAM) with a minimum of Maqbul (pass) and credit in Mathematics and pass English at SPM level; OR Pass a Level 3 SKM in the relevant field and pass a Malaysian Certificate of Education (Sijil Pelajaran Malaysia – SPM) with a minimum of 1 credit in any subject with credit in Mathematics and English pass; OR Certificate or its equivalent in the relevant field International students Pass IGCSE O-Level or equivalent with a minimum of 3 subjects with grade &#34;C&#34; or better, including Mathematics"
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-selangor-unisel-12328/diploma-in-accountancy-294155/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

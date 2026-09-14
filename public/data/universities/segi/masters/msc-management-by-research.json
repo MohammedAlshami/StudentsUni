@@ -5,7 +5,7 @@
   "program_name": "MSc (Management) by Research",
   "program_slug": "msc-management-by-research",
   "field": "Business Management & Administration",
-  "duration": "2 - 4 Yrs (FT) / 3 \u2013 6 Yrs (PT)",
+  "duration": "2 - 4 Yrs (FT) / 3 – 6 Yrs (PT)",
   "mode": "Flexible Full-time/Part-time Mode",
   "intakes": null,
   "fees": {
@@ -16,11 +16,30 @@
     "per_year_international": "RM20,000-RM30,000",
     "notes": ""
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: Bachelor’s Degree – (Level 6, KKM) in the related field, with at least CGPA 2.75 or equivalent as approved by the PPT Senate Bachelor’s Degree – (Level 6, KKM) in the related field, with CGPA 2.50 but not achieving CGPA 2.75 can be admitted, subject to rigorous internal assessment process Bachelor’s Degree – (Level 6, KKM) in relevant field but did not achieve CGPA 2.50, can be admitted subject to min 5 years working experience in the appropriate field and rigorous internal assessment. English Proficiency Requirements: TOEFL 500 or  IELTS 5.0"
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SEGI/0009966/",
-    "https://eduswasta.my/university/segi-university/"
+    "https://eduswasta.my/university/segi-university/",
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/msc-in-engineering-267727/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.7,
   "last_updated": "2026-09-15"

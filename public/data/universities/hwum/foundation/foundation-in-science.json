@@ -1,0 +1,47 @@
+{
+  "university": "Heriot-Watt University Malaysia",
+  "university_slug": "hwum",
+  "level": "foundation",
+  "program_name": "Foundation in Science",
+  "program_slug": "foundation-in-science",
+  "field": "",
+  "duration": "1 year",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 27132,
+    "international_total": 33360,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: SPM/O-Levels: Minimum 5 credits (C&#39;s), including Mathematics, English, Physics, Chemistry, and Additional Mathematics. IB MYP: 3 subjects with Grade 6 (English, Mathematics, and Physics/Chemistry). 2 subjects with Grade 5 (Additional Mathematics and Physics/Chemistry). Conditional Offers: Available for students with forecast results. Advance Standing: May be granted for those with appropriate pre-university qualifications. Final results are required before the program starts. Pre-requisite Subjects: Progression to an undergraduate program may require specific grades in pre-requisite subjects at SPM/O-Level/Equivalent levels, in addition to Foundation results. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 5.5 (or equivalent) with no score below 5.0. English Language Courses: Offered for those who do not meet the IELTS 5.5 requirement."
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/foundation-in-science-269980/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,14 @@
+{
+  "programs": [
+    {
+      "slug": "german-university-preparatory-programme",
+      "name": "German University Preparatory Programme (GAPP)",
+      "field": "Pre-University"
+    },
+    {
+      "slug": "gmi-utp-foundation-programme",
+      "name": "GMI-UTP Foundation Programme (GUFP)",
+      "field": "Pre-University"
+    }
+  ]
+}

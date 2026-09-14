@@ -17,7 +17,21 @@
     "international_total": 12800,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Possesses SKM Level 3 in the related field; OR A Certificate (Level 3, MQF) in the related field with at least a CGPA of 00; OR A pass in Malaysian Higher School Certificate (Sijil Tinggi Pelajaran Malaysia – STPM) with at least C grade (GP 2.0) in any subject; OR A pass in Malaysia Higher Religious Certificate (Sijil Tinggi Agama Malaysia – STAM) with at least Maqbul Grade; OR Other equivalent qualifications recognised by the Malaysian Government"
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-selangor-unisel-12328/diploma-in-administrative-management-294156/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

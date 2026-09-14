@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "STPM (Arts Stream): Pass with a minimum Grade C (GP 2.00) in any two (2) subjects and A credit in Additional Mathematics at the SPM Level or its equivalent; or A credit in Mathematics and any one of the Science, Technology, or Engineering subjects at the SPM Level or its equivalent. STPM (Science Stream): Pass with a minimum Grade C (GP 2.00) in Mathematics and one (1) Science / ICT subject. A-Level: Pass with Grade D in any two (2) subjects and A credit in Additional Mathematics at the SPM Level or its equivalent; Or A credit in Mathematics and any one of the Science, Technology, or Engineering subjects at SPM Level or its equivalent. STAM: Pass with a minimum Jayyid in any two (2) subjects and A credit in Additional Mathematics at SPM Level; Or A credit in Mathematics and any Science, Technology, or Engineering subject at SPM Level. UEC: Pass with at least Grade B in any five (5) subjects and A credit in Additional Mathematics at SPM Level or its equivalent; Or A credit in Mathematics and any Science, Technology, or Engineering subject at SPM Level or its equivalent. Foundation / Matriculation: Pass with a minimum CGPA of 2.00 and a credit in Additional Mathematics at SPM Level or its equivalent; Or Pass with a minimum CGPA of 2.00 and a credit in Mathematics and any Science, Technology, or Engineering subject at SPM Level or its equivalent. Candidates without Additional Mathematics are required to take and pass a reinforcement mathematics subject in the first semester. Diploma in Computing Fields (Level 4, MQF): Pass with minimum CGPA of 2.50. CGPA below 2.50 but more than 2.00 may be subject to internal evaluation/interview. Any Diploma in Science &amp; Technology (Level 4, MQF):  Pass with a minimum CGPA of 2.75. CGPA below 2.75 but more than 2.50 may be subject to internal evaluation/interview. Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) / Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing Fields: Pass with a minimum CGPA of 2.50, subject to HEP Senate / Academic Board’s approval. English Language Requirements (for International Students): MUET: 3.5 IELTS: 5.0 TOEFL: 7.5 (Ess Online) / 40 (iBT) Pearson: 47 Linguaskill OL: 154 ELS: 107 Note: International students from countries where English is the primary medium of instruction are exempted from this requirement. Students who do not meet the English requirements may enroll in the Intensive English Programme at Nilai University to prepare for the IELTS examination."
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/nilai-university-226/bachelor-of-cs-hons-data-science-294333/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

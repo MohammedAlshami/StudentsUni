@@ -5,13 +5,34 @@
   "program_name": "Master in Manufacturing Management",
   "program_slug": "master-in-manufacturing-management",
   "field": "Engineering & Manufacturing",
-  "duration": null,
+  "duration": "1 year",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate; OR A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senateand with relevant working experience, subject to a rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; OR v. Other equivalent/related qualifications to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government. For International Students Bachelor’s degree (Level 6, Malaysian Qualifications Framework, MQF) with minimum CGPA of 2.50 or equivalent qualifications from local or other institutions of higher learning as approved by the Senate of UniKL; or Bachelor’s degree (Level 6, MQF) with CGPA below 2.50 or its equivalent can be accepted subject to a minimum of 5 years of working experience in related field IELTS 6.0, TOEFL 550 or equivalent"
+  },
   "accreditation": null,
-  "sources": ["https://www.unikl.edu.my/postgraduate-admission/"],
+  "sources": [
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-in-manufacturing-management-293774/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
   "confidence": "high",
   "last_updated": "2026-09-14"
 }

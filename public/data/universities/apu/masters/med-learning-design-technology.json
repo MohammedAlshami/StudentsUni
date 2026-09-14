@@ -10,13 +10,34 @@
   "intakes": null,
   "fees": {
     "local": "RM30,600.00",
-    "international": "RM34,000.00"
+    "international": "RM34,000.00",
+    "local_total": 30600,
+    "international_total": 34000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "General Requirements Bachelor’s degree in Education or related fields with a minimum CGPA of 2.50, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in Education or related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the Senate, subject to passing pre-requisite courses. * Applicants without an Education-related Bachelor’s degree must pass the pre-requisite modules to continue with the Master’s Degree. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). English Requirements IELTS: 6.0"
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/msc-in-education-in-learning-design-and-technology",
-    "https://www.studymalaysia.com/what/course/APU/0058657/"
+    "https://www.studymalaysia.com/what/course/APU/0058657/",
+    {
+      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/master-of-education-in-learning-design-and-technology-294215/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.9,
   "last_updated": "2026-09-14"

@@ -1,0 +1,43 @@
+{
+  "program_name": "Bachelor of Accountancy (Hons)",
+  "field": "",
+  "duration": "42 months",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 56990,
+    "international_total": 63940,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: STPM: Minimum 2 Principal Passes (C+), credit in Mathematics in SPM, a pass in English. STAM: Minimum grade of Jayyid, credit in Mathematics in SPM, a pass in English at SPM level. A-Level: Minimum 2 Principal Passes (C) and a C in O-Level Mathematics, a pass in English at SPM level, and Band 2 MUET. UEC: Minimum 5 Bs (including Mathematics) and a pass in English. Diploma / HND: Minimum CGPA of 2.50, credit in Mathematics in SPM, a pass in English at SPM level. Foundation / Matriculation: Minimum CGPA of 2.50, credit in Mathematics in SPM, a pass in English at SPM level, and Band 2 MUET. SAM / HSC / AUSMAT:TER/UAI: Average 60% or higher in 5 subjects (including Mathematics). CPU / CIMP: Average of 60% or higher in 6 subjects. IB: 26 points or higher based on 6 subjects. Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. Note: Candidates without a pass in Mathematics at SPM level may be admitted if their qualifications include a Mathematics subject that is equivalent to SPM level. ENGLISH LANGUAGE REQUIREMENTS: IELTS - 5.5 TOEFL (PBT) - 550 TOEFL (IBT) - 46 PTE - 51 MUET - BAND 3 Cambridge English - 160"
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/bachelor-of-accountancy-hons-271020/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

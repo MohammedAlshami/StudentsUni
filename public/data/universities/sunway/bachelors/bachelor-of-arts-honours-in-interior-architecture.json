@@ -21,7 +21,21 @@
     "notes": "Fee: FromRM81,800.00",
     "international_total": 37950
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "STPM: Average C or CGPA 2.0 (minimum 2 principals) A-Level: Minimum 8 points (Grade D in at least 2 subjects) Australian Matriculation: ATAR 55 Canadian Matriculation: 55% Monash University Foundation Year: 55% Sunway Foundation in Arts/Science &amp; Technology: CGPA 2.0 UEC: Maximum 30 points from 5 subjects (all Grade Bs) International Baccalaureate: Minimum 24 points (excluding bonus points) Sunway Diploma in Related Field: CAVG 50% or CGPA 2.0 (advanced standing possible) Portfolio Review: Minimum 5 architecture-related works (pencil/ink sketches, AutoCAD drawings, 3D models, hand-drafted designs) English Language: IELTS 6.0, MUET Band 4, SPM English B, UEC English B6, O-Level English Credit, Sunway IEP Level 4 (65%)"
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -36,6 +50,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/sunway-university-250/bachelor-of-arts-honours-in-architecture-294969/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -1,0 +1,43 @@
+{
+  "program_name": "Doctor of Dental Surgery (DDS)",
+  "field": "",
+  "duration": "5 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 402050,
+    "international_total": 402500,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: STPM/A-Levels: Pass with minimum 3B / 2A 1C / 1A 1B 1C in Biology, Chemistry, and Physics / Maths. Matriculation/Foundation in Science/Pre-Medical Course: Pass with CGPA 3.00 in 3 subjects: Biology, Chemistry, Physics / Maths and Grade B in 5 subjects at SPM or equivalent in Biology, Chemistry, Physics, Maths/Add Maths, and 1 other subject. Note: The course should not be less than 1 year in the same accredited institution and the minimum entry qualification. UEC: Pass with Grade B4 in 5 subjects Biology, Chemistry, Physics, Maths and Add Maths. Diploma: Health Sciences: CGPA 3.50 and Grade B in 5 SPM subjects (including Biology, Chemistry, Physics, Mathematics/Additional Mathematics, and 1 other). Microbiology (UiTM): CGPA 3.00 Degree: Arts/Humanities: Minimum CGPA 4.0 (4-years Arts/Humanities Programme) Medical Sciences: Minimum CGPA of 3.3 (5-year Medical Sciences programme) Other Qualifications: Minimum CGPA of 3.0 (4-year Medical Sciences programme) English Proficiency Requirements: MUET: Band 4 IELTS: 6 TOEFL: 550"
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/mahsa-university-213/doctor-of-dental-surgery-dds-271079/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

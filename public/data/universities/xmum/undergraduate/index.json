@@ -1,0 +1,129 @@
+{
+  "programs": [
+    {
+      "slug": "bachelor-arts-advertising-honours",
+      "name": "Bachelor of Arts in Advertising (Honours)",
+      "field": "Communication & Media"
+    },
+    {
+      "slug": "bachelor-arts-chinese-studies-honours",
+      "name": "Bachelor of Arts in Chinese Studies (Honours)",
+      "field": "Arts & Social Sciences"
+    },
+    {
+      "slug": "bachelor-arts-communication-honours",
+      "name": "Bachelor of Arts in Communication (Honours)",
+      "field": "Communication & Media"
+    },
+    {
+      "slug": "bachelor-arts-english-language-literature-honours",
+      "name": "Bachelor of Arts (Honours) in English Language and Literature",
+      "field": "Arts & Social Sciences"
+    },
+    {
+      "slug": "bachelor-arts-journalism-honours",
+      "name": "Bachelor of Arts in Journalism (Honours)",
+      "field": "Communication & Media"
+    },
+    {
+      "slug": "bachelor-chemical-engineering-honours",
+      "name": "Bachelor of Chemical Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-economics-finance-honours",
+      "name": "Bachelor of Economics in Finance (Honours)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-electrical-electronics-engineering-hons",
+      "name": "Bachelor of Electrical and Electronics Engineering (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-engineering-artificial-intelligence-honours",
+      "name": "Bachelor of Engineering in Artificial Intelligence (Honours)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-engineering-computer-science-technology-honours",
+      "name": "Bachelor of Engineering in Computer Science and Technology (Honours)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-engineering-cyber-security-honours",
+      "name": "Bachelor of Engineering in Cyber Security (Honours)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-engineering-data-science-honours",
+      "name": "Bachelor of Engineering in Data Science (Honours)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-engineering-digital-media-technology-honours",
+      "name": "Bachelor of Engineering in Digital Media Technology (Honours)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-engineering-new-energy-science-honours",
+      "name": "Bachelor of Engineering in New Energy Science and Engineering (Honours)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-engineering-software-engineering-honours",
+      "name": "Bachelor of Engineering in Software Engineering (Honours)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-management-accounting-honours",
+      "name": "Bachelor of Management in Accounting (Honours)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-management-e-commerce-honours",
+      "name": "Bachelor of Management in E-Commerce (Honours)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-management-hospitality-management-honours",
+      "name": "Bachelor of Management in Hospitality Management (Honours)",
+      "field": "Hospitality & Tourism"
+    },
+    {
+      "slug": "bachelor-management-international-business-honours",
+      "name": "Bachelor of Management in International Business (Honours)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-medicine-traditional-chinese-medicine-honours",
+      "name": "Bachelor of Medicine in Traditional Chinese Medicine (Honours)",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-robotics-automation-engineering-honours",
+      "name": "Bachelor of Robotics and Automation Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-science-marine-biotechnology-honours",
+      "name": "Bachelor of Science in Marine Biotechnology (Honours)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-science-marine-environmental-chemistry-honours",
+      "name": "Bachelor of Science in Marine Environmental Chemistry (Honours)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-science-mathematics-applied-mathematics-honours",
+      "name": "Bachelor of Science in Mathematics and Applied Mathematics (Honours)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-science-physics-honours",
+      "name": "Bachelor of Science in Physics (Honours)",
+      "field": "Science"
+    }
+  ]
+}

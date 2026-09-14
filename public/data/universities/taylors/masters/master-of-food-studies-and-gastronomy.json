@@ -20,7 +20,21 @@
     "international_total": 72924,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: A Bachelor’s degree (Level 6, MQF) in the field or related fields with a minimum CGPA of 2.50, or its equivalent, as accepted by the HEP Senate A Bachelor’s degree (Level 6, MQF) in the field or related fields or its equivalent but not meeting a CGPA of 2.50 can be accepted subject to a minimum of five (5) years of working experience in a related field Students without a qualification in the related fields or relevant working experience require to undergo and pass a bridging module Students without a related degree but with relevant working experience require to fulfil the following conditions: CGPA above 2.50 must have at least one (1) year of relevant working experience; or CGPA 2.00 to 2.50 must have at least five (5) years of relevant working experience; In addition, students will need to undergo a rigorous internal assessment. ENGLISH REQUIREMENT FOR INTERNATIONAL STUDENTS IELTS: 6.0 TOEFL: 60 (Internet-Based Test) (May join IEN preparatory course and achieve the IELTS score) (The validity of the IELTS or equivalent is within 2 years from the date of the examination.)  "
+  },
   "accreditation": null,
   "sources": [
     {
@@ -32,6 +46,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/master-of-food-studies-and-gastronomy-294607/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

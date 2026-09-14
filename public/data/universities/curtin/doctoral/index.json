@@ -1,0 +1,24 @@
+{
+  "programs": [
+    {
+      "slug": "doctor-of-philosophy-business",
+      "name": "Doctor of Philosophy (Business)",
+      "field": "Business & Commerce"
+    },
+    {
+      "slug": "doctor-of-philosophy-engineering",
+      "name": "Doctor of Philosophy (Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "doctor-of-philosophy-humanities",
+      "name": "Doctor of Philosophy (Humanities)",
+      "field": "Humanities & Communications"
+    },
+    {
+      "slug": "doctor-of-philosophy-marketing",
+      "name": "Doctor of Philosophy (Marketing)",
+      "field": "Business & Commerce"
+    }
+  ]
+}

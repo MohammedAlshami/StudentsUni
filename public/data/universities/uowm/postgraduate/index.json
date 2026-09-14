@@ -1,0 +1,34 @@
+{
+  "programs": [
+    {
+      "slug": "master-arts-communication-management",
+      "name": "Master of Arts (Communication Management)",
+      "field": "Communication & Media"
+    },
+    {
+      "slug": "master-business-administration",
+      "name": "Master of Business Administration (MBA)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "master-computer-science",
+      "name": "Master in Computer Science",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "master-design-innovation",
+      "name": "Master of Design (Innovation)",
+      "field": "Design & Creative Media"
+    },
+    {
+      "slug": "master-science-engineering",
+      "name": "Master of Science (Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-science-tourism-management",
+      "name": "Master of Science in Tourism Management",
+      "field": "Hospitality & Tourism"
+    }
+  ]
+}

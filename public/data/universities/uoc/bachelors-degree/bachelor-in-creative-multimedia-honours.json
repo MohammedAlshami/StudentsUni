@@ -21,7 +21,21 @@
     "per_year_local": 8200,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: A-Level: A pass in A-Level with a minimum of Grade D in any 2 subjects. STPM: A pass in STPM with at least a Grade C (GP 2.00) in any 2 subjects. STAM: A pass in STAM with at least grade Jayyid. Matriculation or Foundation: Matriculation or Foundation with at least a CGPA of 2.00. Diploma (Diploma Level): A Diploma (Level 4, MQF) with at least a CGPA of 2.00. Advanced Diploma (Diploma Level): An Advanced Diploma (Level 5, MQF) with at least a CGPA of 2.00. DKM/DVM (Diploma Level): A Diploma Kemahiran Malaysia (DKM)/Diploma Vokasional Malaysia (DVM) is subjected to the University&#39;s approval. DLKM (Diploma Level): A Diploma Lanjutan Kemahiran Malaysia (DLKM) is subjected to the University&#39;s approval. Other equivalent qualifications (Other): Other relevant equivalent qualifications recognised by the Malaysian Government, acceptable to the University. English Proficiency (For International Students): Achieve a minimum score of Band 3 in MUET or equivalent to CEFR Low B2. Additional Requirement: Pass an interview (online/virtual/conventional) OR submit a student’s portfolio, to be determined by the University as required."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058798/",
@@ -39,6 +53,11 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-in-creative-multimedia-hons-294546/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

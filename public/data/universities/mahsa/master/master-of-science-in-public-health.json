@@ -16,7 +16,21 @@
     "international_total": 24200,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Bachelor’s Degree in related field with minimum CGPA of 2.50 or equivalent accepted by the University’s Senate; or CGPA less than 2.50 can be accepted with minimum 5 years working experience in the relevant field. ENGLISH REQUIREMENT:  English Proficiency (International Candidates): IELTS (6.0)/ TOEFL (550) if 1st degree is from a University where English is not the medium of instruction or Pass an English Proficiency test approved by the University."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -28,6 +42,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/mahsa-university-213/msc-in-public-health-271090/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

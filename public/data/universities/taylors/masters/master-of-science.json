@@ -23,7 +23,21 @@
     "per_year_international": 12520,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: Bachelor&#39;s Degree in Science (Tier 1): With CGPA equal or more than 2.75 with research project component in related field or 2 years working experience in Science related industry Bachelor&#39;s Degree in Science (Tier 2): With CGPA less than 2.75 but more than 2.50, candidates will be subject to rigorous internal assessment Bachelor&#39;s Degree in Science (Tier 3): With a CGPA less than 2.50 but more than 2.00, recognised by the Malaysian or National Government, AND a minimum of 5 years related working experience Other Qualifications: Any other equivalent qualification recognised by the Malaysian Government or accepted by the Taylor&#39;s University Senate, AND any of the above conditions would require student&#39;s research proposal to be approved English Requirement (International Students) IELTS 6.0 / TOEFL 60 (Internet Based Test) (May join IEN preparatory course and achieve the IELTS score)  "
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/master-research/master-of-science.html",
@@ -37,6 +51,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/master-of-science-293057/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

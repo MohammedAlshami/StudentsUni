@@ -27,7 +27,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Pass Foundation/Matriculation studies in related field from a recognised institution; OR Pass STPM or its equivalent with a minimum of Grade C (GP 2.00) in Mathematics and Physics; OR Pass A-Level with a minimum of Grade D in Mathematics and Physics; OR Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of Mathematics and Physics; OR Recognised Diploma in Engineering / Engineering Technology or its equivalent with minimum CGPA 2.00; OR Pass DKM /DLKM/DVM with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 MUST have at least two (2) years of work experience in the related field.*. Note *DKM /DLKM/DVM candidates may be required to undergo Bridging Programme as an additional requirement."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -48,6 +49,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-melaka-224/bachelor-of-engineering-hons-mechanical-293950/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "medium",

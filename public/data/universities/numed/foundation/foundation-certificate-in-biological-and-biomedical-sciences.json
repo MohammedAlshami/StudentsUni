@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "In order to enrol for the Foundation programme, students must have 5Bs in each of the following subjects at O-Level, SPM, IGCSE, Local High School Curriculum Grade 12 or equivalent: Biology and Chemistry and Physics and Mathematics or Additional Mathematics and another subject"
   },
   "accreditation": {
     "mqa_status": null,
@@ -57,6 +58,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/newcastle-university-medicine-malaysia-numed-malaysia-10227/foundation-in-biological-and-biomedical-sciences-279729/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

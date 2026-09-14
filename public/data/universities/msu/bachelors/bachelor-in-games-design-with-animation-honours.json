@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "STPM: Pass Sijil Pelajaran Malaysia (SPM/SPMV) or its equivalent with credit in Bahasa Malaysia or Bahasa Melayu Silibus X/Bahasa Malaysia II Pass STPM or its equivalent, with minimum Grade C in 3 subjects including Pengajian Am/Kertas Am (General Studies/General Paper); A pass in STPM or its equivalent, with minimum Grade C in 2 subjects including Pengajian Am (General Studies) and Grade D for 2 other subjects; Ministry of Education (KPM) Matriculation Certificate or MSU Foundation Certificate; Diploma in relevant field from PTPL/MSU, or Certificate/Diploma in relevant field from Polytechnic, Diploma in relevant field from IPTA or Diploma in relevant field from IPTS with accreditation or Diploma in relevant field from other institution recognised by MSU Senate; A-Level (GCE), The Australian Matriculation (SAM), Canadian Pre University (CPU) or its equivalent; Pass Unified Examination Certificate (UEC) with at least grade B in 5 subjects; Other equivalent qualification recognised by Malaysian Government"
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-in-games-design-and-animation-hons-279213/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

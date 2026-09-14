@@ -21,7 +21,21 @@
     "per_year_international": 62,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Prerequisites: Pass SPM//O-level or equivalent with 5 credits for entry with pre-university/ foundation qualification (Except for UEC).  Pass SPM/O-level or equivalent with 3 credits for entry with Diploma qualification. Pass Visual Test (Taylor’s FID, DID and FNBE are exempted from the Entrance Test) Entry Pathway: Any one of these: Taylor’s Foundation in Design (FID): Pass with min. CGPA 2.00 Taylor’s Foundation in Natural and Built Environments (FNBE): Pass with min. CGPA 2.00 Other Taylor&#39;s Foundation: Pass with min. CGPA 2.00 Taylor&#39;s Diploma: Pass with min. CGPA 2.00 Sijil Tinggi Persekolahan Malaysia (STPM): CC Unified Examination Certificate (UEC): Pass with min. 5Bs A Level: Min. CDD AUSMAT (SACEi): Min. ATAR 55 Canadian Pre-University (CPU): Min. average of 55% in 6 subjects International Baccalaureate Diploma Programme (IBDP): Min. 24 points in 6 subjects MUFY: Overall 50% Other Qualifications: Foundation from an institution recognised by the Malaysian Government with min. CGPA 2.00 Diploma from an institution recognised by the Malaysian Government with min. CGPA 2.00  MoE Matriculation with min. CGPA 2.00 Any other qualification recognised by the Malaysian govt. Application via APEL A is allowed.  English Requirements: IELTS/MUET/TOEFL/UEC English: Pass Pre-U / Diploma: Completed Pre-U / Diploma that was conducted in English Cambridge English/ELS also recognised; the minimum score varies by programme Taylor&#39;s IEN: Level 2 – Grade C Taylor&#39;s EET: Overall Score 4.0  "
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/design/undergraduate/bachelor-of-design-in-creative-media.html",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/bachelor-of-design-hons-in-creative-media-293074/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -1,0 +1,43 @@
+{
+  "program_name": "Bachelor of Quantity Surveying (Hons)",
+  "field": "",
+  "duration": "3 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 60885,
+    "international_total": 65190,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: STPM / GCE &#39;A&#39; Level : Minimum 3 principal passes UEC: Grade B in 5 subjects, including Mathematics SAM / AUSMAT / HSC: An average score of 60% Diploma in Quantity Surveying, Architecture, Landscape Architecture, or equivalent: Minimum CGPA of 2.67 Diploma from a recognised institution: Minimum CGPA of 2.00 Matriculation / Foundation from a recognised instituiton: Minimum CGPA of 2.50 Other equivalent qualifications: Recognised by the Malaysian Government ENGLISH LANGUAGE REQUIREMENT: IELTS - 5.0 TOEFL (PBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/bachelor-of-quantity-surveying-hons-271033/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

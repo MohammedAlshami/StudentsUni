@@ -28,7 +28,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "A Bachelor’s degree (Level 6, MQF) in Computing or related fields with a minimum CGPA of 2.50 or equivalent, as accepted by the Senate; OR A Bachelor’s degree (Level 6, MQF) in Computing or related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 or equivalent, can be accepted subject to a minimum of FIVE (5) years of working experience in the related fields and rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-computing fields with a minimum CGPA of 2.00 or equivalent, must undergo appropriate prerequisite courses as determined by the HEP with minimum of 5 years working experience in the relevant field and rigorous internal assessment; OR Other qualifications equivalent to a Bachelor’s degree (Level 6, MQF) in the field of Computing or related fields recognised by the Government of Malaysia must undergo appropriate prerequisite courses as determined by the HEP English Entry Requirement: a minimum IELTS overall band score of 6.0 ; or a minimum overall TOEFL iBT score of 60 ; or a minimum MUET overall band score of 4 ; or a minimum Pearson Test of English score of 59 ; or a minimum Cambridge Qualifications and Test score of 169; or a minimum Linguaskill overall band score of 169"
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -64,6 +65,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/master-of-computer-science-online-243665/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

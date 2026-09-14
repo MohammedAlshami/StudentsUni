@@ -10,14 +10,22 @@
   "intakes": null,
   "fees": {
     "local": "Refer to the Univ.",
-    "international": "Refer to the Univ."
+    "international": "Refer to the Univ.",
+    "local_total": 66200,
+    "international_total": 68200
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: Pass in STPM or equivalent, minimum Grade C (2.00) in 2 subjects Pass in A-Level in 2 subjects Pass in Unified Examinations Certificate (UEC) at least B in 5 subjects Pass in Foundation Studies in related field by Higher Institutions Provider recognised by Malaysia Government (at least CGPA 2.00) Pass in Diploma in related field by Higher Institutions Provider recognised by Malaysia Government (at least CGPA 2.00) Other Equivalent qualification recognised by Malaysia Government AND Pass in Art/ Technical Drawing subject in SPM or equivalent Pass in portfolio assessment interview for those who failed or did not take Art subject” English Proficiency Requirements (International Student): TOEFL with minimum of score 500 IELTS with minimum of score 5.0."
   },
   "accreditation": null,
   "sources": [
-    "https://studymalaysia.com/what/course/SEGI/0009977/"
+    "https://studymalaysia.com/what/course/SEGI/0009977/",
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/ba-hons-in-interior-architecture-294368/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "medium",
   "last_updated": "2026-09-14"

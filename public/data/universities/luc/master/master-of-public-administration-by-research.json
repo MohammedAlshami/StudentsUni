@@ -17,7 +17,21 @@
     "international_total": 8116,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: A Bachelor’s degree (Level 6, Malaysian Qualifications Framework, MQF) in related fields with a minimum CGPA of 2.75 as accepted by the Lincoln University College Senate A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.50 and not meeting CGPA of 2.75 can be accepted, subject to rigorous internal assessment* A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a minimum of 5 years relevant working experience** and rigorous internal assessment* A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.50 as accepted by the Lincoln University College Senate, subject to having relevant working experience** and rigorous internal assessment* A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 and not meeting 2.50 as accepted by the Lincoln University College Senate, subject to a minimum of 5 years relevant working experience** and rigorous internal assessment* A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the Lincoln University College Senate and without relevant working experience**, subject to passing pre-requisite courses*** Other qualifications equivalent to a Bachelor’s degree (Level 6, MQF) recognized by the Malaysian Government. *Rigorous assessment to evaluate the suitability of an applicant for a program through the statement of purpose, interview, and other methods may cover the following criteria: Demonstration of strong business experience, and that you have held significant managerial responsibilities. Evidence of any achievements in your professional life, for example, consistently performing at a high level, consistent career progression, and any impact that you have had on your organization. Professional skills that you have developed, for example, teamwork, leadership, problem-solving, negotiating, and analytical skills. How you will contribute to your class and what experiences you can bring to the institution. (Lancaster University, 2021). **Experience can be cumulative experience even before acquiring required qualification for a particular level of study. However, the experience must be relevant to the level of study as well as the content. ***The pre-requisite courses must equip the students with the necessary business knowledge (managing people, managing financial resources, understanding customers, understanding environments, and strategic planning) of one level lower than the program level. English Profiency Requirements (International Students): International English Language Testing System (IELTS) score of 6.0 or its equivalent. If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the program."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/master-of-public-administration-293889/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

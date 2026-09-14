@@ -21,7 +21,21 @@
     "currency": "MYR",
     "international_total": 6760
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Requirements Applicants must meet one of the following entry requirements: SPM/SPMV/MCE: Minimum of three (3) credits Other equivalent qualifications: As approved by the Malaysian Qualifications Agency (MQA) Candidates without SPM/MCE: Must follow an alternative pathway approved by MQA, which includes: Qualifying test on Bahasa Melayu, English, and Mathematics (APEL Route by MQA) English Requirement (International Students) IELTS: Band 4 MUET: Band 2"
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058734/",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/diploma-in-education-293966/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

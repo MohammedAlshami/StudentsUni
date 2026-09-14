@@ -1,0 +1,19 @@
+{
+  "programs": [
+    {
+      "slug": "foundation-arts-social-science",
+      "name": "Foundation in Arts and Social Science",
+      "field": "Arts & Social Sciences"
+    },
+    {
+      "slug": "foundation-information-technology",
+      "name": "Foundation in Information Technology",
+      "field": "Information Technology"
+    },
+    {
+      "slug": "foundation-science",
+      "name": "Foundation in Science",
+      "field": "Science"
+    }
+  ]
+}

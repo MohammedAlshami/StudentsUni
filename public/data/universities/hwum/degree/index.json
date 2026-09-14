@@ -1,1 +1,74 @@
-[]
+{
+  "programs": [
+    {
+      "slug": "ma-hons-business-and-finance",
+      "name": "MA (Hons) Business and Finance",
+      "field": ""
+    },
+    {
+      "slug": "ma-hons-accounting-and-business-finance",
+      "name": "MA (Hons) Accounting and Business Finance",
+      "field": ""
+    },
+    {
+      "slug": "bsc-hons-statistical-data-science",
+      "name": "BSc (Hons) Statistical Data Science",
+      "field": ""
+    },
+    {
+      "slug": "bsc-hons-actuarial-science",
+      "name": "BSc (Hons) Actuarial Science",
+      "field": ""
+    },
+    {
+      "slug": "bachelor-of-business-administration",
+      "name": "Bachelor of Business Administration",
+      "field": ""
+    },
+    {
+      "slug": "ma-marketing",
+      "name": "MA Marketing",
+      "field": ""
+    },
+    {
+      "slug": "ma-hons-international-business-management",
+      "name": "MA (Hons) International Business Management",
+      "field": ""
+    },
+    {
+      "slug": "bsc-hons-psychology-with-management",
+      "name": "BSc (Hons) Psychology with Management",
+      "field": ""
+    },
+    {
+      "slug": "bsc-hons-information-systems-with-data-analytics",
+      "name": "BSc (Hons) Information Systems with Data Analytics",
+      "field": ""
+    },
+    {
+      "slug": "bsc-hons-computing-science",
+      "name": "BSc (Hons) Computing Science",
+      "field": ""
+    },
+    {
+      "slug": "meng-chemical-engineering",
+      "name": "MEng Chemical Engineering",
+      "field": ""
+    },
+    {
+      "slug": "meng-mechanical-engineering",
+      "name": "MEng Mechanical Engineering",
+      "field": ""
+    },
+    {
+      "slug": "meng-hons-civil-engineering",
+      "name": "MEng (Hons) Civil Engineering",
+      "field": ""
+    },
+    {
+      "slug": "meng-electrical-and-electronic-engineering",
+      "name": "MEng Electrical and Electronic Engineering",
+      "field": ""
+    }
+  ]
+}

@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "SPM / O-Level or equivalent:  A pass with at least Grade C in 5 subjects UEC: A pass with at least Grade B in 3 subjects; or its equivalence English Requirements (International Students Only): IELTS: Band 4.0 TOEFL: 5 (Ess OL) / 30-31 (iBT) Pearson: 36 Linguaskill OL: 140 ELS: 106 MUET: 3.0 Note: To progress to degree programs in specialized fields, students may need a credit in specific subjects at the SPM (or equivalent) level.  "
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/nilai-university-226/foundation-in-business-27315/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

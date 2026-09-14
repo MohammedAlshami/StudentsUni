@@ -17,7 +17,21 @@
     "international_total": 15820,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Passed Malaysian Higher School Certificate (Sijil Tinggi Pelajaran Malaysia – STPM) with a minimum C Grade (NGMP 2.00) in any two (2) subjects, and passed in Mathematics and English at Malaysian Certificate of Education (SPM) level; OR Passed Malaysian Higher Religious Ceritificate (STAM) with a minimum Jayyid grade, and passed in Mathematics and English at Malaysian Certificate of Education (SPM) level; OR Passed Foundation/Matriculation/Diploma or equivalent with minimum CGPA 2.00; OR Passed Malaysian Skills Diploma (DKM)/Malaysian Skills Advanced Diploma (DLKM) / Malaysian Vocational Diploma (DVM) in a related field with a minimum CGPA of 2.50 and got full accreditation. Passed United Examination Certificate (UEC) with minimum B Grade in any five (5) subjects, including Mathematics and English."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-selangor-unisel-12328/bachelor-of-business-management-hons-294158/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

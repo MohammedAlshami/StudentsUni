@@ -13,7 +13,8 @@
     "international": "Refer to University",
     "local_total": 21267,
     "per_year_local": 7089,
-    "notes": "Estimated total fees (local) for full course duration"
+    "notes": "Estimated total fees (local) for full course duration",
+    "international_total": 65000
   },
   "requirements": null,
   "accreditation": null,
@@ -23,6 +24,11 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-in-occupational-safety-and-health-hons-278790/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "medium",

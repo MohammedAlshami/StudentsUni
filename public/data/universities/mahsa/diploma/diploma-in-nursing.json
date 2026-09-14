@@ -1,0 +1,43 @@
+{
+  "program_name": "Diploma in Accounting",
+  "field": "",
+  "duration": "30 months",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 28500,
+    "international_total": 29200,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: SPM: Pass with minimum credits in 3 subjects, inclusive of Mathematics and a pass in English. Candidates with a credit in accounting-related subject(s) at the SPM level (or equivalent) may be given preferential consideration. UEC: Pass with minimum grade B in 3 subjects, inclusive of Mathematics and a pass in English. O-Level: Pass with minimum grade C in 3 subjects, inclusive of Mathematics and a pass in English. Certificate: Pass a certificate (Level 3 MQF) in any related field. STPM: Pass with minimum grade C (CGPA 2.0) in any subject, and a credit in Mathematics and a pass in English at the SPM level. Others: Recognized Malaysian qualifications or their equivalent. English Proficiency Requirements (International Students): MUET: 3.0 TOEFL: 550 IELTS: 5.5 or equivalent."
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/mahsa-university-213/diploma-in-accounting-273779/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

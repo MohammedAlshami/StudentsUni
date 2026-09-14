@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirements Pass Foundation or Matriculation studies from a recognised institution with a minimum CGPA of 2.00; OR Pass STPM (Arts Stream) or its equivalent with a minimum of Grade C (CGPA 2.00) in any TWO (2) subjects or any equivalent qualification; OR Pass STAM with a minimum grade of Jayyid in any TWO (2) subjects; OR Any Diploma in Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75. Candidates with a CGPA below 2.75 but more than 2.50 can be admitted subject to a thorough rigorous assessment; OR Pass A-Level with a minimum of Grade D (CGPA 2.00) in any TWO (2) subjects; AND a credit in: Additional Mathematics at the SPM level or its equivalent; OR Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent. Candidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in the first semester or before enrolment with unconditional offer; OR Pass STPM (Science Stream) or its equivalent with a minimum Grade of C (GP 2.00) in Mathematics subject and ONE (1) Science / ICT subject; OR Pass A-Level with a minimum of Grade D in Mathematics and ONE (1) Science / ICT subject; OR Pass UEC with a minimum of Grade B in at least FIVE (5) subjects (inclusive of Mathematics, English and one Science / ICT subject); OR Diploma in Computing (Level 4, MQF) or its equivalent with a minimum CGPA of 2.50. Candidates with a CGPA below 2.50 but more than 2.00 may be admitted subject to a thorough rigorous assessment; OR Pass DKM /DLKM/DVM in Computing fields with a minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval*; OR Other relevant &amp; equivalent qualifications recognised by the Malaysian Government. (Candidates can be admitted if their admission qualification contains Mathematics subject(s) equivalent to Additional Mathematics at the SPM level. If it is not equivalent, reinforcement Mathematics subject that equivalent to the SPM level must be offered in first semester or before enrolment with unconditional offer); OR Possess an APEL.A certificate from MQA for admission into Bachelor programmes.  Note: DKM/DLKM/DVM candidates may be required to undergo Bridging Programme as an additional requirement. Students are required to pass the reinforcement Mathematics before being allowed to take related core courses. The candidate can sit for any subjects that did not indicate Mathematics as a pre-requisite. Reinforcement Mathematics can contribute to the overall graduating credit. Students from Matriculation/Foundation or its equivalent can be exempted from taking reinforcement Mathematics, provided that the Mathematics offered at that programme level is equivalent / more than the Additional Mathematics offered at an SPM level.  "
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/bachelor-of-computer-science-hons-in-data-science-27223/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

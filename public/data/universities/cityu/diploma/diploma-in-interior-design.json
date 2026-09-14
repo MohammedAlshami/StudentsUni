@@ -21,7 +21,21 @@
     "international_total": 14530,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: SPM: Minimum 3 credits credits in any subject, or its equivalent STPM: Minimum C (GPA of 2.00) in any subject, or its equivalent OR STAM: Minimum Maqbul grade credits in any subject, or its equivalent OR SKM/SVM: Level 3 credits in a suitable field OR CERTIFICATE: (Level 3,MQF) minimum CGPA of 2.00 or its equivalent OR English Requirements For International Students IELTS: Minimum 5.0  "
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/diploma-in-graphics-design-257547/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -4,7 +4,7 @@ import { Suspense } from "react";
 import { ArrowUpRight } from "lucide-react";
 import ProgramsClient from "@/components/programs-client";
 import { wrap, Pic, Label, Heading, Pill } from "@/components/marketing-ui";
-import { normalizeProgramsList } from "@/lib/university-detail";
+import { normalizeProgramsList, entrySlug, entryFallbackName, entryField } from "@/lib/university-detail";
 
 type ProgramRow = {
   university: string;
@@ -27,12 +27,18 @@ function loadPrograms(): ProgramRow[] {
   const universities = fs.readdirSync(uniDir);
   const allPrograms: ProgramRow[] = [];
 
+  const institutionsPath = path.join(process.cwd(), "public/data/institutions.json");
+  const institutionsList: Array<{ slug: string; name: string }> = JSON.parse(
+    fs.readFileSync(institutionsPath, "utf-8")
+  ).institutions;
+  const nameBySlug = new Map(institutionsList.map((i) => [i.slug, i.name]));
+
   for (const uniSlug of universities) {
     const uniPath = path.join(uniDir, uniSlug);
     const infoPath = path.join(uniPath, "info.json");
 
-    let uniName = uniSlug;
-    if (fs.existsSync(infoPath)) {
+    let uniName = nameBySlug.get(uniSlug) || uniSlug;
+    if (!nameBySlug.get(uniSlug) && fs.existsSync(infoPath)) {
       const info = JSON.parse(fs.readFileSync(infoPath, "utf-8"));
       uniName = info.name ?? info.university ?? uniSlug;
     }
@@ -49,25 +55,16 @@ function loadPrograms(): ProgramRow[] {
       const programs = normalizeProgramsList(raw);
 
       for (const prog of programs) {
-        if (typeof prog === "string") {
-          allPrograms.push({
-            university: uniName,
-            university_slug: uniSlug,
-            level,
-            name: prog.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()),
-            slug: prog,
-            field: "",
-          });
-        } else if (prog && typeof prog === "object") {
-          allPrograms.push({
-            university: uniName,
-            university_slug: uniSlug,
-            level,
-            name: (prog.name as string) ?? (prog.slug as string) ?? "Unknown",
-            slug: (prog.slug as string) ?? "",
-            field: (prog.field as string) ?? "",
-          });
-        }
+        const slug = entrySlug(prog);
+        if (!slug) continue;
+        allPrograms.push({
+          university: uniName,
+          university_slug: uniSlug,
+          level,
+          name: entryFallbackName(prog, slug),
+          slug,
+          field: entryField(prog),
+        });
       }
     }
   }
@@ -94,7 +91,7 @@ export default function ProgramsPage() {
           </h1>
           <p className="mt-[26px] max-w-[582px] text-[18px] leading-relaxed text-white/80">
             {allPrograms.length.toLocaleString()} programmes across {universityCount} Malaysian
-            universities — foundation to PhD.
+            universities, from foundation to PhD.
           </p>
         </div>
       </div>

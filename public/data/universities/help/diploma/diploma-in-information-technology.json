@@ -21,7 +21,21 @@
     "currency": "MYR",
     "international_total": 23825
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Possess SPM with at least THREE (3) credits in any subjects (inclusive of Mathematics or any equivalent qualification); OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum grade of C [Cumulative Grade Point Average (CGPA) 2.00] in any subject or equivalent qualification and a credit in Mathematics at SPM level or its equivalent; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul (Pass) and a credit in Mathematics at SPM level or its equivalent; OR Possess SKM Level 3 and a credit in Mathematics at SPM level or its equivalent; OR A Certificate (Level 3, MQF) in any qualification with at least a CGPA of 2.00; OR A pass in any qualification equivalent to certificate (Level 3, MQF); OR Other relevant &amp; equivalent qualifications recognised by the Malaysian Government. Notes: Candidates with a pass in Mathematics at SPM level or its equivalent may be admitted if the certificate programme contains subjects in Mathematics that are equivalent to Mathematics at SPM level. Candidates with a pass in Mathematics at SPM level and without a related certificate need to take a reinforcement Mathematics subject with appropriate topics in the discipline of Computing at the beginning of the study. Candidates with a credit in a Computing-related subject at SPM level or its equivalent may be given preferential consideration."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058735/",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/diploma-in-information-technology-26768/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

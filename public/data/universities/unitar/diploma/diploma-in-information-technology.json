@@ -23,7 +23,21 @@
     "per_year_local": 8275,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Possess Sijil Pelajaran Malaysia (SPM) with minimum five credits including Mathematics or Additional Mathematics AND ONE (1) of Science, Technology or Engineering subject; or Pass Unified Examination Certificate (UEC) with a minimum Grade B in three subjects including Mathematics or Additional Mathematics AND ONE (1) of Science, Technology or Engineering subject; or Pass O-Level with a minimum of Grade C including Mathematics or Additional Mathematics AND ONE (1) of Science, Technology or Engineering subject; or Any other equivalent qualifications recognised by the Malaysian Government."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0006014/",
@@ -41,6 +55,11 @@
       "url": "https://studymalaysia.com/edu/unitar/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/foundation-in-information-technology-online-294076/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

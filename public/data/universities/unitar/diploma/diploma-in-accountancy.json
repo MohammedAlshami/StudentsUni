@@ -13,9 +13,24 @@
     "international": "19280/Course",
     "local_total": 19280,
     "per_year_local": 7712,
-    "notes": "Estimated total fees (local) for full course duration"
+    "notes": "Estimated total fees (local) for full course duration",
+    "international_total": 28560
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "A pass in SPM or its equivalent with a minimum of 3 credits including Mathematics, and a pass in English; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent, with a minimum of Grade C (GP 2.0) in any subject, and credits in Mathematics and a pass in English at SPM level;OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul (pass) and credits in Mathematics and a pass in English at SPM level; OR A pass in SKM Level 3 (Level 3, MQF) in a related field and a pass in SPM with a minimum of 1 credit in any subject with credits in Mathematics and a pass in English subject to Senate approval and MUST attend bridging courses;​ OR A certificate (Level 3,MQF) or its equivalent in a related field Language Requirements International Students Minimum score of 5.5 for IELTS; OR its equivalent Local Students A pass in SPM English"
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0004701/",
@@ -23,6 +38,11 @@
       "url": "https://studymalaysia.com/edu/unitar/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/diploma-in-accounting-294059/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "medium",

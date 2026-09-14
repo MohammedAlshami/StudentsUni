@@ -17,7 +17,21 @@
     "international_total": 9471,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Pass in Sijil Tinggi Pelajaran Malaysia (STPM) with a minimum NGMP of 2.00 or Grade C in 2 subjects, or Pass in A-Level with at least in 2 subjects; or Pass in Sijil Tinggi Agama Malaysia (STAM) with Jayyid in 3 subjects; or Pass in the Unified Examination Certificate (UEC) with at least a B grade in 5 subjects; or Pass in Foundation / Foundation Program / Foundation / from any universities / colleges with a minimum CGPA of 2.00; or Pass in the Matriculation program of the Ministry of Education Malaysia with a minimum CGPA of 2.00; or Pass in a Diploma (Level 4, Malaysian Qualifications Framework (MQF)) from an institution recognized by the Malaysian government with a minimum CGPA of 2.00: or Pass in the Higher National Diploma (HND) (Level 4, MQF) with a minimum CGPA of 2.00; or Other qualifications as recognized by the Government of Malaysia. English Profiency Requirements (International Students): International English Language Testing System (IELTS) score of 5.5 or its equivalent. If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the programme."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/bachelor-of-business-administration-in-human-resource-management-293905/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -10,13 +10,20 @@
   "intakes": null,
   "fees": {
     "local": "RM27,500.00",
-    "international": "RM29,800.00"
+    "international": "RM29,800.00",
+    "local_total": 27500,
+    "international_total": 29800
   },
   "requirements": null,
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/msc-of-science-computing",
-    "https://www.studymalaysia.com/what/course/APU/0006100/"
+    "https://www.studymalaysia.com/what/course/APU/0006100/",
+    {
+      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/msc-in-computing-226683/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.9,
   "last_updated": "2026-09-14"

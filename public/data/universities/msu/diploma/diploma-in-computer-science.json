@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "THREE (3) Credits at SPM/SPMV level including in Mathematics OR a PTPL Certificate in Computer Science or Electrical &amp; Electronic Engineering OR an equivalent qualification recognized by MSU Senate. "
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/diploma-in-computer-science-289000/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "2.00 CGPA or TWO (2) C’s at STPM level OR an MSU Diploma in Creative Multimedia or equivalent with at least 2.50 CGPA (CGPAs 2.00-2.50 subject to approval) OR an equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-in-creative-video-and-photography-hons-279226/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

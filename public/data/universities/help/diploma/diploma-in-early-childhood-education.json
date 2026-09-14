@@ -21,7 +21,21 @@
     "currency": "MYR",
     "international_total": 11529
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Applicants must meet one of the following criteria: SPM / SPMV / MCE – Minimum 3 credits Other equivalent qualifications as approved by the Malaysian Qualification Agency (MQA) Alternative Pathways for Candidates Without SPM or MCE Option 1: SPM / MCE – 2 credits AND Teaching Experience – 3 years Option 2: SPM / MCE – 1 credit AND Teaching Experience – 5 years Option 3: Qualifying test on BM, English, and Mathematics through the APEL Route created by MQA Refer to MQA&#39;s current status for updates Special Considerations Mature senior candidates with an acceptable ECCE qualification who fulfill the minimum requirements may apply for advanced standing."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058733/",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/diploma-in-early-childhood-education-274260/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

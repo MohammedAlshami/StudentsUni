@@ -20,7 +20,8 @@
     "international_total": 28850
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: Matriculation/Foundation – with CGPA 2.0 STPM with 2 full passes with min. CGPA of 2.0 Unified Examination Certificate (UEC) with at least 5Bs Recognised Creative Multimedia Diploma or equivalent with a min. CGPA of 2.5 SPM – Pass in Mathematics or equivalent for programmes in Animation and Visual Effects, Games Development, Media Innovation, Sound Design, Video and Film and Virtual Reality. Note: The Faculty may consider students through an internal assessment process such as an interview, an assessment of a portfolio or other tests to ensure effective learning and teaching."
   },
   "accreditation": null,
   "sources": [
@@ -34,6 +35,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/ba-hons-multimedia-design-294367/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

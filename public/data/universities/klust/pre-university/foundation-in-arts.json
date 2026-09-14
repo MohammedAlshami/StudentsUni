@@ -18,7 +18,21 @@
     "international_total": 24710,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: SPM: Minimum 5Cs (including Mathematics/Accounting). O-Level: Minimum 5Cs (including Mathematics/Accounting). UEC: Minimum 4Bs (including Mathematics/Accounting). Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM."
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -30,6 +44,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/foundation-in-arts-27007/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

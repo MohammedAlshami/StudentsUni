@@ -1,0 +1,43 @@
+{
+  "program_name": "Master of Architecture",
+  "field": "",
+  "duration": "2 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 39000,
+    "international_total": 39000,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: Bachelor of Science in Architectural Studies from IUKL (equivalent to LAM Part 1) with a minimum CGPA of 2.70 and 6 months of industrial training in a related field. Bachelor’s Degree in a related field (equivalent to LAM Part 1) from a recognized institution with a CGPA of 2.70, 6 months of industrial training, and a portfolio review/interview by the admission panel. - Other equivalent qualifications recognized by the Government of Malaysia. English Language Requirements Local Applicants:  MUET Band 2 OR UEC English B4. International Applicants: minimum TOEFL 550 or IELTS 6.0 or Grade C in O-level English or have obtained a degree with English being the medium of instruction  "
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/master-of-architecture-293232/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

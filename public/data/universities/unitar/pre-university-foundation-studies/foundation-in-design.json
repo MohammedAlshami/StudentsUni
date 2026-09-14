@@ -13,9 +13,24 @@
     "international": "7800/Course",
     "local_total": 7800,
     "per_year_local": 7800,
-    "notes": "Estimated total fees (local) for full course duration"
+    "notes": "Estimated total fees (local) for full course duration",
+    "international_total": 14000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Pass SPM or its equivalent, with at least five (5) credits in any subjects; or Pass UEC with a minimum of Grade B in three (3) subjects; or Pass O-Level with a minimum of Grade C in five (5) subjects; or Any other equivalent qualifications recognised by the Malaysian Government."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0056630/",
@@ -23,6 +38,11 @@
       "url": "https://studymalaysia.com/edu/unitar/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/foundation-in-arts-294074/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "medium",

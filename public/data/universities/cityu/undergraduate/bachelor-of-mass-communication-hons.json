@@ -21,7 +21,21 @@
     "international_total": 19417,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these:  A pass in STPM or its equivalent, with a minimum of Grade C (GPA 2.00) in any two subjects and a credit in English at SPM or its equivalent A pass in STAM with a minimum grade of Jayyid and a credit in English at SPM or its equivalent A Diploma or its equivalent, with a minimum CGPA of 2.00 and a credit in English at SPM or its equivalent A Diploma in Media and Communication or its equivalent Matriculation/Foundation or its equivalent, with a minimum CGPA of 2.00 and credit in English at SPM or its equivalent. Pass DKM/DLKM/DVM (HEP is required to implement a screening and bridging program which correspond to the program field). English Requirements For International Students International English Language Testing System (IELTS) score of 5.0 OR its equivalent."
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/bachelor-of-mass-communication-hons-257591/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

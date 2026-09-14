@@ -10,13 +10,34 @@
   "intakes": null,
   "fees": {
     "local": "RM100,400.00",
-    "international": "RM108,500.00"
+    "international": "RM108,500.00",
+    "local_total": 100400,
+    "international_total": 108500
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "For Direct Entry into Year 1 STPM: Minimum 2 passes with Grade C (GP 2.0) A-Levels: Minimum 2 passes (Grades A–D) UEC: Minimum 5 Grade Bs Matriculation/Foundation: Pass with a minimum CGPA of 2.0 For Direct Entry into Year 2 Diploma: Successful completion of APU Diploma, or Completion of a Diploma from a recognised institution with academic credits equivalent to Year 1 of an Honours Degree (subject to APU Academic Board approval) English Language Requirements IELTS: Band 5.0 MUET: Band 3.5"
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/bachelor-science-hospitality-tourism-specialism-hospitality-innovation",
-    "https://www.studymalaysia.com/what/course/APU/0058644/"
+    "https://www.studymalaysia.com/what/course/APU/0058644/",
+    {
+      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/bsc-hons-in-hospitality-and-tourism-aviation-management-294919/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.9,
   "last_updated": "2026-09-14"

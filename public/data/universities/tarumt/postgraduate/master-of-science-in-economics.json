@@ -11,9 +11,25 @@
   "fees": {
     "local": "RM10,800.00 (FT) / RM11,900.00 (PT)",
     "international": "RM24,600.00",
-    "currency": "MYR"
+    "currency": "MYR",
+    "local_total": 10800,
+    "international_total": 24600
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Academic Requirement Bachelor’s Degree in Economics or related field with minimum CGPA 2.75; OR Bachelor’s Degree in Economics or related field with CGPA 2.50 (subject to internal assessment); OR Bachelor’s Degree in Economics or related field with CGPA 2.00 plus at least 5 years of relevant working experience (subject to internal assessment); OR Non-related degree holders must complete prerequisite courses and meet CGPA requirements. English Language Requirements Malaysian students: MUET Band 3.5 / IELTS 5.0 / CEFR High B1 / TOEFL iBT 40 or equivalent; OR exemption if prior studies were conducted in English. International students: IELTS 5.0 / CEFR High B1 / TOEFL iBT 40 or equivalent; OR exemption if prior studies were conducted in English."
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -26,6 +42,11 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/master-of-science-in-economics-research-294980/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": 0.85,

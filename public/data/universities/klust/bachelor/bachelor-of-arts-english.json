@@ -1,0 +1,43 @@
+{
+  "program_name": "Bachelor of Arts (Hons) in English for Professional Communication",
+  "field": "",
+  "duration": "3 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 52800,
+    "international_total": 54000,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: STPM: Minimum 2 Principal Passes and a credit in SPM English. A-Level: Minimum 2 Principle Passes and a credit in O-Level English. UEC: Minimum 5Bs (including English). Diploma / HND: Minimum CGPA of 2.00. Foundation / Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI average 60% or higher in 5 subjects. CPU / CIMP: Average of 60% or higher in 6 subjects. IB:  26 points or higher based on 6 subjects. Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. Note: The credit requirement of English at SPM level can be waived should the grade obtained at STPM/STAM level or its equivalent is higher. ENGLISH LANGUAGE REQUIREMENT: IELTS - 6 TOEFL (PBT) - 537 TOEFL (IBT) - 46 PTE - 59 MUET - BAND 4 Cambridge English - 169"
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/b-a-hons-in-english-for-professional-communication-26976/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

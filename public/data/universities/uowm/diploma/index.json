@@ -1,0 +1,24 @@
+{
+  "programs": [
+    {
+      "slug": "diploma-business-administration",
+      "name": "Diploma in Business Administration",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "diploma-information-technology",
+      "name": "Diploma in Information Technology",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "diploma-interior-design",
+      "name": "Diploma in Interior Design",
+      "field": "Design & Creative Media"
+    },
+    {
+      "slug": "diploma-mass-communication",
+      "name": "Diploma in Mass Communication",
+      "field": "Communication & Media"
+    }
+  ]
+}

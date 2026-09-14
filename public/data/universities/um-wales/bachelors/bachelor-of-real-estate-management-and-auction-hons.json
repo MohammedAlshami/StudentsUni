@@ -18,7 +18,21 @@
     "currency": "MYR",
     "international_total": 22937
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Malaysian Students - Any of These: STPM or equivalent: Grade C (GPA 2.00) in any three (3) subjects. Matriculation/Foundation or equivalent: CGPA 2.00 out of 4.00. Diploma or equivalent: CGPA 2.00 out of 4.00. UEC: Grade B in five (5) subjects. A-LEVEL: Pass with Grade D in three (3) subjects. Australian Matriculation: ATAR 55. International Baccalaureate Diploma Programme (IB): 24 points across six subjects. STAM: Minimum overall Grade of Jayyid. Diploma Kemahiran Malaysia (DKM) / Diploma Lanjutan Kemahiran Malaysia (DLKM)/ Diploma Vokasional Malaysia (DVM): Minimum CGPA 2.50 out of 4.00, subject to passing the bridging programme. Other equivalent qualifications recognised by the University Senate or the Government of Malaysia. International Students - Entry Requirements: Pass A-LEVEL with Grade D in three (3) subjects or equivalent as recognised by the University Senate or the Government of Malaysia; AND Proof of English proficiency certification will be required e.g. IELTS, MUET, TOEFL. See the website for the minimum qualifying score. English Language Competency Requirements for International Students: English language requirements can be waived if the international student EITHER comes from a country that uses English as the official language OR the entry qualification. MUET 3.5 IELTS 5.0 TOEFL 40 Pearson Test of English 47 Cambridge English Qualifications and Tests - B1 Preliminary, B2 First, C1 Advanced, C2 Proficiency &amp; Linguaskill Online - 154 ELS 107"
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/iumw/courses/",
@@ -31,6 +45,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-malaya-wales-11602/bachelor-of-real-estate-management-and-auction-hons-290094/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

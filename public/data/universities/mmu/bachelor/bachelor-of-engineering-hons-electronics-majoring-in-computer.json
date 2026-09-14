@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirements Applicants must meet one of the following criteria: Foundation/Matriculation: Pass in a related field from a recognised institution. STPM or equivalent: Minimum Grade C (GP 2.00) in Mathematics and Physics. A-Level: Minimum Grade D in Mathematics and Physics. UEC: Minimum Grade B in at least five (5) subjects, including Mathematics and Physics. Diploma: Recognised Diploma in Engineering/Engineering Technology or equivalent with a minimum CGPA of 2.00. DKM/DLKM/DVM: Minimum CGPA of 2.50. Candidates with CGPA below 2.50 must have at least two (2) years of relevant work experience.* APEL.A Certificate: Possession of an APEL.A certificate from MQA for admission into Bachelor programmes.  Note: DKM/DLKM/DVM candidates may be required to undergo a Bridging Programme as an additional requirement."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/bachelor-of-engineering-hons-electronics-computer-293211/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

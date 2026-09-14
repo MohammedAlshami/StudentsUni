@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Pass STPM/A-Level, obtaining full pass in 2 subjects; Pass Matriculation/Foundation programme; Diploma in relevant field; Diploma from Public Higher Learning Institution (IPTA) or Private Higher Learning Institution (IPTS) recognised by Ministry of Higher Education (KPT) and accreditated by MQA; Pass at least 3 subjects in A-Level; Pass The South Australian Matriculation (SAM) with minimum score of 65% - 70%; Pass Canadian Pre University Programme (CPU) with minimum score of 80%; Pass Unified Examination Certificate (UEC) with at least grade B in 5 subjects; Other equivalent qualification recognised by the Malaysian Government. "
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-in-culinary-arts-honours-27106/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -1,0 +1,124 @@
+{
+  "programs": [
+    {
+      "slug": "bachelor-of-business-management-hons",
+      "name": "Bachelor of Business Management (Honours)",
+      "field": "Business Management"
+    },
+    {
+      "slug": "bachelor-of-chemical-engineering-technology-hons",
+      "name": "Bachelor of Chemical Engineering Technology (Honours)",
+      "field": "Chemical Engineering"
+    },
+    {
+      "slug": "bachelor-of-computer-science-hons",
+      "name": "Bachelor of Computer Science (Honours)",
+      "field": "Computer Science"
+    },
+    {
+      "slug": "bachelor-of-computer-science-network-security-hons",
+      "name": "Bachelor of Computer Science (Computer Network and Security) with Honours",
+      "field": "Computer Science"
+    },
+    {
+      "slug": "bachelor-of-digital-graphic-design-hons",
+      "name": "Bachelor of Digital Graphic Design (Honours)",
+      "field": "Graphic Design"
+    },
+    {
+      "slug": "bachelor-of-electrical-engineering-technology-hons",
+      "name": "Bachelor of Electrical Engineering Technology (Honours)",
+      "field": "Electrical Engineering"
+    },
+    {
+      "slug": "bachelor-of-industrial-management-technology-hons",
+      "name": "Bachelor of Industrial Management Technology with Honours",
+      "field": "Industrial Management"
+    },
+    {
+      "slug": "bachelor-of-information-technology-business-management-hons",
+      "name": "Bachelor of Information Technology with Business Management (Honours)",
+      "field": "Information Technology"
+    },
+    {
+      "slug": "bachelor-of-manufacturing-engineering-technology-tooling-hons",
+      "name": "Bachelor of Manufacturing Engineering Technology (Tooling) with Honours",
+      "field": "Manufacturing Engineering"
+    },
+    {
+      "slug": "bachelor-of-mechatronics-engineering-technology-hons",
+      "name": "Bachelor of Mechatronics Engineering Technology (Honours)",
+      "field": "Mechatronics Engineering"
+    },
+    {
+      "slug": "bachelor-of-polymer-engineering-technology-hons",
+      "name": "Bachelor of Polymer Engineering Technology (Honours)",
+      "field": "Polymer Engineering"
+    },
+    {
+      "slug": "diploma-in-automotive-maintenance-technology",
+      "name": "Diploma in Automotive Maintenance Technology",
+      "field": "Automotive"
+    },
+    {
+      "slug": "diploma-in-chemical-engineering-technology",
+      "name": "Diploma in Chemical Engineering Technology",
+      "field": "Chemical Engineering"
+    },
+    {
+      "slug": "diploma-in-computer-science",
+      "name": "Diploma in Computer Science",
+      "field": "Computer Science"
+    },
+    {
+      "slug": "diploma-in-digital-graphic-design",
+      "name": "Diploma in Digital Graphic Design",
+      "field": "Graphic Design"
+    },
+    {
+      "slug": "diploma-in-early-childhood-education",
+      "name": "Diploma in Early Childhood Education",
+      "field": "Education"
+    },
+    {
+      "slug": "diploma-in-electrical-technology",
+      "name": "Diploma in Electrical Technology",
+      "field": "Electrical Engineering"
+    },
+    {
+      "slug": "diploma-in-engineering-technology-non-destructive-testing",
+      "name": "Diploma in Engineering Technology (Non-Destructive Testing)",
+      "field": "Engineering Technology"
+    },
+    {
+      "slug": "diploma-in-industrial-automation-technology",
+      "name": "Diploma in Industrial Automation Technology",
+      "field": "Industrial Automation"
+    },
+    {
+      "slug": "diploma-in-industrial-polymer-technology",
+      "name": "Diploma in Industrial Polymer Technology",
+      "field": "Polymer Technology"
+    },
+    {
+      "slug": "diploma-in-information-technology",
+      "name": "Diploma in Information Technology",
+      "field": "Information Technology"
+    },
+    {
+      "slug": "diploma-in-sports-recreation",
+      "name": "Diploma in Sports Recreation",
+      "field": "Sports Science"
+    },
+    {
+      "slug": "diploma-technology-management-accounting",
+      "name": "Diploma Technology Management in Accounting",
+      "field": "Accounting"
+    },
+    {
+      "slug": "diploma-technology-management-entrepreneurship",
+      "name": "Diploma Technology Management in Entrepreneurship",
+      "field": "Entrepreneurship"
+    }
+  ]
+}

@@ -1,1 +1,24 @@
-[]
+{
+  "programs": [
+    {
+      "slug": "phd-building",
+      "name": "PhD Building",
+      "field": ""
+    },
+    {
+      "slug": "phd-business-and-administration",
+      "name": "PhD Business and Administration",
+      "field": ""
+    },
+    {
+      "slug": "phd-engineering-and-engineering-trades",
+      "name": "PhD Engineering and Engineering Trades",
+      "field": ""
+    },
+    {
+      "slug": "phd-social-and-behavioural-science",
+      "name": "PhD Social and Behavioural Science",
+      "field": ""
+    }
+  ]
+}

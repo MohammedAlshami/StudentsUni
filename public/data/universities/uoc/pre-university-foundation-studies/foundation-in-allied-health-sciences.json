@@ -21,7 +21,21 @@
     "per_year_local": 12100,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: Sijil Pelajaran Malaysia (SPM): Pass with a minimum of 5 credits in the following subjects: Science Mathematics 3 other subjects; AND Passed English and Bahasa Malaysia. International General Certificate of Secondary Education (IGCSE) / Certificate: Minimum of Grade B in 3 subjects: Mathematics Science Any other subjects International General Certificate of Secondary Education (IGCSE) – O Levels: Pass with a minimum of Grade C in 5 subjects: Science Mathematics; AND 3 other subjects Any other equivalent qualification recognized by the Malaysian Government / University Senate Prerequisites: SPM: Students intending to progress to the Bachelor of Psychology (Hons) upon completion of this program must have obtained credits at SPM/SPMV/O-Level, or grade B in UEC, in Mathematics and a Science subject, and a Pass in English."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0055128/",
@@ -34,6 +48,11 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/foundation-in-allied-science-278776/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

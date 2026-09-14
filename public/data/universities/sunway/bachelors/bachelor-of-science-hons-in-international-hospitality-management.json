@@ -22,7 +22,21 @@
     "notes": "Fee: FromRM74,000.00",
     "international_total": 39100
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "STPM Average C or CGPA 2.0 (min 2 Principles) A-Level Minimum 6 points Note: For A-Level points calculation A = 10 points B = 8 points C = 6 points D = 4 points E = 2 points Australian Matriculation ATAR 55 Canadian Matriculation 55% Monash University Foundation Year 55% Sunway Foundation in Arts CGPA 2.0 Sunway Foundation in Science Technology CGPA 2.0 Unified Examination Certificate Maximum 28 points from 5 subjects (all Grade Bs) International Baccalaureate Completed with minimum 24 points (excluding bonus points) Sunway Diploma Studies CAVG 40% or CGPA 2.0  * Students may obtain advanced standing if credit transfer requirements are met. APEL.A An APEL.A Certificate (APEL T-6) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) Other Qualifications Any other equivalent qualifications Applicant with no standard qualification will be considered on a case-by-case basis English Language Requirements IELTS or equivalent 5.5 (With no individual band below 5.0) MUET Band 4 SPM English B+ UEC English B4 O-Level English (1119) Credit Sunway Intensive English Programme (IEP) Pass Level 4 ESL/English Satisfactory level in Pre-University programmes, where the medium of instruction is English"
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -37,6 +51,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/sunway-university-250/bsc-hons-international-hospitality-management-226388/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

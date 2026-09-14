@@ -22,7 +22,21 @@
     "notes": "Fee: FromRM46,900.00",
     "international_total": 29123
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "SPM / O-Level Pass with a minimum of 3 credits (including a pass in Art /Technical Drawing / Portfolio) UEC Pass with a minimum of 3 Grade Bs (including a pass in Art /Technical Drawing / Portfolio) APEL.A An APEL.A Certificate (APEL T-4) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) Portfolio Requirements Pass a Portfolio review by the University  Why is a Portfolio Necessary? A portfolio provides some indication of your design ability and allows us to assess your creative potential. What should a Portfolio contain? The portfolio requires a minimum of five (5) artworks which show variation and usage of different mediums and applications. Candidates should portray an array of artworks ranging from (but not limited to) paintings, drawings, sketches, collages and digital software applications. It is highly recommended to have at least 5 drawings (still life, landscape, perspective, figure drawing, portrait and such), and a further 5 artworks could be a combination of photographs, poster designs, videos, animations, logo designs, sculptures etc of choice. Other Qualifications Any other equivalent qualifications Applicants with no standard qualification will be considered on a case-to-case basis English Language Requirements IELTS or equivalent 5.0"
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -37,6 +51,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/sunway-university-250/diploma-in-graphic-and-multimedia-design-226378/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

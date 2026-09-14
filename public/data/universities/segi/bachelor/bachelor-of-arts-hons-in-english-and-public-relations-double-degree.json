@@ -20,7 +20,8 @@
     "international_total": 27902
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: A pass in STPM or its equivalent, with a minimum of Grade C (GPA 2.00) in any two subjects and a credit in English at SPM or its equivalent Unified Examination Certificate (UEC) with at least 5Bs A Diploma or its equivalent, with a minimum CGPA of 2.00 and a credit in English at SPM or its equivalent A Diploma in Media and Communication or its equivalent Matriculation/Foundation or its equivalent, with a minimum CGPA of 2.00 and credit in English at SPM or its equivalent. English Proficiency Requirements (International Students): Test of English as a Foreign Language (TOEFL) score of 500 International English Language Testing System (IELTS) score of 6.0 OR its equivalent "
   },
   "accreditation": null,
   "sources": [
@@ -34,6 +35,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/ba-hons-in-english-and-public-relations-243547/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -21,7 +21,21 @@
     "notes": "Fee: FromRM42,900.00",
     "international_total": 25600
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Requirements A Bachelor’s degree in Computing or related fields with a minimum CGPA of 3.00; OR A Bachelor’s degree in Computing or related fields (or its equivalent) with a minimum CGPA of 2.00 but less than of 3.00 can be accepted subject to internal assessment; OR A Bachelor’s degree in Non-Computing field with a minimum CGPA of 2.50 can be accepted subject to internal assessment and undergo appropriate prerequisite courses that are equivalent to candidate’s working experience in the Computing or related fields; OR A Bachelor’s degree in Non-Computing field with a minimum CGPA of 2.50 can be accepted subject to passing appropriate prerequisite courses; OR Other qualifications equivalent to a Bachelor’s degree in Computing or related fields recognised by the Government of Malaysia must fulfil the following requirement: i. with a minimum CGPA of 3.00; OR ii. with a minimum CGPA of 2.00 but less than of 3.00 can be accepted subject to internal assessment; OR An APEL-A Certification at APEL T-7   English Language Requirements IELTS 6.0 or equivalent Note: Candidates who have completed a Bachelor&#39;s degree or equivalent in English would have met the language requirement.   Application Procedure A) Applicants will be required to submit the following completed and signed documents: Sunway Postgraduate application form  One (1) passport-sized photograph Research statement: The statement should briefly describe the research question that the applicant has discussed with his/her future PhD supervisor Curriculum Vitae (CV) Scholarship application form (if any) B) The following true copies of documents must be certified: Passport (all pages including blank pages - for international students)/Identity card (for Malaysian students) English Language Qualification (IELTS/TOEFL/MUET/others) - for international students Academic qualifications/results (Certificates and complete transcripts) (Degree/master’s degree/others) International applicants must provide certified copies of their entire course transcripts including explanations of the mark schemes used and, where possible, an indication of their class ranking/position in class C) Two (2) reference letters Documents will be processed once the application is complete. Incomplete applications will not be evaluated. We will notify you of our final decision as soon as an appropriate supervisory team has been identified. Research Proposal The research proposal should comprise between 1,000 and 1,500 words (excluding references), and covers the following structure: An appropriate title for the research project (designated supervisor if known) Introduction and justification of the study, which includes:   Research background Problem statement Research objective(s) Research question(s)/hypothesis Literature review Research methodology Proposed research schedule List of references"
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -36,6 +50,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/sunway-university-250/msc-in-computer-science-252842/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

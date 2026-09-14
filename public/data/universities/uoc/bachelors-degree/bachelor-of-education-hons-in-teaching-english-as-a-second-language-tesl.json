@@ -21,7 +21,21 @@
     "per_year_local": 7089,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: STPM: Pass with a minimum of Grade C (GPA 2.00) in any 2 subjects. A-Level: Pass with a minimum of Grade D in any 2 subjects. STAM: Pass with a minimum grade of Jayyid. UEC: Pass with minimum Grade B in 5 subjects. Matriculation/Foundation or its equivalent: Minimum CGPA of 2.00. Diploma: Minimum CGPA of 2.00. Diploma Kemahiran Malaysia (Diploma Level): Pass Diploma Kemahiran Malaysia (DKM)/ Diploma Lanjutan Kemahiran Malaysia (DLKM)/ Diploma Vokasional Malaysia (DVM) with a minimum CGPA of 2.50 in a relevant field subject to the approval of the Senate. A credit in English at SPM or its equivalent is also required, including attendance in compulsory bridging courses. Diploma Kemahiran Malaysia with working experience (Diploma): Pass DKM/ DLKM/ DVM with at least CGPA 2.00 AND have at least two (2) years of work experience in the relevant field, including attendance in compulsory bridging courses. APEL: Entry requirements for admission into the Bachelor’s program (level 6, MQF) through APEL as approved by the Ministry of Education (MOHE). Applicants must be/have: A Malaysian citizen; and The candidate should be more than 21 years of age when applying Relevant work experience / prior experiential learning; and Passes the APEL assessment. English Proficiency (For International Students): Minimum score of 6.0 for IELTS or Minimum score of 550 for TOEFL or its equivalent. English Proficiency (for Malaysian Students) Malaysian students are exempted from University English courses if the applicant has: Distinction in SPM / SPMV English MUET Band 4, 5 and 6 A Pass in English Course at a previous institution Malaysian students are required to take English Preparatory 2 if the applicant has: Credit in SPM / SPMV English MUET Band 1, 2 and 3 Required to take both English Preparatory 1 and 2 if: No credit in SPM / SPMV English"
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058804/",
@@ -39,6 +53,11 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-of-education-in-tesl-hons-294543/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

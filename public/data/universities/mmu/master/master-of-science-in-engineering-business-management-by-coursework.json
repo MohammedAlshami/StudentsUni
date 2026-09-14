@@ -29,7 +29,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "A Bachelor’s degree in related fields with a minimum CGPA of 2.50 or equivalent, as accepted by the Senate; OR A Bachelor’s degree in related fields with a minimum CGPA of 2.00 but not meeting a CGPA of 2.50 or equivalent as accepted by Senate, subject to rigorous internal assessment; OR A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 or equivalent, and a minimum of 2 years relevant working experience, as accepted by senate, subject to rigorous internal assessment; OR A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 or equivalent, and not meeting a minimum of 2 years working experience, as accepted by Senate, subject to rigorous internal assessment and passing pre-requisite courses; OR Other equivalent/related qualifications to a Bachelor’s degree recognised by the Malaysian Government. English Entry Requirement: An applicant is required to possess a sufficient level of English language proficiency by obtaining one of the following: a minimum IELTS overall band score of 5.0 ; OR a minimum overall TOEFL iBT score of 42 ; OR a minimum MUET overall band score of 3 ; OR a minimum Pearson Test of English score of 47 ; OR a minimum Cambridge Qualifications and Test score of 154 ;OR a minimum Linguaskill overall band score of 154 In addition to the above, any other qualification which is of equivalent level as determined by the Senate of the University. The English language requirement is waived for the candidates who are natives of and/ or have completed their Bachelor’s or Master’s degrees from countries that use English as the medium of instruction as well as the first language."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -65,6 +66,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/msc-in-engineering-business-management-27298/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -1,0 +1,47 @@
+{
+  "university": "Heriot-Watt University Malaysia",
+  "university_slug": "hwum",
+  "level": "degree",
+  "program_name": "MA (Hons) Business and Finance",
+  "program_slug": "ma-hons-business-and-finance",
+  "field": "",
+  "duration": "3 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 109680,
+    "international_total": 128544,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: A-Level: DDD STPM: C+C+ UEC: Maximum 30 points (5 subjects not less than B grade) ATAR (WACE/SACE): ATAR 50 Canada Year 12 High School Diploma: 50% (average score based on 6 best relevant subjects including English) International Baccalaureate Diploma: 24 points excluding Theory of knowledge and Extended Essay Matriculation/Foundation: Minimum CGPA 2.5 Diploma: Minimum CGPA 2.5 Heriot-Watt University Malaysia Foundation in Business / Foundation in Science: Grade C average SMA 3 (Indonesia): 6.0 Year 12 State Board High School Examination (India): 70% Senior High School Graduation Certificate (China): 80% Additional Academic Requirements: Mathematics: Grade C in Mathematics at SPM/IGCSE level or equivalent is required. This requirement can be waived if applicants have obtained at least a passing grade in Mathematics at a higher level. Important Notes: Applications are strongly encouraged from individuals with a wide array of qualifications. Eligibility is best assessed through a completed application with academic documentation. Entry requirements in the prospectus and website may not always apply, and individual offers may vary. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 6.0 (or equivalent) with no score lower than 5.5. English Language Courses: Offered for those who do not meet the IELTS 6.0 requirement."
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/ma-hons-business-and-finance-273712/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

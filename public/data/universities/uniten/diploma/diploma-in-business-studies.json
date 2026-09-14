@@ -7,7 +7,11 @@
   "field": "Business",
   "duration": "2.5 years",
   "mode": "Full-time",
-  "intakes": ["January", "July", "September"],
+  "intakes": [
+    "January",
+    "July",
+    "September"
+  ],
   "fees": {
     "local": {
       "tuition": null,
@@ -20,7 +24,9 @@
       "visa_application": "USD787.50 (RM3,150)",
       "registration": "USD1,650 (RM6,600)",
       "medical_insurance": null
-    }
+    },
+    "local_total": 25800,
+    "international_total": 28800
   },
   "requirements": {
     "local": "SPM / equivalent with credits in Mathematics and English",
@@ -31,7 +37,12 @@
     "status": "Accredited by MQA"
   },
   "sources": [
-    "https://www.uniten.edu.my/programme/diploma/"
+    "https://www.uniten.edu.my/programme/diploma/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-tenaga-nasional-uniten-272/diploma-in-business-studies-257526/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "low",
   "last_updated": "2026-09-14"

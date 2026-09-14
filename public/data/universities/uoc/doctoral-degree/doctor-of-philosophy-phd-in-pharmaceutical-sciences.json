@@ -20,7 +20,21 @@
     "currency": "MYR",
     "international_total": 18100
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: Direct Entry for Outstanding Graduates (Other): Academic excellence: A first-class bachelor&#39;s degree with a minimum CGPA of 3.70. Research capability: Demonstrated competency and capability in conducting research at the doctoral level. Rigorous internal assessment: Successful completion of an internal assessment conducted by the University. Senate approval: Final endorsement by the University Senate. Master’s Degree in a relevant field (Master&#39;s Degree Level): Master’s Degree in a relevant field from the University of Cyberjaya or any other institution recognised by the Malaysian government, acceptable to the University; OR Other qualifications equivalent to (Master&#39;s Degree: Any other qualifications equivalent to a Master‘s degree recognised by the Malaysian government, acceptable to the University; OR Other equivalent qualifications (Master&#39;s Degree Level): Other equivalent qualifications recognised by the Malaysian Government and acceptable to the University English Proficiency (For International Students Only): Minimum TOEFL score of 550 (pBT) or 80 (iBT) or Minimum IELTS score of 6.0 or its equivalent.  "
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058816/",
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/phd-in-pharmaceutical-sciences-294595/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -21,7 +21,21 @@
     "international_total": 20430,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these:   A pass in STPM with a minimum of Grade C (GP 2.00) in any two (2) subjects, or its equivalent  A pass in STAM with a minimum grade of Jayyid A pass in Matriculation or Foundation with a minimum CGPA of 2.00, or it’s equivalent A Diploma (Level 4, MQF) with a minimum CGPA of 2.00, or its equivalent Pass DKM/DLKM/DVM (HEP is required to implement a screening and bridging program which correspond to the program field)  Pass an interview OR submission of portfolio determined by the HEP as required. For International Students Malaysian University English Test (MUET) with Band 3 OR its equivalent."
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/bachelor-of-fashion-design-hons-293511/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

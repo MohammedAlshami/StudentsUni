@@ -10,13 +10,34 @@
   "intakes": null,
   "fees": {
     "local": "RM34,800.00",
-    "international": "RM38,800.00"
+    "international": "RM38,800.00",
+    "local_total": 34800,
+    "international_total": 38800
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "GENERAL REQUIREMENTS Bachelor’s degree in related fields with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in related fields below a CGPA of 2.50 can be accepted, subject to a minimum of 5 years working experience in the relevant fields. Relevant professional accounting qualifications equivalent to a bachelor’s degree as accepted by the Senate. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). ENGLISH REQUIREMENTS IELTS: 5.5"
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/msc-in-accounting",
-    "https://www.studymalaysia.com/what/course/APU/0055059/"
+    "https://www.studymalaysia.com/what/course/APU/0055059/",
+    {
+      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/master-of-accounting-272113/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.9,
   "last_updated": "2026-09-14"

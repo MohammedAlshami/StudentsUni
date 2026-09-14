@@ -23,7 +23,21 @@
     "per_year_international": 16891,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Masters: Masters in the related discipline OR Other Equivalent Qualification: Any other equivalent qualification recognised by the Malaysian Government or accepted by the Taylor&#39;s University Senate. Students without a qualification in the related fields or relevant working experience requires to undergo and pass a bridging module. Note: Any of the condition above would require student&#39;s research proposal to be approved. English Requirements For international students: IELTS 6.5 / TOEFL 79 (Internet Based Test) (May join IEN preparatory course and achieve the IELTS score). The validity of the IELTS or equivalent is within 2 years from the date of the examination. Accelerated PhD Bachelor&#39;s degree candidates who are registered for master&#39;s degree programmes may apply to convert to the doctoral degree programmes subjected to the following conditions: Within 1 year for full time and within 2 years for part-time candidates; Having shown competency and capability in conducting research at doctoral level through rigorous internal evaluation. Approval of the Taylor&#39;s University Senate. Prior Publication Mode: Obtain a master&#39;s degree in the field or related fields accepted by the HEP Senate Obtain other qualifications equivalent to a master&#39;s degree recognised by the Government of Malaysia In addition to the above criteria, those who want to join Doctoral Degree by Retrospective or Prior Publication mode must include the below to the formal application: Minimum of 5 publications in alignment with the theme of the specialisation; An executive summary of the above publications establishing The theme that connects the published works to be submitted (up to 1,000 words); Contribution to knowledge in the field of the proposed area of study (up to 1,000 words) A list of scholarly published work; Curriculum Vitae (CV) Criteria for published works Published work must encompass high-quality journals, monographs, books, research-based chapters in books, electronic publications which have not been used to obtain other awards or deemed a part of those awards. The publications must be published within a period not exceeding ten (10) years from the date of submission. For the five (5) nominated publications, the candidate must be the principal author with the contributions of others clearly defined.  "
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/education/phd-research/doctor-of-philosophy-in-education.html",
@@ -37,6 +51,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/phd-in-education-293114/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

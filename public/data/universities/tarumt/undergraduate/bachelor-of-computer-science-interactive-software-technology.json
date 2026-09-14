@@ -19,7 +19,21 @@
     "per_year_local": 3900,
     "per_year_international": 6256
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "(1) STPM - Grade C in 2 relevant subjects (2) A Level - Grade C in 2 relevant subjects (3) UEC - Grade B in 5 relevant subjects (4) Other IHL : Foundation relevant accredited by MQA (5) Relevant Diploma (with minimum CGPA 2.5000)^ AND SPM Credit in Mathematics/O Level Grade C in Mathematics/ UEC Grade B in one mathematics subject (6) TAR UC - Foundation in Computing (Track A) OR Relevant Diploma (with minimum CGPA 2.5000)^ Compulsory subjects: i) (1), (2), (3) and (4) must include SPM Credit in Additional Mathematics OR O Level Grade C in Mathematics-Additional OR UEC Grade B in one mathematics subject ii) (1), (2), (3) and (4) must include SPM Pass/ O Level Grade E (Pass)/ UEC Grade C in English Language* OR (1) STPM - Grade C in one Mathematics and one science/ICT subject (Science Stream) (2) A Level - Grade C in one Mathematics and one science/ICT subject Compulsory subjects: (1), and (2) must include SPM Pass/ O Level Grade E (Pass)/ UEC Grade C in English Language* OR (1) STPM - Grade C in 2 relevant subjects (2) A Level - Grade C in 2 relevant subjects (3) UEC - Grade B in 5 relevant subjects Compulsory Subjects: i) (1), (2), and (3) must include SPM Credit in Mathematics and one science/technology/engineering subject OR O Level Grade C in Mathematics and one science/technology/engineering subject ii) (1), (2), and (3) must include SPM Pass/ O Level Grade E (Pass)/ UEC Grade C in English Language* iii) (1), (2), and (3) must include Grade C in AMMS0204 Mathematics conducted by TAR UC ^ Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test. *Grade C and above in AELE0364 English Language conducted by TAR UC is accepted as having fulfilled the English Language requirement for applicants who fail English Language at SPM/O Level/UEC. Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree. b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -42,6 +56,11 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/bachelor-of-computer-science-honours-in-interactive-software-technology-292878/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

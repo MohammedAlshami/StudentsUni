@@ -23,7 +23,8 @@
   "requirements": {
     "spm": "Minimum 5 credits in any subjects with a minimum pass in BM & History",
     "o_level": "Minimum 5 credits in any subjects",
-    "uec": "Minimum 3 subjects with Grade B"
+    "uec": "Minimum 3 subjects with Grade B",
+    "general_text": "Applicants must meet one of the following criteria: 5 SPM/SPMV Credits, including a pass in Bahasa Melayu and History 5 O-Level Credits 3 Bs in UEC Other equivalent qualifications recognized by the Malaysian Government   Note: Forecast results are accepted. A conditional offer will be given to those who meet the entry requirements.    "
   },
   "accreditation": {
     "mqa_code": "R3/0011/3/0050",
@@ -50,6 +51,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/foundation-in-arts-25996/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

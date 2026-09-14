@@ -5,13 +5,34 @@
   "program_name": "Master of Science in Public Health",
   "program_slug": "master-of-science-in-public-health",
   "field": "Health Sciences",
-  "duration": null,
+  "duration": "1 year",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students   A bachelor degree or equivalent with minimum CGPA of 2.50 in related field, as accepted by Senate; or A bachelor degree or equivalent in related field with CGPA of less than 2.50 and a minimum of five years working experience in the related field. Special requirement for Master of Science in Public Health: i. A bachelor degree or equivalent with minimum CGPA of 2.50 in related f ield, as accepted by the HEP Senate; or ii. A bachelor degree or equivalent in related f ield with CGPA of less than 2.50 and a minimum of 5 years working experience in the related f ield; or iii. Doctor of Medicine (MD), Bachelor of medicine and Bachelor of Surgery (MBBS) (Level 6, MQF) or equivalent For International Students Bachelor&#39;s degree (or equivalent) with a minimum CGPA of 2.75; OR CGPA of 2.50 but below 2.75 may be accepted after rigorous internal assessment; OR CGPA below 2.50 with at least 5 years of work experience in a relevant field. Non-computing degree holders must take prerequisite computing modules. IELTS 5.5, TOEFL 525 or equivalent."
+  },
   "accreditation": null,
-  "sources": ["https://www.unikl.edu.my/postgraduate-admission/"],
+  "sources": [
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-science-in-public-health-293773/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
   "confidence": "high",
   "last_updated": "2026-09-14"
 }

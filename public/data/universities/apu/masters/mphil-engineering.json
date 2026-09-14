@@ -10,13 +10,34 @@
   "intakes": null,
   "fees": {
     "local": "RM27,500.00",
-    "international": "RM29,800.00"
+    "international": "RM29,800.00",
+    "local_total": 27500,
+    "international_total": 29800
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "GENERAL REQUIREMENTS Bachelor’s degree in Engineering or related fields with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in Engineering or related fields with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in Engineering or related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a minimum of 5 years working experience in the relevant fields and rigorous internal assessment. (Bachelor’s degree in Engineering is required for entry to Master of Philosophy in Engineering) Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). ENGLISH REQUIREMENTS IELTS: 5.0"
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/msc-of-philosophy-engineering",
-    "https://www.studymalaysia.com/what/course/APU/0009936/"
+    "https://www.studymalaysia.com/what/course/APU/0009936/",
+    {
+      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/master-of-philosophy-in-engineering-290146/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.9,
   "last_updated": "2026-09-14"

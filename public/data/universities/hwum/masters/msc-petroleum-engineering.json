@@ -1,0 +1,47 @@
+{
+  "university": "Heriot-Watt University Malaysia",
+  "university_slug": "hwum",
+  "level": "masters",
+  "program_name": "MSc Petroleum Engineering",
+  "program_slug": "msc-petroleum-engineering",
+  "field": "",
+  "duration": "1 year",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 47250,
+    "international_total": 53640,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: A minimum of a second-class Honours degree or an equivalent academic qualification in a related subject area. For postgraduate conversion courses, non-related degrees will be considered. Corporate (or chartered) membership of relevant professional institutions will also be considered. Non-related degrees will be considered on an individual basis based on CV and work experience. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 6.0 (or equivalent) with no score lower than 5.5. English Language Courses: Offered for those who do not meet the IELTS 6.0 requirement."
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/msc-petroleum-engineering-268102/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

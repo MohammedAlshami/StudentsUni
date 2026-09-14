@@ -21,7 +21,21 @@
     "per_year_local": 20450,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: Sijil Pelajaran Malaysia (SPM): Requires a minimum Grade B in five specific subjects: Biology, Chemistry, Physics, Mathematics (or Additional Mathematics), and any other subject. International General Certificate of Secondary Education (IGCSE) – O Levels: Requires the same minimum Grade B in the same five subjects as the SPM. Unified Examination Certificate (UEC): Requires a minimum grade of B4 in three specific subjects: Biology, Chemistry, and either Physics, Mathematics, or Advanced Mathematics. Other qualifications deemed equivalent by the Government of Malaysia."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0006345/",
@@ -39,6 +53,11 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/foundation-in-science-medicine-pharmacy-26917/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

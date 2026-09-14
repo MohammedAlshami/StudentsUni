@@ -19,7 +19,21 @@
     "currency": "MYR",
     "international_total": 19523
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Programme Entry Requirements You must meet the following requirements in order to be considered for entry to the UNITAR Master’s Programme: i. A bachelor’s Degree (Level 6, MQF) with a minimum CGPA of 2.50 or its equivalent as accepted by UNITAR Senate; OR ii. A bachelor’s degree or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to a minimum of five (5) years working experience in education Candidates without a qualification in the related fields or working experience in the relevant fields must undergo appropriate prerequisite courses determined by the HEP and meet the minimum CGPA based on (i) to (ii). Language Requirements for International students Minimum score of 5.0 for IELTS, OR Minimum score of 40 for TOEFL iBT OR its equivalent"
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0054317/",
@@ -32,6 +46,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/master-of-education-educational-leadership-management-294081/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

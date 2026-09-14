@@ -20,7 +20,21 @@
     "per_year_local": 2562,
     "per_year_international": 4469
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "(1) STPM - Grade C in Physics and one mathematics subject (2) A Level - Grade D in Physics and Mathematics (3) UEC - 5 Grade B in the relevant subjects which must include Physics and one mathematics subject (4) TAR UC - Foundation in Engineering OR Relevant Diploma (5) Other IHL - Relevant Foundation/ Diploma accredited by MQA Compulsory subjects: (1), (2), (3) and (5) must include SPM Credit/O Level Grade C/UEC Grade B in English Language and Bahasa Melayu/Malay Language Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree. b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Information is correct at the point of printing. Subject to the Ministry of Education latest requirements."
+  },
   "accreditation": "MQA",
   "sources": [
     "https://foet.tarc.edu.my/programmes/bachelor-degree/bachelor-of-mechanical-engineering-with-honours",
@@ -44,6 +58,11 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/bachelor-of-mechanical-engineering-with-honours-289408/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

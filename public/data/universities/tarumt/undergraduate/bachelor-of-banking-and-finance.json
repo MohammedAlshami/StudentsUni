@@ -20,7 +20,21 @@
     "per_year_local": 3756,
     "per_year_international": 6078
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "(1) STPM - Minimum Grade C+ in 2 relevant subjects (2) A Level - Minimum Grade D in 2 relevant subjects (3) UEC - Grade B in 5 relevant subjects (4) Other IHL - Relevant Foundation (with minimum CGPA 2.5000)/ Diploma (with minimum CGPA 2.5000) accredited by MQA (5) TAR UC - Foundation in Business with minimum CGPA 2.5000 OR Relevant Diploma with minimum CGPA 2.5000 Compulsory subjects: (1), (2), (3) and (4) must include - i) SPM Credit/ O Level Grade C in Mathematics/ UEC Grade B in one mathematics subject ii) SPM Pass/O Level Grade E (Pass)/UEC Grade C in English Language Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree.  b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -43,6 +57,11 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/bachelor-of-banking-and-finance-honours-292863/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

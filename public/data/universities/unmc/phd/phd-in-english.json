@@ -16,7 +16,21 @@
     "per_year_international": 39940,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "PhD Eligibility Criteria Degree Requirements: A good master’s degree (usually merit or higher). An upper second-class honours degree (2:1) or international equivalent in a relevant discipline. Non-UK qualifications will be assessed. Language Proficiency (if applicable): IELTS (Academic): Overall 7.0, with no component below 6.0. TOEFL iBT: Overall 100, with minimum scores: Writing &amp; Listening: 19 Reading: 20 Speaking: 22 PTE (Academic): Overall 76, with no component below 65. MUET: Band 5 (valid for 5 years). Important Notes: English proficiency test results must be less than 2 years old. IELTS One Skill Retake is accepted. Online versions of IELTS, TOEFL, or PTE are not accepted."
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -24,6 +38,11 @@
       "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
       "publisher": "University of Nottingham Malaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-nottingham-malaysia-9990/phd-in-english-273514/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "medium",

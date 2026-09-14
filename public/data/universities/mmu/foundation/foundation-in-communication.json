@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "SPM/O-Level or equivalent: Minimum Grade C in at least five (5) subjects, including English and Mathematics; OR UEC: Minimum Grade B in at least three (3) subjects, including Mathematics and English."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/foundation-in-computing-294600/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

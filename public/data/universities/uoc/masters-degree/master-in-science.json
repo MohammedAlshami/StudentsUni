@@ -20,7 +20,21 @@
     "currency": "MYR",
     "international_total": 20250
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: A Bachelor’s degree in a relevant field (Bachelor&#39;s Degree Level): Bachelor’s degree in a relevant field with a minimum CGPA of 2.75 or equivalent; OR A Bachelor’s degree in a relevant field with a minimum CGPA of 2.50 and less than 2.75 may be accepted subject to rigorous internal assessment; OR A Bachelor’s degree in a relevant field with a CGPA less than 2.50, but with a minimum 5 years of relevant work experience may be accepted subject to internal assessment; OR Others: Other equivalent qualifications recognized by the Malaysian Government and acceptable by the University. English Proficiency (For International Students): Minimum TOEFL score of 550 (pBT) or 80 (iBT) or IELTS score of 6.0."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0055135/",
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/master-in-science-278791/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

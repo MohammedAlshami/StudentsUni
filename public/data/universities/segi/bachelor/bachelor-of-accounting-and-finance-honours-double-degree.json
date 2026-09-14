@@ -20,7 +20,8 @@
     "international_total": 14794
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: MUET Band 2 STPM with a minimum. Grade C+ (CGPA 2.33) in any two subjects, and credit in Mathematics and a pass in English at SPM level STAM with a minimum. grade of Jayyid, (good) and credit in Mathematics and a pass in English at SPM level Diploma in accounting or related field, or its equivalent with a minimum. CGPA of 2.50, and credit in Mathematics and a pass in English at SPM level Matriculation/Foundation qualification or its equivalent with a minimum. CGPA of 2.50, and credit in Mathematics and a pass in English at SPM level English Proficiency Requirements For international student: TOEFL score of 550 or  IELTS score The English proficiency requirement is exempted for both local and international students if:- The student has an academic qualification from an institution where English is used as a medium of instruction or The international student is from a country where English is an official language"
   },
   "accreditation": null,
   "sources": [
@@ -34,6 +35,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/bachelor-of-accounting-and-finance-honours-odl-294399/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

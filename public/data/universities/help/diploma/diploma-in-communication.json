@@ -21,7 +21,21 @@
     "currency": "MYR",
     "international_total": 22125
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Requirements Applicants must have one of the following entry requirements: A pass in SPM or its equivalent, with a minimum of 3 credits in any subject, including English; OR 3 O-Level credits (including English) or 3 Bs (including English) in Senior Middle Three (UEC) or equivalent; OR A pass in STPM or its equivalent, with a minimum Grade C in any subject; OR A Certificate in Media or Communication or its equivalent. International Students Only International students who do not meet the minimum English language entry requirement may be accepted into the programme. However, they must first enroll in the university’s Intensive English Programme (IEP) and sit for the IELTS or other similar tests. Upon passing the test with a 5.0 score or equivalent, students can formally enroll in the faculty programme."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0056458/",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/diploma-in-communication-274259/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -8,8 +8,22 @@
   "duration": "2 Years",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.75 as accepted by the HEP Senate;OR A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.50 and not meeting CGPA of 2.75 can be accepted, subject to rigorous internal assessment****;OR A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a minimum of 5 years relevant working experience***** and rigorous internal assessment****;OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate, subject to having relevant working experience***** and rigorous internal assessment****;OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 and not meeting 2.5 as accepted by the HEP Senate, subject to a minimum of 5 years relevant working experience***** and rigorous internal assessment****;OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses******; Other qualifications equivalent to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government. For International Students Bachelor&#39;s in a related field with minimum CGPA of 2.75 from approved institutions. CGPA between 2.50 and 2.75 may be accepted after rigorous internal assessment. CGPA below 2.50 requires at least 5 years of relevant work experience. IELTS 5.0-6.5 or equivalent.  "
+  },
   "accreditation": {
     "mqa_code": "A10143",
     "valid_until": null,
@@ -18,7 +32,12 @@
   "sources": [
     "https://www.unikl.edu.my/postgraduate-admission/",
     "https://www.unikl.edu.my/programme/master-of-management/",
-    "https://studymalaysia.com/what/course/UNIKL/0008082/"
+    "https://studymalaysia.com/what/course/UNIKL/0008082/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-management-264856/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "high",
   "last_updated": "2026-09-14"

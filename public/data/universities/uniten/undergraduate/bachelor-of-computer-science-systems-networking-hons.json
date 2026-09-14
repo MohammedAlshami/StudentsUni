@@ -27,7 +27,8 @@
     },
     "currency": "MYR",
     "local_total": 75000,
-    "per_year_local": null
+    "per_year_local": null,
+    "international_total": 78000
   },
   "requirements": {
     "local": "STPM / A-Level / equivalent with minimum CGPA in relevant subjects, or UNITEN Foundation",
@@ -44,6 +45,11 @@
       "url": "https://www.studymalaysia.com/edu/uniten/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-tenaga-nasional-uniten-272/bachelor-of-cs-in-software-engineering-hons-27703/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

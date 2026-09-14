@@ -8,10 +8,31 @@
   "duration": "3 years",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: A pass in STPM with a minimum of Grade C (GP 2.00) in any two (2) subjects A pass in STAM with a minimum grade of Jayyid A pass in Matriculation or Foundation with a minimum CGPA of 2.00 A Diploma (Level 4, MQF) with a minimum CGPA of 2.00 Pass DKM/DLKM/DVM (HEP is required to implement a screening and bridging program which correspond to the program field); AND Pass an interview OR submission of portfolio determined by the HEP as required. English Requirements for Internatinal Students Malaysian University English Test (MUET) with Band 3 OR its equivalent."
+  },
   "accreditation": "MQA",
-  "sources": ["https://www.city.edu.my"],
+  "sources": [
+    "https://www.city.edu.my",
+    {
+      "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/bachelor-in-graphics-design-hons-257593/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
   "confidence": 0.9,
   "last_updated": "2026-09-14"
 }

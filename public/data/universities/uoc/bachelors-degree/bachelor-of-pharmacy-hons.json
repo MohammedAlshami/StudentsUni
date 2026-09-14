@@ -19,7 +19,21 @@
     "per_year_local": 7775,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: STPM/A-Level (STPM): Grades BBB or ABC or AAC in 3 subjects: Biology and Chemistry and Physics or Mathematics Minimum grade B for chemistry. Note: Combination of A-Level or STAM and STPM is allowed to fulfil the entry requirement UEC (Certificate): Minimum B4 in 5 subjects: Biology, and Chemistry, and Physics, and Mathematics and Advanced Mathematics / Advanced Mathematics I / Advance Mathematics II / another subject UoC Foundation or equivalent (Foundation): Grades BBB, ABC, or AAC in 3 subjects: Biology and Chemistry and Physics or Mathematics With minimum grade B for chemistry And provided the course is not less than one (1) year And minimum 5Bs in SPM/O- Levels for: Biology; and Chemistry; and Physics; and Mathematics or Additional Mathematics; and Another subject or Unified Examination Certificate UEC B4 each in 3 subjects: Biology and Chemistry and Physics or Advanced Mathematics IB Diploma (International Baccalaureate): Minimum of 30 points overall and attained a minimum score of 5 each in 3 of the following subjects: • Biology • Chemistry • Physics or Mathematics with a minimum of 2 at Higher Level (HL) and 1 at Standard Level Diploma in Pharmacy (Diploma): Minimum CGPA 3.50 and provided the programme is not less than 5 semesters or 2½ years and completed in the same institution and Sijil Pelajaran Malaysia (SPM) 2 Bs each in Chemistry and Biology/Physics/Maths and Credits in 3 other subjects, including English or General Certificate of Education Ordinary (“O”) levels or equivalent 2 Bs each in Chemistry and Biology/Physics/Maths and Credits in 3 other subjects Diploma in Science (Diploma Level): Diploma in Science (Chemistry or Biology or Physics) from any HEI recognised by MQA and MOHE with a minimum CGPA 3.75 including minimum B for Chemistry. *with SPM/O-Level/equivalent with minimum 5Bs in the following subjects: Biology; and Chemistry; and Physics; and Mathematics or Additional Mathematics; and Another subject South Australian Matriculation (SAM) (Matriculation): Aggregate 75% each in 3 science subjects: Chemistry, Biology, and Physics or Mathematics, including a minimum of 75% in Chemistry New Zealand Bursary or Canadian Pre-University (CPU) (Other): Canadian Pre-University (CPU) Aggregate 75% each in 3 science subjects: Chemistry, Biology and Physics or Mathematics, including a minimum of 75% in Chemistry English Proficiency (For International Students): Minimum IELTS score of 5.0 or equivalent. Notes: To serve as a government servant, additional Bahasa Melayu and English requirements are set by Suruhanjaya Perkhidmatan Awam (SPA) Prerequisites: SPM (Mandatory Requirement): Minimum 5Bs in SPM/O-Levels for; Biology; and Chemistry; and Physics; and Mathematics or Additional Mathematics; and Another subject"
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0006347/",
@@ -37,6 +51,11 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-of-pharmacy-hons-278782/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

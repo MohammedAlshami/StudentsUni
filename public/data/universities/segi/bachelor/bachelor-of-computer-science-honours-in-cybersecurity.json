@@ -20,7 +20,8 @@
     "international_total": 17594
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: Pass in Matriculation or Foundation studies or STPM with minimum CGPA of 2.0 and minimum Grade C in any 2 subjects AND a) O-Level / SPM – Add Maths subject OR b) O-Level / SPM – Maths + Science / ICT / Engineering subject * *students may need to take a bridging course (i.e., additional 3 credits of Mathematics for Computing) during 1st semester of Degree study Pass in STPM-Science with minimum Grade C in Mathematics and Science / ICT subject Pass in Diploma in Computer Science or Information Technology or other relevant field with minimum of CGPA 2.50 from higher education institute recognised by the Malaysian Government Pass in Diploma in Computer Science or Information Technology or other relevant field with minimum of CGPA 2.00 from higher education institute recognised by the Malaysian Government AND pass SEGi internal evaluation process English Proficiency Requirements (International Students): IELTS with minimum of score 5.0 or equivalent."
   },
   "accreditation": null,
   "sources": [
@@ -34,6 +35,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/bachelor-of-computer-science-hons-294334/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

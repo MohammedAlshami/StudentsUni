@@ -16,7 +16,21 @@
     "currency": "MYR",
     "international_total": 50000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: A Level: BCC (excluding Critical Thinking and General Studies) IB Diploma: 24 points overall STPM: BC+ C+, excluding Pengajian Am UEC: 3 B3s and 2 B4s (excluding Bahasa Malaysia and Chinese Language) Australian Year 12: ATAR 78, with consideration for relevant subjects Ontario Secondary School Diploma (OSSD): 75% average across 6 subjects Canadian Secondary School Diplomas: Assessed based on university requirements Gaokao (NCEE) &amp; Senior High School Diploma (China): 68% average in Gaokao, minimum 70% overall in Senior High School Diploma CBSE/CISCE Class XII: 75% average from the best 4 subjects (excluding local language, Environmental Education, general studies subjects, Physical Education) AP: 4, 3, 3 in relevant subjects Diploma (Local Institutions): Entry to Year 2 assessed case-by-case, minimum GPA of 3.0 out of 4.0 Foundation (Local Institutions): Minimum GPA of 3.0 out of 4.0 and good grades in relevant subjects Nottingham&#39;s Foundation Programme: Successful completion required English Language Proficiency: IELTS (Academic): 6.5 (with no less than 6.0 in each element) TOEFL (iBT): 90 (minimum 19 in Writing and Listening, 20 in Reading, 22 in Speaking) PTE (Academic): 71 (with no less than 65 in each element) GCE A Level English Language or English Literature: Grade C GCE AS Level English Language or English Literature: Grade C SPM: CEFR level B2 GCSE O-Level: Grade C / 4 IGCSE (First Language): Grade C / 4 IGCSE (Second Language): Grade B / 6 MUET: Band 4.5 UEC: Grade A2 IB English A1 or A2 (Standard or Higher Level): 4 points IB English B (Higher Level): 4 points IB English B (Standard Level): 5 points OSSD English (ENG3U/ENG4U): 75% CBSE/CISCE Class XII or Class X: 75% overall (confirmation of English as the medium of instruction required) Additional Notes: IELTS (Academic), TOEFL iBT, and PTE (Academic) test results must be less than two years old. IELTS One Skill Retake is accepted. IELTS Academic Online, TOEFL iBT Home Edition, and PTE Academic Online are not accepted. MUET results are valid for five years from the release date. OSSD English (ENG3U/ENG4U) with the required grades will only be accepted if all 30 credits are from standard OSSD courses (no fast-track route)."
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-nottingham-malaysia-9990/ba-hons-english-with-creative-writing-273480/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

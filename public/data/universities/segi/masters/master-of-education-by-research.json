@@ -16,11 +16,30 @@
     "per_year_international": "RM20,000-RM30,000",
     "notes": ""
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: A Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50, as accepted by the Senate; OR A Bachelor’s Degree or its equivalent, not meeting CGPA of 2.50, subjected to a minimum of five (5) years working experience in a relevant field. A Bachelor’s Degree or its equivalent, not meeting CGPA of 2.50, and does not have five (5) years working experience in a relevant field shall undergo appropriate prerequisite courses. APEL. A Certificate English Proficiency Requirements: International English Language Testing System (IELTS) 5.0 or equivalent."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SEGI/0056389/",
-    "https://eduswasta.my/university/segi-university/"
+    "https://eduswasta.my/university/segi-university/",
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/master-of-education-by-coursework-294008/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.7,
   "last_updated": "2026-09-15"

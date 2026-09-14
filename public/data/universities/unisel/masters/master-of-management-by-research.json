@@ -16,7 +16,21 @@
     "international_total": 10200,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "A bachelor Degree with at least CGPA 2.75; OR Equivalent, as approved by UNISEL Senate; OR A Bachelor Degree with CGPA at least 2.50 but not achieving 2.75 can be accepted to enroll in the program subject to the detailed internal evaluation of the UNISEL Senate; OR A Bachelor Degree or other equivalent qualification with CGPA less than 2.50 can be accepted with minimum of 5 years working experience in related field."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -28,6 +42,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-selangor-unisel-12328/master-of-management-by-research-294555/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

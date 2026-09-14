@@ -5,15 +5,42 @@
   "program_name": "Master of Business Administration",
   "program_slug": "master-of-business-administration",
   "field": "Business & Management",
-  "duration": null,
+  "duration": "18 months",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {
+    "local_total": 20790,
+    "international_total": 27000
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate;OR A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a rigorous internal assessment****;OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and with relevant working experience*****, subject to a rigorous internal assessment****;OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses******;OR Other equivalent/related qualifications to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government. For International Students Bachelor&#39;s degree in a related field with minimum CGPA of 2.50 as approved by the Senate of UniKL. IELTS 6.0, TOEFL 550 or equivalent."
+  },
   "accreditation": null,
   "sources": [
     "https://www.unikl.edu.my/postgraduate-admission/",
-    "https://www.unikl.edu.my/programme/master-of-business-administration/"
+    "https://www.unikl.edu.my/programme/master-of-business-administration/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/mba-293766/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/mba-entrepreneurship-293770/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "high",
   "last_updated": "2026-09-14"

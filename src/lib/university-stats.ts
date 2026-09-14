@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { normalizeProgramsList } from "@/lib/university-detail";
+import { normalizeProgramsList, loadProgramDetail } from "@/lib/university-detail";
 
 export type UniversityStats = {
   totalPrograms: number;
@@ -8,7 +8,7 @@ export type UniversityStats = {
 };
 
 const UNIVERSITIES_DIR = path.join(process.cwd(), "public/data/universities");
-const MAX_DETAIL_FILES_SCANNED = 60;
+const MAX_DETAIL_SCANNED = 80;
 
 function readJSON(filePath: string): unknown | null {
   try {
@@ -42,18 +42,13 @@ export function getUniversityStats(slug: string): UniversityStats {
       totalPrograms += programs.length;
 
       for (const prog of programs) {
-        if (scanned >= MAX_DETAIL_FILES_SCANNED) break outer;
-        const progSlug = typeof prog === "string" ? prog : (prog.slug as string | undefined);
-        if (!progSlug) continue;
-        const detailPath = path.join(uniDir, level, `${progSlug}.json`);
-        const detail = readJSON(detailPath) as {
-          fees?: { local_total?: number | null; international_total?: number | null; currency?: string };
-        } | null;
-        if (!detail) continue;
+        if (scanned >= MAX_DETAIL_SCANNED) break outer;
+        const detail = loadProgramDetail(slug, slug, level, prog);
+        if (!detail.hasDetail) continue;
         scanned++;
-        const fee = detail?.fees?.local_total ?? detail?.fees?.international_total;
+        const fee = detail.fees.local_total ?? detail.fees.international_total;
         if (typeof fee === "number" && fee > 0) {
-          if (detail?.fees?.currency) currency = detail.fees.currency;
+          currency = detail.fees.currency;
           if (fee < min) min = fee;
           if (fee > max) max = fee;
         }

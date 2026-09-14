@@ -5,13 +5,34 @@
   "program_name": "Master of Medical Science",
   "program_slug": "master-of-medical-science",
   "field": "Medical Sciences",
-  "duration": null,
+  "duration": "2 years",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students   A bachelor’s degree or equivalent with minimum CGPA of 2.75 in related field, as accepted by the HEP Senate; or A bachelor’s degree or equivalent with CGPA between 2.50 and 2.75, can be accepted subject to rigorous internal assessment; or A bachelor’s degree or equivalent in related field with CGPA of less than 2.50 and a minimum of 5 years working experience in the related field; or Doctor of Medicine (MD), Bachelor of medicine and Bachelor of Surgery (MBBS) (Level 6, MQF) or equivalent For International Students Bachelor&#39;s in a related field with minimum CGPA of 2.75 from approved institutions. CGPA between 2.50 and 2.75 may be accepted after rigorous internal assessment. CGPA below 2.50 requires at least 5 years of relevant work experience. IELTS 5.0-6.5 or equivalent."
+  },
   "accreditation": null,
-  "sources": ["https://www.unikl.edu.my/postgraduate-admission/"],
+  "sources": [
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-medical-science-293795/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
   "confidence": "high",
   "last_updated": "2026-09-14"
 }

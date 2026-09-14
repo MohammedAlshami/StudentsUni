@@ -10,13 +10,34 @@
   "intakes": null,
   "fees": {
     "local": "RM47,600.00",
-    "international": "RM54,200.00"
+    "international": "RM54,200.00",
+    "local_total": 45200,
+    "international_total": 52600
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "SPM 3 Credits in at least 3 subjects at SPM level, with a minimum of a pass in Bahasa Malaysia and Sejarah (History). IGCSE/O-Levels 3 Credits (Grade C &amp; above) in at least 3 subjects at IGCSE/O-Levels. UEC 3 Credits (Grade B &amp; above) in at least 3 subjects in UEC. Certificate Pass relevant Certificate Programme or its equivalent. A qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by the Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) published by the Malaysian Qualifications Agency (MQA). English Requirements International Students IELTS: 4.0 TOEFL IBT: 30-31 Pearson (PTE): 36 MUET: Band 3 For more information please click HERE."
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/diploma-in-hotel-management",
-    "https://www.studymalaysia.com/what/course/APU/0058554/"
+    "https://www.studymalaysia.com/what/course/APU/0058554/",
+    {
+      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/diploma-in-hotel-management-294203/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.9,
   "last_updated": "2026-09-14"

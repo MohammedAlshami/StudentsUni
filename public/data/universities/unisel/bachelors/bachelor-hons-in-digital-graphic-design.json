@@ -17,7 +17,21 @@
     "international_total": 18555,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "A pass in STPM with a minimum of Grade C (GP 2.00) in any two (2) subjects, or its equivalent; OR A pass in STAM with a minimum grade of Jayyid, or its equivalent; OR A Certificate in Matriculation or Foundation with a minimum CGPA of 2.00, or its equivalent; OR A Diploma (Level 4, MQF) with a minimum CGPA of 2.00, or its equivalent;"
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-selangor-unisel-12328/bachelor-hons-in-digital-graphic-design-294136/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

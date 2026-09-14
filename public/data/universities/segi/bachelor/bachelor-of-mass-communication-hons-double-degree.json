@@ -20,7 +20,8 @@
     "international_total": 16604
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: STPM – with a min. of Grade C (GPA 2.00) in any 2 subjects and a credit in English at SPM level Unified Examination Certificate (UEC) with at least 5Bs Diploma – with a min. CGPA of 2.00 and a credit in English at SPM level Diploma – in Media and Communication or its equivalent Matriculation/Foundation – with a min. CGPA of 2.00 and credit in English at SPM level English Proficiency Requirements (International Students): TOEFL score of 500 or IELTS score of 5.0"
   },
   "accreditation": null,
   "sources": [
@@ -34,6 +35,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/bachelor-of-mass-communication-hons-226296/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

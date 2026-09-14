@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirements Applicants must meet one of the following criteria: SPM/O-Level or equivalent: A minimum of Grade C in at least five (5) subjects, including English. UEC: A minimum of Grade B in at least three (3) subjects, including English."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/foundation-in-creative-multimedia-27299/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

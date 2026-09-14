@@ -16,7 +16,21 @@
     "per_year_international": 39940,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Academic Requirements Option 1: A Master’s degree (normally with merit or international equivalent) in a relevant discipline. Experience in research methodology (e.g., dissertation or research project). An upper second-class honours degree (2:1) or international equivalent. Option 2: A First-class honours degree (or international equivalent) in a relevant discipline. Must include experience in research methodology. Direct admission is at the discretion of the School based on evaluation of applicant’s competency. All applicants must hold a degree from a recognised university. English Language Requirements IELTS (Academic): 7.0 overall (no less than 6.0 in each element) TOEFL (iBT): 100 overall (minimum 19 Writing/Listening, 20 Reading, 22 Speaking) PTE (Academic): 76 overall (no less than 65 in each element) MUET: Band 5 Note: IELTS, TOEFL iBT, and PTE results must be less than 2 years old. IELTS One Skill Retake is accepted. Online versions (IELTS Academic Online, TOEFL iBT Home Edition, PTE Academic Online) are not accepted. MUET results are valid for 5 years from release date."
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -24,6 +38,11 @@
       "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
       "publisher": "University of Nottingham Malaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-nottingham-malaysia-9990/phd-in-education-273499/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "medium",

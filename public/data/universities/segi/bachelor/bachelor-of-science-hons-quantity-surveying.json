@@ -20,7 +20,8 @@
     "international_total": 28059
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: Pass in STPM or equivalent, minimum Grade C (2.00) in 3 subjects including Mathematics Pass in A-Level in 3 subjects including Mathematics Pass in Unified Examinations Certificate (UEC) at least B in 5 subjects including Mathematics Pass in New South Wales Higher Certificate with Grade C in 3 subjects including Mathematics Pass in South Australia Certificate of Education (SACE) and Grade C in 3 subjects including Mathematics Pass in Ontario Secondary School Diploma, 60% over all in 3 subjects including Mathematics Pass in International Baccalaureate Diploma, with at least score of 24 Pass in Matriculation in relevant area (Ministry of Education Malaysia), Pass with minimum CGPA of 2.50 Pass in Foundation Studies in related field by Higher Institutions Provider recognised by Malaysia Government (at least CGPA 2.50) Pass in Diploma in related field by Higher Institutions Provider recognised by Malaysia Government (at least CGPA 2.00) Direct Entry to Year 2 with minimum CGPA 2.67 in Diploma in QS by Higher Institutions Provider recognised by Malaysia Government Pass in Monash University Foundation Year (MUFY) with minimum 55% passing marks, including credit in Mathematics / Applied Mathematics Other equivalent qualification that recognised by Malaysia Government Note: For local students, Credit C SPM in Mathematics it’s a MUST. English Proficiency Requirements (International Student): TOEFL with minimum of score 500 IELTS with minimum of score 5.0."
   },
   "accreditation": null,
   "sources": [
@@ -34,6 +35,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/bsc-hons-quantity-surveying-267694/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

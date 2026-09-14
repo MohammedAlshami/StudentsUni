@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Passed SPM and obtained THREE (3) Credits including BM, Mathematics, and Science; Obtained Sijil Kemahiran MARA (SKM) plus ONE (1) Credit at SPM; Sijil Politeknik and at least 2.0 CGPA; Sijil Institut Kemahiran Mara (IKM) and at least 2.0 CGPA; Sijil Sains Kesihatan PTPL and at least 2.0 CGPA. International Students: International students with equivalent qualifications approved by MSU Senate must also pass IELTS and score at least 5.5; OR TOEFL and score at least 550; OR O-Level English Language (equivalent to SPM 1119 English)."
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/diploma-in-sport-science-289009/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -1,0 +1,24 @@
+{
+  "programs": [
+    {
+      "slug": "doctor-of-philosophy-in-management",
+      "name": "Doctor of Philosophy in Management",
+      "field": "Management"
+    },
+    {
+      "slug": "master-of-business-administration-mba",
+      "name": "Master of Business Administration (MBA)",
+      "field": "Business Administration"
+    },
+    {
+      "slug": "master-of-philosophy-in-management",
+      "name": "Master of Philosophy in Management",
+      "field": "Management"
+    },
+    {
+      "slug": "master-of-science-logistics-supply-chain-management",
+      "name": "Master of Science in Logistics and Supply Chain Management",
+      "field": "Logistics and Supply Chain Management"
+    }
+  ]
+}

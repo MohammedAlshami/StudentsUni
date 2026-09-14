@@ -15,7 +15,21 @@
     "international_total": 48534,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "A Bachelor’s Degree (Level 6 MQF) in the Medical and Health Science field or related fields with a minimum CGPA of 2.50 as accepted by the Perdana University Senate; OR  A Bachelor’s Degree (Level 6 MQF) in the Medical and Health Science field or related fields with a minimum CGPA of 2.00 (and not meeting CGPA of 2.50), and a minimum of 5 years’ working experience in the related field; OR Other equivalent qualifications recognised by the Malaysian Government. English Language Requirements A minimum IELTS score of 5.5 or equivalent for international students."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -27,6 +41,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/perdana-university-10242/master-of-science-msc-in-ageing-and-health-294946/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

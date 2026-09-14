@@ -16,7 +16,21 @@
     "currency": "MYR",
     "international_total": 66000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Requirements Academic Qualifications: A second-class honours degree (2:2) or international equivalent in a relevant subject. Non-UK qualifications will be assessed accordingly. Creative Writing Sample: Applicants must submit a sample of written work as part of the application. The university will provide full details on how and when to submit this. Institution Recognition: Applicants must hold a degree from a recognised university. While students from all academic backgrounds are considered, some programmes may require related prior study. Interview (if applicable): An interview may be required for further evaluation during the admissions process. English Language Requirements One of the following test scores is required if your previous education was not conducted in English: Note: IELTS (Academic): 6.5 overall, with no component below 6.0 TOEFL iBT: 90 overall Minimum: 19 (Writing &amp; Listening), 20 (Reading), 22 (Speaking) PTE Academic: 71 overall, with no component below 65 MUET: Band 4.5 (valid for 5 years) IELTS One Skill Retake is accepted. Online versions (IELTS Academic Online, TOEFL iBT Home Edition, PTE Academic Online) are not accepted. All other English test scores must be less than 2 years old at the time of application."
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-nottingham-malaysia-9990/ma-in-english-with-creative-writing-294911/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

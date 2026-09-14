@@ -1,0 +1,14 @@
+{
+  "programs": [
+    {
+      "slug": "foundation-in-engineering",
+      "name": "Foundation in Engineering",
+      "field": "Engineering"
+    },
+    {
+      "slug": "foundation-in-information-technology",
+      "name": "Foundation in Information Technology",
+      "field": "Information Technology"
+    }
+  ]
+}

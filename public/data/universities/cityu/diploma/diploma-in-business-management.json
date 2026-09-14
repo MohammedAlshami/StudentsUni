@@ -21,7 +21,21 @@
     "international_total": 13430,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: SPM: Pass with Minimum 3 credits equivalent qualification STPM: Pass with Minimum C GPA of 2.0 equivalent qualification STAM: Pass with Minimum Maqbul grade SKM Level 3: Pass  in relevant fields (HEP is required to implement a screening and bridging program which correspond to the program field)  CERTIFICATE: Pass in certificate (Level 3, MQF) English Requirements For International Students MUET: Min. Band 3 or CEFR equivalent (High B1) or its equivalent.  "
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/diploma-in-business-management-243150/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

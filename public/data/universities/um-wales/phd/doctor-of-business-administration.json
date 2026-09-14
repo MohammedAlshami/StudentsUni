@@ -17,7 +17,21 @@
     "currency": "MYR",
     "international_total": 17904
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: A Master’s degree (Level 7, MQF) in related fields; OR A Master’s degree in non-related fields with relevant working experience can be accepted, subject to a rigorous internal assessment; OR A Master’s degree in non-related fields without relevant working experience, subject to passing prerequisite courses; OR Other equivalent qualifications recognised by the Government of Malaysia. English Language Competency Requirements for International Students: English language requirements can be waived if the international student EITHER comes from a country that uses English as the official language OR the entry qualification use. IELTS 6.0 TOEFL 60 TOEFL Essentials (Online) 8.5 Pearson Test of English 59 Cambridge English Qualifications and Tests - B1 Preliminary, B2 First, C1 Advanced, C2 Proficiency &amp; Linguaskill Online - 169 ELS 109 Conversion from Master&#39;s to Doctoral Candidacy: Candidates with a Bachelor’s degree, registered for a Master’s degree programme, may apply to convert candidacy to a Doctoral degree programme within 1 year after registration, subject to: a. having shown competency and capability in conducting research at the Doctoral degree level; b. rigorous internal assessment by the University; and c. approval by the Senate."
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/iumw/courses/",
@@ -30,6 +44,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-malaya-wales-11602/doctor-of-business-administration-294663/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

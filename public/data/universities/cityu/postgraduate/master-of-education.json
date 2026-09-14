@@ -21,7 +21,21 @@
     "international_total": 30390,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: A Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50, as accepted by the HEP’s Senate A Bachelor’s Degree or its equivalent, not meeting CGPA of 2.50, can be accepted subject to a minimum of five (5) years working experience in a relevant field. English Requirements For International Students A minimum score of 5.0 in IELTS or Malaysian University English Test (MUET) with Band 3.5 OR its equivalent."
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/master-of-education-294565/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

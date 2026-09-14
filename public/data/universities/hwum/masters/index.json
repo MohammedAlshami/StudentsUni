@@ -1,1 +1,44 @@
-[]
+{
+  "programs": [
+    {
+      "slug": "msc-international-business-management-with-marketing",
+      "name": "MSc International Business Management with Marketing",
+      "field": ""
+    },
+    {
+      "slug": "master-of-business-administration",
+      "name": "Master of Business Administration",
+      "field": ""
+    },
+    {
+      "slug": "msc-strategic-project-management",
+      "name": "MSc Strategic Project Management",
+      "field": ""
+    },
+    {
+      "slug": "msc-international-business-management-with-finance",
+      "name": "MSc International Business Management with Finance",
+      "field": ""
+    },
+    {
+      "slug": "msc-business-strategy-leadership-and-change",
+      "name": "MSc Business Strategy, Leadership and Change",
+      "field": ""
+    },
+    {
+      "slug": "msc-petroleum-engineering",
+      "name": "MSc Petroleum Engineering",
+      "field": ""
+    },
+    {
+      "slug": "msc-renewable-energy-engineering",
+      "name": "MSc Renewable Energy Engineering",
+      "field": ""
+    },
+    {
+      "slug": "msc-advanced-mechanical-engineering",
+      "name": "MSc Advanced Mechanical Engineering",
+      "field": ""
+    }
+  ]
+}

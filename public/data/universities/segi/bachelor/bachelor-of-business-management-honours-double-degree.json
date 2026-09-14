@@ -20,7 +20,8 @@
     "international_total": 15955
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: STPM with a minimum. Grade C (CGPA 2.0) in any 2 subjects, and a pass in Mathematics and English at SPM level, or any equivalent qualifications STAM with a minimum. grade of Jayyid, and a pass in Mathematics and English at SPM level Any Diploma or Advanced Diploma (Level 4 or 5, MQF) Matriculation/Foundation qualification with a minimum. CGPA of 2.00 out of 4.00, or any equivalent qualifications English Proficiency Requirements (International students): IELTS score of 5.5 OR its equivalent NOTE: The requirement to pass Mathematics and English subjects at SPM level for STPM and STAM candidates can be waived should the qualifications contain Mathematics and English subjects with equivalent/ higher achievements. The English proficiency requirement is exempted for international students if the student has an academic qualification from an institution where English is used as a medium of instruction OR The student is from a country where English is an official language"
   },
   "accreditation": null,
   "sources": [
@@ -34,6 +35,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/bachelor-of-business-management-hons-267668/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

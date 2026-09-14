@@ -20,7 +20,21 @@
     "currency": "MYR",
     "international_total": 22691
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "  Foundation : minimum CGPA of 2.0 in Technical or Science Stream Diploma / Advanced Diploma / Degree : A minimum CGPA of 2.0 in a related field • The amount of credit transfer given is subjected to the school’s discretion after reviewing the programme, transcript, and syllabus. • The maximum credit transfer available depends on the limits set by the programme accreditation body (EAC). STPM : Pass STPM and minimum Grade C in Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) A-Level : Pass A-Level and minimum Grade C in Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) UEC : Minimum five (5) subjects at Grade B including Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) SACE : A minimum ATAR of 60 and pass in Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) Local Matriculation : Pass Matriculation and a minimum CGPA of 2.0 in Technical or Science Stream NSW(HSC) : A minimum ATAR of 60 and pass 10 units including Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) Australian Matriculation (AUSMAT) : A minimum ATAR of 60 and pass in Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) Ontario Secondary School Diploma / Canadian Pre-University (CPU) : A minimum average of 60 and pass in Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) Others : Other equivalent qualifications as recognised by the government of Malaysia"
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "faculty": "Engineering, Technology & Quantity Surveying",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/inti-international-university-10208/bachelor-of-mechanical-engineering-hons-242946/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

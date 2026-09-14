@@ -19,7 +19,21 @@
     "currency": "MYR",
     "international_total": 27565
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements STPM (science stream) : Pass with a minimum CGPA of 2.50 and above STPM (arts stream) : Pass with a minimum CGPA of 2.50 and above and credit in Mathematics and 2 Science subjects at SPM level STAM : Pass with minimum Grade Jayyid and credit** in Mathematics and 2 Science subjects at SPM level Matriculation/Foundation : Completion of Foundation Programme (Science) or TCM related areas with a minimum of CGPA 2.50 and above. Completion of Foundation in other fields with a minimum of CGPA 2.50 and above and credit in Mathematics and 2 Science subjects at SPM level Diploma : Minimum CGPA of 2.5 and above in TCM related areas or any Science related; OR CGPA of 2.00 and above but less than 2.50 can be accepted with minimum 2 years working experience in relevant TCM or Science related field English Language Requirements (International Students) MUET Band 3.5 or equivalent Note: Students are required to sit for a Mandarin Challenge Test **the credit requirements for Mathematics and Science subjects can be waived should students hold any other higher qualifications which contain Mathematics and Science subjects with equivalent/ higher achievement  "
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "faculty": "Health Sciences",
@@ -34,6 +48,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/inti-international-university-10208/bachelor-of-traditional-chinese-medicine-hons-294286/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

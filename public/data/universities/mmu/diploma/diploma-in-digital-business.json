@@ -27,7 +27,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry requirements: Pass SPM/O-Level or its equivalent with a minimum of Credit in at least three (3) subjects, and at least a Pass in English; OR Pass STPM or its equivalent with a minimum of Grade C (GP 2.00) in any subject AND a Pass in English at SPM Level or its equivalent; OR Pass STAM with a minimum Grade of Maqbul (Pass) AND a Pass in English at SPM Level or its equivalent; OR Pass UEC with a minimum of Grade B in at least three (3) subjects and at least a Pass in English; OR Pass SKM (Level 3, MQF) in a related field; OR A Certificate (Level 3, MQF) in the related field with at least CGPA of 2.00; OR Possess an APEL.A certificate from MQA for admission into Diploma programmes. Note: Upon completing the diploma programme, students who intend to pursue their studies in MMU will need to meet the entry requirements of the bachelor’s degree programme of their choice."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -48,6 +49,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-melaka-224/diploma-in-digital-business-293177/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "medium",

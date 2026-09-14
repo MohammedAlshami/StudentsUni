@@ -23,7 +23,21 @@
     "per_year_international": 28677,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: Bachelor&#39;s Degree (Tier 1): A Bachelor&#39;s Degree in the field or related fields or its equivalent, with a minimum CGPA of 2.75, as accepted by the HEP&#39;s Senate Bachelor&#39;s Degree (Tier 2): A Bachelor’s Degree in the field or related fields or its equivalent, with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment; OR Bachelor&#39;s Degree (Tier 3): A Bachelor&#39;s Degree in the field or related fields or its equivalent, not meeting CGPA of 2.50, can be accepted subject to a minimum of five (5) years working experience in a relevant field. Students without a qualification in the related field but with relevant working experience requires to fulfil the following conditions: CGPA above 2.50 must have at least one (1) year of relevant working experience; or CGPA 2.00 to 2.50 must have at least five (5) years of relevant working experience; In addition, students will need to undergo a rigorous internal assessment English Requirements for International students: IELTS 6.0 / TOEFL 60 (Internet Based Test) (May join IEN preparatory course and achieve the IELTS score).  Notes: Students without a qualification in the related fields or relevant working experience requires to undergo and pass a bridging module. Any of the above conditions would require student&#39;s research proposal to be approved."
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-research/master-of-education.html",
@@ -37,6 +51,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/master-of-education-293115/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

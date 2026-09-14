@@ -17,7 +17,21 @@
     "international_total": 30900,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Academic Requirements Pass SPM/O-Level with 5Cs in Mathematics, English, 2 Science subjects** and 1 other subject. **Science subjects: Biology/Chemistry/Physics   English Proficiency Requirements: Malaysian Student: Overall band score of 5.0 (for those who did not obtain a Credit in English at SPM/O-Level) International Student: Overall band score of 5.0"
+  },
   "accreditation": null,
   "sources": [
     {
@@ -28,6 +42,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/international-medical-university-imu-10211/foundation-in-science-269606/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

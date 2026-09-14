@@ -1,0 +1,74 @@
+{
+  "programs": [
+    {
+      "slug": "master-arts-chinese-studies",
+      "name": "Master of Arts in Chinese Studies",
+      "field": "Arts & Social Sciences"
+    },
+    {
+      "slug": "master-business-administration",
+      "name": "Master of Business Administration",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "master-chemical-engineering-research",
+      "name": "Master in Chemical Engineering (Research Mode)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-communication-culture",
+      "name": "Master of Communication and Culture",
+      "field": "Communication & Media"
+    },
+    {
+      "slug": "master-economics-finance",
+      "name": "Master of Economics in Finance",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "master-intellectual-property",
+      "name": "Master of Intellectual Property",
+      "field": "Law"
+    },
+    {
+      "slug": "master-new-energy-science-engineering",
+      "name": "Master in New Energy Science and Engineering",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-science-chemical-engineering-mixed",
+      "name": "Master of Science in Chemical Engineering (Mixed Mode)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-science-computer-science-technology",
+      "name": "Master of Science in Computer Science and Technology",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "master-science-electrical-electronic-engineering",
+      "name": "Master of Science in Electrical and Electronic Engineering",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-science-marine-biotechnology",
+      "name": "Master of Science in Marine Biotechnology",
+      "field": "Science"
+    },
+    {
+      "slug": "master-science-mathematics-applied-mathematics",
+      "name": "Master of Science in Mathematics and Applied Mathematics",
+      "field": "Science"
+    },
+    {
+      "slug": "master-science-physics",
+      "name": "Master of Science in Physics",
+      "field": "Science"
+    },
+    {
+      "slug": "master-semiconductor-technology",
+      "name": "Master in Semiconductor Technology",
+      "field": "Engineering"
+    }
+  ]
+}

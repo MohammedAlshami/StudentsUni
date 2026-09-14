@@ -20,7 +20,8 @@
     "international_total": 16055
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any of these: A-Levels/STPM with a minimum of 2 principal passes Related foundation/diploma with at least CGPA 2.0 Any equivalent qualifications"
   },
   "accreditation": null,
   "sources": [
@@ -34,6 +35,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/bachelor-of-hospitality-management-hons-226307/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

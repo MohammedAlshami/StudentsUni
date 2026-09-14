@@ -17,7 +17,21 @@
     "international_total": 15146,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "The programme is accessible to a wide range of applicants, with various pathways for admission: Pass Malaysian Certificate of Education (Sijil Pelajaran Malaysia – SPM) with at least credit in THREE subjects; OR Possesses SKM Level 3 in the related field; OR A Certificate (Level 3, MQF) in the related field with at least a CGPA of 2.00; OR A pass in Malaysian Higher School Certificate (Sijil Tinggi Pelajaran Malaysia- STPM) with at least grade C (GP 2.0) in any subject; OR A pass in Malaysian Higher Religious Certificate (Sijil Tinggi Agama Malaysia – STAM) with at least a Maqbul Grade; OR Other equivalent qualifications recognised by the Malaysian Government International students Pass IGCSE O-level or equivalent with at least grade &#34;C&#34; in THREE subjects"
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-selangor-unisel-12328/diploma-in-business-management-294157/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

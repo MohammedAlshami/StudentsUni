@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Bachelor’s degree (Level 6, MQF) in a related field: Pass with a minimum CGPA of 2.50ORPass with a minimum CGPA of 2.00-2.50 may require an internal assessment; OR Bachelor&#39;s degree (Level 6, MQF) in a non-related field Pass with a minimum CGPA of 2.00 with relevant working experiences may require an internal assessment OR Pass with a minimum CGPA of 2.00 and without relevant working experience, may require to pass prerequisite courses English Language Requirements (for International Students) MUET: 4.0 IELTS: 6.0 TOEFL: 8.5 (Ess OL) / 60 (iBT) Pearson: 59 Linguaskill: 169"
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/nilai-university-226/master-of-business-administration-mba-banking-finance-226340/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

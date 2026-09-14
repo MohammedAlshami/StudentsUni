@@ -17,7 +17,21 @@
     "international_total": 9471,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Pass in Sijil Tinggi Persekolahan Malaysia (STPM) or equivalent with at least Grade C (NGMP 2.0) in two (2) subjects and passed Mathematics and English at SPM level; or Pass in the Unified Examination Certificate (UEC) with at least Grade B in five (5) subjects and passed subjects including Mathematics and English; or Pass in Matriculation/ Foundation/ Foundation from IPTA/ IPTS with at least CGPA 2.00 out of 4.00 or equivalent qualification; or Qualification equivalent to a Diploma or Advanced Diploma (Level 4 or 5, MQF) with a minimum CGPA of 2.00; or APEL Pathway – Candidates must be 21 years of age or older in the year the application is made, have relevant work experience to PASS the APEL assessment conducted by MQA (HEP is subject to the APEL student intake quota policy which is a maximum of 5% of the total student population at a time); or Other qualifications recognized as equivalent by the Malaysian government. English Profiency Requirements (International Students): International students must obtain a score of 5.5 for the International English Language Testing System (IELTS) or equivalent. If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the program."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/bachelor-hons-in-business-administration-293902/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

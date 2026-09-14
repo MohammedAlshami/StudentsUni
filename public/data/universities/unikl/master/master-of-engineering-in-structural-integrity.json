@@ -5,13 +5,34 @@
   "program_name": "Master of Engineering in Structural Integrity",
   "program_slug": "master-of-engineering-in-structural-integrity",
   "field": "Engineering",
-  "duration": null,
+  "duration": "18 months",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students   A Bachelor Degree in Engineering Technology or Bachelor Degree from Universiti Kuala Lumpur with minimum CGPA of 2.5 or; A Bachelor Degree in related sciences or technical field with minimum CGPA of 2.5 from local or overseas university as approved by Senate, Universiti Kuala Lumpur, or; A Bachelor Degree in related sciences or technical field with CGPA less than 2.5 and 5 years relevant working experience as approved by Senate, Universiti Kuala Lumpur. For International Students Bachelor&#39;s in Engineering or equivalent from Universiti Kuala Lumpur with CGPA of 2.50; OR Bachelor&#39;s in related sciences or technical fields with CGPA of 2.50 from approved universities; OR CGPA below 2.50 may be accepted with 5 years of relevant work experience. IELTS 5.0, TOEFL 500 or equivalent.  "
+  },
   "accreditation": null,
-  "sources": ["https://www.unikl.edu.my/postgraduate-admission/"],
+  "sources": [
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-engineering-in-structural-integrity-293780/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
   "confidence": "high",
   "last_updated": "2026-09-14"
 }

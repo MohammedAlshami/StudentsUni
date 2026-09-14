@@ -10,13 +10,34 @@
   "intakes": null,
   "fees": {
     "local": "RM50,800.00",
-    "international": "RM54,200.00"
+    "international": "RM54,200.00",
+    "local_total": 49200,
+    "international_total": 52600
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "SPM 3 Credits in at least 3 subjects at SPM level including Mathematics and any Science Subject (Science, Physics, Chemistry, or Biology) with a minimum of a pass in Bahasa Malaysia, Sejarah (History) and English IGCSE/O-Level 3 Credits (Grade C &amp; above) in at least 3 subjects at IGCSE/ O-Levels including Mathematics and any Science Subjects (Science, Physics, Chemistry, or Biology) with a minimum Pass in English at SPM/ O-Level/ IGCSE UEC 3 Credit (Grade B &amp; above) in at least 3 subjects in UEC including Mathematics and any Science subject (Science, Physics, Chemistry, or Biology) with a Pass in English STPM Pass Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent with a pass in Mathematics, English and ONE (1) relevant science/technical/vocational subject at the SPM level Certificate Recognised Certificate in Engineering/Engineering Technology or its equivalent; Recognised related Vocational and Technical/ Skills Certificate or its equivalent with ONE (1) year of relevant work experience or a minimum of ONE (1) semester of a bridging programme  Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the &#34;Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent)&#34; published by Malaysian Qualifications Agency (MQA).     English Requirements (International Students) IELTS : 5.0 TOEFL IBT : 40 Pearson (PTE) : 47 MUET : Band 3.5"
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/diploma-in-mechatronic-engineering",
-    "https://www.studymalaysia.com/what/course/APU/0058239/"
+    "https://www.studymalaysia.com/what/course/APU/0058239/",
+    {
+      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/diploma-in-mechatronic-engineering-293247/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.9,
   "last_updated": "2026-09-14"

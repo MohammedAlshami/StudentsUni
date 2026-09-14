@@ -25,7 +25,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "A Bachelor’s degree (Level 6, MQF) in the field or related fields with a minimum CGPA of 2.75 or equivalent, as accepted by the HEP Senate; or A Bachelor’s degree (Level 6, MQF) in the field or related fields with a minimum CGPA of 2.50 and not meeting CGPA of 2.75 or equivalent, can be accepted subject to rigorous internal assessment; or A Bachelor’s degree in the field or related fields with minimum CGPA of 2.00 and not meeting CGPA of 2.50 or equivalent, can be accepted subject to a minimum of 5 years working experience in the relevant field and rigorous internal assessment; or A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.50 or equivalent, as accepted by the HEP Senate, subject to having relevant working experience and rigorous internal assessment; or A Bachelor’s degree in non-related field with minimum CGPA of 2.00 and not meeting CGPA of 2.50 or equivalent, can be accepted subject to a minimum of 5 years working experience in the relevant field and rigorous internal assessment; or A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 or equivalent, as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; or Other qualifications equivalent to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government. English Entry Requirement: a minimum IELTS overall band score of 6.0 ; or a minimum overall TOEFL iBT score of 60 ; or a minimum MUET overall band score of 4 ; or a minimum Pearson Test of English score of 59 ; or a minimum Cambridge Qualifications and Test score of 169; or a minimum Linguaskill overall band score of 169"
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -61,6 +62,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/mphil-management-research-27292/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

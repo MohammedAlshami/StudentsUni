@@ -21,7 +21,21 @@
     "international_total": 19410,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: Matriculation/Foundation – minimum CGPA of 2.0 in relevant fields as recognized by the MOHE or its equivalent. DVM / DKM / DLKM – passed in relevant fields and undergo a screening and bridging program. Diploma – minimum CGPA of 2.0 in relevant field or it’s equivalent. A-Levels – Grade D in two subjects or it’s equivalent. UEC – minimum of 5 B’s including requisite subject. STPM – Grade C (GPA 2.0) in two subjects or it’s equivalent. STAM – minimum grade of Jayyid. 12 years of schooling – passed the exit qualification in the country of origin including requisite subject. English Requirements For International Students IELTS 5.0 or equivalent"
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/bachelor-of-communication-journalism-243166/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

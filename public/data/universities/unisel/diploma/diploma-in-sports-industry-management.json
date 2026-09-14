@@ -17,7 +17,21 @@
     "international_total": 12235,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Passed SPM/SPMV with at least 3 credits in any subject, or Passed STAM (Maqbul), or Passed STPM with a minimum of 1 &#39;C&#39;, or Passed O-Level with a minimum of 3 &#39;C&#39;, or Passed SKM (Level 3) and SPM with a minimum of 1 credit, or Passed Community College Certificate (Level 3 equivalent) and SPM with a minimum of 1 credit, or Passed UEC with a minimum of 3 &#39;B&#39;, or Passed any Certificate (Level 3, MQF) with a minimum CGPA of 2.00, or Any accredited or recognized qualifications that are equivalent to the above."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-selangor-unisel-12328/diploma-in-sports-industry-management-294154/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

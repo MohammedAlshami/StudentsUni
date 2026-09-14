@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirments Any one of the following: Pass Foundation/Matriculation studies from a recognised institution with a minimum CGPA of 2.50 AND a Credit in Mathematics AND a Pass in English at SPM Level or its equivalent;  Pass STPM or its equivalent with a minimum Grade C+ (GP 2.33) in 2 subjects AND a Credit in Mathematics AND a Pass in English at SPM Level or its equivalent;  Pass A-Level with a minimum of Grade D in 2 subjects AND a Credit in Mathematics AND a Pass in English at SPM Level or its equivalent; OR Pass UEC with a minimum of Grade B in at least five 5) subjects inclusive of Mathematics and English;  Pass STAM with a minimum Grade Jayyid (Good) in 2 subjects AND a Credit in Mathematic AND a Pass in English at SPM Level or its equivalent;  Any qualification equivalent to Diploma in Finance, Banking, Insurance or related field (Level 4, MQF) with a minimum CGPA of 2.50 out of 4.00;  Pass DKM /DLKM/DVM with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 MUST have at least two (2) years of work experience in the related field.*;  Possess an APEL.A certificate from MQA for admission into Bachelor programmes. For more information, please visit https://mmu.edu.my/apel-a Note: The Credit requirement for Mathematics and Pass in English at SPM Level for candidate in category (i), (ii), (iii) and (v) can be waived should the qualifications contain Mathematics and English subjects with equivalent higher achievement. *DKM /DLKM/DVM candidates may be required to undergo Bridging Programme as an additional requirement."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/bachelor-of-finance-hons-294507/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

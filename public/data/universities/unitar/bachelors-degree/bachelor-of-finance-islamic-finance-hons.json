@@ -19,7 +19,21 @@
     "currency": "MYR",
     "international_total": 23750
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "You must meet the following requirements in order to be considered for entry to the UNITAR Bachelor’s Programme: Pass Sijil Tinggi Persekolahan Malaysia (STPM) with at least Grade C+ (CGPA 2.33) in any two (2) subjects; and credit Mathematics and pass in English in SPM; OR Pass Sijil Tinggi Agama Malaysia (STAM) with a minimum Grade of Jayyid and credit Mathematics and pass in English in SPM; OR Pass Diploma in Finance, Diploma in Banking, Diploma in Insurance or related programme (Level 4, MQF) with minimum CGPA of 2.50; OR Pass Matriculation/Foundation with a minimum CGPA of 2.50 and credit Mathematics pass in English at SPM; OR Pass Businesses and Technology Education Council (BTEC) Level 4 &amp; 5 and pass Sijil Pelajaran Malaysia (SPM) with at least three (3) credits in any subjects (or it’s equivalent); OR Any other equivalent qualifications recognized by the Malaysian Government; Language Requirements International Students  IELTS score of 6.0 OR its equivalent."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0006271/",
@@ -27,6 +41,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/bachelor-of-finance-fintech-honours-294052/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

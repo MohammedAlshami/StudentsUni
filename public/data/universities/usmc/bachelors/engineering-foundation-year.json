@@ -1,0 +1,43 @@
+{
+  "program_name": "Business Foundation Year",
+  "field": "",
+  "duration": "1 year",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 26200,
+    "international_total": 31440,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "IGCSE/SPM: BCCCC in 5 subjects: Minimum Grade B in Mathematics Grade C in remaining subjects Excludes: Moral Studies, Religious Studies English Language Requirements IELTS: 5.5 overall (minimum 5.5 in each component) Equivalents: SPM 1119 English: Grade C UEC English: B4"
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-southampton-malaysia-10226/business-foundation-year-292768/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

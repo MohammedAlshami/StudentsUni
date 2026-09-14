@@ -17,7 +17,21 @@
     "currency": "MYR",
     "international_total": 44300
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: A bachelor’s degree in Pharmacy (Bachelor&#39;s Degree Level): A bachelor’s degree in Pharmacy with a minimum CGPA of 2.50 or equivalent, as accepted by the University; or A bachelor’s degree in Pharmacy or equivalent (Bachelor&#39;s Degree Level): A bachelor’s degree in Pharmacy or equivalent with minimum CGPA between 2.00 and 2.50 can be accepted subject to rigorous internal assessment. English Proficiency (For International Students): Minimum TOEFL score of 550 (PBT) or 80 (IBT) or Minimum IELTS score of 6.0 or any other equivalent qualification recognised by the Malaysian government, acceptable to the University."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0055134/",
@@ -30,6 +44,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/master-in-clinical-pharmacy-278787/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

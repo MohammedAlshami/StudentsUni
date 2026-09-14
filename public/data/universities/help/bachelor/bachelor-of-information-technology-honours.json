@@ -20,7 +20,21 @@
     "currency": "MYR",
     "international_total": 26650
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Requirements A pass in STPM with a minimum grade of C (CGPA 2.00) in any TWO (2) subjects or any equivalent qualification and a credit in Mathematics at SPM level or its equivalent; OR A pass in STAM with a minimum grade of Jayyid in any TWO (2) subjects (including a credit in Mathematics at SPM level or its equivalent); OR A pass in Matriculation or Foundation studies with a minimum CGPA of 2.00 and a credit in Mathematics at SPM level or its equivalent; OR Diploma in Computing (Level 4, MQF) or equivalent with a minimum CGPA of 2.50; OR Any Diploma in Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75; OR Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in Computing fields with a minimum CGPA of 2.50, subject to HEP Senate / Academic Board’s approval; OR Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing fields with a minimum CGPA of 2.50, subject to HEP Senate / Academic Board’s approval. Notes: Candidates for categories (iv) until (vii) with a CGPA below 2.75 but more than 2.00 may be admitted subject to a thorough internal evaluation process.        "
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058730/",
@@ -34,6 +48,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-of-information-technology-hons-data-analytics-294030/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

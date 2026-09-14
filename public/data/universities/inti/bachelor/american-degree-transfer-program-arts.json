@@ -11,15 +11,36 @@
   "intakes": null,
   "fees": {
     "local": "Refer to website",
-    "international": "Refer to website"
+    "international": "Refer to website",
+    "local_total": 44380,
+    "international_total": 44380
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: SPM / O-LEVEL: Pass with 5 credits Unified Examination Certificate (UEC): 5Bs STPM / A-LEVEL: 2 Passes or CGPA 2.0 FOUNDATION: Having successfully completed the recognised Foundation Program SACE INTERNATIONAL(formerly known as South Australian Matriculation): 5 subjects with ATAR of 55 (equivalent to TER of 55) HIGH SCHOOL CERTIFICATE (HSC): Minimum 10 units with ATAR 55, no subjects below 50 CANADIAN PRE-UNIVERSITY: Pass 6 subjects with average 55 AUSTRALIAN YEAR 12: Average 55 NEW SOUTH WALES HIGHER SCHOOL CERTIFICATE: Pass in 5 subjects Diploma: Having successfully completed recognised Diplomas with CGPA 2.0 English Language Requirements: Student who failed to obtain a credit in SPM/O-Levels/UEC English or IELTS band below 5.5 are required to sit for English Placement Test (EPT). Failing to pass EPT, the student is required to take ENL099 (Fundamentals of Writing) and up to 2 MPU courses Student is required to pass ENL099 before enrolling for AUP courses. ENL099 credits will not be counted for credit transfer."
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "major_options": "Business, Computer Science, Mass Communication, Psychology, etc.",
   "faculty": "American Degree Transfer Program",
   "sources": [
-    "https://studymalaysia.com/what/course/INTI/0009951/"
+    "https://studymalaysia.com/what/course/INTI/0009951/",
+    {
+      "url": "https://www.easyuni.my/malaysia/inti-international-college-subang-202/american-degree-transfer-program-268263/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "high",
   "last_updated": "2026-09-14"

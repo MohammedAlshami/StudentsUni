@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "STPM Pass with a minimum Grade C (GPA 2.00) in any two (2) subjects and a credit in Mathematics at SPM level or its equivalent. A-Level Pass with a minimum Grade D in any two (2) subjects and a credit in Mathematics at SPM level or its equivalent. UEC Pass with at least Grade B in any five (5) subjects and a credit in Mathematics at SPM level or its equivalent. STAM Pass with a minimum Grade Jayyid in any two (2) subjects and a credit in Mathematics at SPM level or its equivalent. Foundation / Matriculation Pass in Matriculation or Foundation studies with a minimum CGPA of 2.00 and a credit in Mathematics at SPM level or its equivalent. Diploma in Computing Fields (Level 4, MQF) or Equivalent Pass with a minimum CGPA of 2.50. Candidates with a CGPA below 2.50 may need to undergo an internal interview. Diploma in Non-Computing Fields (Level 4, MQF) or Equivalent Pass with a minimum CGPA of 2.75 and a credit in Mathematics at SPM level or its equivalent. Candidates with a CGPA below 2.75 but more than 2.50 may need to undergo an internal interview. Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) / Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing Fields Pass with a minimum CGPA of 2.50. English Language Requirements (for International Students) MUET: Minimum 3.5 IELTS: Minimum 5.0 TOEFL: Ess Online: Minimum 7.5 iBT: Minimum 40 Pearson: Minimum 47 Linguaskill OL: Minimum 154 ELS: Minimum 107 Exemptions: International students with qualifications from educational systems where English is the main medium of instruction are exempt from this requirement. Additional Option: International students who do not fulfill the English Language Requirements may join the Intensive English Programme at Nilai University, which builds their skills and prepares them for the IELTS examination."
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/nilai-university-226/bachelor-of-information-technology-hons-226367/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

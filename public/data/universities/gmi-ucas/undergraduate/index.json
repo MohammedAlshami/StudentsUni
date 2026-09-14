@@ -1,0 +1,84 @@
+{
+  "programs": [
+    {
+      "slug": "bachelor-electrical-engineering-technology",
+      "name": "Bachelor Electrical Engineering Technology (BELT)",
+      "field": "Electrical Engineering"
+    },
+    {
+      "slug": "diploma-in-autotronics-engineering-technology",
+      "name": "Diploma in Autotronics Engineering Technology",
+      "field": "Electrical Engineering"
+    },
+    {
+      "slug": "diploma-in-creative-multimedia",
+      "name": "Diploma in Creative Multimedia",
+      "field": "Computer and Information"
+    },
+    {
+      "slug": "diploma-in-cyber-security-technology",
+      "name": "Diploma in Cyber Security Technology",
+      "field": "Computer and Information"
+    },
+    {
+      "slug": "diploma-in-engineering-technology-industrial-design",
+      "name": "Diploma in Engineering Technology (Industrial Design)",
+      "field": "Mechanical Engineering"
+    },
+    {
+      "slug": "diploma-in-engineering-technology-machine-tools-maintenance",
+      "name": "Diploma in Engineering Technology (Machine Tools Maintenance)",
+      "field": "Mechanical Engineering"
+    },
+    {
+      "slug": "diploma-in-engineering-technology-sustainable-energy",
+      "name": "Diploma in Engineering Technology (Sustainable Energy and Power Distribution)",
+      "field": "Electrical Engineering"
+    },
+    {
+      "slug": "diploma-in-industrial-quality-engineering-technology",
+      "name": "Diploma in Industrial Quality Engineering Technology",
+      "field": "Mechanical Engineering"
+    },
+    {
+      "slug": "diploma-in-innovative-product-design-engineering-technology",
+      "name": "Diploma in Innovative Product Design Engineering Technology",
+      "field": "Mechanical Engineering"
+    },
+    {
+      "slug": "diploma-in-precision-tooling-engineering-technology",
+      "name": "Diploma in Precision Tooling Engineering Technology",
+      "field": "Mechanical Engineering"
+    },
+    {
+      "slug": "diploma-in-software-engineering",
+      "name": "Diploma in Software Engineering",
+      "field": "Computer and Information"
+    },
+    {
+      "slug": "diploma-of-electronics-engineering-technology-computer",
+      "name": "Diploma of Electronics Engineering Technology (Computer)",
+      "field": "Electrical Engineering"
+    },
+    {
+      "slug": "diploma-of-engineering-technology-instrumentation-control",
+      "name": "Diploma of Engineering Technology (Instrumentation and Control)",
+      "field": "Electrical Engineering"
+    },
+    {
+      "slug": "diploma-of-mechanical-engineering-technology-cnc-precision",
+      "name": "Diploma of Mechanical Engineering Technology (CNC Precision)",
+      "field": "Mechanical Engineering"
+    },
+    {
+      "slug": "diploma-of-mechanical-engineering-technology-manufacturing",
+      "name": "Diploma of Mechanical Engineering Technology (Manufacturing)",
+      "field": "Mechanical Engineering"
+    },
+    {
+      "slug": "diploma-of-mechatronics-engineering-technology",
+      "name": "Diploma of Mechatronics Engineering Technology",
+      "field": "Electrical Engineering"
+    }
+  ]
+}

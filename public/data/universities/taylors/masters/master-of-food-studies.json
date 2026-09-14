@@ -21,7 +21,21 @@
     "international_total": 102858,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: BACHELOR&#39;S DEGREE TIER 1 A Bachelor’s Degree (Level 6, MQF) in the field or related fields with a minimum CGPA of 2.75 or its equivalent, as accepted by the Senate. BACHELOR&#39;S DEGREE TIER 2 A Bachelor’s Degree (Level 6, MQF) in the field or related fields or its equivalent with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted subject to rigorous internal assessment. BACHELOR&#39;S DEGREE TIER 3 A Bachelor’s Degree (Level 6, MQF) in the field or related fields or its equivalent but not meeting a CGPA of 2.50 can be accepted subject to a minimum of five (5) years working experience in a related field. English Requirements For International Students: IELTS 6.0 / TOEFL 60 (Internet-Based Test) May join IEN preparatory course and achieve the IELTS score The validity of IELTS or equivalent is within 2 years from the examination date              "
+  },
   "accreditation": null,
   "sources": [
     {
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/master-of-food-studies-293128/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

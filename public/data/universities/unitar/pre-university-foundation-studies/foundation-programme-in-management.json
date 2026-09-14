@@ -21,7 +21,21 @@
     "per_year_local": 7280,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "You must meet the following requirements to be considered for entry to the UNITAR Foundation Programme: Pass SPM or its equivalent, with at least five (5) credits in any subjects; ​OR​ Pass UEC with a minimum of Grade B in three (3) subjects; OR Pass O-Level with a minimum of Grade C in five (5) subjects; OR Any other equivalent qualifications recognised by the Malaysian Government."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0008934/",
@@ -34,6 +48,11 @@
       "url": "https://studymalaysia.com/edu/unitar/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/foundation-in-management-264598/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

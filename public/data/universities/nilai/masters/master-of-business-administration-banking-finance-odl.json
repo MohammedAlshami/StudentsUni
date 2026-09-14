@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Bachelor’s Degree (Level 6, MQF) in a Related Field: Pass with a minimum CGPA of 2.50 out of 4.00 or A pass with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted subject to an internal evaluation/interview. Bachelor’s Degree (Level 6, MQF) in a Non-Related Field: Pass with a minimum CGPA of 2.00 and with related working experience, subject to an internal evaluation/interview or Pass with a minimum CGPA of 2.00 and without relevant working experience, subject to passing of prerequisite courses. Other Equivalent/Related Qualifications to a Bachelor’s Degree (Level 6, MQF) as Recognized by the Malaysian Government: Equivalent qualifications to be evaluated for recognition. English Language Requirements (for International Students): MUET: Minimum band 4.0 IELTS: Minimum score 6.0 TOEFL (Ess OL): Minimum score 8.5 TOEFL (iBT): Minimum score 60 Pearson: Minimum score 59 Linguaskill Online: Minimum score 169 OET: Minimum score 250 ELS: Minimum score 109"
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/nilai-university-226/master-of-business-administration-odl-294349/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

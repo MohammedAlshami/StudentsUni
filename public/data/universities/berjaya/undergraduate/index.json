@@ -1,0 +1,94 @@
+{
+  "programs": [
+    {
+      "slug": "bachelor-in-accounting-and-finance-hons",
+      "name": "Bachelor in Accounting and Finance (Honours)",
+      "field": "Accounting and Finance"
+    },
+    {
+      "slug": "bachelor-of-business-management-hons",
+      "name": "Bachelor of Business Management (Honours)",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-communication-hons",
+      "name": "Bachelor of Communication (Honours)",
+      "field": "Communication"
+    },
+    {
+      "slug": "bachelor-of-culinary-arts-management-hons",
+      "name": "Bachelor of Culinary Arts Management (Honours)",
+      "field": "Culinary Arts"
+    },
+    {
+      "slug": "bachelor-of-events-management-hons",
+      "name": "Bachelor of Events Management (Honours)",
+      "field": "Events Management"
+    },
+    {
+      "slug": "bachelor-of-hospitality-management-hons",
+      "name": "Bachelor of Hospitality Management (Honours)",
+      "field": "Hospitality"
+    },
+    {
+      "slug": "bachelor-of-retail-management-hons",
+      "name": "Bachelor of Retail Management (Honours)",
+      "field": "Retail Management"
+    },
+    {
+      "slug": "bachelor-of-tourism-management-hons",
+      "name": "Bachelor of Tourism Management (Honours)",
+      "field": "Tourism"
+    },
+    {
+      "slug": "diploma-in-aviation-management",
+      "name": "Diploma in Aviation Management",
+      "field": "Aviation"
+    },
+    {
+      "slug": "diploma-in-business-management",
+      "name": "Diploma in Business Management",
+      "field": "Business"
+    },
+    {
+      "slug": "diploma-in-culinary-arts",
+      "name": "Diploma in Culinary Arts",
+      "field": "Culinary Arts"
+    },
+    {
+      "slug": "diploma-in-events-management",
+      "name": "Diploma in Events Management",
+      "field": "Events Management"
+    },
+    {
+      "slug": "diploma-in-heritage-cuisine",
+      "name": "Diploma in Heritage Cuisine",
+      "field": "Culinary Arts"
+    },
+    {
+      "slug": "diploma-in-hotel-management",
+      "name": "Diploma in Hotel Management",
+      "field": "Hospitality"
+    },
+    {
+      "slug": "diploma-in-patisserie",
+      "name": "Diploma in Patisserie",
+      "field": "Culinary Arts"
+    },
+    {
+      "slug": "diploma-in-public-relations",
+      "name": "Diploma in Public Relations",
+      "field": "Communication"
+    },
+    {
+      "slug": "diploma-in-retail-management",
+      "name": "Diploma in Retail Management",
+      "field": "Business"
+    },
+    {
+      "slug": "diploma-in-tourism-and-travel-management",
+      "name": "Diploma in Tourism and Travel Management",
+      "field": "Tourism"
+    }
+  ]
+}

@@ -11,9 +11,25 @@
   "fees": {
     "local": "RM37,500.00",
     "international": "RM64,900.00",
-    "currency": "MYR"
+    "currency": "MYR",
+    "local_total": 37500,
+    "international_total": 64900
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "(1) STPM - Grade C in 2 relevant subjects listed in Schedule A (2) A Level - Grade D in 2 relevant subjects listed in Schedule A (3) UEC - Grade B in 5 relevant subjects listed in Schedule A (4) Other IHL - RelevantFoundation/ Diploma accredited by MQA (5) TAR UC - Foundation in Arts (Track A) OR Relevant Diploma Compulsory subjects: i) (1), (2), (3) and (4) must include SPM Credit/O Level Grade C/UEC Grade B in one mathematics subject# ii) (1), (2), (3) and (4) must include SPM Credit/O Level Grade C/UEC Grade B in English Language and Bahasa Melayu/Malay Language AND Pass in Portfolio Interview conducted by TAR UC. #Grade B and above in AMMS0104 General Mathematics conducted by TAR UC is accepted as having fulfilled the Mathematics requirement for applicants with a pass in SPM/Grade D or Grade E (pass) in O Level/Grade C in UEC in the required Mathematics subject. Note: a) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. b) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. c) Subject to the Ministry of Higher Education latest requirements."
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -26,6 +42,11 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/bachelor-of-science-in-architecture-honours-293135/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": 0.85,

@@ -27,8 +27,28 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-of-management-hons-226579/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-14",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Requirements A pass in STPM with at least Grade C (GP 2.0) in any TWO subjects* A pass in STAM with at least Grade Jayyid* Matriculation or Foundation with at least CGPA of 2.00 A Diploma (Level 4, MQF) with at least CGPA of 2.00 An Advanced Diploma (Level 5, MQF) with at least CGPA of 2.00 A Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) subjected to Senate / Academic Board’s approval A Diploma Lanjutan Kemahiran Malaysia (DLKM) subjected to Senate / Academic Board’s approval Other equivalent qualifications recognised by the Malaysian Government (e.g., A-Levels, Senior Middle 3 (UEC), Canadian Pre-University (CPU), Australian Matriculation Programme (AUSMAT)) Additional Requirement A pass in Mathematics and English at SPM level or equivalent qualification. The pass requirement for Mathematics and English at SPM level can be waived if the qualifications contain Mathematics and English subjects with equivalent/higher achievement. English Requirement (International Students) Minimum IELTS 5.5 or equivalent International English Language qualification."
+  }
 }

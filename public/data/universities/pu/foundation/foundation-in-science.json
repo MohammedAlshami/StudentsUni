@@ -17,7 +17,21 @@
     "international_total": 15565,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "SPM/O-LEVEL Pass with a minimum of five (5) B’s including Biology, Physics, Chemistry, Mathematics/Add Maths; and any other subject; and C in Bahasa Melayu or English; OR UEC Pass with a minimum of three (3) B’s in Biology, Chemistry, and Physics/Mathematics/Additional Mathematics.   English Language Requirements Local students A pass in English Language subject at SPM/O-level/UEC level /Other equivalent qualifications. International students A pass in English Language subject at equivalent academic qualifications recognised by the Malaysian Government If English language requirements are not met, the institution may assess the student’s proficiency and require them to take an English course or test."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/perdana-university-10242/foundation-in-science-290188/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

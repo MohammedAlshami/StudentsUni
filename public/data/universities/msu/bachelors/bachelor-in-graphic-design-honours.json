@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "STPM: Pass SPM or its equivalent with credit in Bahasa Malaysia or Bahasa Melayu (Silibus X) Bahasa Malaysia II Pass STPM or its equivalent, with minimum Grade C in 3 subjects including Pengajian Am/Kertas Am (General Studies/General Paper) or at least 2.00 CGPA; ​A pass in STPM or its equivalent, with minimum Grade C in 2 subjects including Pengajian Am/Kertas Am (General Studies/General Paper) and Grade D for 2 other subjects; Ministry of Education (KPM) Matriculation Certificate or MSU Foundation Certificate, or Foundation Certificate or its equivalent from higher learning institution: in Malaysia which is recognised by KPT and approved by MQA; overseas which is equivalent to KPT Matriculation Programme. Diploma from PTPL/MSU, or Certificate/Diploma from Polytechnic, IPTA or IPTS with accreditation or other qualification from higher learning institution recognised by Ministry of Higher Education (KPT) and accreditated by MQA; Pass at least 3 subjects in A-Level; Pass The South Australian Matriculation (SAM) with minimum score of 65% - 70%; Pass Canadian Pre University Programme (CPU) with minimum score of 80%; Pass Unified Examination Certificate (UEC) with at least grade B in 5 subjects; Other equivalent qualification recognised by Malaysian Government"
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-in-graphic-design-hons-279214/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

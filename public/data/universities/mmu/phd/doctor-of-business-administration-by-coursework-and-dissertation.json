@@ -28,7 +28,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "A Master’s degree (Level 7, MQF) in related fields as accepted by the HEP Senate; OR A Master’s degree (Level 7, MQF) in non-related fields as accepted by the HEP Senate, subject to having relevant working experience and rigorous internal assessment; OR A Master’s degree (Level 7, MQF) in non-related fields as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; OR Other qualifications equivalent to a Master’s degree (Level 7, MQF) in the field or related fields recognised by the Government of Malaysia. English Entry Requirement: a minimum IELTS overall band score of 6.0 ; or a minimum overall TOEFL iBT score of 60 ; or a minimum MUET overall band score of 4 ; or a minimum Pearson Test of English score of 59 ; or a minimum Cambridge Qualifications and Test score of 169; or a minimum Linguaskill overall band score of 169"
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -64,6 +65,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/doctor-of-business-administration-243666/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

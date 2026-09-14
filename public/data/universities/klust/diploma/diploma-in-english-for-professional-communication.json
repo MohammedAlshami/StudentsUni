@@ -1,0 +1,43 @@
+{
+  "program_name": "Diploma in English for Professional Communication",
+  "field": "",
+  "duration": "30 months",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 30225,
+    "international_total": 30225,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: SPM: Minimum 3Cs (including English). O-Level: Minimum 3Cs (including English). UEC: Minimum 3Bs (including English). Certificate / SKM III: Minimum CGPA of 2.00 with a C in English SPM. Other Qualifications: As recognized by the Senate of IUKL as equivalent to SPM Note: Students without a C in English SPM must take IELTS or its equivalent. ENGLISH LANGUAGE REQUIREMENT (INTERNATIONAL):  IELTS - 5 TOEFL (PBT) - 500 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/diploma-in-english-for-professional-communication-27002/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

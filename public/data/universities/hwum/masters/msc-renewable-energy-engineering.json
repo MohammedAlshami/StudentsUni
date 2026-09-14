@@ -1,0 +1,47 @@
+{
+  "university": "Heriot-Watt University Malaysia",
+  "university_slug": "hwum",
+  "level": "masters",
+  "program_name": "MSc Renewable Energy Engineering",
+  "program_slug": "msc-renewable-energy-engineering",
+  "field": "",
+  "duration": "1 year",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 47250,
+    "international_total": 53640,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: A relevant first or second-class Honours degree in a physical science or engineering discipline. A degree qualification, or equivalent qualification recognised by the Malaysian Government, acceptable to the University. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 6.0 (or equivalent) with no score below 5.5. English Language Courses: Offered for those who do not meet the IELTS 6.0 requirement."
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/msc-renewable-energy-engineering-268101/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Credit in Bahasa Malaysia or Bahasa Melayu (Syllabus X) Bahasa Malaysia II at SPM level AND at least THREE (3) C’s including in Pengajian Am / Kertas Am (General Studies / General Paper) or TWO (2) C’s including in Pengajian Am / Kertas Am (General Studies / General Paper) plus TWO (2) D’s; OR THREE (3) A-levels; OR an MSU Foundation Certificate; OR an MSU or a PTPL Diploma; An equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-in-education-visual-arts-hons-288993/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

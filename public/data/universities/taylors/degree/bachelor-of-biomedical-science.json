@@ -21,7 +21,21 @@
     "per_year_international": 36677,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Prerequisites: SPM / O-Level with Pre-U / Foundation: Pass SPM / SPMV / O-Level or equivalent with 5 credits (Except for UEC) SPM / O-Level with Diploma: Pass SPM / O-Level or equivalent with 3 credits for entry with Diploma qualification. Entry Pathway: Any of these: Taylor’s Foundation in Science (FIS): Pass with min. CGPA 2.50 including GPA 2.33 in (ANY 2) subjects: Biology, Physics / Mathematics, Chemistry Sijil Tinggi Persekolahan Malaysia (STPM): Min. CGPA 2.33 for 2 subjects including GPA 2.33 in (ANY 2) subjects: Biology, Physics / Mathematics, Chemistry Unified Examination Certificate (UEC): Pass with min. 5Bs including (ANY 2): Biology, Physics / Mathematics, Chemistry A Level: Min. DD including min. D in (ANY 2) subjects: Biology, Physics / Mathematics, Chemistry AUSMAT (SACEi): ATAR 60 with min. Grade C+ each in (ANY 2) subjects: Biology, Physics / Mathematics, Chemistry Canadian Pre-University (CPU): Min. average of 60% in 6 subjects including 65% each in (ANY 2) subjects: Biology, Physics / Mathematics, Chemistry International Baccalaureate (IB): Min. 24 points in 6 subjects including min. 5 points at Higher Level (HL) in (ANY 2) subjects: Biology, Physics / Mathematics, Chemistry Matriculation in Science: Min. CGPA 2.33 for 3 subjects including (ANY 2) subjects: Biology, Physics / Mathematics, Chemistry MUFY: Overall 55% including 65% each in (ANY 2) subjects: Biology, Physics/Mathematics, Chemistry Other Qualifications: Students with other qualifications will be considered on a case-by-case basis. Application via APEL A is allowed. English Requirements: IELTS: Band 5.5 MUET: Band 3 Pre-University / Diploma: Completed Pre-University / Diploma that was conducted in English Cambridge English/ELS : the minimum score varies by programme  "
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-biomedical-science.html",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/bachelor-of-biomedical-science-hons-293055/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

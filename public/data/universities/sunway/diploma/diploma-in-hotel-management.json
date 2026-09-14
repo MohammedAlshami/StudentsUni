@@ -22,7 +22,21 @@
     "notes": "Fee: FromRM35,300.00",
     "international_total": 30620
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "SPM / SPMV / O-Level Pass with a minimum of 3 credits UEC: Pass with a minimum of 3 Grade Bs APEL.A An APEL.A Certificate (APEL T-4) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) English Language Requirements Sunway Intensive English Programme (IEP): Pass Level 3 IELTS or equivalent: 5.0 *For International students entering using a qualification whereby the medium of instruction is not in English Other Qualification Any other qualifications will be considered on a case-to-case basis"
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -37,6 +51,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/sunway-university-250/diploma-in-hotel-management-27501/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

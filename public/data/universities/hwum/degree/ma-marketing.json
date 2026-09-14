@@ -1,0 +1,47 @@
+{
+  "university": "Heriot-Watt University Malaysia",
+  "university_slug": "hwum",
+  "level": "degree",
+  "program_name": "MA Marketing",
+  "program_slug": "ma-marketing",
+  "field": "",
+  "duration": "3 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 109680,
+    "international_total": 128544,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: A-Level: DDD STPM: CC UEC: Maximum 30 points (5 subjects not less than B grade) ATAR (WACE/SACE): ATAR 50 Canada Year 12 High School Diploma: 50% (average score based on 6 best relevant subjects including English) International Baccalaureate Diploma: 24 points excluding Theory of knowledge and Extended Essay Matriculation/Foundation: Minimum CGPA 2.0 Diploma: Minimum CGPA 2.0 Heriot-Watt University Malaysia Foundation in Business / Foundation in Science: Pass and eligible to receive the award SMA 3 (Indonesia): 6.0 Year 12 State Board High School Examination (India): 70% Senior High School Graduation Certificate (China): 80% Additional Academic Requirements: Mathematics: A passing grade in Mathematics at SPM/IGCSE or equivalent is required. This requirement can be waived if a passing grade in Mathematics at a higher level is achieved. Important Notes: Applications from individuals with a wide range of qualifications are encouraged. Eligibility is best determined by submitting a complete application with academic documents. Entry requirements are subject to change, and individual offers may vary. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 6.0 (or equivalent) with no score lower than 5.5. English Language Courses: Offered for those who do not meet the IELTS 6.0 requirement."
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/ma-hons-marketing-274681/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -13,16 +13,36 @@
     "local": "USD30,000 (Western Michigan University and University of Wisconsin Eau Claire), USD41,000 (Eastern Connecticut State University)",
     "international": null,
     "currency": "MYR",
-    "local_total": null,
-    "per_year_local": 71000.0,
-    "notes": "Fee: USD30000 (Western Michigan University and University of Wisconsin Eau Claire),  USD41000 (Eastern Conneticut State University)"
+    "local_total": 52700,
+    "per_year_local": 71000,
+    "notes": "Fee: USD30000 (Western Michigan University and University of Wisconsin Eau Claire),  USD41000 (Eastern Conneticut State University)",
+    "international_total": 52700
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "ADTP (Arts) For Business, Communication, Filmmaking, Social Sciences, Liberal Arts and related majors SPM / O-Level/GCSE or IGCSE:  Pass with a minimum of 5 credits (including English) Unified Examination Certificate:  Minimum 5 Grade Bs (including English) ADTP (Science/Engineering) For STEM fields: Science, Technology, Engineering, Mathematics, Aviation, Computer Science, some Social Sciences, Psychology or related majors SPM / O-Level/GCSE or IGCSE: Pass with a minimum of 5 credits (including English &amp; Mathematics or any Science subject) Unified Examination Certificate: Minimum 5 Grade Bs (including English &amp; Mathematics or any Science subject) APEL.A An APEL.A Certificate (APEL T-6) (Recognition of Prior Learning)  English Requirements IELTS 5.0 or equivalent Sunway Intensive English Programme (IEP): Pass Level 4 with minimum 50%"
+  },
   "accreditation": null,
   "awarding_country": "United States",
   "sources": [
     "https://www.studymalaysia.com/what/course/SUNWAY/0057909/",
-    "https://www.studymalaysia.com/edu/sunway/courses/"
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://www.easyuni.my/malaysia/sunway-university-250/american-degree-transfer-program-adtp-292341/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.7,
   "last_updated": "2026-09-14"

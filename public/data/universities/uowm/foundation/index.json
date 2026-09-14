@@ -1,0 +1,24 @@
+{
+  "programs": [
+    {
+      "slug": "foundation-arts",
+      "name": "Foundation in Arts",
+      "field": "Arts & Humanities"
+    },
+    {
+      "slug": "foundation-business",
+      "name": "Foundation in Business",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "foundation-engineering",
+      "name": "Foundation in Engineering",
+      "field": "Engineering"
+    },
+    {
+      "slug": "foundation-science",
+      "name": "Foundation in Science",
+      "field": "Science"
+    }
+  ]
+}

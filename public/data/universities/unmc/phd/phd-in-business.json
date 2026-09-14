@@ -16,7 +16,21 @@
     "per_year_international": 39940,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Academic Requirements: A Master’s degree (or international equivalent) with a minimum average of 65% (taught and dissertation components) An upper second-class honours degree (2:1) or international equivalent in a relevant discipline Additional Notes: Applicants must hold a degree from a recognised university. Applications from all academic backgrounds are welcome, provided relevant qualifications are met. Some programmes may require prior study in related fields. Interviews may be conducted if further evaluation is needed. Eligibility will be confirmed only after submission of a complete application. English Language Requirements IELTS (Academic): 7.0 overall, with no less than 6.0 in each element TOEFL iBT: 100 overall Minimum 19 in Writing and Listening Minimum 20 in Reading Minimum 22 in Speaking PTE (Academic): 76 overall, with no less than 65 in each component MUET: Band 5 Note: IELTS, TOEFL iBT, and PTE Academic results must be less than two years old MUET results are valid for five years from the release date IELTS One Skill Retake is accepted Online test versions (IELTS Academic Online, TOEFL iBT Home Edition, PTE Academic Online) are not accepted"
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -24,6 +38,11 @@
       "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
       "publisher": "University of Nottingham Malaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-nottingham-malaysia-9990/phd-in-business-226157/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "medium",

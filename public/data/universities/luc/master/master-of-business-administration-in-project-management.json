@@ -7,11 +7,38 @@
   "duration": "1.5 years",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {
+    "local_total": 18000,
+    "international_total": 4000
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: A Bachelor’s Degree (Level 6, MQF) with a minimum CGPA of 2.50 or equivalent, as accepted by the Lincoln University College Senate; or A Bachelor’s Degree (Level 6, MQF) or equivalent not meeting a CGPA of 2.50, can be accepted subject to a minimum of 5 years of working experience in a relevant field; or Other qualifications recognized by the Malaysian Government. English Profiency Requirements (International Students): International English Language Testing System (IELTS) score of 6.0 or its equivalent. If a student does not meet this requirement, HEPS must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the program."
+  },
   "accreditation": null,
   "sources": [
-    "https://www.lincoln.edu.my/school-of-business-management/"
+    "https://www.lincoln.edu.my/school-of-business-management/",
+    {
+      "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/mba-in-healthcare-management-293895/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/mba-in-hospitality-management-293916/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "verified",
   "last_updated": "2026-09-14"

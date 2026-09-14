@@ -16,7 +16,21 @@
     "international_total": 58250,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "A-Levels: BBB, ABC, or AAC in Biology and Chemistry and Physics or Mathematics (minimum B in Chemistry). Malaysians must attain minimum C in BM and English at SPM or equivalent level (except Degree level). STPM: BBB, ABC, or AAC in Biology and Chemistry and Physics or Mathematics (minimum B in Chemistry). Malaysians must attain minimum C in BM and English at SPM or equivalent level (except Degree level). Australian Matriculation: ATAR 75 including Chemistry, Biology, and Physics or Mathematics (minimum 75% in Chemistry). Malaysians must attain minimum C in BM and English at SPM or equivalent level (except Degree level). NCEA Level 3: Average of 75% for Chemistry, Biology, and Physics or Mathematics (minimum 75% or equivalent in Chemistry). Malaysians must attain minimum C in BM and English at SPM or equivalent level (except Degree level). Canadian Grade 12/13: Average of 75% for Chemistry, Biology, and Physics or Mathematics (minimum 75% or equivalent in Chemistry). Malaysians must attain minimum C in BM and English at SPM or equivalent level (except Degree level). Unified Examination Certificate (UEC): B4 in 5 subjects: Biology, Chemistry, Physics, Additional Mathematics, or another subject. Malaysians must attain minimum C in BM and English at SPM or UEC equivalent level (except Degree level). Australian University Foundation Programmes: Average of 75% for Chemistry, Biology, and Physics or Mathematics (minimum 75% or equivalent in Chemistry). Malaysians must attain minimum C in BM and English at SPM or equivalent level (except Degree level). Indian Pre-University: Average of 75% for Chemistry, Biology, and Physics or Mathematics (minimum 75% or equivalent in Chemistry). Malaysians must attain minimum C in BM and English at SPM or equivalent level (except Degree level). Ministry of Education Matriculation #: Grades BBB or ABC in 3 subjects: Biology, Chemistry, and Physics or Mathematics with a B in Chemistry. Programme must be completed in the same institution (not less than 1 year). Attained 5Bs in Biology, Chemistry, Physics, Mathematics/Additional Mathematics, and another subject at SPM/O-Level. Malaysians must attain minimum C in BM and English at SPM or equivalent level. International Baccalaureate (IB): Minimum 30 points overall with a minimum score of 5 each in 3 of the following subjects: Biology, Chemistry, Physics, or Mathematics with a 2 at Higher Level (HL) and 1 at Standard Level (SL). Malaysians must attain minimum C in BM and English at SPM or equivalent level (except Degree level). American High School Diploma with Advanced Placement (AP): Not specified. Foundation Studies #: IMU Foundation in Science: BBB or ABC in 3 subjects (Biology, Chemistry, and Physics or Mathematics) with a B in Chemistry. Attained 5Bs in Biology, Chemistry, Physics, Mathematics/Additional Mathematics, and another subject at SPM/O-Level. Malaysians must attain minimum C in BM and English at SPM or equivalent level. Programme must be at least 1 year and completed in the same institution. Equivalents from other institutions are subject to the Dean’s approval on a case-by-case basis. Degree: BSc in related field with cGPA 3.00. Diploma: Diploma in Pharmacy, Health Sciences, or related field with cGPA 3.5. Programme must be at least 5 semesters (2.5 years) and completed in the same institution. Must attain 2Bs each in Chemistry and Biology/Physics/Mathematics, plus credits in 3 other subjects including English at SPM/O-Level or equivalent. Malaysians must attain minimum C in BM and English at SPM or equivalent level (except Degree level). # The duration of this programme must be a minimum of 1 year in the same accredited institution and foundation in other disciplines are accepted.   English Language Requirements: MUET: Band score of 3 (For Malaysian students). IELTS: Overall band score of 6.0 (Not less than 5.5 for individual bands). Cambridge English: Advanced (CAE): Overall score of 169. Cambridge English: Proficiency (CPE): Overall score of 169. Cambridge Linguaskill: Overall score of 160. Pearson Test of English (PTE): Overall score of 59. Credit Transfer (IELTS): Students transferring to the University of Otago are required to have an overall band of 6.0 (Not less than 6.0 for individual bands). Students transferring to the University of Tasmania are required to have an overall band of 6.5 (Not less than 6.0 for individual bands). The following categories of students* are exempted from the English requirements: Students who graduated from other institutions where the curriculum is delivered in English Language for example: Advanced Levels / Australian Matriculation / Australian University Foundation Year / Canadian Matriculation / International Baccalaureate / Foundation in Science / Other Pre-University Programmes from Local Higher Education Institutions *ONLY applicable to those who are completing the entire degree at IMU, Malaysia. **Applicable to IMU local degree only."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -27,6 +41,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/international-medical-university-imu-10211/bachelor-of-pharmacy-hons-243114/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

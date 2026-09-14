@@ -1,0 +1,43 @@
+{
+  "program_name": "Master of Business Administration (MBA)",
+  "field": "",
+  "duration": "1 year",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 25300,
+    "international_total": 25900,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: Bachelor&#39;s Degree: Pass with a minimum CGPA of 2.50; or Pass with CGPA below 2.50, subject to a minimum of 5 years working experience in relevant fields. APEL (Accreditation of Prior Experiential Learning): Above 30 years of age on 1 January in the year of application; and With relevant work experience/prior experiential learning; and Pass the APEL Assessment (Aptitude Test, Portfolio &amp; Interview) conducted by MQA. English Proficiency Requirements (for International Students): TOEFL (PBT): 550 TOEFL (CBT): 213 TOEFL (IBT): 79 IELTS: 6.0 EPT: 6.0 MUET: 4.0"
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/mahsa-university-213/master-of-business-administration-mba-271085/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirements Pass SPM/O-Level with at least Grade C in three subjects Pass UEC with at least Grade B in three subjects Pass STPM with Grade C (GP 2.00) in one subject Pass STAM with Grade Maqbul (Pass) Recognised Creative Multimedia Certificate or equivalent Recognised Technical/Vocational Certificate with one year of relevant work experience or a trimester bridging programme Pass SKM Level 3 or equivalent qualifications APEL.A certificate from MQA for admission AND Pass an interview or submit a portfolio as required by MMU."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/diploma-in-creative-multimedia-293179/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -20,7 +20,21 @@
     "currency": "MYR",
     "international_total": 24075
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements Foundation : Completion of Foundation Programme, Credit in English at SPM level Diploma : Completion of Diploma in relevant fields with minimum CGPA of 2.0, Credit in English at SPM level UEC : 5Bs including English STPM : Grade C in 2 subjects or CGPA 2.00, Credit in English at SPM level A-Level : 2 Grade Ds in 2 subjects or CGPA 2.00, Credit in English at SPM level SACE : 5 subjects with ATAR 55 NSW (HSC) : 10 units with ATAR 55 Australian Year 12 : 4 or 5 passes with ATAR of 55 Australian Degree Transfer Program (ADTP) : Completion of ADTP Matriculation/Pre-University : Completion of Matriculation/ Pre-University programme with a minimum CGPA of 2.0, Credit in English at SPM level Others : Other equivalent qualifications as recognised by the government of Malaysia Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "faculty": "Media and Communication",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/inti-international-university-10208/bachelor-of-mass-communication-hons-294308/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

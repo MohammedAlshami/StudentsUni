@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirements Applicants must meet any of the following: SPM/O-Level or Equivalent: Minimum Grade C in at least five (5) subjects, including English, Mathematics, and one Engineering-related subject. UEC: Minimum Grade B in at least four (4) subjects, including Mathematics, English, and one Engineering-related subject. Other Equivalent Qualifications recognized by the Malaysian Government.  "
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/foundation-in-engineering-243661/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

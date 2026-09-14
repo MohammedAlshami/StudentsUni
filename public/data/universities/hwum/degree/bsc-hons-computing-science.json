@@ -1,0 +1,47 @@
+{
+  "university": "Heriot-Watt University Malaysia",
+  "university_slug": "hwum",
+  "level": "degree",
+  "program_name": "BSc (Hons) Computing Science",
+  "program_slug": "bsc-hons-computing-science",
+  "field": "",
+  "duration": "3 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 119880,
+    "international_total": 139560,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: A-Level / STPM: BBB including B in Mathematics UEC: 12 points or less including an A in Mathematics (5 subjects not less than a B grade) ATAR (WACE/SACE): ATAR 80 including B in Mathematics Method/Specialist Canada Year 12 High School Diploma: 80% including B in Mathematics International Baccalaureate Diploma: 26 points with 5 in HL Mathematics AA or AI Matriculation / Foundation: CGPA 3.0 (further assessment is required) Diploma: CGPA 3.0 including B in Mathematics (further assessment is required). Global College: Foundation in Business / Foundation in Science (from Heriot-Watt University Malaysia): Grade C average including B in Mathematics and C in English SMA 3 (Indonesia): 8.0 including 80% in Mathematics Year 12 State Board High School Examination (India): 70% including 70% in Mathematics Senior High School Graduation Certificate (China): 80% including 80% in Mathematics Important Notes: Applications from individuals with a wide range of qualifications are encouraged. Eligibility is best determined by submitting a complete application with academic documents. Entry requirements are subject to change, and individual offers may vary. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 6.0 (or equivalent) with no score lower than 5.5. English Language Courses: Offered for those who do not meet the IELTS 6.0 requirement."
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/bsc-hons-computing-science-294628/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

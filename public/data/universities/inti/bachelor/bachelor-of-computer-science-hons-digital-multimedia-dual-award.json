@@ -11,7 +11,9 @@
   "intakes": null,
   "fees": {
     "local": "Refer to newinti.edu.my",
-    "international": "Refer to newinti.edu.my"
+    "international": "Refer to newinti.edu.my",
+    "local_total": 32268,
+    "international_total": 44908
   },
   "requirements": "STPM/A-Levels or equivalent",
   "accreditation": "KPT/JPS(N/481/6/0261)02/2018",
@@ -19,7 +21,12 @@
   "awarding_body": "Dual-award Degree - conferred by INTI and University of Coventry, UK",
   "faculty": "Computing & IT",
   "sources": [
-    "https://studymalaysia.com/what/course/INTI/0009952/"
+    "https://studymalaysia.com/what/course/INTI/0009952/",
+    {
+      "url": "https://www.easyuni.my/malaysia/inti-college-sabah-90/bachelor-of-computer-science-honours-online-learning-293574/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "high",
   "last_updated": "2026-09-14"

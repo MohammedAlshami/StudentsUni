@@ -1,0 +1,144 @@
+{
+  "programs": [
+    {
+      "slug": "bachelor-of-business-administration-hr-management",
+      "name": "Bachelor of Business Administration (Human Resource Management)",
+      "field": "Business Administration"
+    },
+    {
+      "slug": "bachelor-of-business-administration-technology-management",
+      "name": "Bachelor of Business Administration (Technology Management)",
+      "field": "Business Administration"
+    },
+    {
+      "slug": "bachelor-of-early-childhood-education-hons",
+      "name": "Bachelor of Early Childhood Education (Honours)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-economics-hons",
+      "name": "Bachelor of Economics (Honours)",
+      "field": "Economics"
+    },
+    {
+      "slug": "bachelor-of-entrepreneurship-hons",
+      "name": "Bachelor of Entrepreneurship (Honours)",
+      "field": "Entrepreneurship"
+    },
+    {
+      "slug": "bachelor-of-information-technology-hons",
+      "name": "Bachelor of Information Technology (Honours)",
+      "field": "Information Technology"
+    },
+    {
+      "slug": "bachelor-of-interactive-multimedia-hons",
+      "name": "Bachelor of Interactive Multimedia (Honours)",
+      "field": "Multimedia"
+    },
+    {
+      "slug": "bachelor-of-islamic-finance-hons",
+      "name": "Bachelor of Islamic Finance (Honours)",
+      "field": "Islamic Finance"
+    },
+    {
+      "slug": "bachelor-of-medicine-and-surgery-mbbs",
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+      "field": "Medicine"
+    },
+    {
+      "slug": "bachelor-of-nursing-hons",
+      "name": "Bachelor of Nursing (Honours)",
+      "field": "Nursing"
+    },
+    {
+      "slug": "bachelor-of-psychology-hons",
+      "name": "Bachelor of Psychology (Honours)",
+      "field": "Psychology"
+    },
+    {
+      "slug": "diploma-in-accountancy",
+      "name": "Diploma in Accountancy",
+      "field": "Accountancy"
+    },
+    {
+      "slug": "diploma-in-architecture",
+      "name": "Diploma in Architecture",
+      "field": "Architecture"
+    },
+    {
+      "slug": "diploma-in-business-studies",
+      "name": "Diploma in Business Studies",
+      "field": "Business"
+    },
+    {
+      "slug": "diploma-in-coaching-science",
+      "name": "Diploma in Coaching Science",
+      "field": "Sports Science"
+    },
+    {
+      "slug": "diploma-in-early-childhood-education",
+      "name": "Diploma in Early Childhood Education",
+      "field": "Education"
+    },
+    {
+      "slug": "diploma-in-fashion-creative-design",
+      "name": "Diploma in Fashion Creative Design",
+      "field": "Fashion Design"
+    },
+    {
+      "slug": "diploma-in-games-design",
+      "name": "Diploma in Games Design",
+      "field": "Games Design"
+    },
+    {
+      "slug": "diploma-in-information-technology",
+      "name": "Diploma in Information Technology",
+      "field": "Information Technology"
+    },
+    {
+      "slug": "diploma-in-interactive-multimedia",
+      "name": "Diploma in Interactive Multimedia",
+      "field": "Multimedia"
+    },
+    {
+      "slug": "diploma-in-islamic-banking",
+      "name": "Diploma in Islamic Banking",
+      "field": "Islamic Banking"
+    },
+    {
+      "slug": "diploma-in-mass-communication",
+      "name": "Diploma in Mass Communication",
+      "field": "Communication"
+    },
+    {
+      "slug": "diploma-in-medical-health-sciences",
+      "name": "Diploma in Medical and Health Sciences",
+      "field": "Health Sciences"
+    },
+    {
+      "slug": "diploma-in-medical-laboratory-technology",
+      "name": "Diploma in Medical Laboratory Technology",
+      "field": "Medical Laboratory"
+    },
+    {
+      "slug": "diploma-in-nursing",
+      "name": "Diploma in Nursing",
+      "field": "Nursing"
+    },
+    {
+      "slug": "diploma-in-pharmacy",
+      "name": "Diploma in Pharmacy",
+      "field": "Pharmacy"
+    },
+    {
+      "slug": "diploma-in-secretarial-management",
+      "name": "Diploma in Secretarial Management",
+      "field": "Secretarial Management"
+    },
+    {
+      "slug": "diploma-in-tourism-management",
+      "name": "Diploma in Tourism Management",
+      "field": "Tourism"
+    }
+  ]
+}

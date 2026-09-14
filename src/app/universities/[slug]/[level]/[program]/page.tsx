@@ -3,6 +3,7 @@ import path from "path";
 import Link from "next/link";
 import { BadgeCheck, Calendar, Clock, GraduationCap, ShieldCheck, Wallet } from "lucide-react";
 import { wrap, Label, Pill } from "@/components/marketing-ui";
+import { normalizeProgramsList, loadProgramDetail } from "@/lib/university-detail";
 
 const LEVEL_LABELS: Record<string, string> = {
   foundation: "Foundation",
@@ -12,50 +13,16 @@ const LEVEL_LABELS: Record<string, string> = {
   "advanced-diploma": "Advanced Diploma",
   bachelor: "Bachelor's Degree",
   "bachelors-degree": "Bachelor's Degree",
+  degree: "Bachelor's Degree",
+  undergraduate: "Bachelor's Degree",
   master: "Master's Degree",
   "masters-degree": "Master's Degree",
+  masters: "Master's Degree",
+  postgraduate: "Postgraduate",
   phd: "PhD",
   "doctoral-degree": "PhD / Doctoral Degree",
   certificate: "Certificate",
   language: "Language Program",
-};
-
-type ProgramDetail = {
-  university: string;
-  university_slug: string;
-  level: string;
-  program_name: string;
-  field: string;
-  duration: string | null;
-  mode: string | null;
-  intakes: string[];
-  fees: {
-    currency: string;
-    local_total: number | null;
-    international_total: number | null;
-    per_year_local: number | null;
-    per_year_international: number | null;
-    notes: string;
-  };
-  requirements: {
-    malaysian: {
-      spm: string | null;
-      stpm: string | null;
-      foundation_matriculation: string | null;
-      diploma_pathway: string | null;
-    };
-    international: {
-      a_level: string | null;
-      ib: string | null;
-      other_qualifications: string | null;
-      english_requirement: string | null;
-    };
-  };
-  accreditation: {
-    mqa_status: string | null;
-    mqa_ref: string | null;
-  };
-  confidence: string;
 };
 
 function Fact({ label, value }: { label: string; value: string | null | undefined }) {
@@ -68,21 +35,37 @@ function Fact({ label, value }: { label: string; value: string | null | undefine
   );
 }
 
+function readJSON(filePath: string): unknown | null {
+  try {
+    return JSON.parse(fs.readFileSync(filePath, "utf-8"));
+  } catch {
+    return null;
+  }
+}
+
 export default async function ProgramDetailPage({
   params,
 }: {
   params: Promise<{ slug: string; level: string; program: string }>;
 }) {
   const { slug, level, program } = await params;
-  const programPath = path.join(
-    process.cwd(),
-    "public/data/universities",
-    slug,
-    level,
-    `${program}.json`
-  );
+  const uniDir = path.join(process.cwd(), "public/data/universities", slug);
+  const indexPath = path.join(uniDir, level, "index.json");
+  const infoPath = path.join(uniDir, "info.json");
 
-  if (!fs.existsSync(programPath)) {
+  const rawPrograms = normalizeProgramsList(readJSON(indexPath));
+  const rawEntry = rawPrograms.find((p) => {
+    const s = typeof p === "string" ? p : (p.slug as string) || (p.program_slug as string);
+    return s === program;
+  });
+
+  const info = readJSON(infoPath) as { name?: string; university?: string } | null;
+  const institutionsPath = path.join(process.cwd(), "public/data/institutions.json");
+  const institutionsList = (readJSON(institutionsPath) as { institutions: Array<{ slug: string; name: string }> } | null)?.institutions ?? [];
+  const canonicalName = institutionsList.find((i) => i.slug === slug)?.name;
+  const universityName = canonicalName || info?.name || info?.university || slug;
+
+  if (!rawEntry) {
     return (
       <div className="bg-white py-[83px] text-center font-sans text-[#242927]">
         <h1 className="text-[21px] font-bold">Program not found</h1>
@@ -93,11 +76,12 @@ export default async function ProgramDetailPage({
     );
   }
 
-  const prog: ProgramDetail = JSON.parse(fs.readFileSync(programPath, "utf-8"));
+  const prog = loadProgramDetail(universityName, slug, level, rawEntry);
   const fee = prog.fees;
   const hasFees = fee.local_total || fee.international_total || fee.per_year_local || fee.per_year_international;
   const hasMalaysianReq = Object.values(prog.requirements.malaysian).some(Boolean);
   const hasIntlReq = Object.values(prog.requirements.international).some(Boolean);
+  const hasGeneralReq = Boolean(prog.requirements.general_text);
 
   return (
     <div className="bg-white font-sans text-[#242927]">
@@ -188,28 +172,33 @@ export default async function ProgramDetailPage({
             <h2 className="flex items-center gap-[8px] border-b border-black/10 pb-[10px] text-[19px] font-bold">
               <BadgeCheck size={18} className="text-[#285b50]" /> Entry Requirements
             </h2>
-            <div className="mt-[16px] grid gap-[26px] sm:grid-cols-2">
-              <div>
-                <p className="mb-[6px] text-[12px] font-bold uppercase tracking-[.08em] text-black/50">
-                  Malaysian Qualifications
-                </p>
-                <Fact label="SPM" value={prog.requirements.malaysian.spm} />
-                <Fact label="STPM" value={prog.requirements.malaysian.stpm} />
-                <Fact label="Foundation / Matriculation" value={prog.requirements.malaysian.foundation_matriculation} />
-                <Fact label="Diploma Pathway" value={prog.requirements.malaysian.diploma_pathway} />
-                {!hasMalaysianReq && <p className="py-[12px] text-[13px] text-black/40">Not yet available.</p>}
+            {hasGeneralReq && (
+              <p className="mt-[16px] text-[15px] leading-relaxed text-black/75">{prog.requirements.general_text}</p>
+            )}
+            {!hasGeneralReq && (
+              <div className="mt-[16px] grid gap-[26px] sm:grid-cols-2">
+                <div>
+                  <p className="mb-[6px] text-[12px] font-bold uppercase tracking-[.08em] text-black/50">
+                    Malaysian Qualifications
+                  </p>
+                  <Fact label="SPM" value={prog.requirements.malaysian.spm} />
+                  <Fact label="STPM" value={prog.requirements.malaysian.stpm} />
+                  <Fact label="Foundation / Matriculation" value={prog.requirements.malaysian.foundation_matriculation} />
+                  <Fact label="Diploma Pathway" value={prog.requirements.malaysian.diploma_pathway} />
+                  {!hasMalaysianReq && <p className="py-[12px] text-[13px] text-black/40">Not yet available.</p>}
+                </div>
+                <div>
+                  <p className="mb-[6px] text-[12px] font-bold uppercase tracking-[.08em] text-black/50">
+                    International Qualifications
+                  </p>
+                  <Fact label="A-Levels" value={prog.requirements.international.a_level} />
+                  <Fact label="IB" value={prog.requirements.international.ib} />
+                  <Fact label="Other" value={prog.requirements.international.other_qualifications} />
+                  <Fact label="English Requirement" value={prog.requirements.international.english_requirement} />
+                  {!hasIntlReq && <p className="py-[12px] text-[13px] text-black/40">Not yet available.</p>}
+                </div>
               </div>
-              <div>
-                <p className="mb-[6px] text-[12px] font-bold uppercase tracking-[.08em] text-black/50">
-                  International Qualifications
-                </p>
-                <Fact label="A-Levels" value={prog.requirements.international.a_level} />
-                <Fact label="IB" value={prog.requirements.international.ib} />
-                <Fact label="Other" value={prog.requirements.international.other_qualifications} />
-                <Fact label="English Requirement" value={prog.requirements.international.english_requirement} />
-                {!hasIntlReq && <p className="py-[12px] text-[13px] text-black/40">Not yet available.</p>}
-              </div>
-            </div>
+            )}
           </section>
         </div>
 

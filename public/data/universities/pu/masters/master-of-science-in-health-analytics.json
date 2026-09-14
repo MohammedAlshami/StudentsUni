@@ -17,7 +17,21 @@
     "international_total": 32600,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "A Bachelor&#39;s Degree (Level 6 Malaysian Qualifications Framework, MQF) in Health Sciences or Biomedical Sciences or related fields with Statistical background/ Computing background, with minimum CGPA of 2.50 or equivalent, as accepted by the University Senate; OR A Bachelor&#39;s Degree (Level 6 Malaysian Qualifications Framework, MQF) in Health Sciences or Biomedical Sciences or related fields with Statistical background/ Computing background with minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to rigorous internal assessment. Candidates without a qualification in the related fields or working experience in the relevant fields must undergo appropriate prerequisite courses determined by the University and meet the minimum CGPA based on (i) to (ii). English Language Requirements Local Students MUET Band 4 International Students IELTS 6.0 (Equivalent to CEFR Mid B2)"
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/perdana-university-10242/master-of-science-in-health-analytics-294950/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

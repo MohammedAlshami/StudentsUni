@@ -29,7 +29,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "A Bachelor’s degree (Level 6, MQF) in the field or related field of Creative Multimedia Technology with a minimum CGPA of 2.50 or equivalent, as accepted by MMU Senate, subject to rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in the field or related field of Creative Multimedia Technology with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 or equivalent, can be accepted subject to rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 or equivalent, as accepted by MMU Senate, and with relevant working experience, subject to rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with minimum CGPA of 2.00 or equivalent, as accepted by MMU Senate, without relevant working experience, subject to rigorous internal assessment and/or passing pre-requisite courses determined by MMU; OR Other relevant equivalent qualifications (Level 6, MQF) recognised by the Malaysian Government, subject to rigorous internal assessment and/or passing pre-requisite courses determined by MMU English Entry Requirement: An applicant is required to possess a sufficient level of English language proficiency by obtaining one of the following: a minimum IELTS overall band score of 6.0 ; OR a minimum overall TOEFL iBT score of 60 ; OR a minimum MUET overall band score of 4 ; OR a minimum Pearson Test of English score of 59 ; OR a minimum Cambridge Qualifications and Test score of 169; OR a minimum Linguaskill overall band score of 169 In addition to the above, any other qualification which is of equivalent level as determined by the Senate of the University. The English language requirement is waived for the candidates who are natives of and/or have completed their Bachelor’s or Master’s degrees from countries that use English as the medium of instruction as well as the first language"
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -65,6 +66,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/master-of-creative-multimedia-27291/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

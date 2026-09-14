@@ -1,0 +1,43 @@
+{
+  "program_name": "Bachelor of Technology (Hons) in Automotive",
+  "field": "",
+  "duration": "3 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 60600,
+    "international_total": 64800,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: STPM: Minimum 2 Principal Passes. A-Level: Minimum 2 Principal Passes. UEC: Minimum 5 Bs (including Mathematics). Diploma / HND: Minimum CGPA of 2.00. Foundation / Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average of 60% or higher in 5 subjects (including Mathematics). CPU / CIMP: Average of 55% or higher in 6 subjects (including Mathematics). IB: 26 points or higher based on 6 subjects. IVQ Technician Diploma: Level 3 in Motor Vehicle Maintenance. DVM: Minimum CGPA of 2.50 (Required to take Remedial Courses during the first semester). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. ENGLISH LANGUAGE REQUIREMENT: IELTS - 5 TOEFL (PBT) - 500 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/bachelor-of-technology-hons-in-automotive-226766/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

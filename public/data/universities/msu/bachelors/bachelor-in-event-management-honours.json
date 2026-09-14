@@ -14,8 +14,8 @@
   ],
   "fees": {
     "currency": "RM",
-    "local_total": 40500.0,
-    "international_total": 84230.0,
+    "local_total": 40500,
+    "international_total": 84230,
     "per_year_local": null,
     "per_year_international": null,
     "notes": "Local: RM40,500.00; International: RM84,230.00"
@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "STPM : Pass SPM or its equivalent with credit in Bahasa Melayu and pass General Science or Additional Science or Biology/Chemistry/Physics A pass in STPM or its equivalent, with minimum Grade C in 2 subjects including Pengajian Am/Kertas Am (General Studies/General Paper) or at least 2.00 CGPA; Ministry of Education (KPM) Matriculation Certificate or MSU Foundation Certificate, or Foundation Certificate or its equivalent from higher learning institution; Diploma with a minimum CGPA of 2.0 in relevant field from any provider of higher education; Pass at least 3 subjects in A-Level; Pass The South Australian Matriculation (SAM) with minimum score of 65% - 70%; Pass Canadian Pre University Programme (CPU) with minimum score of 80%; Pass Unified Examination Certificate (UEC) with at least grade B in 5 subjects; Other equivalent qualification recognised by the Malaysian Government"
   },
   "accreditation": {
     "mqa_status": null,
@@ -53,6 +54,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-in-event-management-hons-279207/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -7,11 +7,38 @@
   "duration": "2 years",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {
+    "local_total": 18000,
+    "international_total": 4000
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: Bachelor’s Degree (Level 6, MOH) in the field of dentistry with a minimum CGPA of 2.75 or equivalent, as accepted by the HEP Senate Bachelor’s Degree (Level 6, MOH) in the field of Dentistry or equivalent with a minimum CGPA of 2.50 and did not reach a CGPA of 2.75 may be admitted subject to rigorous internal assessment Bachelor’s Degree (Level 6 MOH) in the field of Dentistry or equivalent but CGPA of 2.50 may be admitted subject to a minimum of 5 years working experience in the relevant field. English Proficiency Requirements (International Students): International English Language Testing System (IELTS) score of 5.0 or its equivalent. If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the program."
+  },
   "accreditation": null,
   "sources": [
-    "https://www.lincoln.edu.my/school-of-business-management/"
+    "https://www.lincoln.edu.my/school-of-business-management/",
+    {
+      "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/msc-in-dentistry-293746/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/master-in-tourism-management-293915/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "verified",
   "last_updated": "2026-09-14"

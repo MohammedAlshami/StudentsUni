@@ -18,7 +18,21 @@
     "currency": "MYR",
     "international_total": 21690
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: STPM: Grade C (GPA 2.00) in any two (2) subjects, AND credit in English at SPM level or equivalent. STAM: Grade of Jayyid, AND credit in English at SPM level or equivalent. UEC: Grade B in five (5) subjects and credit in English. Matriculation/Foundation: CGPA 2.00 out of 4.00, AND credit in English at SPM level or equivalent. Diploma in Media and Communication or its equivalent. A Diploma or its equivalent: CGPA 2.00 out of 4.00, AND credit in English at SPM level or equivalent. A-LEVEL: Pass with Grade D in two subjects, AND credit in English at SPM level or equivalent. Australian Matriculation: ATAR 55. International Baccalaureate Diploma Programme (IB): 24 points across six subjects. Notes: The credit requirement at the SPM level can be waived should the grades obtained at the STPM/STAM/Diploma/Matriculation/Foundation level are equivalent/higher. Students enrolling on a Dual Award programme will be subject to the English requirements of UWTSD/UK.   English Language Competency Requirements for International Students: International students are required to achieve a minimum score of 5.0 in IELTS OR Band 3 in MUET OR 500 in TOEFL OR its equivalent. English language requirements can be waived if the international student EITHER comes from a country that uses English as the official language OR the entry qualification uses English as the medium of instruction."
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/iumw/courses/",
@@ -31,6 +45,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-malaya-wales-11602/bachelor-of-professional-communication-270003/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

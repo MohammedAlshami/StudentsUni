@@ -21,7 +21,21 @@
     "per_year_local": 7089,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: STPM: A pass in STPM with a minimum of Grade C (GP 2.00) in any 2 subjects or its equivalent. STAM: A pass in STAM with a minimum grade of Jayyid. UEC: A pass in UEC with a minimum Grade B in any 5 subjects. Matriculation or Foundation: Matriculation/Foundation or its equivalent, with a minimum CGPA of 2.00. Diploma in Early Childhood Education: A Diploma in Early Childhood Education (Level 4, MQF) with a minimum CGPA of 2.00. Diploma: A Diploma (Level 4, MQF) in any field or its equivalent. APEL A English Proficiency (For International Students ): Test of English as a Foreign Language (TOEFL) score of 500; OR International English Language Testing System (IELTS) score of 5.0; OR equivalent."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058794/",
@@ -39,6 +53,11 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-of-education-in-early-childhood-education-hons-294547/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

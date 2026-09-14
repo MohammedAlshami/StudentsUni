@@ -22,7 +22,21 @@
     "notes": "Fee: FromRM46,900.00",
     "international_total": 29123
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "SPM/O-Level Pass with min. 3 credits UEC Pass with min. 3 Bs Other Equivalent Qualifications Pass in Certificate (Level 3, MQF) or equivalent in related fields Must be accredited by MQA Special Requirements Pass a Portfolio review: Please submit a minimum of 3 pieces of your own creative work in any genre and mediums: Drawing  Painting Photography Digital Illustration Clay Art Fashion-Related Art Projects Any other medium OR Pass an interview *In cases where students’ portfolio does not meet expectations."
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -37,6 +51,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/sunway-college-13116/diploma-in-fashion-design-technology-293531/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

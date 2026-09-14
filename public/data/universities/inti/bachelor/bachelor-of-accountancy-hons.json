@@ -20,7 +20,21 @@
     "currency": "MYR",
     "international_total": 22298
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements Foundation: Foundation in Business Programme, Minimum CGPA 2.50 Diploma: A relevant diploma with a CGPA of at least 2.50 from another institution A-Level : 2 Grade D, and a credit in Mathematics STPM : Grade C+ (GP 2.33) in any 2 subjects, and credits in Mathematics STAM : Grade Jayyid and a credit in Mathematics UEC : 5 subjects at grade B including a pass in Mathematics and English SACE : 5 subjects with ATAR of 55 and a credit in Mathematics NSW (HSC) : 10 units with ATAR of 55 and a credit in Mathematics CPU : 6 passes with an average of 60 Tertiary Entrance Examination (TEE) : 4 or 5 subjects with ATAR of 55 and a credit in Mathematics at SPM level Australian Year 12 : TER/UAI/ENTER 55 Matriculation/Pre-University - Completion of Matriculation/Pre-University programme with minimum CGPA of 2.5 Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "faculty": "Business",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/inti-international-university-10208/bachelor-of-accountancy-hons-26904/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

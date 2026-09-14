@@ -1,0 +1,74 @@
+{
+  "programs": [
+    {
+      "slug": "master-international-business",
+      "name": "Master of International Business",
+      "field": "Business & Commerce"
+    },
+    {
+      "slug": "master-of-philosophy-accounting",
+      "name": "Master of Philosophy (Accounting)",
+      "field": "Business & Commerce"
+    },
+    {
+      "slug": "master-of-philosophy-chemical-engineering",
+      "name": "Master of Philosophy (Chemical Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-philosophy-civil-engineering",
+      "name": "Master of Philosophy (Civil Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-philosophy-economics-and-finance",
+      "name": "Master of Philosophy (Economics and Finance)",
+      "field": "Business & Commerce"
+    },
+    {
+      "slug": "master-of-philosophy-electrical-and-computer-engineering",
+      "name": "Master of Philosophy (Electrical and Computer Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-philosophy-geology",
+      "name": "Master of Philosophy (Geology)",
+      "field": "Science"
+    },
+    {
+      "slug": "master-of-philosophy-management",
+      "name": "Master of Philosophy (Management)",
+      "field": "Business & Commerce"
+    },
+    {
+      "slug": "master-of-philosophy-mechanical-engineering",
+      "name": "Master of Philosophy (Mechanical Engineering)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "master-of-philosophy-media-culture-and-creative-arts",
+      "name": "Master of Philosophy (Media, Culture & Creative Arts)",
+      "field": "Humanities & Communications"
+    },
+    {
+      "slug": "master-of-policy-sciences",
+      "name": "Master of Policy Sciences",
+      "field": "Humanities & Communications"
+    },
+    {
+      "slug": "master-of-public-health",
+      "name": "Master of Public Health (By Coursework)",
+      "field": "Health Sciences"
+    },
+    {
+      "slug": "master-of-science-in-project-management",
+      "name": "Master of Science in Project Management",
+      "field": "Business & Commerce"
+    },
+    {
+      "slug": "master-of-science-sustainable-aquaculture",
+      "name": "Master of Science (Sustainable Aquaculture)",
+      "field": "Science"
+    }
+  ]
+}

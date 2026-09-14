@@ -7,16 +7,37 @@
   "field": "Medical Sciences",
   "duration": "1 Year",
   "mode": "Full-time",
-  "intakes": ["July"],
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "July"
+  ],
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students   Pass SPM / SPMV / O-Level with at least grade B in 5 subjects inclusive: Mathematics or Additional Mathematics, Physics, Chemistry, Biology, one (1) other subjects. Credit in Bahasa Malaysia and English or other equivalent qualiﬁcation. For International Students Students must complete 11 years of schooling and obtain a general pass in their Secondary School Certificate, O-levels or equivalent with min Grade B in Mathematics, Chemistry, Physics, Biology and one other subject, Grade C in English and one other subject."
+  },
   "accreditation": {
     "mqa_code": null,
     "valid_until": null,
     "additional_codes": null
   },
   "sources": [
-    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/foundation-in-medical-sciences-294908/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "high",
   "last_updated": "2026-09-14"

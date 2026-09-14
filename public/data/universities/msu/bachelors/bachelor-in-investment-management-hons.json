@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Pass SPM or its equivalent with 5 credits including English Language and Mathematics Pass STPM or its equivalent, obtaining full pass in 3 subjects including Pengajian Am (General Studies); Pass Ministry of Education (KPM) Matriculation Programme; Diploma from any Higher Learning Institution that has achieved the Minimum Standards certification; Pass Unified Examination Certificate (UEC) with at least grade B in 5 subjects; Other equivalent qualification recognised by the Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-in-investment-management-279232/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

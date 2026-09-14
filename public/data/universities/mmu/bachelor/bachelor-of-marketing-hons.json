@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirement Any one of the followings: Pass Foundation/ Matriculation studies with at least CGPA of 2.00 from a recognised institution; OR Pass STPM or its equivalent with a minimum of Grade C (GP 2.00) in any two (2) subjects AND a Pass in Mathematics and English at SPM Level or its equivalent; OR Pass A-Level with a minimum of Grade D in any two (2) subjects AND a Pass in Mathematics and English at SPM Level or its equivalent; OR Pass STAM with a minimum of Grade Jayyid (Good) in two (2) subjects AND a Pass in Mathematic and English at SPM or its equivalent; OR Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of English OR a minimum of Grade C in SPM/O-Level English or equivalent; Note: The requirement to pass Mathematics and English at SPM Level can be waived if qualifications include equivalent or higher achievements in these subjects. Malaysian students who used English as their medium of instruction or have at least Band 2 in MUET may be exempt from the English requirement. Students without a pass in Mathematics or English at SPM level may be admitted but must complete special enhancement courses. The English requirement does not apply to international students, who are assessed based on international English exams. DKM/DLKM/DVM candidates may need to complete a Bridging Programme."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/bachelor-of-marketing-hons-293220/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

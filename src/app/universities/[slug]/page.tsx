@@ -25,7 +25,8 @@ const LEVEL_LABELS: Record<string, string> = {
 
 type Info = {
   slug: string;
-  name: string;
+  name?: string;
+  university?: string; // some info.json files use this key instead of `name`
   abbr?: string;
   abbreviation?: string;
   type: string;
@@ -62,15 +63,28 @@ export default async function UniversityDetailPage({
   }
 
   const info: Info = JSON.parse(fs.readFileSync(infoPath, "utf-8"));
-  const displayName = info.name;
-  const displayAbbr = info.abbreviation ?? info.abbr ?? "";
+
+  // institutions.json is built programmatically and is guaranteed to have a
+  // real name/abbr for all 96 universities, unlike the scraped info.json
+  // files (which drifted across passes: some use `name`, others `university`,
+  // and a few omit it entirely). Prefer it as the source of truth for identity.
+  const institutionsPath = path.join(process.cwd(), "public/data/institutions.json");
+  const institutionsList = JSON.parse(fs.readFileSync(institutionsPath, "utf-8")).institutions as Array<{
+    slug: string;
+    name: string;
+    abbr: string;
+  }>;
+  const canonical = institutionsList.find((i) => i.slug === slug);
+
+  const displayName = canonical?.name || info.name || info.university || slug;
+  const displayAbbr = canonical?.abbr || info.abbreviation || info.abbr || "";
   const image = getUniversityImage(slug);
   const coverPhoto = UNIVERSITY_PHOTOS[slug] ?? null;
   const gallery = getUniversityGallery(slug);
   const hasSpecificGallery = gallery.some((g) => g.specific);
 
   const levels = detectLevels(slug);
-  const levelPrograms = getProgramsByLevel(slug, levels);
+  const levelPrograms = getProgramsByLevel(displayName, slug, levels);
   const stats = getUniversityStats(slug);
   const sourceCount = info.sources?.length ?? 0;
 

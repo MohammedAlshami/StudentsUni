@@ -23,7 +23,21 @@
     "per_year_international": 36,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: A Bachelor&#39;s degree (Level 6, MQF) or equivalent with minimum CGPA of 2.75 in the relevant field, as accepted by the HEP&#39;s Senate Candidates with a Bachelor&#39;s degree (Level 6, MQF) or equivalent with at least CGPA of 2.50 in the relevant field and has not achieved CGPA 2.75, can be accepted subject to rigorous internal assessment; Candidates with a Bachelor’s degree (Level 6, MQF) or equivalent with CGPA of less than 2.50 in the relevant field and a minimum of five (5) years working experience in the relevant field; Other relevant equivalent qualifications recognized by the Malaysian Government and Pass an interview OR submission of a portfolio determined by the HEP as required. English Requirements (International Students): IELTS 6.0 / TOEFL 60 (Internet Based Test) (May join IEN preparatory course and achieve the IELTS score) The validity of the IELTS or equivalent is within 2 years from the date of the examination."
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/design/master-research/master-of-design.html",
@@ -37,6 +51,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/master-of-design-293076/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

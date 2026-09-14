@@ -1,0 +1,47 @@
+{
+  "university": "Heriot-Watt University Malaysia",
+  "university_slug": "hwum",
+  "level": "phd",
+  "program_name": "PhD Social and Behavioural Science",
+  "program_slug": "phd-social-and-behavioural-science",
+  "field": "",
+  "duration": "3 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 106200,
+    "international_total": 115920,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Application Process: Online Application: Complete the online application, clearly indicating your intention to study at the Malaysia Campus. Mandatory Interview: All PhD applicants will be invited for an interview before a formal offer is made. Academic Requirements: Master&#39;s Degree: Hold a Master&#39;s Degree in Psychology or a relevant or equivalent qualification as recognised by the Malaysian government and deemed acceptable by the University. Exceptional Bachelor&#39;s Degree: In exceptional cases, candidates with a first-class BSc (Hons) in Psychology or a related field may be admitted if they possess significant research experience. Supporting Documents: Academic Transcripts and Certificates: Provide copies of full academic transcripts from all previous degree courses and copies of certificates for degrees already awarded. Detailed Research Proposal: Submit a comprehensive research proposal. English Language Requirements: IELTS 6.5 or Equivalent: Demonstrate English language proficiency at level IELTS 6.5 or equivalent."
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/phd-social-and-behavioural-science-294626/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

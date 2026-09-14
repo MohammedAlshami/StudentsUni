@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Pass SPM or SPMV with 3 credits including Science and Mathematics; Science Computer Certificate from PTPL with at least a pass in all of the subjects; Polytechnic, IPTA or IPTS Certificate with accreditation or its equivalent recognised by KUTPM (MSU) Senate; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,
@@ -57,6 +58,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/diploma-in-multimedia-279246/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

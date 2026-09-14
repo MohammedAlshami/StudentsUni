@@ -5,13 +5,34 @@
   "program_name": "Master in Creative Digital Media",
   "program_slug": "master-in-creative-digital-media",
   "field": "Creative Arts & Design",
-  "duration": null,
+  "duration": "2 years",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students Prerequisite requirement (requires rigorous presentation interview; verbally / physically explain detail on their work / portfolio; and research proposal) A Bachelor’s degree in Creative Multimedia or related fields or its equivalent with minimum CGPA of 2.75, as accepted by the HEP senate; OR A Bachelor’s degree in Creative Multimedia or related fields or its equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment; OR A Bachelor’s degree in Creative Multimedia or related fields or its equivalent with CGPA between 2.00 and 2.50, can be accepted subject to a minimum of 5 years industry experience in relevant fields and rigorous internal assessment; OR Other relevant equivalent qualifications recognised by the Malaysian Government. AND Pass an interview AND submission of student’s portfolio determined by the HEP as required. Candidates without a qualification in the related fields or relevant working experience must undergo appropriate prerequisite requirement determined by the HEP and meet the minimum CGPA stated above. For International Students Bachelor&#39;s in a related field with minimum CGPA of 2.75 from approved institutions. CGPA between 2.50 and 2.75 may be accepted after rigorous internal assessment. CGPA below 2.50 requires at least 5 years of relevant work experience. IELTS 5.0-6.5 or equivalent.  "
+  },
   "accreditation": null,
-  "sources": ["https://www.unikl.edu.my/postgraduate-admission/"],
+  "sources": [
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-miit-260/master-in-creative-digital-media-293798/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
   "confidence": "high",
   "last_updated": "2026-09-14"
 }

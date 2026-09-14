@@ -1,0 +1,43 @@
+{
+  "program_name": "Bachelor of Science (Hons) in Economics and Finance",
+  "field": "",
+  "duration": "3 years",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 58560,
+    "international_total": 62220,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: STPM: Minimum CGPA of 2.00, pass Mathematics and English in SPM. STAM: Minimum grade of jayyid, pass Mathematics and English in SPM. A-Level: Minimum 2 Principal Passes and pass Mathematics in O-Level. UEC: Minimum 5Bs (pass in Mathematics). Diploma / HND: Minimum CGPA of 2.00 including pass/50% and above in Mathematics. Foundation / Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average 50% including Mathematics. CPU / CIMP: Average of 50% including Mathematics. IB: 24 points or higher based on 6 subjects (minimum level 4 for each subject). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM.   ENGLISH LANGUAGE REQUIREMENTS: IELTS - 6 TOEFL (PBT) - 537 TOEFL (IBT) - 60 PTE - 59 MUET - BAND 4 Cambridge English - 169"
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/bachelor-of-science-hons-in-economics-and-finance-293234/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

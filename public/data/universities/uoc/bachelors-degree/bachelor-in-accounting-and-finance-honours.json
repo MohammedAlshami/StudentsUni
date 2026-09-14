@@ -21,7 +21,21 @@
     "per_year_local": 4739,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: STPM: Pass with a minimum Grade C+ (GPA 2.33) in any two subjects, and credits in Mathematics and a pass in English at SPM level. STAM: Pass with minimum Jayyid grade (good) and credit in Mathematics and a pass in English at SPM level or its equivalent. UEC: Pass with Grade B in 5 subjects including Mathematics &amp; English. UOC Foundation Programme (Foundation): Matriculation/Foundation qualification with a minimum CGPA of 2.50 and SPM / O-Level or equivalent with a credit in Mathematics and pass in English. Matriculation or Foundation from other institutions (Other): Matriculation / Foundation qualification or its equivalent with a minimum CGPA of 2.50 and O-Level or equivalent with credits in Mathematics and pass in English. Diploma in related field (Bachelor&#39;s Degree Level): A diploma in accounting or related field, or its equivalent with a minimum CGPA of 2.50, and credits in Mathematics and a pass in English at SPM level. English Proficiency For International Students: Minimum IELTS score of 5.5 or equivalent. For Malaysian Students: MUET Band 2."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058825/",
@@ -39,6 +53,11 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-of-accounting-and-finance-hons-294548/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

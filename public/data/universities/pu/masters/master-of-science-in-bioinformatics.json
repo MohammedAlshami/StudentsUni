@@ -17,7 +17,21 @@
     "international_total": 21600,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": " A Bachelor’s degree or equivalent with minimum CGPA of 2.50 in a related field, as accepted by the PU Senate; OR A Bachelor’s degree or equivalent in a related field with CGPA of less than 2.50 and a minimum of 5 years’ working experience in the related field English Language Requirements International Students IELTS 6.0 (Equivalent to CEFR Mid B2) If a student does not meet this requirement, Perdana University will offer a three-month Intensive English Preparatory program to ensure that student&#39;s proficiency is sufficient to meet the needs of the program."
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/perdana-university-10242/msc-bioinformatics-294927/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

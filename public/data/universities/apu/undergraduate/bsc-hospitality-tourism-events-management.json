@@ -10,13 +10,34 @@
   "intakes": null,
   "fees": {
     "local": "RM100,400.00",
-    "international": "RM108,500.00"
+    "international": "RM108,500.00",
+    "local_total": 100400,
+    "international_total": 108500
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Direct Entry to Level 1 of the Degree STPM: 2 passes with minimum Grade C (CGPA 2.0) A-Level: 2 passes (Grade A–D) UEC: 5 Grade Bs Foundation/Matriculation: Pass with minimum CGPA of 2.0 Entry to Level 2 of the Degree Completed APU Diploma or a recognised Diploma with equivalent credits to Level 1 of a degree (subject to APU Academic Board approval) English Language Requirements IELTS: 5.0 MUET: Band 3.5"
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/bachelor-science-hospitality-tourism-specialism-events-management",
-    "https://www.studymalaysia.com/what/course/APU/0058645/"
+    "https://www.studymalaysia.com/what/course/APU/0058645/",
+    {
+      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/bsc-hons-in-hospitality-and-tourism-hospitality-innovation-294917/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.9,
   "last_updated": "2026-09-14"

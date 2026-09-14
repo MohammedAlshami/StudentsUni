@@ -28,7 +28,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Pass STPM/A-Level with a pass in 2 subjects and minimum 2.50 CGPA, and a credit in one of the Science subjects at SPM level; Pass Ministry of Education(KPM) Matriculation in the Sciences field with minimum CGPA of 2.50; Pass Foundation programme in the Sciences field from any higher learning institution with minimum CGPA of 2.50; Pass The South Australian Matriculation (SAM) with minimum of 65% - 70% aggregate or TER/UAI 75; Pass Canadian Pre-University Programme (CPU) with minimum of 80% aggregate Diploma in relevant field with a minimum CGPA of 2.50 Pass Unified Examination Certificate (UEC) with at least grade B in 5 subjects Other equivalent qualification recognised by the Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,
@@ -49,6 +50,11 @@
       "url": "https://www.msu.edu.my",
       "publisher": "official",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-in-nutrition-honours-279251/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

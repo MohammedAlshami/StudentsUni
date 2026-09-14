@@ -19,7 +19,21 @@
     "currency": "MYR",
     "international_total": 19479
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "  You must meet the following requirements in order to be considered for entry to the UNITAR Bachelor’s Programme: A pass in STPM with a minimum of Grade C (GP 2.0) in any two subjects or its equivalent; OR A pass in STAM with a minimum grade of Jayyid; OR A pass UEC with minimum Grade B in five (5) subjects; OR A pass in Matriculation/Foundation or its equivalent with a minimum CGPA of 2.0; OR A Diploma in Early Childhood Education or its equivalent with a minimum CGPA of 2.0; OR A Diploma in any field or its equivalent with a minimum CGPA of 2.0; OR Pass Diploma Kemahiran Malaysia (DKM)/ Diploma Lanjutan Kemahiran Malaysia (DLKM)/ Diploma Vokasional Malaysia (DVM) with a minimum CGPA of 2.50 in relevant field subject to the approval of the Senate and MUST attend bridging courses;​ OR Pass DKM/ DLKM/ DVM with at least CGPA 2.00 AND have at least two (2) years of work experience in the relevant field and MUST attend bridging courses; OR Pass BTEC Level 4 &amp; 5 and pass SPM with at least three (3) credits in any subjects;​ OR Any other equivalent qualifications recognized by the Malaysian Government;​ OR Entry requirements for admission into the Bachelor’s program (level 6, MQF) through APEL as approved by the Ministry of Education (MOHE). Applicants must be / have:​ A Malaysian citizen; and​ The candidate should be more than 21 years of age in the year of application;​ Relevant work experience / prior experiential learning; and​ Pass the APEL Assessment​ Language Requirements International students Minimum score of 5.0 for IELTS; OR Minimum score of 42 for TOEFL; OR its equivalent. Local students Exempted from University English Courses: Distinction in SPM / SPMV English MUET Band 4, 5 and 6 A Pass in English Course at a previous institution Required to take English Preparatory 2: Credit in SPM / SPMV English MUET Band 1, 2 and 3 Required to take both English Preparatory 1 and 2: No credit in SPM / SPMV English"
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0005749/",
@@ -32,6 +46,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/bachelor-of-education-early-childhood-education-hons-online-294047/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

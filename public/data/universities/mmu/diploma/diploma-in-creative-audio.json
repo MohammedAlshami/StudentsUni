@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirements Pass SPM/O-Level or its equivalent with a minimum of Grade C in at least three (3) subjects; OR Pass UEC with a minimum of Grade B in at least three (3) subjects; OR Pass STPM or its equivalent with a minimum of Grade C (GP 2.00) in at least one (1) subject; OR Pass STAM with Grade Maqbul (Pass); OR Recognised Creative Multimedia Certificate or its equivalent; OR Recognised related Technical and Vocational Certificate or its equivalent with one (1) year relevant work experience or one (1) trimester bridging programme; OR Pass SKM Level 3 or any qualifications equivalent to Certificate (Level 3, MQF) in a related field; OR Possess an APEL.A certificate from MQA for admission into Diploma programmes; AND Pass an interview OR submission of student’s portfolio, to be determined by MMU as required.  "
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/diploma-in-creative-audio-293187/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

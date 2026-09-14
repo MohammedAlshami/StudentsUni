@@ -1,1 +1,14 @@
-[]
+{
+  "programs": [
+    {
+      "slug": "foundation-in-science",
+      "name": "Foundation in Science",
+      "field": ""
+    },
+    {
+      "slug": "foundation-in-business",
+      "name": "Foundation in Business",
+      "field": ""
+    }
+  ]
+}

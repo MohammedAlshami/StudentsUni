@@ -23,7 +23,8 @@
   "requirements": {
     "spm": null,
     "o_level": null,
-    "uec": null
+    "uec": null,
+    "general_text": "Applicants must have one of the following: 5 SPM/SPMV Credits: At least a credit in Mathematics. At least a credit in 2 Science subjects (Biology/Chemistry/Physics). A pass in Bahasa Melayu and History. 5 O-Level Credits: At least a credit in Mathematics. At least a credit in 2 Science subjects (Biology/Chemistry/Physics). 3B’s in UEC: At least a credit in Mathematics. At least a credit in 2 Science subjects (Biology/Chemistry/Physics). Other equivalent qualifications recognised by the Malaysian Government. Note: Forecast results are accepted. A conditional offer will be given to those who meet the entry requirements."
   },
   "accreditation": {
     "mqa_code": null,
@@ -42,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/foundation-in-science-25997/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

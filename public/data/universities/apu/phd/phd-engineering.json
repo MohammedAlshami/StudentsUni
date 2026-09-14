@@ -5,24 +5,29 @@
   "program_name": "Doctor of Philosophy in Engineering",
   "program_slug": "phd-engineering",
   "field": "Engineering",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time / Part-time",
   "intakes": null,
   "fees": {
     "local": null,
     "international": null,
     "currency": "MYR",
-    "local_total": 46800.0,
-    "international_total": 46800.0,
+    "local_total": 46800,
+    "international_total": 46800,
     "notes": "Total program fee from source",
-    "per_year_local": 15600.0
+    "per_year_local": 15600
   },
   "requirements": null,
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/phd-in-philosophy-engineering",
     "https://www.studymalaysia.com/edu/apu/courses/",
-    "https://www.studymalaysia.com/what/course/APU/0053227/"
+    "https://www.studymalaysia.com/what/course/APU/0053227/",
+    {
+      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/doctor-of-philosophy-in-engineering-294921/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.7,
   "last_updated": "2026-09-15"

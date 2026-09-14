@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirements Applicants must meet one of the following criteria: SPM/O-Level or equivalent: Minimum 3 Credits and a Pass in English. STPM or equivalent: Minimum Grade C (GP 2.00) in any subject and a Pass in SPM English. STAM: Minimum Maqbul (Pass) and a Pass in SPM English. UEC: Minimum 3 Grade B’s and a Pass in English. SKM (Level 3, MQF): In a related field. Certificate (Level 3, MQF): Minimum CGPA 2.00 in a related field. MQA APEL.A Certificate: For admission into Diploma programs. Note Upon completing the Diploma program, students who wish to pursue a Bachelor’s degree at MMU must meet the specific entry requirements for their chosen program"
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/diploma-in-management-293180/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

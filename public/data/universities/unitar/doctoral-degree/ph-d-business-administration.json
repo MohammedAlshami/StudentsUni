@@ -21,7 +21,21 @@
     "currency": "MYR",
     "international_total": 18167
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "A Master’s Degree in Business [Level 7, Malaysian Qualification Framework (MQF)] or in other related discipline and recognized by the University Senate; OR A Master’s degree (Level 7, MQF) in non-related fields as accepted by the HEP Senate, subject to having relevant working experience and rigorous internal assessment; OR A Master’s degree (Level 7, MQF) in no-related fields as accepted by the HEP Senate and without relevant working experience, subject to passing prerequisite courses; OR Other qualifications equivalent to a master’s degree recognized by the Malaysian Government; OR Candidates who have excellent Bachelor’s Degree (Level 6, MQF) graduates for direct admission to Doctoral Degree by Research (Level 8, MQF) programme with the following conditions: Candidates have first class Bachelor’s degree or equivalent qualification; OR Candidates have obtained CGPA of at least 3.67 or equivalent from either an academic or Technical and Vocational Education and Training (TVET) programme; AND Evaluated through rigorous internal assessment by UNITAR; And approved by the UNITAR Senate and accepted as a candidate for the Doctoral Degree (Level 8, MQF) programme. Students must demonstrate appropriate progress during the candidature period. AND A proposal of about 500 words in English must be submitted together with all the relevant documents required for admission to the University on the registration day. English Language Requirements International Students Minimum score of 6.0 for IELTS or Minimum score of 60 for TOEFL or its equivalent. Local Students Credit in SPM English or Pass an internal oral examination, with a minimum grade of C."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0053488/",
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/phd-in-business-administration-277322/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -20,7 +20,21 @@
     "currency": "MYR",
     "international_total": 25285
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements Foundation: Matriculation or Foundation Certificate with CGPA 2.0 Diploma: A relevant diploma with a CGPA of at least 2.00 from another institution STPM: Grade C (GP2.0) in any 2 subjects, and a pass in Mathematics and English A-Level: 2 Grade D in any subjects AND pass in Mathematics and English UEC: 5 subjects at grade B including a pass in Mathematics and English SACE: 4 or 5 subjects with ATAR 55 AND pass in Mathematics and English NSW (HSC): 10 units with ATAR 55 AND pass in Mathematics and English CPU: 6 passes with an average of 55 TEE: 4 or 5 subjects with ATAR 55 AND pass in Mathematics and English Australian Year 12: TER/UAI/ENTER 55 STAM: Grade Jayyid and pass Mathematics and English Others: Other equivalent qualifications as recognised by the government of Malaysia"
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "faculty": "Business",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/inti-international-university-10208/bachelor-of-business-hons-in-accounting-249804/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

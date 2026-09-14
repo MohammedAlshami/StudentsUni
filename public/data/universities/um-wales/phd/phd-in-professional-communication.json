@@ -18,7 +18,21 @@
     "currency": "MYR",
     "international_total": 18574
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: A Master’s degree (Level 7, MQF) in a related discipline accepted by the Senate; OR Other equivalent qualifications recognised by the Government of Malaysia; OR Candidates without a related qualification in the field/s or working experience in the relevant fields must undergo an appropriate prerequisite course determined by HEP. Candidates with excellent Bachelor’s degree (Level 6, MQF) based on the following conditions: I. A bachelor’s degree in the field or related fields with first-class (CGPA of 3.67 or higher) or its equivalent; AND II. Subject to rigorous internal assessment (includes submission of 3000-word research proposal). English Language Competency Requirements for International Students: English language requirements can be waived if the international student EITHER comes from a country that uses English as the official language OR the entry qualification. IELTS 6.0 TOEFL 60 TOEFL Essentials (Online) 8.5 Pearson Test of English 59 Cambridge English Qualifications and Tests - B1 Preliminary, B2 First, C1 Advanced, C2 Proficiency &amp; Linguaskill Online - 169 ELS 109"
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/iumw/courses/",
@@ -26,6 +40,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-malaya-wales-11602/phd-in-professional-communication-289307/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

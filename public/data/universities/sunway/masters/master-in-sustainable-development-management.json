@@ -21,7 +21,21 @@
     "notes": "Fee: FromRM47,320.00",
     "international_total": 22577
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Qualifications A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate; OR A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and with relevant working experience of at least 2 years of work experience, subject to a rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; OR An APEL.A Certificate (APEL T-7) (Recognition of Prior Learning)  Other equivalent/related qualifications to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government.   English Language Requirement International candidates should demonstrate English proficiency sufficient to meet the needs of the programme: IELTS: 6.0 / CEFR: B2 TOEFL: PBT (550) or IBT (75) Cambridge English (Advanced): 180 / CEFR: B2 or Cambridge English (Proficiency): 180 / CEFR: C1 PTE Academic: 50 Malaysian University English Test: Band 4 If a student does not meet this requirement, the HEP offers English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the programme. This is normally conducted through an English language proficiency assessment. Documents Needed for Application  Acceptance into the programme is by application and selection only.  As part of your application, you will need to nominate two referees who are senior people acquainted with your work and who must provide a written comment on your academic and/or professional suitability to undertake the programme. Applicants will be required to submit the following documents: Sunway University Postgraduate Application Form A detailed CV One (1) passport-sized photograph A certified copy of each degree-level certificate Certified copies of all degree-level transcripts IELTS/TOEFL/PTE score report (if applicable) Two letters of reference (academic and/or professional) A personal statement of your interest in sustainable development and suitability for this programme  "
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -36,6 +50,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/sunway-university-250/master-in-sustainable-development-management-293474/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

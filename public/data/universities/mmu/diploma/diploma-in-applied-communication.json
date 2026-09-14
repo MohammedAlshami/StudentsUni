@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirements Pass in SPM/O-Level or its equivalent with a minimum of Grade C in at least three (3) subjects, inclusive of English; OR Pass STPM or its equivalent with a minimum of Grade C (GPA 2.00) in any one (1) subject including a minimum of Grade C in English at SPM/O-Level or its equivalent; OR Pass in STAM with a minimum Grade Maqbul (Pass) in any one (1) subject including a credit in SPM English or its equivalent; OR Pass UEC with a minimum of three (3) Bs including English; OR Pass SKM Level 3 or any qualifications equivalent to Certificate (Level 3, MQF) including Pass SPM with a credit in English or its equivalent; OR Pass a Certificate or its equivalent including a credit in English at SPM or its equivalent; OR Pass a Certificate in Media and Communication or its equivalent; OR Possess an APEL.A certificate from MQA for admission into Diploma programmes."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/diploma-in-applied-communication-293209/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -1,0 +1,14 @@
+{
+  "programs": [
+    {
+      "slug": "foundation-in-arts-and-social-science",
+      "name": "Foundation in Arts and Social Science",
+      "field": "Arts and Social Science"
+    },
+    {
+      "slug": "foundation-in-commerce",
+      "name": "Foundation in Commerce",
+      "field": "Commerce"
+    }
+  ]
+}

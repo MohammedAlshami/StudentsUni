@@ -18,7 +18,21 @@
     "international_total": 24850,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "SPM: Possess SPM or equivalent with a minimum of 5 credits in any subjects including English. English Competency Requirement: Determination of Malay and English grade requirements at the SPM level for admission to programs under the body professionals are in accordance with the standards/manuals/stipulations of the relevant professional bodies."
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -30,6 +44,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/foundation-in-arts-graphic-design-multimedia-294530/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

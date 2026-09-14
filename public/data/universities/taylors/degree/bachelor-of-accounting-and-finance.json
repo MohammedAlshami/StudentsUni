@@ -19,7 +19,21 @@
     "international_total": 46348,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Prerequisites: SPM/ O-Level with Pre-U/ Foundation: Pass SPM/ O-Level or equivalent to 5 credits (including mathematics) for entry with pre-university/ foundation qualification (except for UEC). SPM / O-Level with Diploma: Pass SPM / O-Level or equivalent with 3 credits (including credit in Mathematics) for entry with Diploma and Advanced Diploma qualification. Entry Pathway: Any one of these: Taylor’s Foundation: Pass any Taylor&#39;s Foundation programme with a minimum CGPA of 2.50. Taylor&#39;s Diploma: Pass Diploma in Accounting or related field with a minimum CGPA of 2.50. Sijil Tinggi Persekolahan Malaysia (STPM): Pass with minimum Grade C+ with GPA 2.33 in any 2 subjects. Unified Examination Certificate (UEC): Pass with minimum 5Bs, maximum 26 points including Mathematics. Candidates without a Grade B in UEC Mathematics may be admitted if the candidate has a credit in Mathematics at SPM or equivalent A Level: Minimum DD  AUSMAT (SACEi): Minimum ATAR 60 Canadian Pre-University (CPU): Minimum average of 55% in 6 subjects International Baccalaureate (IB): Minimum 26 points and above in 6 subjects Monash University Foundation Year (MUFY): Overall 60% Other Equivalent Qualifications: Pass Business Foundation from other accredited institutions with a minimum CGPA of 2.50 Pass a Diploma in Accounting or a related field from an accredited institution with a minimum CGPA of 2.50. Candidates with a CGPA below 2.50 but more than 2.00 may be admitted subject to a thorough rigorous assessment Pass in Diploma (Level 4, MQF) with minimum of CGPA of 2.50 or Advanced Diploma (Level 5, MQF) in accounting or related field with a least a CGPA of 2.50 Other foundation, matriculation, high school certificates /diploma (Year 12) from other accredited institutions with a minimum CGPA of 2.50 Application via APEL A is allowed Note:  Candidates with a pass in Mathematics at SPM level need to take and pass the enhancement Mathematics subject that equivalent to the SPM level. The enhancement Mathematics subject must be offered in first semester.  Candidates without a credit in Mathematics at SPM level or its equivalent may be admitted if the STPM / Matriculation / Foundation / Diploma / Advanced Diploma programme contains subjects in Mathematics that are equivalent and achieved higher at SPM level.  English Requirements: MUET: Band 2 Cambridge English/ELS also recognised; the minimum score varies by programme Pre U/ Diploma: Complete Pre U/ Diploma that was conducted in English  "
+  },
   "accreditation": null,
   "sources": [
     {
@@ -31,6 +45,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/bachelor-in-accounting-fintech-hons-293093/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -5,13 +5,34 @@
   "program_name": "Master of Engineering Technology (Chemical Engineering)",
   "program_slug": "master-of-engineering-technology-chemical-engineering",
   "field": "Engineering Technology",
-  "duration": null,
+  "duration": "2 years",
   "mode": "Full-time",
   "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students Bachelor’s degree in a related field with minimum CGPA of 2.75 from local or any other institutions of higher learning as approved by the Senate of UniKL; or Bachelor’s degree or equivalent in related field with a CGPA between 2.50 to 2.75 is acceptable for admission depends on rigorous internal assessment (for UniKL, the internal assessment is at least 2 years working experience in a related field). or Bachelor’s degree or equivalent with CGPA less than 2.50, with at least 5 years relevant working experience is acceptable for admission English language proficiency level of either a minimum of IELTS band 5.5 or TOEFL 525 (for international students). For International Students Bachelor&#39;s in a related field with minimum CGPA of 2.75 from approved institutions. CGPA between 2.50 and 2.75 may be accepted after rigorous internal assessment. CGPA below 2.50 requires at least 5 years of relevant work experience. IELTS 5.0-6.5 or equivalent."
+  },
   "accreditation": null,
-  "sources": ["https://www.unikl.edu.my/postgraduate-admission/"],
+  "sources": [
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-engineering-technology-manufacturing-264855/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
   "confidence": "high",
   "last_updated": "2026-09-14"
 }

@@ -17,7 +17,21 @@
     "international_total": 28900,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": " A Bachelor’s degree (Level 6, MQF) in education or related fields with a minimum CGPA of 2.50 or its equivalent as accepted by the Perdana University Senate; OR  A Bachelor’s degree in education or related fields or equivalent with a minimum CGPA of 2.00 can be accepted subject to rigorous internal interview assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields must undergo appropriate prerequisite assessment as determined by the Perdana University Senate and meet the minimum CGPA based on (1) to (2). English Language Requirements International Students Pass the Test of English as a Foreign Language (TOEFL) with a score of at least 550; OR The International English Language Testing System (IELTS) with a score of at least 6.0; OR Any equivalent qualification.  "
+  },
   "accreditation": null,
   "sources": [
     {
@@ -29,6 +43,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/perdana-university-10242/master-of-education-coursework-294942/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

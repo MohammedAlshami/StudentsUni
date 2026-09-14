@@ -21,7 +21,21 @@
     "per_year_local": 4078,
     "per_year_international": 6522
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "(1) STPM - Grade C in 2 relevant subjects listed in Schedule A (2) A Level - Grade D in 2 relevant subjects listed in Schedule A (3) UEC - Grade B in 5 relevant subjects listed in Schedule A (4) Other IHL - Relevant Foundation or Diploma accredited by MQA (5) TAR UC - Foundation in Arts (Track A) OR Diploma accredited by MQA Compulsory subject: i) (1), (2), (3) and (4) must include SPM Credit/ O Level Grade C/ UEC Grade B in one mathematics subject# ii)(1), (2), (3) and (4) must include SPM Pass/ O Level Grade E (Pass)/ UEC Grade C in English Language** #Grade B and above in AMMS0104 General Mathematics conducted by TAR UC is accepted as having fulfilled the Mathematics requirement for applicants with a pass in SPM/Grade D or Grade E (pass) in O Level/Grade C in UEC in the required Mathematics subject. **Grade C and above in AELE0364 English Language conducted by TAR UC is accepted as having fulfilled the English Language requirement for applicants who fail English Language at SPM/O Level/UEC. Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree. b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -44,6 +58,11 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/bachelor-of-construction-management-and-economics-honours-292911/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -18,7 +18,21 @@
     "currency": "MYR",
     "international_total": 18867
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: A bachelor’s degree or equivalent in a related field (Bachelor&#39;s Degree Level): A bachelor’s degree or equivalent with minimum CGPA of 2.50 in Physiotherapy or related field, recognised by the Malaysian government, and accepted by the University. A bachelor’s degree or equivalent in a related field (Bachelor&#39;s Degree Level): A bachelor’s degree or equivalent in Physiotherapy or related field with a CGPA of less than 2.50 and a minimum of 5 years working experience in the related field. Other relevant or equivalent qualification (Certificate): Candidates without qualifications in the related fields or working experience in the relevant fields must undergo an appropriate prerequisite course determined by the University and meet the minimum CGPA based on the requirements mentioned above. Other relevant or equivalent qualifications recognised by the Malaysian government and accepted by the University. English Proficiency (For International Students): Minimum TOEFL score of 500 (pBT) / 80 (iBT) or IELTS score of 6.0 or other equivalent qualifications."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058829/",
@@ -31,6 +45,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/master-of-physiotherapy-294589/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

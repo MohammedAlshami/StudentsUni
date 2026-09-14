@@ -20,7 +20,8 @@
     "international_total": 29875
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: STPM – with 2 principals (min. of Grade C) (CGPA 2.0) A-Level – (2 subjects) Grade A – D Foundation UEC – Grade B in 5 subjects including Chinese Language (for specialisation in Chinese Education students) Australia Capital Territory – (Year 12)/South Australia (SACE)/Victorian Certificate of Education (VCE)/Western Australia Certificate of Education (WACE)/South Australian Matriculation (SAM)/ Tertiary Entrance Education (TEE)/Victorian Certificate of Education (VCE)/Western Australia Certificate Any related Diploma Other equivalent qualifications recognised by the Malaysian Government"
   },
   "accreditation": null,
   "sources": [
@@ -34,6 +35,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/bachelor-of-education-hons-243546/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

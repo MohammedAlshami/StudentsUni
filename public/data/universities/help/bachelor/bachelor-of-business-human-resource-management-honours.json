@@ -32,8 +32,28 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-of-business-human-resource-management-27879/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-14",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Requirements Matriculation/Foundation or its equivalent: Minimum CGPA of 2.00 out of 4.00** Diploma (Level 4, MQF): Minimum CGPA 2.00 out of 4.00 STPM: Minimum Grade C (GP 2.0) in any TWO subjects Advanced Diploma (Level 5, MQF): Minimum CGPA of 2.00 out of 4.00 Sijil Tinggi Agama Malaysia (STAM): Minimum grade of Jayyid (good) Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM): Subjected to Senate / Academic Board’s approval Diploma Lanjutan Kemahiran Malaysia (DLKM): Subjected to Senate / Academic Board’s approval A-Level: 2 passes Senior Middle 3 (UEC): 5 B’s*** CPU: 5 passes with a minimum average of 50% Australian Matriculation Programmes: University Aggregate of 50% or ATAR score of at least 50 for various programmes Equivalent qualification Notes The stated qualifications need to be supported with a pass in Mathematics, English, Sejarah, and Bahasa Melayu at SPM level. **Please refer to the Faculty of Business, Economics, and Accounting on the Mathematics and English requirement. English Requirement (International Students) Minimum IELTS 5.5 or equivalent International English Language qualification"
+  }
 }

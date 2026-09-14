@@ -20,7 +20,21 @@
     "international_total": 16680,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: SPM: Pass SPM or equivalent with 3 credits in any subjects UEC: Pass UEC with a Grade B in any 3 subjects O-Level: Pass O-Level with Grade C in any 3 subjects and pass in Maths and English SKM: Pass with level three (3) in a related field and pass SPM with one (1) credit in any subject Certificate: Pass in SKM level 3 or certificate from Kolej Komuniti and pass SPM with 1 credit STPM: Pass STPM with a GPA 2.00/C in any 1 subject Others: Other equivalent qualifications approved by the government of Malaysia English Proficiency Requirements: IELTS: 5.0 TOEFL PBT: 550 MUET: BAND 3.0"
+  },
   "accreditation": null,
   "sources": [
     {
@@ -32,6 +46,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/mahsa-university-213/diploma-in-business-administration-273778/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

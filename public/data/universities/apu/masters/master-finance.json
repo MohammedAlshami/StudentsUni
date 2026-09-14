@@ -10,13 +10,34 @@
   "intakes": null,
   "fees": {
     "local": "RM38,800.00",
-    "international": "RM42,000.00"
+    "international": "RM42,000.00",
+    "local_total": 34800,
+    "international_total": 38800
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "GENERAL REQUIREMENTS Bachelor’s degree in related fields with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a minimum of 5 years working experience in the relevant fields. (Applicants with Bachelor’s Degree in Business, Economics, Software Engineering, Banking &amp; Finance, Engineering, Actuarial Science, Mathematics, and Statistics may be considered for entry to the Master of Finance programme.) Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by the Malaysian Qualifications Agency (MQA). ENGLISH REQUIREMENTS IELTS: 6.5"
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/msc-of-finance",
-    "https://www.studymalaysia.com/what/course/APU/0055061/"
+    "https://www.studymalaysia.com/what/course/APU/0055061/",
+    {
+      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/master-of-finance-243140/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": 0.9,
   "last_updated": "2026-09-14"

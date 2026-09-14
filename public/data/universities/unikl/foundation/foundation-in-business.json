@@ -7,9 +7,25 @@
   "field": "Business & Management",
   "duration": "1 Year",
   "mode": "Full-time",
-  "intakes": ["July"],
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "July"
+  ],
+  "fees": {},
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Level and Requirements For Local Students Pass in SPM / O-Level with at least Grade C in 5 subjects For International Students Students must complete 11 years of schooling and obtain a general pass in their Secondary School Certificate, O-levels or equivalent with min Grade C in 5 subjects including Mathematics and English."
+  },
   "accreditation": {
     "mqa_code": "MQA/FA1759",
     "valid_until": null,
@@ -17,7 +33,12 @@
   },
   "sources": [
     "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
-    "https://studymalaysia.com/what/course/UNIKL/0055848/"
+    "https://studymalaysia.com/what/course/UNIKL/0055848/",
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/foundation-in-business-274644/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "high",
   "last_updated": "2026-09-14"

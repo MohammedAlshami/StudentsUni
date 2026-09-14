@@ -21,7 +21,21 @@
     "per_year_local": 5978,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: STPM: Pass with minimum Grade C (GPA 2.00) in 2 subjects, and pass Mathematics and English in SPM or its equivalent. Sijil Tinggi Agama Malaysia (STAM): Minimum Grade Jayyid, including a pass in Mathematics and English at SPM level (or equivalent). Diploma or Advanced Diploma: Level 4 &amp; 5, MQF (or equivalent). Matriculation/Foundation: Minimum CGPA of 2.00. Unified Examination Certificate (UEC): Minimum Grade B in 5 subjects, including a pass in Mathematics and English. Others: Any equivalent qualification recognised by the Malaysian Government that is acceptable to the University. APEL A English Proficiency (For International Students): Minimum IELTS score of 5.5 or equivalent."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058823/",
@@ -39,6 +53,11 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bba-hons-294525/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

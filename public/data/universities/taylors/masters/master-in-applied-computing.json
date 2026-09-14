@@ -21,7 +21,21 @@
     "international_total": 61105,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of these: A Bachelor’s degree (Level 6, MQF) in Computing or related fields with a minimum CGPA of 2.50, as accepted by the HEP Senate A Bachelor’s degree (Level 6, MQF) in Computing or related fields or equivalent with a minimum CGPA of 2.00 can be accepted subject to a minimum of FIVE (5) years of working experience in the related fields and rigorous internal assessment Other qualifications equivalent to a Bachelor’s degree (Level 6, MQF) in the field of Computing or related fields recognised by the Government of Malaysia must undergo appropriate prerequisite courses as determined by the HEP  Application via APEL A is allowed. For the requirements please refer to the index page. Candidates without a qualification in the related fields or relevant working experience must undergo appropriate prerequisite courses as determined by the HEP and meet a minimum CGPA of 2.00 with minimum of FIVE (5) years of working experience in the related fields, and rigorous internal assessment. English Requirements for International Students: IELTS 6.0 / TOEFL 60 (Internet Based Test) (May join IEN preparatory course and achieve the IELTS score) Bachelor&#39;s Degree from a Different Field: Students without experience in Computing will have to complete and pass a Bridging module (ITS70102 Fundamentals of IT) before undertaking the core modules of the programme.  "
+  },
   "accreditation": null,
   "sources": [
     {
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/taylors-university-252/master-of-applied-computing-294773/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

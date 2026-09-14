@@ -11,14 +11,35 @@
   "intakes": null,
   "fees": {
     "local": "Refer to newinti.edu.my",
-    "international": "Refer to newinti.edu.my"
+    "international": "Refer to newinti.edu.my",
+    "local_total": 2400,
+    "international_total": 15140
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Open entry. "
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "faculty": "English Language Programmes",
   "sources": [
-    "https://studymalaysia.com/what/course/INTI/0006138/"
+    "https://studymalaysia.com/what/course/INTI/0006138/",
+    {
+      "url": "https://www.easyuni.my/malaysia/inti-college-sabah-90/english-improvement-programme-268238/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "high",
   "last_updated": "2026-09-14"

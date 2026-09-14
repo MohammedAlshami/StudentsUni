@@ -16,7 +16,21 @@
     "international_total": 20500,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Matriculation/Foundation/Pre-university/STPM Pass with minimum CGPA of 2.33 in any two (2) of the following subjects: Biology, Physics/Mathematics or Chemistry UEC Pass with minimum of 5B’s, two (2) of which include Biology &amp; Physics/Mathematics A-level Pass with minimum Grade D in two (2) of the following subjects; Biology, Physics/Mathematics or Chemistry Diploma Recognised Diploma with minimum CGPA of 2.75 in a related field; OR Recognised Diploma with minimum CGPA less than 2.75 in a related field and a minimum of 3 years (36 months) working experience in the related field. English Language Requirements Local Student MUET score of minimum band 3 International Students IELTS score of at least 5.5/TOEFL (550) paper-based or equivalent"
+  },
   "accreditation": null,
   "sources": [
     {
@@ -28,6 +42,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/perdana-university-10242/bsc-occupational-therapy-hons-270332/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

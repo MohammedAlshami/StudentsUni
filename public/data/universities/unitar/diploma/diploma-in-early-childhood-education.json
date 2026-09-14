@@ -19,7 +19,21 @@
     "currency": "MYR",
     "international_total": 13706
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "  Pass SPM or its equivalent, with at least three (3) credits in any subjects; OR Pass STPM or its equivalent, with a minimum of Grade C (CGPA 2.0) in any subject; OR Pass STAM with a minimum Grade Maqbul; OR Pass SKM Level 3 in ‘Pengasuhan Awal Kanak-kanak/Prasekolah / Early Childcare for Children/Pre-School’ subject to Senate approval and MUST attend bridging courses; OR Pass Certificate in Early Childhood Education or its equivalent; OR Pass BTEC Level 3 and pass SPM or its equivalent, with at least one (1) credit in any subjects; OR Any recognized Certificate or its equivalent. Language Requirements International students Minimum score of 5.0 for IELTS OR Minimum score of 42 for TOEFL OR its equivalent."
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0005964/",
@@ -32,6 +46,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/diploma-in-early-childhood-education-online-294063/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

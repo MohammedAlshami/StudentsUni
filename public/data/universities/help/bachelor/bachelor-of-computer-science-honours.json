@@ -21,7 +21,21 @@
     "currency": "MYR",
     "international_total": 29850
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Requirements Applicants require one (1) of the following: Recognised Matriculation / Foundation / Equivalent – Minimum CGPA 2.00 OR TWO (2) STPM passes – Grade C (CGPA 2.00) OR TWO (2) A-Level Principal Passes – or equivalent AND a credit in the following at SPM / O-Level or equivalent: Additional Mathematics OR Mathematics AND one Science, Technology, or Engineering subject Grade C (CGPA 2.00) in Mathematics at STPM / A-Level or equivalent AND a credit in one Science, Technology, or Engineering subject at SPM / O-Level or equivalent TWO (2) STPM (Science stream) passes or equivalent – Grade C (CGPA 2.00) in Mathematics AND Science/ICT FIVE (5) UEC Bs – Including Additional Mathematics OR A credit in Additional Mathematics at SPM / O-Level or equivalent OR Grade B in Mathematics at UEC AND a credit in one Science, Technology, or Engineering subject at SPM / O-Level or equivalent Grade B in Mathematics at UEC AND one Science/ICT, Technology, or Engineering subject at UEC FIVE (5) CPU passes – Minimum average of 50% AND a credit in: Additional Mathematics OR Mathematics AND one Science, Technology, or Engineering subject at SPM / O-Level or equivalent FIVE (5) SAM / TEE passes – University aggregate of 50% AND a credit in: Additional Mathematics OR Mathematics AND one Science, Technology, or Engineering subject at SPM / O-Level or equivalent Diploma in Computer Science / Information Systems / Information Technology / Software Engineering or equivalent – Minimum CGPA 2.50 Any other Diploma in Science and Technology – Minimum CGPA 2.50 Notes: Candidates for Diploma in Computer Science, IT, and Science and Technology (CGPA below 2.50 but above 2.00) may be admitted subject to rigorous internal assessment. Candidates for certain categories may need to take Mathematics reinforcement subjects relevant to Computer Science. Students must pass Mathematics reinforcement subjects before taking core courses that require them. Mathematics reinforcement subject credits are additional to core subjects but can be considered for undergraduate credit. Mathematics reinforcement may be waived if equivalent or higher Mathematics subjects were taken in Matriculation or Foundation. English Language Requirement (International Applicants) IELTS – 5.0 TOEFL – 500 Equivalent qualification"
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058728/",
@@ -35,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-of-computer-science-hons-226640/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

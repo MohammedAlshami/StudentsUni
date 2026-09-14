@@ -31,7 +31,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Entry Requirements: Pass Foundation/Matriculation studies in a related field from a recognised institution; OR Pass STPM or its equivalent with a minimum of Grade C (GP 2.00) in Mathematics and Physics; OR Pass A-Level with a minimum of Grade D in Mathematics and Physics; OR Pass UEC with a minimum of Grade B in at least five (5) subjects, including Mathematics and Physics; OR Recognised Diploma in Engineering / Engineering Technology or its equivalent with a minimum CGPA of 2.00; OR Pass DKM/DLKM/DVM with a minimum CGPA of 2.50. Candidates with a CGPA below 2.50 MUST have at least two (2) years of work experience in the related field*; OR Possess an APEL.A certificate from MQA for admission into Bachelor programmes.  Note: *DKM/DLKM/DVM candidates may be required to undergo a Bridging Programme as an additional requirement."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -67,6 +68,11 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/bachelor-of-engineering-hons-electrical-293203/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

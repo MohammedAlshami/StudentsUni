@@ -27,7 +27,8 @@
     },
     "currency": "MYR",
     "local_total": 28800,
-    "per_year_local": null
+    "per_year_local": null,
+    "international_total": 31800
   },
   "requirements": {
     "local": "SPM / equivalent with credits in Mathematics, Physics, and Chemistry",
@@ -44,6 +45,11 @@
       "url": "https://www.studymalaysia.com/edu/uniten/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/universiti-tenaga-nasional-uniten-272/diploma-in-electrical-engineering-274764/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

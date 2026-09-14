@@ -18,7 +18,21 @@
     "currency": "MYR",
     "international_total": 16361
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any of These: SPM/SPMV: Credit in any five (5) subjects O Level: Grade C in any five (5) subjects UEC: Grade B in three (3) subjects IB-Middle Year Programme: 28 total points across the certificate’s 7 components Other qualifications recognised as equivalent"
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/iumw/courses/",
@@ -31,6 +45,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/university-of-malaya-wales-11602/foundation-in-arts-270006/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -20,7 +20,21 @@
     "currency": "MYR",
     "international_total": 19942
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: Engineering Pathway SPM / O Level / Equivalent : 5 credits including Mathematics and Physics UEC / Equivalent : 3Bs including Mathematics and Physics Note: Entry to Bachelor of Science (Hons) Quantity Surveying (BQSI) Students are required to obtain a credit in BM and English at SPM or UEC prior to progressing to BQSI. Biological Science/ Bioscience &amp; Pure Science / Other Science Area Pathway *SPM / O Level / Equivalent : 5 credits including Mathematics and two other Pure Science subjects and a pass in Bahasa Malaysia and English *UEC / Equivalent : 3Bs including Mathematics, two other Science subjects and a pass in English *Note: Depending on the final degree choice (Medicine, Dentistry, Pharmacy, Health Science and Allied Health). Please refer to the Head of Programme for further information on the requirements Computer Science &amp; Information Technology Pathway SPM / O Level / Equivalent : 5 credits including Mathematics (Credit in Additional Mathematics /equivalent required for Computer Science) UEC / Equivalent : 3Bs including Additional Mathematics, two Science subjects and a pass in English Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
+  },
   "accreditation": "Internal Qualification, Malaysia",
   "awarding_country": "Malaysia",
   "faculty": "Pre-University",
@@ -36,6 +50,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/inti-international-college-penang-93/foundation-in-science-293642/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -21,7 +21,21 @@
     "notes": "Fee: FromRM37,800.00",
     "international_total": 16900
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "SPM / O-Level: Pass with a minimum of 3 credits, including Mathematics and a pass in English UEC: Pass with a minimum of 3Bs, including Mathematics and a pass in English Sijil Kemahiran Malaysia (SKM) Level 3: In a related field, and pass SPM with 1 credit in Mathematics and a pass in English Certificate (MQF Level 3): In a related field, with a minimum CGPA of 2.00, and a pass in Mathematics and English at SPM level Other equivalent qualifications as recognised by the Malaysian Government English Competency (International Students) MUET Band 3 or IELTS 4.0 (or equivalent)"
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -36,6 +50,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/sunway-college-ipoh-168/diploma-in-accounting-dacc-294960/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

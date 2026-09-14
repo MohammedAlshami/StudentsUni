@@ -23,7 +23,8 @@
   },
   "requirements": {
     "general": "SPM with at least credit in THREE subjects, or SKM Level 3, or Certificate Level 3 MQF with CGPA 2.00, or STPM Grade C (GP 2.0), or STAM Grade Maqbul",
-    "english_international": "Minimum IELTS 5.0 or equivalent"
+    "english_international": "Minimum IELTS 5.0 or equivalent",
+    "general_text": "Any one of the following: Possesses SPM with at least credit in THREE subjects. Possesses SKM Level 3 in the related field. A Certificate (Level 3, MQF) in the related field with at least a CGPA of 2.00. A pass in Sijil Tinggi Pelajaran Malaysia (STPM) with at least Grade C (GP 2.0) in any subject. A pass in Sijil Tinggi Agama Malaysia (STAM) with at least Grade Maqbul. Other equivalent qualifications recognised by the Malaysian Government. English Requirements (International Students) Minimum IELTS 5.0 or equivalent International English Language qualification."
   },
   "accreditation": {
     "mqa_code": "R3/0410/4/0024",
@@ -48,6 +49,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/diploma-in-business-26767/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -1,0 +1,59 @@
+{
+  "programs": [
+    {
+      "slug": "bachelor-accounting-hons",
+      "name": "Bachelor of Accounting (Hons)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-arts-interior-architecture-hons",
+      "name": "Bachelor of Arts (Hons) in Interior Architecture",
+      "field": "Design & Creative Media"
+    },
+    {
+      "slug": "bachelor-business-hons",
+      "name": "Bachelor of Business (Hons)",
+      "field": "Business & Management"
+    },
+    {
+      "slug": "bachelor-communication-hons",
+      "name": "Bachelor of Communication (Hons)",
+      "field": "Communication & Media"
+    },
+    {
+      "slug": "bachelor-computer-science-hons",
+      "name": "Bachelor of Computer Science (Hons)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-electrical-electronics-engineering-hons",
+      "name": "Bachelor of Electrical and Electronics Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-game-development-hons",
+      "name": "Bachelor of Game Development (Honours)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-hospitality-management-hons",
+      "name": "Bachelor of Hospitality Management (Honours)",
+      "field": "Hospitality & Tourism"
+    },
+    {
+      "slug": "bachelor-information-systems-hons",
+      "name": "Bachelor of Information Systems (Honours)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-mechanical-engineering-hons",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-mechatronics-engineering-hons",
+      "name": "Bachelor of Mechatronics Engineering with Honours",
+      "field": "Engineering"
+    }
+  ]
+}

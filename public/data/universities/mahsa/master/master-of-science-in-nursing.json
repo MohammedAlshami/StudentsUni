@@ -16,7 +16,21 @@
     "international_total": 22800,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Bachelor degree in Nursing or nursing related Registered with Nursing Board Malaysia or its equivalent Possess current Annual Practicing Certificate (APC) Minimum three (3) years working experience   English Requirements for International Students: Temporary Practice Certificate (TPC) IELTS minimum 6.5 TOEFL minimum 600 or equivalent"
+  },
   "accreditation": null,
   "sources": [
     {
@@ -28,6 +42,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/mahsa-university-213/master-of-nursing-271088/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

@@ -20,7 +20,8 @@
     "international_total": 16100
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: STPM – min. of Grade C (GP 2.00) in any two (2) subjects Unified Examination Certificate (UEC) with at least 5Bs Matriculation/Foundation or equivalent Diploma – (Level 4, MQF) min. CGPA of 2.00 Diploma Kemahiran Malaysia (DKM) / Diploma Lanjutan Kemahiran Malaysia (DLKM) / Diploma Vokasional Malaysia (DVM) in suitable fields with a minimum CGPA of 2.50 subject to Senate / Academic Board’s approval Note: The HEPs are to conduct screening and provide necessary guidance specific to the discipline of the programme DKM / DLKM / DVM – min. CGPA of 2.00 and two (2) years working experience in a related discipline Other equivalent qualifications recognised by the Malaysian Government. Pass an interview OR submission of portfolio determined by the HEP MUET Band 3"
   },
   "accreditation": null,
   "sources": [
@@ -34,6 +35,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/ba-hons-visual-communication-design-294335/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

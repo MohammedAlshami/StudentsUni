@@ -32,8 +32,28 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-of-tourism-management-honours-226826/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-14",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Entry Requirements Any one of the following: HELP Foundation in Arts / Foundation in Science – Minimum CGPA 2.0 out of 4.0 HELP Diploma in Business – Minimum CGPA 2.0 out of 4.0 STPM – 2 Cs* A-Levels – 2 passes Senior Middle 3 (UEC) – 5 Bs** Canadian Pre-University (CPU) – 5 passes with a minimum average of 50% Australian Matriculation Programmes – University Aggregate of 50% or ATAR score of at least 50 Equivalent qualification Additional Requirements *The stated qualifications need to be supported with a pass in Sejarah and Bahasa Melayu at SPM level. Please refer to the Faculty of Business, Economics, and Accounting on the Mathematics and English requirement. English Requirement (International Students) Minimum IELTS 5.0 or equivalent International English Language qualification."
+  }
 }

@@ -21,7 +21,21 @@
     "international_total": 20000,
     "notes": "From EasyUni"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: i) A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent ii) A pass in Matriculation /Foundation / Pre- University studies related to Architecture &amp; related field with minimum CGPA of 2.0 iii) A pass in STPM with a minimum Grade C(GP2.0) in any subjects and a credit in Mathematics at SPM level or its equivalent iv) A Diploma. (Level4 ,MQF) in Architecture &amp; related field with minimum CGPA of 2.0 v) An Advanced Diploma (Level 5, MQF) in Architecture &amp; related field or equivalent with a minimum CGPA of 2.0 as accepted by the senate vi) Any other Diploma Level 4, MQF) in Science and technology with a minimum CGPA of 2.5 may be admitted, subject to a rigorous internal assessment process and a credit in Mathematics at SPM level or its equivalent vii) *Pass DKM/DLKM/DVM (HEP is required to implement a screening and bridging program which correspond to the program field). AND For qualifications (i), (iii), (vi) and (vii): a. Passed Art (Pendidikan Seni)/ Engineering Drawing subjects at SPM level or equivalent b. Pass the portfolio test for those who fail or do not take Art subjects. English Requirements for International Students IELTS minimum score of 4.0 Malaysian University English Test (MUET) with Band 3 or its equivalent    "
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,6 +47,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/bachelor-of-interior-design-hons-293510/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

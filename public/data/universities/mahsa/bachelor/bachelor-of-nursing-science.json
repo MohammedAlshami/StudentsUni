@@ -1,0 +1,43 @@
+{
+  "program_name": "Bachelor of Sport Science (Honours)",
+  "field": "",
+  "duration": "42 months",
+  "mode": "Onsite",
+  "intakes": [],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 78900,
+    "international_total": 83300,
+    "per_year_local": null,
+    "per_year_international": null,
+    "notes": ""
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": null,
+      "english_requirement": null
+    },
+    "general_text": "Any one of these: Pass Matriculation/Pre-University/STPM or equivalent with minimum GPA 2.33 in TWO of the following subjects: Biology, Physics/Mathematics &amp; Chemistry Pass A-level or equivalent with minimum Grade D in TWO of the following subjects; Biology, Physics/Mathematics &amp; Chemistry Pass Diploma (Level 4 MQF) with minimum CGPA of 2.75 in related field Pass Diploma (Level 4 MQF) with CGPA less than 2.75 in related field and a minimum of 3 years working experience in the related field Other recognized qualification of equivalence English Proficiency Requirements: Local Students: MUET Band 3/IELTS (5.5)/TOEFL (550) International students: TOEFL (550)/IELTS (5.5) or equivalent"
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    {
+      "url": "https://www.easyuni.my/malaysia/mahsa-university-213/bachelor-of-sports-science-hons-294228/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-14"
+}

@@ -1,0 +1,19 @@
+{
+  "programs": [
+    {
+      "slug": "doctor-of-philosophy-management",
+      "name": "Doctor of Philosophy (Management)",
+      "field": "Management"
+    },
+    {
+      "slug": "master-of-business-administration",
+      "name": "Master of Business Administration (MBA)",
+      "field": "Business Administration"
+    },
+    {
+      "slug": "master-of-science-management",
+      "name": "Master of Science (Management)",
+      "field": "Management"
+    }
+  ]
+}

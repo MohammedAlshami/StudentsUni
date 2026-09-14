@@ -19,7 +19,8 @@
     "international_total": 32063
   },
   "requirements": {
-    "academic": null
+    "academic": null,
+    "general_text": "Any one of these: SPM 5 credits including 3 Science subjects STPM (Science) with minimum CGPA of 2.50 UEC (minimum B5 in 3 Science subjects, B6 in other 2 other subjects and must have passed SPM) 3Ds in A-Level (Science) Foundation/Pre-University (Science) with CGPA of 2.5 or above Any equivalent Pre-U qualifications (Science)  Diploma in any Science discipline (CGPA of 2.75 or above) Diploma in Opticianry or Optical Dispensing (CGPA of 2.75 or above)  "
   },
   "accreditation": null,
   "sources": [
@@ -33,6 +34,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/segi-university-246/bachelor-of-optometry-hons-226238/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",

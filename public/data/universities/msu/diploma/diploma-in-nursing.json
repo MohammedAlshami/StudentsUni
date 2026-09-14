@@ -32,7 +32,8 @@
       "ib": null,
       "other_qualifications": null,
       "english_requirement": null
-    }
+    },
+    "general_text": "Malaysian Student: Pass SPM with 5 credits in the following subjects: Mathematics Science (General Science/ Pure Science- Biology/Chemistry/Physics) 3 other subjects A pass in Bahasa Malaysia and English Language . International Student: Pass O Level or SPM equivalent with 5 credits in the following subjects: Mathematics Science (General Science/ Pure Science- Biology/Chemistry/Physics) 3 other subjects English Language Proficiency (a must for students whose medium of instruction is not English) Pass International English Testing System (IELTS) with minimum score of 5.50 Pass Test of English as Foreign Language (TOEFL) with minimum score of 5.50 Pass English Language (O level or SPM 1119 equivalent) Pass Unified Examination Certificate (UEC) with 2.50 CGPA or at grade B5 in Science subject and B6 for 2 other subjects; Other equivalent qualification recognised by the Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,6 +59,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/diploma-in-nursing-279250/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-14"
     }
   ],
   "confidence": "high",
