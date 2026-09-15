@@ -1,9 +1,11 @@
 "use client";
 
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { motion } from "framer-motion";
+import { useTranslations } from "next-intl";
 import { ArrowRight, MapPin } from "lucide-react";
 import { UNIVERSITY_PHOTOS } from "@/lib/university-images";
+import { institutionTypeLabel } from "@/components/marketing-ui";
 
 export type FeaturedUniversity = {
   slug: string;
@@ -13,13 +15,8 @@ export type FeaturedUniversity = {
   state: string | null;
 };
 
-const TYPE_LABELS: Record<string, string> = {
-  "public-university": "Public University",
-  "private-university": "Private University",
-  "private-university-college": "Private University College",
-};
-
 export function FeaturedUniversities({ items }: { items: FeaturedUniversity[] }) {
+  const tCommon = useTranslations("common");
   return (
     <div className="mt-[42px] grid gap-[26px] md:grid-cols-3">
       {items.map((u, i) => (
@@ -42,7 +39,7 @@ export function FeaturedUniversities({ items }: { items: FeaturedUniversity[] })
           </Link>
           <div className="px-[21px]">
             <p className="mt-[21px] text-[12px] font-bold uppercase tracking-[.1em] text-[#285b50]">
-              {TYPE_LABELS[u.type] ?? u.type}
+              {institutionTypeLabel(tCommon, u.type)}
             </p>
             <Link href={`/universities/${u.slug}`}>
               <h3 className="mt-[6px] text-[21px] font-bold leading-tight hover:underline">
@@ -58,7 +55,7 @@ export function FeaturedUniversities({ items }: { items: FeaturedUniversity[] })
               href={`/universities/${u.slug}`}
               className="mt-[16px] inline-flex items-center gap-[6px] text-[13px] font-bold uppercase tracking-wide text-[#285b50] hover:underline"
             >
-              View programmes <ArrowRight size={14} />
+              {tCommon("viewProgrammes")} <ArrowRight size={14} className="rtl:rotate-180" />
             </Link>
           </div>
         </motion.article>

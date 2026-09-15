@@ -1,6 +1,13 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { ArrowRight } from "lucide-react";
 import type { ReactNode } from "react";
+
+const KNOWN_INSTITUTION_TYPES = ["public-university", "private-university", "private-university-college"];
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export function institutionTypeLabel(t: any, type: string): string {
+  return KNOWN_INSTITUTION_TYPES.includes(type) ? t(`institutionTypes.${type}`) : type;
+}
 
 export const wrap =
   "mx-auto w-[min(1279px,calc(100%-2.6rem))] md:w-[min(1279px,calc(100%-5.2rem))]";
@@ -34,7 +41,7 @@ export function Pill({
       }`}
     >
       {children}
-      <ArrowRight size={17} />
+      <ArrowRight size={17} className="rtl:rotate-180" />
     </Link>
   );
 }

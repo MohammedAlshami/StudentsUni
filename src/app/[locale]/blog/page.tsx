@@ -1,8 +1,10 @@
 import fs from "fs";
 import path from "path";
 import { ArrowUpRight } from "lucide-react";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import BlogClient from "@/components/blog-client";
 import { wrap, Pic, Label, Heading, Pill } from "@/components/marketing-ui";
+import { routing } from "@/i18n/routing";
 
 export type BlogPostSummary = {
   slug: string;
@@ -29,8 +31,16 @@ function loadPosts(): BlogPostSummary[] {
   return raw.posts;
 }
 
-export default function BlogPage() {
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }));
+}
+
+export default async function BlogPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   const posts = loadPosts();
+  const t = await getTranslations("blogPage");
+  const tCommon = await getTranslations("common");
 
   return (
     <div className="bg-white font-sans text-[#242927]">
@@ -41,13 +51,12 @@ export default function BlogPage() {
         }}
       >
         <div className={wrap}>
-          <Label>StudentsUni Blog</Label>
+          <Label>{t("hero.label")}</Label>
           <h1 className="max-w-[874px] text-[55px] font-bold leading-[.9] tracking-[-.07em] md:text-[73px]">
-            Guides for your<br />next big decision.
+            {t("hero.titleLine1")}<br />{t("hero.titleLine2")}
           </h1>
           <p className="mt-[26px] max-w-[582px] text-[18px] leading-relaxed text-white/80">
-            {posts.length} honest, practical guides on costs, applications, scholarships, and
-            choosing the right path — written for students navigating Malaysian higher education.
+            {t("hero.subtitle", { count: posts.length })}
           </p>
         </div>
       </div>
@@ -57,23 +66,22 @@ export default function BlogPage() {
       <div className="bg-[#f5efeb] py-[83px]">
         <div className={wrap}>
           <div className="mx-auto mb-[21px] grid h-[52px] w-[52px] place-items-center rounded-full border-[3px] border-[#285b50] text-[#285b50]">
-            <ArrowUpRight size={25} />
+            <ArrowUpRight size={25} className="rtl:rotate-90" />
           </div>
           <div className="grid grid-cols-[130px_1fr_130px] items-center gap-[16px] bg-white p-[26px] text-center md:grid-cols-[237px_1fr_231px] md:gap-[26px] md:p-[42px]">
             <Pic src={CTA_IMG_1} className="h-[220px] w-full md:h-[270px]" />
             <div>
-              <Label>Free consultation</Label>
+              <Label>{tCommon("freeConsultation")}</Label>
               <Heading className="text-[29px] md:text-[36px]">
-                Still have
+                {t("cta.titleLine1")}
                 <br />
-                questions?
+                {t("cta.titleLine2")}
               </Heading>
               <p className="mx-auto mt-[16px] max-w-[380px] text-[14px] leading-relaxed text-black/60">
-                Talk to a StudentsUni counsellor for guidance tailored to your grades, budget, and
-                goals.
+                {t("cta.body")}
               </p>
               <div className="mt-[21px]">
-                <Pill href="/contact">Talk to us</Pill>
+                <Pill href="/contact">{tCommon("talkToUs")}</Pill>
               </div>
             </div>
             <Pic src={CTA_IMG_2} className="h-[220px] w-full md:h-[270px]" />

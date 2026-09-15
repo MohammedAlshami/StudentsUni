@@ -1,5 +1,7 @@
 import { BadgeCheck, Globe2, HeartHandshake, ArrowUpRight } from "lucide-react";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { wrap, Pic, Label, Heading, Pill } from "@/components/marketing-ui";
+import { routing } from "@/i18n/routing";
 
 const HERO_IMG =
   "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=85";
@@ -15,38 +17,19 @@ const CTA_IMG_1 =
 const CTA_IMG_2 =
   "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80";
 
-const TEAM = [
-  { name: "Counselor 1", role: "Senior Education Counselor" },
-  { name: "Counselor 2", role: "University Relations Manager" },
-  { name: "Counselor 3", role: "Student Support Specialist" },
-];
+const MISSION_ICONS = [BadgeCheck, Globe2, HeartHandshake];
 
-const MILESTONES = [
-  { year: "2020", event: "Founded" },
-  { year: "2021", event: "Helped first 100 students" },
-  { year: "2023", event: "Partnered with 30+ universities" },
-  { year: "2025", event: "Expanded to 96 university listings" },
-];
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }));
+}
 
-const MISSION = [
-  {
-    icon: BadgeCheck,
-    title: "Transparency",
-    desc: "Accurate, sourced data on fees, requirements, and accreditation.",
-  },
-  {
-    icon: Globe2,
-    title: "Accessibility",
-    desc: "Free tools and consultation for every student.",
-  },
-  {
-    icon: HeartHandshake,
-    title: "Guidance",
-    desc: "Personal support from first inquiry to enrollment.",
-  },
-];
-
-export default function AboutPage() {
+export default async function AboutPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations("about");
+  const missionItems = t.raw("mission.items") as Array<{ title: string; desc: string }>;
+  const teamMembers = t.raw("team.members") as Array<{ name: string; role: string }>;
+  const milestones = t.raw("timeline.milestones") as Array<{ year: string; event: string }>;
   return (
     <div className="bg-white font-sans text-[#242927]">
       {/* Hero */}
@@ -57,13 +40,12 @@ export default function AboutPage() {
         }}
       >
         <div className={wrap}>
-          <Label>Who we are</Label>
+          <Label>{t("hero.label")}</Label>
           <h1 className="max-w-[874px] text-[55px] font-bold leading-[.9] tracking-[-.07em] md:text-[73px]">
-            Helping students find<br />their right fit.
+            {t("hero.titleLine1")}<br />{t("hero.titleLine2")}
           </h1>
           <p className="mt-[26px] max-w-[582px] text-[18px] leading-relaxed text-white/80">
-            We help students find and enroll in the right university in Malaysia — free,
-            transparent, and student-first.
+            {t("hero.subtitle")}
           </p>
         </div>
       </div>
@@ -72,22 +54,11 @@ export default function AboutPage() {
       <div className="py-[83px]">
         <div className={`${wrap} grid grid-cols-1 items-center gap-[52px] md:grid-cols-2`}>
           <div>
-            <Label>Our story</Label>
-            <Heading>A single place for every option.</Heading>
-            <p className="mt-[21px] text-[16px] leading-relaxed text-black/60">
-              StudentsUni was created to simplify the university search and application process
-              for students in Malaysia. We noticed that finding the right program — with accurate
-              fees, requirements, and accreditation info — was unnecessarily difficult.
-            </p>
-            <p className="mt-[16px] text-[16px] leading-relaxed text-black/60">
-              Our platform aggregates data from official university sources and recognized
-              education portals, giving students a single place to compare options and make
-              informed decisions.
-            </p>
-            <p className="mt-[16px] text-[16px] leading-relaxed text-black/60">
-              Beyond the website, we offer free consultation services to guide students through
-              the application and enrollment process.
-            </p>
+            <Label>{t("story.label")}</Label>
+            <Heading>{t("story.title")}</Heading>
+            <p className="mt-[21px] text-[16px] leading-relaxed text-black/60">{t("story.p1")}</p>
+            <p className="mt-[16px] text-[16px] leading-relaxed text-black/60">{t("story.p2")}</p>
+            <p className="mt-[16px] text-[16px] leading-relaxed text-black/60">{t("story.p3")}</p>
           </div>
           <Pic src={STORY_IMG} className="h-[420px] w-full" />
         </div>
@@ -97,17 +68,20 @@ export default function AboutPage() {
       <div className="bg-[#f5efeb] py-[83px]">
         <div className={wrap}>
           <div className="text-center">
-            <Label>What drives us</Label>
-            <Heading>Our mission</Heading>
+            <Label>{t("mission.label")}</Label>
+            <Heading>{t("mission.title")}</Heading>
           </div>
           <div className="mt-[42px] grid grid-cols-1 gap-[26px] sm:grid-cols-3">
-            {MISSION.map((item) => (
-              <div key={item.title} className="border border-black/10 bg-white p-[26px] text-center">
-                <item.icon size={28} className="mx-auto text-[#285b50]" />
-                <p className="mt-[16px] text-[16px] font-bold">{item.title}</p>
-                <p className="mt-[8px] text-[13px] leading-relaxed text-black/55">{item.desc}</p>
-              </div>
-            ))}
+            {missionItems.map((item, i) => {
+              const Icon = MISSION_ICONS[i];
+              return (
+                <div key={item.title} className="border border-black/10 bg-white p-[26px] text-center">
+                  <Icon size={28} className="mx-auto text-[#285b50]" />
+                  <p className="mt-[16px] text-[16px] font-bold">{item.title}</p>
+                  <p className="mt-[8px] text-[13px] leading-relaxed text-black/55">{item.desc}</p>
+                </div>
+              );
+            })}
           </div>
         </div>
       </div>
@@ -116,11 +90,11 @@ export default function AboutPage() {
       <div className="py-[83px]">
         <div className={wrap}>
           <div className="text-center">
-            <Label>Meet the team</Label>
-            <Heading>Our counsellors</Heading>
+            <Label>{t("team.label")}</Label>
+            <Heading>{t("team.title")}</Heading>
           </div>
           <div className="mt-[42px] grid grid-cols-1 gap-[26px] sm:grid-cols-3">
-            {TEAM.map((member, i) => (
+            {teamMembers.map((member, i) => (
               <div key={member.name} className="border border-black/10 bg-white p-[26px] text-center">
                 <img
                   src={TEAM_IMGS[i]}
@@ -139,14 +113,14 @@ export default function AboutPage() {
       <div className="bg-[#f5efeb] py-[83px]">
         <div className={wrap}>
           <div className="text-center">
-            <Label>Since 2020</Label>
-            <Heading>Our journey</Heading>
+            <Label>{t("timeline.label")}</Label>
+            <Heading>{t("timeline.title")}</Heading>
           </div>
           <div className="mt-[42px] flex justify-center">
             <div className="space-y-[16px]">
-              {MILESTONES.map((m) => (
+              {milestones.map((m) => (
                 <div key={m.year} className="flex items-center gap-[16px]">
-                  <span className="w-[48px] text-right text-[15px] font-bold text-[#285b50]">
+                  <span className="w-[48px] text-end text-[15px] font-bold text-[#285b50]">
                     {m.year}
                   </span>
                   <div className="h-px w-[16px] bg-black/20" />
@@ -162,19 +136,19 @@ export default function AboutPage() {
       <div className="py-[83px]">
         <div className={wrap}>
           <div className="mx-auto mb-[21px] grid h-[52px] w-[52px] place-items-center rounded-full border-[3px] border-[#285b50] text-[#285b50]">
-            <ArrowUpRight size={25} />
+            <ArrowUpRight size={25} className="rtl:rotate-90" />
           </div>
           <div className="grid grid-cols-[130px_1fr_130px] items-center gap-[16px] bg-[#f5efeb] p-[26px] text-center md:grid-cols-[237px_1fr_231px] md:gap-[26px] md:p-[42px]">
             <Pic src={CTA_IMG_1} className="h-[220px] w-full md:h-[270px]" />
             <div>
-              <Label>Get in touch</Label>
+              <Label>{t("cta.label")}</Label>
               <Heading className="text-[29px] md:text-[36px]">
-                Want to work
+                {t("cta.titleLine1")}
                 <br />
-                with us?
+                {t("cta.titleLine2")}
               </Heading>
               <div className="mt-[21px]">
-                <Pill href="/contact">Get in Touch</Pill>
+                <Pill href="/contact">{t("cta.button")}</Pill>
               </div>
             </div>
             <Pic src={CTA_IMG_2} className="h-[220px] w-full md:h-[270px]" />

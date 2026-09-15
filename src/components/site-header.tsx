@@ -1,9 +1,10 @@
 "use client";
 
-import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { Link, usePathname } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 import { Menu, Phone } from "lucide-react";
 import { wrap } from "@/components/marketing-ui";
+import { LanguageSwitcher } from "@/components/language-switcher";
 
 // Pages whose very first section is a full-bleed photo/color hero get a
 // transparent header that overlays it (matching the landing page). Everywhere
@@ -21,23 +22,25 @@ function isHeroPage(pathname: string): boolean {
 export function SiteHeader() {
   const pathname = usePathname();
   const transparent = isHeroPage(pathname);
+  const t = useTranslations("nav");
 
   return (
     <header className={transparent ? "absolute inset-x-0 top-0 z-20 bg-transparent text-white" : "relative bg-[#285b50] text-white"}>
       <div
         className={`${wrap} flex h-[83px] items-center gap-[42px] text-[14px] font-semibold uppercase tracking-wide`}
       >
-        <Link href="/" className="mr-auto flex items-center gap-[10px] text-[23px] font-bold normal-case tracking-tight">
+        <Link href="/" className="me-auto flex items-center gap-[10px] text-[23px] font-bold normal-case tracking-tight">
           <img src="/logo-light.svg" alt="" className="h-[31px] w-auto" />
           StudentsUni
         </Link>
         <nav className="hidden gap-[31px] md:flex">
-          <Link href="/universities">Universities</Link>
-          <Link href="/programs">Programs</Link>
-          <Link href="/blog">Blog</Link>
-          <Link href="/services">How we help</Link>
-          <Link href="/about">About</Link>
+          <Link href="/universities">{t("universities")}</Link>
+          <Link href="/programs">{t("programs")}</Link>
+          <Link href="/blog">{t("blog")}</Link>
+          <Link href="/services">{t("howWeHelp")}</Link>
+          <Link href="/about">{t("about")}</Link>
         </nav>
+        <LanguageSwitcher variant="dark" />
         <a
           href="tel:+60102067888"
           className="hidden items-center gap-[5px] rounded-full bg-white px-[16px] py-[10px] text-[13px] text-[#242927] md:flex"

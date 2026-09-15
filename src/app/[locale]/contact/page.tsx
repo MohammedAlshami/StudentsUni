@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useTranslations } from "next-intl";
 import { Clock, Mail, MapPin, MessageCircle } from "lucide-react";
 import { wrap, Label } from "@/components/marketing-ui";
 
@@ -13,6 +14,7 @@ const labelClass = "mb-[6px] block text-[12px] font-bold uppercase tracking-[.06
 
 export default function ContactPage() {
   const [submitted, setSubmitted] = useState(false);
+  const t = useTranslations("contact");
 
   return (
     <div className="bg-white font-sans text-[#242927]">
@@ -24,13 +26,12 @@ export default function ContactPage() {
         }}
       >
         <div className={wrap}>
-          <Label>Get in touch</Label>
+          <Label>{t("hero.label")}</Label>
           <h1 className="max-w-[874px] text-[55px] font-bold leading-[.9] tracking-[-.07em] md:text-[73px]">
-            Let&apos;s find your<br />next step together.
+            {t("hero.titleLine1")}<br />{t("hero.titleLine2")}
           </h1>
           <p className="mt-[26px] max-w-[582px] text-[18px] leading-relaxed text-white/80">
-            Free consultation, application help, and honest advice — reach out any way that
-            works for you.
+            {t("hero.subtitle")}
           </p>
         </div>
       </div>
@@ -40,12 +41,12 @@ export default function ContactPage() {
         <div className="grid grid-cols-1 gap-[26px] lg:grid-cols-3">
           {/* Form */}
           <div className="border-t-[4px] border-x border-b border-x-black/10 border-b-black/10 border-t-[#285b50] bg-white p-[32px] lg:col-span-2">
-            <Label>Send a message</Label>
+            <Label>{t("form.label")}</Label>
             {submitted ? (
               <div className="py-[52px] text-center">
-                <p className="text-[19px] font-bold">Thank you!</p>
+                <p className="text-[19px] font-bold">{t("form.thankYouTitle")}</p>
                 <p className="mt-[10px] text-[14px] text-black/60">
-                  We&apos;ve received your message. We&apos;ll get back to you within 24 hours.
+                  {t("form.thankYouBody")}
                 </p>
               </div>
             ) : (
@@ -58,51 +59,51 @@ export default function ContactPage() {
               >
                 <div className="grid grid-cols-1 gap-[16px] sm:grid-cols-2">
                   <div>
-                    <label className={labelClass}>Full Name</label>
-                    <input type="text" required className={inputClass} placeholder="Your name" />
+                    <label className={labelClass}>{t("form.fullName")}</label>
+                    <input type="text" required className={inputClass} placeholder={t("form.fullNamePlaceholder")} />
                   </div>
                   <div>
-                    <label className={labelClass}>Email</label>
+                    <label className={labelClass}>{t("form.email")}</label>
                     <input type="email" required className={inputClass} placeholder="you@email.com" />
                   </div>
                 </div>
                 <div className="grid grid-cols-1 gap-[16px] sm:grid-cols-2">
                   <div>
-                    <label className={labelClass}>Phone (WhatsApp)</label>
+                    <label className={labelClass}>{t("form.phone")}</label>
                     <input type="tel" className={inputClass} placeholder="6010-2067388" />
                   </div>
                   <div>
-                    <label className={labelClass}>I am a</label>
+                    <label className={labelClass}>{t("form.iAmA")}</label>
                     <select className={inputClass}>
-                      <option>Prospective Student</option>
-                      <option>Parent / Guardian</option>
-                      <option>Other</option>
+                      <option>{t("form.options.student")}</option>
+                      <option>{t("form.options.parent")}</option>
+                      <option>{t("form.options.other")}</option>
                     </select>
                   </div>
                 </div>
                 <div>
-                  <label className={labelClass}>Level of Study</label>
+                  <label className={labelClass}>{t("form.levelOfStudy")}</label>
                   <select className={inputClass}>
-                    <option>Foundation</option>
-                    <option>Diploma</option>
-                    <option>Bachelor&apos;s Degree</option>
-                    <option>Master&apos;s Degree</option>
-                    <option>PhD</option>
+                    <option>{t("form.levels.foundation")}</option>
+                    <option>{t("form.levels.diploma")}</option>
+                    <option>{t("form.levels.bachelor")}</option>
+                    <option>{t("form.levels.master")}</option>
+                    <option>{t("form.levels.phd")}</option>
                   </select>
                 </div>
                 <div>
-                  <label className={labelClass}>Message</label>
+                  <label className={labelClass}>{t("form.message")}</label>
                   <textarea
                     rows={4}
                     className={`${inputClass} resize-none`}
-                    placeholder="Tell us about your education goals, preferred university, or any questions..."
+                    placeholder={t("form.messagePlaceholder")}
                   />
                 </div>
                 <button
                   type="submit"
                   className="rounded-full bg-[#285b50] px-[28px] py-[12px] text-[14px] font-bold uppercase tracking-wide text-white transition-opacity hover:opacity-90"
                 >
-                  Send Message
+                  {t("form.send")}
                 </button>
               </form>
             )}
@@ -112,30 +113,30 @@ export default function ContactPage() {
           <div className="space-y-[16px]">
             <div className="border border-black/10 bg-[#f5efeb] p-[21px]">
               <p className="flex items-center gap-[8px] text-[12px] font-bold uppercase tracking-[.06em] text-black/50">
-                <MessageCircle size={14} /> WhatsApp
+                <MessageCircle size={14} /> {t("info.whatsapp")}
               </p>
               <p className="mt-[8px] text-[15px] font-semibold">6010-2067388</p>
-              <p className="text-[12px] text-black/50">Fastest way to reach us</p>
+              <p className="text-[12px] text-black/50">{t("info.whatsappSub")}</p>
             </div>
             <div className="border border-black/10 bg-[#f5efeb] p-[21px]">
               <p className="flex items-center gap-[8px] text-[12px] font-bold uppercase tracking-[.06em] text-black/50">
-                <Mail size={14} /> Email
+                <Mail size={14} /> {t("info.email")}
               </p>
               <p className="mt-[8px] text-[15px] font-semibold">info@studentsuni.com</p>
             </div>
             <div className="border border-black/10 bg-[#f5efeb] p-[21px]">
               <p className="flex items-center gap-[8px] text-[12px] font-bold uppercase tracking-[.06em] text-black/50">
-                <MapPin size={14} /> Office
+                <MapPin size={14} /> {t("info.office")}
               </p>
-              <p className="mt-[8px] text-[14px] text-black/70">Kuala Lumpur, Malaysia</p>
-              <p className="text-[12px] text-black/50">Walk-ins by appointment only</p>
+              <p className="mt-[8px] text-[14px] text-black/70">{t("info.officeLocation")}</p>
+              <p className="text-[12px] text-black/50">{t("info.officeSub")}</p>
             </div>
             <div className="border border-black/10 bg-[#f5efeb] p-[21px]">
               <p className="flex items-center gap-[8px] text-[12px] font-bold uppercase tracking-[.06em] text-black/50">
-                <Clock size={14} /> Hours
+                <Clock size={14} /> {t("info.hours")}
               </p>
-              <p className="mt-[8px] text-[14px] text-black/70">Monday – Friday: 9:00 AM – 6:00 PM</p>
-              <p className="text-[12px] text-black/50">Saturday: 10:00 AM – 2:00 PM</p>
+              <p className="mt-[8px] text-[14px] text-black/70">{t("info.hoursLine1")}</p>
+              <p className="text-[12px] text-black/50">{t("info.hoursLine2")}</p>
             </div>
           </div>
         </div>

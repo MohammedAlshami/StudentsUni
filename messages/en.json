@@ -1,0 +1,503 @@
+{
+  "nav": {
+    "universities": "Universities",
+    "programs": "Programs",
+    "blog": "Blog",
+    "howWeHelp": "How we help",
+    "about": "About"
+  },
+  "footer": {
+    "newsletterHeading": "Get Malaysia study updates",
+    "emailPlaceholder": "YOUR EMAIL ADDRESS",
+    "subscribe": "Subscribe",
+    "quote": "The right guidance turns a university application into a confident next step.",
+    "counsellors": "StudentsUni counsellors",
+    "counsellorsSubtext": "Here from search to registration",
+    "contact": "Contact",
+    "copyright": "COPYRIGHT © STUDENTSUNI — 2026"
+  },
+  "common": {
+    "talkToUs": "Talk to us",
+    "freeConsultation": "Free consultation",
+    "dataComingSoon": "Data coming soon",
+    "viewProgrammes": "View programmes",
+    "previousPage": "Previous page",
+    "nextPage": "Next page",
+    "institutionTypes": {
+      "public-university": "Public University",
+      "private-university": "Private University",
+      "private-university-college": "Private University College"
+    }
+  },
+  "home": {
+    "hero": {
+      "titleLine1": "Find your place at a",
+      "titleLine2": "Malaysian university.",
+      "subtitle": "Compare programmes, check entry requirements, and get free guidance from application to registration.",
+      "searchPlaceholder": "Search universities or programmes",
+      "searchButton": "Search",
+      "marquee": "Your pathway to higher education in Malaysia."
+    },
+    "featured": {
+      "label": "Featured universities",
+      "titleLine1": "A closer look at where",
+      "titleLine2": "students are heading.",
+      "cta": "All universities"
+    },
+    "howWeHelp": {
+      "label": "How we help",
+      "titleLine1": "Three steps from",
+      "titleLine2": "search to registration.",
+      "steps": [
+        {
+          "title": "Search & compare",
+          "desc": "Browse 96 universities and 4,000+ programmes, with real fees and entry requirements side by side."
+        },
+        {
+          "title": "Get matched",
+          "desc": "Talk to a counsellor about your grades, budget, and goals, and get a shortlist that actually fits."
+        },
+        {
+          "title": "Apply with support",
+          "desc": "We help with documents, deadlines, and the application itself, free, from shortlist to registration."
+        }
+      ]
+    },
+    "partner": {
+      "label": "Your Malaysia study partner",
+      "title": "The right university starts with the right guidance.",
+      "desc": "We make university registration clearer with trusted programme information and experienced education counsellors.",
+      "stat1": "Malaysian universities to explore",
+      "stat2": "Programmes and pathways listed",
+      "tag1": "University options",
+      "tag2": "Trusted guidance",
+      "tag3": "Student-first support"
+    },
+    "fields": {
+      "label": "Browse by field",
+      "titleLine1": "Find the right programme",
+      "titleLine2": "for your next step.",
+      "cta": "Browse all programmes",
+      "programmesSuffix": "programmes",
+      "categories": {
+        "business": "Business & Management",
+        "science": "Science",
+        "engineering": "Engineering",
+        "comput": "Computing & IT",
+        "medic": "Medicine & Health Sciences",
+        "education": "Education",
+        "design": "Arts & Design",
+        "law": "Law"
+      }
+    },
+    "why": {
+      "label": "Why choose us?",
+      "title": "Straightforward guidance, not a sales pitch.",
+      "desc": "We compile programme data straight from official university sources so you can compare fees, requirements, and accreditation without digging through 96 different websites, then get free, personal guidance from application to registration.",
+      "bullet1": "96 universities, one place to compare",
+      "bullet2": "Free consultation, no hidden fees"
+    },
+    "stories": {
+      "label": "Student stories",
+      "titleLine1": "Confident choices",
+      "titleLine2": "start with trusted",
+      "titleLine3": "support.",
+      "quoteLabel": "A clearer path forward",
+      "quote": "StudentsUni made it easy to compare my options and understand each application requirement. My counsellor was there at every step until I registered.",
+      "author": "Aina R.",
+      "role": "Undergraduate applicant"
+    },
+    "cta": {
+      "label": "Free consultation",
+      "titleLine1": "Your Malaysian university",
+      "titleLine2": "journey starts here."
+    },
+    "blog": {
+      "label": "From the blog",
+      "titleLine1": "Guides to help you",
+      "titleLine2": "decide with confidence.",
+      "cta": "All articles",
+      "readTime": "{min} min read"
+    },
+    "faq": {
+      "label": "Find an answer",
+      "titleLine1": "Answers to your questions, every",
+      "titleLine2": "step of the way.",
+      "stat1Label": "Universities compared",
+      "stat2Value": "Free",
+      "stat2Label": "Guidance, always",
+      "items": [
+        {
+          "q": "Is StudentsUni actually free to use?",
+          "a": "Yes. Browsing universities, comparing programmes, and getting consultation from our counsellors is free for students. We work with universities and don't charge students for guidance."
+        },
+        {
+          "q": "How accurate and up to date is your fee and requirement data?",
+          "a": "We compile programme data from official university sources and recognised education portals, cross-checking where possible. Fees and requirements change yearly, so we always recommend confirming final figures directly with the university before you apply."
+        },
+        {
+          "q": "Do you help with the actual application, not just comparisons?",
+          "a": "Yes. Beyond browsing, our counsellors help with shortlisting, document preparation, and application submission. Book a free consultation and we'll walk you through it."
+        },
+        {
+          "q": "Do you only cover public universities, or private ones too?",
+          "a": "Both. Our directory includes public universities, private universities, and private university colleges across Malaysia, so you can compare across all of them in one place."
+        }
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "Who we are",
+      "titleLine1": "Helping students find",
+      "titleLine2": "their right fit.",
+      "subtitle": "We help students find and enroll in the right university in Malaysia — free, transparent, and student-first."
+    },
+    "story": {
+      "label": "Our story",
+      "title": "A single place for every option.",
+      "p1": "StudentsUni was created to simplify the university search and application process for students in Malaysia. We noticed that finding the right program — with accurate fees, requirements, and accreditation info — was unnecessarily difficult.",
+      "p2": "Our platform aggregates data from official university sources and recognized education portals, giving students a single place to compare options and make informed decisions.",
+      "p3": "Beyond the website, we offer free consultation services to guide students through the application and enrollment process."
+    },
+    "mission": {
+      "label": "What drives us",
+      "title": "Our mission",
+      "items": [
+        {
+          "title": "Transparency",
+          "desc": "Accurate, sourced data on fees, requirements, and accreditation."
+        },
+        {
+          "title": "Accessibility",
+          "desc": "Free tools and consultation for every student."
+        },
+        {
+          "title": "Guidance",
+          "desc": "Personal support from first inquiry to enrollment."
+        }
+      ]
+    },
+    "team": {
+      "label": "Meet the team",
+      "title": "Our counsellors",
+      "members": [
+        {
+          "name": "Counselor 1",
+          "role": "Senior Education Counselor"
+        },
+        {
+          "name": "Counselor 2",
+          "role": "University Relations Manager"
+        },
+        {
+          "name": "Counselor 3",
+          "role": "Student Support Specialist"
+        }
+      ]
+    },
+    "timeline": {
+      "label": "Since 2020",
+      "title": "Our journey",
+      "milestones": [
+        {
+          "year": "2020",
+          "event": "Founded"
+        },
+        {
+          "year": "2021",
+          "event": "Helped first 100 students"
+        },
+        {
+          "year": "2023",
+          "event": "Partnered with 30+ universities"
+        },
+        {
+          "year": "2025",
+          "event": "Expanded to 96 university listings"
+        }
+      ]
+    },
+    "cta": {
+      "label": "Get in touch",
+      "titleLine1": "Want to work",
+      "titleLine2": "with us?",
+      "button": "Get in Touch"
+    }
+  },
+  "services": {
+    "header": {
+      "title": "Our Services",
+      "subtitle": "End-to-end support for your education journey in Malaysia. All services are free for students."
+    },
+    "items": [
+      {
+        "title": "Free Consultation",
+        "description": "Sit down with our education counselors to discuss your options. We help you understand what's available based on your qualifications, budget, and career goals.",
+        "steps": [
+          "Book an appointment",
+          "Discuss your goals",
+          "Get personalized recommendations"
+        ]
+      },
+      {
+        "title": "University Selection",
+        "description": "We help you shortlist universities and programs that match your profile. We consider factors like entry requirements, fees, location, and career outcomes.",
+        "steps": [
+          "Share your qualifications",
+          "Receive a shortlist",
+          "Compare options side by side"
+        ]
+      },
+      {
+        "title": "Application Assistance",
+        "description": "From filling out forms to preparing your documents, we guide you through the entire application process. We make sure nothing is missed.",
+        "steps": [
+          "Prepare documents",
+          "Complete application forms",
+          "Submit and track"
+        ]
+      },
+      {
+        "title": "Visa Guidance",
+        "description": "Navigating visa requirements can be confusing. We provide up-to-date guidance on student visa applications for international students.",
+        "steps": [
+          "Understand requirements",
+          "Prepare paperwork",
+          "Apply with confidence"
+        ]
+      },
+      {
+        "title": "Pre-Departure Briefing",
+        "description": "Before you leave, we brief you on what to expect — accommodation, banking, transport, and settling into student life in Malaysia.",
+        "steps": [
+          "Attend briefing session",
+          "Get your checklist",
+          "Arrive prepared"
+        ]
+      },
+      {
+        "title": "Post-Arrival Support",
+        "description": "We don't disappear after you land. Reach out to us for help with any issues you face during your first weeks in Malaysia.",
+        "steps": [
+          "Airport pickup coordination",
+          "Campus orientation tips",
+          "Ongoing support"
+        ]
+      }
+    ],
+    "process": {
+      "title": "How It Works",
+      "steps": [
+        {
+          "title": "Contact Us",
+          "desc": "Reach out via WhatsApp, form, or phone."
+        },
+        {
+          "title": "Consultation",
+          "desc": "We discuss your goals and options."
+        },
+        {
+          "title": "Apply",
+          "desc": "We help you apply to your chosen university."
+        },
+        {
+          "title": "Enroll",
+          "desc": "Get accepted and start your journey."
+        }
+      ]
+    },
+    "cta": {
+      "text": "Ready to get started?",
+      "button": "Book Free Consultation"
+    }
+  },
+  "contact": {
+    "hero": {
+      "label": "Get in touch",
+      "titleLine1": "Let's find your",
+      "titleLine2": "next step together.",
+      "subtitle": "Free consultation, application help, and honest advice — reach out any way that works for you."
+    },
+    "form": {
+      "label": "Send a message",
+      "thankYouTitle": "Thank you!",
+      "thankYouBody": "We've received your message. We'll get back to you within 24 hours.",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Your name",
+      "email": "Email",
+      "phone": "Phone (WhatsApp)",
+      "iAmA": "I am a",
+      "options": {
+        "student": "Prospective Student",
+        "parent": "Parent / Guardian",
+        "other": "Other"
+      },
+      "levelOfStudy": "Level of Study",
+      "levels": {
+        "foundation": "Foundation",
+        "diploma": "Diploma",
+        "bachelor": "Bachelor's Degree",
+        "master": "Master's Degree",
+        "phd": "PhD"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your education goals, preferred university, or any questions...",
+      "send": "Send Message"
+    },
+    "info": {
+      "whatsapp": "WhatsApp",
+      "whatsappSub": "Fastest way to reach us",
+      "email": "Email",
+      "office": "Office",
+      "officeLocation": "Kuala Lumpur, Malaysia",
+      "officeSub": "Walk-ins by appointment only",
+      "hours": "Hours",
+      "hoursLine1": "Monday – Friday: 9:00 AM – 6:00 PM",
+      "hoursLine2": "Saturday: 10:00 AM – 2:00 PM"
+    }
+  },
+  "blogPage": {
+    "hero": {
+      "label": "StudentsUni Blog",
+      "titleLine1": "Guides for your",
+      "titleLine2": "next big decision.",
+      "subtitle": "{count} honest, practical guides on costs, applications, scholarships, and choosing the right path — written for students navigating Malaysian higher education."
+    },
+    "cta": {
+      "titleLine1": "Still have",
+      "titleLine2": "questions?",
+      "body": "Talk to a StudentsUni counsellor for guidance tailored to your grades, budget, and goals."
+    },
+    "articleNotFound": "Article not found",
+    "backToBlog": "Back to blog",
+    "allArticles": "All Articles"
+  },
+  "programsPage": {
+    "hero": {
+      "label": "Browse Programmes",
+      "titleLine1": "Find the programme",
+      "titleLine2": "that fits your future.",
+      "subtitle": "{count} programmes across {universities} Malaysian universities, from foundation to PhD."
+    },
+    "cta": {
+      "titleLine1": "Not sure which",
+      "titleLine2": "programme fits you?",
+      "body": "Talk to a StudentsUni counsellor and get a shortlist matched to your grades, budget, and goals."
+    }
+  },
+  "universitiesPage": {
+    "hero": {
+      "label": "Browse Malaysia",
+      "titleLine1": "Find the university",
+      "titleLine2": "that fits your goals.",
+      "subtitle": "{count} public and private universities, with programmes, entry requirements, and fees in one place."
+    },
+    "cta": {
+      "titleLine1": "Not sure which",
+      "titleLine2": "university fits you?",
+      "body": "Talk to a StudentsUni counsellor and get a shortlist matched to your grades, budget, and goals."
+    }
+  },
+  "filters": {
+    "searchFilter": "Search & filter",
+    "matchCount": "{filtered} of {total} match",
+    "showingUniversities": "Showing {from}–{to} of {total} universities",
+    "showingProgrammes": "Showing {from}–{to} of {total} programmes",
+    "programmesSuffix": "programmes",
+    "searchPlaceholderUniversities": "Search by name or abbreviation...",
+    "searchPlaceholderProgrammes": "Search by programme, university, or field...",
+    "noResultsUniversities": "No universities match your search.",
+    "noResultsProgrammes": "No programmes match your search.",
+    "noResultsArticles": "No articles match your search.",
+    "showingArticles": "Showing {from}–{to} of {total} articles",
+    "typeFilters": {
+      "all": "All",
+      "public": "Public",
+      "private": "Private",
+      "college": "College"
+    },
+    "levelFilters": {
+      "all": "All",
+      "foundation": "Foundation",
+      "diploma": "Diploma",
+      "bachelor": "Bachelor's",
+      "master": "Master's",
+      "phd": "PhD"
+    },
+    "searchPlaceholderArticles": "Search articles..."
+  },
+  "levels": {
+    "foundation": "Foundation",
+    "pre-university": "Pre-University",
+    "pre-university-foundation-studies": "Pre-University / Foundation",
+    "diploma": "Diploma",
+    "advanced-diploma": "Advanced Diploma",
+    "bachelor": "Bachelor's Degree",
+    "bachelors-degree": "Bachelor's Degree",
+    "degree": "Bachelor's Degree",
+    "undergraduate": "Bachelor's Degree",
+    "master": "Master's Degree",
+    "masters-degree": "Master's Degree",
+    "masters": "Master's Degree",
+    "postgraduate": "Postgraduate",
+    "phd": "PhD",
+    "doctoral-degree": "PhD / Doctoral Degree",
+    "certificate": "Certificate",
+    "language": "Language Program"
+  },
+  "universityDetail": {
+    "programmes": "Programmes",
+    "studyLevels": "Study levels",
+    "feeRangeSample": "Fee range (sample)",
+    "institutionType": "Institution type",
+    "about": "About",
+    "aboutText": "{name} is a {type}{stateClause}. We list {programmesClause} across {levelCount, plural, one {# study level} other {# study levels}}{levelList}.",
+    "aboutBasedIn": " based in {state}, Malaysia",
+    "aboutInMalaysia": " in Malaysia",
+    "aboutProgrammesCount": "{count} programmes",
+    "aboutProgrammesFallback": "programmes",
+    "visitWebsite": "Visit the official website at",
+    "visitWebsiteSuffix": "for admissions and campus details.",
+    "sourcesNote": "Programme and fee data compiled from {count, plural, one {# source} other {# sources}}, including the university's official site where available. Figures are indicative — always confirm with the university before applying.",
+    "gallery": "Gallery",
+    "galleryCaptionSpecific": "Campus photos via Wikimedia Commons.",
+    "galleryCaptionGeneric": "Illustrative student-life photography — not specific to this campus.",
+    "readyToApplyTo": "Ready to apply to",
+    "programDataCollecting": "Program data is being collected. Check back soon.",
+    "feeInfoPending": "Fee info pending",
+    "pageOf": "Page {page} of {total}"
+  },
+  "programDetail": {
+    "fees": "Fees",
+    "localStudentsTotal": "Local students (Total)",
+    "internationalStudentsTotal": "International students (Total)",
+    "localStudentsPerYear": "Local students (Per Year)",
+    "internationalStudentsPerYear": "International students (Per Year)",
+    "feeComingSoon": "Fee information is being collected.",
+    "entryRequirements": "Entry Requirements",
+    "malaysianQualifications": "Malaysian Qualifications",
+    "internationalQualifications": "International Qualifications",
+    "spm": "SPM",
+    "stpm": "STPM",
+    "foundationMatriculation": "Foundation / Matriculation",
+    "diplomaPathway": "Diploma Pathway",
+    "aLevels": "A-Levels",
+    "ib": "IB",
+    "other": "Other",
+    "englishRequirement": "English Requirement",
+    "notYetAvailable": "Not yet available.",
+    "accreditation": "Accreditation",
+    "unknown": "Unknown",
+    "dataConfidence": "Data Confidence",
+    "needHelpApplying": "Need Help Applying?",
+    "needHelpBody": "We provide free consultation and application assistance, from shortlisting to registration.",
+    "contactUs": "Contact Us",
+    "intakes": "Intakes",
+    "applyThroughUs": "Apply Through Us",
+    "backToUniversity": "Back to university",
+    "programNotFound": "Program not found",
+    "universityNotFound": "University not found",
+    "backToUniversities": "Back to universities"
+  }
+}

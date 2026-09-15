@@ -1,10 +1,11 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { useSearchParams } from "next/navigation";
+import { useTranslations } from "next-intl";
 import { ChevronLeft, ChevronRight, GraduationCap, Landmark, MapPin, Search, SlidersHorizontal, Wallet } from "lucide-react";
-import { wrap, Label } from "@/components/marketing-ui";
+import { wrap, Label, institutionTypeLabel } from "@/components/marketing-ui";
 import { getUniversityImage } from "@/lib/university-images";
 import type { UniversityStats } from "@/lib/university-stats";
 
@@ -17,18 +18,13 @@ type Institution = {
   city: string | null;
 };
 
-const TYPE_LABELS: Record<string, string> = {
-  "public-university": "Public University",
-  "private-university": "Private University",
-  "private-university-college": "Private University College",
+const TYPE_FILTER_VALUES = ["all", "public-university", "private-university", "private-university-college"] as const;
+const TYPE_FILTER_KEYS: Record<string, string> = {
+  all: "all",
+  "public-university": "public",
+  "private-university": "private",
+  "private-university-college": "college",
 };
-
-const TYPE_FILTERS: Array<{ value: string; label: string }> = [
-  { value: "all", label: "All" },
-  { value: "public-university", label: "Public" },
-  { value: "private-university", label: "Private" },
-  { value: "private-university-college", label: "College" },
-];
 
 const PAGE_SIZE = 15;
 
@@ -88,6 +84,8 @@ export default function UniversitiesClient({
   const [search, setSearch] = useState(searchParams.get("q") ?? "");
   const [typeFilter, setTypeFilter] = useState("all");
   const [page, setPage] = useState(1);
+  const t = useTranslations("filters");
+  const tCommon = useTranslations("common");
 
   const filtered = institutions.filter((inst) => {
     const matchesSearch =
@@ -118,9 +116,9 @@ export default function UniversitiesClient({
       <div className={`${wrap} -mt-[70px]`}>
         <div className="border-x border-b border-t-[4px] border-x-black/10 border-b-black/10 border-t-[#285b50] bg-white p-[32px]">
           <div className="flex items-center justify-between gap-[16px]">
-            <Label>Search &amp; filter</Label>
+            <Label>{t("searchFilter")}</Label>
             <span className="hidden items-center gap-[6px] text-[12px] font-semibold text-black/40 sm:flex">
-              <SlidersHorizontal size={13} /> {filtered.length} of {institutions.length} match
+              <SlidersHorizontal size={13} /> {t("matchCount", { filtered: filtered.length, total: institutions.length })}
             </span>
           </div>
           <div className="flex flex-col gap-[16px] md:flex-row md:items-center">
@@ -128,32 +126,34 @@ export default function UniversitiesClient({
               <Search size={18} className="shrink-0 text-[#285b50]" />
               <input
                 type="text"
-                placeholder="Search by name or abbreviation..."
+                placeholder={t("searchPlaceholderUniversities")}
                 value={search}
                 onChange={(e) => updateSearch(e.target.value)}
                 className="min-w-0 flex-1 bg-transparent text-[16px] outline-none placeholder:text-black/40"
               />
             </div>
             <div className="flex items-center gap-[4px] rounded-full bg-[#f5efeb] p-[4px]">
-              {TYPE_FILTERS.map((f) => (
+              {TYPE_FILTER_VALUES.map((value) => (
                 <button
-                  key={f.value}
+                  key={value}
                   type="button"
-                  onClick={() => updateTypeFilter(f.value)}
+                  onClick={() => updateTypeFilter(value)}
                   className={`rounded-full px-[16px] py-[9px] text-[13px] font-semibold transition-colors ${
-                    typeFilter === f.value ? "bg-[#285b50] text-white" : "text-black/60 hover:bg-black/5"
+                    typeFilter === value ? "bg-[#285b50] text-white" : "text-black/60 hover:bg-black/5"
                   }`}
                 >
-                  {f.label}
+                  {t(`typeFilters.${TYPE_FILTER_KEYS[value]}`)}
                 </button>
               ))}
             </div>
           </div>
           <div className="mt-[21px] flex items-center gap-[10px] border-t border-black/10 pt-[16px] text-[13px] text-black/50">
             <Landmark size={14} className="text-[#285b50]" />
-            Showing {filtered.length === 0 ? 0 : pageStart + 1}
-            {filtered.length > 0 && `–${Math.min(pageStart + PAGE_SIZE, filtered.length)}`} of {filtered.length}{" "}
-            universities
+            {t("showingUniversities", {
+              from: filtered.length === 0 ? 0 : pageStart + 1,
+              to: filtered.length > 0 ? Math.min(pageStart + PAGE_SIZE, filtered.length) : 0,
+              total: filtered.length,
+            })}
           </div>
         </div>
       </div>
@@ -173,7 +173,7 @@ export default function UniversitiesClient({
                 <UniversityMark slug={inst.slug} name={inst.name} abbr={inst.abbr} />
                 <div className="px-[21px] pb-[21px]">
                   <p className="mt-[21px] text-[12px] font-bold uppercase tracking-[.1em] text-[#285b50]">
-                    {TYPE_LABELS[inst.type] ?? inst.type}
+                    {institutionTypeLabel(tCommon, inst.type)}
                   </p>
                   <h3 className="mt-[6px] text-[18px] font-bold leading-tight group-hover:underline">
                     {inst.name}
@@ -187,7 +187,7 @@ export default function UniversitiesClient({
                     {s && s.totalPrograms > 0 && (
                       <span className="flex items-center gap-[6px]">
                         <GraduationCap size={14} className="text-[#285b50]" />
-                        {s.totalPrograms} programmes
+                        {s.totalPrograms} {t("programmesSuffix")}
                       </span>
                     )}
                     {feeRange && (
@@ -197,7 +197,7 @@ export default function UniversitiesClient({
                       </span>
                     )}
                     {!s?.totalPrograms && !feeRange && (
-                      <span className="text-black/40">Data coming soon</span>
+                      <span className="text-black/40">{tCommon("dataComingSoon")}</span>
                     )}
                   </div>
                 </div>
@@ -208,7 +208,7 @@ export default function UniversitiesClient({
 
         {filtered.length === 0 && (
           <div className="py-[83px] text-center">
-            <p className="text-[16px] text-black/50">No universities match your search.</p>
+            <p className="text-[16px] text-black/50">{t("noResultsUniversities")}</p>
           </div>
         )}
 
@@ -220,9 +220,9 @@ export default function UniversitiesClient({
               onClick={() => setPage((p) => Math.max(1, p - 1))}
               disabled={currentPage === 1}
               className="flex h-[36px] w-[36px] items-center justify-center rounded-full border border-black/15 disabled:opacity-30"
-              aria-label="Previous page"
+              aria-label={tCommon("previousPage")}
             >
-              <ChevronLeft size={16} />
+              <ChevronLeft size={16} className="rtl:rotate-180" />
             </button>
             {pageNumbers(currentPage, totalPages).map((p, i) =>
               p === "…" ? (
@@ -247,9 +247,9 @@ export default function UniversitiesClient({
               onClick={() => setPage((p) => Math.min(totalPages, p + 1))}
               disabled={currentPage === totalPages}
               className="flex h-[36px] w-[36px] items-center justify-center rounded-full border border-black/15 disabled:opacity-30"
-              aria-label="Next page"
+              aria-label={tCommon("nextPage")}
             >
-              <ChevronRight size={16} />
+              <ChevronRight size={16} className="rtl:rotate-180" />
             </button>
           </div>
         )}

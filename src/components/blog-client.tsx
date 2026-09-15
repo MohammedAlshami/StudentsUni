@@ -1,10 +1,11 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 import { CalendarDays, ChevronLeft, ChevronRight, Clock, Layers, Search } from "lucide-react";
 import { wrap, Label } from "@/components/marketing-ui";
-import type { BlogPostSummary } from "@/app/blog/page";
+import type { BlogPostSummary } from "@/app/[locale]/blog/page";
 
 const CATEGORIES = [
   "All",
@@ -35,6 +36,8 @@ function formatDate(iso: string): string {
 }
 
 export default function BlogClient({ posts }: { posts: BlogPostSummary[] }) {
+  const t = useTranslations("filters");
+  const tCommon = useTranslations("common");
   const [search, setSearch] = useState("");
   const [category, setCategory] = useState("All");
   const [page, setPage] = useState(1);
@@ -69,12 +72,12 @@ export default function BlogClient({ posts }: { posts: BlogPostSummary[] }) {
       {/* Search & filters — straddles the header photo and the white body */}
       <div className={`${wrap} -mt-[70px]`}>
         <div className="border-x border-b border-t-[4px] border-x-black/10 border-b-black/10 border-t-[#285b50] bg-white p-[32px]">
-          <Label>Search &amp; filter</Label>
+          <Label>{t("searchFilter")}</Label>
           <div className="flex items-center gap-[10px] rounded-full border border-black/15 bg-[#f5efeb] px-[21px] py-[13px]">
             <Search size={18} className="shrink-0 text-[#285b50]" />
             <input
               type="text"
-              placeholder="Search articles..."
+              placeholder={t("searchPlaceholderArticles")}
               value={search}
               onChange={(e) => updateSearch(e.target.value)}
               className="min-w-0 flex-1 bg-transparent text-[16px] outline-none placeholder:text-black/40"
@@ -96,9 +99,11 @@ export default function BlogClient({ posts }: { posts: BlogPostSummary[] }) {
           </div>
           <div className="mt-[21px] flex items-center gap-[10px] border-t border-black/10 pt-[16px] text-[13px] text-black/50">
             <Layers size={14} className="text-[#285b50]" />
-            Showing {filtered.length === 0 ? 0 : pageStart + 1}
-            {filtered.length > 0 && `–${Math.min(pageStart + PAGE_SIZE, filtered.length)}`} of {filtered.length}{" "}
-            articles
+            {t("showingArticles", {
+              from: filtered.length === 0 ? 0 : pageStart + 1,
+              to: filtered.length > 0 ? Math.min(pageStart + PAGE_SIZE, filtered.length) : 0,
+              total: filtered.length,
+            })}
           </div>
         </div>
       </div>
@@ -142,7 +147,7 @@ export default function BlogClient({ posts }: { posts: BlogPostSummary[] }) {
 
         {filtered.length === 0 && (
           <div className="py-[83px] text-center">
-            <p className="text-[16px] text-black/50">No articles match your search.</p>
+            <p className="text-[16px] text-black/50">{t("noResultsArticles")}</p>
           </div>
         )}
 
@@ -154,9 +159,9 @@ export default function BlogClient({ posts }: { posts: BlogPostSummary[] }) {
               onClick={() => setPage((p) => Math.max(1, p - 1))}
               disabled={currentPage === 1}
               className="flex h-[36px] w-[36px] items-center justify-center rounded-full border border-black/15 disabled:opacity-30"
-              aria-label="Previous page"
+              aria-label={tCommon("previousPage")}
             >
-              <ChevronLeft size={16} />
+              <ChevronLeft size={16} className="rtl:rotate-180" />
             </button>
             {pageNumbers(currentPage, totalPages).map((p, i) =>
               p === "…" ? (
@@ -181,9 +186,9 @@ export default function BlogClient({ posts }: { posts: BlogPostSummary[] }) {
               onClick={() => setPage((p) => Math.min(totalPages, p + 1))}
               disabled={currentPage === totalPages}
               className="flex h-[36px] w-[36px] items-center justify-center rounded-full border border-black/15 disabled:opacity-30"
-              aria-label="Next page"
+              aria-label={tCommon("nextPage")}
             >
-              <ChevronRight size={16} />
+              <ChevronRight size={16} className="rtl:rotate-180" />
             </button>
           </div>
         )}

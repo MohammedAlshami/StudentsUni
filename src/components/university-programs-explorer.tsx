@@ -1,24 +1,25 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 import { ChevronLeft, ChevronRight, Clock, Wallet } from "lucide-react";
 import type { LevelPrograms } from "@/lib/university-detail";
 
-const LEVEL_LABELS: Record<string, string> = {
-  foundation: "Foundation",
-  "pre-university": "Pre-University",
-  "pre-university-foundation-studies": "Pre-University / Foundation",
-  diploma: "Diploma",
-  "advanced-diploma": "Advanced Diploma",
-  bachelor: "Bachelor's",
-  "bachelors-degree": "Bachelor's",
-  master: "Master's",
-  "masters-degree": "Master's",
-  phd: "PhD",
-  "doctoral-degree": "PhD",
-  certificate: "Certificate",
-  language: "Language",
+const LEVEL_LABEL_KEYS: Record<string, string> = {
+  foundation: "foundation",
+  "pre-university": "pre-university",
+  "pre-university-foundation-studies": "pre-university-foundation-studies",
+  diploma: "diploma",
+  "advanced-diploma": "advanced-diploma",
+  bachelor: "bachelor",
+  "bachelors-degree": "bachelors-degree",
+  master: "master",
+  "masters-degree": "masters-degree",
+  phd: "phd",
+  "doctoral-degree": "doctoral-degree",
+  certificate: "certificate",
+  language: "language",
 };
 
 const PAGE_SIZE = 12;
@@ -36,6 +37,9 @@ export function UniversityProgramsExplorer({
   slug: string;
   levels: LevelPrograms[];
 }) {
+  const t = useTranslations("universityDetail");
+  const tLevels = useTranslations("levels");
+  const tCommon = useTranslations("common");
   const nonEmptyLevels = levels.filter((l) => l.programs.length > 0);
   const [activeLevel, setActiveLevel] = useState(nonEmptyLevels[0]?.level ?? "");
   const [page, setPage] = useState(1);
@@ -48,7 +52,7 @@ export function UniversityProgramsExplorer({
 
   if (nonEmptyLevels.length === 0) {
     return (
-      <p className="text-[14px] text-black/50">Program data is being collected. Check back soon.</p>
+      <p className="text-[14px] text-black/50">{t("programDataCollecting")}</p>
     );
   }
 
@@ -70,8 +74,8 @@ export function UniversityProgramsExplorer({
                 : "bg-[#f5efeb] text-[#242927] hover:bg-black/10"
             }`}
           >
-            {LEVEL_LABELS[l.level] ?? l.level}
-            <span className="ml-[6px] opacity-60">{l.programs.length}</span>
+            {LEVEL_LABEL_KEYS[l.level] ? tLevels(LEVEL_LABEL_KEYS[l.level] as "foundation") : l.level}
+            <span className="ms-[6px] opacity-60">{l.programs.length}</span>
           </button>
         ))}
       </div>
@@ -101,7 +105,7 @@ export function UniversityProgramsExplorer({
                     <Wallet size={13} className="text-[#285b50]" /> {fee}
                   </span>
                 ) : (
-                  <span className="text-black/35">Fee info pending</span>
+                  <span className="text-black/35">{t("feeInfoPending")}</span>
                 )}
               </div>
             </Link>
@@ -113,7 +117,7 @@ export function UniversityProgramsExplorer({
       {totalPages > 1 && (
         <div className="mt-[16px] flex items-center justify-between text-[13px]">
           <span className="text-black/50">
-            Page {page} of {totalPages}
+            {t("pageOf", { page, total: totalPages })}
           </span>
           <div className="flex items-center gap-[6px]">
             <button
@@ -121,18 +125,18 @@ export function UniversityProgramsExplorer({
               onClick={() => setPage((p) => Math.max(1, p - 1))}
               disabled={page === 1}
               className="flex h-[32px] w-[32px] items-center justify-center rounded-full border border-black/15 disabled:opacity-30"
-              aria-label="Previous page"
+              aria-label={tCommon("previousPage")}
             >
-              <ChevronLeft size={16} />
+              <ChevronLeft size={16} className="rtl:rotate-180" />
             </button>
             <button
               type="button"
               onClick={() => setPage((p) => Math.min(totalPages, p + 1))}
               disabled={page === totalPages}
               className="flex h-[32px] w-[32px] items-center justify-center rounded-full border border-black/15 disabled:opacity-30"
-              aria-label="Next page"
+              aria-label={tCommon("nextPage")}
             >
-              <ChevronRight size={16} />
+              <ChevronRight size={16} className="rtl:rotate-180" />
             </button>
           </div>
         </div>

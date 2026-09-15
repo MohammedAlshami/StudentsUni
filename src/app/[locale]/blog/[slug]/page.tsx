@@ -1,8 +1,10 @@
 import fs from "fs";
 import path from "path";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { CalendarDays, Clock, User } from "lucide-react";
 import { wrap, Label, Pill } from "@/components/marketing-ui";
+import { routing } from "@/i18n/routing";
 
 type BlogPost = {
   slug: string;
@@ -34,19 +36,27 @@ function formatDate(iso: string): string {
 
 export function generateStaticParams() {
   const raw = JSON.parse(fs.readFileSync(path.join(BLOG_DIR, "index.json"), "utf-8"));
-  return raw.posts.map((p: BlogPostSummary) => ({ slug: p.slug }));
+  return routing.locales.flatMap((locale) =>
+    raw.posts.map((p: BlogPostSummary) => ({ locale, slug: p.slug }))
+  );
 }
 
-export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params;
+export default async function BlogPostPage({
+  params,
+}: {
+  params: Promise<{ locale: string; slug: string }>;
+}) {
+  const { locale, slug } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations("blogPage");
   const postPath = path.join(BLOG_DIR, `${slug}.json`);
 
   if (!fs.existsSync(postPath)) {
     return (
       <div className="bg-white py-[83px] text-center font-sans text-[#242927]">
-        <h1 className="text-[21px] font-bold">Article not found</h1>
+        <h1 className="text-[21px] font-bold">{t("articleNotFound")}</h1>
         <Link href="/blog" className="mt-[16px] inline-block text-[14px] underline">
-          &larr; Back to blog
+          <span className="inline-block rtl:-scale-x-100">&larr;</span> {t("backToBlog")}
         </Link>
       </div>
     );
@@ -71,7 +81,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       >
         <div className={`${wrap} pt-[125px] pb-[52px]`}>
           <Link href="/blog" className="text-[13px] text-white/60 hover:underline">
-            &larr; All Articles
+            <span className="inline-block rtl:-scale-x-100">&larr;</span> {t("allArticles")}
           </Link>
           <Label>{post.category}</Label>
           <h1 className="max-w-[750px] text-[36px] font-bold leading-[1.05] tracking-[-.03em] md:text-[48px]">
