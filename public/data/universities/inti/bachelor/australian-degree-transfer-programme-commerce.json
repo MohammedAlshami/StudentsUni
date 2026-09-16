@@ -14,28 +14,17 @@
     "Jan"
   ],
   "fees": {
-    "local": "Refer to newinti.edu.my",
-    "international": "Refer to newinti.edu.my",
-    "local_total": 48417,
     "currency": "MYR",
-    "international_total": 48417,
-    "per_year_local": 48417,
+    "total": 48417,
+    "per_year": 48417,
     "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Entry Levels and Requirements Foundation: Completion with a CGPA of 2.00, including Mathematics, and science and 1 any other subject, or its equivalent A Level: 2 principal passes in any 2 science subjects STPM: 2 grade C in any 2 subjects, or its equivalent; and possess SPM with 3 credits in Mathematics, 1 science subject and 1 any other subject SACE: ATAR of 70 and possess SPM/ its equivalent with 3 credits in Mathematics, 1 science subject and 1 any other subject NSW (HSC): ATAR of 70 and possess SPM/ its equivalent with 3 credits in Mathematics, 1 science subject and 1 any other subject Australian Year 12: ATAR of 70 and possess SPM/ its equivalent with 3 credits in Mathematics, 1 science subject and 1 any other subject UEC: 5Bs including Mathematics and 1 science subject CPU: 6 subjects with minimum average score of 68 and possess SPM/its equivalent with 3 credits in Mathematics, 1 science subject and 1 any other subject Matriculation in related fields: Programme with a CGPA of 2.00, or its equivalent, and possess SPM with 3 credit in Mathematics, 1 science subject and 1 any other subject"
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Entry Levels and Requirements Foundation: Completion with a CGPA of 2.00, including Mathematics, and science and 1 any other subject, or its equivalent A Level: 2 principal passes in any 2 science subjects STPM: 2 grade C in any 2 subjects, or its equivalent; and possess SPM with 3 credits in Mathematics, 1 science subject and 1 any other subject SACE: ATAR of 70 and possess SPM/ its equivalent with 3 credits in Mathematics, 1 science subject and 1 any other subject NSW (HSC): ATAR of 70 and possess SPM/ its equivalent with 3 credits in Mathematics, 1 science subject and 1 any other subject Australian Year 12: ATAR of 70 and possess SPM/ its equivalent with 3 credits in Mathematics, 1 science subject and 1 any other subject UEC: 5Bs including Mathematics and 1 science subject CPU: 6 subjects with minimum average score of 68 and possess SPM/its equivalent with 3 credits in Mathematics, 1 science subject and 1 any other subject Matriculation in related fields: Programme with a CGPA of 2.00, or its equivalent, and possess SPM with 3 credit in Mathematics, 1 science subject and 1 any other subject"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

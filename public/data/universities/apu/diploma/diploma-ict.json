@@ -13,27 +13,16 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM50,800.00",
-    "international": "RM54,200.00",
-    "local_total": 49200,
-    "international_total": 52600,
-    "per_year_local": 19680,
+    "currency": "MYR",
+    "total": 52600,
+    "per_year": 19680,
     "notes": " (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "SPM: 3 Credits in at least 3 subjects at SPM level, including Mathematics, with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS: 3 Credits (Grade C &amp; above) in at least 3 subjects at IGCSE/O-Levels, including Mathematics; UEC: 3 Credits (Grade B &amp; above) in at least 3 subjects in UEC, including Mathematics; CERTIFICATE: Pass relevant Certificate Programme or its equivalent; A qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by the Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) published by the Malaysian Qualifications Agency (MQA). ENGLISH REQUIREMENTS INTERNATIONAL STUDENTS: IELTS: 4.0 TOEFL IBT: 30-31 Pearson (PTE): 36 MUET: Band 3"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "SPM: 3 Credits in at least 3 subjects at SPM level, including Mathematics, with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS: 3 Credits (Grade C &amp; above) in at least 3 subjects at IGCSE/O-Levels, including Mathematics; UEC: 3 Credits (Grade B &amp; above) in at least 3 subjects in UEC, including Mathematics; CERTIFICATE: Pass relevant Certificate Programme or its equivalent; A qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by the Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) published by the Malaysian Qualifications Agency (MQA). ENGLISH REQUIREMENTS INTERNATIONAL STUDENTS: IELTS: 4.0 TOEFL IBT: 30-31 Pearson (PTE): 36 MUET: Band 3"
   },
   "accreditation": "MQA",
   "sources": [

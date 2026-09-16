@@ -15,12 +15,9 @@
     "Aug"
   ],
   "fees": {
-    "local": "RM82,800.00",
-    "international": null,
-    "local_total": 25899,
     "currency": "MYR",
-    "international_total": 28450,
-    "per_year_local": 8633,
+    "total": 28450,
+    "per_year": 8633,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "sources": [
@@ -39,19 +36,11 @@
   "confidence": "high",
   "last_updated": "2026-09-16",
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Entry Requirements A pass in STPM with at least Grade C (GP 2.0) in any TWO subjects* A pass in STAM with at least Grade Jayyid* Matriculation or Foundation with at least CGPA of 2.00 A Diploma (Level 4, MQF) with at least CGPA of 2.00 An Advanced Diploma (Level 5, MQF) with at least CGPA of 2.00 A Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) subjected to Senate / Academic Board’s approval A Diploma Lanjutan Kemahiran Malaysia (DLKM) subjected to Senate / Academic Board’s approval Other equivalent qualifications recognised by the Malaysian Government (e.g., A-Levels, Senior Middle 3 (UEC), Canadian Pre-University (CPU), Australian Matriculation Programme (AUSMAT)) Additional Requirement A pass in Mathematics and English at SPM level or equivalent qualification. The pass requirement for Mathematics and English at SPM level can be waived if the qualifications contain Mathematics and English subjects with equivalent/higher achievement. English Requirement (International Students) Minimum IELTS 5.5 or equivalent International English Language qualification."
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Entry Requirements A pass in STPM with at least Grade C (GP 2.0) in any TWO subjects* A pass in STAM with at least Grade Jayyid* Matriculation or Foundation with at least CGPA of 2.00 A Diploma (Level 4, MQF) with at least CGPA of 2.00 An Advanced Diploma (Level 5, MQF) with at least CGPA of 2.00 A Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) subjected to Senate / Academic Board’s approval A Diploma Lanjutan Kemahiran Malaysia (DLKM) subjected to Senate / Academic Board’s approval Other equivalent qualifications recognised by the Malaysian Government (e.g., A-Levels, Senior Middle 3 (UEC), Canadian Pre-University (CPU), Australian Matriculation Programme (AUSMAT)) Additional Requirement A pass in Mathematics and English at SPM level or equivalent qualification. The pass requirement for Mathematics and English at SPM level can be waived if the qualifications contain Mathematics and English subjects with equivalent/higher achievement. English Requirement (International Students) Minimum IELTS 5.5 or equivalent International English Language qualification."
   },
   "program_name_ar": "بكالوريوس Management (Honours)",
   "program_name_zh": "Management (Honours)学士",

@@ -13,28 +13,15 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM9,900.00",
-    "international": "RM18,100.00",
-    "local_total": 9900,
     "currency": "MYR",
-    "international_total": 16700,
-    "per_year_local": 9900,
-    "per_year_international": 16700
+    "total": 16700,
+    "per_year": 16700,
+    "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "SPM - 5 credits in the relevant subjects; * O Level - 5 Grade C in the relevant subjects; *  UEC - 3 Grade B in the relevant subjects.  * Note: a) SPM holders must have at least a pass in Bahasa Melayu and SPM holders from Year 2013 onwards must have at least a pass in Sejarah. *Click here to find out more about the Minimum Entry Requirements:"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "SPM - 5 credits in the relevant subjects; * O Level - 5 Grade C in the relevant subjects; *  UEC - 3 Grade B in the relevant subjects.  * Note: a) SPM holders must have at least a pass in Bahasa Melayu and SPM holders from Year 2013 onwards must have at least a pass in Sejarah. *Click here to find out more about the Minimum Entry Requirements:"
   },
   "accreditation": "MQA",
   "sources": [

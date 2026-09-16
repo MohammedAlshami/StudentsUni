@@ -13,26 +13,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 15000,
-    "international_total": 19500,
-    "per_year_local": 15000,
-    "per_year_international": 19500,
+    "total": 19500,
+    "per_year": 19500,
     "notes": "Total programme fee"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Entry Requirements Applicants must meet one of the following criteria: SPM/O-Level or equivalent: A minimum of Grade C in at least five (5) subjects, including English. UEC: A minimum of Grade B in at least three (3) subjects, including English."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "Entry Requirements Applicants must meet one of the following criteria: SPM/O-Level or equivalent: A minimum of Grade C in at least five (5) subjects, including English. UEC: A minimum of Grade B in at least three (3) subjects, including English."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

@@ -13,24 +13,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 24200,
-    "international_total": 32600,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)",
-    "per_year_local": 24200
+    "total": 32600,
+    "per_year": 24200,
+    "notes": "From EasyUni (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": null,
   "sources": [

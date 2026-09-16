@@ -14,25 +14,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 22000,
-    "international_total": null,
-    "per_year_local": 22000,
-    "per_year_international": null,
+    "total": 22000,
+    "per_year": 22000,
     "notes": "Estimated total fees (local) for full course duration"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": {
     "mqa_status": "MQA approved",

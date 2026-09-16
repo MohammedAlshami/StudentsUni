@@ -13,25 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 14973,
-    "international_total": 22389,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)",
-    "per_year_local": 4991
+    "total": 22389,
+    "per_year": 4991,
+    "notes": "From EasyUni (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Passed in the Sijil Pelajaran Malaysia (SPM) / Sijil Pelajaran Malaysia Vocational (SPMV) exam by obtaining at least 3 credits in any subject including one of the Islamic Religion subjects and passing the Arabic language subject OR Passed Thanawi Certificate 4 with 3 subjects and got the rank of Jayyid or equivalent recognized by the Government or University Senate and passed Bahasa Malaysia at SPM / SPMV level OR Other qualifications recognized as equivalent by the Malaysian government. International students IGCSE O-Level or equivalent with minimum 3 subjects with grade &#34;C&#34; or better"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Passed in the Sijil Pelajaran Malaysia (SPM) / Sijil Pelajaran Malaysia Vocational (SPMV) exam by obtaining at least 3 credits in any subject including one of the Islamic Religion subjects and passing the Arabic language subject OR Passed Thanawi Certificate 4 with 3 subjects and got the rank of Jayyid or equivalent recognized by the Government or University Senate and passed Bahasa Malaysia at SPM / SPMV level OR Other qualifications recognized as equivalent by the Malaysian government. International students IGCSE O-Level or equivalent with minimum 3 subjects with grade &#34;C&#34; or better"
   },
   "accreditation": null,
   "sources": [

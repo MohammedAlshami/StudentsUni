@@ -14,26 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 15849,
-    "international_total": 23004,
-    "per_year_local": 5283,
-    "per_year_international": null,
+    "total": 23004,
+    "per_year": 5283,
     "notes": "Local: RM47,550.00; International: RM86,025.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Pass Sijil Pelajaran Malaysia (SPM) with 3 credits in any subjects, including one Science subject; Pass all the subjects in PTPL Health Science Certificate with a minimum CGPA of 2.00; Pass Polytechnic Certificate or Higher Learning Institution Certificate (IPT Certificate) in relevant field, with a minimum CGPA of 2.00; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by the Malaysian Government."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Pass Sijil Pelajaran Malaysia (SPM) with 3 credits in any subjects, including one Science subject; Pass all the subjects in PTPL Health Science Certificate with a minimum CGPA of 2.00; Pass Polytechnic Certificate or Higher Learning Institution Certificate (IPT Certificate) in relevant field, with a minimum CGPA of 2.00; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by the Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,

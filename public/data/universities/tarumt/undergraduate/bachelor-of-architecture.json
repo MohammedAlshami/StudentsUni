@@ -12,28 +12,17 @@
     "Nov"
   ],
   "fees": {
-    "local": "RM37,500.00",
-    "international": "RM64,900.00",
     "currency": "MYR",
-    "local_total": 37500,
-    "international_total": 64900,
-    "per_year_local": 12500,
+    "total": 64900,
+    "per_year": 12500,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Mathematics",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "(1) STPM - Grade C in 2 relevant subjects listed in Schedule A (2) A Level - Grade D in 2 relevant subjects listed in Schedule A (3) UEC - Grade B in 5 relevant subjects listed in Schedule A (4) Other IHL - RelevantFoundation/ Diploma accredited by MQA (5) TAR UC - Foundation in Arts (Track A) OR Relevant Diploma Compulsory subjects: i) (1), (2), (3) and (4) must include SPM Credit/O Level Grade C/UEC Grade B in one mathematics subject# ii) (1), (2), (3) and (4) must include SPM Credit/O Level Grade C/UEC Grade B in English Language and Bahasa Melayu/Malay Language AND Pass in Portfolio Interview conducted by TAR UC. #Grade B and above in AMMS0104 General Mathematics conducted by TAR UC is accepted as having fulfilled the Mathematics requirement for applicants with a pass in SPM/Grade D or Grade E (pass) in O Level/Grade C in UEC in the required Mathematics subject. Note: a) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. b) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. c) Subject to the Ministry of Higher Education latest requirements."
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "(1) STPM - Grade C in 2 relevant subjects listed in Schedule A (2) A Level - Grade D in 2 relevant subjects listed in Schedule A (3) UEC - Grade B in 5 relevant subjects listed in Schedule A (4) Other IHL - RelevantFoundation/ Diploma accredited by MQA (5) TAR UC - Foundation in Arts (Track A) OR Relevant Diploma Compulsory subjects: i) (1), (2), (3) and (4) must include SPM Credit/O Level Grade C/UEC Grade B in one mathematics subject# ii) (1), (2), (3) and (4) must include SPM Credit/O Level Grade C/UEC Grade B in English Language and Bahasa Melayu/Malay Language AND Pass in Portfolio Interview conducted by TAR UC. #Grade B and above in AMMS0104 General Mathematics conducted by TAR UC is accepted as having fulfilled the Mathematics requirement for applicants with a pass in SPM/Grade D or Grade E (pass) in O Level/Grade C in UEC in the required Mathematics subject. Note: a) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. b) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. c) Subject to the Ministry of Higher Education latest requirements."
   },
   "accreditation": "MQA",
   "sources": [

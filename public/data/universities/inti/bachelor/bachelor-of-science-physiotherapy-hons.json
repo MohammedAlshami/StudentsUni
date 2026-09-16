@@ -14,27 +14,17 @@
     "Jun"
   ],
   "fees": {
-    "local": "Refer to website",
-    "international": "Refer to website",
-    "local_total": 95476,
-    "international_total": 95479,
-    "per_year_local": 23869,
+    "currency": "MYR",
+    "total": 95479,
+    "per_year": 23869,
     "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Entry Level and Requirements INTI Foundation: Pass with GPA of 2.33 in 2 of the following subjects: Biology or Physics / Mathematics or Chemistry STPM / Matriculation / Pre-University: Pass Matriculation / Pre-University / Sijil Tinggi Persekolahan (STPM) or equivalent qualification with minimum GPA 2.33 in 2 of the following subjects: Biology or Physics / Mathematics or Chemistry A-Level: A-Level programme or equivalent qualification with minimum grade D in 2 of the following subjects; Biology or Physics / Mathematics or Chemistry Diploma: Minimum CGPA of 2.75 in related field OR CGPA less than 2.75 in related field and a minimum of 3 years (36 months) working experience in the related field SACE International (formerly known as South Australian Matriculation (SAM)): Pass with minimum ATAR 55-59 including any of the 2 subjects: Biology or Physics / Mathematics or Chemistry NSW HSC (New South Wales Higher School Certificate): Pass with minimum ATAR 55-59 including any of the 2 subjects: Biology or Physics / Mathematics or Chemistry Australian Year 12 : Pass with minimum ATAR 55 - 59 including any of the 2 subjects: Biology or Physics / Mathematics or Chemistry Canadian Pre-U : Pass with aggregate 55 - 59% in any of the 2 subjects: Biology or Physics / Mathematics or Chemistry UEC : Pass with at least 5B including grade B5 in either 2 of these subjects: Biology or Physics / Mathematic or Chemistry. English Language Requirements Local Students: MUET Band 3 or IELTS (5.5) / TOEFL (550) International students: IELTS (5.5) / TOEFL (550) paper-based or equivalent Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Entry Level and Requirements INTI Foundation: Pass with GPA of 2.33 in 2 of the following subjects: Biology or Physics / Mathematics or Chemistry STPM / Matriculation / Pre-University: Pass Matriculation / Pre-University / Sijil Tinggi Persekolahan (STPM) or equivalent qualification with minimum GPA 2.33 in 2 of the following subjects: Biology or Physics / Mathematics or Chemistry A-Level: A-Level programme or equivalent qualification with minimum grade D in 2 of the following subjects; Biology or Physics / Mathematics or Chemistry Diploma: Minimum CGPA of 2.75 in related field OR CGPA less than 2.75 in related field and a minimum of 3 years (36 months) working experience in the related field SACE International (formerly known as South Australian Matriculation (SAM)): Pass with minimum ATAR 55-59 including any of the 2 subjects: Biology or Physics / Mathematics or Chemistry NSW HSC (New South Wales Higher School Certificate): Pass with minimum ATAR 55-59 including any of the 2 subjects: Biology or Physics / Mathematics or Chemistry Australian Year 12 : Pass with minimum ATAR 55 - 59 including any of the 2 subjects: Biology or Physics / Mathematics or Chemistry Canadian Pre-U : Pass with aggregate 55 - 59% in any of the 2 subjects: Biology or Physics / Mathematics or Chemistry UEC : Pass with at least 5B including grade B5 in either 2 of these subjects: Biology or Physics / Mathematic or Chemistry. English Language Requirements Local Students: MUET Band 3 or IELTS (5.5) / TOEFL (550) International students: IELTS (5.5) / TOEFL (550) paper-based or equivalent Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

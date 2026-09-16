@@ -13,27 +13,16 @@
     "Sep"
   ],
   "fees": {
-    "local": "19280/Course",
-    "international": "19280/Course",
-    "local_total": 30848,
-    "per_year_local": 7712,
-    "notes": "Estimated total fees (local) for full course duration",
-    "international_total": 28560
+    "currency": "MYR",
+    "total": 28560,
+    "per_year": 7712,
+    "notes": "Estimated total fees (local) for full course duration"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "A pass in SPM or its equivalent with a minimum of 3 credits including Mathematics, and a pass in English; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent, with a minimum of Grade C (GP 2.0) in any subject, and credits in Mathematics and a pass in English at SPM level;OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul (pass) and credits in Mathematics and a pass in English at SPM level; OR A pass in SKM Level 3 (Level 3, MQF) in a related field and a pass in SPM with a minimum of 1 credit in any subject with credits in Mathematics and a pass in English subject to Senate approval and MUST attend bridging courses;​ OR A certificate (Level 3,MQF) or its equivalent in a related field Language Requirements International Students Minimum score of 5.5 for IELTS; OR its equivalent Local Students A pass in SPM English"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "A pass in SPM or its equivalent with a minimum of 3 credits including Mathematics, and a pass in English; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent, with a minimum of Grade C (GP 2.0) in any subject, and credits in Mathematics and a pass in English at SPM level;OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul (pass) and credits in Mathematics and a pass in English at SPM level; OR A pass in SKM Level 3 (Level 3, MQF) in a related field and a pass in SPM with a minimum of 1 credit in any subject with credits in Mathematics and a pass in English subject to Senate approval and MUST attend bridging courses;​ OR A certificate (Level 3,MQF) or its equivalent in a related field Language Requirements International Students Minimum score of 5.5 for IELTS; OR its equivalent Local Students A pass in SPM English"
   },
   "accreditation": null,
   "sources": [

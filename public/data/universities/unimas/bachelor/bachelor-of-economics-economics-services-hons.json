@@ -13,25 +13,15 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 3300,
-    "international_total": null,
-    "per_year_local": 1100,
-    "per_year_international": null,
+    "total": 3300,
+    "per_year": 1100,
     "notes": "Per semester fees from StudyMalaysia. Some programs: Enquire for fees."
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) including Mathematics",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": {
     "mqa_status": null,

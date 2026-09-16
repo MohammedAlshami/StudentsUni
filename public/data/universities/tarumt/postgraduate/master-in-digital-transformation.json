@@ -13,25 +13,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 9300,
-    "international_total": 34900.0,
-    "per_year_local": 9300,
-    "per_year_international": 17450,
+    "total": 34900.0,
+    "per_year": 17450,
     "notes": "From StudyMalaysia: RM18,600 (FT) RM19,500 (PT)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": "MQA",
   "sources": [

@@ -14,25 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 10759,
-    "international_total": 16089,
-    "per_year_local": 4452,
-    "per_year_international": null,
+    "total": 16089,
+    "per_year": 4452,
     "notes": "Local: RM26,000.00; International: RM55,275.00 (per_year based on 2.4166666666666665yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": {
     "mqa_status": null,

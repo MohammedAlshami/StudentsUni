@@ -13,25 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 6000,
-    "international_total": 12800,
-    "notes": "From EasyUni (per_year based on 2.5yr duration)",
-    "per_year_local": 2400
+    "total": 12800,
+    "per_year": 2400,
+    "notes": "From EasyUni (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Possesses SKM Level 3 in the related field; OR A Certificate (Level 3, MQF) in the related field with at least a CGPA of 00; OR A pass in Malaysian Higher School Certificate (Sijil Tinggi Pelajaran Malaysia – STPM) with at least C grade (GP 2.0) in any subject; OR A pass in Malaysia Higher Religious Certificate (Sijil Tinggi Agama Malaysia – STAM) with at least Maqbul Grade; OR Other equivalent qualifications recognised by the Malaysian Government"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Possesses SKM Level 3 in the related field; OR A Certificate (Level 3, MQF) in the related field with at least a CGPA of 00; OR A pass in Malaysian Higher School Certificate (Sijil Tinggi Pelajaran Malaysia – STPM) with at least C grade (GP 2.0) in any subject; OR A pass in Malaysia Higher Religious Certificate (Sijil Tinggi Agama Malaysia – STAM) with at least Maqbul Grade; OR Other equivalent qualifications recognised by the Malaysian Government"
   },
   "accreditation": null,
   "sources": [

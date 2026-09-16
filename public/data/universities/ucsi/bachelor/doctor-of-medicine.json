@@ -12,28 +12,16 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM 372,810",
-    "international": "RM 458,710",
     "currency": "MYR",
-    "local_total": 1864050,
-    "international_total": 458710,
-    "per_year_local": 372810,
-    "per_year_international": 458710,
+    "total": 458710,
+    "per_year": 458710,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": null,
   "sources": [

@@ -14,25 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 65999,
-    "international_total": null,
-    "per_year_local": 18857,
-    "per_year_international": null,
+    "total": 65999,
+    "per_year": 18857,
     "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics and Science",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": "R/0531/6/0001 (09/26) MQA/SWA4584",
   "description": "Covers analytical chemistry, organic chemistry, physical chemistry, polymer science, and green chemistry. Prepares graduates for careers in chemical analysis, quality control, and R&D.",

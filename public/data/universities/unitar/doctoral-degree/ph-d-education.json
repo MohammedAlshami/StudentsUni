@@ -15,25 +15,14 @@
     "Sep"
   ],
   "fees": {
-    "local": "23480/Course",
-    "international": "23480/Course",
-    "local_total": 35221,
-    "per_year_local": 7827,
+    "currency": "MYR",
+    "total": 35221,
+    "per_year": 7827,
     "notes": "Estimated total fees (local) for full course duration"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "sources": [

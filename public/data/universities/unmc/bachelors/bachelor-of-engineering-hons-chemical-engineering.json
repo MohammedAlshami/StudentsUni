@@ -10,28 +10,17 @@
     "Sep"
   ],
   "fees": {
-    "local": "RM47,100/Yr",
-    "international": "RM55,200/Yr",
-    "local_total": 55000,
     "currency": "MYR",
-    "international_total": 65000,
-    "per_year_local": 13750,
+    "total": 65000,
+    "per_year": 13750,
     "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Mathematics and Physics",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "Any one of these: A Level: BBC (including Mathematics and either Chemistry or Physics; excludes General Studies and Critical Thinking) IB Diploma: 26 points Higher Level: 5 in Mathematics: Analysis and Approaches, 4 in Chemistry or Physics STPM: BBC+ (including Mathematics and either Chemistry or Physics; excludes Pengajian Am) UEC: 5 B3s (including Mathematics and either Chemistry or Physics; excludes Bahasa Malaysia and Chinese language) Australian Year 12: ATAR 82 Must meet A Level subject equivalencies in Mathematics and Chemistry or Physics For WACE: Mathematics Methods and Specialist Mathematics required For SACE: Mathematical Methods and Specialist Mathematics required OSSD (Ontario): 77% average in 6 subjects Includes Advanced Functions, Calculus and Vectors, and Chemistry or Physics 75% equivalent to A Level grade C; 81% to grade B Gaokao (China): 70% average overall At least 75% in Mathematics and 73% in Chemistry or Physics 70% overall in Senior High School Diploma CBSE/CISCE (India): 78% average from best four subjects At least 80% in Mathematics and 70% in Chemistry or Physics CBSE Applied Mathematics not accepted AP (US): 4, 4, 3 Includes AP Calculus and either AP Chemistry or AP Physics Local Diplomas/Foundation: GPA of at least 3.20/4.0 Good grades in Mathematics and Chemistry or Physics Nottingham Foundation Programme: Minimum 45% in all Mathematics and Physics modules English Language Requirements IELTS (Academic): Overall 6.0 (minimum 5.5 in each component) TOEFL iBT: Total 80 Writing and Listening: at least 17 Reading: at least 18 Speaking: at least 20 PTE (Academic): Overall 65 (minimum 59 in each component) GCE A Level/AS Level English: Grade C SPM: CEFR Level B2 GCSE O-Level: Grade C / 4 IGCSE: First language: Grade C / 4 Second language: Grade B / 6 MUET: Band 4 UEC: Grade B3 IB English: English A1 or A2: 4 points English B HL: 4 points English B SL: 5 points OSSD English (ENG3U / ENG4U): 75% No fast-track or credit exemption routes accepted CBSE/CISCE English (Class X or XII): 70% Requires confirmation letter of English as the medium of instruction Additional Notes IELTS One Skill Retake is accepted IELTS Academic Online, TOEFL iBT Home Edition, and PTE Academic Online are not accepted IELTS, TOEFL, and PTE results must be less than 2 years old MUET results valid for 5 years"
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "Any one of these: A Level: BBC (including Mathematics and either Chemistry or Physics; excludes General Studies and Critical Thinking) IB Diploma: 26 points Higher Level: 5 in Mathematics: Analysis and Approaches, 4 in Chemistry or Physics STPM: BBC+ (including Mathematics and either Chemistry or Physics; excludes Pengajian Am) UEC: 5 B3s (including Mathematics and either Chemistry or Physics; excludes Bahasa Malaysia and Chinese language) Australian Year 12: ATAR 82 Must meet A Level subject equivalencies in Mathematics and Chemistry or Physics For WACE: Mathematics Methods and Specialist Mathematics required For SACE: Mathematical Methods and Specialist Mathematics required OSSD (Ontario): 77% average in 6 subjects Includes Advanced Functions, Calculus and Vectors, and Chemistry or Physics 75% equivalent to A Level grade C; 81% to grade B Gaokao (China): 70% average overall At least 75% in Mathematics and 73% in Chemistry or Physics 70% overall in Senior High School Diploma CBSE/CISCE (India): 78% average from best four subjects At least 80% in Mathematics and 70% in Chemistry or Physics CBSE Applied Mathematics not accepted AP (US): 4, 4, 3 Includes AP Calculus and either AP Chemistry or AP Physics Local Diplomas/Foundation: GPA of at least 3.20/4.0 Good grades in Mathematics and Chemistry or Physics Nottingham Foundation Programme: Minimum 45% in all Mathematics and Physics modules English Language Requirements IELTS (Academic): Overall 6.0 (minimum 5.5 in each component) TOEFL iBT: Total 80 Writing and Listening: at least 17 Reading: at least 18 Speaking: at least 20 PTE (Academic): Overall 65 (minimum 59 in each component) GCE A Level/AS Level English: Grade C SPM: CEFR Level B2 GCSE O-Level: Grade C / 4 IGCSE: First language: Grade C / 4 Second language: Grade B / 6 MUET: Band 4 UEC: Grade B3 IB English: English A1 or A2: 4 points English B HL: 4 points English B SL: 5 points OSSD English (ENG3U / ENG4U): 75% No fast-track or credit exemption routes accepted CBSE/CISCE English (Class X or XII): 70% Requires confirmation letter of English as the medium of instruction Additional Notes IELTS One Skill Retake is accepted IELTS Academic Online, TOEFL iBT Home Edition, and PTE Academic Online are not accepted IELTS, TOEFL, and PTE results must be less than 2 years old MUET results valid for 5 years"
   },
   "accreditation": null,
   "sources": [

@@ -14,24 +14,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 23660,
-    "international_total": 32910,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)",
-    "per_year_local": 23660
+    "total": 32910,
+    "per_year": 23660,
+    "notes": "From EasyUni (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": "MQA",
   "sources": [

@@ -13,25 +13,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 24000,
-    "international_total": null,
-    "per_year_local": 16000,
-    "per_year_international": null,
+    "total": 24000,
+    "per_year": 16000,
     "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": {
     "mqa_code": "R2/0414/7/0171",

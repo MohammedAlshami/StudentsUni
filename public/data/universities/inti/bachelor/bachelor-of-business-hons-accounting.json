@@ -14,28 +14,17 @@
     "Jan"
   ],
   "fees": {
-    "local": "Refer to newinti.edu.my",
-    "international": "Refer to newinti.edu.my",
-    "local_total": 25284,
     "currency": "MYR",
-    "international_total": 25285,
-    "per_year_local": 8428,
+    "total": 25285,
+    "per_year": 8428,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Entry Level and Requirements Foundation: Matriculation or Foundation Certificate with CGPA 2.0 Diploma: A relevant diploma with a CGPA of at least 2.00 from another institution STPM: Grade C (GP2.0) in any 2 subjects, and a pass in Mathematics and English A-Level: 2 Grade D in any subjects AND pass in Mathematics and English UEC: 5 subjects at grade B including a pass in Mathematics and English SACE: 4 or 5 subjects with ATAR 55 AND pass in Mathematics and English NSW (HSC): 10 units with ATAR 55 AND pass in Mathematics and English CPU: 6 passes with an average of 55 TEE: 4 or 5 subjects with ATAR 55 AND pass in Mathematics and English Australian Year 12: TER/UAI/ENTER 55 STAM: Grade Jayyid and pass Mathematics and English Others: Other equivalent qualifications as recognised by the government of Malaysia"
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Entry Level and Requirements Foundation: Matriculation or Foundation Certificate with CGPA 2.0 Diploma: A relevant diploma with a CGPA of at least 2.00 from another institution STPM: Grade C (GP2.0) in any 2 subjects, and a pass in Mathematics and English A-Level: 2 Grade D in any subjects AND pass in Mathematics and English UEC: 5 subjects at grade B including a pass in Mathematics and English SACE: 4 or 5 subjects with ATAR 55 AND pass in Mathematics and English NSW (HSC): 10 units with ATAR 55 AND pass in Mathematics and English CPU: 6 passes with an average of 55 TEE: 4 or 5 subjects with ATAR 55 AND pass in Mathematics and English Australian Year 12: TER/UAI/ENTER 55 STAM: Grade Jayyid and pass Mathematics and English Others: Other equivalent qualifications as recognised by the government of Malaysia"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

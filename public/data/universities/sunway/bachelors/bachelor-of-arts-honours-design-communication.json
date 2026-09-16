@@ -14,28 +14,17 @@
     "Jan"
   ],
   "fees": {
-    "local": "From RM82,580",
-    "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 36984,
-    "per_year_local": 12328,
-    "notes": "Fee: FromRM82,580.00 (per_year based on 3.0yr duration)",
-    "international_total": 39234
+    "total": 39234,
+    "per_year": 12328,
+    "notes": "Fee: FromRM82,580.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Any relevant subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "STPM Average C or CGPA 2.0 (Minimum 2 principals) and a credit in SPM Bahasa Melayu A-Level Minimum 8 points (Minimum Grade D in at least 2 subjects) Note: For A-Level points calculation A = 10 points B = 8 points C = 6 points D = 4 points E = 2 points Australian Matriculation ATAR 55 Canadian Matriculation 55% Monash University Foundation Year 55% Sunway Foundation in Arts CGPA 2.0 Sunway Foundation in Science Technology CGPA 2.0 Unified Examination Certificate Maximum 28 points from 5 subjects (all Grade Bs) International Baccalaureate Completed with minimum 24 points (excluding bonus points) Sunway Diploma in Related Field* CAVG 50% or CGPA 2.0 APEL.A An APEL.A Certificate (APEL T-6) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A)   Specific Requirement for Certain International Students International students from certain countries that want to take some Sunway University degree programmes (for example programmes in partnership with Lancaster University) will need to take and pass our online six-month International Preparatory Programme (IPP). This is a requirement to enrol on a Sunway degree programme that also leads to a degree awarded by Sunway’s partner institution. Students are required to pass all the subjects with a grade C and above to progress to the degree programme.   Portfolio Requirements Pass a Portfolio review by the University Why is a Portfolio Necessary? A portfolio provides some indication of your ability in design and allows us to assess your creative potential. The portfolio requires a minimum of 5 artworks which show variation and usage of different mediums and applications. Candidates should portray an array of artworks ranging from (but not limited to) paintings, drawings, sketches, collages and digital software applications. It is highly recommended to have at least 5 drawings (still life, landscape, perspective, figure drawing, portrait and such) and a further 5 artworks could be a combination of photographs, poster designs, videos, animations, logo designs, sculptures etc of choice. English Language Requirements IELTS or equivalent 6.0 MUET Band 4 SPM English B+ UEC English B4 O-Level English (1119) Credit Sunway Intensive English Programme (IEP) Pass Level 4 with minimum 65% ESL / English Satisfactory level in Pre-University programmes, where the medium of instruction is English"
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "STPM Average C or CGPA 2.0 (Minimum 2 principals) and a credit in SPM Bahasa Melayu A-Level Minimum 8 points (Minimum Grade D in at least 2 subjects) Note: For A-Level points calculation A = 10 points B = 8 points C = 6 points D = 4 points E = 2 points Australian Matriculation ATAR 55 Canadian Matriculation 55% Monash University Foundation Year 55% Sunway Foundation in Arts CGPA 2.0 Sunway Foundation in Science Technology CGPA 2.0 Unified Examination Certificate Maximum 28 points from 5 subjects (all Grade Bs) International Baccalaureate Completed with minimum 24 points (excluding bonus points) Sunway Diploma in Related Field* CAVG 50% or CGPA 2.0 APEL.A An APEL.A Certificate (APEL T-6) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A)   Specific Requirement for Certain International Students International students from certain countries that want to take some Sunway University degree programmes (for example programmes in partnership with Lancaster University) will need to take and pass our online six-month International Preparatory Programme (IPP). This is a requirement to enrol on a Sunway degree programme that also leads to a degree awarded by Sunway’s partner institution. Students are required to pass all the subjects with a grade C and above to progress to the degree programme.   Portfolio Requirements Pass a Portfolio review by the University Why is a Portfolio Necessary? A portfolio provides some indication of your ability in design and allows us to assess your creative potential. The portfolio requires a minimum of 5 artworks which show variation and usage of different mediums and applications. Candidates should portray an array of artworks ranging from (but not limited to) paintings, drawings, sketches, collages and digital software applications. It is highly recommended to have at least 5 drawings (still life, landscape, perspective, figure drawing, portrait and such) and a further 5 artworks could be a combination of photographs, poster designs, videos, animations, logo designs, sculptures etc of choice. English Language Requirements IELTS or equivalent 6.0 MUET Band 4 SPM English B+ UEC English B4 O-Level English (1119) Credit Sunway Intensive English Programme (IEP) Pass Level 4 with minimum 65% ESL / English Satisfactory level in Pre-University programmes, where the medium of instruction is English"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

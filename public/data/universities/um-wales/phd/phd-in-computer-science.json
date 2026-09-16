@@ -12,27 +12,14 @@
     "Jan"
   ],
   "fees": {
-    "local": "RM39,460",
-    "international": "RM53,100",
-    "local_total": 14043,
     "currency": "MYR",
-    "international_total": 18994,
-    "per_year_local": 4681,
+    "total": 18994,
+    "per_year": 4681,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "sources": [

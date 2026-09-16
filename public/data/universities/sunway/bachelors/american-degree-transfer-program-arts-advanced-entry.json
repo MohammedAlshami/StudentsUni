@@ -14,28 +14,17 @@
     "Sep"
   ],
   "fees": {
-    "local": "USD30,000 (Western Michigan University and University of Wisconsin Eau Claire), USD41,000 (Eastern Connecticut State University)",
-    "international": null,
     "currency": "MYR",
-    "local_total": 106500,
-    "per_year_local": 71000,
-    "notes": "Fee: USD30000 (Western Michigan University and University of Wisconsin Eau Claire),  USD41000 (Eastern Conneticut State University)",
-    "international_total": 52700
+    "total": 52700,
+    "per_year": 71000,
+    "notes": "Fee: USD30000 (Western Michigan University and University of Wisconsin Eau Claire),  USD41000 (Eastern Conneticut State University)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Any relevant subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "ADTP (Arts) For Business, Communication, Filmmaking, Social Sciences, Liberal Arts and related majors SPM / O-Level/GCSE or IGCSE:  Pass with a minimum of 5 credits (including English) Unified Examination Certificate:  Minimum 5 Grade Bs (including English) ADTP (Science/Engineering) For STEM fields: Science, Technology, Engineering, Mathematics, Aviation, Computer Science, some Social Sciences, Psychology or related majors SPM / O-Level/GCSE or IGCSE: Pass with a minimum of 5 credits (including English &amp; Mathematics or any Science subject) Unified Examination Certificate: Minimum 5 Grade Bs (including English &amp; Mathematics or any Science subject) APEL.A An APEL.A Certificate (APEL T-6) (Recognition of Prior Learning)  English Requirements IELTS 5.0 or equivalent Sunway Intensive English Programme (IEP): Pass Level 4 with minimum 50%"
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "ADTP (Arts) For Business, Communication, Filmmaking, Social Sciences, Liberal Arts and related majors SPM / O-Level/GCSE or IGCSE:  Pass with a minimum of 5 credits (including English) Unified Examination Certificate:  Minimum 5 Grade Bs (including English) ADTP (Science/Engineering) For STEM fields: Science, Technology, Engineering, Mathematics, Aviation, Computer Science, some Social Sciences, Psychology or related majors SPM / O-Level/GCSE or IGCSE: Pass with a minimum of 5 credits (including English &amp; Mathematics or any Science subject) Unified Examination Certificate: Minimum 5 Grade Bs (including English &amp; Mathematics or any Science subject) APEL.A An APEL.A Certificate (APEL T-6) (Recognition of Prior Learning)  English Requirements IELTS 5.0 or equivalent Sunway Intensive English Programme (IEP): Pass Level 4 with minimum 50%"
   },
   "accreditation": null,
   "awarding_country": "United States",

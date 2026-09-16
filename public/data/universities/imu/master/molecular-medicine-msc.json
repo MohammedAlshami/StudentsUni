@@ -9,10 +9,8 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 44000,
-    "international_total": 50000,
-    "per_year_local": 44000,
-    "per_year_international": null,
+    "total": 50000,
+    "per_year": 44000,
     "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {

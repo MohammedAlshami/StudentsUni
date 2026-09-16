@@ -14,26 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 9000,
-    "international_total": 13680,
-    "per_year_local": 3000,
-    "per_year_international": null,
+    "total": 13680,
+    "per_year": 3000,
     "notes": "Local: RM27,000.00; International: RM57,355.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Pass SPM with 3 credits; Certificate from Polytechnic/higher learning institution; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government.  "
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Pass SPM with 3 credits; Certificate from Polytechnic/higher learning institution; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government.  "
   },
   "accreditation": {
     "mqa_status": null,

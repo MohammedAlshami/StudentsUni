@@ -13,25 +13,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 15000,
-    "international_total": 19500,
-    "per_year_local": 15000,
-    "per_year_international": 19500,
+    "total": 19500,
+    "per_year": 19500,
     "notes": "Total programme fee; maps to Foundation in Creative Multimedia"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": {
     "mqa_status": "Active",

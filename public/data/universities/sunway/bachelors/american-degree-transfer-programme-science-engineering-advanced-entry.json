@@ -14,26 +14,16 @@
     "Sep"
   ],
   "fees": {
-    "local": "USD30,000 (Western Michigan University), USD25,000 (South Dakota State University), USD27,000 (St. Cloud State University)",
-    "international": null,
     "currency": "MYR",
-    "local_total": 36000,
-    "per_year_local": 18000,
+    "total": 36000,
+    "per_year": 18000,
     "notes": "Estimated ~RM18000/year for typical private university programme"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Relevant science subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": null,
   "awarding_country": "United States",

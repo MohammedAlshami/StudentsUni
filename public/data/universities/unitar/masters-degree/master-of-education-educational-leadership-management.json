@@ -13,28 +13,13 @@
     "Jan"
   ],
   "fees": {
-    "local": "20130/Course",
-    "international": "20130/Course",
-    "local_total": 18000,
     "currency": "MYR",
-    "international_total": 31688,
-    "per_year_local": 13500,
+    "total": 31688,
+    "per_year": 13500,
     "notes": " (per_year based on 1.3333333333333333yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A Bachelor’s degree (Level 6, MQF) with a minimum CGPA of 2.50 or its equivalent as accepted by UNITAR Senate A Bachelor&#39;s degree or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to a minimum of five (5) years working experience in educationnternational students Candidates without a qualification in the related fields or working experience in the relevant fields must undergo appropriate prerequisite courses determined by the HEP and meet the minimum CGPA based on above requirements. English Language Requirements (International Students) Minimum score of 5.0 for IELTS  Minimum score of 40 for TOEFL iBT Or its equivalent  "
+    "general": "A Bachelor’s degree (Level 6, MQF) with a minimum CGPA of 2.50 or its equivalent as accepted by UNITAR Senate A Bachelor&#39;s degree or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to a minimum of five (5) years working experience in educationnternational students Candidates without a qualification in the related fields or working experience in the relevant fields must undergo appropriate prerequisite courses determined by the HEP and meet the minimum CGPA based on above requirements. English Language Requirements (International Students) Minimum score of 5.0 for IELTS  Minimum score of 40 for TOEFL iBT Or its equivalent  "
   },
   "accreditation": null,
   "sources": [

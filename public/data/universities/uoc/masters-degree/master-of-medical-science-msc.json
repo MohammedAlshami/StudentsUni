@@ -11,10 +11,9 @@
     "Oct"
   ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University",
-    "local_total": 59550,
-    "per_year_local": 9925,
+    "currency": "MYR",
+    "total": 59550,
+    "per_year": 9925,
     "notes": "Estimated total fees (local) for full course duration"
   },
   "requirements": null,

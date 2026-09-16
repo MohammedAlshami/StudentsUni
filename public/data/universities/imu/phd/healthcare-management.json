@@ -8,26 +8,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 43200,
-    "international_total": 84300,
-    "per_year_local": 14400,
-    "per_year_international": null,
+    "total": 84300,
+    "per_year": 14400,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Academic Requirements: Master’s Degree in relevant field that accepted by the University’s Senate; or Other qualifications equivalent to a Master’s degree accepted by the University’s Senate; or First Class Honour Degree in a relevant field that is accepted by the University’s Senate (direct entry). English Proficiency Requirements: For International Students IELTS : Band score 6.0; or TOEFL (iBT): Overall score of 60; or Cambridge English : Advanced (CAE) : Overall score of 169; or Cambridge English : Proficiency (CPE) : Overall score of 169; or Cambridge Linguaskill : Overall score of 169; or Pearson Test of English (PTE) : Overall score of 59; The following categories of students are exempted from the above requirements: International students from countries in which English is the first language. International students who graduated from any Malaysian or other institutions where the curriculum is delivered in English."
+    "general": "Academic Requirements: Master’s Degree in relevant field that accepted by the University’s Senate; or Other qualifications equivalent to a Master’s degree accepted by the University’s Senate; or First Class Honour Degree in a relevant field that is accepted by the University’s Senate (direct entry). English Proficiency Requirements: For International Students IELTS : Band score 6.0; or TOEFL (iBT): Overall score of 60; or Cambridge English : Advanced (CAE) : Overall score of 169; or Cambridge English : Proficiency (CPE) : Overall score of 169; or Cambridge Linguaskill : Overall score of 169; or Pearson Test of English (PTE) : Overall score of 59; The following categories of students are exempted from the above requirements: International students from countries in which English is the first language. International students who graduated from any Malaysian or other institutions where the curriculum is delivered in English."
   },
   "accreditation": {
     "mqa_status": null,

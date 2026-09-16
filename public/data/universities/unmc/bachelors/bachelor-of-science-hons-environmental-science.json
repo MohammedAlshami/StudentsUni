@@ -10,28 +10,17 @@
     "Sep"
   ],
   "fees": {
-    "local": "RM38,690/Yr",
-    "international": "RM43,830/Yr",
-    "local_total": 51999,
     "currency": "MYR",
-    "international_total": 58000,
-    "per_year_local": 17333,
+    "total": 58000,
+    "per_year": 17333,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Relevant science subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "Any one of these: A Level BCC (including two science subjects - preferably Biology, Chemistry, Geography, Mathematics or Physics) Excludes: Critical Thinking, General Studies IB Diploma 24 points overall with 5,4 at Higher Level including two science subjects (preferably Biology, Chemistry, Geography, Mathematics or Physics) STPM BC+C+ (including two science subjects) Excludes: Pengajian Am UEC 3 B3s and 2 B4s (including two science subjects) Excludes: Bahasa Malaysia, Chinese Language Australian Year 12 ATAR 78 Two science subjects required (preferably Biology, Chemistry, Geography, Mathematics or Physics) Canadian (OSSD) 75% average across 6 subjects Two science subjects required Other Canadian diplomas assessed case-by-case China (Gaokao) 68% average Two science subjects (one ≥75%, one ≥73%) Senior High School Diploma: 70% overall India (CBSE/CISCE) 75% average (best 4 subjects) Two science subjects (one ≥80%, one ≥70%) Excludes local language, Environmental Education, General Studies, Physical Education Advanced Placement (AP) 4,3,3 including two AP science subjects Local Qualifications Diploma/Foundation: Minimum GPA 3.0/4.0 Nottingham Foundation: Successful completion required English Language Requirements Minimum Scores IELTS: 6.0 (no less than 5.5 each) TOEFL iBT: 80 (min 17 Writing/Listening, 18 Reading, 20 Speaking) PTE: 65 (no less than 59 each) Alternative Qualifications GCE A/AS Level English: Grade C SPM: CEFR B2 GCSE/IGCSE: Grade C/4 (first), B/6 (second) MUET: Band 4 UEC: Grade B3 IB English: 4 points (A1/A2 HL/SL or B HL), 5 points (B SL) OSSD/CBSE/CISCE: Proof of English medium instruction required Notes English tests valid for 2 years (MUET: 5 years) IELTS One Skill Retake accepted Online tests not accepted"
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "Any one of these: A Level BCC (including two science subjects - preferably Biology, Chemistry, Geography, Mathematics or Physics) Excludes: Critical Thinking, General Studies IB Diploma 24 points overall with 5,4 at Higher Level including two science subjects (preferably Biology, Chemistry, Geography, Mathematics or Physics) STPM BC+C+ (including two science subjects) Excludes: Pengajian Am UEC 3 B3s and 2 B4s (including two science subjects) Excludes: Bahasa Malaysia, Chinese Language Australian Year 12 ATAR 78 Two science subjects required (preferably Biology, Chemistry, Geography, Mathematics or Physics) Canadian (OSSD) 75% average across 6 subjects Two science subjects required Other Canadian diplomas assessed case-by-case China (Gaokao) 68% average Two science subjects (one ≥75%, one ≥73%) Senior High School Diploma: 70% overall India (CBSE/CISCE) 75% average (best 4 subjects) Two science subjects (one ≥80%, one ≥70%) Excludes local language, Environmental Education, General Studies, Physical Education Advanced Placement (AP) 4,3,3 including two AP science subjects Local Qualifications Diploma/Foundation: Minimum GPA 3.0/4.0 Nottingham Foundation: Successful completion required English Language Requirements Minimum Scores IELTS: 6.0 (no less than 5.5 each) TOEFL iBT: 80 (min 17 Writing/Listening, 18 Reading, 20 Speaking) PTE: 65 (no less than 59 each) Alternative Qualifications GCE A/AS Level English: Grade C SPM: CEFR B2 GCSE/IGCSE: Grade C/4 (first), B/6 (second) MUET: Band 4 UEC: Grade B3 IB English: 4 points (A1/A2 HL/SL or B HL), 5 points (B SL) OSSD/CBSE/CISCE: Proof of English medium instruction required Notes English tests valid for 2 years (MUET: 5 years) IELTS One Skill Retake accepted Online tests not accepted"
   },
   "accreditation": null,
   "sources": [

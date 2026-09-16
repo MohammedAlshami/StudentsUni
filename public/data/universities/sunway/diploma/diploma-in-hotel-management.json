@@ -14,28 +14,16 @@
     "Feb"
   ],
   "fees": {
-    "local": "From RM35,300",
-    "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 28370,
-    "per_year_local": 14185,
-    "notes": "Fee: FromRM35,300.00 (per_year based on 2.0yr duration)",
-    "international_total": 30620
+    "total": 30620,
+    "per_year": 14185,
+    "notes": "Fee: FromRM35,300.00 (per_year based on 2.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "SPM / SPMV / O-Level Pass with a minimum of 3 credits UEC: Pass with a minimum of 3 Grade Bs APEL.A An APEL.A Certificate (APEL T-4) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) English Language Requirements Sunway Intensive English Programme (IEP): Pass Level 3 IELTS or equivalent: 5.0 *For International students entering using a qualification whereby the medium of instruction is not in English Other Qualification Any other qualifications will be considered on a case-to-case basis"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "SPM / SPMV / O-Level Pass with a minimum of 3 credits UEC: Pass with a minimum of 3 Grade Bs APEL.A An APEL.A Certificate (APEL T-4) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) English Language Requirements Sunway Intensive English Programme (IEP): Pass Level 3 IELTS or equivalent: 5.0 *For International students entering using a qualification whereby the medium of instruction is not in English Other Qualification Any other qualifications will be considered on a case-to-case basis"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

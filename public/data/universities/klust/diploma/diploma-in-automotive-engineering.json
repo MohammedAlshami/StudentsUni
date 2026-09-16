@@ -12,26 +12,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 31200,
-    "international_total": 31200,
-    "per_year_local": 12480,
-    "per_year_international": null,
+    "total": 31200,
+    "per_year": 12480,
     "notes": " (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: SPM / SPMV: Minimum 3 Cs (including Mathematics and a Science/Technical/Vocational subject) and pass in English. O-Level: Minimum 3 Cs (including Mathematics and a Science/Technical/Vocational subject) and pass in English. UEC: Minimum 3 Bs (including Mathematics and a Science/Technical/Vocational subject) and pass in English. Certificate Level 3 MQF: Minimum CGPA of 2.00. Certificate/SKM III (Technical &amp; Vocational): Minimum CGPA of 2.00 and 1 year experience in related field or 1 semester of enhancement programme, and pass SPM with at least ONE (1) credit in any subject. Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM. ENGLISH LANGUAGE REQUIREMENT (INTERNATIONAL): IELTS - 5 TOEFL (PBT) - 500 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
+    "general": "Any one of these: SPM / SPMV: Minimum 3 Cs (including Mathematics and a Science/Technical/Vocational subject) and pass in English. O-Level: Minimum 3 Cs (including Mathematics and a Science/Technical/Vocational subject) and pass in English. UEC: Minimum 3 Bs (including Mathematics and a Science/Technical/Vocational subject) and pass in English. Certificate Level 3 MQF: Minimum CGPA of 2.00. Certificate/SKM III (Technical &amp; Vocational): Minimum CGPA of 2.00 and 1 year experience in related field or 1 semester of enhancement programme, and pass SPM with at least ONE (1) credit in any subject. Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM. ENGLISH LANGUAGE REQUIREMENT (INTERNATIONAL): IELTS - 5 TOEFL (PBT) - 500 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
   },
   "accreditation": {
     "mqa_status": null,

@@ -13,28 +13,13 @@
     "Jan"
   ],
   "fees": {
-    "local": "24480/Course",
-    "international": "24480/Course",
-    "local_total": 13449,
     "currency": "MYR",
-    "international_total": 19167,
-    "per_year_local": 4483,
+    "total": 19167,
+    "per_year": 4483,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A Bachelor’s Degree (Level 6, MQF) in the field or related field with a minimum CGPA of 2.50 or its equivalent as accepted by UNITAR Senate; OR A Bachelor&#39;s degree in the field or related fields or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to rigorous internal assessment Candidates without a qualification in the related fields or working experience (minimum 5 years) in the relevant fields must undergo appropriate prerequisite courses determined by the HEP and meet the minimum CGPA based on (i) to (ii). English Language Requirements (International Students) Minimum score of 6.0 for IELTS; OR Minimum score of 60 for TOEFL or Its equivalent."
+    "general": "A Bachelor’s Degree (Level 6, MQF) in the field or related field with a minimum CGPA of 2.50 or its equivalent as accepted by UNITAR Senate; OR A Bachelor&#39;s degree in the field or related fields or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to rigorous internal assessment Candidates without a qualification in the related fields or working experience (minimum 5 years) in the relevant fields must undergo appropriate prerequisite courses determined by the HEP and meet the minimum CGPA based on (i) to (ii). English Language Requirements (International Students) Minimum score of 6.0 for IELTS; OR Minimum score of 60 for TOEFL or Its equivalent."
   },
   "accreditation": null,
   "sources": [

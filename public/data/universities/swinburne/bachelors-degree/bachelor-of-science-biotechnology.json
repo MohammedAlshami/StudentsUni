@@ -13,28 +13,16 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM123,000",
-    "international": "RM157,080",
     "currency": "MYR",
-    "local_total": 123000,
-    "international_total": 157080,
-    "per_year_local": 41000,
-    "per_year_international": 52360,
+    "total": 157080,
+    "per_year": 52360,
     "notes": "Annual fee; total = annual x 3 years"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics and Science",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": null,
   "sources": [

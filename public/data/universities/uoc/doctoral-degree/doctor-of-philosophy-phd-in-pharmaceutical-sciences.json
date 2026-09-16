@@ -14,27 +14,14 @@
     "Jun"
   ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University",
-    "local_total": 21099,
     "currency": "MYR",
-    "international_total": 18100,
-    "per_year_local": 7033,
+    "total": 18100,
+    "per_year": 7033,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "sources": [

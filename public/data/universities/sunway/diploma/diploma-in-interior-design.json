@@ -14,28 +14,16 @@
     "Feb"
   ],
   "fees": {
-    "local": "From RM46,900",
-    "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 26622,
-    "per_year_local": 11832,
-    "notes": "Fee: FromRM46,900.00 (per_year based on 2.25yr duration)",
-    "international_total": 29123
+    "total": 29123,
+    "per_year": 11832,
+    "notes": "Fee: FromRM46,900.00 (per_year based on 2.25yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "SPM/O-Level Pass with min. 3 credits UEC Pass with min. 3 Bs Other Equivalent Qualifications Pass in Certificate (Level 3, MQF) or equivalent in related fields Must be accredited by MQA Special Requirements Pass a Portfolio review: Please submit a minimum of 3 pieces of your own creative work in any genre and mediums: Drawing  Painting Photography Digital Illustration Clay Art Fashion-Related Art Projects Any other medium OR Pass an interview *In cases where students’ portfolio does not meet expectations."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "SPM/O-Level Pass with min. 3 credits UEC Pass with min. 3 Bs Other Equivalent Qualifications Pass in Certificate (Level 3, MQF) or equivalent in related fields Must be accredited by MQA Special Requirements Pass a Portfolio review: Please submit a minimum of 3 pieces of your own creative work in any genre and mediums: Drawing  Painting Photography Digital Illustration Clay Art Fashion-Related Art Projects Any other medium OR Pass an interview *In cases where students’ portfolio does not meet expectations."
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

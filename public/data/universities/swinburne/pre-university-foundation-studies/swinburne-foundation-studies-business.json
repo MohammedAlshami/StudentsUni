@@ -13,28 +13,14 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM21,040",
-    "international": "RM29,040",
     "currency": "MYR",
-    "local_total": 21040,
-    "international_total": 29040,
-    "per_year_local": 21040,
-    "per_year_international": 29040,
+    "total": 29040,
+    "per_year": 29040,
     "notes": "Total course fee for 1-year programme"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [

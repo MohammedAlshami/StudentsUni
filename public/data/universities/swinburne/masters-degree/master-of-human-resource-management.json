@@ -13,13 +13,9 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM45,540",
-    "international": "RM53,820",
     "currency": "MYR",
-    "local_total": 34155,
-    "international_total": 53820,
-    "per_year_local": 22770,
-    "per_year_international": 26910,
+    "total": 53820,
+    "per_year": 26910,
     "notes": "Total course fee for 2-year programme"
   },
   "requirements": null,

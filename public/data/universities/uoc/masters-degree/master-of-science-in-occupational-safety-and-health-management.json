@@ -12,28 +12,13 @@
     "Jan"
   ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University",
-    "local_total": 22350,
     "currency": "MYR",
-    "international_total": 23400,
-    "per_year_local": 11175,
+    "total": 23400,
+    "per_year": 11175,
     "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of these: Degree in related field (Bachelor&#39;s Degree Level): A bachelor’s degree with a minimum CGPA of 2.50 or equivalent, as accepted by the Malaysian government and the University; or A bachelor’s degree in the field or related fields or equivalent with a CGPA between 2.00 to 2.50 can be accepted subject to rigorous internal assessment. Equivalent entries (Certificate): A bachelor&#39;s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the University and with 3 years of relevant working experience, subject to a rigorous internal assessment. Equivalent entries (Bachelor&#39;s Degree Level): A bachelor&#39;s degree in non-related fields with a minimum of 2.00 as accepted by the University and without relevant working experience, subject to passing prerequisite courses. English Proficiency (For International Students): Band 4 in MUET or equivalent to CEFR (Mid B2)."
+    "general": "Any of these: Degree in related field (Bachelor&#39;s Degree Level): A bachelor’s degree with a minimum CGPA of 2.50 or equivalent, as accepted by the Malaysian government and the University; or A bachelor’s degree in the field or related fields or equivalent with a CGPA between 2.00 to 2.50 can be accepted subject to rigorous internal assessment. Equivalent entries (Certificate): A bachelor&#39;s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the University and with 3 years of relevant working experience, subject to a rigorous internal assessment. Equivalent entries (Bachelor&#39;s Degree Level): A bachelor&#39;s degree in non-related fields with a minimum of 2.00 as accepted by the University and without relevant working experience, subject to passing prerequisite courses. English Proficiency (For International Students): Band 4 in MUET or equivalent to CEFR (Mid B2)."
   },
   "accreditation": null,
   "sources": [

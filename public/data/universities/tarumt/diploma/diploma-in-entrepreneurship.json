@@ -11,26 +11,16 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM18,900.00",
-    "international": null,
-    "local_total": 6880,
     "currency": "MYR",
-    "per_year_local": 3440
+    "total": 6880,
+    "per_year": 3440,
+    "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "(1) SPM - 3 Credits in the relevant subjects (2) O Level - 3 Grade C in the relevant subjects (3) UEC - 3 Grade B in the relevant subjects (4) Certificate - Relevant Certificate accredited by MQA OR Relevant Skilled/Technical/Vocational Certificate recognised by the Malaysian Government. Compulsory subjects: i) (1), (2), or (3) must include SPM Pass/ O Level Grade E in Mathematics#/ UEC Grade C in one mathematics subject# ii) (1), (2), or (3) must include SPM Pass/ O Level Grade E(Pass)/ UEC Grade C in English Language* *Grade C and above in AELE0364 English Language conducted by TAR UC is accepted as having fulfilled the English Language requirement for applicants who fail English Language at SPM/O Level/ UEC #Grade C and above in AMMS0104 General Mathematics conducted by TAR UC is accepted as having fulfilled the mathematics requirement for applicants with fail the required mathematics subject at SPM/O Level/ UEC Note: a) SPM holders must have at least a pass in Bahasa Melayu and SPM holders from Year 2013 onwards must have at least a pass in Sejarah. b) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Diploma. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "(1) SPM - 3 Credits in the relevant subjects (2) O Level - 3 Grade C in the relevant subjects (3) UEC - 3 Grade B in the relevant subjects (4) Certificate - Relevant Certificate accredited by MQA OR Relevant Skilled/Technical/Vocational Certificate recognised by the Malaysian Government. Compulsory subjects: i) (1), (2), or (3) must include SPM Pass/ O Level Grade E in Mathematics#/ UEC Grade C in one mathematics subject# ii) (1), (2), or (3) must include SPM Pass/ O Level Grade E(Pass)/ UEC Grade C in English Language* *Grade C and above in AELE0364 English Language conducted by TAR UC is accepted as having fulfilled the English Language requirement for applicants who fail English Language at SPM/O Level/ UEC #Grade C and above in AMMS0104 General Mathematics conducted by TAR UC is accepted as having fulfilled the mathematics requirement for applicants with fail the required mathematics subject at SPM/O Level/ UEC Note: a) SPM holders must have at least a pass in Bahasa Melayu and SPM holders from Year 2013 onwards must have at least a pass in Sejarah. b) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Diploma. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
   },
   "accreditation": "MQA",
   "sources": [

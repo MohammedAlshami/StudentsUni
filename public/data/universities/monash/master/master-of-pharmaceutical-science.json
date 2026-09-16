@@ -12,25 +12,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 47040,
-    "international_total": 53280,
-    "per_year_local": 23520,
-    "per_year_international": null,
+    "total": 53280,
+    "per_year": 23520,
     "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": {
     "mqa_status": "Accredited",

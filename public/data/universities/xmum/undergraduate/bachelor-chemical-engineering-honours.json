@@ -13,27 +13,16 @@
     "Feb"
   ],
   "fees": {
-    "local": null,
-    "international": null,
-    "local_total": 28072,
     "currency": "MYR",
-    "international_total": 29000,
-    "per_year_local": 7018,
+    "total": 29000,
+    "per_year": 7018,
     "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Mathematics and Physics",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": "MQA",
   "sources": [

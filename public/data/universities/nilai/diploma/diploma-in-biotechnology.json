@@ -14,25 +14,14 @@
   ],
   "fees": {
     "currency": "RM",
-    "local_total": 34198,
-    "international_total": 34200.0,
-    "per_year_local": 9771,
-    "per_year_international": null,
+    "total": 34200.0,
+    "per_year": 9771,
     "notes": "Local: 34200/Course; International: 34200/Course (per_year based on 3.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": {
     "mqa_status": null,

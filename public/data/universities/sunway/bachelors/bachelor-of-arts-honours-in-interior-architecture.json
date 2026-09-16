@@ -13,28 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "local": "From RM81,800",
-    "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 35700,
-    "per_year_local": 11900,
-    "notes": "Fee: FromRM81,800.00 (per_year based on 3.0yr duration)",
-    "international_total": 37950
+    "total": 37950,
+    "per_year": 11900,
+    "notes": "Fee: FromRM81,800.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Mathematics",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "STPM: Average C or CGPA 2.0 (minimum 2 principals) A-Level: Minimum 8 points (Grade D in at least 2 subjects) Australian Matriculation: ATAR 55 Canadian Matriculation: 55% Monash University Foundation Year: 55% Sunway Foundation in Arts/Science &amp; Technology: CGPA 2.0 UEC: Maximum 30 points from 5 subjects (all Grade Bs) International Baccalaureate: Minimum 24 points (excluding bonus points) Sunway Diploma in Related Field: CAVG 50% or CGPA 2.0 (advanced standing possible) Portfolio Review: Minimum 5 architecture-related works (pencil/ink sketches, AutoCAD drawings, 3D models, hand-drafted designs) English Language: IELTS 6.0, MUET Band 4, SPM English B, UEC English B6, O-Level English Credit, Sunway IEP Level 4 (65%)"
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "STPM: Average C or CGPA 2.0 (minimum 2 principals) A-Level: Minimum 8 points (Grade D in at least 2 subjects) Australian Matriculation: ATAR 55 Canadian Matriculation: 55% Monash University Foundation Year: 55% Sunway Foundation in Arts/Science &amp; Technology: CGPA 2.0 UEC: Maximum 30 points from 5 subjects (all Grade Bs) International Baccalaureate: Minimum 24 points (excluding bonus points) Sunway Diploma in Related Field: CAVG 50% or CGPA 2.0 (advanced standing possible) Portfolio Review: Minimum 5 architecture-related works (pencil/ink sketches, AutoCAD drawings, 3D models, hand-drafted designs) English Language: IELTS 6.0, MUET Band 4, SPM English B, UEC English B6, O-Level English Credit, Sunway IEP Level 4 (65%)"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

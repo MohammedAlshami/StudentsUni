@@ -8,10 +8,10 @@
   "duration": "Maximum 3 Years",
   "mode": "Flexible Full-time/Part-time Mode",
   "fees": {
-    "local": "RM30,000.00",
-    "international": null,
-    "local_total": 30000,
-    "per_year_local": 10000
+    "currency": "MYR",
+    "total": 30000,
+    "per_year": 10000,
+    "notes": ""
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0056460/",
@@ -23,18 +23,8 @@
     "Modular"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "program_name_ar": "ماجستير Corporate Governance",
   "program_name_zh": "Corporate Governance硕士",

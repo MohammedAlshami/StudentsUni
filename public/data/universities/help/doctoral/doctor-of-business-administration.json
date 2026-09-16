@@ -8,10 +8,10 @@
   "duration": "Minimum 3 years",
   "mode": "Flexible Full-time/Part-time Mode",
   "fees": {
-    "local": "RM37,000.00",
-    "international": null,
-    "local_total": 36999,
-    "per_year_local": 12333
+    "currency": "MYR",
+    "total": 36999,
+    "per_year": 12333,
+    "notes": ""
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0007881/",
@@ -27,18 +27,8 @@
     "Sep"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "program_name_ar": "دكتوراه Business Administration",
   "program_name_zh": "Business Administration博士",

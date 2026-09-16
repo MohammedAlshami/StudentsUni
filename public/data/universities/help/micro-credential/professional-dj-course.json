@@ -8,10 +8,10 @@
   "duration": "4 Months",
   "mode": "Short-term Course",
   "fees": {
-    "local": "RM8,800.00",
-    "international": null,
-    "local_total": 8800,
-    "per_year_local": 26400
+    "currency": "MYR",
+    "total": 8800,
+    "per_year": 26400,
+    "notes": ""
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058740/",
@@ -27,18 +27,8 @@
     "Sep"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "program_name_ar": "Professional DJ Course",
   "program_name_zh": "Professional DJ Course",

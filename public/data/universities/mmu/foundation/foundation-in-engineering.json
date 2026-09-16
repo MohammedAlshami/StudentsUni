@@ -13,26 +13,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 18000,
-    "international_total": 22750,
-    "per_year_local": 18000,
-    "per_year_international": 22750,
+    "total": 22750,
+    "per_year": 22750,
     "notes": "Total programme fee"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Entry Requirements Applicants must meet any of the following: SPM/O-Level or Equivalent: Minimum Grade C in at least five (5) subjects, including English, Mathematics, and one Engineering-related subject. UEC: Minimum Grade B in at least four (4) subjects, including Mathematics, English, and one Engineering-related subject. Other Equivalent Qualifications recognized by the Malaysian Government.  "
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "Entry Requirements Applicants must meet any of the following: SPM/O-Level or Equivalent: Minimum Grade C in at least five (5) subjects, including English, Mathematics, and one Engineering-related subject. UEC: Minimum Grade B in at least four (4) subjects, including Mathematics, English, and one Engineering-related subject. Other Equivalent Qualifications recognized by the Malaysian Government.  "
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

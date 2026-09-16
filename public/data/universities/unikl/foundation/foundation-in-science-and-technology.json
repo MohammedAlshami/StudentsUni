@@ -13,26 +13,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 16000,
-    "international_total": null,
-    "per_year_local": 16000,
-    "per_year_international": null,
+    "total": 16000,
+    "per_year": 16000,
     "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Science",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Entry Level and Requirements For Local Students Pass in SPM / O-Level with at least Grade C in 5 subjects For International Students Students must complete 11 years of schooling and obtain a general pass in their Secondary School Certificate, O-levels or equivalent with min Grade C in 5 subjects including Mathematics and one Science subject."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "Entry Level and Requirements For Local Students Pass in SPM / O-Level with at least Grade C in 5 subjects For International Students Students must complete 11 years of schooling and obtain a general pass in their Secondary School Certificate, O-levels or equivalent with min Grade C in 5 subjects including Mathematics and one Science subject."
   },
   "accreditation": {
     "mqa_code": "MQA/FA0846",

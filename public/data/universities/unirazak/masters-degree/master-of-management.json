@@ -14,10 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 8340,
-    "international_total": 13200,
-    "notes": "From EasyUni (per_year based on 2.5yr duration)",
-    "per_year_local": 3336
+    "total": 13200,
+    "per_year": 3336,
+    "notes": "From EasyUni (per_year based on 2.5yr duration)"
   },
   "requirements": null,
   "accreditation": null,

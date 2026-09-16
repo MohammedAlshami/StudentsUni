@@ -14,25 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 54000,
-    "international_total": 75000,
-    "per_year_local": 18000,
-    "per_year_international": "RM25,000-RM30,000",
+    "total": 75000,
+    "per_year": "RM25,000-RM30,000",
     "notes": "Estimated based on typical UNITEN business programme fees"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Mathematics",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": "MQA",
   "college": "UNITEN Business School (UBS)",

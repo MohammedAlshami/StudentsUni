@@ -14,25 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 43998,
-    "international_total": null,
-    "per_year_local": 21999,
-    "per_year_international": null,
+    "total": 43998,
+    "per_year": 21999,
     "notes": "Estimated ~RM22000/year for typical private university programme"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [

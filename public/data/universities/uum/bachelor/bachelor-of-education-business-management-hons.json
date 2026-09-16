@@ -12,25 +12,12 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 7200,
-    "international_total": 21600,
-    "per_year_local": 1800,
-    "per_year_international": 5400,
+    "total": 21600,
+    "per_year": 5400,
     "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "Credit in Bahasa Malaysia and pass in History, Pass Mathematics",
-      "stpm": "CGPA 2.00 with Grade C in 3 subjects including General Studies",
-      "foundation_matriculation": "CGPA 2.00",
-      "diploma_pathway": "Diploma with CGPA 3.00"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": "MUET Band 1.0 or equivalent"
-    }
+    "english_requirement": "MUET Band 1.0 or equivalent"
   },
   "accreditation": {
     "mqa_status": null,

@@ -14,26 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 24480,
-    "international_total": 30420,
-    "per_year_local": 24480,
-    "per_year_international": null,
+    "total": 30420,
+    "per_year": 24480,
     "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Any of These: SPM/O-Levels: Minimum 5 credits (C&#39;s), including English and Mathematics or other relevant subjects. Actuarial Science Route (SPM/O-Levels): Minimum 5 credits (C&#39;s), including English, Mathematics, and Additional Mathematics. IB MYP: 3 subjects with Grade 6 (English and Maths). 2 subjects with Grade 5. For Actuarial Science: A Grade 5 in a subject equivalent to Additional Mathematics. Conditional Offers: Available for students with forecast results. Advance Standing: May be granted for those with appropriate pre-university qualifications. Final results are required before the program starts. Pre-requisite Subjects: Progression to an undergraduate program may require specific grades in pre-requisite subjects at SPM/O-Level/Equivalent levels, in addition to Foundation results. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 5.5 (or equivalent) with no score below 5.0. English Language Courses: Offered for those who do not meet the IELTS 5.5 requirement."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "Any of These: SPM/O-Levels: Minimum 5 credits (C&#39;s), including English and Mathematics or other relevant subjects. Actuarial Science Route (SPM/O-Levels): Minimum 5 credits (C&#39;s), including English, Mathematics, and Additional Mathematics. IB MYP: 3 subjects with Grade 6 (English and Maths). 2 subjects with Grade 5. For Actuarial Science: A Grade 5 in a subject equivalent to Additional Mathematics. Conditional Offers: Available for students with forecast results. Advance Standing: May be granted for those with appropriate pre-university qualifications. Final results are required before the program starts. Pre-requisite Subjects: Progression to an undergraduate program may require specific grades in pre-requisite subjects at SPM/O-Level/Equivalent levels, in addition to Foundation results. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 5.5 (or equivalent) with no score below 5.0. English Language Courses: Offered for those who do not meet the IELTS 5.5 requirement."
   },
   "accreditation": {
     "mqa_status": null,

@@ -12,25 +12,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 17672,
-    "international_total": 20500,
-    "notes": "From EasyUni (per_year based on 4.0yr duration)",
-    "per_year_local": 4418
+    "total": 20500,
+    "per_year": 4418,
+    "notes": "From EasyUni (per_year based on 4.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Matriculation/Foundation/Pre-university/STPM Pass with minimum CGPA of 2.33 in any two (2) of the following subjects: Biology, Physics/Mathematics or Chemistry UEC Pass with minimum of 5B’s, two (2) of which include Biology &amp; Physics/Mathematics A-level Pass with minimum Grade D in two (2) of the following subjects; Biology, Physics/Mathematics or Chemistry Diploma Recognised Diploma with minimum CGPA of 2.75 in a related field; OR Recognised Diploma with minimum CGPA less than 2.75 in a related field and a minimum of 3 years (36 months) working experience in the related field. English Language Requirements Local Student MUET score of minimum band 3 International Students IELTS score of at least 5.5/TOEFL (550) paper-based or equivalent"
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Matriculation/Foundation/Pre-university/STPM Pass with minimum CGPA of 2.33 in any two (2) of the following subjects: Biology, Physics/Mathematics or Chemistry UEC Pass with minimum of 5B’s, two (2) of which include Biology &amp; Physics/Mathematics A-level Pass with minimum Grade D in two (2) of the following subjects; Biology, Physics/Mathematics or Chemistry Diploma Recognised Diploma with minimum CGPA of 2.75 in a related field; OR Recognised Diploma with minimum CGPA less than 2.75 in a related field and a minimum of 3 years (36 months) working experience in the related field. English Language Requirements Local Student MUET score of minimum band 3 International Students IELTS score of at least 5.5/TOEFL (550) paper-based or equivalent"
   },
   "accreditation": null,
   "sources": [

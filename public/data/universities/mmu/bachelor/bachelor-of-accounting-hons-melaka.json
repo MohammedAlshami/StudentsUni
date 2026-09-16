@@ -13,25 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 63420,
-    "international_total": 78600,
-    "per_year_local": 21140,
-    "per_year_international": 26200,
+    "total": 78600,
+    "per_year": 26200,
     "notes": "Total programme fee; Melaka campus"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

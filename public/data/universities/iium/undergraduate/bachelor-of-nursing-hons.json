@@ -12,25 +12,12 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 28000,
-    "international_total": 84000,
-    "per_year_local": 7000,
-    "per_year_international": 21000,
+    "total": 84000,
+    "per_year": 21000,
     "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "Credit in 6C for Islamic Education, Maths, Sciences. MUET Band 3. English pass at SPM.",
-      "stpm": "Minimum CGPA 2.50",
-      "foundation_matriculation": null,
-      "diploma_pathway": "Diploma of Nursing with CGPA 2.50, registered with Nursing Board of Malaysia, with Annual Practicing Certificate"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": "MUET Band 3 / SPM English 8E"
-    }
+    "english_requirement": "MUET Band 3 / SPM English 8E"
   },
   "accreditation": {
     "mqa_status": "Accredited",

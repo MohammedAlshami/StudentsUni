@@ -12,28 +12,14 @@
     "secondary": null
   },
   "fees": {
-    "local": "Enquire",
-    "international": "Enquire",
     "currency": "MYR",
-    "local_total": 1000,
-    "international_total": 3000,
-    "per_year_local": 1000,
-    "per_year_international": 3000,
+    "total": 3000,
+    "per_year": 3000,
     "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Biology, Chemistry, Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [

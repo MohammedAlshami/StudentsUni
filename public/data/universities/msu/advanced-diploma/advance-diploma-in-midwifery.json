@@ -14,25 +14,14 @@
   ],
   "fees": {
     "currency": "RM",
-    "local_total": 21500,
-    "international_total": 38395.0,
-    "per_year_local": 21500,
-    "per_year_international": null,
+    "total": 38395.0,
+    "per_year": 21500,
     "notes": "Local: RM21,500.00; International: RM38,395.00 (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": {
     "mqa_status": null,

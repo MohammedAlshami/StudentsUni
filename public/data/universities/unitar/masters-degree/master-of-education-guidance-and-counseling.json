@@ -13,12 +13,9 @@
     "Jan"
   ],
   "fees": {
-    "local": "23580/Course",
-    "international": "23580/Course",
-    "local_total": 10874,
     "currency": "MYR",
-    "international_total": 19815,
-    "per_year_local": 8156,
+    "total": 19815,
+    "per_year": 8156,
     "notes": " (per_year based on 1.3333333333333333yr duration)"
   },
   "requirements": null,

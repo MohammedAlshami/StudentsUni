@@ -24,10 +24,10 @@ const LEVEL_LABEL_KEYS: Record<string, string> = {
 
 const PAGE_SIZE = 12;
 
-function formatFee(local: number | null, intl: number | null, currency: string): string | null {
-  const fee = local ?? intl;
-  if (!fee) return null;
-  return `${currency} ${fee.toLocaleString()}${local ? "" : " (intl.)"}`;
+function formatFee(fee: number | null, feePerYear: number | null, currency: string): string | null {
+  if (fee) return `${currency} ${fee.toLocaleString()}`;
+  if (feePerYear) return `${currency} ${feePerYear.toLocaleString()}/yr`;
+  return null;
 }
 
 export function UniversityProgramsExplorer({
@@ -84,7 +84,7 @@ export function UniversityProgramsExplorer({
       {/* Program list */}
       <div className="mt-[16px] divide-y divide-black/10 border border-black/10">
         {pageItems.map((prog) => {
-          const fee = formatFee(prog.localFee, prog.internationalFee, prog.currency);
+          const fee = formatFee(prog.fee, prog.fee_per_year, prog.currency);
           return (
             <Link
               key={prog.slug}

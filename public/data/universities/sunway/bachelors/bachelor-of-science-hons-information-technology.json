@@ -14,27 +14,16 @@
     "Feb"
   ],
   "fees": {
-    "local": "From RM81,675",
-    "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 38166,
-    "per_year_local": 12722,
-    "notes": "Fee: FromRM81,675.00 (per_year based on 3.0yr duration)",
-    "international_total": 40417
+    "total": 40417,
+    "per_year": 12722,
+    "notes": "Fee: FromRM81,675.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including relevant subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

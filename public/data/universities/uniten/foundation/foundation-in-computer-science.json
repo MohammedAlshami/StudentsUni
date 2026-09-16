@@ -13,37 +13,14 @@
     "September"
   ],
   "fees": {
-    "local": {
-      "tuition": "RM6,000",
-      "registration": "RM1,348",
-      "medical_insurance": "RM88/year",
-      "accommodation_deposit": "RM250"
-    },
-    "international": {
-      "tuition": "USD4,950 (RM19,800)",
-      "visa_application": "USD787.50 (RM3,150)",
-      "registration": "USD1,650 (RM6,600)",
-      "medical_insurance": null
-    },
     "currency": "MYR",
-    "local_total": 6000,
-    "per_year_local": 6000,
-    "international_total": 19800,
+    "total": 19800,
+    "per_year": 6000,
     "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": {
     "mqa_code": "R2/010/3/0168",

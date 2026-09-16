@@ -12,25 +12,12 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 9000,
-    "international_total": 27000,
-    "per_year_local": 1800,
-    "per_year_international": 5400,
+    "total": 27000,
+    "per_year": 5400,
     "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "Credit in English and Mathematics. MUET Band 3.",
-      "stpm": "Minimum Grade B in Biology, Additional Mathematics, and any one of Physics/Chemistry/Advanced Mathematics. MUET Band 3. Interview required.",
-      "foundation_matriculation": "Minimum Grade B in Biology and Mathematics, and any one of Physics/Chemistry. MUET Band 3. Interview required.",
-      "diploma_pathway": "Diploma with CGPA 3.00 in related field. SPM credits in 5 subjects including English and Mathematics. MUET Band 3. Interview required."
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": "MUET Band 3"
-    }
+    "english_requirement": "MUET Band 3"
   },
   "accreditation": {
     "mqa_status": null,

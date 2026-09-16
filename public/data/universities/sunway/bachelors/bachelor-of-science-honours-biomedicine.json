@@ -14,28 +14,17 @@
     "Feb"
   ],
   "fees": {
-    "local": "From RM85,460",
-    "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 41313,
-    "per_year_local": 13771,
-    "notes": "Fee: FromRM85,460.00 (per_year based on 3.0yr duration)",
-    "international_total": 43564
+    "total": 43564,
+    "per_year": 13771,
+    "notes": "Fee: FromRM85,460.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Relevant science subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "STPM Average C+ or CGPA 2.33 (Minimum 2 principals) A-Level Minimum 12 points (Minimum Grade D in at least 2 subjects). Biomedicine programme requires a minimum of Grade D in two of the following subjects: Biology, Physics/ Mathematics, Chemistry. Note: For A-Level points calculation A = 10 points B = 8 points C = 6 points D = 4 points E = 2 points Australian Matriculation ATAR 60 Canadian Matriculation 60% Monash University Foundation Year 60% Sunway Foundation in Science Technology CGPA 2.30 Unified Examination Certificate (UEC) Maximum 26 points from 5 subjects (all Grade Bs) International Baccalaureate (IB) Completed with minimum 25 points (excluding bonus points) APEL.A An APEL.A Certificate (APEL T-6) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) Specific Requirements STPM/Pre-University For Biomedicine Programme, 2 principals in two of the following subjects at STPM/Pre-University/Matriculation level in: Biology, Physics/Mathematics or Chemistry) Additional Requirements for Certain International Students International students from certain countries that want to take some Sunway University degree programmes (for example programmes in partnership with Lancaster University) will need to take and pass our online six-month International Preparatory Programme (IPP). This is a requirement to enrol on a Sunway degree programme that also leads to a degree awarded by Sunway’s partner institution. Students are required to pass all the subjects with a grade C or above to progress to the degree. English Language Requirements IELTS or equivalent 6.0 MUET Band 4 SPM English B+ UEC English B4 O-Level English (1119) Credit B3 Sunway Intensive English Programme (IEP) Pass Level 4 with minimum 65% ESL/English Satisfactory level in Pre-University programmes, where the medium of instruction is English Note: For Malaysian students entering using an entry qualification whereby the medium of instruction is not in English, MQA requires the student to possess a MUET or international English proficiency qualification in order to register for the programme."
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "STPM Average C+ or CGPA 2.33 (Minimum 2 principals) A-Level Minimum 12 points (Minimum Grade D in at least 2 subjects). Biomedicine programme requires a minimum of Grade D in two of the following subjects: Biology, Physics/ Mathematics, Chemistry. Note: For A-Level points calculation A = 10 points B = 8 points C = 6 points D = 4 points E = 2 points Australian Matriculation ATAR 60 Canadian Matriculation 60% Monash University Foundation Year 60% Sunway Foundation in Science Technology CGPA 2.30 Unified Examination Certificate (UEC) Maximum 26 points from 5 subjects (all Grade Bs) International Baccalaureate (IB) Completed with minimum 25 points (excluding bonus points) APEL.A An APEL.A Certificate (APEL T-6) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) Specific Requirements STPM/Pre-University For Biomedicine Programme, 2 principals in two of the following subjects at STPM/Pre-University/Matriculation level in: Biology, Physics/Mathematics or Chemistry) Additional Requirements for Certain International Students International students from certain countries that want to take some Sunway University degree programmes (for example programmes in partnership with Lancaster University) will need to take and pass our online six-month International Preparatory Programme (IPP). This is a requirement to enrol on a Sunway degree programme that also leads to a degree awarded by Sunway’s partner institution. Students are required to pass all the subjects with a grade C or above to progress to the degree. English Language Requirements IELTS or equivalent 6.0 MUET Band 4 SPM English B+ UEC English B4 O-Level English (1119) Credit B3 Sunway Intensive English Programme (IEP) Pass Level 4 with minimum 65% ESL/English Satisfactory level in Pre-University programmes, where the medium of instruction is English Note: For Malaysian students entering using an entry qualification whereby the medium of instruction is not in English, MQA requires the student to possess a MUET or international English proficiency qualification in order to register for the programme."
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

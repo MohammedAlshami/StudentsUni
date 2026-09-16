@@ -10,27 +10,14 @@
     "Sep"
   ],
   "fees": {
-    "local": "RM9,390/Sem",
-    "international": "RM10,640/Sem",
-    "local_total": 28170,
-    "per_year_local": 18780,
-    "international_total": 21280,
-    "per_year_international": 21280,
-    "currency": "MYR"
+    "currency": "MYR",
+    "total": 21280,
+    "per_year": 21280,
+    "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [

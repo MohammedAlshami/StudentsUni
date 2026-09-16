@@ -12,25 +12,12 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 1000,
-    "international_total": 3000,
-    "per_year_local": 1000,
-    "per_year_international": 3000,
+    "total": 3000,
+    "per_year": 3000,
     "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "SPM with at least FIVE (5) credits including Bahasa Melayu and a Pass in Sejarah. Credit in Bahasa Melayu (Grade C) AND four (4) credits (Grade C) and one (1) Conditional Pass (Grade D) from: English, Mathematics, Additional Mathematics, Physics, Chemistry, Biology, Agriculture/Agricultural Science, Science/Additional Science, Geography, Creative Design, Basic Sustainability, Computer Science.",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    }
+    "previous_education": "SPM with at least FIVE (5) credits including Bahasa Melayu and a Pass in Sejarah. Credit in Bahasa Melayu (Grade C) AND four (4) credits (Grade C) and one (1) Conditional Pass (Grade D) from: English, Mathematics, Additional Mathematics, Physics, Chemistry, Biology, Agriculture/Agricultural Science, Science/Additional Science, Geography, Creative Design, Basic Sustainability, Computer Science."
   },
   "accreditation": {
     "mqa_status": null,

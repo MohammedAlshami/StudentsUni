@@ -11,24 +11,14 @@
     "Modular"
   ],
   "fees": {
-    "local": "RM45,000.00",
-    "international": null,
-    "local_total": 45000,
-    "per_year_local": 22500
+    "currency": "MYR",
+    "total": 45000,
+    "per_year": 22500,
+    "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": {
     "mqa_code": "R2/0414/7/0147",

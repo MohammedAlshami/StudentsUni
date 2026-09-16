@@ -14,25 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 42000,
-    "international_total": 36000,
-    "per_year_local": 14000,
-    "per_year_international": "RM18,000-RM25,000",
+    "total": 36000,
+    "per_year": "RM18,000-RM25,000",
     "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": "MQA/FA4032",
   "campus": "SEGi University Kota Damansara",

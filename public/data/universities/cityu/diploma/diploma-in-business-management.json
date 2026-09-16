@@ -17,25 +17,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 9714,
-    "international_total": 13430,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)",
-    "per_year_local": 3238
+    "total": 13430,
+    "per_year": 3238,
+    "notes": "From EasyUni (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Any one of these: SPM: Pass with Minimum 3 credits equivalent qualification STPM: Pass with Minimum C GPA of 2.0 equivalent qualification STAM: Pass with Minimum Maqbul grade SKM Level 3: Pass  in relevant fields (HEP is required to implement a screening and bridging program which correspond to the program field)  CERTIFICATE: Pass in certificate (Level 3, MQF) English Requirements For International Students MUET: Min. Band 3 or CEFR equivalent (High B1) or its equivalent.  "
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Any one of these: SPM: Pass with Minimum 3 credits equivalent qualification STPM: Pass with Minimum C GPA of 2.0 equivalent qualification STAM: Pass with Minimum Maqbul grade SKM Level 3: Pass  in relevant fields (HEP is required to implement a screening and bridging program which correspond to the program field)  CERTIFICATE: Pass in certificate (Level 3, MQF) English Requirements For International Students MUET: Min. Band 3 or CEFR equivalent (High B1) or its equivalent.  "
   },
   "accreditation": "MQA",
   "sources": [

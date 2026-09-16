@@ -15,25 +15,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 20553,
-    "international_total": 25427,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)",
-    "per_year_local": 6851
+    "total": 25427,
+    "per_year": 6851,
+    "notes": "From EasyUni (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics and Physics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Any one of these: STPM: Minimum 2 Principal Passes (including Mathematics and Physics/Chemistry) and pass English in SPM. A-Level: Minimum 2 Principal Passes (D) (including Mathematics and Physics/Chemistry) UEC: Minimum 5 Bs (including Mathematics and Physics/Chemistry subject). Diploma / HND: Minimum CGPA of 2.00. Foundation/Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average of 60% or higher in 5 subjects (including Mathematics and Physics/Chemistry). CPU/CIMP: Average of 60% or higher in 6 subjects (including Mathematics and Physics/Chemistry). IB: 26 points or higher based on 6 subjects. DVM: Minimum CGPA of 2.50 (Required to take Remedial Courses during the first semester). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. ENGLISH LANGUAGE REQUIREMENT: IELTS: 5 TOEFL (PBT): 500 TOEFL (IBT): 42 PTE: 47 MUET: BAND 3 Cambridge English: 154"
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Any one of these: STPM: Minimum 2 Principal Passes (including Mathematics and Physics/Chemistry) and pass English in SPM. A-Level: Minimum 2 Principal Passes (D) (including Mathematics and Physics/Chemistry) UEC: Minimum 5 Bs (including Mathematics and Physics/Chemistry subject). Diploma / HND: Minimum CGPA of 2.00. Foundation/Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average of 60% or higher in 5 subjects (including Mathematics and Physics/Chemistry). CPU/CIMP: Average of 60% or higher in 6 subjects (including Mathematics and Physics/Chemistry). IB: 26 points or higher based on 6 subjects. DVM: Minimum CGPA of 2.50 (Required to take Remedial Courses during the first semester). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. ENGLISH LANGUAGE REQUIREMENT: IELTS: 5 TOEFL (PBT): 500 TOEFL (IBT): 42 PTE: 47 MUET: BAND 3 Cambridge English: 154"
   },
   "accreditation": "MQA",
   "sources": [

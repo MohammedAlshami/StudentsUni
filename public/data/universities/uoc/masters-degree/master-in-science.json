@@ -14,28 +14,13 @@
     "Jun"
   ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University",
-    "local_total": 19850,
     "currency": "MYR",
-    "international_total": 20250,
-    "per_year_local": 9925,
+    "total": 20250,
+    "per_year": 9925,
     "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of these: A Bachelor’s degree in a relevant field (Bachelor&#39;s Degree Level): Bachelor’s degree in a relevant field with a minimum CGPA of 2.75 or equivalent; OR A Bachelor’s degree in a relevant field with a minimum CGPA of 2.50 and less than 2.75 may be accepted subject to rigorous internal assessment; OR A Bachelor’s degree in a relevant field with a CGPA less than 2.50, but with a minimum 5 years of relevant work experience may be accepted subject to internal assessment; OR Others: Other equivalent qualifications recognized by the Malaysian Government and acceptable by the University. English Proficiency (For International Students): Minimum TOEFL score of 550 (pBT) or 80 (iBT) or IELTS score of 6.0."
+    "general": "Any of these: A Bachelor’s degree in a relevant field (Bachelor&#39;s Degree Level): Bachelor’s degree in a relevant field with a minimum CGPA of 2.75 or equivalent; OR A Bachelor’s degree in a relevant field with a minimum CGPA of 2.50 and less than 2.75 may be accepted subject to rigorous internal assessment; OR A Bachelor’s degree in a relevant field with a CGPA less than 2.50, but with a minimum 5 years of relevant work experience may be accepted subject to internal assessment; OR Others: Other equivalent qualifications recognized by the Malaysian Government and acceptable by the University. English Proficiency (For International Students): Minimum TOEFL score of 550 (pBT) or 80 (iBT) or IELTS score of 6.0."
   },
   "accreditation": null,
   "sources": [

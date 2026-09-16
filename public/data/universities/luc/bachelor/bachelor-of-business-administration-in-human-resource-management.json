@@ -13,25 +13,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12498,
-    "international_total": 9471,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)",
-    "per_year_local": 4166
+    "total": 9471,
+    "per_year": 4166,
+    "notes": "From EasyUni (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Pass in Sijil Tinggi Pelajaran Malaysia (STPM) with a minimum NGMP of 2.00 or Grade C in 2 subjects, or Pass in A-Level with at least in 2 subjects; or Pass in Sijil Tinggi Agama Malaysia (STAM) with Jayyid in 3 subjects; or Pass in the Unified Examination Certificate (UEC) with at least a B grade in 5 subjects; or Pass in Foundation / Foundation Program / Foundation / from any universities / colleges with a minimum CGPA of 2.00; or Pass in the Matriculation program of the Ministry of Education Malaysia with a minimum CGPA of 2.00; or Pass in a Diploma (Level 4, Malaysian Qualifications Framework (MQF)) from an institution recognized by the Malaysian government with a minimum CGPA of 2.00: or Pass in the Higher National Diploma (HND) (Level 4, MQF) with a minimum CGPA of 2.00; or Other qualifications as recognized by the Government of Malaysia. English Profiency Requirements (International Students): International English Language Testing System (IELTS) score of 5.5 or its equivalent. If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the programme."
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Pass in Sijil Tinggi Pelajaran Malaysia (STPM) with a minimum NGMP of 2.00 or Grade C in 2 subjects, or Pass in A-Level with at least in 2 subjects; or Pass in Sijil Tinggi Agama Malaysia (STAM) with Jayyid in 3 subjects; or Pass in the Unified Examination Certificate (UEC) with at least a B grade in 5 subjects; or Pass in Foundation / Foundation Program / Foundation / from any universities / colleges with a minimum CGPA of 2.00; or Pass in the Matriculation program of the Ministry of Education Malaysia with a minimum CGPA of 2.00; or Pass in a Diploma (Level 4, Malaysian Qualifications Framework (MQF)) from an institution recognized by the Malaysian government with a minimum CGPA of 2.00: or Pass in the Higher National Diploma (HND) (Level 4, MQF) with a minimum CGPA of 2.00; or Other qualifications as recognized by the Government of Malaysia. English Profiency Requirements (International Students): International English Language Testing System (IELTS) score of 5.5 or its equivalent. If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the programme."
   },
   "accreditation": null,
   "sources": [

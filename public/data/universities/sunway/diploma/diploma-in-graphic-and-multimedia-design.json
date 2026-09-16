@@ -14,28 +14,16 @@
     "Feb"
   ],
   "fees": {
-    "local": "From RM46,900",
-    "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 26622,
-    "per_year_local": 11832,
-    "notes": "Fee: FromRM46,900.00 (per_year based on 2.25yr duration)",
-    "international_total": 29123
+    "total": 29123,
+    "per_year": 11832,
+    "notes": "Fee: FromRM46,900.00 (per_year based on 2.25yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "SPM / O-Level Pass with a minimum of 3 credits (including a pass in Art /Technical Drawing / Portfolio) UEC Pass with a minimum of 3 Grade Bs (including a pass in Art /Technical Drawing / Portfolio) APEL.A An APEL.A Certificate (APEL T-4) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) Portfolio Requirements Pass a Portfolio review by the University  Why is a Portfolio Necessary? A portfolio provides some indication of your design ability and allows us to assess your creative potential. What should a Portfolio contain? The portfolio requires a minimum of five (5) artworks which show variation and usage of different mediums and applications. Candidates should portray an array of artworks ranging from (but not limited to) paintings, drawings, sketches, collages and digital software applications. It is highly recommended to have at least 5 drawings (still life, landscape, perspective, figure drawing, portrait and such), and a further 5 artworks could be a combination of photographs, poster designs, videos, animations, logo designs, sculptures etc of choice. Other Qualifications Any other equivalent qualifications Applicants with no standard qualification will be considered on a case-to-case basis English Language Requirements IELTS or equivalent 5.0"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "SPM / O-Level Pass with a minimum of 3 credits (including a pass in Art /Technical Drawing / Portfolio) UEC Pass with a minimum of 3 Grade Bs (including a pass in Art /Technical Drawing / Portfolio) APEL.A An APEL.A Certificate (APEL T-4) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) Portfolio Requirements Pass a Portfolio review by the University  Why is a Portfolio Necessary? A portfolio provides some indication of your design ability and allows us to assess your creative potential. What should a Portfolio contain? The portfolio requires a minimum of five (5) artworks which show variation and usage of different mediums and applications. Candidates should portray an array of artworks ranging from (but not limited to) paintings, drawings, sketches, collages and digital software applications. It is highly recommended to have at least 5 drawings (still life, landscape, perspective, figure drawing, portrait and such), and a further 5 artworks could be a combination of photographs, poster designs, videos, animations, logo designs, sculptures etc of choice. Other Qualifications Any other equivalent qualifications Applicants with no standard qualification will be considered on a case-to-case basis English Language Requirements IELTS or equivalent 5.0"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

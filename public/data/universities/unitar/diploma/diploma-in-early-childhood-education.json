@@ -13,28 +13,16 @@
     "Jan"
   ],
   "fees": {
-    "local": "19280/Course",
-    "international": "19280/Course",
-    "local_total": 8400,
     "currency": "MYR",
-    "international_total": 13706,
-    "per_year_local": 3360,
+    "total": 13706,
+    "per_year": 3360,
     "notes": " (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "  Pass SPM or its equivalent, with at least three (3) credits in any subjects; OR Pass STPM or its equivalent, with a minimum of Grade C (CGPA 2.0) in any subject; OR Pass STAM with a minimum Grade Maqbul; OR Pass SKM Level 3 in ‘Pengasuhan Awal Kanak-kanak/Prasekolah / Early Childcare for Children/Pre-School’ subject to Senate approval and MUST attend bridging courses; OR Pass Certificate in Early Childhood Education or its equivalent; OR Pass BTEC Level 3 and pass SPM or its equivalent, with at least one (1) credit in any subjects; OR Any recognized Certificate or its equivalent. Language Requirements International students Minimum score of 5.0 for IELTS OR Minimum score of 42 for TOEFL OR its equivalent."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "  Pass SPM or its equivalent, with at least three (3) credits in any subjects; OR Pass STPM or its equivalent, with a minimum of Grade C (CGPA 2.0) in any subject; OR Pass STAM with a minimum Grade Maqbul; OR Pass SKM Level 3 in ‘Pengasuhan Awal Kanak-kanak/Prasekolah / Early Childcare for Children/Pre-School’ subject to Senate approval and MUST attend bridging courses; OR Pass Certificate in Early Childhood Education or its equivalent; OR Pass BTEC Level 3 and pass SPM or its equivalent, with at least one (1) credit in any subjects; OR Any recognized Certificate or its equivalent. Language Requirements International students Minimum score of 5.0 for IELTS OR Minimum score of 42 for TOEFL OR its equivalent."
   },
   "accreditation": null,
   "sources": [

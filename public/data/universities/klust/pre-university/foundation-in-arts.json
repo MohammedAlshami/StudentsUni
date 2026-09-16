@@ -14,25 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 14930,
-    "international_total": 24710,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)",
-    "per_year_local": 14930
+    "total": 24710,
+    "per_year": 14930,
+    "notes": "From EasyUni (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Any one of these: SPM: Minimum 5Cs (including Mathematics/Accounting). O-Level: Minimum 5Cs (including Mathematics/Accounting). UEC: Minimum 4Bs (including Mathematics/Accounting). Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "Any one of these: SPM: Minimum 5Cs (including Mathematics/Accounting). O-Level: Minimum 5Cs (including Mathematics/Accounting). UEC: Minimum 4Bs (including Mathematics/Accounting). Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM."
   },
   "accreditation": "MQA",
   "sources": [

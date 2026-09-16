@@ -13,27 +13,17 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM100,400.00",
-    "international": "RM108,500.00",
-    "local_total": 99798,
-    "international_total": 104600,
-    "per_year_local": 33266,
+    "currency": "MYR",
+    "total": 104600,
+    "per_year": 33266,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Any relevant subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "STPM 2 Passes in STPM with a minimum Grade C (GP 2.0) and a Credit in English at SPM Level or its equivalent. A-Level 2 Passes in A-Level in any 2 subjects, and a Credit in English at SPM/O-Level/IGCSE or its equivalent. UEC 5 Grade B’s in UEC including English. Matriculation/Foundation Passed Foundation programme (minimum CGPA of 2.0) with a Credit in English at SPM/O-Level/IGCSE or equivalent. Entry to Level 2 of the Degree Diploma A Diploma and its equivalent with a minimum CGPA of 2.0 and a Credit in English at SPM/O-Level/IGCSE or its equivalent. Diploma in Media &amp; Communication or its equivalent with a minimum CGPA of 2.0. Note: The credit requirement at SPM/IGCSE level can be waived should the grades obtained at the STPM/STAM/Diploma/Matriculation/Foundation level be equivalent or higher. The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the &#34;Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent)&#34; published by Malaysian Qualifications Agency (MQA). English Requirements IELTS: 5.0 TOEFL IBT: 40 Pearson (PTE): 47 MUET: Band 3.5"
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "STPM 2 Passes in STPM with a minimum Grade C (GP 2.0) and a Credit in English at SPM Level or its equivalent. A-Level 2 Passes in A-Level in any 2 subjects, and a Credit in English at SPM/O-Level/IGCSE or its equivalent. UEC 5 Grade B’s in UEC including English. Matriculation/Foundation Passed Foundation programme (minimum CGPA of 2.0) with a Credit in English at SPM/O-Level/IGCSE or equivalent. Entry to Level 2 of the Degree Diploma A Diploma and its equivalent with a minimum CGPA of 2.0 and a Credit in English at SPM/O-Level/IGCSE or its equivalent. Diploma in Media &amp; Communication or its equivalent with a minimum CGPA of 2.0. Note: The credit requirement at SPM/IGCSE level can be waived should the grades obtained at the STPM/STAM/Diploma/Matriculation/Foundation level be equivalent or higher. The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the &#34;Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent)&#34; published by Malaysian Qualifications Agency (MQA). English Requirements IELTS: 5.0 TOEFL IBT: 40 Pearson (PTE): 47 MUET: Band 3.5"
   },
   "accreditation": "MQA",
   "sources": [

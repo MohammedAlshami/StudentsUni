@@ -9,10 +9,8 @@
   "mode": "Short-term Course",
   "fees": {
     "currency": "MYR",
-    "local_total": 105000,
-    "international_total": null,
-    "per_year_local": 35000,
-    "per_year_international": null,
+    "total": 105000,
+    "per_year": 35000,
     "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
   },
   "sources": [
@@ -29,18 +27,8 @@
     "Sep"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "program_name_ar": "Malaysian University English Test Preparatory Course",
   "program_name_zh": "Malaysian University English Test Preparatory Course",

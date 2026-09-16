@@ -14,25 +14,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 136500,
-    "international_total": 30538,
-    "per_year_local": 45500,
-    "per_year_international": 16491,
+    "total": 30538,
+    "per_year": 16491,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "sources": [

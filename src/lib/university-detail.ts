@@ -10,8 +10,8 @@ export type ProgramSummary = {
   field_ar?: string;
   field_zh?: string;
   duration: string | null;
-  localFee: number | null;
-  internationalFee: number | null;
+  fee: number | null;
+  fee_per_year: number | null;
   currency: string;
   hasDetail: boolean;
 };
@@ -36,30 +36,20 @@ export type NormalizedProgramDetail = {
   intakes: string[];
   fees: {
     currency: string;
-    local_total: number | null;
-    international_total: number | null;
-    per_year_local: number | null;
-    per_year_international: number | null;
+    total: number | null;
+    per_year: number | null;
     notes: string;
   };
   requirements: {
-    malaysian: {
-      spm: string | null;
-      stpm: string | null;
-      foundation_matriculation: string | null;
-      diploma_pathway: string | null;
-    };
-    international: {
-      a_level: string | null;
-      ib: string | null;
-      other_qualifications: string | null;
-      english_requirement: string | null;
-    };
-    // Some sources give one plain-text requirement blurb instead of the
-    // structured breakdown above (e.g. "Bachelor's degree with minimum
-    // CGPA of 2.75"). Shown as a fallback when the structured fields are
-    // all empty.
-    general_text: string | null;
+    english_requirement: string | null;
+    a_level: string | null;
+    ib: string | null;
+    other_qualifications: string | null;
+    previous_education: string | null;
+    pre_university: string | null;
+    foundation: string | null;
+    diploma_pathway: string | null;
+    general: string | null;
   };
   accreditation: {
     mqa_status: string | null;
@@ -90,8 +80,6 @@ function titleCase(slug: string): string {
   return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
-// Some index.json entries give fees as pre-formatted strings like
-// "RM30,350" instead of a plain number. Extract the numeric value.
 function parseFeeValue(v: unknown): number | null {
   if (typeof v === "number" && Number.isFinite(v)) return v;
   if (typeof v === "string") {
@@ -103,9 +91,6 @@ function parseFeeValue(v: unknown): number | null {
   return null;
 }
 
-// index.json shape drifted across the different scraping passes: most are
-// { programs: [...] }, some are a bare [...] array, and a couple (USM
-// master/phd) use { sample_programs: [...] } instead. Normalize all three.
 export function normalizeProgramsList(index: unknown): Array<string | Record<string, unknown>> {
   if (Array.isArray(index)) return index;
   if (index && typeof index === "object") {
@@ -141,17 +126,55 @@ export function entryField(raw: string | Record<string, unknown>): string {
   return (raw.field as string) || "";
 }
 
-/**
- * Loads full detail for one program, regardless of which of the three
- * scraped schema shapes it came from:
- *  1. A separate `<slug>.json` file next to index.json (most universities).
- *  2. An inline object in index.json with fees/requirements embedded
- *     directly (23 universities, e.g. Monash, Sunway, APU, INTI, UniTen) -
- *     these never had a separate file and were previously mishandled as
- *     "not found" because they use program_slug/program_name instead of
- *     slug/name.
- *  3. Neither - just a bare name/slug with nothing else scraped yet.
- */
+function normalizeFees(fees: Record<string, unknown>): NormalizedProgramDetail["fees"] {
+  const total = parseFeeValue(fees.total) ?? parseFeeValue(fees.international_total) ?? parseFeeValue(fees.local_total);
+  const perYear = parseFeeValue(fees.per_year) ?? parseFeeValue(fees.per_year_international) ?? parseFeeValue(fees.per_year_local);
+  return {
+    currency: (fees.currency as string) || "MYR",
+    total,
+    per_year: perYear,
+    notes: (fees.notes as string) || "",
+  };
+}
+
+function normalizeRequirements(reqs: Record<string, unknown>): NormalizedProgramDetail["requirements"] {
+  const empty = { english_requirement: null, a_level: null, ib: null, other_qualifications: null, previous_education: null, pre_university: null, foundation: null, diploma_pathway: null, general: null };
+  
+  if (!reqs || typeof reqs !== "object") return empty;
+  
+  // New format: flat requirements
+  if (reqs.english_requirement || reqs.a_level || reqs.ib || reqs.other_qualifications || reqs.general || reqs.previous_education) {
+    return {
+      english_requirement: (reqs.english_requirement as string) ?? null,
+      a_level: (reqs.a_level as string) ?? null,
+      ib: (reqs.ib as string) ?? null,
+      other_qualifications: (reqs.other_qualifications as string) ?? null,
+      previous_education: (reqs.previous_education as string) ?? null,
+      pre_university: (reqs.pre_university as string) ?? null,
+      foundation: (reqs.foundation as string) ?? null,
+      diploma_pathway: (reqs.diploma_pathway as string) ?? null,
+      general: (reqs.general as string) ?? null,
+    };
+  }
+  
+  // Old format: nested malaysian/international
+  const intl = (reqs.international as Record<string, unknown>) ?? {};
+  const mal = (reqs.malaysian as Record<string, unknown>) ?? {};
+  const generalText = reqs.general_text as string | null;
+  
+  return {
+    english_requirement: (intl.english_requirement as string) ?? null,
+    a_level: (intl.a_level as string) ?? null,
+    ib: (intl.ib as string) ?? null,
+    other_qualifications: (intl.other_qualifications as string) ?? null,
+    previous_education: (mal.spm as string) ?? null,
+    pre_university: (mal.stpm as string) ?? null,
+    foundation: (mal.foundation_matriculation as string) ?? null,
+    diploma_pathway: (mal.diploma_pathway as string) ?? null,
+    general: generalText,
+  };
+}
+
 export function loadProgramDetail(
   universityName: string,
   uniSlug: string,
@@ -169,8 +192,6 @@ export function loadProgramDetail(
   if (fileDetail && typeof fileDetail === "object") {
     const fees = (fileDetail.fees as Record<string, unknown>) ?? {};
     const requirements = (fileDetail.requirements as Record<string, unknown>) ?? {};
-    const malaysian = (requirements.malaysian as Record<string, unknown>) ?? {};
-    const international = (requirements.international as Record<string, unknown>) ?? {};
     const accreditation = (fileDetail.accreditation as Record<string, unknown>) ?? {};
     return {
       university: universityName,
@@ -185,29 +206,8 @@ export function loadProgramDetail(
       duration: (fileDetail.duration as string) ?? null,
       mode: (fileDetail.mode as string) ?? null,
       intakes: Array.isArray(fileDetail.intakes) ? (fileDetail.intakes as string[]) : [],
-      fees: {
-        currency: (fees.currency as string) || "MYR",
-        local_total: parseFeeValue(fees.local_total),
-        international_total: parseFeeValue(fees.international_total),
-        per_year_local: parseFeeValue(fees.per_year_local),
-        per_year_international: parseFeeValue(fees.per_year_international),
-        notes: (fees.notes as string) || "",
-      },
-      requirements: {
-        malaysian: {
-          spm: (malaysian.spm as string) ?? null,
-          stpm: (malaysian.stpm as string) ?? null,
-          foundation_matriculation: (malaysian.foundation_matriculation as string) ?? null,
-          diploma_pathway: (malaysian.diploma_pathway as string) ?? null,
-        },
-        international: {
-          a_level: (international.a_level as string) ?? null,
-          ib: (international.ib as string) ?? null,
-          other_qualifications: (international.other_qualifications as string) ?? null,
-          english_requirement: (international.english_requirement as string) ?? null,
-        },
-        general_text: null,
-      },
+      fees: normalizeFees(fees),
+      requirements: normalizeRequirements(requirements),
       accreditation: {
         mqa_status: (accreditation.mqa_status as string) ?? null,
         mqa_ref: (accreditation.mqa_ref as string) ?? null,
@@ -217,7 +217,7 @@ export function loadProgramDetail(
     };
   }
 
-  // Schema 2: inline data directly on the index.json entry (no separate file).
+  // Schema 2: inline data directly on the index.json entry.
   if (typeof raw === "object" && raw !== null) {
     const inlineFees = raw.fees as Record<string, unknown> | undefined;
     const hasInlineData = Boolean(inlineFees || raw.requirements || raw.duration || raw.accreditation);
@@ -231,19 +231,12 @@ export function loadProgramDetail(
         duration: (raw.duration as string) ?? null,
         mode: (raw.mode as string) ?? null,
         intakes: Array.isArray(raw.intakes) ? (raw.intakes as string[]) : [],
-        fees: {
-          currency: "MYR",
-          local_total: parseFeeValue(inlineFees?.local),
-          international_total: parseFeeValue(inlineFees?.international),
-          per_year_local: null,
-          per_year_international: null,
-          notes: "",
-        },
-        requirements: {
-          malaysian: { spm: null, stpm: null, foundation_matriculation: null, diploma_pathway: null },
-          international: { a_level: null, ib: null, other_qualifications: null, english_requirement: null },
-          general_text: typeof raw.requirements === "string" ? raw.requirements : null,
-        },
+        fees: normalizeFees(inlineFees ?? {}),
+        requirements: normalizeRequirements(
+          typeof raw.requirements === "object" && raw.requirements !== null
+            ? (raw.requirements as Record<string, unknown>)
+            : { general_text: typeof raw.requirements === "string" ? raw.requirements : null }
+        ),
         accreditation: {
           mqa_status: (raw.accreditation as string) ?? null,
           mqa_ref: null,
@@ -264,19 +257,8 @@ export function loadProgramDetail(
     duration: null,
     mode: null,
     intakes: [],
-    fees: {
-      currency: "MYR",
-      local_total: null,
-      international_total: null,
-      per_year_local: null,
-      per_year_international: null,
-      notes: "",
-    },
-    requirements: {
-      malaysian: { spm: null, stpm: null, foundation_matriculation: null, diploma_pathway: null },
-      international: { a_level: null, ib: null, other_qualifications: null, english_requirement: null },
-      general_text: null,
-    },
+    fees: { currency: "MYR", total: null, per_year: null, notes: "" },
+    requirements: { english_requirement: null, a_level: null, ib: null, other_qualifications: null, previous_education: null, pre_university: null, foundation: null, diploma_pathway: null, general: null },
     accreditation: { mqa_status: null, mqa_ref: null },
     confidence: "low",
     hasDetail: false,
@@ -301,8 +283,8 @@ export function getProgramsByLevel(universityName: string, slug: string, levels:
         field_ar: detail.field_ar,
         field_zh: detail.field_zh,
         duration: detail.duration,
-        localFee: detail.fees.local_total,
-        internationalFee: detail.fees.international_total,
+        fee: detail.fees.total,
+        fee_per_year: detail.fees.per_year,
         currency: detail.fees.currency,
         hasDetail: detail.hasDetail,
       };

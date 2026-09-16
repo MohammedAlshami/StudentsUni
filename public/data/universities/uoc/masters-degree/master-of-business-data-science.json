@@ -13,12 +13,9 @@
     "Jun"
   ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University",
-    "local_total": 50100,
     "currency": "MYR",
-    "international_total": 35800,
-    "per_year_local": 50100,
+    "total": 35800,
+    "per_year": 50100,
     "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": null,

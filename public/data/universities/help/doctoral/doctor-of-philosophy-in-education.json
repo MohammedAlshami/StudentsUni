@@ -8,10 +8,10 @@
   "duration": "3-year programme (1 year coursework + 2 years dissertation)",
   "mode": "Flexible Full-time/Part-time Mode",
   "fees": {
-    "local": "RM50,000.00",
-    "international": null,
-    "local_total": 50000,
-    "per_year_local": 50000
+    "currency": "MYR",
+    "total": 50000,
+    "per_year": 50000,
+    "notes": ""
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058739/",
@@ -27,18 +27,8 @@
     "Sep"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "program_name_ar": "دكتوراه فلسفة in Education",
   "program_name_zh": "哲学博士 in Education",

@@ -12,27 +12,15 @@
     "Apr"
   ],
   "fees": {
-    "local": "From RM41,740",
-    "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 29924,
-    "per_year_local": 14962,
-    "notes": "Fee: FromRM41,740.00 (per_year based on 2.0yr duration)",
-    "international_total": 32175
+    "total": 32175,
+    "per_year": 14962,
+    "notes": "Fee: FromRM41,740.00 (per_year based on 2.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": "MQA/FA 0076 3/6/2013 JPT/BPP(U)1000-801/57/Jld.13(27)",
   "awarding_country": "Malaysia",

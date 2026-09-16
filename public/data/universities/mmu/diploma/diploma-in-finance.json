@@ -13,26 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 23400,
-    "international_total": 26500,
-    "per_year_local": 11700,
-    "per_year_international": 13250,
+    "total": 26500,
+    "per_year": 13250,
     "notes": "Total programme fee"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Entry Requirements Applicants must meet one of the following criteria: SPM/O-Level or equivalent: Minimum 3 Credits including Mathematics and a Pass in English. STPM or equivalent: Minimum Grade C (GP 2.00) in any subject, Credit in Mathematics, and a Pass in English at SPM Level. STAM: Minimum Grade Maqbul (Pass) and Credit in Mathematics, with a Pass in English at SPM Level. UEC: Minimum 3 Grade B’s including Mathematics and a Pass in English. SKM Level 3: In a related field, along with a Pass in SPM with Credit in Mathematics and a Pass in English. Any Certificate in Finance, Banking, Insurance, or related field (Level 3, MQF): Minimum CGPA of 2.00 out of 4.00. APEL.A Certificate: For admission into Diploma programs. Note Candidates who do not have a Credit in Mathematics and a Pass in English at SPM Level may still be admitted if their qualifications contain subjects in Mathematics and English, and the achievement meets or exceeds the SPM requirement. Upon completion of the Diploma program, students intending to pursue further studies at MMU must meet the entry requirements for their chosen Bachelor’s degree program."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Entry Requirements Applicants must meet one of the following criteria: SPM/O-Level or equivalent: Minimum 3 Credits including Mathematics and a Pass in English. STPM or equivalent: Minimum Grade C (GP 2.00) in any subject, Credit in Mathematics, and a Pass in English at SPM Level. STAM: Minimum Grade Maqbul (Pass) and Credit in Mathematics, with a Pass in English at SPM Level. UEC: Minimum 3 Grade B’s including Mathematics and a Pass in English. SKM Level 3: In a related field, along with a Pass in SPM with Credit in Mathematics and a Pass in English. Any Certificate in Finance, Banking, Insurance, or related field (Level 3, MQF): Minimum CGPA of 2.00 out of 4.00. APEL.A Certificate: For admission into Diploma programs. Note Candidates who do not have a Credit in Mathematics and a Pass in English at SPM Level may still be admitted if their qualifications contain subjects in Mathematics and English, and the achievement meets or exceeds the SPM requirement. Upon completion of the Diploma program, students intending to pursue further studies at MMU must meet the entry requirements for their chosen Bachelor’s degree program."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

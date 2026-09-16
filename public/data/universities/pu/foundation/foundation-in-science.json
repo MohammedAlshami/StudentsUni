@@ -13,25 +13,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 7750,
-    "international_total": 15565,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)",
-    "per_year_local": 7750
+    "total": 15565,
+    "per_year": 7750,
+    "notes": "From EasyUni (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Science",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "SPM/O-LEVEL Pass with a minimum of five (5) B’s including Biology, Physics, Chemistry, Mathematics/Add Maths; and any other subject; and C in Bahasa Melayu or English; OR UEC Pass with a minimum of three (3) B’s in Biology, Chemistry, and Physics/Mathematics/Additional Mathematics.   English Language Requirements Local students A pass in English Language subject at SPM/O-level/UEC level /Other equivalent qualifications. International students A pass in English Language subject at equivalent academic qualifications recognised by the Malaysian Government If English language requirements are not met, the institution may assess the student’s proficiency and require them to take an English course or test."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "SPM/O-LEVEL Pass with a minimum of five (5) B’s including Biology, Physics, Chemistry, Mathematics/Add Maths; and any other subject; and C in Bahasa Melayu or English; OR UEC Pass with a minimum of three (3) B’s in Biology, Chemistry, and Physics/Mathematics/Additional Mathematics.   English Language Requirements Local students A pass in English Language subject at SPM/O-level/UEC level /Other equivalent qualifications. International students A pass in English Language subject at equivalent academic qualifications recognised by the Malaysian Government If English language requirements are not met, the institution may assess the student’s proficiency and require them to take an English course or test."
   },
   "accreditation": null,
   "sources": [

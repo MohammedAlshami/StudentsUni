@@ -14,26 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 9599,
-    "international_total": 15679,
-    "per_year_local": 3972,
-    "per_year_international": null,
+    "total": 15679,
+    "per_year": 3972,
     "notes": "Local: RM23,200.00; International: RM54,265.00 (per_year based on 2.4166666666666665yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Pass SPM with at least 3 credits including Bahasa Malaysia and English Language; Pass Certificate in Counselling and Guidance from institution recognised by MSU Senate; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Pass SPM with at least 3 credits including Bahasa Malaysia and English Language; Pass Certificate in Counselling and Guidance from institution recognised by MSU Senate; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,

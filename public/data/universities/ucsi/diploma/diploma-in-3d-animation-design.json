@@ -12,28 +12,15 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM 52,060",
-    "international": "RM 64,590",
     "currency": "MYR",
-    "local_total": 104120,
-    "international_total": 64590,
-    "per_year_local": 52060,
-    "per_year_international": 64590,
+    "total": 64590,
+    "per_year": 64590,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [

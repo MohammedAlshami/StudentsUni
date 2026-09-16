@@ -13,27 +13,15 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM21,200.00",
-    "international": "RM21,200.00",
-    "local_total": 26400,
-    "international_total": 27900,
-    "per_year_local": 26400,
+    "currency": "MYR",
+    "total": 27900,
+    "per_year": 26400,
     "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "SPM 5 Credits in at least 5 subjects at SPM level with a minimum of a pass in Bahasa Malaysia and Sejarah (History). IGCSE/O-LEVELS 5 Credits (Grade C &amp; above) in at least 5 subjects at IGCSE/O-Levels. UEC 3 Credits (Grade B &amp; above) in at least 3 subjects in UEC. Additional Notes Some Degree Programmes may require a Credit in Mathematics at SPM/IGCSE/O-Level or equivalent. Engineering Degree Programmes require a Credit in Mathematics and Physics or Chemistry or Technical Science at SPM/IGCSE/O-Level or equivalent. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) published by Malaysian Qualifications Agency (MQA). English Requirements International Students IELTS: 4.0 TOEFL IBT: 30-31 Pearson (PTE): 36 MUET: Band 3"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "SPM 5 Credits in at least 5 subjects at SPM level with a minimum of a pass in Bahasa Malaysia and Sejarah (History). IGCSE/O-LEVELS 5 Credits (Grade C &amp; above) in at least 5 subjects at IGCSE/O-Levels. UEC 3 Credits (Grade B &amp; above) in at least 3 subjects in UEC. Additional Notes Some Degree Programmes may require a Credit in Mathematics at SPM/IGCSE/O-Level or equivalent. Engineering Degree Programmes require a Credit in Mathematics and Physics or Chemistry or Technical Science at SPM/IGCSE/O-Level or equivalent. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) published by Malaysian Qualifications Agency (MQA). English Requirements International Students IELTS: 4.0 TOEFL IBT: 30-31 Pearson (PTE): 36 MUET: Band 3"
   },
   "accreditation": "MQA",
   "sources": [

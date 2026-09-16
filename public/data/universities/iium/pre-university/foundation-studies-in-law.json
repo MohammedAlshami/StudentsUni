@@ -12,25 +12,15 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 2000,
-    "international_total": 6000,
-    "per_year_local": 1000,
-    "per_year_international": 3000,
+    "total": 6000,
+    "per_year": 3000,
     "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "Credit in Bahasa Melayu, Credit in Islamic Education or equivalent, Credit in 3 other subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "3 principal passes in GCE A-Level",
-      "ib": "Minimum 6 subjects",
-      "other_qualifications": "Qualifications recognized by IIUM Senate",
-      "english_requirement": "IELTS or TOEFL or IIUM English Placement Test"
-    }
+    "english_requirement": "IELTS or TOEFL or IIUM English Placement Test",
+    "a_level": "3 principal passes in GCE A-Level",
+    "ib": "Minimum 6 subjects",
+    "other_qualifications": "Qualifications recognized by IIUM Senate"
   },
   "accreditation": {
     "mqa_status": "Accredited",

@@ -12,30 +12,16 @@
     "secondary": null
   },
   "fees": {
-    "local": "800/Sem",
-    "international": "6594.10/Sem",
     "currency": "MYR",
-    "local_total": 6400,
-    "international_total": 6594,
-    "per_year_local": 1600,
-    "per_year_international": 13188,
+    "total": 6594,
+    "per_year": 13188,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "entry_requirements": null,
-    "minimum_cgpa": null,
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics and Physics",
-      "stpm": "2 Principals (C+) including Mathematics and Physics",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": {
     "mqa": true,

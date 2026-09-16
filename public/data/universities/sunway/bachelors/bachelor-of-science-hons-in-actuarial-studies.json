@@ -14,39 +14,16 @@
     "Feb"
   ],
   "fees": {
-    "local": "From RM85,425",
-    "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 36105,
-    "per_year_local": 12035,
-    "notes": "Fee: FromRM85,425.00 (per_year based on 3.0yr duration)",
-    "international_total": 38357
+    "total": 38357,
+    "per_year": 12035,
+    "notes": "Fee: FromRM85,425.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Mathematics",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "detailed_requirements": [
-      "STPM Average C+ or CGPA 2.33 (Minimum 2 principals)",
-      "A-Level Minimum 12 points (Minimum Grade D in at least 2 subjects)",
-      "Australian Matriculation ATAR 60",
-      "Canadian International Matriculation Programme 60%",
-      "MUFY 60%",
-      "Sunway Foundation in Arts CGPA 2.00",
-      "Sunway Foundation in Science & Technology CGPA 2.00",
-      "UEC Maximum 26 points from 5 subjects (all Grade Bs)",
-      "IB Diploma Completed with minimum 25 points (excluding bonus points)",
-      "Sunway Diploma CAVG 50% or CGPA 2.00"
-    ]
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": "MQA/FA 1631 JPT/BPP(U)1000-801/57/Jld.9(37)",
   "awarding_country": "United Kingdom",

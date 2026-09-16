@@ -14,26 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 11998,
-    "international_total": 16983,
-    "per_year_local": 4965,
-    "per_year_international": null,
+    "total": 16983,
+    "per_year": 4965,
     "notes": "Local: RM27,700.00; International: RM57,595.00 (per_year based on 2.4166666666666665yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Passed SPM/GCE O-Levels with at least CREDIT in any THREE (3) subjects, also passed Art Education (Pendidikan Seni); Certificate in a relevant field (MQF Level 3) with minimum CGPA 2.00; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Passed SPM/GCE O-Levels with at least CREDIT in any THREE (3) subjects, also passed Art Education (Pendidikan Seni); Certificate in a relevant field (MQF Level 3) with minimum CGPA 2.00; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,

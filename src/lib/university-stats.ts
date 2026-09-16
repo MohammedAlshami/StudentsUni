@@ -36,9 +36,6 @@ export function getUniversityStats(slug: string): UniversityStats {
     outer: for (const level of levels) {
       const indexPath = path.join(uniDir, level, "index.json");
       const programs = normalizeProgramsList(readJSON(indexPath));
-      // Ground truth for "how many programmes" is the actual index length —
-      // info.json summary fields are inconsistently named across universities
-      // (program_counts vs total_programs, etc.) so they aren't trustworthy.
       totalPrograms += programs.length;
 
       for (const prog of programs) {
@@ -46,7 +43,7 @@ export function getUniversityStats(slug: string): UniversityStats {
         const detail = loadProgramDetail(slug, slug, level, prog);
         if (!detail.hasDetail) continue;
         scanned++;
-        const fee = detail.fees.local_total ?? detail.fees.international_total;
+        const fee = detail.fees.total;
         if (typeof fee === "number" && fee > 0) {
           currency = detail.fees.currency;
           if (fee < min) min = fee;

@@ -12,28 +12,14 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM 38,630 - RM 48,805",
-    "international": "RM 53,475 - RM 65,743",
     "currency": "MYR",
-    "local_total": 77260,
-    "international_total": 53475,
-    "per_year_local": 38630,
-    "per_year_international": 53475,
+    "total": 53475,
+    "per_year": 53475,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": null,
   "sources": [

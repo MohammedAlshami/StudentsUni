@@ -13,27 +13,14 @@
     "Jan"
   ],
   "fees": {
-    "local": "From RM30,720",
-    "international": "New international students are required to pay RM 18,000 advance fees or first semester fees (whichever is higher)",
     "currency": "MYR",
-    "local_total": 18006,
-    "per_year_local": 6002,
-    "notes": "Fee: FromRM30,720.00 (per_year based on 3.0yr duration)",
-    "international_total": 20257
+    "total": 20257,
+    "per_year": 6002,
+    "notes": "Fee: FromRM30,720.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

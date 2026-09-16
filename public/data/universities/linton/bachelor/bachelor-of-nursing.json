@@ -14,25 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 53332,
-    "international_total": 82500,
-    "per_year_local": 13333,
-    "per_year_international": "RM20,000-RM26,250",
+    "total": 82500,
+    "per_year": "RM20,000-RM26,250",
     "notes": "Indicative range based on EduSwasta 2026"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": {
     "mqa_status": "MQA approved",

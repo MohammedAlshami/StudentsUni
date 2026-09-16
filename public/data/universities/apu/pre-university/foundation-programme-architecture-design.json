@@ -13,26 +13,14 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM26,800.00",
-    "international": "RM28,400.00",
-    "local_total": 26800,
-    "international_total": 28400.0,
     "currency": "MYR",
-    "per_year_local": 26800
+    "total": 28400.0,
+    "per_year": 26800,
+    "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": "MQA",
   "sources": [

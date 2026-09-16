@@ -12,25 +12,13 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 2000,
-    "international_total": 6000,
-    "per_year_local": 1000,
-    "per_year_international": 3000,
+    "total": 6000,
+    "per_year": 3000,
     "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Science",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": {
     "mqa_status": "Accredited",

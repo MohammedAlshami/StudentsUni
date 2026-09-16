@@ -13,25 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 5394,
-    "international_total": 8525,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)",
-    "per_year_local": 1798
+    "total": 8525,
+    "per_year": 1798,
+    "notes": "From EasyUni (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "A pass in SPM with a minimum of three (3) credits in any subject, or its equivalent; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GP 2.00) in any subject, or its equivalent; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul in any subject, or its equivalent; OR A pass in SKM Level 3 / Sijil Vokasional Malaysia (SVM) in a suitable field (Note: The HEPs are to conduct screening and provide a specific guidance for the respective discipline of the programme); OR A Certificate (Level 3, MQF) in a related field with minimum CGPA of 2.00 or its equivalent; OR A pass in UEC with a minimum of grade B in 3 subjects and pass English Other relevant equivalent qualifications recognised by the Malaysian Government; AND Pass an interview OR submission of portfolio as required by the HEPs. ENGLISH COMPETENCY REQUIREMENT (INTERNATIONAL STUDENT) Achieve a minimum score Band 2 in the Malaysian University English Test (MUET) or equivalent."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "A pass in SPM with a minimum of three (3) credits in any subject, or its equivalent; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GP 2.00) in any subject, or its equivalent; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul in any subject, or its equivalent; OR A pass in SKM Level 3 / Sijil Vokasional Malaysia (SVM) in a suitable field (Note: The HEPs are to conduct screening and provide a specific guidance for the respective discipline of the programme); OR A Certificate (Level 3, MQF) in a related field with minimum CGPA of 2.00 or its equivalent; OR A pass in UEC with a minimum of grade B in 3 subjects and pass English Other relevant equivalent qualifications recognised by the Malaysian Government; AND Pass an interview OR submission of portfolio as required by the HEPs. ENGLISH COMPETENCY REQUIREMENT (INTERNATIONAL STUDENT) Achieve a minimum score Band 2 in the Malaysian University English Test (MUET) or equivalent."
   },
   "accreditation": null,
   "sources": [

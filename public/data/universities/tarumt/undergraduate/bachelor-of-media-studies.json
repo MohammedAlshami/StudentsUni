@@ -12,28 +12,17 @@
     "Nov"
   ],
   "fees": {
-    "local": "RM37,200.00",
-    "international": "RM64,900.00",
-    "local_total": 11334,
     "currency": "MYR",
-    "international_total": 18300,
-    "per_year_local": 3778,
-    "per_year_international": 6100
+    "total": 18300,
+    "per_year": 6100,
+    "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Any relevant subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90"
-    },
-    "general_text": "(1) STPM - Grade C in 2 relevant subjects (2) A Level - Grade D in 2 relevant subjects (3) UEC - Grade B in 5 relevant subjects (4) Other IHL - Relevant Foundation/ Diploma accredited by MQA (5) TAR UC - Foundation in Arts (Track C) or Relevant Diploma Compulsory subject: (1), (2), (3) and (4) must include SPM Credit/ O Level Grade C/ UEC Grade B in English Language Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree. b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "(1) STPM - Grade C in 2 relevant subjects (2) A Level - Grade D in 2 relevant subjects (3) UEC - Grade B in 5 relevant subjects (4) Other IHL - Relevant Foundation/ Diploma accredited by MQA (5) TAR UC - Foundation in Arts (Track C) or Relevant Diploma Compulsory subject: (1), (2), (3) and (4) must include SPM Credit/ O Level Grade C/ UEC Grade B in English Language Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree. b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
   },
   "accreditation": "MQA",
   "sources": [

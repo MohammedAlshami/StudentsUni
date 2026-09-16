@@ -12,28 +12,17 @@
     "Nov"
   ],
   "fees": {
-    "local": "RM37,500.00",
-    "international": "RM65,200.00",
     "currency": "MYR",
-    "local_total": 34299,
-    "international_total": 59900,
-    "per_year_local": 11433,
+    "total": 59900,
+    "per_year": 11433,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Relevant science subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "(1) STPM - Grade C in 2 relevant subjects (2) A Level - Grade D in 2 relevant subjects (3) UEC - Grade B in 5 relevant subjects (4) Other IHL - Relevant Foundation/ Diploma accredited by MQA (5) TAR UC - Foundation in Science (Track A / Track B) OR Diploma in Sport &amp; Exercise Science Compulsory subjects: (1), (2), (3) and (4) must include - i) SPM Pass/ O Level Grade E (Pass) in Mathematics ##/ UEC Grade C in one mathematics subject# ii) SPM Pass/ O Level Grade E (Pass)/ UEC Grade C in English Language* *Grade C and above in AELE0364 English Language conducted by TAR UC is accepted as having fulfilled the English Language requirement for applicants who fail English Language at SPM/O Level/UEC. #Grade C and above in AMMS0104 General Mathematics conducted by TAR UC is accepted as having fulfilled the mathematics requirement for applicants who fail the required mathematics subject at SPM/O Level/UEC. Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree. b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "(1) STPM - Grade C in 2 relevant subjects (2) A Level - Grade D in 2 relevant subjects (3) UEC - Grade B in 5 relevant subjects (4) Other IHL - Relevant Foundation/ Diploma accredited by MQA (5) TAR UC - Foundation in Science (Track A / Track B) OR Diploma in Sport &amp; Exercise Science Compulsory subjects: (1), (2), (3) and (4) must include - i) SPM Pass/ O Level Grade E (Pass) in Mathematics ##/ UEC Grade C in one mathematics subject# ii) SPM Pass/ O Level Grade E (Pass)/ UEC Grade C in English Language* *Grade C and above in AELE0364 English Language conducted by TAR UC is accepted as having fulfilled the English Language requirement for applicants who fail English Language at SPM/O Level/UEC. #Grade C and above in AMMS0104 General Mathematics conducted by TAR UC is accepted as having fulfilled the mathematics requirement for applicants who fail the required mathematics subject at SPM/O Level/UEC. Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree. b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
   },
   "accreditation": "MQA",
   "sources": [

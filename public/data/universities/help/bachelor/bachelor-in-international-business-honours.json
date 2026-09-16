@@ -15,12 +15,9 @@
     "Aug"
   ],
   "fees": {
-    "local": "RM82,800.00",
-    "international": null,
-    "local_total": 25899,
     "currency": "MYR",
-    "international_total": 28450,
-    "per_year_local": 8633,
+    "total": 28450,
+    "per_year": 8633,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "sources": [
@@ -44,19 +41,11 @@
   "confidence": "high",
   "last_updated": "2026-09-16",
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Entry Requirements Applicants must meet one of the following criteria: Matriculation/Foundation or equivalent – Minimum CGPA 2.00 out of 4.00** Diploma (Level 4, MQF) – Minimum CGPA 2.00 out of 4.00 STPM – Minimum Grade C (GP 2.0) in any TWO subjects Advanced Diploma (Level 5, MQF) – Minimum CGPA 2.00 out of 4.00 Sijil Tinggi Agama Malaysia (STAM) – Minimum grade of Jayyid (good) Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) – Subject to Senate / Academic Board approval Diploma Lanjutan Kemahiran Malaysia (DLKM) – Subject to Senate / Academic Board approval A-Level – 2 passes Senior Middle 3 (UEC) – 5 B’s*** Canadian Pre-University (CPU) – 5 passes with a minimum average of 50% Australian Matriculation Programmes – University Aggregate of 50% or ATAR score of at least 50 Equivalent qualification Additional Requirements The stated qualifications must be supported with a pass in Mathematics, English, Sejarah, and Bahasa Melayu at SPM level. Please refer to the Faculty of Business, Economics, and Accounting for Mathematics and English requirements. English Requirement (International Students) Minimum IELTS 5.5 or equivalent International English Language qualification."
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Entry Requirements Applicants must meet one of the following criteria: Matriculation/Foundation or equivalent – Minimum CGPA 2.00 out of 4.00** Diploma (Level 4, MQF) – Minimum CGPA 2.00 out of 4.00 STPM – Minimum Grade C (GP 2.0) in any TWO subjects Advanced Diploma (Level 5, MQF) – Minimum CGPA 2.00 out of 4.00 Sijil Tinggi Agama Malaysia (STAM) – Minimum grade of Jayyid (good) Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) – Subject to Senate / Academic Board approval Diploma Lanjutan Kemahiran Malaysia (DLKM) – Subject to Senate / Academic Board approval A-Level – 2 passes Senior Middle 3 (UEC) – 5 B’s*** Canadian Pre-University (CPU) – 5 passes with a minimum average of 50% Australian Matriculation Programmes – University Aggregate of 50% or ATAR score of at least 50 Equivalent qualification Additional Requirements The stated qualifications must be supported with a pass in Mathematics, English, Sejarah, and Bahasa Melayu at SPM level. Please refer to the Faculty of Business, Economics, and Accounting for Mathematics and English requirements. English Requirement (International Students) Minimum IELTS 5.5 or equivalent International English Language qualification."
   },
   "program_name_ar": "بكالوريوس International Business (Honours)",
   "program_name_zh": "International Business (Honours)学士",

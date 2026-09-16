@@ -12,25 +12,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 120720,
-    "international_total": 52900,
-    "per_year_local": 40240,
-    "per_year_international": 44100.0,
+    "total": 52900,
+    "per_year": 44100.0,
     "notes": "RM40,240/Yr local, RM44,100/Yr international, for each of the three years of the programme (both NUMed Malaysia and Newcastle UK)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": {
     "mqa_status": null,

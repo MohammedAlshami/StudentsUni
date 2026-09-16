@@ -13,26 +13,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 16000,
-    "international_total": 20750,
-    "per_year_local": 16000,
-    "per_year_international": 20750,
+    "total": 20750,
+    "per_year": 20750,
     "notes": "Total programme fee"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Pass SPM/O-Level or its equivalent with a minimum of Grade C in at least five (5) subjects, inclusive of English; OR Pass UEC with a minimum of Grade B in at least three (3) subjects inclusive of English OR a minimum of Grade C in English at SPM/O-Level or its equivalent. Additional Requirement to pursue Bachelor of Accounting (Honours): A Credit in Mathematics at SPM Level or its equivalent."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "Pass SPM/O-Level or its equivalent with a minimum of Grade C in at least five (5) subjects, inclusive of English; OR Pass UEC with a minimum of Grade B in at least three (3) subjects inclusive of English OR a minimum of Grade C in English at SPM/O-Level or its equivalent. Additional Requirement to pursue Bachelor of Accounting (Honours): A Credit in Mathematics at SPM Level or its equivalent."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

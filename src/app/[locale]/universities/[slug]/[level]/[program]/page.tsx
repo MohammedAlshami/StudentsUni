@@ -120,10 +120,9 @@ export default async function ProgramDetailPage({
     : locale === "zh" ? (prog.field_zh || prog.field)
     : prog.field;
   const fee = prog.fees;
-  const hasFees = fee.local_total || fee.international_total || fee.per_year_local || fee.per_year_international;
-  const hasMalaysianReq = Object.values(prog.requirements.malaysian).some(Boolean);
-  const hasIntlReq = Object.values(prog.requirements.international).some(Boolean);
-  const hasGeneralReq = Boolean(prog.requirements.general_text);
+  const hasFees = fee.total || fee.per_year;
+  const reqs = prog.requirements;
+  const hasReqs = Object.values(reqs).some(Boolean);
   const levelLabel = LEVEL_LABEL_KEYS[prog.level] ? tLevels(LEVEL_LABEL_KEYS[prog.level] as "foundation") : prog.level;
 
   return (
@@ -186,22 +185,12 @@ export default async function ProgramDetailPage({
             </h2>
             <div className="mt-[10px]">
               <Fact
-                label={t("localStudentsTotal")}
-                value={fee.local_total ? `${fee.currency} ${fee.local_total.toLocaleString()}` : null}
+                label={t("totalFee")}
+                value={fee.total ? `${fee.currency} ${fee.total.toLocaleString()}` : null}
               />
               <Fact
-                label={t("internationalStudentsTotal")}
-                value={fee.international_total ? `${fee.currency} ${fee.international_total.toLocaleString()}` : null}
-              />
-              <Fact
-                label={t("localStudentsPerYear")}
-                value={fee.per_year_local ? `${fee.currency} ${fee.per_year_local.toLocaleString()}` : null}
-              />
-              <Fact
-                label={t("internationalStudentsPerYear")}
-                value={
-                  fee.per_year_international ? `${fee.currency} ${fee.per_year_international.toLocaleString()}` : null
-                }
+                label={t("perYear")}
+                value={fee.per_year ? `${fee.currency} ${fee.per_year.toLocaleString()}` : null}
               />
               {fee.notes && <p className="mt-[10px] text-[12px] italic text-black/50">{fee.notes}</p>}
               {!hasFees && (
@@ -215,31 +204,18 @@ export default async function ProgramDetailPage({
             <h2 className="flex items-center gap-[8px] border-b border-black/10 pb-[10px] text-[19px] font-bold">
               <BadgeCheck size={18} className="text-[#285b50]" /> {t("entryRequirements")}
             </h2>
-            {hasGeneralReq && (
-              <p className="mt-[16px] text-[15px] leading-relaxed text-black/75">{prog.requirements.general_text}</p>
-            )}
-            {!hasGeneralReq && (
-              <div className="mt-[16px] grid gap-[26px] sm:grid-cols-2">
-                <div>
-                  <p className="mb-[6px] text-[12px] font-bold uppercase tracking-[.08em] text-black/50">
-                    {t("malaysianQualifications")}
-                  </p>
-                  <Fact label={t("spm")} value={prog.requirements.malaysian.spm} />
-                  <Fact label={t("stpm")} value={prog.requirements.malaysian.stpm} />
-                  <Fact label={t("foundationMatriculation")} value={prog.requirements.malaysian.foundation_matriculation} />
-                  <Fact label={t("diplomaPathway")} value={prog.requirements.malaysian.diploma_pathway} />
-                  {!hasMalaysianReq && <p className="py-[12px] text-[13px] text-black/40">{t("notYetAvailable")}</p>}
-                </div>
-                <div>
-                  <p className="mb-[6px] text-[12px] font-bold uppercase tracking-[.08em] text-black/50">
-                    {t("internationalQualifications")}
-                  </p>
-                  <Fact label={t("aLevels")} value={prog.requirements.international.a_level} />
-                  <Fact label={t("ib")} value={prog.requirements.international.ib} />
-                  <Fact label={t("other")} value={prog.requirements.international.other_qualifications} />
-                  <Fact label={t("englishRequirement")} value={prog.requirements.international.english_requirement} />
-                  {!hasIntlReq && <p className="py-[12px] text-[13px] text-black/40">{t("notYetAvailable")}</p>}
-                </div>
+            {reqs.general ? (
+              <p className="mt-[16px] text-[15px] leading-relaxed text-black/75">{reqs.general}</p>
+            ) : (
+              <div className="mt-[16px] space-y-0">
+                <Fact label={t("englishRequirement")} value={reqs.english_requirement} />
+                <Fact label={t("aLevels")} value={reqs.a_level} />
+                <Fact label={t("ib")} value={reqs.ib} />
+                <Fact label={t("otherQualifications")} value={reqs.other_qualifications} />
+                <Fact label={t("previousEducation")} value={reqs.previous_education} />
+                <Fact label={t("foundation")} value={reqs.foundation} />
+                <Fact label={t("diplomaPathway")} value={reqs.diploma_pathway} />
+                {!hasReqs && <p className="py-[12px] text-[13px] text-black/40">{t("notYetAvailable")}</p>}
               </div>
             )}
           </section>

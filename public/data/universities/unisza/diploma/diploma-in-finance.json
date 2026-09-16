@@ -12,28 +12,15 @@
     "secondary": null
   },
   "fees": {
-    "local": "300 - 400/sem",
-    "international": "Enquire",
     "currency": "MYR",
-    "local_total": 2600,
-    "per_year_local": 1300,
-    "notes": "Standard public university fees (MQA regulated)",
-    "international_total": 7800,
-    "per_year_international": 3900
+    "total": 7800,
+    "per_year": 3900,
+    "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [

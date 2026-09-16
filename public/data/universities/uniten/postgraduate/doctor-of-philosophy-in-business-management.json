@@ -13,33 +13,14 @@
     "September"
   ],
   "fees": {
-    "local": {
-      "tuition": "RM4,275/semester",
-      "registration": "RM1,348",
-      "accommodation_deposit": "RM250"
-    },
-    "international": {
-      "tuition": "RM4,775/semester",
-      "visa_application": "USD787.50 (RM3,150)",
-      "registration": "USD1,650 (RM6,600)"
-    },
     "currency": "MYR",
-    "local_total": 59850,
-    "per_year_local": 8550
+    "total": 59850,
+    "per_year": 8550,
+    "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": {
     "mqa_code": null,

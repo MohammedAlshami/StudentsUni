@@ -14,27 +14,15 @@
     "Jan"
   ],
   "fees": {
-    "local": "Enquire for fees",
-    "international": "Enquire for fees",
-    "local_total": 19132,
     "currency": "MYR",
-    "international_total": 19132,
-    "per_year_local": 9566,
+    "total": 19132,
+    "per_year": 9566,
     "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

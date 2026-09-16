@@ -14,26 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 11998,
-    "international_total": 17094,
-    "per_year_local": 4965,
-    "per_year_international": null,
+    "total": 17094,
+    "per_year": 4965,
     "notes": "Local: RM29,000.00; International: RM58,325.00 (per_year based on 2.4166666666666665yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Passed SPM and obtained THREE (3) Credits including BM, Mathematics, and Science; Obtained Sijil Kemahiran MARA (SKM) plus ONE (1) Credit at SPM; Sijil Politeknik and at least 2.0 CGPA; Sijil Institut Kemahiran Mara (IKM) and at least 2.0 CGPA; Sijil Sains Kesihatan PTPL and at least 2.0 CGPA. International Students: International students with equivalent qualifications approved by MSU Senate must also pass IELTS and score at least 5.5; OR TOEFL and score at least 550; OR O-Level English Language (equivalent to SPM 1119 English)."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Passed SPM and obtained THREE (3) Credits including BM, Mathematics, and Science; Obtained Sijil Kemahiran MARA (SKM) plus ONE (1) Credit at SPM; Sijil Politeknik and at least 2.0 CGPA; Sijil Institut Kemahiran Mara (IKM) and at least 2.0 CGPA; Sijil Sains Kesihatan PTPL and at least 2.0 CGPA. International Students: International students with equivalent qualifications approved by MSU Senate must also pass IELTS and score at least 5.5; OR TOEFL and score at least 550; OR O-Level English Language (equivalent to SPM 1119 English)."
   },
   "accreditation": {
     "mqa_status": null,

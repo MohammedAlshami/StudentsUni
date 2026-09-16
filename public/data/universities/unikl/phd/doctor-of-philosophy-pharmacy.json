@@ -12,25 +12,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 240000,
-    "international_total": null,
-    "per_year_local": 80000,
-    "per_year_international": null,
+    "total": 240000,
+    "per_year": 80000,
     "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "sources": [

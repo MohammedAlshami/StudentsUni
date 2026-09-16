@@ -13,28 +13,14 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM34,160",
-    "international": "RM43,480",
     "currency": "MYR",
-    "local_total": 34160,
-    "international_total": 43480,
-    "per_year_local": 8540,
-    "per_year_international": 10870,
+    "total": 43480,
+    "per_year": 10870,
     "notes": "Total course fee for 4-year programme"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "sources": [

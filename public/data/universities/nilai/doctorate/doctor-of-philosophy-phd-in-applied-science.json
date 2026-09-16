@@ -14,25 +14,13 @@
   ],
   "fees": {
     "currency": "RM",
-    "local_total": 3200,
-    "international_total": 3200.0,
-    "per_year_local": 640,
-    "per_year_international": null,
+    "total": 3200.0,
+    "per_year": 640,
     "notes": "Local: Short semester-RM3200, Long semester-RM6400; International: Short semester-RM3200, Long semester-RM6400 (per_year based on 5.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": {
     "mqa_status": null,

@@ -13,26 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 27555,
-    "international_total": 30550,
-    "per_year_local": 11022,
-    "per_year_international": 13578,
+    "total": 30550,
+    "per_year": 13578,
     "notes": "Total programme fee; 2 years 3 months"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Entry Requirements Applicants must meet any of the following: Pass SPM/O-Level (or equivalent) with a minimum of Grade C in at least three (3) subjects; Pass UEC with a minimum of Grade B in at least three (3) subjects; Pass STPM (or equivalent) with a minimum of Grade C (GP 2.00) in at least one (1) subject; Pass STAM with Grade Maqbul (Pass); Recognised Creative Multimedia Certificate or its equivalent; Recognised related Technical and Vocational Certificate or its equivalent with one (1) year relevant work experience or completion of one (1) trimester bridging programme; Pass SKM Level 3 or any qualifications equivalent to Certificate (Level 3, MQF) in a related field; Possess an APEL.A certificate from MQA for admission into Diploma programmes; AND Pass an interview OR submit a student’s portfolio, as determined by MMU."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Entry Requirements Applicants must meet any of the following: Pass SPM/O-Level (or equivalent) with a minimum of Grade C in at least three (3) subjects; Pass UEC with a minimum of Grade B in at least three (3) subjects; Pass STPM (or equivalent) with a minimum of Grade C (GP 2.00) in at least one (1) subject; Pass STAM with Grade Maqbul (Pass); Recognised Creative Multimedia Certificate or its equivalent; Recognised related Technical and Vocational Certificate or its equivalent with one (1) year relevant work experience or completion of one (1) trimester bridging programme; Pass SKM Level 3 or any qualifications equivalent to Certificate (Level 3, MQF) in a related field; Possess an APEL.A certificate from MQA for admission into Diploma programmes; AND Pass an interview OR submit a student’s portfolio, as determined by MMU."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

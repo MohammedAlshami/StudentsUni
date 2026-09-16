@@ -11,24 +11,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 6500,
-    "international_total": 11800,
-    "notes": "From EasyUni (per_year based on 2.0yr duration)",
-    "per_year_local": 3250
+    "total": 11800,
+    "per_year": 3250,
+    "notes": "From EasyUni (per_year based on 2.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "sources": [

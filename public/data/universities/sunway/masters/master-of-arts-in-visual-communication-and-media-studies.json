@@ -14,27 +14,14 @@
     "Jan"
   ],
   "fees": {
-    "local": "From RM40,050",
-    "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
-    "local_total": 46950,
-    "per_year_local": 46950,
-    "notes": "Fee: FromRM40,050.00 (per_year based on 1.0yr duration)",
-    "international_total": 51750
+    "total": 51750,
+    "per_year": 46950,
+    "notes": "Fee: FromRM40,050.00 (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

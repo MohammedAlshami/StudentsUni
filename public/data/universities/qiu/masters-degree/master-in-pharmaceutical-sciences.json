@@ -14,10 +14,8 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 240000,
-    "international_total": null,
-    "per_year_local": 120000,
-    "per_year_international": null,
+    "total": 240000,
+    "per_year": 120000,
     "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 2.0yr duration)"
   },
   "requirements": null,

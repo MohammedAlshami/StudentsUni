@@ -13,26 +13,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 54249,
-    "international_total": 67250,
-    "per_year_local": 18083,
-    "per_year_international": 22417,
+    "total": 67250,
+    "per_year": 22417,
     "notes": "Total programme fee"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Entry Requirements Pass Foundation/Matriculation studies with at least CGPA of 2.00 from a recognised institution; OR Pass STPM or its equivalent with a minimum of Grade C (GP 2.00) in any two (2) subjects AND a Pass in Mathematics and English at SPM Level or its equivalent; OR Pass A-Level with a minimum of Grade D in any two (2) subjects AND a Pass in Mathematics and English at SPM Level or its equivalent; OR Pass STAM with a minimum of Grade Jayyid (Good) in two (2) subjects AND a Pass in Mathematics and English at SPM or its equivalent; OR Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of English OR a minimum of Grade C in SPM/O-Level English or equivalent; Note: The requirement to Pass Mathematics and English Subjects at SPM Level can be waived should the qualifications contain Mathematics and English subjects with equivalent/higher achievement. Malaysian students using English as the medium of instruction in their previous study or with at least Band 2 in MUET or equivalent can be exempted from a pass in English requirement. Those without a pass in Mathematics and/or English at SPM level or equivalent can be admitted but are required to attend special enhancement course(s). These special enhancement courses should be SPM equivalent, remedial in nature. Students must pass the Mathematics and English enhancement courses as a prerequisite to related core courses taught in English. (English subject requirement does not apply to international students since they are required to meet certain scores of international English examination and privileged with certain exemptions) *DKM/DLKM/DVM candidates may be required to undergo Bridging Programme as an additional requirement"
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Entry Requirements Pass Foundation/Matriculation studies with at least CGPA of 2.00 from a recognised institution; OR Pass STPM or its equivalent with a minimum of Grade C (GP 2.00) in any two (2) subjects AND a Pass in Mathematics and English at SPM Level or its equivalent; OR Pass A-Level with a minimum of Grade D in any two (2) subjects AND a Pass in Mathematics and English at SPM Level or its equivalent; OR Pass STAM with a minimum of Grade Jayyid (Good) in two (2) subjects AND a Pass in Mathematics and English at SPM or its equivalent; OR Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of English OR a minimum of Grade C in SPM/O-Level English or equivalent; Note: The requirement to Pass Mathematics and English Subjects at SPM Level can be waived should the qualifications contain Mathematics and English subjects with equivalent/higher achievement. Malaysian students using English as the medium of instruction in their previous study or with at least Band 2 in MUET or equivalent can be exempted from a pass in English requirement. Those without a pass in Mathematics and/or English at SPM level or equivalent can be admitted but are required to attend special enhancement course(s). These special enhancement courses should be SPM equivalent, remedial in nature. Students must pass the Mathematics and English enhancement courses as a prerequisite to related core courses taught in English. (English subject requirement does not apply to international students since they are required to meet certain scores of international English examination and privileged with certain exemptions) *DKM/DLKM/DVM candidates may be required to undergo Bridging Programme as an additional requirement"
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

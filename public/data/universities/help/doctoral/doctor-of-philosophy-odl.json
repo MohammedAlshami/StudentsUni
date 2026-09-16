@@ -8,10 +8,10 @@
   "duration": "Full-time: min 3 years, max 5 years. Part-time: min 4 years, max 8 years.",
   "mode": "Flexible Full-time/Part-time Mode",
   "fees": {
-    "local": "RM38,000.00",
-    "international": null,
-    "local_total": 37998,
-    "per_year_local": 12666
+    "currency": "MYR",
+    "total": 37998,
+    "per_year": 12666,
+    "notes": ""
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0059083/",
@@ -27,18 +27,8 @@
     "Sep"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "program_name_ar": "دكتوراه فلسفة (Open & Distance Learning – ODL)",
   "program_name_zh": "哲学博士 (Open & Distance Learning – ODL)",

@@ -13,26 +13,14 @@
     "secondary": "February"
   },
   "fees": {
-    "local": "9450/Course",
-    "international": "USD6220/Course",
     "currency": "MYR",
-    "local_total": 7086,
-    "per_year_local": 2362,
+    "total": 7086,
+    "per_year": 2362,
     "notes": "Fee: 9450/Course"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "sources": [

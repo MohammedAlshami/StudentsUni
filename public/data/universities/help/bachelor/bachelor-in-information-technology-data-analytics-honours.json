@@ -13,12 +13,9 @@
     "Jan"
   ],
   "fees": {
-    "local": "RM82,800.00",
-    "international": null,
-    "local_total": 25080,
     "currency": "MYR",
-    "international_total": 26650,
-    "per_year_local": 8360,
+    "total": 26650,
+    "per_year": 8360,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "sources": [
@@ -42,19 +39,11 @@
   "confidence": "high",
   "last_updated": "2026-09-16",
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics and Physics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Entry Requirements A pass in STPM with a minimum grade of C (CGPA 2.00) in any TWO (2) subjects or any equivalent qualification and a credit in Mathematics at SPM level or its equivalent; OR A pass in STAM with a minimum grade of Jayyid in any TWO (2) subjects (including a credit in Mathematics at SPM level or its equivalent); OR A pass in Matriculation or Foundation studies with a minimum CGPA of 2.00 and a credit in Mathematics at SPM level or its equivalent; OR Diploma in Computing (Level 4, MQF) or equivalent with a minimum CGPA of 2.50; OR Any Diploma in Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75; OR Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in Computing fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval; OR Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval. Notes: Candidates for categories (iv) until (vii) with a CGPA below 2.75 but more than 2.00 may be admitted subject to a thorough internal evaluation process. English Requirement (International Students) Minimum IELTS 5.0 or equivalent International English Language qualification."
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Entry Requirements A pass in STPM with a minimum grade of C (CGPA 2.00) in any TWO (2) subjects or any equivalent qualification and a credit in Mathematics at SPM level or its equivalent; OR A pass in STAM with a minimum grade of Jayyid in any TWO (2) subjects (including a credit in Mathematics at SPM level or its equivalent); OR A pass in Matriculation or Foundation studies with a minimum CGPA of 2.00 and a credit in Mathematics at SPM level or its equivalent; OR Diploma in Computing (Level 4, MQF) or equivalent with a minimum CGPA of 2.50; OR Any Diploma in Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75; OR Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in Computing fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval; OR Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval. Notes: Candidates for categories (iv) until (vii) with a CGPA below 2.75 but more than 2.00 may be admitted subject to a thorough internal evaluation process. English Requirement (International Students) Minimum IELTS 5.0 or equivalent International English Language qualification."
   },
   "program_name_ar": "بكالوريوس Information Technology (Data Analytics) (Honours)",
   "program_name_zh": "Information Technology (Data Analytics) (Honours)学士",

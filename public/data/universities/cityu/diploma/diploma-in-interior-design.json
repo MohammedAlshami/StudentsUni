@@ -17,25 +17,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 10812,
-    "international_total": 14530,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)",
-    "per_year_local": 3604
+    "total": 14530,
+    "per_year": 3604,
+    "notes": "From EasyUni (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Any one of these: SPM: Minimum 3 credits credits in any subject, or its equivalent STPM: Minimum C (GPA of 2.00) in any subject, or its equivalent OR STAM: Minimum Maqbul grade credits in any subject, or its equivalent OR SKM/SVM: Level 3 credits in a suitable field OR CERTIFICATE: (Level 3,MQF) minimum CGPA of 2.00 or its equivalent OR English Requirements For International Students IELTS: Minimum 5.0  "
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Any one of these: SPM: Minimum 3 credits credits in any subject, or its equivalent STPM: Minimum C (GPA of 2.00) in any subject, or its equivalent OR STAM: Minimum Maqbul grade credits in any subject, or its equivalent OR SKM/SVM: Level 3 credits in a suitable field OR CERTIFICATE: (Level 3,MQF) minimum CGPA of 2.00 or its equivalent OR English Requirements For International Students IELTS: Minimum 5.0  "
   },
   "accreditation": "MQA",
   "sources": [

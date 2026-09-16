@@ -9,10 +9,8 @@
   "mode": "Part-time Study",
   "fees": {
     "currency": "MYR",
-    "local_total": 25665,
-    "international_total": null,
-    "per_year_local": 21999,
-    "per_year_international": null,
+    "total": 25665,
+    "per_year": 21999,
     "notes": "Estimated ~RM22000/year for typical private university programme"
   },
   "sources": [
@@ -25,18 +23,8 @@
     "Modular"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "program_name_ar": "Cambridge International Diploma in Teaching and Learning",
   "program_name_zh": "Cambridge International Diploma in Teaching and Learning",

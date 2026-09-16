@@ -14,25 +14,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 75000,
-    "international_total": null,
-    "per_year_local": 18750,
-    "per_year_international": null,
+    "total": 75000,
+    "per_year": 18750,
     "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 4.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "Recognised Master's degree, IELTS 6.0",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    }
+    "previous_education": "Recognised Master's degree, IELTS 6.0"
   },
   "accreditation": {
     "mqa_status": "MQA approved",

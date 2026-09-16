@@ -13,28 +13,16 @@
     "Oct"
   ],
   "fees": {
-    "local": "From RM37,800",
-    "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 19683,
-    "per_year_local": 6561,
-    "notes": "Fee: FromRM37,800.00 (per_year based on 3.0yr duration)",
-    "international_total": 16900
+    "total": 16900,
+    "per_year": 6561,
+    "notes": "Fee: FromRM37,800.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "SPM / O-Level: Pass with a minimum of 3 credits, including Mathematics and a pass in English UEC: Pass with a minimum of 3Bs, including Mathematics and a pass in English Sijil Kemahiran Malaysia (SKM) Level 3: In a related field, and pass SPM with 1 credit in Mathematics and a pass in English Certificate (MQF Level 3): In a related field, with a minimum CGPA of 2.00, and a pass in Mathematics and English at SPM level Other equivalent qualifications as recognised by the Malaysian Government English Competency (International Students) MUET Band 3 or IELTS 4.0 (or equivalent)"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "SPM / O-Level: Pass with a minimum of 3 credits, including Mathematics and a pass in English UEC: Pass with a minimum of 3Bs, including Mathematics and a pass in English Sijil Kemahiran Malaysia (SKM) Level 3: In a related field, and pass SPM with 1 credit in Mathematics and a pass in English Certificate (MQF Level 3): In a related field, with a minimum CGPA of 2.00, and a pass in Mathematics and English at SPM level Other equivalent qualifications as recognised by the Malaysian Government English Competency (International Students) MUET Band 3 or IELTS 4.0 (or equivalent)"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

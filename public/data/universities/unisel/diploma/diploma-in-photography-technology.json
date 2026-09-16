@@ -13,25 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 6540,
-    "international_total": 9511,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)",
-    "per_year_local": 2180
+    "total": 9511,
+    "per_year": 2180,
+    "notes": "From EasyUni (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Possess Sijil Pelajaran Malaysia (SPM) with at least THREE (3) credits in any subjects inclusive of Mathematics or any equivalent qualification), OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum Grade C of Grade point (GP) 2.00 in any subject or equivalent qualification and a credit in Mathematics at SPM level or its equivalent; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul (Pass) and a credit in Mathematics at SPM level or its equivalent, OR  Possess Sijil Kemahiran Malaysia (SKM) Level 3 in a related field and a credit in Mathematics at SPM level or its equivalent. HEPs need to conduct specific screening and guidance related to the field of the program for the students; OR A Certificate [Level 3, Malaysian Qualifications Framework (MQF) in a related field with at least a Cumulative Grade Point Average (CGPA) of 2. 00; OR Other relevant &amp; equivalent qualifications recognised by the Malaysian Government.   ENGLISH COMPETENCY REQUIREMENT (INTERNATIONAL STUDENTS) Achieve a mimmum score of 4.5 in the IEL TS or equivalent."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Possess Sijil Pelajaran Malaysia (SPM) with at least THREE (3) credits in any subjects inclusive of Mathematics or any equivalent qualification), OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum Grade C of Grade point (GP) 2.00 in any subject or equivalent qualification and a credit in Mathematics at SPM level or its equivalent; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul (Pass) and a credit in Mathematics at SPM level or its equivalent, OR  Possess Sijil Kemahiran Malaysia (SKM) Level 3 in a related field and a credit in Mathematics at SPM level or its equivalent. HEPs need to conduct specific screening and guidance related to the field of the program for the students; OR A Certificate [Level 3, Malaysian Qualifications Framework (MQF) in a related field with at least a Cumulative Grade Point Average (CGPA) of 2. 00; OR Other relevant &amp; equivalent qualifications recognised by the Malaysian Government.   ENGLISH COMPETENCY REQUIREMENT (INTERNATIONAL STUDENTS) Achieve a mimmum score of 4.5 in the IEL TS or equivalent."
   },
   "accreditation": null,
   "sources": [

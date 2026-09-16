@@ -12,26 +12,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 23850,
-    "international_total": 23850,
-    "per_year_local": 9540,
-    "per_year_international": null,
+    "total": 23850,
+    "per_year": 9540,
     "notes": " (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: SPM: Minimum 3Cs. O-Level: Minimum 3Cs (including a Science subject and pass in English). UEC: Minimum 3Bs (including a Science subject and pass in English). Certificate / SKM III: Minimum CGPA of 2.00 with a C in SPM. Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM. ENGLISH LANGUAGE REQUIREMENT (INTERNATIONAL):  IELTS - 5 TOEFL (PBT) - 410 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
+    "general": "Any one of these: SPM: Minimum 3Cs. O-Level: Minimum 3Cs (including a Science subject and pass in English). UEC: Minimum 3Bs (including a Science subject and pass in English). Certificate / SKM III: Minimum CGPA of 2.00 with a C in SPM. Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM. ENGLISH LANGUAGE REQUIREMENT (INTERNATIONAL):  IELTS - 5 TOEFL (PBT) - 410 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
   },
   "accreditation": {
     "mqa_status": null,

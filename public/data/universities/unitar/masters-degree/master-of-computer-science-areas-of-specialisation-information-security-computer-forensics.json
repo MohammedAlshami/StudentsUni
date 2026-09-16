@@ -13,10 +13,9 @@
     "Sep"
   ],
   "fees": {
-    "local": "21980/Course",
-    "international": "21980/Course",
-    "local_total": 21980,
-    "per_year_local": 21980,
+    "currency": "MYR",
+    "total": 21980,
+    "per_year": 21980,
     "notes": "Estimated total fees (local) for full course duration"
   },
   "requirements": null,

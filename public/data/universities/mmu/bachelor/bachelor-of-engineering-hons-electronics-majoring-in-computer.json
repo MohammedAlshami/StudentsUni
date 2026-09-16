@@ -13,26 +13,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 76000,
-    "international_total": 94500,
-    "per_year_local": 19000,
-    "per_year_international": 23625,
+    "total": 94500,
+    "per_year": 23625,
     "notes": "Total programme fee; 4-year programme"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics and Physics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Entry Requirements Applicants must meet one of the following criteria: Foundation/Matriculation: Pass in a related field from a recognised institution. STPM or equivalent: Minimum Grade C (GP 2.00) in Mathematics and Physics. A-Level: Minimum Grade D in Mathematics and Physics. UEC: Minimum Grade B in at least five (5) subjects, including Mathematics and Physics. Diploma: Recognised Diploma in Engineering/Engineering Technology or equivalent with a minimum CGPA of 2.00. DKM/DLKM/DVM: Minimum CGPA of 2.50. Candidates with CGPA below 2.50 must have at least two (2) years of relevant work experience.* APEL.A Certificate: Possession of an APEL.A certificate from MQA for admission into Bachelor programmes.  Note: DKM/DLKM/DVM candidates may be required to undergo a Bridging Programme as an additional requirement."
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Entry Requirements Applicants must meet one of the following criteria: Foundation/Matriculation: Pass in a related field from a recognised institution. STPM or equivalent: Minimum Grade C (GP 2.00) in Mathematics and Physics. A-Level: Minimum Grade D in Mathematics and Physics. UEC: Minimum Grade B in at least five (5) subjects, including Mathematics and Physics. Diploma: Recognised Diploma in Engineering/Engineering Technology or equivalent with a minimum CGPA of 2.00. DKM/DLKM/DVM: Minimum CGPA of 2.50. Candidates with CGPA below 2.50 must have at least two (2) years of relevant work experience.* APEL.A Certificate: Possession of an APEL.A certificate from MQA for admission into Bachelor programmes.  Note: DKM/DLKM/DVM candidates may be required to undergo a Bridging Programme as an additional requirement."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

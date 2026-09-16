@@ -13,31 +13,16 @@
     "secondary": null
   },
   "fees": {
-    "local": "RM 1,619/semester",
-    "international": "RM 57,350/course",
-    "notes": "Standard public university fees (MQA regulated)",
     "currency": "MYR",
-    "local_total": 35000,
-    "international_total": 105000,
-    "per_year_local": 7000,
-    "per_year_international": 21000
+    "total": 105000,
+    "per_year": 21000,
+    "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "general": "SPM with credits in Bahasa Melayu and Sejarah; STPM/Matriculation/Diploma with CGPA 2.00",
-    "specific": "Pass in Tamhidi USIM (Medicine/Dentistry/Science) with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics",
-    "muet": "Band 3",
-    "malaysian": {
-      "spm": "5 A's including Biology, Chemistry, Physics, and Mathematics",
-      "stpm": "CGPA 3.0 or above including Biology, Chemistry, and Physics",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": {
     "mqa_program_code": null,

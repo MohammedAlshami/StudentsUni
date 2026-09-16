@@ -8,10 +8,10 @@
   "duration": "Approximately 2 years (full-time)",
   "mode": "Full-time Study",
   "fees": {
-    "local": "RM83,600.00",
-    "international": null,
-    "local_total": 83600,
-    "per_year_local": 41800
+    "currency": "MYR",
+    "total": 83600,
+    "per_year": 41800,
+    "notes": ""
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0053405/",
@@ -23,18 +23,8 @@
     "Modular"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "program_name_ar": "ماجستير Clinical Psychology",
   "program_name_zh": "Clinical Psychology硕士",

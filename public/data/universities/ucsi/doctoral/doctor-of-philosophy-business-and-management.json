@@ -12,28 +12,14 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM 45,870 - RM 51,720",
-    "international": "RM 62,868 - RM 70,743",
     "currency": "MYR",
-    "local_total": 183480,
-    "international_total": 62868,
-    "per_year_local": 45870,
-    "per_year_international": 62868,
+    "total": 62868,
+    "per_year": 62868,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Master degree with research experience",
-      "english_requirement": "IELTS 6.5 or TOEFL 95"
-    }
+    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "sources": [

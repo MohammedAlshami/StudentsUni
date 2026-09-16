@@ -12,28 +12,14 @@
     "secondary": "February"
   },
   "fees": {
-    "local": "12600/Course",
-    "international": "16800/Course",
     "currency": "MYR",
-    "local_total": 37800,
-    "international_total": 16800,
-    "per_year_local": 12600,
-    "per_year_international": 16800,
+    "total": 16800,
+    "per_year": 16800,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": {
     "mqa": true,

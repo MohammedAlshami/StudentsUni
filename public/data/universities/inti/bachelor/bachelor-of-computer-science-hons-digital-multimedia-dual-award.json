@@ -14,26 +14,16 @@
     "Jun"
   ],
   "fees": {
-    "local": "Refer to newinti.edu.my",
-    "international": "Refer to newinti.edu.my",
-    "local_total": 32268,
-    "international_total": 44908,
-    "per_year_local": 10756,
+    "currency": "MYR",
+    "total": 44908,
+    "per_year": 10756,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including relevant subjects",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": "KPT/JPS(N/481/6/0261)02/2018",
   "awarding_country": "Malaysia",

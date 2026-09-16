@@ -14,25 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 13700,
-    "international_total": 24850,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)",
-    "per_year_local": 13700
+    "total": 24850,
+    "per_year": 13700,
+    "notes": "From EasyUni (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "SPM: Possess SPM or equivalent with a minimum of 5 credits in any subjects including English. English Competency Requirement: Determination of Malay and English grade requirements at the SPM level for admission to programs under the body professionals are in accordance with the standards/manuals/stipulations of the relevant professional bodies."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "SPM: Possess SPM or equivalent with a minimum of 5 credits in any subjects including English. English Competency Requirement: Determination of Malay and English grade requirements at the SPM level for admission to programs under the body professionals are in accordance with the standards/manuals/stipulations of the relevant professional bodies."
   },
   "accreditation": "MQA",
   "sources": [

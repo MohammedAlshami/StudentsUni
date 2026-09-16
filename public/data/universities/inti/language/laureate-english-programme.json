@@ -16,26 +16,14 @@
     "Oct"
   ],
   "fees": {
-    "local": "Refer to newinti.edu.my",
-    "international": "Refer to newinti.edu.my",
-    "local_total": 2400,
-    "international_total": 15140,
-    "per_year_local": 800,
+    "currency": "MYR",
+    "total": 15140,
+    "per_year": 800,
     "notes": " (per_year based on 3yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

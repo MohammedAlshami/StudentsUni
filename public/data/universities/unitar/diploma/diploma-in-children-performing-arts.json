@@ -13,25 +13,15 @@
     "Sep"
   ],
   "fees": {
-    "local": "21980/Course",
-    "international": "21980/Course",
-    "local_total": 33015,
-    "per_year_local": 9433,
+    "currency": "MYR",
+    "total": 33015,
+    "per_year": 9433,
     "notes": "Estimated total fees (local) for full course duration"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [

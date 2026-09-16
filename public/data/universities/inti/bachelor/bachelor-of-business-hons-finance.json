@@ -14,28 +14,17 @@
     "Jan"
   ],
   "fees": {
-    "local": "Refer to newinti.edu.my",
-    "international": "Refer to newinti.edu.my",
-    "local_total": 25284,
     "currency": "MYR",
-    "international_total": 25285,
-    "per_year_local": 8428,
+    "total": 25285,
+    "per_year": 8428,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Any one of these: STPM : A minimum of two passes at minimum Grade C+ (GP 2.33) and SPM grade C in Mathematics A Level : A minimum of 2 full passes totalling 80 UCAS points and grade C in either SPM or O Level Mathematics Foundation : Successful completion of a relevant Foundation / Pre-U programme to include Mathematics with CGPA 2.50, a credit in Mathematics and a credit in English at SPM / equivalent UEC : 5Bs including at least a pass in Mathematics and a credit in English SACE International : Pass 5 subjects with ATAR 70%, a pass in English and Mathematics and no subject below 50% NSW (HSC) : Minimum 10 units with UAI (ATAR) 70%, a pass in English and Mathematics and no subject below 50% International Baccaulareate (IB) : Minimum 24 points with at least 4 points for SL English and 4 pts for SL Mathematics CPU : Minimum 6 Year 12 passes with an average of 65% and pass in English and Mathematics at Grade 12 Diploma : Successful completion of a relevant Diploma programme to include Mathematics with CGPA 2.50*, a credit in Mathematics and a credit in English at SPM / equivalent Others : Equivalent qualifications to be assessed by the Head of Programme in liaison with the Hertfordshire Business School Admissions Tutor   English Requirements IELTS : Score of 6.0 (with no less than 5.5 in any band) TOEFL : 72 with band scores of reading 18, writing 17, listening 17, speaking 20 Cambridge English First : (also known as First Certificate in English) 169 overall with a minimum of 162 in each component PTE : 59 with no less than 42 in any band MUET : 4.0 SPM : Grade C Note: Credit transfers are given based on module-to-module mapping according to standards/guidelines provided by MOHE / MQA and in consultation with the Admission Tutor in the University of Hertfordshire. Students need to have a recognised English language proficiency result. Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Any one of these: STPM : A minimum of two passes at minimum Grade C+ (GP 2.33) and SPM grade C in Mathematics A Level : A minimum of 2 full passes totalling 80 UCAS points and grade C in either SPM or O Level Mathematics Foundation : Successful completion of a relevant Foundation / Pre-U programme to include Mathematics with CGPA 2.50, a credit in Mathematics and a credit in English at SPM / equivalent UEC : 5Bs including at least a pass in Mathematics and a credit in English SACE International : Pass 5 subjects with ATAR 70%, a pass in English and Mathematics and no subject below 50% NSW (HSC) : Minimum 10 units with UAI (ATAR) 70%, a pass in English and Mathematics and no subject below 50% International Baccaulareate (IB) : Minimum 24 points with at least 4 points for SL English and 4 pts for SL Mathematics CPU : Minimum 6 Year 12 passes with an average of 65% and pass in English and Mathematics at Grade 12 Diploma : Successful completion of a relevant Diploma programme to include Mathematics with CGPA 2.50*, a credit in Mathematics and a credit in English at SPM / equivalent Others : Equivalent qualifications to be assessed by the Head of Programme in liaison with the Hertfordshire Business School Admissions Tutor   English Requirements IELTS : Score of 6.0 (with no less than 5.5 in any band) TOEFL : 72 with band scores of reading 18, writing 17, listening 17, speaking 20 Cambridge English First : (also known as First Certificate in English) 169 overall with a minimum of 162 in each component PTE : 59 with no less than 42 in any band MUET : 4.0 SPM : Grade C Note: Credit transfers are given based on module-to-module mapping according to standards/guidelines provided by MOHE / MQA and in consultation with the Admission Tutor in the University of Hertfordshire. Students need to have a recognised English language proficiency result. Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

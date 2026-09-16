@@ -13,25 +13,15 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 12900,
-    "international_total": 38660,
-    "per_year_local": 2580,
-    "per_year_international": 7740,
+    "total": 38660,
+    "per_year": 7740,
     "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 A's including Biology, Chemistry, Physics, and Mathematics",
-      "stpm": "CGPA 3.0 or above including Biology, Chemistry, and Physics",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": "MQA",
   "faculty": "Fakulti Perubatan dan Kesihatan Pertahanan",

@@ -14,23 +14,14 @@
     "September"
   ],
   "fees": {
-    "local": "RM 8,500",
-    "local_total": 8500,
-    "per_year_local": 4250
+    "currency": "MYR",
+    "total": 8500,
+    "per_year": 4250,
+    "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [

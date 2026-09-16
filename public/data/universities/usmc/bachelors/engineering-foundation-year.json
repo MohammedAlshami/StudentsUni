@@ -8,26 +8,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 26200,
-    "international_total": 31440,
-    "per_year_local": 26200,
-    "per_year_international": null,
+    "total": 31440,
+    "per_year": 26200,
     "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including relevant subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "IGCSE/SPM: BCCCC in 5 subjects: Minimum Grade B in Mathematics Grade C in remaining subjects Excludes: Moral Studies, Religious Studies English Language Requirements IELTS: 5.5 overall (minimum 5.5 in each component) Equivalents: SPM 1119 English: Grade C UEC English: B4"
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "IGCSE/SPM: BCCCC in 5 subjects: Minimum Grade B in Mathematics Grade C in remaining subjects Excludes: Moral Studies, Religious Studies English Language Requirements IELTS: 5.5 overall (minimum 5.5 in each component) Equivalents: SPM 1119 English: Grade C UEC English: B4"
   },
   "accreditation": {
     "mqa_status": null,

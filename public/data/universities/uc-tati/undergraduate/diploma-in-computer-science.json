@@ -13,25 +13,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 30000,
-    "international_total": null,
-    "per_year_local": 10000,
-    "per_year_international": null,
+    "total": 30000,
+    "per_year": 10000,
     "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": "KPT: R3/0613/4/0009 (05/2027) - MQA/FA 15542 - MBOT/FA/IT/0/01/0040",
   "sources": [

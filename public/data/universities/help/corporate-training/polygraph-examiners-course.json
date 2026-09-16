@@ -8,10 +8,10 @@
   "duration": "Four (4) Months (Classes on weekends and weekday evenings)",
   "mode": "Part-time Study",
   "fees": {
-    "local": "RM25,000.00",
-    "international": null,
-    "local_total": 24999,
-    "per_year_local": 8333
+    "currency": "MYR",
+    "total": 24999,
+    "per_year": 8333,
+    "notes": ""
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058744/",
@@ -27,18 +27,8 @@
     "Sep"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits including Mathematics and Science",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "program_name_ar": "Polygraph Examiner's Course",
   "program_name_zh": "Polygraph Examiner's Course",

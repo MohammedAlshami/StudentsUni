@@ -14,25 +14,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 16000,
-    "international_total": null,
-    "per_year_local": 16000,
-    "per_year_international": null,
+    "total": 16000,
+    "per_year": 16000,
     "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "O Levels with minimum 5 credits",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    }
+    "previous_education": "O Levels with minimum 5 credits"
   },
   "accreditation": {
     "mqa_status": "MQA approved",

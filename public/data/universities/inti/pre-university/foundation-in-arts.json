@@ -14,28 +14,15 @@
     "Jan"
   ],
   "fees": {
-    "local": "Refer to website",
-    "international": "Refer to newinti.edu.my",
-    "local_total": 19942,
     "currency": "MYR",
-    "international_total": 19942,
-    "per_year_local": 19942,
+    "total": 19942,
+    "per_year": 19942,
     "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Any one of these: Engineering Pathway SPM / O Level / Equivalent : 5 credits including Mathematics and Physics UEC / Equivalent : 3Bs including Mathematics and Physics Note: Entry to Bachelor of Science (Hons) Quantity Surveying (BQSI) Students are required to obtain a credit in BM and English at SPM or UEC prior to progressing to BQSI. Biological Science/ Bioscience &amp; Pure Science / Other Science Area Pathway *SPM / O Level / Equivalent : 5 credits including Mathematics and two other Pure Science subjects and a pass in Bahasa Malaysia and English *UEC / Equivalent : 3Bs including Mathematics, two other Science subjects and a pass in English *Note: Depending on the final degree choice (Medicine, Dentistry, Pharmacy, Health Science and Allied Health). Please refer to the Head of Programme for further information on the requirements Computer Science &amp; Information Technology Pathway SPM / O Level / Equivalent : 5 credits including Mathematics (Credit in Additional Mathematics /equivalent required for Computer Science) UEC / Equivalent : 3Bs including Additional Mathematics, two Science subjects and a pass in English Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion",
+    "general": "Any one of these: Engineering Pathway SPM / O Level / Equivalent : 5 credits including Mathematics and Physics UEC / Equivalent : 3Bs including Mathematics and Physics Note: Entry to Bachelor of Science (Hons) Quantity Surveying (BQSI) Students are required to obtain a credit in BM and English at SPM or UEC prior to progressing to BQSI. Biological Science/ Bioscience &amp; Pure Science / Other Science Area Pathway *SPM / O Level / Equivalent : 5 credits including Mathematics and two other Pure Science subjects and a pass in Bahasa Malaysia and English *UEC / Equivalent : 3Bs including Mathematics, two other Science subjects and a pass in English *Note: Depending on the final degree choice (Medicine, Dentistry, Pharmacy, Health Science and Allied Health). Please refer to the Head of Programme for further information on the requirements Computer Science &amp; Information Technology Pathway SPM / O Level / Equivalent : 5 credits including Mathematics (Credit in Additional Mathematics /equivalent required for Computer Science) UEC / Equivalent : 3Bs including Additional Mathematics, two Science subjects and a pass in English Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
   },
   "accreditation": "Internal Qualification, Malaysia",
   "awarding_country": "Malaysia",

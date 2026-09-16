@@ -13,28 +13,16 @@
     "Jan"
   ],
   "fees": {
-    "local": "18980/Course",
-    "international": "18980/Course",
-    "local_total": 8400,
     "currency": "MYR",
-    "international_total": 13706,
-    "per_year_local": 3360,
+    "total": 13706,
+    "per_year": 3360,
     "notes": " (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Pass SPM / SPMV / O-Level with credit in at least 3 subjects; OR Pass Sijil Kemahiran Malaysia (SKM) (Level 3 MQF) in relevant field subject to Senate approval and MUST attend bridging courses; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM), with a minimum of Grade C (GP 2.0) in any subject ; OR Any qualifications equivalent to Certificate (Level 3, MQF) in the related field with at least CGPA of 2.00; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul; OR Any other qualifications that recognized by the Malaysian government Language Requirements International Students Minimum score of 5.0 for IELTS OR its equivalent."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Pass SPM / SPMV / O-Level with credit in at least 3 subjects; OR Pass Sijil Kemahiran Malaysia (SKM) (Level 3 MQF) in relevant field subject to Senate approval and MUST attend bridging courses; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM), with a minimum of Grade C (GP 2.0) in any subject ; OR Any qualifications equivalent to Certificate (Level 3, MQF) in the related field with at least CGPA of 2.00; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul; OR Any other qualifications that recognized by the Malaysian government Language Requirements International Students Minimum score of 5.0 for IELTS OR its equivalent."
   },
   "accreditation": null,
   "sources": [

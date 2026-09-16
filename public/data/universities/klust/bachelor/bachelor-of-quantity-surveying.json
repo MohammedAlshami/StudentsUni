@@ -12,26 +12,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 60885,
-    "international_total": 65190,
-    "per_year_local": 20295,
-    "per_year_international": null,
+    "total": 65190,
+    "per_year": 20295,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: STPM / GCE &#39;A&#39; Level : Minimum 3 principal passes UEC: Grade B in 5 subjects, including Mathematics SAM / AUSMAT / HSC: An average score of 60% Diploma in Quantity Surveying, Architecture, Landscape Architecture, or equivalent: Minimum CGPA of 2.67 Diploma from a recognised institution: Minimum CGPA of 2.00 Matriculation / Foundation from a recognised instituiton: Minimum CGPA of 2.50 Other equivalent qualifications: Recognised by the Malaysian Government ENGLISH LANGUAGE REQUIREMENT: IELTS - 5.0 TOEFL (PBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
+    "general": "Any one of these: STPM / GCE &#39;A&#39; Level : Minimum 3 principal passes UEC: Grade B in 5 subjects, including Mathematics SAM / AUSMAT / HSC: An average score of 60% Diploma in Quantity Surveying, Architecture, Landscape Architecture, or equivalent: Minimum CGPA of 2.67 Diploma from a recognised institution: Minimum CGPA of 2.00 Matriculation / Foundation from a recognised instituiton: Minimum CGPA of 2.50 Other equivalent qualifications: Recognised by the Malaysian Government ENGLISH LANGUAGE REQUIREMENT: IELTS - 5.0 TOEFL (PBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
   },
   "accreditation": {
     "mqa_status": null,

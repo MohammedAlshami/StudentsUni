@@ -10,27 +10,16 @@
     "Sep"
   ],
   "fees": {
-    "local": "RM36,000/Yr",
-    "international": "RM42,000/Yr",
-    "local_total": 42000,
     "currency": "MYR",
-    "international_total": 50000,
-    "per_year_local": 14000,
+    "total": 50000,
+    "per_year": 14000,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Any relevant subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": null,
   "sources": [

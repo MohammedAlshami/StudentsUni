@@ -13,25 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 6400,
-    "international_total": 8116,
-    "notes": "From EasyUni (per_year based on 2.5yr duration)",
-    "per_year_local": 2560
+    "total": 8116,
+    "per_year": 2560,
+    "notes": "From EasyUni (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "SPM or IGCSE O-Level or equivalent with at least 3 subjects with grade &#34;C&#34; or above Note: Any changes to the MQA Program Standard/Professional Body Requirements/Recommendations will apply to new cohort students only. Implementation of the eligibility requirements in accordance with the MQA Professional Program/Professional Body Requirements/Recommendations is applicable in accordance with the provisions set forth in the Malaysian Qualifications Agency circular (MQA) when enforcing the application of a MQA Professional Program or Professional Body Requirements. English Proficiency Requirements (International Students):  IELTS: 5.0 or its equivalent If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the program."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "SPM or IGCSE O-Level or equivalent with at least 3 subjects with grade &#34;C&#34; or above Note: Any changes to the MQA Program Standard/Professional Body Requirements/Recommendations will apply to new cohort students only. Implementation of the eligibility requirements in accordance with the MQA Professional Program/Professional Body Requirements/Recommendations is applicable in accordance with the provisions set forth in the Malaysian Qualifications Agency circular (MQA) when enforcing the application of a MQA Professional Program or Professional Body Requirements. English Proficiency Requirements (International Students):  IELTS: 5.0 or its equivalent If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the program."
   },
   "accreditation": null,
   "sources": [

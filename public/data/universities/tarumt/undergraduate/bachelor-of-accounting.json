@@ -12,28 +12,17 @@
     "Nov"
   ],
   "fees": {
-    "local": "RM45,100.00",
-    "international": "RM88,000.00",
-    "local_total": 10324,
     "currency": "MYR",
-    "international_total": 16675,
-    "per_year_local": 2581,
-    "per_year_international": 4169
+    "total": 16675,
+    "per_year": 4169,
+    "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including Mathematics",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "(1) STPM - Minimum Grade C+ in 2 relevant subjects (2) A Level - Minimum Grade D in 2 relevant subjects (3) UEC - Grade B in 5 relevant subjects (4) Other IHL - Relevant Foundation (with minimum CGPA 2.5000)/ Diploma (with minimum CGPA 2.5000) accredited by MQA (5) TAR UC - Foundation in Accounting with minimum CGPA 2.5000 OR Relevant Diploma with minimum CGPA 2.5000 Compulsory subjects: (1), (2), (3) and (4) must include - i) SPM Credit/ O Level Grade C in Mathematics/ UEC Grade B in one mathematics subject ii) SPM Pass/ O Level Grade E (Pass)/ UEC Grade C in English Language (1) - (5) must include MUET Band 2 or replaced with IELTS Band Score 4.0 or Equivalent***  *** Exempted for students whose programme full medium of instruction was in English. Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree. b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "(1) STPM - Minimum Grade C+ in 2 relevant subjects (2) A Level - Minimum Grade D in 2 relevant subjects (3) UEC - Grade B in 5 relevant subjects (4) Other IHL - Relevant Foundation (with minimum CGPA 2.5000)/ Diploma (with minimum CGPA 2.5000) accredited by MQA (5) TAR UC - Foundation in Accounting with minimum CGPA 2.5000 OR Relevant Diploma with minimum CGPA 2.5000 Compulsory subjects: (1), (2), (3) and (4) must include - i) SPM Credit/ O Level Grade C in Mathematics/ UEC Grade B in one mathematics subject ii) SPM Pass/ O Level Grade E (Pass)/ UEC Grade C in English Language (1) - (5) must include MUET Band 2 or replaced with IELTS Band Score 4.0 or Equivalent***  *** Exempted for students whose programme full medium of instruction was in English. Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree. b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
   },
   "accreditation": "MQA",
   "sources": [

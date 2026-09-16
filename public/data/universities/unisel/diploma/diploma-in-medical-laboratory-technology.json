@@ -13,25 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12072,
-    "international_total": 18802,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)",
-    "per_year_local": 4024
+    "total": 18802,
+    "per_year": 4024,
+    "notes": "From EasyUni (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Passed SPM or equivalent with PASS in Bahasa Malaysia and English and 5 credits in the following subjects: Mathematics ONE science subject (Biology/Physics/Chemistry/General Science/Applied Science) Any other THREE subjects (including Bahasa Malaysia and/or English) OR ii) GCE/O Level or equivalent with PASS in Bahasa Malaysia or English and 5 Grade C in the following subjects: Mathematics ONE science subject (Biology/Physics/Chemistry/General Science/Applied Science) Any other THREE subjects (including Bahasa Malaysia and/or English) OR iii) Certificate related to Health Sciences with minimum CGPA 2.75"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Passed SPM or equivalent with PASS in Bahasa Malaysia and English and 5 credits in the following subjects: Mathematics ONE science subject (Biology/Physics/Chemistry/General Science/Applied Science) Any other THREE subjects (including Bahasa Malaysia and/or English) OR ii) GCE/O Level or equivalent with PASS in Bahasa Malaysia or English and 5 Grade C in the following subjects: Mathematics ONE science subject (Biology/Physics/Chemistry/General Science/Applied Science) Any other THREE subjects (including Bahasa Malaysia and/or English) OR iii) Certificate related to Health Sciences with minimum CGPA 2.75"
   },
   "accreditation": null,
   "sources": [

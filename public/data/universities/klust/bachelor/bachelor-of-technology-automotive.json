@@ -12,26 +12,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 60600,
-    "international_total": 64800,
-    "per_year_local": 20200,
-    "per_year_international": null,
+    "total": 64800,
+    "per_year": 20200,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: STPM: Minimum 2 Principal Passes. A-Level: Minimum 2 Principal Passes. UEC: Minimum 5 Bs (including Mathematics). Diploma / HND: Minimum CGPA of 2.00. Foundation / Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average of 60% or higher in 5 subjects (including Mathematics). CPU / CIMP: Average of 55% or higher in 6 subjects (including Mathematics). IB: 26 points or higher based on 6 subjects. IVQ Technician Diploma: Level 3 in Motor Vehicle Maintenance. DVM: Minimum CGPA of 2.50 (Required to take Remedial Courses during the first semester). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. ENGLISH LANGUAGE REQUIREMENT: IELTS - 5 TOEFL (PBT) - 500 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
+    "general": "Any one of these: STPM: Minimum 2 Principal Passes. A-Level: Minimum 2 Principal Passes. UEC: Minimum 5 Bs (including Mathematics). Diploma / HND: Minimum CGPA of 2.00. Foundation / Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average of 60% or higher in 5 subjects (including Mathematics). CPU / CIMP: Average of 55% or higher in 6 subjects (including Mathematics). IB: 26 points or higher based on 6 subjects. IVQ Technician Diploma: Level 3 in Motor Vehicle Maintenance. DVM: Minimum CGPA of 2.50 (Required to take Remedial Courses during the first semester). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. ENGLISH LANGUAGE REQUIREMENT: IELTS - 5 TOEFL (PBT) - 500 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
   },
   "accreditation": {
     "mqa_status": null,

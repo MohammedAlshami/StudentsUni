@@ -12,28 +12,15 @@
     "secondary": null
   },
   "fees": {
-    "local": "450/Sem",
-    "international": null,
     "currency": "MYR",
-    "local_total": 2700,
-    "international_total": null,
-    "per_year_local": 900,
-    "per_year_international": null,
+    "total": 2700,
+    "per_year": 900,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion"
   },
   "accreditation": {
     "mqa": true,

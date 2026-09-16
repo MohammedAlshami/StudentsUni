@@ -13,26 +13,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 35100,
-    "international_total": 36200,
-    "per_year_local": 11700,
-    "per_year_international": null,
+    "total": 36200,
+    "per_year": 11700,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "SPM: Pass with 3 credits including 1 science subject (Biology/Physics/Chemistry/General Science [Sains Am]) and 2 other subjects *Candidates who wish to further their studies to BPharm must obtain min. 5 B’s in Biology &amp; Chemistry &amp; Physics &amp; Mathematics/Additional Mathematics &amp; 1 other subject at SPM level/equivalent O - Levels: Pass with min. Grade C in 3 subjects SKM: Pass Tahap 3 &amp; Pass SPM with minimum 1 credit Certificate in Science/Allied Science (with full accreditation): Pass with minimum CGPA 2.00 UEC Senior Middle Three (SM3): Grade B in 3 subjects including 1 science subject"
+    "general": "SPM: Pass with 3 credits including 1 science subject (Biology/Physics/Chemistry/General Science [Sains Am]) and 2 other subjects *Candidates who wish to further their studies to BPharm must obtain min. 5 B’s in Biology &amp; Chemistry &amp; Physics &amp; Mathematics/Additional Mathematics &amp; 1 other subject at SPM level/equivalent O - Levels: Pass with min. Grade C in 3 subjects SKM: Pass Tahap 3 &amp; Pass SPM with minimum 1 credit Certificate in Science/Allied Science (with full accreditation): Pass with minimum CGPA 2.00 UEC Senior Middle Three (SM3): Grade B in 3 subjects including 1 science subject"
   },
   "accreditation": {
     "mqa_status": null,

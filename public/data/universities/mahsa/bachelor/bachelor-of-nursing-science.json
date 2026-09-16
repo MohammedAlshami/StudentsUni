@@ -9,26 +9,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 78897,
-    "international_total": 83300,
-    "per_year_local": 22542,
-    "per_year_international": null,
+    "total": 83300,
+    "per_year": 22542,
     "notes": " (per_year based on 3.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: Pass Matriculation/Pre-University/STPM or equivalent with minimum GPA 2.33 in TWO of the following subjects: Biology, Physics/Mathematics &amp; Chemistry Pass A-level or equivalent with minimum Grade D in TWO of the following subjects; Biology, Physics/Mathematics &amp; Chemistry Pass Diploma (Level 4 MQF) with minimum CGPA of 2.75 in related field Pass Diploma (Level 4 MQF) with CGPA less than 2.75 in related field and a minimum of 3 years working experience in the related field Other recognized qualification of equivalence English Proficiency Requirements: Local Students: MUET Band 3/IELTS (5.5)/TOEFL (550) International students: TOEFL (550)/IELTS (5.5) or equivalent"
+    "general": "Any one of these: Pass Matriculation/Pre-University/STPM or equivalent with minimum GPA 2.33 in TWO of the following subjects: Biology, Physics/Mathematics &amp; Chemistry Pass A-level or equivalent with minimum Grade D in TWO of the following subjects; Biology, Physics/Mathematics &amp; Chemistry Pass Diploma (Level 4 MQF) with minimum CGPA of 2.75 in related field Pass Diploma (Level 4 MQF) with CGPA less than 2.75 in related field and a minimum of 3 years working experience in the related field Other recognized qualification of equivalence English Proficiency Requirements: Local Students: MUET Band 3/IELTS (5.5)/TOEFL (550) International students: TOEFL (550)/IELTS (5.5) or equivalent"
   },
   "accreditation": {
     "mqa_status": null,

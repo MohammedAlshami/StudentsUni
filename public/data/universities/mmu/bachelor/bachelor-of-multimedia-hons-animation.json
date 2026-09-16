@@ -13,26 +13,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 62250,
-    "international_total": 77250,
-    "per_year_local": 20750,
-    "per_year_international": 25750,
+    "total": 77250,
+    "per_year": 25750,
     "notes": "Total programme fee"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including relevant subjects",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Entry Requirements Pass Foundation/Matriculation studies in related field from a recognised institution; OR Pass STPM or its equivalent with a minimum of Grade C (GPA 2.00) in any two (2) subjects; OR Pass A-Level with a minimum of Grade D in any two (2) subjects; OR Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of English; OR Recognised Creative Multimedia Diploma or its equivalent with a minimum CGPA of 2.50; * OR Pass DKM/DLKM/DVM with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 MUST have at least two (2) years of work experience in the related field. ** OR Possess an APEL.A certificate from MQA for admission into Bachelor programmes.  Pass an interview OR submission of student’s portfolio, to be determined by MMU as required. Candidates with CGPA below 2.50 may be admitted subject to a rigorous internal assessment process. DKM/DLKM/DVM candidates may be required to undergo Bridging Programme as an additional requirement."
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Entry Requirements Pass Foundation/Matriculation studies in related field from a recognised institution; OR Pass STPM or its equivalent with a minimum of Grade C (GPA 2.00) in any two (2) subjects; OR Pass A-Level with a minimum of Grade D in any two (2) subjects; OR Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of English; OR Recognised Creative Multimedia Diploma or its equivalent with a minimum CGPA of 2.50; * OR Pass DKM/DLKM/DVM with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 MUST have at least two (2) years of work experience in the related field. ** OR Possess an APEL.A certificate from MQA for admission into Bachelor programmes.  Pass an interview OR submission of student’s portfolio, to be determined by MMU as required. Candidates with CGPA below 2.50 may be admitted subject to a rigorous internal assessment process. DKM/DLKM/DVM candidates may be required to undergo Bridging Programme as an additional requirement."
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

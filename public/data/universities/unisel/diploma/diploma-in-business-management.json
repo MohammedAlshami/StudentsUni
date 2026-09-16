@@ -13,25 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 7800,
-    "international_total": 15146,
-    "notes": "From EasyUni (per_year based on 2.5yr duration)",
-    "per_year_local": 3120
+    "total": 15146,
+    "per_year": 3120,
+    "notes": "From EasyUni (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "The programme is accessible to a wide range of applicants, with various pathways for admission: Pass Malaysian Certificate of Education (Sijil Pelajaran Malaysia – SPM) with at least credit in THREE subjects; OR Possesses SKM Level 3 in the related field; OR A Certificate (Level 3, MQF) in the related field with at least a CGPA of 2.00; OR A pass in Malaysian Higher School Certificate (Sijil Tinggi Pelajaran Malaysia- STPM) with at least grade C (GP 2.0) in any subject; OR A pass in Malaysian Higher Religious Certificate (Sijil Tinggi Agama Malaysia – STAM) with at least a Maqbul Grade; OR Other equivalent qualifications recognised by the Malaysian Government International students Pass IGCSE O-level or equivalent with at least grade &#34;C&#34; in THREE subjects"
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "The programme is accessible to a wide range of applicants, with various pathways for admission: Pass Malaysian Certificate of Education (Sijil Pelajaran Malaysia – SPM) with at least credit in THREE subjects; OR Possesses SKM Level 3 in the related field; OR A Certificate (Level 3, MQF) in the related field with at least a CGPA of 2.00; OR A pass in Malaysian Higher School Certificate (Sijil Tinggi Pelajaran Malaysia- STPM) with at least grade C (GP 2.0) in any subject; OR A pass in Malaysian Higher Religious Certificate (Sijil Tinggi Agama Malaysia – STAM) with at least a Maqbul Grade; OR Other equivalent qualifications recognised by the Malaysian Government International students Pass IGCSE O-level or equivalent with at least grade &#34;C&#34; in THREE subjects"
   },
   "accreditation": null,
   "sources": [

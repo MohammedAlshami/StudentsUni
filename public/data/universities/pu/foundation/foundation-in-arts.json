@@ -13,24 +13,13 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 6600,
-    "international_total": 14840,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)",
-    "per_year_local": 6600
+    "total": 14840,
+    "per_year": 6600,
+    "notes": "From EasyUni (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits including relevant subjects",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    }
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [

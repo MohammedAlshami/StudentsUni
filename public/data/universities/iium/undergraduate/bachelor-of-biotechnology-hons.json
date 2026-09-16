@@ -12,25 +12,15 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 7200,
-    "international_total": 21600,
-    "per_year_local": 1800,
-    "per_year_international": 5400,
+    "total": 21600,
+    "per_year": 5400,
     "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "Credit in Mathematics, Chemistry, Biology, Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Diploma in related area with CGPA 2.5 or above"
-    },
-    "international": {
-      "a_level": "3 principal passes",
-      "ib": "Minimum 6 subjects",
-      "other_qualifications": "Qualifications recognized by IIUM Senate",
-      "english_requirement": "IELTS 6.0 / TOEFL 550 paper-based / IIUM EPT"
-    }
+    "english_requirement": "IELTS 6.0 / TOEFL 550 paper-based / IIUM EPT",
+    "a_level": "3 principal passes",
+    "ib": "Minimum 6 subjects",
+    "other_qualifications": "Qualifications recognized by IIUM Senate"
   },
   "accreditation": {
     "mqa_status": "Accredited",

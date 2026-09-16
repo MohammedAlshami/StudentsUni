@@ -13,26 +13,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 63420,
-    "international_total": 78600,
-    "per_year_local": 21140,
-    "per_year_international": 26200,
+    "total": 78600,
+    "per_year": 26200,
     "notes": "Total programme fee"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    },
-    "general_text": "Entry Requirements A pass in Matriculation/Foundation qualification or its equivalent with a minimum CGPA of 2.50; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent, with a minimum of Grade C+ (GP 2.33) in two subjects; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Jayyid (good); OR Pass A-Level with a minimum of Grade D in 2 subjects; OR A pass in Diploma (Level 4, MQF) with a minimum CGPA of 2.50; OR Diploma in Accounting fields (Level 4, MQF) or equivalent with a minimum CGPA of 2.50. Candidates with a CGPA below 2.50 but above 2.00 may be admitted subject to a thorough assessment; OR Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in Accounting fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval*; OR Diploma Lanjutan Kemahiran Malaysia (DLKM) in Accounting fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval*; OR Possess an Advanced Diploma (Level 5, MQF) in accounting or related field with at least a CGPA of 2.50; OR Other relevant and equivalent qualifications recognised by the Malaysian Government; OR Pass UEC with a minimum of Grade B in at least five (5) subjects, including Mathematics and English; OR Possess an APEL.A certificate from MQA for admission into Bachelor programmes. For more information, visit MMU APEL. Additional Requirements: i. Credit in Mathematics at SPM level or its equivalent. ii. Pass in English at SPM Level or a minimum score of band 3 in MUET or equivalent, OR for international students, achieve a minimum of Band 3.5 in MUET or equivalent to CEFR (High B1). Notes: Candidates without credit in Mathematics at SPM level need to take and pass an enhancement Mathematics subject equivalent to the SPM level, which must be taken in the first semester or before enrollment with an unconditional offer. Candidates without a pass in English at the SPM level or equivalent can be admitted but must attend and pass special English enhancement courses before proceeding to core courses taught in English. Enhancement Mathematics and English can contribute to the overall graduating credit. Matriculation/Foundation students or equivalent may be exempt from taking enhancement Mathematics and English if their qualifications are equivalent or higher than those offered at the SPM level. A credit in Mathematics and a pass in English at the SPM level or equivalent can be waived if higher qualifications contain equivalent or higher achievements in these subjects. *DKM/DLKM/DVM candidates may need to undergo a Bridging Programme. **Malaysian students using English as the medium of instruction in their previous studies may be exempted from the English requirement"
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification",
+    "general": "Entry Requirements A pass in Matriculation/Foundation qualification or its equivalent with a minimum CGPA of 2.50; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent, with a minimum of Grade C+ (GP 2.33) in two subjects; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Jayyid (good); OR Pass A-Level with a minimum of Grade D in 2 subjects; OR A pass in Diploma (Level 4, MQF) with a minimum CGPA of 2.50; OR Diploma in Accounting fields (Level 4, MQF) or equivalent with a minimum CGPA of 2.50. Candidates with a CGPA below 2.50 but above 2.00 may be admitted subject to a thorough assessment; OR Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in Accounting fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval*; OR Diploma Lanjutan Kemahiran Malaysia (DLKM) in Accounting fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval*; OR Possess an Advanced Diploma (Level 5, MQF) in accounting or related field with at least a CGPA of 2.50; OR Other relevant and equivalent qualifications recognised by the Malaysian Government; OR Pass UEC with a minimum of Grade B in at least five (5) subjects, including Mathematics and English; OR Possess an APEL.A certificate from MQA for admission into Bachelor programmes. For more information, visit MMU APEL. Additional Requirements: i. Credit in Mathematics at SPM level or its equivalent. ii. Pass in English at SPM Level or a minimum score of band 3 in MUET or equivalent, OR for international students, achieve a minimum of Band 3.5 in MUET or equivalent to CEFR (High B1). Notes: Candidates without credit in Mathematics at SPM level need to take and pass an enhancement Mathematics subject equivalent to the SPM level, which must be taken in the first semester or before enrollment with an unconditional offer. Candidates without a pass in English at the SPM level or equivalent can be admitted but must attend and pass special English enhancement courses before proceeding to core courses taught in English. Enhancement Mathematics and English can contribute to the overall graduating credit. Matriculation/Foundation students or equivalent may be exempt from taking enhancement Mathematics and English if their qualifications are equivalent or higher than those offered at the SPM level. A credit in Mathematics and a pass in English at the SPM level or equivalent can be waived if higher qualifications contain equivalent or higher achievements in these subjects. *DKM/DLKM/DVM candidates may need to undergo a Bridging Programme. **Malaysian students using English as the medium of instruction in their previous studies may be exempted from the English requirement"
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

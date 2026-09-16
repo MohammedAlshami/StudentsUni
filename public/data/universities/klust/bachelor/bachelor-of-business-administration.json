@@ -15,24 +15,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 15420,
-    "international_total": 20620,
-    "notes": "From EasyUni (per_year based on 2.0yr duration)",
-    "per_year_local": 7710
+    "total": 20620,
+    "per_year": 7710,
+    "notes": "From EasyUni (per_year based on 2.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 Credits (C+) including Mathematics",
-      "stpm": "2 Principals (C+) in relevant subjects",
-      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+) including relevant subjects",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent pre-university qualification",
-      "english_requirement": "IELTS 6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+) including relevant subjects",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": "MQA",
   "sources": [

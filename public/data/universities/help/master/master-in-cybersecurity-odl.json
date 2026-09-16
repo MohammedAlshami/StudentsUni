@@ -8,10 +8,10 @@
   "duration": "Minimum 1 year (full-time), minimum 2 years (part-time)",
   "mode": "Open and Distance Learning (ODL)",
   "fees": {
-    "local": "RM20,000.00",
-    "international": null,
-    "local_total": 20000,
-    "per_year_local": 20000
+    "currency": "MYR",
+    "total": 20000,
+    "per_year": 20000,
+    "notes": ""
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0059086/",
@@ -23,18 +23,8 @@
     "Modular"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "program_name_ar": "ماجستير Cybersecurity (Open & Distance Learning – ODL)",
   "program_name_zh": "Cybersecurity (Open & Distance Learning – ODL)硕士",

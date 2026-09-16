@@ -15,28 +15,16 @@
     "Jan"
   ],
   "fees": {
-    "local": "19280/Course",
-    "international": "19280/Course",
-    "local_total": 24825,
     "currency": "MYR",
-    "international_total": 18600,
-    "per_year_local": 8275,
+    "total": 18600,
+    "per_year": 8275,
     "notes": "Estimated total fees (local) for full course duration"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Possess Sijil Pelajaran Malaysia (SPM) with minimum five credits including Mathematics or Additional Mathematics AND ONE (1) of Science, Technology or Engineering subject; or Pass Unified Examination Certificate (UEC) with a minimum Grade B in three subjects including Mathematics or Additional Mathematics AND ONE (1) of Science, Technology or Engineering subject; or Pass O-Level with a minimum of Grade C including Mathematics or Additional Mathematics AND ONE (1) of Science, Technology or Engineering subject; or Any other equivalent qualifications recognised by the Malaysian Government."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Possess Sijil Pelajaran Malaysia (SPM) with minimum five credits including Mathematics or Additional Mathematics AND ONE (1) of Science, Technology or Engineering subject; or Pass Unified Examination Certificate (UEC) with a minimum Grade B in three subjects including Mathematics or Additional Mathematics AND ONE (1) of Science, Technology or Engineering subject; or Pass O-Level with a minimum of Grade C including Mathematics or Additional Mathematics AND ONE (1) of Science, Technology or Engineering subject; or Any other equivalent qualifications recognised by the Malaysian Government."
   },
   "accreditation": null,
   "sources": [

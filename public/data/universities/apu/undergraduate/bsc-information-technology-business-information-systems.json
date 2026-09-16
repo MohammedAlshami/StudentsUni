@@ -13,27 +13,17 @@
     "Jun"
   ],
   "fees": {
-    "local": "RM104,600.00",
-    "international": "RM108,500.00",
-    "local_total": 102198,
-    "international_total": 104600,
-    "per_year_local": 34066,
+    "currency": "MYR",
+    "total": 104600,
+    "per_year": 34066,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3-5 Credits (C) including relevant subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "general_text": "Direct Entry to Level 1 of the Degree STPM 2 Passes in STPM with minimum Grade C (GP 2.0) in any subject with a Credit in Mathematics at SPM. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. A-LEVEL 2 Passes in A-Level and with a Credit in Mathematics at SPM/O-Level/IGCSE or equivalent. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. UEC 5 Grade B Passes in UEC in any subjects including Mathematics. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. Foundation/Matriculation A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 with a Credit in Mathematics at SPM/IGCSE/O-Level or its equivalent. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. Other Diplomas Diploma in Science, Technology or Business studies with a minimum CGPA of 2.50 and with Credit in Mathematics at SPM/IGCSE or its equivalent, can be admitted subject to rigorous assessment conducted by APU. Note: Credit transfer of modules into a Bachelor’s Degree may apply based on the fulfilment of credit transfer requirements. Direct Entry to Level 2 of the Degree ICT Related Diplomas Diploma in Computing related areas with a minimum CGPA of 2.50 and fulfilment of requirements for Credit Transfer is subject to approval by the APU Academic Board. Note: Student with CGPA above 2.0 and below 2.5 may be accepted using rigorous assessment conducted by APU and subject to the approval of the Academic Board. A qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the &#34;Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent)&#34; published by Malaysian Qualifications Agency (MQA). English Requirements International Students IELTS: 5.0 TOEFL IBT: 40 Pearson (PTE): 47 MUET: Band 3.5"
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification",
+    "general": "Direct Entry to Level 1 of the Degree STPM 2 Passes in STPM with minimum Grade C (GP 2.0) in any subject with a Credit in Mathematics at SPM. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. A-LEVEL 2 Passes in A-Level and with a Credit in Mathematics at SPM/O-Level/IGCSE or equivalent. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. UEC 5 Grade B Passes in UEC in any subjects including Mathematics. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. Foundation/Matriculation A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 with a Credit in Mathematics at SPM/IGCSE/O-Level or its equivalent. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. Other Diplomas Diploma in Science, Technology or Business studies with a minimum CGPA of 2.50 and with Credit in Mathematics at SPM/IGCSE or its equivalent, can be admitted subject to rigorous assessment conducted by APU. Note: Credit transfer of modules into a Bachelor’s Degree may apply based on the fulfilment of credit transfer requirements. Direct Entry to Level 2 of the Degree ICT Related Diplomas Diploma in Computing related areas with a minimum CGPA of 2.50 and fulfilment of requirements for Credit Transfer is subject to approval by the APU Academic Board. Note: Student with CGPA above 2.0 and below 2.5 may be accepted using rigorous assessment conducted by APU and subject to the approval of the Academic Board. A qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the &#34;Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent)&#34; published by Malaysian Qualifications Agency (MQA). English Requirements International Students IELTS: 5.0 TOEFL IBT: 40 Pearson (PTE): 47 MUET: Band 3.5"
   },
   "accreditation": "MQA",
   "sources": [

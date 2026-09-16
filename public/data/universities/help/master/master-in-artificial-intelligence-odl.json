@@ -9,10 +9,8 @@
   "mode": "Open and Distance Learning (ODL)",
   "fees": {
     "currency": "MYR",
-    "local_total": 45000,
-    "international_total": null,
-    "per_year_local": 45000,
-    "per_year_international": null,
+    "total": 45000,
+    "per_year": 45000,
     "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
   "sources": [
@@ -25,18 +23,8 @@
     "Modular"
   ],
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "program_name_ar": "ماجستير Artificial Intelligence (Open & Distance Learning – ODL)",
   "program_name_zh": "Artificial Intelligence (Open & Distance Learning – ODL)硕士",

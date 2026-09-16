@@ -13,25 +13,15 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 21000,
-    "international_total": 84000,
-    "per_year_local": 7000,
-    "per_year_international": 21000,
+    "total": 84000,
+    "per_year": 21000,
     "notes": "Standard public university fees (MQA regulated)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "5 A's including Biology, Chemistry, Physics, and Mathematics",
-      "stpm": "CGPA 3.0 or above including Biology, Chemistry, and Physics",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    },
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    }
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",

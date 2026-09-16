@@ -13,37 +13,16 @@
     "September"
   ],
   "fees": {
-    "local": {
-      "tuition": "RM75,000",
-      "registration": "RM1,348",
-      "medical_insurance": "RM88/year",
-      "accommodation_deposit": "RM250"
-    },
-    "international": {
-      "tuition": "USD19,500 (RM78,000)",
-      "visa_application": "USD787.50 (RM3,150)",
-      "registration": "USD1,650 (RM6,600)",
-      "medical_insurance": null
-    },
     "currency": "MYR",
-    "local_total": 75000,
-    "per_year_local": 25000,
+    "total": 75000,
+    "per_year": 25000,
     "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "local": "STPM / A-Level / equivalent with minimum CGPA in relevant subjects, or UNITEN Foundation",
-    "international": {
-      "a_level": "2 Principals (C+)",
-      "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
-    },
-    "malaysian": {
-      "spm": "3-5 Credits (C) including relevant subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
-    }
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
   },
   "accreditation": {
     "mqa_code": null,

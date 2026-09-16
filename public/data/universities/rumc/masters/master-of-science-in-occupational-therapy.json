@@ -11,24 +11,14 @@
     "2025/2026"
   ],
   "fees": {
-    "local": "RM 28,000",
-    "international": "RM 35,000",
-    "local_total": 28000,
-    "per_year_local": 14000
+    "currency": "MYR",
+    "total": 28000,
+    "per_year": 14000,
+    "notes": ""
   },
   "requirements": {
-    "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
-    },
-    "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
-    }
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": "N/0915/7/0009 (MOA/PA 18398) (06/30)",
   "sources": [

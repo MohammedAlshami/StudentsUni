@@ -13,12 +13,9 @@
     "Mar"
   ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University",
-    "local_total": 29300,
     "currency": "MYR",
-    "international_total": 18000,
-    "per_year_local": 29300,
+    "total": 18000,
+    "per_year": 29300,
     "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": null,

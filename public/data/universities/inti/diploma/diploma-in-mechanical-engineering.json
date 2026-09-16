@@ -14,28 +14,16 @@
     "Jan"
   ],
   "fees": {
-    "local": "Enquire for fees",
-    "international": "Enquire for fees",
-    "local_total": 17047,
     "currency": "MYR",
-    "international_total": 17049,
-    "per_year_local": 6819,
+    "total": 17049,
+    "per_year": 6819,
     "notes": " (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "malaysian": {
-      "spm": "3 Credits (C) including Mathematics and Physics",
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
-    },
-    "international": {
-      "a_level": "1 Principal",
-      "ib": null,
-      "other_qualifications": "High school completion",
-      "english_requirement": "IELTS 5.0 or TOEFL 60"
-    },
-    "general_text": "Entry Level and Requirements SPM / O-Level : Pass SPM and minimum three (3) subjects Grade C including Math and one natural science subject (Physics / Chemistry / Biology / General Science) and a pass in English UEC : minimum three (3) subjects Grade B including Math and one natural science subject (Physics / Chemistry / Biology / General Science) and a pass in English STPM or its equivalent : Pass STPM or its equivalent and pass Math, English, and one (1) natural science subject (Physics / Chemistry / Biology) Matriculation: In Technical or Science Stream Others : Recognised related Technical / Vocational / Skills qualification and an adequate and relevant bridging programme Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
+    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "a_level": "1 Principal",
+    "other_qualifications": "High school completion",
+    "general": "Entry Level and Requirements SPM / O-Level : Pass SPM and minimum three (3) subjects Grade C including Math and one natural science subject (Physics / Chemistry / Biology / General Science) and a pass in English UEC : minimum three (3) subjects Grade B including Math and one natural science subject (Physics / Chemistry / Biology / General Science) and a pass in English STPM or its equivalent : Pass STPM or its equivalent and pass Math, English, and one (1) natural science subject (Physics / Chemistry / Biology) Matriculation: In Technical or Science Stream Others : Recognised related Technical / Vocational / Skills qualification and an adequate and relevant bridging programme Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
   },
   "accreditation": null,
   "awarding_country": "Malaysia",

@@ -14,12 +14,9 @@
     "Jun"
   ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University",
-    "local_total": 19850,
     "currency": "MYR",
-    "international_total": 17150,
-    "per_year_local": 9925,
+    "total": 17150,
+    "per_year": 9925,
     "notes": "Estimated total fees (local) for full course duration"
   },
   "requirements": null,
