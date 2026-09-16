@@ -6,27 +6,29 @@
   "field": "Health Sciences",
   "duration": "2 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 6500,
     "international_total": 11800,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.0yr duration)",
+    "per_year_local": 3250
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Applicants are required to have obtained: PhD in Medical and Health Sciences A Master’s Degree accepted by the University’s Senate; or; Other qualifications equivalent to a Master’s degree that are accepted by the University’s Senate. Note: A bachelor’s degree in the field or related fields with first-class (CGPA of 3.67 or higher) or its equivalent from an academic or Technical and Vocational Education and Training (TVET) programme; The eligible candidates will be undergoing an internal assessment to evaluate the candidates suitability for the direct entry. Bachelor’s degree candidates who are registered for master’s degree programmes may apply to convert to the doctoral degree programmes subjected to the following conditions: within 1 year for full time and within 2 years for part-time candidates; having shown competency and capability in conducting research at doctoral level through rigorous internal evaluation by the HEP; and approval of the University’s Senate. English Proficiency Requirements: For International Students IELTS: Band score 5.0; or TOEFL (iBT): Overall score of 42; or Cambridge English: Advanced (CAE): Overall score of 154; or Cambridge English: Proficiency (CPE): Overall score of 154; or Cambridge Linguaskill: Overall score of 160; or Pearson Test of English (PTE): Overall score of 47; The following categories of students are exempted from the above requirements: International students from countries in which English is the first language. International students who graduated from any Malaysian or other institutions where the curriculum is delivered in English."
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -46,5 +48,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Medical & Health Sciences (MSc/PhD)",
+  "program_name_zh": "Medical & Health Sciences (MSc/PhD)",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

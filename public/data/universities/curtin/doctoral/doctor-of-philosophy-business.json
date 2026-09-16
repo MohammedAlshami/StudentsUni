@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 86100,
+    "local_total": 114800,
     "international_total": 133368,
-    "per_year_local": "RM28,700 per annum",
+    "per_year_local": 28700,
     "per_year_international": "RM44,456 per annum",
     "notes": null
   },
@@ -24,13 +24,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -42,5 +42,9 @@
     "https://www.studymalaysia.com/edu/curtin/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Business)",
+  "program_name_zh": "哲学博士 (Business)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

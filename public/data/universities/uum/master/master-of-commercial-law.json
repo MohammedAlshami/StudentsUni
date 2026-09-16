@@ -4,12 +4,15 @@
   "level": "master",
   "program_name": "Master of Commercial Law",
   "field": "Law",
-  "duration": null,
+  "duration": "1.5 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 10000,
+    "local_total": 7500,
     "international_total": 30000,
     "per_year_local": 5000,
     "per_year_international": 15000,
@@ -20,13 +23,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": "Diploma with 10 years work experience, 35+ years old, APEL Level 7"
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": "Bachelor's degree with CGPA 2.75 or CGPA 2.00-2.74 with work experience",
-      "english_requirement": "TOEFL 60+ or IELTS 6.0+ or MUET Band 4.0+"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -41,5 +44,9 @@
     }
   ],
   "confidence": "partial",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Commercial Law",
+  "program_name_zh": "Commercial Law硕士",
+  "field_ar": "القانون",
+  "field_zh": "法律"
 }

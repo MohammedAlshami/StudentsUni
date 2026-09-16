@@ -6,7 +6,10 @@
   "field": "Law",
   "duration": "4 Semesters",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 2000,
@@ -37,5 +40,9 @@
     "https://www.studymalaysia.com/what/course/IIUM/0000831/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Foundation Studies in Law",
+  "program_name_zh": "Foundation Studies in Law",
+  "field_ar": "القانون",
+  "field_zh": "法律"
 }

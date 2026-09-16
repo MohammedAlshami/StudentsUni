@@ -6,23 +6,44 @@
   "field": "Hotel Management",
   "duration": "2.5 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 51,185",
     "international": "RM 62,370",
     "currency": "MYR",
-    "local_total": 51185,
+    "local_total": 127962,
     "international_total": 62370,
     "per_year_local": 51185,
     "per_year_international": 62370,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0008899/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Hotel Management",
+  "program_name_zh": "Hotel Management文凭",
+  "field_ar": "إدارة",
+  "field_zh": "管理学"
 }

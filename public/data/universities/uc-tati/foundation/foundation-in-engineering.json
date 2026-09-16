@@ -4,11 +4,35 @@
   "level": "foundation",
   "program_name": "Foundation in Engineering",
   "field": "Engineering",
-  "duration": null,
+  "duration": "1 year",
   "mode": "Full Time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 12000,
+    "international_total": null,
+    "per_year_local": 12000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "KPT: R3/010/3/0152 (08/2028) - MQA: A 9367",
   "sources": [
     {
@@ -17,5 +41,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Engineering",
+  "program_name_zh": "Engineering预科",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

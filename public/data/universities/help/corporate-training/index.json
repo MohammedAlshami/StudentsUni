@@ -9,8 +9,20 @@
       "field": "Social Sciences",
       "duration": "Four (4) Months (Classes on weekends and weekday evenings)",
       "mode": "Part-time Study",
-      "fees": { "local": "RM25,000.00" },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058744/"]
+      "fees": {
+        "local": "RM25,000.00"
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058744/"
+      ]
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

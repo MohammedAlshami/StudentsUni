@@ -15,11 +15,12 @@
     "currency": "MYR",
     "local_total": 9000,
     "international_total": 18000,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 1.0yr duration)",
+    "per_year_local": 9000
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -27,8 +28,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Passed SPM/O-level with five (5) honours including honours in Mathematics and one (1) from Science/Technical/Vocational or other equivalent recognised qualifications."
   },
@@ -51,6 +52,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "foundation-in-management"
+  "last_updated": "2026-09-16",
+  "slug": "foundation-in-management",
+  "program_name_ar": "تأسيس Management",
+  "program_name_zh": "Management预科",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

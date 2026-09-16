@@ -14,9 +14,11 @@
   "fees": {
     "local": "Refer to University",
     "international": "Refer to University",
-    "local_total": 25267,
+    "local_total": 25266,
     "currency": "MYR",
-    "international_total": 18867
+    "international_total": 18867,
+    "per_year_local": 16844,
+    "notes": " (per_year based on 1.5yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -53,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Physiotherapy",
+  "program_name_zh": "Physiotherapy硕士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

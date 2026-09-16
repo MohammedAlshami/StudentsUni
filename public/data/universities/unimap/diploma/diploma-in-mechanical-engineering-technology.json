@@ -15,15 +15,25 @@
     "local": null,
     "international": null,
     "currency": "MYR",
-    "local_total": 450,
+    "local_total": 2700,
     "international_total": null,
     "per_year_local": 900,
     "per_year_international": null,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "entry_requirements": null,
-    "minimum_cgpa": null
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": {
     "mqa": true,
@@ -34,5 +44,9 @@
     "https://www.studymalaysia.com/edu/unimap/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Mechanical Engineering Technology",
+  "program_name_zh": "Mechanical Engineering Technology文凭",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

@@ -16,12 +16,25 @@
     "local": "From RM37,560",
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
-    "local_total": 19547,
-    "per_year_local": null,
-    "notes": "Fee: FromRM37,560.00",
+    "local_total": 19545,
+    "per_year_local": 6515,
+    "notes": "Fee: FromRM37,560.00 (per_year based on 3.0yr duration)",
     "international_total": 21797
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -39,5 +52,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Business)",
+  "program_name_zh": "哲学博士 (Business)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

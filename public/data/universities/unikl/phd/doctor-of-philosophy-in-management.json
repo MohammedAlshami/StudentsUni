@@ -7,9 +7,31 @@
   "field": "Business & Management",
   "duration": "FT 3-7 Years / PT 4-9 Years",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "July"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 74998,
+    "international_total": null,
+    "per_year_local": 10714,
+    "per_year_international": null,
+    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 7.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": {
     "mqa_code": "A10142",
     "valid_until": null,
@@ -21,5 +43,9 @@
     "https://studymalaysia.com/what/course/UNIKL/0055847/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Management",
+  "program_name_zh": "哲学博士 in Management",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

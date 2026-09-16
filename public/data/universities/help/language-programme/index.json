@@ -9,8 +9,12 @@
       "field": "Education",
       "duration": "9-10 months",
       "mode": "Part-time Study",
-      "fees": { "local": "Enquire for fees" },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058731/"]
+      "fees": {
+        "local": "Enquire for fees"
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058731/"
+      ]
     },
     {
       "program_name": "Malaysian University English Test Preparatory Course",
@@ -18,8 +22,20 @@
       "field": "Languages",
       "duration": "Part 1: 4 weeks, Part 2: 4 weeks",
       "mode": "Short-term Course",
-      "fees": { "local": "RM1,000 Per Level" },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058741/"]
+      "fees": {
+        "local": "RM1,000 Per Level"
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058741/"
+      ]
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

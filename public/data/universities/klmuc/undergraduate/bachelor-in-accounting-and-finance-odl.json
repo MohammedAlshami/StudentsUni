@@ -5,12 +5,48 @@
   "program_name": "Bachelor in Accounting and Finance",
   "field": "Accounting & Finance",
   "duration": "9 Semesters / 3 Years (Full time) | 18 Semesters / 6 Years (Part time)",
-  "mode": ["Full-time", "Part-time"],
-  "intakes": ["January", "May", "September"],
-  "fees": {"local": "RM 31,200 - RM 48,000"},
-  "requirements": null,
-  "accreditation": {"mqa_ref": "N/0411/6/0137", "valid_until": "06/31"},
-  "sources": ["https://www.unitar.my/programmes/"],
+  "mode": [
+    "Full-time",
+    "Part-time"
+  ],
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 67500,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
+  "accreditation": {
+    "mqa_ref": "N/0411/6/0137",
+    "valid_until": "06/31"
+  },
+  "sources": [
+    "https://www.unitar.my/programmes/"
+  ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accounting and Finance",
+  "program_name_zh": "Accounting and Finance学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

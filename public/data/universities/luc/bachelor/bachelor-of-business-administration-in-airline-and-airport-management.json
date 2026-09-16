@@ -15,9 +15,23 @@
     "currency": "MYR",
     "local_total": 15000,
     "international_total": 11362,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.5yr duration)",
+    "per_year_local": 6000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     {
@@ -32,5 +46,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business Administration in Airline and Airport Management",
+  "program_name_zh": "Business Administration in Airline and Airport Management学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

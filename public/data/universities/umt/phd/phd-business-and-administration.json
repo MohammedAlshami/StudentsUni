@@ -7,9 +7,12 @@
   "program_slug": "phd-business-and-administration",
   "field": "Business Administration",
   "faculty": "Faculty of Business, Economics and Social Development",
-  "duration": null,
+  "duration": "3 years",
   "mode": "full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 37500,
@@ -18,12 +21,29 @@
     "per_year_international": 37500,
     "notes": "Standard public university fees (MQA regulated)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255",
     "https://www.studymalaysia.com/edu/umt/courses/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Business and Administration)",
+  "program_name_zh": "哲学博士 (Business and Administration)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

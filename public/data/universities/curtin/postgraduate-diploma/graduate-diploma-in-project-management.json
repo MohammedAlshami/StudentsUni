@@ -15,7 +15,7 @@
     "currency": "MYR",
     "local_total": 3275,
     "international_total": 4481,
-    "per_year_local": "RM3,275 per unit",
+    "per_year_local": 3275,
     "per_year_international": "RM4,481 per unit",
     "notes": null
   },
@@ -24,13 +24,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -42,5 +42,9 @@
     "https://www.studymalaysia.com/edu/curtin/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Graduate Diploma in Project Management",
+  "program_name_zh": "Graduate Diploma in Project Management",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

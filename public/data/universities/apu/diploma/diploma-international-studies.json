@@ -7,17 +7,43 @@
   "field": "International Relations",
   "duration": "2+ years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM45,000.00",
-    "international": "RM54,200.00"
+    "international": "RM54,200.00",
+    "local_total": 45000,
+    "international_total": 54200.0,
+    "currency": "MYR",
+    "per_year_local": 18000,
+    "notes": " (per_year based on 2.5yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/diploma-in-international-studies",
     "https://www.studymalaysia.com/what/course/APU/0056381/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم International Studies",
+  "program_name_zh": "International Studies文凭",
+  "field_ar": "العلاقات الدولية",
+  "field_zh": "国际关系"
 }

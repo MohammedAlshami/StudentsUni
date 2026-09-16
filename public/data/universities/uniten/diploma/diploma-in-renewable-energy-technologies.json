@@ -7,24 +7,32 @@
   "field": "Engineering",
   "duration": "2.5 years",
   "mode": "Full-time",
-  "intakes": ["January", "July", "September"],
+  "intakes": [
+    "January",
+    "July",
+    "September"
+  ],
   "fees": {
-    "local": {
-      "tuition": null,
-      "registration": "RM1,348",
-      "medical_insurance": "RM88/year",
-      "accommodation_deposit": "RM250"
-    },
-    "international": {
-      "tuition": null,
-      "visa_application": "USD787.50 (RM3,150)",
-      "registration": "USD1,650 (RM6,600)",
-      "medical_insurance": null
-    }
+    "currency": "MYR",
+    "local_total": 55000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "local": "SPM / equivalent with credits in Mathematics, Physics, and Chemistry",
-    "international": "Varies by country. Check MQA requirements."
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": {
     "mqa_code": null,
@@ -34,5 +42,9 @@
     "https://www.uniten.edu.my/programme/diploma/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Renewable Energy Technologies",
+  "program_name_zh": "Renewable Energy Technologies文凭",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

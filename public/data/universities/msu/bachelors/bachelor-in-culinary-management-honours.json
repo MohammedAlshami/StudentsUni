@@ -16,24 +16,23 @@
     "currency": "MYR",
     "local_total": 15000,
     "international_total": 26814,
-    "per_year_local": null,
+    "per_year_local": 5000,
     "per_year_international": null,
-    "notes": "Local: RM86,800.00"
+    "notes": "Local: RM86,800.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Pass STPM/A-Level, obtaining full pass in 2 subjects; Pass Matriculation/Foundation programme; Diploma in relevant field; Diploma from Public Higher Learning Institution (IPTA) or Private Higher Learning Institution (IPTS) recognised by Ministry of Higher Education (KPT) and accreditated by MQA; Pass at least 3 subjects in A-Level; Pass The South Australian Matriculation (SAM) with minimum score of 65% - 70%; Pass Canadian Pre University Programme (CPU) with minimum score of 80%; Pass Unified Examination Certificate (UEC) with at least grade B in 5 subjects; Other equivalent qualification recognised by the Malaysian Government. "
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -67,5 +66,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Culinary Management (Honours)",
+  "program_name_zh": "Culinary Management (Honours)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -6,14 +6,43 @@
   "field": "Business",
   "duration": "8 semesters",
   "mode": "Full-time",
-  "intakes": ["September"],
-  "fees": {"currency": "MYR", "local_total": 9240, "international_total": null, "per_year_local": 2310, "per_year_international": null, "notes": "Per semester: MYR 1,155 local"},
-  "requirements": {
-    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
-    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 9240,
+    "international_total": null,
+    "per_year_local": 2310,
+    "per_year_international": null,
+    "notes": "Per semester: MYR 1,155 local"
   },
-  "accreditation": {"mqa_status": null, "mqa_ref": null},
-  "sources": ["https://www.studymalaysia.com/what/course/UPSI/0055037/", "https://fpe.upsi.edu.my/"],
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) including Mathematics",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UPSI/0055037/",
+    "https://fpe.upsi.edu.my/"
+  ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business Administration (Human Resource Management) (Hons)",
+  "program_name_zh": "Business Administration (Human Resource Management) (Hons)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

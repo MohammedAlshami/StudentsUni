@@ -17,11 +17,25 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12274,
+    "local_total": 12273,
     "international_total": 15990,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 4091
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -36,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Education",
+  "program_name_zh": "哲学博士 in Education",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

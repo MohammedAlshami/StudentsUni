@@ -7,16 +7,32 @@
   "field": "Engineering & Engineering Trades",
   "duration": "3-5 years",
   "mode": "Flexible",
-  "intakes": null,
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 13600.0,
+    "local_total": 22665,
     "international_total": 30500.0,
     "per_year_local": 4533,
     "per_year_international": 10167,
     "notes": "From StudyMalaysia: RM13,600 (FT)   RM14,500 (PT)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -33,5 +49,9 @@
     }
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Engineering",
+  "program_name_zh": "哲学博士 in Engineering",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

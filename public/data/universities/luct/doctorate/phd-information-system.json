@@ -1,1 +1,47 @@
-{"university":"Limkokwing University of Creative Technology","university_slug":"luct","level":"doctorate","program_name":"Doctor of Philosophy (PhD) in Information System","field":"Computing","duration":"3-5 years","mode":"Full-time, Part-time","intakes":["January","April","August"],"fees":null,"requirements":null,"accreditation":"MQA","sources":["https://limkokwing.net/malaysia/academic/courses/","https://www.limkokwing.edu.my"],"confidence":"low","last_updated":"2026-09-14"}
+{
+  "university": "Limkokwing University of Creative Technology",
+  "university_slug": "luct",
+  "level": "doctorate",
+  "program_name": "Doctor of Philosophy (PhD) in Information System",
+  "field": "Computing",
+  "duration": "3-5 years",
+  "mode": "Full-time, Part-time",
+  "intakes": [
+    "January",
+    "April",
+    "August"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 54000,
+    "international_total": null,
+    "per_year_local": 10800,
+    "per_year_international": null,
+    "notes": "Estimated ~RM18000/year for typical private university programme (per_year based on 5.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
+  "accreditation": "MQA",
+  "sources": [
+    "https://limkokwing.net/malaysia/academic/courses/",
+    "https://www.limkokwing.edu.my"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (PhD) in Information System",
+  "program_name_zh": "哲学博士 (PhD) in Information System",
+  "field_ar": "Computing",
+  "field_zh": "Computing"
+}

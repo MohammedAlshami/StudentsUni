@@ -5,7 +5,23 @@
   "level_label": "Graduate Certificate",
   "program_count": 2,
   "programs": [
-    { "slug": "graduate-certificate-in-project-management", "name": "Graduate Certificate in Project Management", "field": "Business & Commerce" },
-    { "slug": "graduate-certificate-in-public-health", "name": "Graduate Certificate in Public Health", "field": "Health Sciences" }
-  ]
+    {
+      "slug": "graduate-certificate-in-project-management",
+      "name": "Graduate Certificate in Project Management",
+      "field": "Business & Commerce"
+    },
+    {
+      "slug": "graduate-certificate-in-public-health",
+      "name": "Graduate Certificate in Public Health",
+      "field": "Health Sciences"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

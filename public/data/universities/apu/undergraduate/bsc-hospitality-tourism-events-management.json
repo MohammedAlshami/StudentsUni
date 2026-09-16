@@ -7,25 +7,31 @@
   "field": "Hospitality & Tourism",
   "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM100,400.00",
     "international": "RM108,500.00",
-    "local_total": 100400,
-    "international_total": 108500
+    "local_total": 100398,
+    "international_total": 108500,
+    "per_year_local": 33466,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Any relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "Direct Entry to Level 1 of the Degree STPM: 2 passes with minimum Grade C (CGPA 2.0) A-Level: 2 passes (Grade A–D) UEC: 5 Grade Bs Foundation/Matriculation: Pass with minimum CGPA of 2.0 Entry to Level 2 of the Degree Completed APU Diploma or a recognised Diploma with equivalent credits to Level 1 of a degree (subject to APU Academic Board approval) English Language Requirements IELTS: 5.0 MUET: Band 3.5"
   },
@@ -40,5 +46,9 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Honours) in Hospitality and Tourism with a specialism in Events Management",
+  "program_name_zh": "Science (Honours) in Hospitality and Tourism with a specialism in Events Management学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

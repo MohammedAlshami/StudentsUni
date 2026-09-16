@@ -14,22 +14,22 @@
     "currency": "MYR",
     "local_total": 5100,
     "international_total": 10200,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.0yr duration)",
+    "per_year_local": 2550
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A bachelor Degree with at least CGPA 2.75; OR Equivalent, as approved by UNISEL Senate; OR A Bachelor Degree with CGPA at least 2.50 but not achieving 2.75 can be accepted to enroll in the program subject to the detailed internal evaluation of the UNISEL Senate; OR A Bachelor Degree or other equivalent qualification with CGPA less than 2.50 can be accepted with minimum of 5 years working experience in related field."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -50,6 +50,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "master-of-management-by-research"
+  "last_updated": "2026-09-16",
+  "slug": "master-of-management-by-research",
+  "program_name_ar": "ماجستير Management (By Research)",
+  "program_name_zh": "Management (By Research)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

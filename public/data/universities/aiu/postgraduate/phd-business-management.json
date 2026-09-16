@@ -7,16 +7,39 @@
   "field": "Business & Management",
   "duration": "3 - 6 years (Full-time), 4 - 8 years (Part-time)",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM19,150",
-    "international": "RM19,750"
+    "international": "RM19,750",
+    "local_total": 19146,
+    "per_year_local": 3191
   },
-  "requirements": "Master's degree from AIU or any university recognised by the AIU Senate or other equivalent master's degree and relevant working experience",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "N/345/8/1092 (7/28) MQA/PA 14320",
   "sources": [
     "https://www.aiu.edu.my/postgraduate"
   ],
   "confidence": 0.95,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Business Management)",
+  "program_name_zh": "哲学博士 (Business Management)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

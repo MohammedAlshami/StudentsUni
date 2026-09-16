@@ -7,7 +7,11 @@
   "slug": "master-of-science-research-2",
   "duration": "FT(2 Years) & PT(4 Years)",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM31,220",
     "international": "RM39,760",
@@ -25,5 +29,9 @@
     "https://www.swinburne.edu.my/?p=31477"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science (Research) (2)",
+  "program_name_zh": "Science (Research) (2)硕士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

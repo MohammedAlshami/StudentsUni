@@ -16,28 +16,24 @@
     "local": "MYR 129,830",
     "international": "USD 42,309",
     "currency": "MYR",
-    "local_total": 41265,
+    "local_total": 299700,
     "international_total": 47982,
     "per_year_local": 99900,
     "per_year_international": 33391,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "spm": "5 credits including Mathematics and English",
-    "pre_u pathways": {
-      "taylors_foundation": "CGPA 2.00",
-      "taylors_diploma": "CGPA 2.00",
-      "stpm": "Minimum CC",
-      "a_level": "Minimum DD",
-      "ausmat_sacei": "ATAR 60",
-      "cpu": "Average 60% in 6 subjects",
-      "ib": "Minimum 24 points in 6 subjects",
-      "uec": "5Bs including Mathematics and English",
-      "mufy": "Overall 50%"
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
-    "english_requirements": {
-      "local": "Pass English / Taylor's EET 5.0 / Pre-U Diploma in English",
-      "international": "MUET Band 3 / IELTS / TOEFL"
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     }
   },
   "accreditation": "KPT/JPS (R2/345/6/0561) (A 9964) 07/26",
@@ -76,5 +72,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business (Honours)",
+  "program_name_zh": "Business (Honours)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -13,9 +13,23 @@
     "currency": "MYR",
     "local_total": 92588,
     "international_total": 96713,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 4.0yr duration)",
+    "per_year_local": 23147
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics and Physics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     {
@@ -30,6 +44,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "master-of-engineering-in-electrical-and-electronic-engineering"
+  "last_updated": "2026-09-16",
+  "slug": "master-of-engineering-in-electrical-and-electronic-engineering",
+  "program_name_ar": "ماجستير Engineering in Electrical and Electronic Engineering",
+  "program_name_zh": "Engineering in Electrical and Electronic Engineering硕士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

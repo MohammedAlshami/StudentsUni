@@ -15,11 +15,26 @@
   "fees": {
     "local": null,
     "international": null,
-    "local_total": 28075,
+    "local_total": 28072,
     "currency": "MYR",
-    "international_total": 29000
+    "international_total": 29000,
+    "per_year_local": 7018,
+    "notes": " (per_year based on 4.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Relevant science subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.xmu.edu.my/undergraduate-programmes",
@@ -35,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science in Physics (Honours)",
+  "program_name_zh": "Science in Physics (Honours)学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

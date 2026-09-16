@@ -21,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Entry Requirements Applicants must meet one of the following criteria: SPM/O-Level or equivalent: Minimum 3 Credits including Mathematics and a Pass in English. STPM or equivalent: Minimum Grade C (GP 2.00) in any subject, Credit in Mathematics, and a Pass in English at SPM Level. STAM: Minimum Grade Maqbul (Pass) and Credit in Mathematics, with a Pass in English at SPM Level. UEC: Minimum 3 Grade B’s including Mathematics and a Pass in English. SKM Level 3: In a related field, along with a Pass in SPM with Credit in Mathematics and a Pass in English. Any Certificate in Finance, Banking, Insurance, or related field (Level 3, MQF): Minimum CGPA of 2.00 out of 4.00. APEL.A Certificate: For admission into Diploma programs. Note Candidates who do not have a Credit in Mathematics and a Pass in English at SPM Level may still be admitted if their qualifications contain subjects in Mathematics and English, and the achievement meets or exceeds the SPM requirement. Upon completion of the Diploma program, students intending to pursue further studies at MMU must meet the entry requirements for their chosen Bachelor’s degree program."
   },
@@ -76,5 +76,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Finance",
+  "program_name_zh": "Finance文凭",
+  "field_ar": "التمويل",
+  "field_zh": "金融学"
 }

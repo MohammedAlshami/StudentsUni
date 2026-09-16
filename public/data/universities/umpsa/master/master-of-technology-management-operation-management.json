@@ -6,7 +6,10 @@
   "field": "Business Management & Administration",
   "duration": "6 Semesters",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 15000,
@@ -20,13 +23,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -39,6 +42,10 @@
     "https://www.studymalaysia.com/edu/umpsa/courses/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-15",
-  "research_areas": "Operation Management"
+  "last_updated": "2026-09-16",
+  "research_areas": "Operation Management",
+  "program_name_ar": "ماجستير Technology Management (Operation Management)",
+  "program_name_zh": "Technology Management (Operation Management)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

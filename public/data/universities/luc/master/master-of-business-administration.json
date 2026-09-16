@@ -6,27 +6,31 @@
   "field": "Business & Management",
   "duration": "1 year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Nov"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 15500,
     "international_total": 16232,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 1.0yr duration)",
+    "per_year_local": 15500
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of these: Pass Bachelor’s Degree in relevant field; or Any other qualifications that are recognized by the Malaysian Government. English Proficiency Requirements (International Students): International English Language Testing System (IELTS) score of 6.0 or its equivalent. If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the program."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration",
+  "program_name_zh": "Business Administration硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

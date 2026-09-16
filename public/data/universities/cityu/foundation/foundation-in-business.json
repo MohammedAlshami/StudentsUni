@@ -16,9 +16,23 @@
     "currency": "MYR",
     "local_total": 13900,
     "international_total": 25050,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 1.0yr duration)",
+    "per_year_local": 13900
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,5 +47,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Business",
+  "program_name_zh": "Business预科",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

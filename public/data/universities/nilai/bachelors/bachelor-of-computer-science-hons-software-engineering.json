@@ -14,24 +14,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 10250,
+    "local_total": 10248,
     "international_total": 12500,
-    "per_year_local": null,
+    "per_year_local": 3416,
     "per_year_international": null,
-    "notes": "Local: 54000/Course; International: 54000/Course"
+    "notes": "Local: 54000/Course; International: 54000/Course (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "STPM (Arts Stream): Pass with a minimum Grade C (GP 2.00) in any two (2) subjects and A credit in Additional Mathematics at the SPM Level or its equivalent; or A credit in Mathematics and any one of the Science, Technology, or Engineering subjects at the SPM Level or its equivalent. STPM (Science Stream): Pass with a minimum Grade C (GP 2.00) in Mathematics and one (1) Science / ICT subject. A-Level: Pass with Grade D in any two (2) subjects and A credit in Additional Mathematics at the SPM Level or its equivalent; Or A credit in Mathematics and any one of the Science, Technology, or Engineering subjects at SPM Level or its equivalent. STAM: Pass with a minimum Jayyid in any two (2) subjects and A credit in Additional Mathematics at SPM Level; Or A credit in Mathematics and any Science, Technology, or Engineering subject at SPM Level. UEC: Pass with at least Grade B in any five (5) subjects and A credit in Additional Mathematics at SPM Level or its equivalent; Or A credit in Mathematics and any Science, Technology, or Engineering subject at SPM Level or its equivalent. Foundation / Matriculation: Pass with a minimum CGPA of 2.00 and a credit in Additional Mathematics at SPM Level or its equivalent; Or Pass with a minimum CGPA of 2.00 and a credit in Mathematics and any Science, Technology, or Engineering subject at SPM Level or its equivalent. Candidates without Additional Mathematics are required to take and pass a reinforcement mathematics subject in the first semester. Diploma in Computing Fields (Level 4, MQF): Pass with minimum CGPA of 2.50. CGPA below 2.50 but more than 2.00 may be subject to internal evaluation/interview. Any Diploma in Science &amp; Technology (Level 4, MQF):  Pass with a minimum CGPA of 2.75. CGPA below 2.75 but more than 2.50 may be subject to internal evaluation/interview. Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) / Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing Fields: Pass with a minimum CGPA of 2.50, subject to HEP Senate / Academic Board’s approval. English Language Requirements (for International Students): MUET: 3.5 IELTS: 5.0 TOEFL: 7.5 (Ess Online) / 40 (iBT) Pearson: 47 Linguaskill OL: 154 ELS: 107 Note: International students from countries where English is the primary medium of instruction are exempted from this requirement. Students who do not meet the English requirements may enroll in the Intensive English Programme at Nilai University to prepare for the IELTS examination."
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Computer Science (Hons) Software Engineering",
+  "program_name_zh": "Computer Science (Hons) Software Engineering学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

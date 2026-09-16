@@ -7,29 +7,32 @@
   "field": "",
   "duration": "1 year",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 58050,
     "international_total": 62100,
-    "per_year_local": null,
+    "per_year_local": 58050,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of These: A relevant first or second-class Honours degree or a degree qualification. An equivalent qualification recognised by the Malaysian Government, acceptable to the University. Work Experience Requirement: At least two years&#39; appropriate business experience. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 6.0 (or equivalent) with no score lower than 5.5. English Language Courses: Offered for those who do not meet the IELTS 6.0 requirement."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -43,5 +46,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration",
+  "program_name_zh": "Business Administration硕士"
 }

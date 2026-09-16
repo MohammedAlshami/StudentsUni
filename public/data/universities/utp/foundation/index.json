@@ -9,7 +9,9 @@
       "field": "Engineering & Science",
       "duration": "1 year",
       "mode": "full-time",
-      "intakes": ["may"],
+      "intakes": [
+        "may"
+      ],
       "fees": "RM 17,700 (total)",
       "requirements": {
         "spm": "5 credits including Mathematics, Additional Mathematics, Physics, Chemistry, and English"
@@ -28,7 +30,9 @@
       "field": "Business & Computing",
       "duration": "1 year",
       "mode": "full-time",
-      "intakes": ["may"],
+      "intakes": [
+        "may"
+      ],
       "fees": "RM 17,700 (total)",
       "requirements": {
         "spm": "5 credits including Mathematics, English, and relevant subjects"
@@ -41,5 +45,13 @@
       "last_updated": "2026-09-14"
     }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 16000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+  }
 }

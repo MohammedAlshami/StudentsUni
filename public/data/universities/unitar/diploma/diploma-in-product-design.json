@@ -15,7 +15,7 @@
   "fees": {
     "local": "28000/Course",
     "international": "28000/Course",
-    "local_total": 28000,
+    "local_total": 30042,
     "currency": "MYR",
     "international_total": 20896,
     "per_year_local": 12017,
@@ -23,16 +23,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "SPM with a minimum of three (3) credits in any subject, or its equivalent, OR Pass in Unified Examination Certificate (UEC) with minimum 3Bs, OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GP 2.00) in any subject, or its equivalent; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul in any subject, or its equivalent; OR A pass in SKM Level 3 / Sijil Vokasional Malaysia (SVM) (Note: The HEPs are to conduct screening and provide necessary guidance specific to the discipline of the programme); OR A Certificate (Level 3, MQF) with minimum CGPA of 2.00 or its equivalent; OR Other relevant equivalent qualifications recognised by the Malaysian Government AND Pass an interview OR submission of student’s portfolio determined by the HEP as required. Language Requirements ENGLISH REQUIREMENT International Students Minimum score of Band 2 in the Malaysian University English Test (MUET), IELTS 4.5 or equivalent"
   },
@@ -56,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Product Design",
+  "program_name_zh": "Product Design文凭",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

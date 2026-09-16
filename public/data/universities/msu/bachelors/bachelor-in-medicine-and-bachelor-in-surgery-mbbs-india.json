@@ -7,29 +7,32 @@
   "field": "General",
   "duration": "5 years",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Feb",
+    "Jul",
+    "Sep"
+  ],
   "fees": {
     "currency": "RM",
     "local_total": 395000,
     "international_total": 654475,
-    "per_year_local": null,
+    "per_year_local": 79000,
     "per_year_international": null,
-    "notes": "Local: RM395,000.00"
+    "notes": "Local: RM395,000.00 (per_year based on 5.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "To enroll in the MBBS program at Management &amp; Science University (MSU), applicants must meet specific academic and language requirements to ensure they are prepared for the rigorous medical curriculum. 1. Academic Qualifications Candidates must have completed one of the following pre-university qualifications with a strong emphasis on science subjects: STPM/A-Levels: Minimum 3Bs in Biology, Chemistry, and either Physics or Mathematics. International Baccalaureate (IB) Diploma or equivalent, with a focus on medical sciences. Foundation in Science or other equivalent qualifications from recognized institutions. 2. English Language Proficiency Students must demonstrate proficiency in English through recognized tests, unless they have completed their studies in English. The minimum requirements include: IELTS: Overall 6.0, with no band lower than 5.5. TOEFL: 550 (PBT) or 79 (IBT), or an equivalent score in other accepted English tests. MSU’s MBBS program is designed for academically strong students with a passion for medicine. Meeting these MBBS admission requirements ensures that students are well-prepared for the demanding yet rewarding journey of studying medicine in Malaysia."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -53,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Medicine and Bachelor in Surgery (MBBS), India",
+  "program_name_zh": "Medicine and Bachelor in Surgery (MBBS), India学士",
+  "field_ar": "General",
+  "field_zh": "General"
 }

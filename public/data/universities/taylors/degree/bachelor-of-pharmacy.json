@@ -6,23 +6,44 @@
   "slug": "bachelor-of-pharmacy",
   "program_slug": "bachelor-of-pharmacy",
   "field": "Pharmacy",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full Time",
-  "intakes": null,
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 164900,
+    "local_total": 494700,
     "international_total": 52620,
     "per_year_local": 164900,
     "per_year_international": 52620,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/undergraduate/bachelor-of-pharmacy.html",
     "https://www.studymalaysia.com/edu/taylor/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Pharmacy (Honours)",
+  "program_name_zh": "Pharmacy (Honours)学士",
+  "field_ar": "الصيدلة",
+  "field_zh": "药学"
 }

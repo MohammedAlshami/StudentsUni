@@ -4,27 +4,59 @@
     "program_name": "Bachelor of Computer Science with Honours",
     "field": "Computing",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-software-engineering-with-honours",
     "program_name": "Bachelor of Software Engineering with Honours",
     "field": "Computing",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-computer-engineering-with-honours",
     "program_name": "Bachelor of Computer Engineering with Honours",
     "field": "Engineering",
     "duration": "4 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 16500,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration-management-information-systems-hons",
     "program_name": "Bachelor of Business Administration (Management Information Systems) (Hons)",
     "field": "Business",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   }
 ]

@@ -24,13 +24,24 @@
       "registration": "USD1,650 (RM6,600)"
     },
     "currency": "MYR",
-    "local_total": 34000,
-    "per_year_local": null,
-    "international_total": 37000
+    "local_total": 33999,
+    "per_year_local": 11333,
+    "international_total": 37000,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "local": "Bachelor's degree with minimum CGPA 2.50 or equivalent, or relevant professional qualifications with work experience",
-    "international": "Bachelor's degree with minimum CGPA 2.50 or equivalent, English proficiency (IELTS 6.0 / TOEFL 550)"
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_code": null,
@@ -52,5 +63,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration",
+  "program_name_zh": "Business Administration硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

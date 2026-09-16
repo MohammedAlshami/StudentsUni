@@ -18,11 +18,24 @@
     "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
     "local_total": 38007,
-    "per_year_local": null,
-    "notes": "Fee: FromRM88,750.00",
+    "per_year_local": 12669,
+    "notes": "Fee: FromRM88,750.00 (per_year based on 3.0yr duration)",
     "international_total": 40257
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -40,5 +53,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) in International Business",
+  "program_name_zh": "Science (Hons) in International Business学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

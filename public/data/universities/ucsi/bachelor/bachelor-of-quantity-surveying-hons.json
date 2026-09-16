@@ -6,23 +6,44 @@
   "field": "Quantity Surveying",
   "duration": "3.5 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 76,440",
     "international": "RM 101,210",
     "currency": "MYR",
-    "local_total": 76440,
+    "local_total": 267540,
     "international_total": 101210,
     "per_year_local": 76440,
     "per_year_international": 101210,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057293/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Quantity Surveying (Hons)",
+  "program_name_zh": "Quantity Surveying (Hons)学士",
+  "field_ar": "المسح الكمي",
+  "field_zh": "工料测量"
 }

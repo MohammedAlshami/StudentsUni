@@ -5,12 +5,41 @@
   "program_name": "Foundation in Arts",
   "field": "Arts & Humanities",
   "duration": "4 Semesters / 1 Year 4 Months",
-  "mode": ["Full-time"],
-  "intakes": ["January", "May", "September"],
-  "fees": {"local": "RM 8,500"},
-  "requirements": null,
+  "mode": [
+    "Full-time"
+  ],
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "local": "RM 8,500",
+    "local_total": 8500,
+    "per_year_local": 4250
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
-  "sources": ["https://www.unitar.my/programmes/"],
+  "sources": [
+    "https://www.unitar.my/programmes/"
+  ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Arts",
+  "program_name_zh": "Arts预科",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

@@ -17,24 +17,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 15694,
+    "local_total": 15693,
     "international_total": 19410,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 5231
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of these: Matriculation/Foundation – minimum CGPA of 2.0 in relevant fields as recognized by the MOHE or its equivalent. DVM / DKM / DLKM – passed in relevant fields and undergo a screening and bridging program. Diploma – minimum CGPA of 2.0 in relevant field or it’s equivalent. A-Levels – Grade D in two subjects or it’s equivalent. UEC – minimum of 5 B’s including requisite subject. STPM – Grade C (GPA 2.0) in two subjects or it’s equivalent. STAM – minimum grade of Jayyid. 12 years of schooling – passed the exit qualification in the country of origin including requisite subject. English Requirements For International Students IELTS 5.0 or equivalent"
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": "MQA",
   "sources": [
@@ -55,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Communication (Journalism)",
+  "program_name_zh": "Communication (Journalism)学士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

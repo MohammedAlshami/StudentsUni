@@ -17,8 +17,8 @@
     "international": "New international students are required to pay RM 18,000 advance fees or first semester fees (whichever is higher)",
     "currency": "MYR",
     "local_total": 23350,
-    "per_year_local": null,
-    "notes": "Fee: FromRM37,920.00",
+    "per_year_local": 11675,
+    "notes": "Fee: FromRM37,920.00 (per_year based on 2.0yr duration)",
     "international_total": 25600
   },
   "requirements": {
@@ -26,15 +26,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Entry Requirements A Bachelor&#39;s degree in the relevant field with minimum CGPA of 2.75, OR A Bachelor&#39;s degree in the relevant field with CGPA between 2.50 and 2.75 can be accepted subject to a rigorous internal assessment; OR An APEL.A Certificate (APEL T-7) (Recognition of Prior Learning) A Bachelor&#39;s degree in the relevant field with CGPA of less than 2.50 can be accepted subject to having a minimum of 5 years working experience in a relevant field; AND Interview: Candidates are to pass an interview conducted by a panel from the School of Arts. This is to assess the candidate’s communication abilities and interest in research.   English Language Requirements IELTS 6.0 OR its equivalent   Application Procedure Candidates are requested to send the completed Sunway Postgraduate Application Form with the following supporting documents to cam@sunway.edu.my: Kindly email the following documents for an eligibility check: Curriculum Vitae Bachelor&#39;s/ Master’s degree transcript Completion certificate Report from 2 academic or professional referees After passing the eligibility check, the school administrator will brief the student further regarding the application process and other documents (Statement of Research Interest; Portfolio) that are required. Statement of Research Interest The statement of research interest should comprise a maximum of 1,000 words and covers the following structure: Working Title Nature of the research that interests you and why References to anything you have read relevant to this research are Portfolio (for candidates with aim of creative outputs) A portfolio should contain 5 – 15 examples of your own original creative work; any form of media is acceptable. Media work: link to streaming sites such as Vimeo, YouTube or SoundCloud Video files: H.264 QuickTime files Audio files: MP3 format Photographs, drawings and 3D work will be accepted as digital photographs Games/Other applications must be playable on one of the contemporary versions of MacOS, Windows, IOS or Android  "
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "awarding_country": "Malaysia",
@@ -58,5 +57,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Arts in Creative Arts and Media",
+  "program_name_zh": "Arts in Creative Arts and Media硕士",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

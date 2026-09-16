@@ -7,19 +7,42 @@
   "field": "Computing",
   "duration": "3.5 years",
   "mode": "full-time",
-  "intakes": ["january", "may", "september"],
+  "intakes": [
+    "january",
+    "may",
+    "september"
+  ],
   "fees": {
-    "total": "RM 82,530",
     "currency": "MYR",
-    "note": "Total estimated fees; contact university for current rates"
+    "local_total": 65999,
+    "international_total": null,
+    "per_year_local": 18857,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.5yr duration)"
   },
   "requirements": {
-    "a_level": "CCC",
-    "spm": "Credits in Mathematics, Additional Mathematics, and English"
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": "R/0613/6/0049 (08/2032) MQA/FA17021",
   "description": "Covers programming, algorithms, data structures, artificial intelligence, machine learning, software engineering, and database systems. Prepares graduates for careers in software development and IT.",
-  "career_prospect": ["Software Developer", "Data Scientist", "AI Engineer", "Systems Analyst", "IT Consultant"],
+  "career_prospect": [
+    "Software Developer",
+    "Data Scientist",
+    "AI Engineer",
+    "Systems Analyst",
+    "IT Consultant"
+  ],
   "sources": [
     "https://www.utp.edu.my",
     "https://eduadvisor.my/university/universiti-teknologi-petronas-utp/all-courses",
@@ -27,5 +50,9 @@
     "https://unienrol.com/study-malaysia/universiti-teknologi-petronas-utp/courses/all"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Computer Science (Hons)",
+  "program_name_zh": "Computer Science (Hons)学士",
+  "field_ar": "Computing",
+  "field_zh": "Computing"
 }

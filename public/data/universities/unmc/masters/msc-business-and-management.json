@@ -13,11 +13,26 @@
   "fees": {
     "local": "RM45,970",
     "international": "RM52,570",
-    "local_total": 50000,
+    "local_total": 49998,
     "currency": "MYR",
-    "international_total": 56000
+    "international_total": 56000,
+    "per_year_local": 16666,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -28,6 +43,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "msc-business-and-management"
+  "last_updated": "2026-09-16",
+  "slug": "msc-business-and-management",
+  "program_name_ar": "M.Sc. Business and Management",
+  "program_name_zh": "M.Sc. Business and Management",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

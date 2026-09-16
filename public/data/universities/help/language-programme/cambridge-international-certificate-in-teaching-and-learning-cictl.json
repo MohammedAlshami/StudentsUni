@@ -7,11 +7,43 @@
   "field": "Education",
   "duration": "9-10 months",
   "mode": "Part-time Study",
-  "fees": { "local": "Enquire for fees", "international": null },
+  "fees": {
+    "currency": "MYR",
+    "local_total": 29165,
+    "international_total": null,
+    "per_year_local": 34999,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme"
+  },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058731/",
     "https://www.help.edu.my"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "intakes": [
+    "Aug",
+    "Feb",
+    "Jan",
+    "May",
+    "Sep"
+  ],
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
+  "program_name_ar": "Cambridge International Certificate in Teaching and Learning (CICTL)",
+  "program_name_zh": "Cambridge International Certificate in Teaching and Learning (CICTL)",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

@@ -6,7 +6,10 @@
   "state": "Perak",
   "city": "Tanjong Malim",
   "website": "https://www.upsi.edu.my",
-  "levels_available": ["diploma", "bachelor"],
+  "levels_available": [
+    "diploma",
+    "bachelor"
+  ],
   "program_counts": {
     "diploma": 13,
     "bachelor": 53
@@ -16,5 +19,13 @@
     "https://www.upsi.edu.my/faculty/",
     "https://www.studymalaysia.com/edu/upsi/courses/"
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

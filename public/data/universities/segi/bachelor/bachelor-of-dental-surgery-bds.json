@@ -7,16 +7,32 @@
   "field": "Medicine & Healthcare",
   "duration": "5 Yrs",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "Refer to the Univ.",
     "international": "Refer to the Univ.",
     "local_total": 333300,
-    "international_total": 335800
+    "international_total": 335800,
+    "per_year_local": 66660,
+    "notes": " (per_year based on 5.0yr duration)"
   },
   "requirements": {
-    "academic": null,
-    "general_text": "All applicants who enter a matriculation, foundation or pre-medical programme, except those with a degree qualification in arts or humanities, shall have passed and attained a minimum in any of following at School Certificate level or its equivalent: Sijil Pelajaran Malaysia (SPM) – 5 Bs each in Biology, Chemistry, Physics, Mathematics (or Additional Mathematics) and another subject General Certificate of Education Ordinary (“O”) levels – 5Bs each in Biology, Chemistry, Physics, Mathematics (or Additional Mathematics) and another subject Unified Examination Certificate (UEC) – B4 in 4 subjects i.e. Biology, Chemistry, Physics (or Mathematics or Additional Mathematics) and another subject All applicants, except those with a degree qualification in arts or humanities, shall have passed and attained a minimum in any the following at: a) Higher School Certificate Level or its equivalent Sijil Tinggi Pelajaran Malaysia (STPM) – Grades BBB, ABC or AAC in 3 subjects i.e. Biology, Chemistry, Physics or Mathematics General Certificate of Education Advanced (“A”) levels – Grades BBB, ABC or AAC in 3 subjects i.e. Biology, Chemistry, Physics or Mathematics Matriculation or Foundation in Science or Pre-Medical course – CGPA 3.0 (out of 4) in 3 subjects i.e. Biology, Chemistry, Physics or Mathematics; and Provided the course is not less than 1 year in the same accredited institution; and the minimum entry qualification is 5 Bs each in Biology, Chemistry, Physics, Mathematics (or Additional Mathematics) and another subject at School Certificate level or its equivalent Unified Examination Certificate (UEC) – B4 each in 5 subjects i.e. Biology, Chemistry, Physics, Mathematics and Additional Mathematics Monash University Foundation Pre-University Programme (MUFY) or University of New South Wales (UNSW) Foundation or Western Australia Curriculum Council or HSC Sydney Australia or Trinity College Foundation Studies or Australian Universities Foundation Programmes or South Australian Matriculation (SAM) or Victorian Certificate of Education, Australia Year 12 –  Aggregate or average of 80% in any 3 subjects i.e. Biology, Chemistry, Physics or Mathematics or 80% ATAR National Certificate of Educational Achievement (NCEA) Level 3 or New Zealand – Average of 80% in any 3 subjects i.e. Biology, Chemistry, Physics (or Mathematics) Indian Pre-University – Average of 70% in any 3 subjects i.e. Biology, Chemistry, Physics (or Mathematics) Canadian Pre-University (CPU) or Canadian International Matriculation Program (CIMP) / Canadian Grade 12/13 – Average of 80% in any 3 subject i.e. Biology, Chemistry, Physics (or Mathematics) International Baccalaureate (IB) – 30 points with a minimum of 2 science subjects or Mathematics at Higher Level (HL) and 1 science subject at Standard Level and attained a minimum score of 4 each in Biology, Chemistry, Physics (or Mathematics) b) Diploma Level Diploma in Health Sciences – CGPA 3.5 (out of 4) and Provided the course is not less than 5 semesters or 2½ years in the same accredited institution and the minimum entry qualification is 5 Bs each in Biology, Chemistry, Physics, Mathematics (or Additional Mathematics) and another subject at School Certificate level or its equivalent c) Degree Level Degree in Medical Sciences – CGPA 3.3 (out of 4) 5-year undergraduate medical programme Degree in Medical Sciences, Degree in the Arts or Humanities – CGPA 3.5 (out of 4) 4-year graduate medical programme CGPA 3.5 (out of 4) 5-year undergraduate medical programme and 3 Cs each in Biology, Chemistry, Physics, General Science, Mathematics (or Additional Mathematics) at SPM or its equivalent or an accredited bridging course Degree in the Arts or Humanities – CGPA 4.0 (out of 4) 4-year graduate medical programme and 3 Cs each in Biology, Chemistry, Physics, General Science, Mathematics (or Additional Mathematics) at SPM or its equivalent or an accredited bridging course Additional Requirements: Applicants may be required to pass an aptitude test and/or an interview and/or a university entrance examination All applicants shall attain a level of competence in English to enable them to complete the course successfully Health Requirements: Prior to admission, all short-listed applicants are required to undergo a medical checkup to ensure they are free from communicable diseases such as HIV and Hepatitis; and to undergo immunisation against Hepatitis B."
+    "malaysian": {
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -28,5 +44,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Dental Surgery (BDS)",
+  "program_name_zh": "Dental Surgery (BDS)学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

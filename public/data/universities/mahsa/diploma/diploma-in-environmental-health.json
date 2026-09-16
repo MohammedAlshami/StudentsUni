@@ -17,9 +17,23 @@
     "currency": "MYR",
     "local_total": 14800,
     "international_total": 18050,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.0yr duration)",
+    "per_year_local": 7400
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     {
@@ -34,5 +48,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Environmental Health",
+  "program_name_zh": "Environmental Health文凭",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

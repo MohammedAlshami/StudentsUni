@@ -2,8 +2,31 @@
   "university_slug": "um",
   "level": "phd",
   "programs": [
-    {"slug": "doctor-of-public-health", "name": "Doctor of Public Health", "field": "Medicine / Public Health", "detail_status": "pending"},
-    {"slug": "doctor-of-medicine", "name": "Doctor of Medicine", "field": "Medicine", "detail_status": "pending"},
-    {"slug": "doctor-of-philosophy", "name": "Doctor of Philosophy", "field": "General / Research", "detail_status": "pending"}
-  ]
+    {
+      "slug": "doctor-of-public-health",
+      "name": "Doctor of Public Health",
+      "field": "Medicine / Public Health",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "doctor-of-medicine",
+      "name": "Doctor of Medicine",
+      "field": "Medicine",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "doctor-of-philosophy",
+      "name": "Doctor of Philosophy",
+      "field": "General / Research",
+      "detail_status": "pending"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 39000,
+    "international_total": null,
+    "per_year_local": 13000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM6500/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

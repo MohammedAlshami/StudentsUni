@@ -9,8 +9,20 @@
       "field": "Education",
       "duration": "12-14 months",
       "mode": "Part-time Study",
-      "fees": { "local": "Enquire for fees" },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058732/"]
+      "fees": {
+        "local": "Enquire for fees"
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058732/"
+      ]
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 22000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1yr duration)"
+  }
 }

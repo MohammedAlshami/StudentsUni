@@ -4,20 +4,44 @@
     "program_name": "Master of Business Administration (MBA)",
     "field": "Business",
     "duration": "1.5 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 44000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    }
   },
   {
     "slug": "master-of-education-discipline-management",
     "program_name": "Master Of Education (Discipline Management)",
     "field": "Education",
     "duration": "2 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   },
   {
     "slug": "master-of-management-by-research",
     "program_name": "Master of Management (By Research)",
     "field": "Business",
     "duration": "2 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   }
 ]

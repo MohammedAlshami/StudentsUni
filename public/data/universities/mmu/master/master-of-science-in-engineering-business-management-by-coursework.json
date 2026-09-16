@@ -15,22 +15,22 @@
     "currency": "MYR",
     "local_total": 21770,
     "international_total": 30550,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 1.0yr duration)",
+    "per_year_local": 21770
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A Bachelor’s degree in related fields with a minimum CGPA of 2.50 or equivalent, as accepted by the Senate; OR A Bachelor’s degree in related fields with a minimum CGPA of 2.00 but not meeting a CGPA of 2.50 or equivalent as accepted by Senate, subject to rigorous internal assessment; OR A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 or equivalent, and a minimum of 2 years relevant working experience, as accepted by senate, subject to rigorous internal assessment; OR A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 or equivalent, and not meeting a minimum of 2 years working experience, as accepted by Senate, subject to rigorous internal assessment and passing pre-requisite courses; OR Other equivalent/related qualifications to a Bachelor’s degree recognised by the Malaysian Government. English Entry Requirement: An applicant is required to possess a sufficient level of English language proficiency by obtaining one of the following: a minimum IELTS overall band score of 5.0 ; OR a minimum overall TOEFL iBT score of 42 ; OR a minimum MUET overall band score of 3 ; OR a minimum Pearson Test of English score of 47 ; OR a minimum Cambridge Qualifications and Test score of 154 ;OR a minimum Linguaskill overall band score of 154 In addition to the above, any other qualification which is of equivalent level as determined by the Senate of the University. The English language requirement is waived for the candidates who are natives of and/ or have completed their Bachelor’s or Master’s degrees from countries that use English as the medium of instruction as well as the first language."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -74,5 +74,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science in Engineering Business Management (By Coursework)",
+  "program_name_zh": "Science in Engineering Business Management (By Coursework)硕士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

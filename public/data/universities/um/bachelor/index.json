@@ -2,83 +2,481 @@
   "university_slug": "um",
   "level": "bachelor",
   "programs": [
-    {"slug": "bachelor-of-computer-science-information-system", "name": "Bachelor of Computer Science (Information System)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-computer-science-computer-system-and-networking", "name": "Bachelor of Computer Science (Computer System and Networking)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-computer-science-artificial-intelligence", "name": "Bachelor of Computer Science (Artificial Intelligence)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-computer-science-software-engineering", "name": "Bachelor of Computer Science (Software Engineering)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-computer-science-multimedia-computing", "name": "Bachelor of Computer Science (Multimedia Computing)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-computer-science-data-science", "name": "Bachelor of Computer Science (Data Science)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-mechanical-engineering", "name": "Bachelor of Mechanical Engineering", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-chemical-engineering", "name": "Bachelor of Chemical Engineering", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-biomedical-engineering", "name": "Bachelor of Biomedical Engineering", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-civil-engineering", "name": "Bachelor of Civil Engineering", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-electrical-engineering", "name": "Bachelor of Electrical Engineering", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-medicine-and-bachelor-of-surgery", "name": "Bachelor of Medical and Bachelor of Surgery", "field": "Medicine", "detail_status": "pending"},
-    {"slug": "bachelor-of-dental-surgery", "name": "Bachelor of Dental Surgery", "field": "Dentistry", "detail_status": "pending"},
-    {"slug": "bachelor-of-pharmacy-hons", "name": "Bachelor of Pharmacy (Hons)", "field": "Pharmacy", "detail_status": "pending"},
-    {"slug": "bachelor-of-nursing-science", "name": "Bachelor of Nursing Science", "field": "Nursing", "detail_status": "pending"},
-    {"slug": "bachelor-of-biomedical-science", "name": "Bachelor of Biomedical Science", "field": "Medicine", "detail_status": "pending"},
-    {"slug": "bachelor-of-law", "name": "Bachelor of Law", "field": "Law", "detail_status": "pending"},
-    {"slug": "bachelor-of-syariah-and-law", "name": "Bachelor of Syariah and Law", "field": "Law", "detail_status": "pending"},
-    {"slug": "bachelor-of-accounting", "name": "Bachelor of Accounting", "field": "Business / Accounting", "detail_status": "pending"},
-    {"slug": "bachelor-of-finance", "name": "Bachelor of Finance", "field": "Business / Finance", "detail_status": "pending"},
-    {"slug": "bachelor-of-business-administration", "name": "Bachelor of Business Administration", "field": "Business / Management", "detail_status": "pending"},
-    {"slug": "bachelor-of-economics", "name": "Bachelor of Economics", "field": "Business / Economics", "detail_status": "pending"},
-    {"slug": "bachelor-of-muamalat-management", "name": "Bachelor of Muamalat Management", "field": "Business / Islamic Finance", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-actuarial-science", "name": "Bachelor of Science (Actuarial Science)", "field": "Science / Mathematics", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-mathematics", "name": "Bachelor of Science (Mathematics)", "field": "Science / Mathematics", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-statistics", "name": "Bachelor of Science (Statistics)", "field": "Science / Mathematics", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-physics", "name": "Bachelor of Science (Physics)", "field": "Science / Physical Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-chemistry", "name": "Bachelor of Science (Chemistry)", "field": "Science / Physical Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-applied-geology", "name": "Bachelor of Science (Applied Geology)", "field": "Science / Physical Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-biochemistry", "name": "Bachelor of Science (Biochemistry)", "field": "Science / Life Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-biotechnology", "name": "Bachelor of Science (Biotechnology)", "field": "Science / Life Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-microbiology-and-genetics-molecules", "name": "Bachelor of Science (Microbiology and Genetics Molecules)", "field": "Science / Life Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-ecology-and-biodiversity", "name": "Bachelor of Science (Ecology & Biodiversity)", "field": "Science / Life Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-environmental-management", "name": "Bachelor of Science (Environmental Management)", "field": "Environmental Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-environmental-studies", "name": "Bachelor of Environmental Studies", "field": "Environmental Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-architecture", "name": "Bachelor of Science (Architecture)", "field": "Architecture / Built Environment", "detail_status": "pending"},
-    {"slug": "bachelor-of-building-surveying", "name": "Bachelor of Building Surveying", "field": "Architecture / Built Environment", "detail_status": "pending"},
-    {"slug": "bachelor-of-quantity-surveying", "name": "Bachelor of Quantity Surveying", "field": "Architecture / Built Environment", "detail_status": "pending"},
-    {"slug": "bachelor-of-urban-and-regional-planning", "name": "Bachelor of Urban and Regional Planning", "field": "Architecture / Built Environment", "detail_status": "pending"},
-    {"slug": "bachelor-of-property", "name": "Bachelor of Property", "field": "Architecture / Built Environment", "detail_status": "pending"},
-    {"slug": "bachelor-of-education-tesl", "name": "Bachelor of Education (Teaching English As a Second Language, TESL)", "field": "Education", "detail_status": "pending"},
-    {"slug": "bachelor-of-education-early-childhood", "name": "Bachelor of Education (Early Childhood)", "field": "Education", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-with-education", "name": "Bachelor of Science with Education (Biology/Physics/Chemistry/Mathematics)", "field": "Education", "detail_status": "pending"},
-    {"slug": "bachelor-of-islamic-education-islamic-studies", "name": "Bachelor of Islamic Education (Islamic Studies)", "field": "Education / Islamic Studies", "detail_status": "pending"},
-    {"slug": "bachelor-of-arts-international-and-strategic-studies", "name": "Bachelor of Arts (International & Strategic Studies)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-social-administration", "name": "Bachelor of Social Administration", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-arts-anthropology-and-sociology", "name": "Bachelor of Arts (Anthropology and Sociology)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-arts-history", "name": "Bachelor of Arts (History)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-geography", "name": "Bachelor of Geography", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-arts-southeast-asia-studies", "name": "Bachelor of Arts (Southeast Asia Studies)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-east-asia-studies", "name": "Bachelor of East Asia Studies", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-arts-indian-studies", "name": "Bachelor of Arts (Indian Studies)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-media-studies", "name": "Bachelor of Media Studies", "field": "Media / Communications", "detail_status": "pending"},
-    {"slug": "bachelor-of-arts-english", "name": "Bachelor of Arts (English)", "field": "Languages / Literature", "detail_status": "pending"},
-    {"slug": "bachelor-of-language-and-linguistics-english", "name": "Bachelor of Language & Linguistics (English)", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-language-and-linguistics-chinese", "name": "Bachelor of Language & Linguistics (Chinese)", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-language-and-linguistics-arabic", "name": "Bachelor of Language & Linguistics (Arabic)", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-language-and-linguistics-french", "name": "Bachelor of Language & Linguistics (France)", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-language-and-linguistics-german", "name": "Bachelor of Language & Linguistics (German)", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-language-and-linguistics-spanish", "name": "Bachelor of Language & Linguistics (Spain)", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-language-and-linguistics-italian", "name": "Bachelor of Language & Linguistics (Italy)", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-language-and-linguistics-japanese", "name": "Bachelor of Language & Linguistics (Japanese)", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-language-and-linguistics-tamil", "name": "Bachelor of Language & Linguistics (Tamil)", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-professional-malay-language", "name": "Bachelor of Professional Malay Language", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-malay-linguistics", "name": "Bachelor of Malay Linguistics", "field": "Languages / Linguistics", "detail_status": "pending"},
-    {"slug": "bachelor-of-malay-literature", "name": "Bachelor of Malay Literature", "field": "Languages / Literature", "detail_status": "pending"},
-    {"slug": "bachelor-of-malay-studies", "name": "Bachelor of Malay Studies", "field": "Languages / Malay Studies", "detail_status": "pending"},
-    {"slug": "bachelor-of-arts-chinese-studies", "name": "Bachelor of Arts (Chinese Studies)", "field": "Languages / Chinese Studies", "detail_status": "pending"},
-    {"slug": "bachelor-of-counseling", "name": "Bachelor of Counseling", "field": "Social Sciences / Counseling", "detail_status": "pending"},
-    {"slug": "bachelor-of-sport-science-exercise-science", "name": "Bachelor of Sport Science (Exercise Science)", "field": "Sport Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-sports-management", "name": "Bachelor of Sports Management", "field": "Sport Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-drama", "name": "Bachelor of Drama", "field": "Creative Arts / Performing Arts", "detail_status": "pending"},
-    {"slug": "bachelor-of-dance", "name": "Bachelor of Dance", "field": "Creative Arts / Performing Arts", "detail_status": "pending"},
-    {"slug": "bachelor-of-music", "name": "Bachelor of Music", "field": "Creative Arts / Performing Arts", "detail_status": "pending"},
-    {"slug": "bachelor-of-performing-arts", "name": "Bachelor of Performing Arts", "field": "Creative Arts / Performing Arts", "detail_status": "pending"},
-    {"slug": "bachelor-of-usuluddin", "name": "Bachelor of Usuluddin", "field": "Islamic Studies", "detail_status": "pending"},
-    {"slug": "bachelor-of-syariah", "name": "Bachelor of Syariah", "field": "Islamic Studies", "detail_status": "pending"},
-    {"slug": "bachelor-of-al-quran-and-al-hadith", "name": "Bachelor of Al-Quran and Al-Hadith", "field": "Islamic Studies", "detail_status": "pending"}
-  ]
+    {
+      "slug": "bachelor-of-computer-science-information-system",
+      "name": "Bachelor of Computer Science (Information System)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-computer-science-computer-system-and-networking",
+      "name": "Bachelor of Computer Science (Computer System and Networking)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-computer-science-artificial-intelligence",
+      "name": "Bachelor of Computer Science (Artificial Intelligence)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-computer-science-software-engineering",
+      "name": "Bachelor of Computer Science (Software Engineering)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-computer-science-multimedia-computing",
+      "name": "Bachelor of Computer Science (Multimedia Computing)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-computer-science-data-science",
+      "name": "Bachelor of Computer Science (Data Science)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-mechanical-engineering",
+      "name": "Bachelor of Mechanical Engineering",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-chemical-engineering",
+      "name": "Bachelor of Chemical Engineering",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-biomedical-engineering",
+      "name": "Bachelor of Biomedical Engineering",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-civil-engineering",
+      "name": "Bachelor of Civil Engineering",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-electrical-engineering",
+      "name": "Bachelor of Electrical Engineering",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-medicine-and-bachelor-of-surgery",
+      "name": "Bachelor of Medical and Bachelor of Surgery",
+      "field": "Medicine",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-dental-surgery",
+      "name": "Bachelor of Dental Surgery",
+      "field": "Dentistry",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-pharmacy-hons",
+      "name": "Bachelor of Pharmacy (Hons)",
+      "field": "Pharmacy",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-nursing-science",
+      "name": "Bachelor of Nursing Science",
+      "field": "Nursing",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-biomedical-science",
+      "name": "Bachelor of Biomedical Science",
+      "field": "Medicine",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-law",
+      "name": "Bachelor of Law",
+      "field": "Law",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-syariah-and-law",
+      "name": "Bachelor of Syariah and Law",
+      "field": "Law",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-accounting",
+      "name": "Bachelor of Accounting",
+      "field": "Business / Accounting",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-finance",
+      "name": "Bachelor of Finance",
+      "field": "Business / Finance",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-business-administration",
+      "name": "Bachelor of Business Administration",
+      "field": "Business / Management",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-economics",
+      "name": "Bachelor of Economics",
+      "field": "Business / Economics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-muamalat-management",
+      "name": "Bachelor of Muamalat Management",
+      "field": "Business / Islamic Finance",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-actuarial-science",
+      "name": "Bachelor of Science (Actuarial Science)",
+      "field": "Science / Mathematics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-mathematics",
+      "name": "Bachelor of Science (Mathematics)",
+      "field": "Science / Mathematics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-statistics",
+      "name": "Bachelor of Science (Statistics)",
+      "field": "Science / Mathematics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-physics",
+      "name": "Bachelor of Science (Physics)",
+      "field": "Science / Physical Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-chemistry",
+      "name": "Bachelor of Science (Chemistry)",
+      "field": "Science / Physical Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-applied-geology",
+      "name": "Bachelor of Science (Applied Geology)",
+      "field": "Science / Physical Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-biochemistry",
+      "name": "Bachelor of Science (Biochemistry)",
+      "field": "Science / Life Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-biotechnology",
+      "name": "Bachelor of Science (Biotechnology)",
+      "field": "Science / Life Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-microbiology-and-genetics-molecules",
+      "name": "Bachelor of Science (Microbiology and Genetics Molecules)",
+      "field": "Science / Life Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-ecology-and-biodiversity",
+      "name": "Bachelor of Science (Ecology & Biodiversity)",
+      "field": "Science / Life Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-environmental-management",
+      "name": "Bachelor of Science (Environmental Management)",
+      "field": "Environmental Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-environmental-studies",
+      "name": "Bachelor of Environmental Studies",
+      "field": "Environmental Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-architecture",
+      "name": "Bachelor of Science (Architecture)",
+      "field": "Architecture / Built Environment",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-building-surveying",
+      "name": "Bachelor of Building Surveying",
+      "field": "Architecture / Built Environment",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-quantity-surveying",
+      "name": "Bachelor of Quantity Surveying",
+      "field": "Architecture / Built Environment",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-urban-and-regional-planning",
+      "name": "Bachelor of Urban and Regional Planning",
+      "field": "Architecture / Built Environment",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-property",
+      "name": "Bachelor of Property",
+      "field": "Architecture / Built Environment",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-education-tesl",
+      "name": "Bachelor of Education (Teaching English As a Second Language, TESL)",
+      "field": "Education",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-education-early-childhood",
+      "name": "Bachelor of Education (Early Childhood)",
+      "field": "Education",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-with-education",
+      "name": "Bachelor of Science with Education (Biology/Physics/Chemistry/Mathematics)",
+      "field": "Education",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-islamic-education-islamic-studies",
+      "name": "Bachelor of Islamic Education (Islamic Studies)",
+      "field": "Education / Islamic Studies",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-arts-international-and-strategic-studies",
+      "name": "Bachelor of Arts (International & Strategic Studies)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-social-administration",
+      "name": "Bachelor of Social Administration",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-arts-anthropology-and-sociology",
+      "name": "Bachelor of Arts (Anthropology and Sociology)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-arts-history",
+      "name": "Bachelor of Arts (History)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-geography",
+      "name": "Bachelor of Geography",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-arts-southeast-asia-studies",
+      "name": "Bachelor of Arts (Southeast Asia Studies)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-east-asia-studies",
+      "name": "Bachelor of East Asia Studies",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-arts-indian-studies",
+      "name": "Bachelor of Arts (Indian Studies)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-media-studies",
+      "name": "Bachelor of Media Studies",
+      "field": "Media / Communications",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-arts-english",
+      "name": "Bachelor of Arts (English)",
+      "field": "Languages / Literature",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-language-and-linguistics-english",
+      "name": "Bachelor of Language & Linguistics (English)",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-language-and-linguistics-chinese",
+      "name": "Bachelor of Language & Linguistics (Chinese)",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-language-and-linguistics-arabic",
+      "name": "Bachelor of Language & Linguistics (Arabic)",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-language-and-linguistics-french",
+      "name": "Bachelor of Language & Linguistics (France)",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-language-and-linguistics-german",
+      "name": "Bachelor of Language & Linguistics (German)",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-language-and-linguistics-spanish",
+      "name": "Bachelor of Language & Linguistics (Spain)",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-language-and-linguistics-italian",
+      "name": "Bachelor of Language & Linguistics (Italy)",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-language-and-linguistics-japanese",
+      "name": "Bachelor of Language & Linguistics (Japanese)",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-language-and-linguistics-tamil",
+      "name": "Bachelor of Language & Linguistics (Tamil)",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-professional-malay-language",
+      "name": "Bachelor of Professional Malay Language",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-malay-linguistics",
+      "name": "Bachelor of Malay Linguistics",
+      "field": "Languages / Linguistics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-malay-literature",
+      "name": "Bachelor of Malay Literature",
+      "field": "Languages / Literature",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-malay-studies",
+      "name": "Bachelor of Malay Studies",
+      "field": "Languages / Malay Studies",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-arts-chinese-studies",
+      "name": "Bachelor of Arts (Chinese Studies)",
+      "field": "Languages / Chinese Studies",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-counseling",
+      "name": "Bachelor of Counseling",
+      "field": "Social Sciences / Counseling",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-sport-science-exercise-science",
+      "name": "Bachelor of Sport Science (Exercise Science)",
+      "field": "Sport Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-sports-management",
+      "name": "Bachelor of Sports Management",
+      "field": "Sport Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-drama",
+      "name": "Bachelor of Drama",
+      "field": "Creative Arts / Performing Arts",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-dance",
+      "name": "Bachelor of Dance",
+      "field": "Creative Arts / Performing Arts",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-music",
+      "name": "Bachelor of Music",
+      "field": "Creative Arts / Performing Arts",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-performing-arts",
+      "name": "Bachelor of Performing Arts",
+      "field": "Creative Arts / Performing Arts",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-usuluddin",
+      "name": "Bachelor of Usuluddin",
+      "field": "Islamic Studies",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-syariah",
+      "name": "Bachelor of Syariah",
+      "field": "Islamic Studies",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-al-quran-and-al-hadith",
+      "name": "Bachelor of Al-Quran and Al-Hadith",
+      "field": "Islamic Studies",
+      "detail_status": "pending"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

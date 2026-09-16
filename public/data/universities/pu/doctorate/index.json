@@ -2,26 +2,66 @@
   {
     "slug": "doctor-of-philosophy-phd-by-research-in-health",
     "name": "Doctor of Philosophy (PhD) by Research in Health",
-    "field": "Medicine and Health"
+    "field": "Medicine and Health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "doctor-of-philosophy-phd-in-computer-science",
     "name": "Doctor of Philosophy (PhD) in Computer Science",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "doctor-of-philosophy-phd-in-management",
     "name": "Doctor of Philosophy (PhD) in Management",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "doctor-of-business-administration-dba",
     "name": "Doctor of Business Administration (DBA)",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "doctor-of-philosophy-phd-in-education",
     "name": "Doctor of Philosophy (PhD) in Education",
-    "field": "Education"
+    "field": "Education",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

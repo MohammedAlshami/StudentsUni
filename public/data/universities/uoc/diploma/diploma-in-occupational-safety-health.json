@@ -17,20 +17,22 @@
     "international": "Refer to University",
     "local_total": 19100,
     "currency": "MYR",
-    "international_total": 24880
+    "international_total": 24880,
+    "per_year_local": 7640,
+    "notes": " (per_year based on 2.5yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics and Science",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Any of these: SPM: Pass SPM or Equivalent with 3 credits in the following subjects*: Pass in English and Credits in Mathematics and ONE Science subject (Biology/Chemistry/ Physics/General Science) AND Any other 1 subject STPM: Pass with a Grade C (GPA 2.00) in one subject* Sijil Tinggi Agama Malaysia (STAM): Pass with at least Maqbul grade* UEC: Pass English or Bahasa Malaysia at SPM/equivalent and obtain a minimum Grade B in 3 UEC subjects as below: Mathematics or ONE Science subject (Biology, Chemistry, Physics, General Science); AND Any other TWO subjects (including English and/or Bahasa Malaysia) IGCSE (O-level): Pass with credits (Grade C) in the following subjects*: Mathematics or ONE Science subject (Biology/Chemistry/ Physics/General Science) AND Any other 1 subject Other certificate (Level 3, MQF): Minimum CGPA 2.00* Sijil Kemahiran Malaysia Tahap 3 (SKM Level 3) / Sivil Vokasional Malaysia in the relevant field: The programme is fully accredited by MQA/recognised by the Malaysian government Progression into a related field of study Undergoes a relevant bridging programme provided by the University English Proficiency (For International Students): MUET Band 3 or CEFR (High Bl) *A pass in English and a credit in Mathematics or ONE Science subject at SPM level or equivalent can be waived should any other higher qualifications contain those subjects with an equivalent or higher achievement."
   },
@@ -54,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Occupational Safety & Health",
+  "program_name_zh": "Occupational Safety & Health文凭",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

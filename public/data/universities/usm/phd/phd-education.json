@@ -12,7 +12,7 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 50000,
+    "local_total": 25000,
     "international_total": 150000,
     "per_year_local": 12500,
     "per_year_international": 37500,
@@ -23,13 +23,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -49,5 +49,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Ph.D. in Education",
+  "program_name_zh": "Ph.D. in Education",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

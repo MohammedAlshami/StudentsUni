@@ -6,23 +6,44 @@
   "field": "Technopreneurship",
   "duration": "1-3 Years",
   "mode": "Full-time/Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 39,370 - RM 40,570",
     "international": "RM 54,575 - RM 55,925",
     "currency": "MYR",
-    "local_total": 39370,
+    "local_total": 118110,
     "international_total": 54575,
     "per_year_local": 39370,
     "per_year_international": 54575,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0008896/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "M.Sc. Technopreneurship",
+  "program_name_zh": "M.Sc. Technopreneurship",
+  "field_ar": "Technopreneurship",
+  "field_zh": "Technopreneurship"
 }

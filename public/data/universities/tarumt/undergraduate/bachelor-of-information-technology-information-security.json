@@ -13,7 +13,7 @@
   "fees": {
     "local": "RM37,500.00",
     "international": "RM65,700.00",
-    "local_total": 11267,
+    "local_total": 11268,
     "currency": "MYR",
     "international_total": 20134,
     "per_year_local": 3756,
@@ -21,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "(1) STPM - Grade C in 2 relevant subjects (2) A Level - Grade C in 2 relevant subjects (3) UEC - Grade B in 5 relevant subjects (4) Other IHL - Relevant Foundation accredited by MQA / relevant diploma (with minimum CGPA 2.5000)^ accredited by MQA (5) TAR UC - Foundation in Computing (Track B) OR Relevant Diploma(with minimum CGPA 2.5000)^ Compulsory subjects: i) (1), (2), (3) and (4) must include SPM Credit/ O Level Grade C in Mathematics/ UEC Grade B in one mathematics subject ii) (1), (2), (3) and (4) must include SPM Pass/ O Level Grade E (Pass)/ UEC Grade C in English Language* ^ Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test. *Grade C and above in AELE0364 English Language conducted by TAR UC is accepted as having fulfilled the English Language requirement for applicants who fail English Language at SPM/O Level/UEC. Note: a) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Bachelor Degree. b) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
   },
@@ -64,5 +64,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Information Technology (Honours) in Information Security",
+  "program_name_zh": "Information Technology (Honours) in Information Security学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

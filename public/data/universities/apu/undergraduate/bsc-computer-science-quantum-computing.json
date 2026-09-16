@@ -7,17 +7,34 @@
   "field": "Computing & Technology",
   "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": null,
     "international": null,
     "currency": "MYR",
-    "local_total": 104600.0,
+    "local_total": 104601,
     "international_total": 108500.0,
     "notes": "Fee based on BSc Software Engineering from StudyMalaysia",
-    "per_year_local": 34867.0
+    "per_year_local": 34867
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/bsc-hons-in-computer-quantum-computing",
@@ -25,5 +42,9 @@
     "https://www.studymalaysia.com/what/course/APU/0005524/"
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Honours) in Computer Science with a specialism in Quantum Computing",
+  "program_name_zh": "Science (Honours) in Computer Science with a specialism in Quantum Computing学士",
+  "field_ar": "Computing & Technology",
+  "field_zh": "Computing & Technology"
 }

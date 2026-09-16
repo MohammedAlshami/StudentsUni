@@ -4,11 +4,35 @@
   "level": "diploma",
   "program_name": "Diploma in Digital Graphic Design",
   "field": "Graphic Design",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full Time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 30000,
+    "international_total": null,
+    "per_year_local": 10000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "KPT: R3/0211/4/0027 (05/2027) - MQA: A 7046",
   "sources": [
     {
@@ -17,5 +41,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Digital Graphic Design",
+  "program_name_zh": "Digital Graphic Design文凭",
+  "field_ar": "التصميم الجرافيكي",
+  "field_zh": "平面设计"
 }

@@ -17,11 +17,25 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12476,
+    "local_total": 12474,
     "international_total": 17255,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.3333333333333335yr duration)",
+    "per_year_local": 5346
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -36,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Accounting",
+  "program_name_zh": "Accounting文凭",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

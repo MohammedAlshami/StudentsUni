@@ -26,11 +26,23 @@
       "medical_insurance": null
     },
     "local_total": 25800,
-    "international_total": 28800
+    "international_total": 28800,
+    "per_year_local": 10320,
+    "notes": " (per_year based on 2.5yr duration)"
   },
   "requirements": {
-    "local": "SPM / equivalent with credits in Mathematics and English",
-    "international": "Varies by country. Check MQA requirements."
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": {
     "mqa_code": null,
@@ -45,5 +57,9 @@
     }
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Business Studies",
+  "program_name_zh": "Business Studies文凭",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -13,22 +13,23 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 6662,
+    "local_total": 6660,
     "international_total": 12235,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 2220
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Passed SPM/SPMV with at least 3 credits in any subject, or Passed STAM (Maqbul), or Passed STPM with a minimum of 1 &#39;C&#39;, or Passed O-Level with a minimum of 3 &#39;C&#39;, or Passed SKM (Level 3) and SPM with a minimum of 1 credit, or Passed Community College Certificate (Level 3 equivalent) and SPM with a minimum of 1 credit, or Passed UEC with a minimum of 3 &#39;B&#39;, or Passed any Certificate (Level 3, MQF) with a minimum CGPA of 2.00, or Any accredited or recognized qualifications that are equivalent to the above."
   },
@@ -51,6 +52,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "diploma-in-sports-industry-management"
+  "last_updated": "2026-09-16",
+  "slug": "diploma-in-sports-industry-management",
+  "program_name_ar": "دبلوم Sports Industry Management",
+  "program_name_zh": "Sports Industry Management文凭",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

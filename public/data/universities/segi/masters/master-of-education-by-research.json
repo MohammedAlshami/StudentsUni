@@ -7,12 +7,16 @@
   "field": "Education (Teacher Training & Education Sciences)",
   "duration": "1.5 - 3 Yrs",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 15000,
+    "local_total": 45000,
     "international_total": 20000,
-    "per_year_local": "RM15,000-RM25,000",
+    "per_year_local": 15000,
     "per_year_international": "RM20,000-RM30,000",
     "notes": ""
   },
@@ -21,15 +25,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: A Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50, as accepted by the Senate; OR A Bachelor’s Degree or its equivalent, not meeting CGPA of 2.50, subjected to a minimum of five (5) years working experience in a relevant field. A Bachelor’s Degree or its equivalent, not meeting CGPA of 2.50, and does not have five (5) years working experience in a relevant field shall undergo appropriate prerequisite courses. APEL. A Certificate English Proficiency Requirements: International English Language Testing System (IELTS) 5.0 or equivalent."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -42,5 +45,9 @@
     }
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Education by Research",
+  "program_name_zh": "Education by Research硕士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

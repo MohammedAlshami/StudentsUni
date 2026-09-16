@@ -17,12 +17,20 @@
     "https://www.lincoln.edu.my",
     "https://www.studymalaysia.com/edu/lincoln-university-college/courses/"
   ],
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-16",
   "program_counts": {
     "foundation": 1,
     "diploma": 1,
     "bachelor": 6,
     "master": 8,
     "doctorate": 6
+  },
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
   }
 }

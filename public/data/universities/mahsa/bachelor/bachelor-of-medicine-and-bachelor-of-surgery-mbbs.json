@@ -3,14 +3,17 @@
   "field": "",
   "duration": "5 years",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Apr",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 364900,
     "international_total": 441450,
-    "per_year_local": null,
+    "per_year_local": 72980,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 5.0yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -39,5 +42,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Medicine and Bachelor of Surgery (MBBS)",
+  "program_name_zh": "Medicine and Bachelor of Surgery (MBBS)学士"
 }

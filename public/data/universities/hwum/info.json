@@ -9,7 +9,11 @@
   "city": "Putrajaya",
   "website": "https://www.hwum.edu.my",
   "studymalaysia_url": null,
-  "levels_available": ["foundation", "undergraduate", "postgraduate"],
+  "levels_available": [
+    "foundation",
+    "undergraduate",
+    "postgraduate"
+  ],
   "program_counts": {},
   "accreditation": "MQA",
   "sources": [
@@ -29,6 +33,14 @@
       "note": "Malaysia campus website (connection issues during data collection)"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "Branch campus of Heriot-Watt University (UK). Campus opened in Putrajaya in 2014. First green campus in Malaysia. Offers foundation, undergraduate and postgraduate programmes based on UK curriculum."
+  "last_updated": "2026-09-16",
+  "notes": "Branch campus of Heriot-Watt University (UK). Campus opened in Putrajaya in 2014. First green campus in Malaysia. Offers foundation, undergraduate and postgraduate programmes based on UK curriculum.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

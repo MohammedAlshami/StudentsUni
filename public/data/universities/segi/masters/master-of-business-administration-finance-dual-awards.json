@@ -7,16 +7,33 @@
   "field": "Business Management & Administration",
   "duration": "1.5 - 5 Yrs",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 15000,
+    "local_total": 75000,
     "international_total": 20000,
-    "per_year_local": "RM15,000-RM25,000",
+    "per_year_local": 15000,
     "per_year_international": "RM20,000-RM30,000",
     "notes": ""
   },
-  "requirements": "Bachelor's Degree \u2013 in related field with min. CGPA of 2.75 or its equivalent; Bachelor's Degree \u2013 in related field with min. CGPA of 2.75 but above 2.50 with min. 5 years' working experience in relevant field; IELTS 6.0 (international students)",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "MQA/FA3467",
   "campus": "SEGi University Kota Damansara",
   "faculty": "Postgraduate Studies",
@@ -26,5 +43,9 @@
     "https://eduswasta.my/university/segi-university/"
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (Finance) (Dual Awards)",
+  "program_name_zh": "Business Administration (Finance) (Dual Awards)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

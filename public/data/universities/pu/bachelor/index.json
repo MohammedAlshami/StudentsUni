@@ -2,56 +2,144 @@
   {
     "slug": "bachelor-of-medicine-bachelor-of-surgery-mbbs",
     "name": "Bachelor of Medicine, Bachelor of Surgery (MBBS)",
-    "field": "Medicine and Health"
+    "field": "Medicine and Health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-science-honours-in-occupational-therapy",
     "name": "Bachelor of Science (Honours) in Occupational Therapy",
-    "field": "Medicine and Health"
+    "field": "Medicine and Health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-in-information-technology-honours",
     "name": "Bachelor in Information Technology (Honours)",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-in-business-administration-honours",
     "name": "Bachelor in Business Administration (Honours)",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-in-accounting-honours",
     "name": "Bachelor in Accounting (Honours)",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-honours",
     "name": "Bachelor of Business (Honours)",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-marketing-honours",
     "name": "Bachelor of Marketing (Honours)",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration-in-logistics-and-supply-chain-management",
     "name": "Bachelor of Business Administration in Logistics and Supply Chain Management",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-education-honours-in-teaching-english-as-a-second-language-tesl",
     "name": "Bachelor of Education (Honours) in Teaching English as a Second Language (TESL)",
-    "field": "Education"
+    "field": "Education",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-science-honours-in-psychology",
     "name": "Bachelor of Science (Honours) in Psychology",
-    "field": "Social Sciences"
+    "field": "Social Sciences",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-science-honours-in-counselling-with-psychology",
     "name": "Bachelor of Science (Honours) in Counselling with Psychology",
-    "field": "Social Sciences"
+    "field": "Social Sciences",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

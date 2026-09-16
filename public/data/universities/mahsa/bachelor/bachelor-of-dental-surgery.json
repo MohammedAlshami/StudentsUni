@@ -3,14 +3,17 @@
   "field": "",
   "duration": "5 years",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Apr",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 402050,
     "international_total": 402500,
-    "per_year_local": null,
+    "per_year_local": 80410,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 5.0yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -39,5 +42,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه Dental Surgery (DDS)",
+  "program_name_zh": "Dental Surgery (DDS)博士"
 }

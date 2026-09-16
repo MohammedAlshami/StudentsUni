@@ -17,23 +17,23 @@
     "local": "From RM112,040",
     "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 35457,
-    "per_year_local": null,
-    "notes": "Fee: FromRM112,040.00",
+    "local_total": 35456,
+    "per_year_local": 8864,
+    "notes": "Fee: FromRM112,040.00 (per_year based on 4.0yr duration)",
     "international_total": 37707
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Mathematics and Physics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "STPM CGPA 2.00 including Mathematics &amp; one Natural Sciences subject (with minimum Grade C) A-Level Minimum 12 points for Mathematics &amp; one Natural Sciences subject (with minimum Grade D) Note: For A-Level points calculation A = 10 points B = 8 points C = 6 points D = 4 points E = 2 points Australian Matriculation ATAR 65 (including Mathematics Methods &amp; one Natural Sciences subject) Canadian Matriculation 65% (including Advanced Functions, Calculus &amp; Vectors and one Natural Sciences subject) Monash University Foundation Year 65% (including Mathematics &amp; one Natural Sciences subject) Sunway Foundation in Science Technology CGPA 2.5 (including Mathematics and one Natural Sciences subject) Unified Examination Certificate (UEC) Maximum 24 points from 5 subjects (all grade Bs including Mathematics and one Natural Sciences subject) Diploma CGPA 2.5 from any diploma in Engineering, Science or Technology Matriculation/Foundation CGPA 2.5 (including Mathematics and one Natural Sciences subject) IB Diploma Completed with a minimum of 25 points (excluding bonus points), (including Mathematics and one Natural Sciences subject) Other Qualifications CGPA 2.5 equivalent and any other qualifications will be considered on a case-to-case basis. APEL.A An APEL.A Certificate (APEL T-6) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) Specific Requirements Natural Sciences subjects are Physics, Biology or Chemistry. Chemistry will be given preference. SPM or equivalent in Science stream will be given preference. Additional Requirements for Certain International Students International students from certain countries that want to take some Sunway University degree programmes (for example programmes in partnership with Lancaster University) will need to take and pass our online six-month International Preparatory Programme (IPP). This is a requirement to enroll in a Sunway degree programme that also leads to a degree certificate being awarded by Sunway’s partner institution. Students are required to pass all the subjects with a grade C or above to progress to the degree. English Language Requirements IELTS or equivalent 6.0 or equivalent MUET Band 4 SPM English B+ UEC English B3 O-Level English (1119) B3 Sunway Intensive English Programme (IEP) Pass Level 4 with minimum 65% ESL/English Satisfactory level at Pre-University programmes with English as the medium of instruction. Additional requirements for Malaysian students entering using an entry qualification whereby the medium of instruction is not in English, MQA requires the student to possess a MUET or an international English proficiency qualification in order to register for the Engineering programmes."
   },
@@ -59,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Electronic and Electrical Engineering with Honours",
+  "program_name_zh": "Electronic and Electrical Engineering with Honours学士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

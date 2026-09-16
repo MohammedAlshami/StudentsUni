@@ -8,16 +8,33 @@
   "faculty": null,
   "duration": "3 years, 9 semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Sep"
+  ],
   "fees": {
     "local": "From RM85,425",
     "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 85425.0,
-    "per_year_local": null,
-    "notes": "Fee: FromRM85,425.00"
+    "local_total": 85423,
+    "per_year_local": 18983,
+    "notes": "Fee: FromRM85,425.00 (per_year based on 4.5yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -25,5 +42,9 @@
     "https://www.studymalaysia.com/edu/sunway/courses/"
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) in Industrial Statistics",
+  "program_name_zh": "Science (Hons) in Industrial Statistics学士",
+  "field_ar": "Mathematics & Statistics",
+  "field_zh": "Mathematics & Statistics"
 }

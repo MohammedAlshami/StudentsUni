@@ -14,7 +14,9 @@
       "fees": null,
       "requirements": null,
       "accreditation": null,
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0008732/"],
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0008732/"
+      ],
       "confidence": 0.7,
       "last_updated": "2026-09-14"
     },
@@ -28,9 +30,19 @@
       "fees": null,
       "requirements": null,
       "accreditation": null,
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0054463/"],
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054463/"
+      ],
       "confidence": 0.7,
       "last_updated": "2026-09-14"
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 24000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+  }
 }

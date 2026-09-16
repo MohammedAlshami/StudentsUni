@@ -16,11 +16,12 @@
     "currency": "MYR",
     "local_total": 14930,
     "international_total": 24710,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 1.0yr duration)",
+    "per_year_local": 14930
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -28,8 +29,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Any one of these: SPM: Minimum 5Cs (including Mathematics/Accounting). O-Level: Minimum 5Cs (including Mathematics/Accounting). UEC: Minimum 4Bs (including Mathematics/Accounting). Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM."
   },
@@ -52,5 +53,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Arts",
+  "program_name_zh": "Arts预科",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

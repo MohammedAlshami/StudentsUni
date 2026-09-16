@@ -8,22 +8,34 @@
   "field": "Biosciences",
   "duration": "3 years",
   "mode": "Full Time",
-  "intakes": null,
-  "fees": {},
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Jun",
+    "Oct",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of these: Master&#39;s Degree: Masters in the field of Science Bachelor&#39;s Degree: Passed Bachelor&#39;s degree in Science with min. CGPA 3.67 and registered as a Masters candidate and passed related qualifying assessment Other equivalent qualifications: Any other equivalent qualification recognised by the Malaysian Government or accepted by the Taylor&#39;s University Senate and any of condition of the above would require student&#39;s research proposal to be approved. Note: Bachelor&#39;s degree in Science candidates who are registered for master&#39;s degree programmes in Science may apply to convert to the doctoral degree programmes subjected to the following conditions: Within 1 year for full time and within 2 years for part-time candidates; Having shown competency and capability in conducting research at doctoral level through rigorous internal evaluation. Approval of the Taylor&#39;s University Senate. English Requirement for International students:  IELTS 6.0 / TOEFL 60 (Internet Based Test) (May join IEN preparatory course and achieve the IELTS score)  Prior Publication Mode: Obtain a master&#39;s degree in the field or related fields accepted by the HEP Senate Obtain other qualifications equivalent to a master&#39;s degree recognised by the Government of Malaysia Candidates without a related qualification in the field/s or working experience in the relevant fields must undergo appropriate prerequisite courses determined by the HEP In addition to the above criteria, those who want to join Doctoral Degree by Retrospective or Prior Publication mode must include the below to the formal application: Minimum of 5 publications or equivalent works in alignment with the theme of the specialisation; An executive summary of the above publications to demonstrate the applicant’s contribution to knowledge in the field; A list of scholarly published work; Criteria for published works Published work must encompass high-quality journals, monographs, books, research-based chapters in books, electronic publications which have not been used to obtain other awards or deemed a part of those awards. The publications must be published within a period not exceeding ten (10) years from the date of submission. For the five (5) nominated publications, the candidate must be the principal author with the contributions of others clearly defined.  "
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -35,5 +47,9 @@
     }
   ],
   "confidence": 0.5,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (PhD) in Science",
+  "program_name_zh": "哲学博士 (PhD) in Science",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

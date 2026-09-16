@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { Link } from "@/i18n/navigation";
 import { useSearchParams } from "next/navigation";
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import {
   ChevronLeft,
   ChevronRight,
@@ -19,8 +19,12 @@ type ProgramRow = {
   university_slug: string;
   level: string;
   name: string;
+  name_ar?: string;
+  name_zh?: string;
   slug: string;
   field: string;
+  field_ar?: string;
+  field_zh?: string;
 };
 
 const LEVEL_FILTER_VALUES = ["all", "foundation", "diploma", "bachelor", "master", "phd"] as const;
@@ -71,13 +75,28 @@ export default function ProgramsClient({ programs }: { programs: ProgramRow[] })
   const t = useTranslations("filters");
   const tLevels = useTranslations("levels");
   const tCommon = useTranslations("common");
+  const locale = useLocale();
+
+  function getLocalizedName(name: string, nameAr?: string, nameZh?: string): string {
+    if (locale === "ar") return nameAr || name;
+    if (locale === "zh") return nameZh || name;
+    return name;
+  }
+
+  function getLocalizedField(field: string, fieldAr?: string, fieldZh?: string): string {
+    if (locale === "ar") return fieldAr || field;
+    if (locale === "zh") return fieldZh || field;
+    return field;
+  }
 
   const filtered = programs.filter((p) => {
     const q = search.toLowerCase();
+    const searchName = getLocalizedName(p.name, p.name_ar, p.name_zh);
+    const searchField = getLocalizedField(p.field, p.field_ar, p.field_zh);
     const matchesSearch =
-      p.name.toLowerCase().includes(q) ||
+      searchName.toLowerCase().includes(q) ||
       p.university.toLowerCase().includes(q) ||
-      p.field.toLowerCase().includes(q);
+      searchField.toLowerCase().includes(q);
     return matchesSearch && matchesLevelFilter(p.level, level);
   });
 
@@ -164,9 +183,9 @@ export default function ProgramsClient({ programs }: { programs: ProgramRow[] })
                   {p.university}
                 </p>
                 <h3 className="mt-[6px] text-[16px] font-bold leading-snug group-hover:underline">
-                  {p.name}
+                  {getLocalizedName(p.name, p.name_ar, p.name_zh)}
                 </h3>
-                {p.field && <p className="mt-[10px] text-[13px] text-black/55">{p.field}</p>}
+                {p.field && <p className="mt-[10px] text-[13px] text-black/55">{getLocalizedField(p.field, p.field_ar, p.field_zh)}</p>}
               </div>
             </Link>
           ))}

@@ -7,10 +7,16 @@
   "slug": "master-of-business-administration-dual-award-with-federation-university",
   "duration": "1 Year (Full-time) / 2 Years (Part-time)",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Oct"
+  ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University"
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 66000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
   "requirements": null,
   "accreditation": null,
@@ -18,5 +24,9 @@
     "https://studymalaysia.com/what/course/CUCMS/0058791/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (Dual Award with Federation University)",
+  "program_name_zh": "Business Administration (Dual Award with Federation University)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

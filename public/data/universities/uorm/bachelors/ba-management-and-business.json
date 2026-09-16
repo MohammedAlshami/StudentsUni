@@ -6,17 +6,40 @@
   "field": "Business",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM36,775",
-    "international": "RM52,500"
+    "international": "RM52,500",
+    "local_total": 36774,
+    "per_year_local": 12258
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/reading/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "ba-management-and-business"
+  "last_updated": "2026-09-16",
+  "slug": "ba-management-and-business",
+  "program_name_ar": "بكالوريوس anagement & Business",
+  "program_name_zh": "anagement & Business学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

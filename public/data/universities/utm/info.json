@@ -6,7 +6,12 @@
   "state": "Johor",
   "city": "Skudai",
   "website": "https://www.utm.my",
-  "levels_available": ["foundation", "diploma", "bachelor", "postgraduate"],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "postgraduate"
+  ],
   "program_counts": {
     "foundation": 3,
     "diploma": 15,
@@ -20,5 +25,13 @@
     "https://comp.utm.my/undergraduate/",
     "https://admission.utm.my/malaysian-postgraduate-study/"
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

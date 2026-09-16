@@ -6,14 +6,32 @@
   "field": "Business",
   "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Feb",
+    "Jun",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12217,
+    "local_total": 12216,
     "international_total": 19900,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 4072
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     {
@@ -28,5 +46,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (PhD) in Management",
+  "program_name_zh": "哲学博士 (PhD) in Management",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

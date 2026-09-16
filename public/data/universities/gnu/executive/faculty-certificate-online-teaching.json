@@ -4,10 +4,21 @@
   "level": "executive",
   "program_name": "Faculty Certificate in Online Teaching",
   "field": "Education",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Unknown",
-  "intakes": null,
-  "fees": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 15000,
+    "international_total": null,
+    "per_year_local": 5000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
   "requirements": null,
   "accreditation": null,
   "sources": [
@@ -17,5 +28,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Faculty Certificate in Online Teaching",
+  "program_name_zh": "Faculty Certificate in Online Teaching",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

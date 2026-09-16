@@ -14,13 +14,26 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 28001,
+    "local_total": 95016,
     "international_total": 149752,
     "per_year_local": 47508,
     "per_year_international": 34,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/diploma-in-hotel-management.html",
@@ -37,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Hotel Management",
+  "program_name_zh": "Hotel Management文凭",
+  "field_ar": "الضيافة",
+  "field_zh": "酒店管理"
 }

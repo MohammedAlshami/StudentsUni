@@ -13,11 +13,25 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 11534,
+    "local_total": 11532,
     "international_total": 20084,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 3844
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     {
@@ -32,5 +46,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة",
+  "program_name_zh": "哲学博士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

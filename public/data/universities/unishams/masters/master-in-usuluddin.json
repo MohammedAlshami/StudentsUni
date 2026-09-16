@@ -5,15 +5,43 @@
   "program_name": "Master in Usuluddin",
   "field": "Islamic Studies",
   "slug": "master-in-usuluddin",
-  "duration": null,
+  "duration": "3 years",
   "mode": null,
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 33000,
+    "international_total": null,
+    "per_year_local": 11000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "R3/0224/7/0054 (9/7/2031) (A9806)",
   "sources": [
     "https://unishams.edu.my/component/content/article/master-in-usuluddin?catid=11"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Usuluddin",
+  "program_name_zh": "Usuluddin硕士",
+  "field_ar": "الدراسات الإسلامية",
+  "field_zh": "伊斯兰研究"
 }

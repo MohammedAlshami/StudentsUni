@@ -17,9 +17,24 @@
     "international": "43280/Course",
     "local_total": 15000,
     "currency": "MYR",
-    "international_total": 24177
+    "international_total": 24177,
+    "per_year_local": 5000,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0005239/",
@@ -30,5 +45,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس English (Hons)",
+  "program_name_zh": "English (Hons)学士",
+  "field_ar": "Languages (National language & other languages)",
+  "field_zh": "Languages (National language & other languages)"
 }

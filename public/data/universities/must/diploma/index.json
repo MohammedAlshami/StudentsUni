@@ -2,26 +2,66 @@
   {
     "slug": "diploma-in-logistics-and-freight-forwarding-management",
     "name": "Diploma in Logistics and Freight Forwarding Management",
-    "field": "Transport and Logistics"
+    "field": "Transport and Logistics",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-law-enforcement-administration",
     "name": "Diploma in Law Enforcement Administration",
-    "field": "Law Enforcement"
+    "field": "Law Enforcement",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-information-technology",
     "name": "Diploma in Information Technology",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-accounting",
     "name": "Diploma in Accounting",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-business-studies",
     "name": "Diploma in Business Studies",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

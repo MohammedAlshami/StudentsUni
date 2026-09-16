@@ -27,7 +27,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 71,
+      "name_ar": "جامعة ملايا",
+      "name_zh": "马来亚大学"
     },
     {
       "slug": "usm",
@@ -45,7 +48,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 48,
+      "name_ar": "جامعة سAINS ماليزيا",
+      "name_zh": "马来西亚理科大学"
     },
     {
       "slug": "ukm",
@@ -63,7 +69,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 143,
+      "name_ar": "جامعة كيبانجسaan ماليزيا",
+      "name_zh": "马来西亚国民大学"
     },
     {
       "slug": "upm",
@@ -81,7 +90,10 @@
         "foundation"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 88,
+      "name_ar": "جامعة بوترا ماليزيا",
+      "name_zh": "马来西亚博特拉大学"
     },
     {
       "slug": "utm",
@@ -100,7 +112,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 78,
+      "name_ar": "جامعة تكنولوجيا ماليزيا",
+      "name_zh": "马来西亚工艺大学"
     },
     {
       "slug": "uum",
@@ -118,7 +133,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 55,
+      "name_ar": "جامعة أوتارا ماليزيا",
+      "name_zh": "马来西亚北方大学"
     },
     {
       "slug": "unimas",
@@ -132,7 +150,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 100,
+      "name_ar": "جامعة ماليزيا ساراواك",
+      "name_zh": "马来西亚沙捞越大学"
     },
     {
       "slug": "ums",
@@ -150,7 +171,10 @@
         "bachelor"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 71,
+      "name_ar": "جامعة ماليزيا صباح",
+      "name_zh": "马来西亚沙巴大学"
     },
     {
       "slug": "upsi",
@@ -167,7 +191,10 @@
         "bachelor"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 66,
+      "name_ar": "جامعة التعليم سلطان إدريس",
+      "name_zh": "苏丹依德理斯教育大学"
     },
     {
       "slug": "uitm",
@@ -186,7 +213,10 @@
         "undergraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 244,
+      "name_ar": "جامعة تكنولوجيا مارا",
+      "name_zh": "玛拉工艺大学"
     },
     {
       "slug": "iium",
@@ -203,7 +233,10 @@
         "undergraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 72,
+      "name_ar": "جامعة الإسلامية الدولية ماليزيا",
+      "name_zh": "马来西亚国际伊斯兰大学"
     },
     {
       "slug": "unimap",
@@ -217,7 +250,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 86,
+      "name_ar": "جامعة ماليزيا برليس",
+      "name_zh": "马来西亚玻璃市大学"
     },
     {
       "slug": "umpsa",
@@ -236,7 +272,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 115,
+      "name_ar": "جامعة ماليزيا فهغ السلطان عبدالله",
+      "name_zh": "马来西亚彭亨苏丹阿卜杜拉大学"
     },
     {
       "slug": "uthm",
@@ -250,7 +289,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 78,
+      "name_ar": "جامعة تون حسين أون ماليزيا",
+      "name_zh": "马来西亚敦胡先翁大学"
     },
     {
       "slug": "usim",
@@ -264,7 +306,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 39,
+      "name_ar": "جامعة العلوم الإسلامية ماليزيا",
+      "name_zh": "马来西亚伊斯兰科学大学"
     },
     {
       "slug": "umk",
@@ -281,7 +326,10 @@
         "undergraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 35,
+      "name_ar": "جامعة ماليزيا كلنتن",
+      "name_zh": "马来西亚吉兰丹大学"
     },
     {
       "slug": "upnm",
@@ -295,7 +343,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 30,
+      "name_ar": "جامعة الدفاع الوطني ماليزيا",
+      "name_zh": "马来西亚国防大学"
     },
     {
       "slug": "utem",
@@ -309,7 +360,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 45,
+      "name_ar": "جامعة تكنولوجيا ماليزيا ملاكا",
+      "name_zh": "马来西亚技术大学"
     },
     {
       "slug": "unisza",
@@ -323,7 +377,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 66,
+      "name_ar": "جامعة سلطان زين العابدين",
+      "name_zh": "苏丹再纳阿比丁大学"
     },
     {
       "slug": "umt",
@@ -337,7 +394,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 101,
+      "name_ar": "جامعة ماليزيا تيرينغانو",
+      "name_zh": "马来西亚登嘉楼大学"
     },
     {
       "slug": "aimst",
@@ -351,7 +411,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 48,
+      "name_ar": "جامعة آيمست",
+      "name_zh": "AIMST大学"
     },
     {
       "slug": "aiu",
@@ -368,7 +431,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 19,
+      "name_ar": "جامعة البخاري الدولية",
+      "name_zh": "阿尔布哈里国际大学"
     },
     {
       "slug": "mediu",
@@ -388,7 +454,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 60,
+      "name_ar": "جامعة المدينة الدولية",
+      "name_zh": "麦地那国际大学"
     },
     {
       "slug": "aeu",
@@ -409,7 +478,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 30,
+      "name_ar": "جامعة آسيا إي",
+      "name_zh": "亚洲e大学"
     },
     {
       "slug": "amu",
@@ -430,7 +502,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 22,
+      "name_ar": "جامعة آسيا متروبوليتان",
+      "name_zh": "亚洲都市大学"
     },
     {
       "slug": "apu",
@@ -444,7 +519,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 113,
+      "name_ar": "جامعة آسيا باسيفيك للتقنية والابتكار",
+      "name_zh": "亚太科技大学"
     },
     {
       "slug": "binary",
@@ -463,7 +541,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 15,
+      "name_ar": "جامعة باينري",
+      "name_zh": "Binary大学"
     },
     {
       "slug": "cityu",
@@ -482,7 +563,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 74,
+      "name_ar": "جامعة سيتي ماليزيا",
+      "name_zh": "城市大学"
     },
     {
       "slug": "curtin",
@@ -504,7 +588,10 @@
         "doctoral"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 55,
+      "name_ar": "جامعة كيرتن ماليزيا",
+      "name_zh": "科廷大学马来西亚分校"
     },
     {
       "slug": "dhu",
@@ -515,12 +602,15 @@
       "city": "Pekan",
       "website": "https://www.dhu.edu.my",
       "mqa_provider_id": null,
-      "status": "partial",
+      "status": "done",
       "levels_available": [
         "diploma"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 1,
+      "name_ar": "جامعة دي آر بي هيكوم",
+      "name_zh": "DRB-HICOM汽车大学"
     },
     {
       "slug": "gnu",
@@ -539,7 +629,10 @@
         "executive"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 18,
+      "name_ar": "جامعة غلوبالنكس",
+      "name_zh": "GlobalNxt大学"
     },
     {
       "slug": "help",
@@ -553,7 +646,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 58,
+      "name_ar": "جامعة هيلب",
+      "name_zh": "精英大学"
     },
     {
       "slug": "hwum",
@@ -564,14 +660,17 @@
       "city": "Putrajaya",
       "website": "https://www.hwum.edu.my",
       "mqa_provider_id": null,
-      "status": "empty",
+      "status": "done",
       "levels_available": [
         "foundation",
         "undergraduate",
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 28,
+      "name_ar": "جامعة هيريوت وات ماليزيا",
+      "name_zh": "赫瑞瓦特大学马来西亚分校"
     },
     {
       "slug": "imu",
@@ -595,7 +694,10 @@
         "global-learning"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 18,
+      "name_ar": "جامعة آي إم يو",
+      "name_zh": "国际医科大学"
     },
     {
       "slug": "inceif",
@@ -613,7 +715,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 11,
+      "name_ar": "جامعة إنسيف",
+      "name_zh": "伊斯兰金融教育国际中心"
     },
     {
       "slug": "inti",
@@ -627,7 +732,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 43,
+      "name_ar": "جامعة إنسي الدولية",
+      "name_zh": "英迪大学"
     },
     {
       "slug": "uim",
@@ -647,7 +755,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 11,
+      "name_ar": "جامعة الإسلام ماليزيا",
+      "name_zh": "马来西亚伊斯兰大学"
     },
     {
       "slug": "klust",
@@ -667,7 +778,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 23,
+      "name_ar": "جامعة كوالالمبور للعلوم والبنية التحتية",
+      "name_zh": "吉隆坡科技大学"
     },
     {
       "slug": "luct",
@@ -687,7 +801,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 5,
+      "name_ar": "جامعة ليم كوك وينغ للتكنولوجيا الإبداعية",
+      "name_zh": "林国荣创意科技大学"
     },
     {
       "slug": "mahsa",
@@ -706,7 +823,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 32,
+      "name_ar": "جامعة ماهسا",
+      "name_zh": "MAHSA大学"
     },
     {
       "slug": "unimel",
@@ -726,7 +846,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 57,
+      "name_ar": "جامعة ماليزيا الإسلامية ملاكا",
+      "name_zh": "马六甲伊斯兰大学"
     },
     {
       "slug": "must",
@@ -746,7 +869,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 21,
+      "name_ar": "جامعة العلوم والتكنولوجيا ماليزيا",
+      "name_zh": "马来西亚科技大学"
     },
     {
       "slug": "msu",
@@ -760,7 +886,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 134,
+      "name_ar": "جامعة الإدارة والعلوم",
+      "name_zh": "管理与科学大学"
     },
     {
       "slug": "mila",
@@ -780,7 +909,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 38,
+      "name_ar": "جامعة ميلا",
+      "name_zh": "MILA大学"
     },
     {
       "slug": "misi",
@@ -798,7 +930,10 @@
         "masters"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 8,
+      "name_ar": "جامعة ميسي",
+      "name_zh": "MISI大学"
     },
     {
       "slug": "monash",
@@ -818,7 +953,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 60,
+      "name_ar": "جامعة موناش ماليزيا",
+      "name_zh": "莫纳什大学马来西亚分校"
     },
     {
       "slug": "mmu",
@@ -838,7 +976,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 90,
+      "name_ar": "جامعة الوسائط المتعددة",
+      "name_zh": "多媒体大学"
     },
     {
       "slug": "uniten",
@@ -852,7 +993,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 62,
+      "name_ar": "جامعة الطاقة الوطنية",
+      "name_zh": "国家能源大学"
     },
     {
       "slug": "numed",
@@ -870,7 +1014,10 @@
         "masters"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 5,
+      "name_ar": "جامعة نيوكاسل للطب ماليزيا",
+      "name_zh": "纽卡斯尔大学医学院马来西亚分校"
     },
     {
       "slug": "nilai",
@@ -884,7 +1031,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 43,
+      "name_ar": "جامعة نيلاي",
+      "name_zh": "汝来大学"
     },
     {
       "slug": "oum",
@@ -898,7 +1048,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 53,
+      "name_ar": "جامعة ماليزيا المفتوحة",
+      "name_zh": "马来西亚开放大学"
     },
     {
       "slug": "pu",
@@ -918,7 +1071,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 56,
+      "name_ar": "جامعة برادانا",
+      "name_zh": "佩达纳大学"
     },
     {
       "slug": "utp",
@@ -932,7 +1088,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 38,
+      "name_ar": "جامعة تكنولوجيا بيترناس",
+      "name_zh": "国油大学"
     },
     {
       "slug": "uptm",
@@ -952,7 +1111,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 21,
+      "name_ar": "جامعة بولي تيك ماليزيا",
+      "name_zh": "马来西亚技术大学"
     },
     {
       "slug": "qiu",
@@ -966,7 +1128,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 51,
+      "name_ar": "جامعة كوست الدولية",
+      "name_zh": "Quest国际大学"
     },
     {
       "slug": "rui",
@@ -980,7 +1145,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 26,
+      "name_ar": "جامعة رافلز إسكندر",
+      "name_zh": "莱佛士大学依斯干达"
     },
     {
       "slug": "rumc",
@@ -1000,7 +1168,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 6,
+      "name_ar": "كلية الملكية للجرحين في أيرلندا وماليزيا",
+      "name_zh": "爱尔兰皇家外科医学院马来西亚校区"
     },
     {
       "slug": "segi",
@@ -1014,7 +1185,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 43,
+      "name_ar": "جامعة سيجي",
+      "name_zh": "世纪大学"
     },
     {
       "slug": "uis",
@@ -1034,7 +1208,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 25,
+      "name_ar": "جامعة.selangor الإسلامية",
+      "name_zh": "雪兰莪伊斯兰大学"
     },
     {
       "slug": "unishams",
@@ -1055,7 +1232,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 45,
+      "name_ar": "جامعة السلطان عبد الحالم المتعظم internationally",
+      "name_zh": "苏丹阿都哈林国际伊斯兰大学"
     },
     {
       "slug": "usas",
@@ -1069,7 +1249,10 @@
       "status": "empty",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 0,
+      "name_ar": "جامعة سلطان عزلان شاه",
+      "name_zh": "苏丹阿兹兰沙大学"
     },
     {
       "slug": "sunway",
@@ -1083,7 +1266,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 69,
+      "name_ar": "جامعة سانواي",
+      "name_zh": "双威大学"
     },
     {
       "slug": "swinburne",
@@ -1097,7 +1283,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 32,
+      "name_ar": "جامعة سوينبورن تكنولوجيا ساراواك",
+      "name_zh": "斯威本科技大学砂拉越分校"
     },
     {
       "slug": "taylors",
@@ -1116,7 +1305,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 95,
+      "name_ar": "جامعة تيلورز",
+      "name_zh": "泰莱大学"
     },
     {
       "slug": "tarumt",
@@ -1130,7 +1322,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 153,
+      "name_ar": "جامعة تونكو عبد الرحمن",
+      "name_zh": "拉曼大学"
     },
     {
       "slug": "unirazak",
@@ -1144,7 +1339,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 19,
+      "name_ar": "جامعة تون عبد الرزاق",
+      "name_zh": "敦阿都拉萨大学"
     },
     {
       "slug": "ucsi",
@@ -1158,7 +1356,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 86,
+      "name_ar": "UCSI University",
+      "name_zh": "UCSI University"
     },
     {
       "slug": "unitar",
@@ -1172,7 +1373,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 40,
+      "name_ar": "جامعة يونيتار الدولية",
+      "name_zh": "UNITAR国际大学"
     },
     {
       "slug": "uoc",
@@ -1186,7 +1390,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 61,
+      "name_ar": "جامعة سايبرجايا",
+      "name_zh": "赛城大学"
     },
     {
       "slug": "um-wales",
@@ -1200,7 +1407,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 26,
+      "name_ar": "جامعة ملايا ويلز",
+      "name_zh": "马来亚大学威尔士分校"
     },
     {
       "slug": "unisel",
@@ -1214,7 +1424,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 27,
+      "name_ar": "جامعة سلاغور",
+      "name_zh": "雪兰莪大学"
     },
     {
       "slug": "uts",
@@ -1232,7 +1445,10 @@
         "master"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 8,
+      "name_ar": "جامعة تكنولوجيا ساراواك",
+      "name_zh": "砂拉越科技大学"
     },
     {
       "slug": "unimy",
@@ -1246,7 +1462,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 13,
+      "name_ar": "جامعة ماليزيا لعلوم الحاسوب والهندسة",
+      "name_zh": "马来西亚计算机与工程大学"
     },
     {
       "slug": "unmc",
@@ -1260,7 +1479,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 51,
+      "name_ar": "جامعة نوتنغهام ماليزيا",
+      "name_zh": "诺丁汉大学马来西亚分校"
     },
     {
       "slug": "uorm",
@@ -1274,7 +1496,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 12,
+      "name_ar": "جامعة ريدنغ ماليزيا",
+      "name_zh": "雷丁大学马来西亚分校"
     },
     {
       "slug": "usmc",
@@ -1288,7 +1513,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 7,
+      "name_ar": "جامعة ساوثامبتون ماليزيا",
+      "name_zh": "南安普顿大学马来西亚分校"
     },
     {
       "slug": "uowm",
@@ -1307,7 +1535,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 25,
+      "name_ar": "جامعة وولونغونغ ماليزيا",
+      "name_zh": "伍伦贡大学马来西亚分校"
     },
     {
       "slug": "wou",
@@ -1321,7 +1552,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 26,
+      "name_ar": "جامعة ووازان المفتوحة",
+      "name_zh": "华文开放大学"
     },
     {
       "slug": "xmum",
@@ -1339,7 +1573,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 42,
+      "name_ar": "جامعة شيامن ماليزيا",
+      "name_zh": "厦门大学马来西亚分校"
     },
     {
       "slug": "unikl",
@@ -1353,7 +1590,10 @@
       "status": "done",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 54,
+      "name_ar": "جامعة كوالالمبور",
+      "name_zh": "吉隆坡大学"
     },
     {
       "slug": "berjaya",
@@ -1373,7 +1613,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 24,
+      "name_ar": "كلية برجايا الجامعية",
+      "name_zh": "伯佳雅大学学院"
     },
     {
       "slug": "fcuc",
@@ -1392,7 +1635,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 21,
+      "name_ar": "كلية سيتي الأولى الجامعية",
+      "name_zh": "第一城市大学学院"
     },
     {
       "slug": "gmi-ucas",
@@ -1410,7 +1656,10 @@
         "bachelor"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 18,
+      "name_ar": "كلية جي إم آي الجامعية",
+      "name_zh": "GMI大学学院"
     },
     {
       "slug": "hcuc",
@@ -1430,7 +1679,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 17,
+      "name_ar": "كلية هان تشيانغ الجامعية",
+      "name_zh": "韩江传媒大学学院"
     },
     {
       "slug": "ijnuc",
@@ -1441,10 +1693,13 @@
       "city": "Kuala Lumpur",
       "website": "https://www.ijnuc.edu.my",
       "mqa_provider_id": null,
-      "status": "partial",
+      "status": "empty",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 0,
+      "name_ar": "كلية آي جي إن الجامعية",
+      "name_zh": "IJN大学学院"
     },
     {
       "slug": "juc",
@@ -1455,10 +1710,13 @@
       "city": "Kota Kinabalu",
       "website": "https://www.juc.edu.my",
       "mqa_provider_id": null,
-      "status": "partial",
+      "status": "empty",
       "levels_available": [],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 0,
+      "name_ar": "كلية جسلتون الجامعية",
+      "name_zh": "Jesselton大学学院"
     },
     {
       "slug": "luc",
@@ -1478,7 +1736,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 22,
+      "name_ar": "جامعة لينكولن",
+      "name_zh": "林肯大学学院"
     },
     {
       "slug": "linton",
@@ -1495,7 +1756,10 @@
         "diploma"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 14,
+      "name_ar": "كلية لينتون الجامعية",
+      "name_zh": "林登大学学院"
     },
     {
       "slug": "neuc",
@@ -1515,7 +1779,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 42,
+      "name_ar": "كلية نيوا الجامعية",
+      "name_zh": "新纪元大学学院"
     },
     {
       "slug": "saito",
@@ -1534,7 +1801,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 8,
+      "name_ar": "كلية سايتو الجامعية",
+      "name_zh": "SAITO大学学院"
     },
     {
       "slug": "southern",
@@ -1553,7 +1823,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 50,
+      "name_ar": "كلية ساوثرن الجامعية",
+      "name_zh": "南方大学学院"
     },
     {
       "slug": "twintech",
@@ -1564,7 +1837,7 @@
       "city": "Petaling Jaya",
       "website": "https://www.twintech.edu.my",
       "mqa_provider_id": null,
-      "status": "partial",
+      "status": "done",
       "levels_available": [
         "diploma",
         "undergraduate",
@@ -1572,7 +1845,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 4,
+      "name_ar": "كلية تونتيك الجامعية",
+      "name_zh": "双威大学学院"
     },
     {
       "slug": "klmuc",
@@ -1593,7 +1869,10 @@
         "phd"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 7,
+      "name_ar": "كلية يونيتار الجامعية كوالالمبور",
+      "name_zh": "UNITAR大学学院吉隆坡"
     },
     {
       "slug": "ucsf",
@@ -1611,7 +1890,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 15,
+      "name_ar": "كلية جامعة ساباه",
+      "name_zh": "沙巴大学学院基金会"
     },
     {
       "slug": "uc-tati",
@@ -1630,7 +1912,10 @@
         "postgraduate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 26,
+      "name_ar": "كلية جامعة تاتي",
+      "name_zh": "TATI大学学院"
     },
     {
       "slug": "widad",
@@ -1650,7 +1935,10 @@
         "doctorate"
       ],
       "sources": [],
-      "last_updated": "2026-09-15"
+      "last_updated": "2026-09-16",
+      "program_count": 33,
+      "name_ar": "كلية ويداد الجامعية",
+      "name_zh": "Widad大学学院"
     }
   ]
 }

@@ -8,16 +8,32 @@
   "faculty": null,
   "duration": "Full time: 2 years / Part time: 3 years",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "Jul"
+  ],
   "fees": {
     "local": "From RM36,880",
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
-    "local_total": 36880.0,
-    "per_year_local": null,
-    "notes": "Fee: FromRM36,880.00"
+    "local_total": 36880,
+    "per_year_local": 18440,
+    "notes": "Fee: FromRM36,880.00 (per_year based on 2.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -25,5 +41,9 @@
     "https://www.studymalaysia.com/edu/sunway/courses/"
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "M.Sc in Actuarial Science",
+  "program_name_zh": "M.Sc in Actuarial Science",
+  "field_ar": "Mathematics & Statistics",
+  "field_zh": "Mathematics & Statistics"
 }

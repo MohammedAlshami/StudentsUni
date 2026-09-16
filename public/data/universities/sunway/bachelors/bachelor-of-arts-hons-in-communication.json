@@ -17,23 +17,23 @@
     "local": "From RM71,680",
     "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 36977,
-    "per_year_local": null,
-    "notes": "Fee: FromRM71,680.00",
+    "local_total": 36975,
+    "per_year_local": 12325,
+    "notes": "Fee: FromRM71,680.00 (per_year based on 3.0yr duration)",
     "international_total": 39227
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Any relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90"
     },
     "general_text": "American Degree Transfer Program (ADTP) Completion of ADTP with a minimum CGPA of 2.00 STPM Average Grade C or CGPA &gt; 2.00 (Minimum 2 principals) A-Level Minimum 8 points (minimum Grade D in at least 2 subjects) Note: For A-Level points calculation A = 10 points B = 8 points C = 6 points D = 4 points E = 2 points Australian Matriculation Minimum ATAR score of 50% Canadian Matriculation Minimum 50% Monash University Foundation Year Minimum 50% Foundation Program Minimum CGPA of 2.00 Unified Examination Certificate Maximum 28 points from 5 subjects (all Grade Bs including English) International Baccalaureate Completed with a minimum of 24 points (excluding bonus points) Diploma Minimum CGPA of 2.00  Other Qualifications Any other equivalent qualifications. An applicant with no standard qualification will be considered on a case-to-case basis. English Language Requirements SPM English or its equivalent Credit IELTS Band 6.0 or its equivalent MUET Band 4 UEC English B4 O-Level English (1119) Credit Sunway Intensive English Programme (IEP) Pass Level 4 with a minimum of 65% ESL/English Satisfactory level in Pre-University programs, Diploma or ADTP where the medium of instruction is English Specific Requirements Credit in Mathematics and one Science subject at the SPM level or its equivalent or at a higher level. Note: Candidates who do not meet this requirement can still be accepted but they will be required to take and pass the reinforcement course(s) as prerequisite(s) to the related core courses(s) in the programme."
   },
@@ -54,5 +54,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Arts (Hons) in Communication",
+  "program_name_zh": "Arts (Hons) in Communication学士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

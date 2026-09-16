@@ -4,42 +4,368 @@
   "level_name": "Bachelor's Degree",
   "total_programs": 35,
   "programs": [
-    {"slug": "bachelor-electronics-engineering", "program_name": "Bachelor of Electronics Engineering (Hons)", "field": "Engineering", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Engineering and Built Environment"]},
-    {"slug": "bachelor-science-architecture", "program_name": "Bachelor of Science (Architecture) (Hons)", "field": "Architecture", "duration": "6 Semesters", "mode": "Full-time", "faculties": ["Faculty of Engineering and Built Environment"]},
-    {"slug": "bachelor-science-actuarial-science-risk-management", "program_name": "Bachelor of Science (Actuarial Science & Risk Management) (Hons)", "field": "Mathematics & Statistics", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Science and Technology"]},
-    {"slug": "bachelor-computer-science-information-security", "program_name": "Bachelor of Computer Science (Information Security & Assurance) (Hons)", "field": "Computing & IT", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Science and Technology"]},
-    {"slug": "bachelor-dental-surgery", "program_name": "Bachelor of Dental Surgery", "field": "Medicine & Healthcare", "duration": "10 Semesters", "mode": "Full-time", "faculties": ["Faculty of Dentistry"]},
-    {"slug": "bachelor-medicine-surgery-mbbs", "program_name": "Bachelor of Medicine and Surgery (MBBS)", "field": "Medicine & Healthcare", "duration": "12 Semesters", "mode": "Full-time", "faculties": ["Faculty of Medicine and Health Sciences"]},
-    {"slug": "bachelor-counselling", "program_name": "Bachelor of Counselling (Hons)", "field": "Social Services", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Leadership and Management"]},
-    {"slug": "bachelor-arabic-language-islamic-literature", "program_name": "Bachelor of Arabic Language and Islamic Literature (Hons)", "field": "Languages", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Major Language Studies"]},
-    {"slug": "bachelor-english-language-commerce", "program_name": "Bachelor of English Language with Commerce (Honours)", "field": "Languages", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Major Language Studies"]},
-    {"slug": "bachelor-electrical-engineering", "program_name": "Bachelor of Electrical Engineering (Hons)", "field": "Engineering", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Engineering and Built Environment"]},
-    {"slug": "bachelor-arabic-language-communication", "program_name": "Bachelor of Arabic Language with Communication (Hons)", "field": "Communication & Broadcasting", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Major Language Studies"]},
-    {"slug": "bachelor-islamic-banking-finance", "program_name": "Bachelor of Islamic Banking and Finance (Hons)", "field": "Accounting & Finance", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Economics and Muamalat"]},
-    {"slug": "bachelor-new-media-communication", "program_name": "Bachelor of New Media Communication (Hons)", "field": "Communication & Broadcasting", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Leadership and Management"]},
-    {"slug": "bachelor-syariah-halal-industry", "program_name": "Bachelor of Syariah (Halal Industry) (Hons)", "field": "Syariah", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Syariah and Law"]},
-    {"slug": "bachelor-education-islamic-education", "program_name": "Bachelor of Education (Islamic Education) (Hons)", "field": "Education", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Leadership and Management"]},
-    {"slug": "bachelor-management-tourism", "program_name": "Bachelor of Management with Tourism (Hons)", "field": "Business Management", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Leadership and Management"]},
-    {"slug": "bachelor-management-tourism-3u1i", "program_name": "Bachelor of Management with Tourism (Hons) (3U1I Mode)", "field": "Business Management", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Leadership and Management"]},
-    {"slug": "bachelor-science-food-biotechnology", "program_name": "Bachelor of Science (Food Biotechnology) (Hons)", "field": "Science", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Science and Technology"]},
-    {"slug": "bachelor-corporate-administration", "program_name": "Bachelor of Corporate Administration (Hons)", "field": "Business Management", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Leadership and Management"]},
-    {"slug": "bachelor-health-industry-technology", "program_name": "Bachelor of Health Industry Technology (Hons)", "field": "Medicine & Healthcare", "duration": "6 Semesters", "mode": "Full-time", "faculties": ["Faculty of Medicine and Health Sciences"]},
-    {"slug": "bachelor-accounting", "program_name": "Bachelor of Accounting (Hons)", "field": "Accounting & Finance", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Economics and Muamalat"]},
-    {"slug": "bachelor-communication", "program_name": "Bachelor of Communication (Hons)", "field": "Communication & Broadcasting", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Leadership and Management"]},
-    {"slug": "bachelor-marketing-financial-services", "program_name": "Bachelor of Marketing (Financial Services) (Hons)", "field": "Marketing & Sales", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Economics and Muamalat"]},
-    {"slug": "bachelor-muamalat-administration", "program_name": "Bachelor of Muamalat Administration (Hons)", "field": "Business Management", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Economics and Muamalat"]},
-    {"slug": "bachelor-law-syariah", "program_name": "Bachelor of Law and Syariah (Hons)", "field": "Law", "duration": "10 Semesters", "mode": "Full-time", "faculties": ["Faculty of Syariah and Law"]},
-    {"slug": "bachelor-science-industrial-chemical-technology", "program_name": "Bachelor of Science (Industrial Chemical Technology) (Hons)", "field": "Science", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Science and Technology"]},
-    {"slug": "bachelor-science-applied-physics", "program_name": "Bachelor of Science (Applied Physics) (Hons)", "field": "Physical Science", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Science and Technology"]},
-    {"slug": "bachelor-sunnah-studies-information-management", "program_name": "Bachelor of Sunnah Studies with Information Management (Hons)", "field": "Quranic & Sunnah Studies", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Quranic and Sunnah Studies"]},
-    {"slug": "bachelor-akidah-religion-studies", "program_name": "Bachelor of Akidah and Religion Studies (Hons)", "field": "Islamic Studies", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Quranic and Sunnah Studies"]},
-    {"slug": "bachelor-quran-studies-multimedia", "program_name": "Bachelor of Quran Studies with Multimedia (Hons)", "field": "Quranic & Sunnah Studies", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Quranic and Sunnah Studies"]},
-    {"slug": "bachelor-quran-sunnah-studies", "program_name": "Bachelor of Quran and Sunnah Studies (Hons)", "field": "Quranic & Sunnah Studies", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Quranic and Sunnah Studies"]},
-    {"slug": "bachelor-fiqh-fatwa", "program_name": "Bachelor of Fiqh and Fatwa (Hons)", "field": "Syariah", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Syariah and Law"]},
-    {"slug": "bachelor-dawah-islamic-management", "program_name": "Bachelor of Da'wah and Islamic Management (Hons)", "field": "Islamic Studies", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Leadership and Management"]},
-    {"slug": "bachelor-qiraat-studies", "program_name": "Bachelor of Qiraat Studies (Hons)", "field": "Quranic & Sunnah Studies", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Quranic and Sunnah Studies"]},
-    {"slug": "bachelor-science-financial-mathematics", "program_name": "Bachelor of Science (Financial Mathematics) (Hons)", "field": "Mathematics & Statistics", "duration": "8 Semesters", "mode": "Full-time", "faculties": ["Faculty of Science and Technology"]}
+    {
+      "slug": "bachelor-electronics-engineering",
+      "program_name": "Bachelor of Electronics Engineering (Hons)",
+      "field": "Engineering",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Engineering and Built Environment"
+      ]
+    },
+    {
+      "slug": "bachelor-science-architecture",
+      "program_name": "Bachelor of Science (Architecture) (Hons)",
+      "field": "Architecture",
+      "duration": "6 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Engineering and Built Environment"
+      ]
+    },
+    {
+      "slug": "bachelor-science-actuarial-science-risk-management",
+      "program_name": "Bachelor of Science (Actuarial Science & Risk Management) (Hons)",
+      "field": "Mathematics & Statistics",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Science and Technology"
+      ]
+    },
+    {
+      "slug": "bachelor-computer-science-information-security",
+      "program_name": "Bachelor of Computer Science (Information Security & Assurance) (Hons)",
+      "field": "Computing & IT",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Science and Technology"
+      ]
+    },
+    {
+      "slug": "bachelor-dental-surgery",
+      "program_name": "Bachelor of Dental Surgery",
+      "field": "Medicine & Healthcare",
+      "duration": "10 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Dentistry"
+      ]
+    },
+    {
+      "slug": "bachelor-medicine-surgery-mbbs",
+      "program_name": "Bachelor of Medicine and Surgery (MBBS)",
+      "field": "Medicine & Healthcare",
+      "duration": "12 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Medicine and Health Sciences"
+      ]
+    },
+    {
+      "slug": "bachelor-counselling",
+      "program_name": "Bachelor of Counselling (Hons)",
+      "field": "Social Services",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Leadership and Management"
+      ]
+    },
+    {
+      "slug": "bachelor-arabic-language-islamic-literature",
+      "program_name": "Bachelor of Arabic Language and Islamic Literature (Hons)",
+      "field": "Languages",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Major Language Studies"
+      ]
+    },
+    {
+      "slug": "bachelor-english-language-commerce",
+      "program_name": "Bachelor of English Language with Commerce (Honours)",
+      "field": "Languages",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Major Language Studies"
+      ]
+    },
+    {
+      "slug": "bachelor-electrical-engineering",
+      "program_name": "Bachelor of Electrical Engineering (Hons)",
+      "field": "Engineering",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Engineering and Built Environment"
+      ]
+    },
+    {
+      "slug": "bachelor-arabic-language-communication",
+      "program_name": "Bachelor of Arabic Language with Communication (Hons)",
+      "field": "Communication & Broadcasting",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Major Language Studies"
+      ]
+    },
+    {
+      "slug": "bachelor-islamic-banking-finance",
+      "program_name": "Bachelor of Islamic Banking and Finance (Hons)",
+      "field": "Accounting & Finance",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Economics and Muamalat"
+      ]
+    },
+    {
+      "slug": "bachelor-new-media-communication",
+      "program_name": "Bachelor of New Media Communication (Hons)",
+      "field": "Communication & Broadcasting",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Leadership and Management"
+      ]
+    },
+    {
+      "slug": "bachelor-syariah-halal-industry",
+      "program_name": "Bachelor of Syariah (Halal Industry) (Hons)",
+      "field": "Syariah",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Syariah and Law"
+      ]
+    },
+    {
+      "slug": "bachelor-education-islamic-education",
+      "program_name": "Bachelor of Education (Islamic Education) (Hons)",
+      "field": "Education",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Leadership and Management"
+      ]
+    },
+    {
+      "slug": "bachelor-management-tourism",
+      "program_name": "Bachelor of Management with Tourism (Hons)",
+      "field": "Business Management",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Leadership and Management"
+      ]
+    },
+    {
+      "slug": "bachelor-management-tourism-3u1i",
+      "program_name": "Bachelor of Management with Tourism (Hons) (3U1I Mode)",
+      "field": "Business Management",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Leadership and Management"
+      ]
+    },
+    {
+      "slug": "bachelor-science-food-biotechnology",
+      "program_name": "Bachelor of Science (Food Biotechnology) (Hons)",
+      "field": "Science",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Science and Technology"
+      ]
+    },
+    {
+      "slug": "bachelor-corporate-administration",
+      "program_name": "Bachelor of Corporate Administration (Hons)",
+      "field": "Business Management",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Leadership and Management"
+      ]
+    },
+    {
+      "slug": "bachelor-health-industry-technology",
+      "program_name": "Bachelor of Health Industry Technology (Hons)",
+      "field": "Medicine & Healthcare",
+      "duration": "6 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Medicine and Health Sciences"
+      ]
+    },
+    {
+      "slug": "bachelor-accounting",
+      "program_name": "Bachelor of Accounting (Hons)",
+      "field": "Accounting & Finance",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Economics and Muamalat"
+      ]
+    },
+    {
+      "slug": "bachelor-communication",
+      "program_name": "Bachelor of Communication (Hons)",
+      "field": "Communication & Broadcasting",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Leadership and Management"
+      ]
+    },
+    {
+      "slug": "bachelor-marketing-financial-services",
+      "program_name": "Bachelor of Marketing (Financial Services) (Hons)",
+      "field": "Marketing & Sales",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Economics and Muamalat"
+      ]
+    },
+    {
+      "slug": "bachelor-muamalat-administration",
+      "program_name": "Bachelor of Muamalat Administration (Hons)",
+      "field": "Business Management",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Economics and Muamalat"
+      ]
+    },
+    {
+      "slug": "bachelor-law-syariah",
+      "program_name": "Bachelor of Law and Syariah (Hons)",
+      "field": "Law",
+      "duration": "10 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Syariah and Law"
+      ]
+    },
+    {
+      "slug": "bachelor-science-industrial-chemical-technology",
+      "program_name": "Bachelor of Science (Industrial Chemical Technology) (Hons)",
+      "field": "Science",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Science and Technology"
+      ]
+    },
+    {
+      "slug": "bachelor-science-applied-physics",
+      "program_name": "Bachelor of Science (Applied Physics) (Hons)",
+      "field": "Physical Science",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Science and Technology"
+      ]
+    },
+    {
+      "slug": "bachelor-sunnah-studies-information-management",
+      "program_name": "Bachelor of Sunnah Studies with Information Management (Hons)",
+      "field": "Quranic & Sunnah Studies",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Quranic and Sunnah Studies"
+      ]
+    },
+    {
+      "slug": "bachelor-akidah-religion-studies",
+      "program_name": "Bachelor of Akidah and Religion Studies (Hons)",
+      "field": "Islamic Studies",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Quranic and Sunnah Studies"
+      ]
+    },
+    {
+      "slug": "bachelor-quran-studies-multimedia",
+      "program_name": "Bachelor of Quran Studies with Multimedia (Hons)",
+      "field": "Quranic & Sunnah Studies",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Quranic and Sunnah Studies"
+      ]
+    },
+    {
+      "slug": "bachelor-quran-sunnah-studies",
+      "program_name": "Bachelor of Quran and Sunnah Studies (Hons)",
+      "field": "Quranic & Sunnah Studies",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Quranic and Sunnah Studies"
+      ]
+    },
+    {
+      "slug": "bachelor-fiqh-fatwa",
+      "program_name": "Bachelor of Fiqh and Fatwa (Hons)",
+      "field": "Syariah",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Syariah and Law"
+      ]
+    },
+    {
+      "slug": "bachelor-dawah-islamic-management",
+      "program_name": "Bachelor of Da'wah and Islamic Management (Hons)",
+      "field": "Islamic Studies",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Leadership and Management"
+      ]
+    },
+    {
+      "slug": "bachelor-qiraat-studies",
+      "program_name": "Bachelor of Qiraat Studies (Hons)",
+      "field": "Quranic & Sunnah Studies",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Quranic and Sunnah Studies"
+      ]
+    },
+    {
+      "slug": "bachelor-science-financial-mathematics",
+      "program_name": "Bachelor of Science (Financial Mathematics) (Hons)",
+      "field": "Mathematics & Statistics",
+      "duration": "8 Semesters",
+      "mode": "Full-time",
+      "faculties": [
+        "Faculty of Science and Technology"
+      ]
+    }
   ],
-  "sources": ["https://www.studymalaysia.com/edu/usim/courses/", "https://admission.usim.edu.my/undergraduate-studies/"],
-  "last_updated": "2026-09-14"
+  "sources": [
+    "https://www.studymalaysia.com/edu/usim/courses/",
+    "https://admission.usim.edu.my/undergraduate-studies/"
+  ],
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

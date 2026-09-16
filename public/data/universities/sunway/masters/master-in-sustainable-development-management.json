@@ -16,9 +16,9 @@
     "local": "From RM47,320",
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
-    "local_total": 20327,
-    "per_year_local": null,
-    "notes": "Fee: FromRM47,320.00",
+    "local_total": 20325,
+    "per_year_local": 6775,
+    "notes": "Fee: FromRM47,320.00 (per_year based on 3.0yr duration)",
     "international_total": 22577
   },
   "requirements": {
@@ -26,15 +26,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Qualifications A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate; OR A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and with relevant working experience of at least 2 years of work experience, subject to a rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; OR An APEL.A Certificate (APEL T-7) (Recognition of Prior Learning)  Other equivalent/related qualifications to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government.   English Language Requirement International candidates should demonstrate English proficiency sufficient to meet the needs of the programme: IELTS: 6.0 / CEFR: B2 TOEFL: PBT (550) or IBT (75) Cambridge English (Advanced): 180 / CEFR: B2 or Cambridge English (Proficiency): 180 / CEFR: C1 PTE Academic: 50 Malaysian University English Test: Band 4 If a student does not meet this requirement, the HEP offers English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the programme. This is normally conducted through an English language proficiency assessment. Documents Needed for Application  Acceptance into the programme is by application and selection only.  As part of your application, you will need to nominate two referees who are senior people acquainted with your work and who must provide a written comment on your academic and/or professional suitability to undertake the programme. Applicants will be required to submit the following documents: Sunway University Postgraduate Application Form A detailed CV One (1) passport-sized photograph A certified copy of each degree-level certificate Certified copies of all degree-level transcripts IELTS/TOEFL/PTE score report (if applicable) Two letters of reference (academic and/or professional) A personal statement of your interest in sustainable development and suitability for this programme  "
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "awarding_country": "Malaysia",
@@ -58,5 +57,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Sustainable Development Management",
+  "program_name_zh": "Sustainable Development Management硕士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

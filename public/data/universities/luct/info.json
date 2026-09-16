@@ -6,7 +6,13 @@
   "state": "Selangor",
   "city": "Cyberjaya",
   "website": "https://www.limkokwing.edu.my",
-  "levels_available": ["pre-university", "diploma", "bachelor", "master", "doctorate"],
+  "levels_available": [
+    "pre-university",
+    "diploma",
+    "bachelor",
+    "master",
+    "doctorate"
+  ],
   "program_counts": {
     "pre-university": 1,
     "diploma": 2,
@@ -19,5 +25,13 @@
     "https://limkokwing.net/malaysia/academic/courses/",
     "https://en.wikipedia.org/wiki/Limkokwing_University_of_Creative_Technology"
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

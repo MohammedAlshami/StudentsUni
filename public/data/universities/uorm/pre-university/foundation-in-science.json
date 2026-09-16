@@ -6,17 +6,40 @@
   "field": "Science",
   "duration": "1 Year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM22,700",
-    "international": "RM27,300"
+    "international": "RM27,300",
+    "local_total": 22700,
+    "per_year_local": 22700
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Science",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/reading/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "foundation-in-science"
+  "last_updated": "2026-09-16",
+  "slug": "foundation-in-science",
+  "program_name_ar": "تأسيس Science",
+  "program_name_zh": "Science预科",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

@@ -8,21 +8,41 @@
   "faculty": "Civil Engineering and Built Environment",
   "duration": "3 Years (Max 7 Years)",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "local": "9450/Course",
     "international": "USD6220/Course",
     "currency": "MYR",
-    "local_total": 9450.0,
-    "per_year_local": 2362.5,
+    "local_total": 7086,
+    "per_year_local": 2362,
     "notes": "Fee: 9450/Course"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UTHM/0004743/",
     "https://www.studymalaysia.com/edu/uthm/courses/"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Ph.D. in Civil Engineering",
+  "program_name_zh": "Ph.D. in Civil Engineering",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

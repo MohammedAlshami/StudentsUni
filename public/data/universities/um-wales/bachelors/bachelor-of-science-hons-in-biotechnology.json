@@ -6,17 +6,40 @@
   "field": "Science",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "RM53,560",
-    "international": "RM68,220"
+    "international": "RM68,220",
+    "local_total": 53559,
+    "per_year_local": 17853
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Relevant science subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/iumw/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-science-hons-in-biotechnology"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-science-hons-in-biotechnology",
+  "program_name_ar": "بكالوريوس Science (Hons) in Biotechnology",
+  "program_name_zh": "Science (Hons) in Biotechnology学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

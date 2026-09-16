@@ -15,20 +15,21 @@
     "currency": "MYR",
     "local_total": 21117,
     "international_total": 22000,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 7039
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "Any one of these: Higher School Certificate Level or its Equivalent (STPM and A-Level): Grades BBB or ABC or AAC in 3 subjects: Biology, Chemistry, and Physics or Mathematics, with a minimum grade B in Chemistry. General Certificate of Education Advanced (“A”) Levels: Grades BBB or ABC or AAC in 3 subjects: Biology, Chemistry, and Physics or Mathematics, with a minimum grade B in Chemistry. Matriculation: Grades BBB or ABC or AAC in 3 subjects: Biology, Chemistry, and Physics or Mathematics, with a minimum grade B in Chemistry. Pre-Medical/Pre-Pharmacy Programme or Foundations in Science: Grades BBB or ABC or AAC in 3 subjects: Biology, Chemistry, and Physics or Mathematics, with a minimum grade B in Chemistry. Program must be no less than 1 year and completed in the same institution And Sijil Pelajaran Malaysia (SPM) 5 Bs each in 5 subjects: Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and another subject; or General Certificate of Education Ordinary (“O”) levels 5 Bs each in 5 subjects: Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and another subject; or Unified Examination Certificate (UEC) B4 each in 3 subjects: Biology, Chemistry, Physics, and Advanced Mathematics. Unified Examination Certificate (UEC): B4 each in 5 subjects: Biology, Chemistry, Physics, Advanced Mathematics, and any other subject. Diploma: Diploma in Pharmacy or Diploma in Health Sciences or equivalent with a CGPA of 3.5 (out of 4.0). Course must be no less than 5 semesters or 2½ years and completed in the same institution And Sijil Pelajaran Malaysia (SPM) 2 Bs each in Chemistry and Biology/Physics/Maths and Credits in 3 other subjects, including English. International Qualifications: A minimum of 30 points overall and Minimum score of 5 each in 3 of the following subjects: Biology, Chemistry, and Physics or Mathematics, with a minimum of 2 at Higher Level (HL) and 1 at Standard Level. Monash University Foundation Pre-University Program (MUFY), South Australian Matriculation (SAM), or Australian Matriculation (AUSMAT): Equivalent to an average of 75% for 3 subjects: Biology, Chemistry, and Physics or Mathematics, with a minimum of 75% in Chemistry. Canadian Pre-U (CPU) or Canadian International Matriculation Program (CIMP): Equivalent to an average of 75% for 3 subjects: Biology, Chemistry, and Physics or Mathematics, with a minimum of 75% in Chemistry. All other international qualifications: Equivalent to an average of 75% for 3 subjects: Biology, Chemistry, and Physics or Mathematics, with a minimum of 75% in Chemistry. Other Equivalent Qualifications English Proficiency Requirements: Band 3 in MUET Score of 550 on the TOEFL Band 6.0 in IELTS with a minimum Band 5.5 in each skill (Writing, Reading, Listening, and Speaking)."
   },
@@ -56,5 +57,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Pharmacy",
+  "program_name_zh": "Pharmacy学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

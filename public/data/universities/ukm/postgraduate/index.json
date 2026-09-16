@@ -176,13 +176,13 @@
     "https://www.ukm.my/portal/postgraduate-programme/",
     "https://www.studymalaysia.com/edu/ukm/courses/"
   ],
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 12000,
     "international_total": null,
-    "per_year_local": 1200.0,
+    "per_year_local": 8000,
     "per_year_international": null,
-    "notes": "Per semester: 600/sem"
+    "notes": "Estimated ~RM4000/semester for public university (subsidized)"
   }
 }

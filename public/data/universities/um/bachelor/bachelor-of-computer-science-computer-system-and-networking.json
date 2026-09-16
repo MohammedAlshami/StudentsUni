@@ -6,7 +6,9 @@
   "field": "Computer Science / IT",
   "duration": "7 semesters (3.5 years)",
   "mode": "Full-time",
-  "intakes": ["September"],
+  "intakes": [
+    "September"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 8400,
@@ -17,16 +19,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) including Mathematics",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -34,8 +36,16 @@
     "mqa_ref": null
   },
   "sources": [
-    {"url": "https://studymalaysia.com/what/course/UM/0055437/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"}
+    {
+      "url": "https://studymalaysia.com/what/course/UM/0055437/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Computer Science (Computer System and Networking)",
+  "program_name_zh": "Computer Science (Computer System and Networking)学士",
+  "field_ar": "علوم الحاسوب",
+  "field_zh": "计算机科学"
 }

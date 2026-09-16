@@ -7,7 +7,11 @@
   "slug": "bachelor-of-business-accounting",
   "duration": "3 Yrs (6 Sem)",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM93,360",
     "international": "RM118,320",
@@ -18,12 +22,29 @@
     "per_year_international": 39440,
     "notes": "Annual fee; total = annual x 3 years"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SWINBURNE/0001526/",
     "https://www.swinburne.edu.my/?p=31477"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business (Accounting)",
+  "program_name_zh": "Business (Accounting)学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

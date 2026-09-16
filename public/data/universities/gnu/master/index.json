@@ -39,5 +39,13 @@
       "field": "Education"
     }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 24000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+  }
 }

@@ -12,21 +12,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 31140,
+    "local_total": 111446,
     "international_total": 36000,
-    "per_year_local": "RM55,723 per course",
+    "per_year_local": 55723,
     "per_year_international": "RM62,475 per course",
     "notes": null
   },
   "requirements": {
     "malaysian": {
-      "bachelor_degree": null,
-      "cgpa": null
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
-      "bachelor_degree": null,
-      "cgpa": null,
-      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -48,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Information Systems",
+  "program_name_zh": "Business Information Systems硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

@@ -13,7 +13,7 @@
   "fees": {
     "local": "RM41,300.00",
     "international": "RM72,000.00",
-    "local_total": 12000,
+    "local_total": 13666,
     "currency": "MYR",
     "international_total": 19435,
     "per_year_local": 4000,
@@ -21,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "(1) STPM - Grade C in 2 relevant subjects listed in Schedule A (2) A Level - Grade D in 2 relevant subjects listed in Schedule A (3) UEC - Grade B in 5 relevant subjects listed in Schedule A (4) Other IHL - RelevantFoundation/ Diploma accredited by MQA (5) TAR UC - Foundation in Arts (Track A) OR Relevant Diploma Compulsory subjects: i) (1), (2), (3) and (4) must include SPM Credit/O Level Grade C/UEC Grade B in one mathematics subject# ii) (1), (2), (3) and (4) must include SPM Credit/O Level Grade C/UEC Grade B in English Language and Bahasa Melayu/Malay Language AND Pass in Portfolio Interview conducted by TAR UC. #Grade B and above in AMMS0104 General Mathematics conducted by TAR UC is accepted as having fulfilled the Mathematics requirement for applicants with a pass in SPM/Grade D or Grade E (pass) in O Level/Grade C in UEC in the required Mathematics subject. Note: a) TAR UC Diploma will be accepted on credit transfer into Bachelor Degree programmes. b) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. c) Subject to the Ministry of Higher Education latest requirements."
   },
@@ -64,5 +64,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Interior Architecture (Honours)",
+  "program_name_zh": "Interior Architecture (Honours)学士",
+  "field_ar": "العمارة",
+  "field_zh": "建筑学"
 }

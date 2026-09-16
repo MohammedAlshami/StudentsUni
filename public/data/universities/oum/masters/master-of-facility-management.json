@@ -7,27 +7,31 @@
   "field": "Business Management & Administration",
   "duration": "Refer to Univ.",
   "mode": "Open and Distance Learning (ODL)",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "RM",
-    "local_total": 26000.0,
+    "local_total": 25999,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 17333,
     "per_year_international": null,
-    "notes": "Local: 26,000/Course"
+    "notes": "Local: 26,000/Course (per_year based on 1.5yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Facility Management",
+  "program_name_zh": "Facility Management硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

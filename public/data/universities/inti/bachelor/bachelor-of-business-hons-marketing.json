@@ -20,9 +20,24 @@
     "international": "Refer to newinti.edu.my",
     "local_total": 10764,
     "currency": "MYR",
-    "international_total": 10764
+    "international_total": 10764,
+    "per_year_local": 3588,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "faculty": "Business",
@@ -40,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business (Hons) Marketing",
+  "program_name_zh": "Business (Hons) Marketing学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

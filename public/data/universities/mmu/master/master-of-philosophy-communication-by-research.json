@@ -6,27 +6,31 @@
   "field": "Communication",
   "duration": "2 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Oct"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 3750,
     "international_total": 5325,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.0yr duration)",
+    "per_year_local": 1875
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A Bachelor’s degree (Level 6, MQF) in the field or related fields with a minimum CGPA of 2.75 or equivalent, as accepted by the HEP Senate; or A Bachelor’s degree (Level 6, MQF) in the field or related fields with a minimum CGPA of 2.50 and not meeting CGPA of 2.75 or equivalent, can be accepted subject to rigorous internal assessment; or A Bachelor’s degree in the field or related fields with minimum CGPA of 2.00 and not meeting CGPA of 2.50 or equivalent, can be accepted subject to a minimum of 5 years working experience in the relevant field and rigorous internal assessment; or A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.50 or equivalent, as accepted by the HEP Senate, subject to having relevant working experience and rigorous internal assessment; or A Bachelor’s degree in non-related field with minimum CGPA of 2.00 and not meeting CGPA of 2.50 or equivalent, can be accepted subject to a minimum of 5 years working experience in the relevant field and rigorous internal assessment; or A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 or equivalent, as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; or Other qualifications equivalent to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government. English Entry Requirement: a minimum IELTS overall band score of 6.0 ; or a minimum overall TOEFL iBT score of 60 ; or a minimum MUET overall band score of 4 ; or a minimum Pearson Test of English score of 59 ; or a minimum Cambridge Qualifications and Test score of 169; or a minimum Linguaskill overall band score of 169"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -70,5 +74,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Philosophy in Communication (By Research)",
+  "program_name_zh": "Philosophy in Communication (By Research)硕士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

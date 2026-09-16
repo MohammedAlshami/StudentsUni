@@ -14,11 +14,26 @@
   "fees": {
     "local": null,
     "international": null,
-    "local_total": 12100,
+    "local_total": 12099,
     "currency": "MYR",
-    "international_total": 13200
+    "international_total": 13200,
+    "per_year_local": 4033,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.xmu.edu.my/postgraduate-programmes",
@@ -34,5 +49,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Arts in Chinese Studies",
+  "program_name_zh": "Arts in Chinese Studies硕士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

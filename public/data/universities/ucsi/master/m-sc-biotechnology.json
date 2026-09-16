@@ -6,23 +6,44 @@
   "field": "Biotechnology",
   "duration": "1.5-3 Years",
   "mode": "Full-time/Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 39,460 - RM 49,792",
     "international": "RM 53,225 - RM 65,483",
     "currency": "MYR",
-    "local_total": 39460,
+    "local_total": 118380,
     "international_total": 53225,
     "per_year_local": 39460,
     "per_year_international": 53225,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0008901/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "M.Sc. (Biotechnology)",
+  "program_name_zh": "M.Sc. (Biotechnology)",
+  "field_ar": "التكنولوجيا الحيوية",
+  "field_zh": "生物技术"
 }

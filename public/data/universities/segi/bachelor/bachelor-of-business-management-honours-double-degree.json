@@ -15,13 +15,25 @@
   "fees": {
     "local": "Refer to the Univ.",
     "international": "Refer to the Univ.",
-    "local_total": 15122,
+    "local_total": 15120,
     "currency": "MYR",
-    "international_total": 15955
+    "international_total": 15955,
+    "per_year_local": 5040,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "academic": null,
-    "general_text": "Any one of these: STPM with a minimum. Grade C (CGPA 2.0) in any 2 subjects, and a pass in Mathematics and English at SPM level, or any equivalent qualifications STAM with a minimum. grade of Jayyid, and a pass in Mathematics and English at SPM level Any Diploma or Advanced Diploma (Level 4 or 5, MQF) Matriculation/Foundation qualification with a minimum. CGPA of 2.00 out of 4.00, or any equivalent qualifications English Proficiency Requirements (International students): IELTS score of 5.5 OR its equivalent NOTE: The requirement to pass Mathematics and English subjects at SPM level for STPM and STAM candidates can be waived should the qualifications contain Mathematics and English subjects with equivalent/ higher achievements. The English proficiency requirement is exempted for international students if the student has an academic qualification from an institution where English is used as a medium of instruction OR The student is from a country where English is an official language"
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -43,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business Management (Honours) (Double Degree)",
+  "program_name_zh": "Business Management (Honours) (Double Degree)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

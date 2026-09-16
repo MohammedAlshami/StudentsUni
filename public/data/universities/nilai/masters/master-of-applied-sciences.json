@@ -7,27 +7,31 @@
   "field": "Science (Life Science/Physical Science/Applied Science)",
   "duration": "2 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "Jun",
+    "Nov"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 14180,
     "international_total": 19425,
-    "per_year_local": null,
+    "per_year_local": 7090,
     "per_year_international": null,
-    "notes": "Local: Short Semester-RM2500, Long Semester-RM5000; International: Short Semester-RM2500, Long Semester-RM5000"
+    "notes": "Local: Short Semester-RM2500, Long Semester-RM5000; International: Short Semester-RM2500, Long Semester-RM5000 (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -57,5 +61,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Applied Sciences",
+  "program_name_zh": "Applied Sciences硕士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

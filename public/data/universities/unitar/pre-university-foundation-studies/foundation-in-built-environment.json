@@ -7,15 +7,32 @@
   "slug": "foundation-in-built-environment",
   "duration": "1 Yr (3 Sem)",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "7800/Course",
     "international": "7800/Course",
-    "local_total": 7800,
+    "local_total": 11700,
     "per_year_local": 7800,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0006156/",
@@ -26,5 +43,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Built Environment",
+  "program_name_zh": "Built Environment预科",
+  "field_ar": "العمارة",
+  "field_zh": "建筑学"
 }

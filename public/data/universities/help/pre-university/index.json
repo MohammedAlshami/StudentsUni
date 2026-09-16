@@ -9,7 +9,12 @@
       "field": "Pre-University Programme",
       "duration": "1 Year",
       "mode": "Full-time Study",
-      "intakes": ["Jan", "May", "Jul", "Sep"],
+      "intakes": [
+        "Jan",
+        "May",
+        "Jul",
+        "Sep"
+      ],
       "fees": {
         "local": "RM17,800.00",
         "international": null
@@ -22,7 +27,9 @@
       "accreditation": {
         "mqa_code": "R3/0011/3/0050",
         "valid_until": "07/29",
-        "additional_codes": ["A10668"]
+        "additional_codes": [
+          "A10668"
+        ]
       },
       "sources": [
         "https://studymalaysia.com/what/course/HELP/0006146/",
@@ -37,7 +44,12 @@
       "field": "Pre-University Programme",
       "duration": "1 Year",
       "mode": "Full-time Study",
-      "intakes": ["Jan", "May", "Jul", "Sep"],
+      "intakes": [
+        "Jan",
+        "May",
+        "Jul",
+        "Sep"
+      ],
       "fees": {
         "local": "RM17,800.00",
         "international": null
@@ -59,5 +71,13 @@
       "confidence": "medium",
       "last_updated": "2026-09-14"
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 33000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+  }
 }

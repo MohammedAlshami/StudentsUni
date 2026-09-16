@@ -1,5 +1,41 @@
 [
-  {"slug": "master-of-quranic-studies", "name": "Master of Quranic and Sunnah Studies", "field": "Islamic Sciences"},
-  {"slug": "master-of-islamic-civilization", "name": "Master of Islamic Civilization", "field": "Islamic Sciences"},
-  {"slug": "master-of-shariah-law", "name": "Master of Shariah and Law", "field": "Law"}
+  {
+    "slug": "master-of-quranic-studies",
+    "name": "Master of Quranic and Sunnah Studies",
+    "field": "Islamic Sciences",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
+  },
+  {
+    "slug": "master-of-islamic-civilization",
+    "name": "Master of Islamic Civilization",
+    "field": "Islamic Sciences",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
+  },
+  {
+    "slug": "master-of-shariah-law",
+    "name": "Master of Shariah and Law",
+    "field": "Law",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
+  }
 ]

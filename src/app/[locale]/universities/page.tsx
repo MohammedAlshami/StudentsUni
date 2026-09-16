@@ -11,6 +11,8 @@ import { routing } from "@/i18n/routing";
 type Institution = {
   slug: string;
   name: string;
+  name_ar?: string;
+  name_zh?: string;
   abbr: string;
   type: string;
   state: string | null;

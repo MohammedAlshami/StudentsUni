@@ -6,7 +6,10 @@
   "field": "Languages",
   "duration": "2 Semesters",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 1000,
@@ -17,7 +20,7 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -25,8 +28,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -37,5 +40,9 @@
     "https://www.studymalaysia.com/edu/uitm/courses/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Foundation Studies in TESL (Teaching English as a Second Language)",
+  "program_name_zh": "Foundation Studies in TESL (Teaching English as a Second Language)",
+  "field_ar": "Languages",
+  "field_zh": "Languages"
 }

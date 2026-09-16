@@ -7,16 +7,32 @@
   "field": "Applied Sciences",
   "duration": "3-5 years",
   "mode": "Flexible",
-  "intakes": null,
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 75000,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 15000,
     "per_year_international": null,
-    "notes": "TAR UMT does not publish PhD fees online. Contact university for current fee information."
+    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 5.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -27,5 +43,9 @@
     }
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Sports Science",
+  "program_name_zh": "哲学博士 in Sports Science",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

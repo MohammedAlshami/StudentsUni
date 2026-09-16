@@ -5,9 +5,13 @@
   "program_name": "Foundation in Business Studies",
   "slug": "foundation-in-business-studies",
   "field": "business",
-  "duration": null,
+  "duration": "1 year",
   "mode": "Full-time",
-  "intakes": {},
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 22000,
@@ -18,7 +22,7 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -26,8 +30,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Business Studies",
+  "program_name_zh": "Business Studies预科",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

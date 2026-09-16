@@ -5,12 +5,16 @@
   "program_name": "Doctor of Business Administration",
   "slug": "doctor-of-business-administration",
   "field": "business",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": {},
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 42000,
+    "local_total": 21000,
     "international_total": null,
     "per_year_local": 7000,
     "per_year_international": null,
@@ -21,13 +25,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه Business Administration",
+  "program_name_zh": "Business Administration博士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

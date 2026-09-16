@@ -6,7 +6,10 @@
   "field": "Science (Physical Science)",
   "duration": "6 Semesters",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 15000,
@@ -20,13 +23,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -38,6 +41,10 @@
     "https://studymalaysia.com/what/course/UMP/0053993/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14",
-  "research_areas": "Physics"
+  "last_updated": "2026-09-16",
+  "research_areas": "Physics",
+  "program_name_ar": "ماجستير Science (Physics)",
+  "program_name_zh": "Science (Physics)硕士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

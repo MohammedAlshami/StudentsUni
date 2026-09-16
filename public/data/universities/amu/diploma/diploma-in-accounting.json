@@ -5,12 +5,16 @@
   "program_name": "Diploma in Accounting",
   "slug": "diploma-in-accounting",
   "field": "accounting",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": {},
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 40000,
+    "local_total": 39999,
     "international_total": null,
     "per_year_local": 13333,
     "per_year_international": null,
@@ -18,16 +22,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Accounting",
+  "program_name_zh": "Accounting文凭",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

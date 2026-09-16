@@ -15,9 +15,24 @@
     "international": "Refer to University",
     "local_total": 28850,
     "currency": "MYR",
-    "international_total": 29850
+    "international_total": 29850,
+    "per_year_local": 14425,
+    "notes": " (per_year based on 2.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0055138/",
@@ -33,5 +48,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه Pharmacy",
+  "program_name_zh": "Pharmacy博士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

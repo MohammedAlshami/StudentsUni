@@ -18,11 +18,26 @@
   "fees": {
     "local": "Enquire for fees",
     "international": "Enquire for fees",
-    "local_total": 27652,
+    "local_total": 27651,
     "currency": "MYR",
-    "international_total": 27652
+    "international_total": 27652,
+    "per_year_local": 23701,
+    "notes": " (per_year based on 1.1666666666666667yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "faculty": "Computing & IT",
@@ -41,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Information & Communications Technology",
+  "program_name_zh": "Information & Communications Technology文凭",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

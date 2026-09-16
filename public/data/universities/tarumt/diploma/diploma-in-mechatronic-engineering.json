@@ -21,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics and Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "SPM - 4 Credits in the relevant subjects O Level -  4 Grade C in the relevant subjects UEC - 4 Grade B in the relevant subjects Certificate - Relevant Certificate accreditated by MQA  OR Relevant Skilled/Technical/Vocational Certificate recognised by the Malaysian Government Compulsory subjects: i) SPM Credit/ O Level Grade C in Mathematics/ UEC Grade B in Advanced Mathematics (I) ii) SPM Pass in Additional Mathematics AND Physics OR O Level Grade E (Pass) in Mathematics-Additional AND Physics OR UEC Grade C in Advanced Mathematics (II) AND Physics iii) SPM Credit/ O Level Grade C/ UEC Grade B in Physics/Chemistry/Biology iv) SPM Credit/ O Level Grade C/ UEC Grade B in English Language and Bahasa Melayu/Malay Language Note: a) SPM holders must have at least a pass in Bahasa Melayu and SPM holders from Year 2013 onwards must have at least a pass in Sejarah. b) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Diploma. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Information is correct at the point of printing. Subject to the Ministry of Education latest requirements."
   },
@@ -64,5 +64,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Mechatronic Engineering",
+  "program_name_zh": "Mechatronic Engineering文凭",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

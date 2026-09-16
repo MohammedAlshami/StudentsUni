@@ -6,23 +6,44 @@
   "field": "Petroleum Engineering",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 103,120",
     "international": "RM 119,620",
     "currency": "MYR",
-    "local_total": 103120,
+    "local_total": 309360,
     "international_total": 119620,
     "per_year_local": 103120,
     "per_year_international": 119620,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0005369/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس (Hons) Petroleum Engineering",
+  "program_name_zh": "(Hons) Petroleum Engineering学士",
+  "field_ar": "هندسة البترول",
+  "field_zh": "石油工程"
 }

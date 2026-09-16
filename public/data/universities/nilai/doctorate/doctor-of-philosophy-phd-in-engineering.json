@@ -7,27 +7,31 @@
   "field": "Engineering & Engineering Trades",
   "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "Jun",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 17897,
+    "local_total": 17895,
     "international_total": 21384,
-    "per_year_local": null,
+    "per_year_local": 5965,
     "per_year_international": null,
-    "notes": "Local: Short semester-RM3200, Long semester-RM6400; International: Short semester-RM3200, Long semester-RM6400"
+    "notes": "Local: Short semester-RM3200, Long semester-RM6400; International: Short semester-RM3200, Long semester-RM6400 (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -52,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (PhD) in Engineering",
+  "program_name_zh": "哲学博士 (PhD) in Engineering",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

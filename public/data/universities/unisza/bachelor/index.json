@@ -1,170 +1,506 @@
 [
   {
     "name": "Bachelor of International Relations (Hons)",
-    "slug": "bachelor-of-international-relations"
+    "slug": "bachelor-of-international-relations",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Medicine and Surgery",
-    "slug": "bachelor-of-medicine-and-surgery"
+    "slug": "bachelor-of-medicine-and-surgery",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 21000,
+      "international_total": null,
+      "per_year_local": 7000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM3,500/semester for public university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Computer Science (Internet Computing) (Hons)",
-    "slug": "bachelor-of-computer-science-internet-computing"
+    "slug": "bachelor-of-computer-science-internet-computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Medical Science and Health (Hons)",
-    "slug": "bachelor-of-medical-science-and-health"
+    "slug": "bachelor-of-medical-science-and-health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 21000,
+      "international_total": null,
+      "per_year_local": 7000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM3,500/semester for public university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Manufacturing Engineering Technology (Product Design) (Hons)",
-    "slug": "bachelor-of-manufacturing-engineering-technology-product-design"
+    "slug": "bachelor-of-manufacturing-engineering-technology-product-design",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Social Work (Hons)",
-    "slug": "bachelor-of-social-work"
+    "slug": "bachelor-of-social-work",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Social Science (Anthropology and Dakwah)(Hons)",
-    "slug": "bachelor-of-social-science-anthropology-and-dakwahhons"
+    "slug": "bachelor-of-social-science-anthropology-and-dakwahhons",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Agriculture Biotechnology (Hons)",
-    "slug": "bachelor-of-agriculture-biotechnology"
+    "slug": "bachelor-of-agriculture-biotechnology",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Dietetics (Hons)",
-    "slug": "bachelor-of-dietetics"
+    "slug": "bachelor-of-dietetics",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Animal Production and Health (Hons)",
-    "slug": "bachelor-of-animal-production-and-health"
+    "slug": "bachelor-of-animal-production-and-health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Islamic Studies (Usuluddin)",
-    "slug": "bachelor-of-islamic-studies-usuluddin"
+    "slug": "bachelor-of-islamic-studies-usuluddin",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Islamic Studies (Dakwah)",
-    "slug": "bachelor-of-islamic-studies-dakwah"
+    "slug": "bachelor-of-islamic-studies-dakwah",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Arabic Studies (Hons)",
-    "slug": "bachelor-of-arabic-studies"
+    "slug": "bachelor-of-arabic-studies",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Usuluddin with Counselling (Hons)",
-    "slug": "bachelor-of-usuluddin-with-counselling"
+    "slug": "bachelor-of-usuluddin-with-counselling",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Polymer Technology (Hons)",
-    "slug": "bachelor-of-polymer-technology"
+    "slug": "bachelor-of-polymer-technology",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Islamic Wealth Management (Hons)",
-    "slug": "bachelor-of-islamic-wealth-management"
+    "slug": "bachelor-of-islamic-wealth-management",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Science (Aquatic Science) (Hons)",
-    "slug": "bachelor-of-science-aquatic-science"
+    "slug": "bachelor-of-science-aquatic-science",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Agribusiness (Hons)",
-    "slug": "bachelor-of-agribusiness"
+    "slug": "bachelor-of-agribusiness",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Contemporary Malay Language with Interactive Media(Hons)",
-    "slug": "bachelor-of-contemporary-malay-language-with-interactive-mediahons"
+    "slug": "bachelor-of-contemporary-malay-language-with-interactive-mediahons",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Public Relations with Contemporary Media",
-    "slug": "bachelor-of-public-relations-with-contemporary-media"
+    "slug": "bachelor-of-public-relations-with-contemporary-media",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Halal Food Development",
-    "slug": "bachelor-of-halal-food-development"
+    "slug": "bachelor-of-halal-food-development",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Medical Imaging (Hons)",
-    "slug": "bachelor-of-medical-imaging"
+    "slug": "bachelor-of-medical-imaging",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 21000,
+      "international_total": null,
+      "per_year_local": 7000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM3,500/semester for public university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Plant Breeding Technology (Hons)",
-    "slug": "bachelor-of-plant-breeding-technology"
+    "slug": "bachelor-of-plant-breeding-technology",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Nursing Science (Hons)",
-    "slug": "bachelor-of-nursing-science"
+    "slug": "bachelor-of-nursing-science",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Education (Islamic Education)",
-    "slug": "bachelor-of-education-islamic-education"
+    "slug": "bachelor-of-education-islamic-education",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Agronomy (Hons)",
-    "slug": "bachelor-of-agronomy"
+    "slug": "bachelor-of-agronomy",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor Of Islamic Tourism With Honours",
-    "slug": "bachelor-of-islamic-tourism-with-honours"
+    "slug": "bachelor-of-islamic-tourism-with-honours",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Science Biomedicine (Hons)",
-    "slug": "bachelor-of-science-biomedicine"
+    "slug": "bachelor-of-science-biomedicine",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 21000,
+      "international_total": null,
+      "per_year_local": 7000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM3,500/semester for public university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Islamic Studies (Syariah)",
-    "slug": "bachelor-of-islamic-studies-syariah"
+    "slug": "bachelor-of-islamic-studies-syariah",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Information Technology (Informatics Media) (Hons)",
-    "slug": "bachelor-of-information-technology-informatics-media"
+    "slug": "bachelor-of-information-technology-informatics-media",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Food Science (Hons)",
-    "slug": "bachelor-of-food-science"
+    "slug": "bachelor-of-food-science",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of English Language with Communication (Hons)",
-    "slug": "bachelor-of-english-language-with-communication"
+    "slug": "bachelor-of-english-language-with-communication",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Food Technology (Hons)",
-    "slug": "bachelor-of-food-technology"
+    "slug": "bachelor-of-food-technology",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Industrial Design (Hons)",
-    "slug": "bachelor-of-industrial-design"
+    "slug": "bachelor-of-industrial-design",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Accountancy (Hons)",
-    "slug": "bachelor-of-accountancy"
+    "slug": "bachelor-of-accountancy",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Al-Quran and As-Sunnah (Qiraat) (Hons)",
-    "slug": "bachelor-of-al-quran-and-as-sunnah-qiraat"
+    "slug": "bachelor-of-al-quran-and-as-sunnah-qiraat",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Business Administration (Islamic Finance) (Hons)",
-    "slug": "bachelor-of-business-administration-islamic-finance"
+    "slug": "bachelor-of-business-administration-islamic-finance",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Computer Science (Software Development) (Hons)",
-    "slug": "bachelor-of-computer-science-software-development"
+    "slug": "bachelor-of-computer-science-software-development",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Business Administration (Risk Management and Takaful)(Hons)",
-    "slug": "bachelor-of-business-administration-risk-management-and-takafulhons"
+    "slug": "bachelor-of-business-administration-risk-management-and-takafulhons",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Pharmacy (Hons)",
-    "slug": "bachelor-of-pharmacy"
+    "slug": "bachelor-of-pharmacy",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 21000,
+      "international_total": null,
+      "per_year_local": 7000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM3,500/semester for public university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Computer Science (Computer Network Security) (Hons)",
-    "slug": "bachelor-of-computer-science-computer-network-security"
+    "slug": "bachelor-of-computer-science-computer-network-security",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Bachelor of Law (Hons)",
-    "slug": "bachelor-of-law"
+    "slug": "bachelor-of-law",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   }
 ]

@@ -9,7 +9,12 @@
   "city": "Iskandar Puteri",
   "website": "https://www.uow.edu.my",
   "studymalaysia_url": null,
-  "levels_available": ["foundation", "diploma", "undergraduate", "postgraduate"],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "undergraduate",
+    "postgraduate"
+  ],
   "program_counts": {
     "foundation": null,
     "diploma": null,
@@ -29,6 +34,14 @@
       "note": "Programmes page listing courses across Business, Built Environment, Computing, Communication, Engineering, Hospitality, Health Science, Law, Pre-University, and Social Science"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "Formerly KDU University College, rebranded as UOW Malaysia after UOW Global Enterprises acquisition in 2019. Received university status in 2023. Campuses at Glenmarie (Selangor), George Town (Penang), and Batu Kawan (Penang). Offers programmes from Certificate to PhD level."
+  "last_updated": "2026-09-16",
+  "notes": "Formerly KDU University College, rebranded as UOW Malaysia after UOW Global Enterprises acquisition in 2019. Received university status in 2023. Campuses at Glenmarie (Selangor), George Town (Penang), and Batu Kawan (Penang). Offers programmes from Certificate to PhD level.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

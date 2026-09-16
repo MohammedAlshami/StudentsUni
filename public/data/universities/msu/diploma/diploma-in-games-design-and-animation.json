@@ -14,24 +14,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 9766,
+    "local_total": 9765,
     "international_total": 17094,
-    "per_year_local": null,
+    "per_year_local": 4041,
     "per_year_international": null,
-    "notes": "Local: RM23,600.00; International: RM57,685.00"
+    "notes": "Local: RM23,600.00; International: RM57,685.00 (per_year based on 2.4166666666666665yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Pass SPM/SPMV or its equivalent with at least 3 credits and pass Pendidikan Seni (Arts Education) or Lukisan Kejuruteraan (Engineering Drawing); Science Computer Certificate from PTPL; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects and pass Pendidikan Seni (Arts Education); Other equivalent qualification recognised by Malaysian Government. Pass interview/drawing test/portfolio evaluation conducted by PPT (provider of higher education) for candidates who did not take Pendidikan Seni (Arts Education) or Lukisan Kejuruteraan (Engineering Drawing) subject at SPM level."
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Games Design and Animation",
+  "program_name_zh": "Games Design and Animation文凭",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

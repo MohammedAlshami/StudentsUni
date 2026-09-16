@@ -8,7 +8,10 @@
   "faculty": "Mechanical and Manufacturing Engineering",
   "duration": "5 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "local": "225/sem",
     "international": null,
@@ -19,12 +22,29 @@
     "international_total": 9750,
     "per_year_international": 3900
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UTHM/0000281/",
     "https://www.studymalaysia.com/edu/uthm/courses/"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Mechanical Engineering",
+  "program_name_zh": "Mechanical Engineering文凭",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

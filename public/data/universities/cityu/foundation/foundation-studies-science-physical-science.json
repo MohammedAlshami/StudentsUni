@@ -16,9 +16,23 @@
     "currency": "MYR",
     "local_total": 13700,
     "international_total": 24850,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 1.0yr duration)",
+    "per_year_local": 13700
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Science",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,5 +47,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Foundation Studies in Science (Physical Science)",
+  "program_name_zh": "Foundation Studies in Science (Physical Science)",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

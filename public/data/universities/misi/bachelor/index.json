@@ -2,26 +2,66 @@
   {
     "slug": "bachelor-in-business-halal-logistics-and-supply-chain-management-with-honours",
     "name": "Bachelor in Business (Halal Logistics and Supply Chain Management) with Honours",
-    "field": "Transport and Logistics"
+    "field": "Transport and Logistics",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-in-digital-marketing-with-honours",
     "name": "Bachelor in Digital Marketing with Honours",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-in-business-system-management-with-honours",
     "name": "Bachelor in Business System Management with Honours",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-in-entrepreneurship-with-honours",
     "name": "Bachelor in Entrepreneurship with Honours",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-in-entrepreneurship-fashion-with-honours",
     "name": "Bachelor in Entrepreneurship (Fashion) with Honours",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

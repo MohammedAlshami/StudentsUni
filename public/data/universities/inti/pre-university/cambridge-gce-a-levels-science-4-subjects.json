@@ -8,12 +8,33 @@
   "duration": "1.5 Years",
   "mode": "Full-time",
   "study_type": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Aug",
+    "Jan",
+    "Jun"
+  ],
   "fees": {
-    "local": "Refer to website",
-    "international": "Refer to newinti.edu.my"
+    "currency": "MYR",
+    "local_total": 33000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "Cambridge Assessment International Education",
   "awarding_country": "Malaysia",
   "faculty": "Pre-University",
@@ -22,5 +43,9 @@
     "https://studymalaysia.com/what/course/INTI/0009054/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Cambridge GCE A Levels (Science) [4 Subjects]",
+  "program_name_zh": "Cambridge GCE A Levels (Science) [4 Subjects]",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

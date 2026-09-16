@@ -6,15 +6,45 @@
   "slug": "master-of-philosophy-in-pharmaceutical-science",
   "program_slug": "master-of-philosophy-in-pharmaceutical-science",
   "field": "Pharmacy",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full Time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Jun",
+    "Nov",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 120000,
+    "international_total": null,
+    "per_year_local": 40000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/master-research/master-of-philosophy-in-pharmaceutical-science.html"
   ],
   "confidence": 0.5,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Philosophy in Pharmaceutical Sciences",
+  "program_name_zh": "Philosophy in Pharmaceutical Sciences硕士",
+  "field_ar": "الصيدلة",
+  "field_zh": "药学"
 }

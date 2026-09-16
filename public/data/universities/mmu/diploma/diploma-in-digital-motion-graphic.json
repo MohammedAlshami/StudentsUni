@@ -6,7 +6,11 @@
   "field": "Creative Multimedia",
   "duration": "2 Years 3 Months",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Aug",
+    "Mar",
+    "Oct"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 24500,
@@ -17,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -56,5 +60,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Digital Motion Graphic",
+  "program_name_zh": "Digital Motion Graphic文凭",
+  "field_ar": "الإعلام",
+  "field_zh": "媒体学"
 }

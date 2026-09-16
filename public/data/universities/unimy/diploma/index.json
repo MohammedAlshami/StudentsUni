@@ -4,34 +4,74 @@
     "program_name": "Diploma in Information Technology",
     "field": "Computing",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-information-technology-cyber-security",
     "program_name": "Diploma In Information Technology (Cyber Security)",
     "field": "Computing",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-interactive-and-digital-media",
     "program_name": "Diploma In Interactive And Digital Media",
     "field": "Computing",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-game-development",
     "program_name": "Diploma In Game Development",
     "field": "Computing",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-information-systems-business-computing",
     "program_name": "Diploma In Information Systems (Business Computing)",
     "field": "Computing",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   }
 ]

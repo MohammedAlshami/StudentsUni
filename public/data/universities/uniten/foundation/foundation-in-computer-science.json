@@ -27,12 +27,23 @@
     },
     "currency": "MYR",
     "local_total": 6000,
-    "per_year_local": null,
-    "international_total": 19800
+    "per_year_local": 6000,
+    "international_total": 19800,
+    "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "local": "SPM / equivalent with credits in Mathematics, Additional Mathematics, and English",
-    "international": "Varies by country. Check MQA requirements."
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": {
     "mqa_code": "R2/010/3/0168",
@@ -53,5 +64,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Computer Science",
+  "program_name_zh": "Computer Science预科",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

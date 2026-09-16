@@ -6,17 +6,40 @@
   "field": "Computing",
   "duration": "2 Years",
   "mode": "Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM24,000",
-    "international": "RM25,000"
+    "international": "RM25,000",
+    "local_total": 24000,
+    "per_year_local": 12000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/unimy/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "master-of-science-computer-science--by-coursework"
+  "last_updated": "2026-09-16",
+  "slug": "master-of-science-computer-science--by-coursework",
+  "program_name_ar": "ماجستير Science (Computer Science) - By Coursework",
+  "program_name_zh": "Science (Computer Science) - By Coursework硕士",
+  "field_ar": "Computing",
+  "field_zh": "Computing"
 }

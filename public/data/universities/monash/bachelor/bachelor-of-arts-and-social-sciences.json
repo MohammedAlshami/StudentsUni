@@ -13,23 +13,23 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 47040,
+    "local_total": 111396,
     "international_total": 53280,
-    "per_year_local": "RM37,132 per year",
+    "per_year_local": 37132,
     "per_year_international": "RM42,446 per year",
     "notes": null
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics and Science",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
       "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
     }
   },
@@ -52,5 +52,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Arts and Social Sciences",
+  "program_name_zh": "Arts and Social Sciences学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

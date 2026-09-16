@@ -5,29 +5,33 @@
   "program_name": "Doctor of Philosophy in Management (PhD)",
   "slug": "doctor-of-philosophy-in-management-phd",
   "field": "management",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": {},
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 75000,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 25000,
     "per_year_international": null,
-    "notes": ""
+    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -42,5 +46,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Management (PhD)",
+  "program_name_zh": "哲学博士 in Management (PhD)",
+  "field_ar": "إدارة",
+  "field_zh": "管理学"
 }

@@ -7,16 +7,39 @@
   "field": "Business & Management",
   "duration": "1.5 - 2 years (Full-time), 2 - 3 years (Part-time)",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM30,350",
-    "international": "RM30,950"
+    "international": "RM30,950",
+    "local_total": 30350,
+    "per_year_local": 15175
   },
-  "requirements": "Bachelor's degree with minimum CGPA of 2.75 or equivalent from AIU or any university recognised by the AIU Senate",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "N/0419/7/0001 (12/27) MQA/PA 15825",
   "sources": [
     "https://www.aiu.edu.my/postgraduate"
   ],
   "confidence": 0.95,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Social Business",
+  "program_name_zh": "Social Business硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -7,15 +7,32 @@
   "slug": "diploma-in-mass-communication",
   "duration": "2 years",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Oct"
+  ],
   "fees": {
     "local": "Refer to University",
     "international": "Refer to University",
-    "local_total": 16559,
+    "local_total": 16560,
     "per_year_local": 8280,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058793/",
@@ -26,5 +43,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Mass Communication",
+  "program_name_zh": "Mass Communication文凭",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

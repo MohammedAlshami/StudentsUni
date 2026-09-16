@@ -6,23 +6,44 @@
   "field": "Branding and Advertising",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 74,925",
     "international": "RM 88,520",
     "currency": "MYR",
-    "local_total": 74925,
+    "local_total": 224775,
     "international_total": 88520,
     "per_year_local": 74925,
     "per_year_international": 88520,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0008890/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Hons) Branding and Advertising",
+  "program_name_zh": "Hons) Branding and Advertising学士",
+  "field_ar": "Branding and Advertising",
+  "field_zh": "Branding and Advertising"
 }

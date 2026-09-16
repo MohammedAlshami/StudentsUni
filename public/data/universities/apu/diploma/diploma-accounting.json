@@ -7,25 +7,31 @@
   "field": "Accounting & Finance",
   "duration": "2 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM47,600.00",
     "international": "RM54,200.00",
     "local_total": 46200,
-    "international_total": 52600
+    "international_total": 52600,
+    "per_year_local": 23100,
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "SPM 3 Credits in at least 3 subjects at SPM level including Mathematics, with a minimum of a pass in Bahasa Malaysia, English, and Sejarah (History). Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. IGCSE/O-Levels 3 Credits (Grade C &amp; above) in at least 3 subjects at IGCSE/O-Levels including Mathematics. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. UEC 3 Credits (Grade B &amp; above) in at least 3 subjects in UEC including Mathematics. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. Certificate Pass relevant Certificate Programme or its equivalent, with a Credit in Mathematics and a pass in English at SPM level. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. Pass in English is required at SPM/IGCSE/O-Level or equivalent. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by the Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) published by the Malaysian Qualifications Agency (MQA). English Requirements International Students IELTS: 4.5 TOEFL IBT: 33 Pearson (PTE): 43 MUET: Band 3.0"
   },
@@ -40,5 +46,9 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Accounting",
+  "program_name_zh": "Accounting文凭",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

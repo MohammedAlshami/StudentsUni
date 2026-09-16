@@ -17,11 +17,24 @@
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
     "local_total": 23350,
-    "per_year_local": null,
-    "notes": "Fee: FromRM35,600.00",
+    "per_year_local": 11675,
+    "notes": "Fee: FromRM35,600.00 (per_year based on 2.0yr duration)",
     "international_total": 25600
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -34,5 +47,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "M.Sc in Life Sciences",
+  "program_name_zh": "M.Sc in Life Sciences",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

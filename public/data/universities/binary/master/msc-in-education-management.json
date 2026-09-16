@@ -7,14 +7,18 @@
   "field": "education",
   "duration": "2 years",
   "mode": "Part-Time",
-  "intakes": [],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 33000,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 16500,
     "per_year_international": null,
-    "notes": "RM 16,000/year"
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -42,5 +46,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير in Education Management",
+  "program_name_zh": "in Education Management硕士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

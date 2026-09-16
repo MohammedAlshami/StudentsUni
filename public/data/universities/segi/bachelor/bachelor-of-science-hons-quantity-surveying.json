@@ -15,13 +15,25 @@
   "fees": {
     "local": "Refer to the Univ.",
     "international": "Refer to the Univ.",
-    "local_total": 21209,
+    "local_total": 21207,
     "currency": "MYR",
-    "international_total": 28059
+    "international_total": 28059,
+    "per_year_local": 7069,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "academic": null,
-    "general_text": "Any one of these: Pass in STPM or equivalent, minimum Grade C (2.00) in 3 subjects including Mathematics Pass in A-Level in 3 subjects including Mathematics Pass in Unified Examinations Certificate (UEC) at least B in 5 subjects including Mathematics Pass in New South Wales Higher Certificate with Grade C in 3 subjects including Mathematics Pass in South Australia Certificate of Education (SACE) and Grade C in 3 subjects including Mathematics Pass in Ontario Secondary School Diploma, 60% over all in 3 subjects including Mathematics Pass in International Baccalaureate Diploma, with at least score of 24 Pass in Matriculation in relevant area (Ministry of Education Malaysia), Pass with minimum CGPA of 2.50 Pass in Foundation Studies in related field by Higher Institutions Provider recognised by Malaysia Government (at least CGPA 2.50) Pass in Diploma in related field by Higher Institutions Provider recognised by Malaysia Government (at least CGPA 2.00) Direct Entry to Year 2 with minimum CGPA 2.67 in Diploma in QS by Higher Institutions Provider recognised by Malaysia Government Pass in Monash University Foundation Year (MUFY) with minimum 55% passing marks, including credit in Mathematics / Applied Mathematics Other equivalent qualification that recognised by Malaysia Government Note: For local students, Credit C SPM in Mathematics it’s a MUST. English Proficiency Requirements (International Student): TOEFL with minimum of score 500 IELTS with minimum of score 5.0."
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -43,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) Quantity Surveying",
+  "program_name_zh": "Science (Hons) Quantity Surveying学士",
+  "field_ar": "العمارة",
+  "field_zh": "建筑学"
 }

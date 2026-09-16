@@ -21,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Entry Requirements Pass SPM/O-Level with at least Grade C in three subjects Pass UEC with at least Grade B in three subjects Pass STPM with Grade C (GP 2.00) in one subject Pass STAM with Grade Maqbul (Pass) Recognised Creative Multimedia Certificate or equivalent Recognised Technical/Vocational Certificate with one year of relevant work experience or a trimester bridging programme Pass SKM Level 3 or equivalent qualifications APEL.A certificate from MQA for admission AND Pass an interview or submit a portfolio as required by MMU."
   },
@@ -76,5 +76,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Creative Multimedia",
+  "program_name_zh": "Creative Multimedia文凭",
+  "field_ar": "الإعلام",
+  "field_zh": "媒体学"
 }

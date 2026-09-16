@@ -17,11 +17,23 @@
     "international": "Refer to the Univ.",
     "local_total": 15222,
     "currency": "MYR",
-    "international_total": 16055
+    "international_total": 16055,
+    "per_year_local": 5074,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "academic": null,
-    "general_text": "Any of these: A-Levels/STPM with a minimum of 2 principal passes Related foundation/diploma with at least CGPA 2.0 Any equivalent qualifications"
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -43,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Hospitality Management (Hons) (Double Degree)",
+  "program_name_zh": "Hospitality Management (Hons) (Double Degree)学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

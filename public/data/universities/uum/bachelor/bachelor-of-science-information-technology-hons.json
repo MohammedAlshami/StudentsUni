@@ -6,7 +6,10 @@
   "field": "Computing & IT",
   "duration": "7 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 5600,
@@ -46,5 +49,9 @@
     }
   ],
   "confidence": "partial",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science with Honours (Information Technology)",
+  "program_name_zh": "Science with Honours (Information Technology)学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

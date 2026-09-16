@@ -2,6 +2,14 @@
   {
     "slug": "postgraduate-programmes-various",
     "program_name": "Postgraduate programmes (various)",
-    "field": "general"
+    "field": "general",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

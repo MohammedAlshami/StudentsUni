@@ -14,13 +14,26 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 23894,
+    "local_total": 136500,
     "international_total": 30538,
     "per_year_local": 45500,
     "per_year_international": 16491,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/business/phd-coursework/doctor-of-business-administration.html",
@@ -37,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه Business Administration (DBA)",
+  "program_name_zh": "Business Administration (DBA)博士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -16,24 +16,23 @@
     "currency": "MYR",
     "local_total": 27280,
     "international_total": 37800,
-    "per_year_local": null,
+    "per_year_local": 27280,
     "per_year_international": null,
-    "notes": "Local: 25200/Course; International: 25200/Course"
+    "notes": "Local: 25200/Course; International: 25200/Course (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Bachelor’s Degree (Level 6, MQF) in a Related Field: Pass with a minimum CGPA of 2.50 out of 4.00 or A pass with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted subject to an internal evaluation/interview. Bachelor’s Degree (Level 6, MQF) in a Non-Related Field: Pass with a minimum CGPA of 2.00 and with related working experience, subject to an internal evaluation/interview or Pass with a minimum CGPA of 2.00 and without relevant working experience, subject to passing of prerequisite courses. Other Equivalent/Related Qualifications to a Bachelor’s Degree (Level 6, MQF) as Recognized by the Malaysian Government: Equivalent qualifications to be evaluated for recognition. English Language Requirements (for International Students): MUET: Minimum band 4.0 IELTS: Minimum score 6.0 TOEFL (Ess OL): Minimum score 8.5 TOEFL (iBT): Minimum score 60 Pearson: Minimum score 59 Linguaskill Online: Minimum score 169 OET: Minimum score 250 ELS: Minimum score 109"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -67,5 +66,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (Banking & Finance) (ODL)",
+  "program_name_zh": "Business Administration (Banking & Finance) (ODL)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

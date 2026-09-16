@@ -3,276 +3,644 @@
     "slug": "bachelor-of-accountancy-information-system-hons",
     "name": "Bachelor of Accounting (Information System) with Honours",
     "field": "Accounting & Finance",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-accountancy-hons",
     "name": "Bachelor of Accountancy with Honours",
     "field": "Accounting & Finance",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-applied-history-hons",
     "name": "Bachelor of Applied History with Honours",
     "field": "Humanities",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-applied-linguistics-business-administration-hons",
     "name": "Bachelor of Applied Linguistics and Business Administration with Honours",
     "field": "Language & Business",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-arts-contemporary-literature-creative-industry-management-hons",
     "name": "Bachelor of Arts in Contemporary Literature and Creative Industry Management (Honours)",
     "field": "Arts & Creative Industry",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-arts-linguistics-information-technology-hons",
     "name": "Bachelor of Arts in Linguistics and Information Technology (Honours)",
     "field": "Language & Computing",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration-golf-management-hons",
     "name": "Bachelor of Business Administration (Golf Management) with Honours",
     "field": "Business Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration-logistics-transportation-hons",
     "name": "Bachelor of Business Administration (Logistics and Transportation) with Honours",
     "field": "Business Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration-hons",
     "name": "Bachelor of Business Administration with Honours",
     "field": "Business Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-communication-hons",
     "name": "Bachelor of Communication with Honours",
     "field": "Communication",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-computer-science-hons",
     "name": "Bachelor of Computer Science with Honours",
     "field": "Computing & IT",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-counselling-hons",
     "name": "Bachelor of Counselling with Honours",
     "field": "Social Sciences",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-creative-industry-management-hons",
     "name": "Bachelor of Creative Industry Management with Honours",
     "field": "Arts & Creative Industry",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-development-management-hons",
     "name": "Bachelor of Development Management with Honours",
     "field": "Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-education-accounting-hons",
     "name": "Bachelor of Education with Honours (Accounting)",
     "field": "Education",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-education-business-management-hons",
     "name": "Bachelor of Education with Honours (Business Management)",
     "field": "Education",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-education-guidance-counselling-hons",
     "name": "Bachelor of Education with Honours (Guidance and Counselling)",
     "field": "Education",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-education-information-technology-hons",
     "name": "Bachelor of Education with Honours (Information Technology)",
     "field": "Education",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-education-moral-education-hons",
     "name": "Bachelor of Education with Honours (Moral Education)",
     "field": "Education",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-entrepreneurship-hons",
     "name": "Bachelor of Entrepreneurship with Honours",
     "field": "Business Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-entrepreneurship-hons-2u2i-mode",
     "name": "Bachelor of Entrepreneurship with Honours (Mode 2u2i)",
     "field": "Business Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-event-management-hons",
     "name": "Bachelor of Event Management with Honours",
     "field": "Hospitality & Tourism",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-finance-hons",
     "name": "Bachelor of Finance with Honours",
     "field": "Accounting & Finance",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-hospitality-management-hons",
     "name": "Bachelor of Hospitality Management with Honours",
     "field": "Hospitality & Tourism",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-human-resource-management-hons",
     "name": "Bachelor of Human Resource Management with Honours",
     "field": "Business Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-international-affairs-management-hons",
     "name": "Bachelor of International Affairs Management with Honours",
     "field": "Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-international-business-management-hons",
     "name": "Bachelor of International Business Management with Honours",
     "field": "Business Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-islamic-finance-banking-hons",
     "name": "Bachelor of Islamic Finance and Banking with Honours",
     "field": "Accounting & Finance",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-marketing-hons",
     "name": "Bachelor of Marketing with Honours",
     "field": "Business Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-media-technology-hons",
     "name": "Bachelor of Media Technology with Honours",
     "field": "Communication",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-muamalat-administration-hons",
     "name": "Bachelor of Muamalat Administration with Honours",
     "field": "Accounting & Finance",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-operations-management-hons",
     "name": "Bachelor of Operations Management with Honours",
     "field": "Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-law-hons",
     "name": "Bachelor of Law with Honours",
     "field": "Law",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-philosophy-law-business-hons",
     "name": "Bachelor of Philosophy, Law and Business with Honours",
     "field": "Law & Business",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-public-management-hons",
     "name": "Bachelor of Public Management with Honours",
     "field": "Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-risk-management-insurance-hons",
     "name": "Bachelor of Risk Management and Insurance with Honours",
     "field": "Business Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-science-agribusiness-management-hons",
     "name": "Bachelor of Science Agribusiness Management with Honours",
     "field": "Agriculture & Business",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-science-economics-hons",
     "name": "Bachelor of Science Economics with Honours",
     "field": "Economics",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-science-business-mathematics-hons",
     "name": "Bachelor of Science with Honours (Business Mathematics)",
     "field": "Mathematics",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-science-decision-science-hons",
     "name": "Bachelor of Science with Honours (Decision Science)",
     "field": "Decision Science",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-science-industrial-statistics-hons",
     "name": "Bachelor of Science with Honours (Industrial Statistics)",
     "field": "Statistics",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-science-information-technology-hons",
     "name": "Bachelor of Science with Honours (Information Technology)",
     "field": "Computing & IT",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-science-multimedia-hons",
     "name": "Bachelor of Science with Honours (Multimedia)",
     "field": "Computing & IT",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-social-work-management-hons",
     "name": "Bachelor of Social Work Management with Honours",
     "field": "Social Sciences",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-technology-management-hons",
     "name": "Bachelor of Technology Management with Honours",
     "field": "Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-tourism-management-hons",
     "name": "Bachelor of Tourism Management with Honours",
     "field": "Hospitality & Tourism",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   }
 ]

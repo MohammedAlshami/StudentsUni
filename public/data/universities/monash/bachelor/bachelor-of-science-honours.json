@@ -12,23 +12,23 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 49920,
+    "local_total": 44805,
     "international_total": 58560,
-    "per_year_local": "RM44,805 per year",
+    "per_year_local": 44805,
     "per_year_international": "RM51,135 per year",
     "notes": null
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics and Science",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
       "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
     }
   },
@@ -51,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Honours)",
+  "program_name_zh": "Science (Honours)学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

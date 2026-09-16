@@ -14,24 +14,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12872,
+    "local_total": 12870,
     "international_total": 18916,
-    "per_year_local": null,
+    "per_year_local": 5148,
     "per_year_international": null,
-    "notes": "Local: 28800/Course; International: 28800/Course"
+    "notes": "Local: 28800/Course; International: 28800/Course (per_year based on 2.5yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -61,5 +61,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Accounting",
+  "program_name_zh": "Accounting文凭",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

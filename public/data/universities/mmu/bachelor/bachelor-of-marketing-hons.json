@@ -13,7 +13,7 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 54250,
+    "local_total": 54249,
     "international_total": 67250,
     "per_year_local": 18083,
     "per_year_international": 22417,
@@ -21,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "Entry Requirement Any one of the followings: Pass Foundation/ Matriculation studies with at least CGPA of 2.00 from a recognised institution; OR Pass STPM or its equivalent with a minimum of Grade C (GP 2.00) in any two (2) subjects AND a Pass in Mathematics and English at SPM Level or its equivalent; OR Pass A-Level with a minimum of Grade D in any two (2) subjects AND a Pass in Mathematics and English at SPM Level or its equivalent; OR Pass STAM with a minimum of Grade Jayyid (Good) in two (2) subjects AND a Pass in Mathematic and English at SPM or its equivalent; OR Pass UEC with a minimum of Grade B in at least five (5) subjects inclusive of English OR a minimum of Grade C in SPM/O-Level English or equivalent; Note: The requirement to pass Mathematics and English at SPM Level can be waived if qualifications include equivalent or higher achievements in these subjects. Malaysian students who used English as their medium of instruction or have at least Band 2 in MUET may be exempt from the English requirement. Students without a pass in Mathematics or English at SPM level may be admitted but must complete special enhancement courses. The English requirement does not apply to international students, who are assessed based on international English exams. DKM/DLKM/DVM candidates may need to complete a Bridging Programme."
   },
@@ -76,5 +76,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Marketing (Hons.)",
+  "program_name_zh": "Marketing (Hons.)学士",
+  "field_ar": "التسويق",
+  "field_zh": "市场营销"
 }

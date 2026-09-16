@@ -2,26 +2,66 @@
   {
     "slug": "master-in-traffic-safety-management",
     "name": "Master in Traffic Safety Management",
-    "field": "Transport and Logistics"
+    "field": "Transport and Logistics",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-in-transportation-and-logistics",
     "name": "Master of Science in Transportation and Logistics",
-    "field": "Transport and Logistics"
+    "field": "Transport and Logistics",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-in-information-technology-by-coursework",
     "name": "Master of Science in Information Technology (By Coursework)",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-in-information-technology-by-research",
     "name": "Master of Science in Information Technology (By Research)",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-business-administration-in-collaboration-with-kedge-business-school-france",
     "name": "Master of Business Administration (in collaboration with KEDGE Business School France)",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

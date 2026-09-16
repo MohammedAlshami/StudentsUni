@@ -6,7 +6,9 @@
   "field": "Economics",
   "duration": "1-2 Years",
   "mode": "Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM35,690/Yr",
     "international": "RM39,942/Yr",
@@ -16,7 +18,20 @@
     "per_year_international": 39942,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -27,6 +42,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "phd-in-economics"
+  "last_updated": "2026-09-16",
+  "slug": "phd-in-economics",
+  "program_name_ar": "Ph.D in Economics",
+  "program_name_zh": "Ph.D in Economics",
+  "field_ar": "الاقتصاد",
+  "field_zh": "经济学"
 }

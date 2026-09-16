@@ -6,27 +6,32 @@
   "field": "Business",
   "duration": "1.5 Years",
   "mode": "Part-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "RM33,220",
     "international": "RM44,520",
-    "local_total": 33220,
-    "international_total": 44520
+    "local_total": 33219,
+    "international_total": 44520,
+    "per_year_local": 22146,
+    "notes": " (per_year based on 1.5yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of These: A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate; OR A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and with relevant working experience, subject to a rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; OR Other equivalent/related qualifications to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government. English Language Competency Requirements for International Students: English language requirements can be waived if the international student EITHER comes from a country that uses English as the official language OR the entry qualification. IELTS 6.0 TOEFL 60 TOEFL Essentials (Online) 8.5 Pearson Test of English 59 Cambridge English Qualifications and Tests - B1 Preliminary, B2 First, C1 Advanced, C2 Proficiency &amp; Linguaskill Online - 169 ELS 109"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -38,6 +43,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "master-of-science-in-project-management"
+  "last_updated": "2026-09-16",
+  "slug": "master-of-science-in-project-management",
+  "program_name_ar": "ماجستير Science In Project Management",
+  "program_name_zh": "Science In Project Management硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

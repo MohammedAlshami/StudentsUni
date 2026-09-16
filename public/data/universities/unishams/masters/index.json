@@ -9,14 +9,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0414/7/0274 (12/1/2031) (MQA/FA0019)",
     "sources": [
       "https://unishams.edu.my/component/content/article/master-in-business-administration?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -28,14 +35,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0232/7/0008 (15/6/2033) (A9861)",
     "sources": [
       "https://unishams.edu.my/component/content/article/master-in-arabic-language?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -47,14 +61,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0224/7/0051 (9/7/2031) (A9805)",
     "sources": [
       "https://unishams.edu.my/component/content/article/master-in-syaria?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -66,14 +87,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R2/762/7/0003 (27/2/2028) (MQA/FA0105)",
     "sources": [
       "https://unishams.edu.my/component/content/article/master-in-counselling?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -85,14 +113,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0413/7/0018 (21/5/2033) (A9863)",
     "sources": [
       "https://unishams.edu.my/component/content/article/master-in-islamic-banking-and-finance?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -104,14 +139,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0224/7/0034 (10/7/2031) (MQA/FA0017)",
     "sources": [
       "https://unishams.edu.my/component/content/article/master-in-teaching-al-qura-n?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -123,14 +165,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R/0414/7/0266 (9/8/2032) (MQA/FA10012)",
     "sources": [
       "https://unishams.edu.my/component/content/article/master-in-management?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -142,14 +191,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0224/7/0078 (10/7/2031) (MQA/FA0018)",
     "sources": [
       "https://unishams.edu.my/component/content/article/master-in-quranic-studies?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -161,13 +217,20 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0224/7/0054 (9/7/2031) (A9806)",
     "sources": [
       "https://unishams.edu.my/component/content/article/master-in-usuluddin?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

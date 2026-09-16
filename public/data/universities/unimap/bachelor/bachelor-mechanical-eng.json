@@ -15,7 +15,7 @@
     "local": "800/Sem",
     "international": null,
     "currency": "MYR",
-    "local_total": 800,
+    "local_total": 6400,
     "international_total": null,
     "per_year_local": 1600,
     "per_year_international": null,
@@ -23,7 +23,19 @@
   },
   "requirements": {
     "entry_requirements": null,
-    "minimum_cgpa": null
+    "minimum_cgpa": null,
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) including Mathematics and Physics",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa": true,
@@ -34,5 +46,9 @@
     "https://www.studymalaysia.com/edu/unimap/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Engineering (Mechanical Engineering) (Hons)",
+  "program_name_zh": "Engineering (Mechanical Engineering) (Hons)学士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

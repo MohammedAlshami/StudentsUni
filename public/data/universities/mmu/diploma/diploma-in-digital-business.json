@@ -6,7 +6,11 @@
   "field": "Business",
   "duration": "2 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Aug",
+    "Mar",
+    "Oct"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 23400,
@@ -17,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Entry requirements: Pass SPM/O-Level or its equivalent with a minimum of Credit in at least three (3) subjects, and at least a Pass in English; OR Pass STPM or its equivalent with a minimum of Grade C (GP 2.00) in any subject AND a Pass in English at SPM Level or its equivalent; OR Pass STAM with a minimum Grade of Maqbul (Pass) AND a Pass in English at SPM Level or its equivalent; OR Pass UEC with a minimum of Grade B in at least three (3) subjects and at least a Pass in English; OR Pass SKM (Level 3, MQF) in a related field; OR A Certificate (Level 3, MQF) in the related field with at least CGPA of 2.00; OR Possess an APEL.A certificate from MQA for admission into Diploma programmes. Note: Upon completing the diploma programme, students who intend to pursue their studies in MMU will need to meet the entry requirements of the bachelor’s degree programme of their choice."
   },
@@ -57,5 +61,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Digital Business",
+  "program_name_zh": "Digital Business文凭",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

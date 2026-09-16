@@ -13,7 +13,9 @@
     ],
     "fees": {
       "local": "RM 28,000",
-      "international": "RM 35,000"
+      "international": "RM 35,000",
+      "local_total": 28000,
+      "per_year_local": 14000
     },
     "requirements": null,
     "accreditation": "N/0915/7/0009 (MOA/PA 18398) (06/30)",
@@ -21,6 +23,6 @@
       "https://www.rumc.edu.my/programmes/master-of-science-in-occupational-therapy/"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

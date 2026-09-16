@@ -16,13 +16,13 @@
     "currency": "MYR",
     "local_total": 15800,
     "international_total": 18650,
-    "per_year_local": null,
+    "per_year_local": 15800,
     "per_year_international": null,
-    "notes": "Local: RM15,800.00; International: RM28,205.00"
+    "notes": "Local: RM15,800.00; International: RM28,205.00 (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -30,8 +30,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Pass SPM/SPMV with at least 5 credits; Pass O-Level with 5 credits from institution recognized by Malaysian Government; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by the Malaysian Government."
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Business",
+  "program_name_zh": "Business预科",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

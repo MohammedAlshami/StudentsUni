@@ -3,63 +3,283 @@
   "university": "Universiti Pendidikan Sultan Idris",
   "university_slug": "upsi",
   "programs": [
-    {"slug": "bachelor-of-education-islamic-education", "name": "Bachelor of Education (Islamic Education) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-music", "name": "Bachelor of Education (Music) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-information-technology", "name": "Bachelor of Education (Information Technology) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-moral-education", "name": "Bachelor of Education (Moral Education) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-home-economics", "name": "Bachelor of Education (Home Economics)", "field": "Education"},
-    {"slug": "bachelor-of-education-tesl", "name": "Bachelor of Education (Teaching English As a Second Language) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-sports-science", "name": "Bachelor of Education (Sports Science) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-malay-language", "name": "Bachelor of Education (Malay Language) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-design-advertising", "name": "Bachelor of Design (Advertising) (Hons)", "field": "Design"},
-    {"slug": "bachelor-of-education-guidance-counseling", "name": "Bachelor of Education (Guidance & Counseling) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-design-animation", "name": "Bachelor of Design (Animation) (Hons)", "field": "Design"},
-    {"slug": "bachelor-of-education-chemistry", "name": "Bachelor of Education (Chemistry) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-coaching-science", "name": "Bachelor of Education (Coaching Science) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-chinese-language-education", "name": "Bachelor of Chinese Language with Education", "field": "Languages"},
-    {"slug": "bachelor-of-accounting", "name": "Bachelor of Accounting (Hons)", "field": "Accounting & Finance"},
-    {"slug": "bachelor-of-sports-science-coaching", "name": "Bachelor of Sports Science (Science of Coaching) (Hons)", "field": "Sports Science"},
-    {"slug": "bachelor-of-psychology", "name": "Bachelor of Psychology (Hons)", "field": "Social Sciences"},
-    {"slug": "bachelor-of-performing-arts-dance", "name": "Bachelor of Performing Arts (Dance) (Hons)", "field": "Performing Arts"},
-    {"slug": "bachelor-of-performing-arts-theatre", "name": "Bachelor of Performing Arts (Theatre) (Hons)", "field": "Performing Arts"},
-    {"slug": "bachelor-of-education-design", "name": "Bachelor of Education (Design) Hons", "field": "Education"},
-    {"slug": "bachelor-of-communication-content-development", "name": "Bachelor of Communication (Content Development) with Honours", "field": "Communication"},
-    {"slug": "bachelor-of-education-tahfiz-al-quran", "name": "Bachelor of Education Tahfiz Al-Quran and Qira'at (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-malaysian-studies-education", "name": "Bachelor of Malaysian Studies with Education", "field": "Education"},
-    {"slug": "bachelor-of-software-engineering-education", "name": "Bachelor of Software Engineering (Software Education) (Hons)", "field": "Computing & IT"},
-    {"slug": "bachelor-of-education-special-education", "name": "Bachelor of Education (Special Education) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-history", "name": "Bachelor of Education (History) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-geography", "name": "Bachelor of Education (Geography) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-science", "name": "Bachelor of Education (Science) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-agriculture-science", "name": "Bachelor of Education (Agriculture Science) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-mathematics", "name": "Bachelor of Education (Mathematics) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-sports-science-coaching-science", "name": "Bachelor of Sports Science (Science of Coaching) (Hons)", "field": "Sports Science"},
-    {"slug": "bachelor-of-education-physics", "name": "Bachelor of Education (Physics) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-physical-education", "name": "Bachelor of Education (Physical Education) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-early-childhood-education", "name": "Bachelor of Education (Early Childhood Education) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-tamil-language", "name": "Bachelor of Education (Tamil Language) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-sports-science-rehabilitation", "name": "Bachelor of Sports Science (Sports Rehabilitation) (Hons)", "field": "Sports Science"},
-    {"slug": "bachelor-of-arabic-language-education", "name": "Bachelor of Arabic Language with Education", "field": "Languages"},
-    {"slug": "bachelor-of-business-administration-financial-services", "name": "Bachelor of Business Administration (Financial Services) (Hons)", "field": "Business"},
-    {"slug": "bachelor-of-economics-islamic-finance", "name": "Bachelor of Economics (Islamic Finance) (Hons)", "field": "Economics"},
-    {"slug": "bachelor-of-economics-finance", "name": "Bachelor of Economics (Finance) (Hons)", "field": "Economics"},
-    {"slug": "bachelor-of-business-administration-hrm", "name": "Bachelor of Business Administration (Human Resource Management) (Hons)", "field": "Business"},
-    {"slug": "bachelor-of-education-malay-literature", "name": "Bachelor of Education (Malay Literature) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-multimedia", "name": "Bachelor of Education (Multimedia) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-arts", "name": "Bachelor of Education (Arts) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-biology", "name": "Bachelor of Education (Biology) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-computer-science-iot", "name": "Bachelor of Computer Science (Internet of Things Technology) with Honours", "field": "Computing & IT"},
-    {"slug": "bachelor-of-accounting-hons", "name": "Bachelor of Accounting (Hons)", "field": "Accounting & Finance"},
-    {"slug": "bachelor-of-communication-social-communication", "name": "Bachelor of Communication (Social Communication) (Hons)", "field": "Communication"},
-    {"slug": "bachelor-of-design-digital-games", "name": "Bachelor of Design (Digital Games) (Hons)", "field": "Design"},
-    {"slug": "bachelor-of-science-mathematics-education", "name": "Bachelor of Science (Mathematics) with Education", "field": "Science"},
-    {"slug": "bachelor-of-education-technology-design", "name": "Bachelor of Education (Technology and Design) (Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-ethnic-language", "name": "Bachelor of Education (Ethnic Language) with Honours", "field": "Education"},
-    {"slug": "bachelor-of-education-invention", "name": "Bachelor of Education (Invention) with Honours", "field": "Education"}
+    {
+      "slug": "bachelor-of-education-islamic-education",
+      "name": "Bachelor of Education (Islamic Education) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-music",
+      "name": "Bachelor of Education (Music) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-information-technology",
+      "name": "Bachelor of Education (Information Technology) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-moral-education",
+      "name": "Bachelor of Education (Moral Education) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-home-economics",
+      "name": "Bachelor of Education (Home Economics)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-tesl",
+      "name": "Bachelor of Education (Teaching English As a Second Language) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-sports-science",
+      "name": "Bachelor of Education (Sports Science) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-malay-language",
+      "name": "Bachelor of Education (Malay Language) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-design-advertising",
+      "name": "Bachelor of Design (Advertising) (Hons)",
+      "field": "Design"
+    },
+    {
+      "slug": "bachelor-of-education-guidance-counseling",
+      "name": "Bachelor of Education (Guidance & Counseling) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-design-animation",
+      "name": "Bachelor of Design (Animation) (Hons)",
+      "field": "Design"
+    },
+    {
+      "slug": "bachelor-of-education-chemistry",
+      "name": "Bachelor of Education (Chemistry) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-coaching-science",
+      "name": "Bachelor of Education (Coaching Science) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-chinese-language-education",
+      "name": "Bachelor of Chinese Language with Education",
+      "field": "Languages"
+    },
+    {
+      "slug": "bachelor-of-accounting",
+      "name": "Bachelor of Accounting (Hons)",
+      "field": "Accounting & Finance"
+    },
+    {
+      "slug": "bachelor-of-sports-science-coaching",
+      "name": "Bachelor of Sports Science (Science of Coaching) (Hons)",
+      "field": "Sports Science"
+    },
+    {
+      "slug": "bachelor-of-psychology",
+      "name": "Bachelor of Psychology (Hons)",
+      "field": "Social Sciences"
+    },
+    {
+      "slug": "bachelor-of-performing-arts-dance",
+      "name": "Bachelor of Performing Arts (Dance) (Hons)",
+      "field": "Performing Arts"
+    },
+    {
+      "slug": "bachelor-of-performing-arts-theatre",
+      "name": "Bachelor of Performing Arts (Theatre) (Hons)",
+      "field": "Performing Arts"
+    },
+    {
+      "slug": "bachelor-of-education-design",
+      "name": "Bachelor of Education (Design) Hons",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-communication-content-development",
+      "name": "Bachelor of Communication (Content Development) with Honours",
+      "field": "Communication"
+    },
+    {
+      "slug": "bachelor-of-education-tahfiz-al-quran",
+      "name": "Bachelor of Education Tahfiz Al-Quran and Qira'at (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-malaysian-studies-education",
+      "name": "Bachelor of Malaysian Studies with Education",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-software-engineering-education",
+      "name": "Bachelor of Software Engineering (Software Education) (Hons)",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-education-special-education",
+      "name": "Bachelor of Education (Special Education) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-history",
+      "name": "Bachelor of Education (History) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-geography",
+      "name": "Bachelor of Education (Geography) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-science",
+      "name": "Bachelor of Education (Science) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-agriculture-science",
+      "name": "Bachelor of Education (Agriculture Science) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-mathematics",
+      "name": "Bachelor of Education (Mathematics) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-sports-science-coaching-science",
+      "name": "Bachelor of Sports Science (Science of Coaching) (Hons)",
+      "field": "Sports Science"
+    },
+    {
+      "slug": "bachelor-of-education-physics",
+      "name": "Bachelor of Education (Physics) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-physical-education",
+      "name": "Bachelor of Education (Physical Education) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-early-childhood-education",
+      "name": "Bachelor of Education (Early Childhood Education) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-tamil-language",
+      "name": "Bachelor of Education (Tamil Language) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-sports-science-rehabilitation",
+      "name": "Bachelor of Sports Science (Sports Rehabilitation) (Hons)",
+      "field": "Sports Science"
+    },
+    {
+      "slug": "bachelor-of-arabic-language-education",
+      "name": "Bachelor of Arabic Language with Education",
+      "field": "Languages"
+    },
+    {
+      "slug": "bachelor-of-business-administration-financial-services",
+      "name": "Bachelor of Business Administration (Financial Services) (Hons)",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-economics-islamic-finance",
+      "name": "Bachelor of Economics (Islamic Finance) (Hons)",
+      "field": "Economics"
+    },
+    {
+      "slug": "bachelor-of-economics-finance",
+      "name": "Bachelor of Economics (Finance) (Hons)",
+      "field": "Economics"
+    },
+    {
+      "slug": "bachelor-of-business-administration-hrm",
+      "name": "Bachelor of Business Administration (Human Resource Management) (Hons)",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-education-malay-literature",
+      "name": "Bachelor of Education (Malay Literature) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-multimedia",
+      "name": "Bachelor of Education (Multimedia) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-arts",
+      "name": "Bachelor of Education (Arts) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-biology",
+      "name": "Bachelor of Education (Biology) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-computer-science-iot",
+      "name": "Bachelor of Computer Science (Internet of Things Technology) with Honours",
+      "field": "Computing & IT"
+    },
+    {
+      "slug": "bachelor-of-accounting-hons",
+      "name": "Bachelor of Accounting (Hons)",
+      "field": "Accounting & Finance"
+    },
+    {
+      "slug": "bachelor-of-communication-social-communication",
+      "name": "Bachelor of Communication (Social Communication) (Hons)",
+      "field": "Communication"
+    },
+    {
+      "slug": "bachelor-of-design-digital-games",
+      "name": "Bachelor of Design (Digital Games) (Hons)",
+      "field": "Design"
+    },
+    {
+      "slug": "bachelor-of-science-mathematics-education",
+      "name": "Bachelor of Science (Mathematics) with Education",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-education-technology-design",
+      "name": "Bachelor of Education (Technology and Design) (Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-ethnic-language",
+      "name": "Bachelor of Education (Ethnic Language) with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-invention",
+      "name": "Bachelor of Education (Invention) with Honours",
+      "field": "Education"
+    }
   ],
   "sources": [
     "https://www.studymalaysia.com/edu/upsi/courses/",
     "https://www.upsi.edu.my/faculty/"
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

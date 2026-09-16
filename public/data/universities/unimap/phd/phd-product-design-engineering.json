@@ -15,15 +15,25 @@
     "local": "19650/Course",
     "international": "34920/Course",
     "currency": "MYR",
-    "local_total": 19650,
+    "local_total": 98250,
     "international_total": 34920,
     "per_year_local": 19650,
     "per_year_international": 34920,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "entry_requirements": null,
-    "minimum_cgpa": null
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": {
     "mqa": true,
@@ -34,5 +44,9 @@
     "https://www.studymalaysia.com/edu/unimap/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Ph.D.(Product Design Engineering)",
+  "program_name_zh": "Ph.D.(Product Design Engineering)",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

@@ -9,14 +9,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/master-coursework/master-of-architecture.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -28,14 +35,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/master-coursework/master-of-science-in-virtual-design-and-construction.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -47,14 +61,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/master-research/master-of-science.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -66,14 +87,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-coursework/master-of-business-administration.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -85,14 +113,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-coursework/master-of-management.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -104,14 +139,21 @@
     "duration": null,
     "mode": "Online",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-online/master-of-business-administration-online.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -123,14 +165,21 @@
     "duration": null,
     "mode": "Online",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-online/master-of-management-online.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -142,14 +191,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/master-coursework/master-of-food-studies-and-gastronomy.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -161,14 +217,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/master-research/master-of-food-studies.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -180,14 +243,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/master-coursework/master-of-communication.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -199,14 +269,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/master-coursework/master-in-applied-computing.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -218,14 +295,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/master-research/master-of-computer-science.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -237,14 +321,21 @@
     "duration": null,
     "mode": "Online",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/master-online/master-in-applied-computing-online.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -256,14 +347,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/design/master-research/master-of-design.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -275,14 +373,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-coursework/master-of-teaching-and-learning.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -294,14 +399,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-research/master-of-education.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -313,14 +425,21 @@
     "duration": null,
     "mode": "Online",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-online/postgraduate-certificate-in-education-online.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -332,14 +451,21 @@
     "duration": null,
     "mode": "Online",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-online/master-of-teaching-and-learning-online.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -351,14 +477,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/master-research/master-of-science-in-engineering.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -370,14 +503,21 @@
     "duration": null,
     "mode": "Online",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/master-online/master-of-global-hospitality-management.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -389,14 +529,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/master-coursework/master-of-international-hospitality-management.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -408,14 +555,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/master-research/master-of-science-in-tourism.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -427,14 +581,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 120000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/master-coursework/master-of-laws-in-healthcare-and-medical-law.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -446,14 +607,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/master-coursework/master-of-laws.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -465,14 +633,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/master-coursework/master-of-counselling.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -484,14 +659,21 @@
     "duration": "2 years",
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 22500,
+      "per_year_international": null,
+      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 2.0yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/master-coursework/master-of-clinical-psychology.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -503,14 +685,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 120000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/master-research/master-of-philosophy-in-pharmaceutical-science.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -522,14 +711,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 120000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/master-research/master-of-philosophy-in-pharmacy.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -541,13 +737,20 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 120000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/medicine/master-research/master-of-science-in-medical-science.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

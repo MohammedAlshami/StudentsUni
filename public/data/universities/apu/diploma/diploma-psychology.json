@@ -7,17 +7,42 @@
   "field": "Psychology",
   "duration": "2 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM47,600.00",
-    "international": "RM54,200.00"
+    "international": "RM54,200.00",
+    "local_total": 47600,
+    "international_total": 54200.0,
+    "currency": "MYR",
+    "per_year_local": 23800
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/diploma-in-psychology",
     "https://www.studymalaysia.com/what/course/APU/0058858/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Psychology",
+  "program_name_zh": "Psychology文凭",
+  "field_ar": "علم النفس",
+  "field_zh": "心理学"
 }

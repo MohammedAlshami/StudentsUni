@@ -4,7 +4,11 @@ import path from "path";
 export type ProgramSummary = {
   slug: string;
   name: string;
+  name_ar?: string;
+  name_zh?: string;
   field: string;
+  field_ar?: string;
+  field_zh?: string;
   duration: string | null;
   localFee: number | null;
   internationalFee: number | null;
@@ -22,7 +26,11 @@ export type NormalizedProgramDetail = {
   university_slug: string;
   level: string;
   program_name: string;
+  program_name_ar?: string;
+  program_name_zh?: string;
   field: string;
+  field_ar?: string;
+  field_zh?: string;
   duration: string | null;
   mode: string | null;
   intakes: string[];
@@ -169,7 +177,11 @@ export function loadProgramDetail(
       university_slug: uniSlug,
       level,
       program_name: (fileDetail.program_name as string) || fallbackName,
+      program_name_ar: (fileDetail.program_name_ar as string) || undefined,
+      program_name_zh: (fileDetail.program_name_zh as string) || undefined,
       field: (fileDetail.field as string) || entryField(raw),
+      field_ar: (fileDetail.field_ar as string) || undefined,
+      field_zh: (fileDetail.field_zh as string) || undefined,
       duration: (fileDetail.duration as string) ?? null,
       mode: (fileDetail.mode as string) ?? null,
       intakes: Array.isArray(fileDetail.intakes) ? (fileDetail.intakes as string[]) : [],
@@ -283,7 +295,11 @@ export function getProgramsByLevel(universityName: string, slug: string, levels:
       return {
         slug: entrySlug(raw) || slugify(detail.program_name),
         name: detail.program_name,
+        name_ar: detail.program_name_ar,
+        name_zh: detail.program_name_zh,
         field: detail.field,
+        field_ar: detail.field_ar,
+        field_zh: detail.field_zh,
         duration: detail.duration,
         localFee: detail.fees.local_total,
         internationalFee: detail.fees.international_total,

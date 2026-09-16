@@ -16,28 +16,24 @@
     "local": "MYR 121,730",
     "international": "USD 40,049",
     "currency": "MYR",
-    "local_total": 38565,
+    "local_total": 283500,
     "international_total": 45246,
     "per_year_local": 94500,
     "per_year_international": 31848,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "spm": "5 credits including Additional Mathematics",
-    "pre_u pathways": {
-      "ausmat_sacei": "ATAR 55",
-      "a_level": "Minimum DD",
-      "cpu": "Average 50% in 6 subjects",
-      "stpm": "Grade C in Mathematics and one Science/ICT subject",
-      "uec": "5Bs including Mathematics",
-      "foundation": "CGPA 2.00",
-      "diploma_it": "CGPA 2.50",
-      "ib": "Minimum 24 points in 6 subjects",
-      "mufy": "Overall 50%"
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
-    "english_requirements": {
-      "local": "Pass English / Taylor's EET 5.0",
-      "international": "IELTS 5.5"
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     }
   },
   "accreditation": "KPT/JPS (R2/0613/6/0149) (MQA/FA2541) 03/28",
@@ -82,5 +78,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Computer Science (Honours)",
+  "program_name_zh": "Computer Science (Honours)学士",
+  "field_ar": "علوم الحاسوب",
+  "field_zh": "计算机科学"
 }

@@ -6,17 +6,42 @@
   "field": "Pharmacy",
   "duration": "3-4 Years",
   "mode": "Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
-    "local": "RM27,000/Yr",
-    "international": "RM33,000/Yr"
+    "currency": "MYR",
+    "local_total": 240000,
+    "international_total": null,
+    "per_year_local": 60000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 4.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/reading/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "phd-in-pharmacy"
+  "last_updated": "2026-09-16",
+  "slug": "phd-in-pharmacy",
+  "program_name_ar": "دكتوراه فلسفة",
+  "program_name_zh": "哲学博士",
+  "field_ar": "الصيدلة",
+  "field_zh": "药学"
 }

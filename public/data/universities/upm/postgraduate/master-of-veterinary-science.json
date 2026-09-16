@@ -4,12 +4,15 @@
   "level": "postgraduate",
   "program_name": "Doctor of Veterinary Science (M.V.Sc.)",
   "field": "Research",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 850,
+    "local_total": 5100,
     "international_total": 9176,
     "per_year_local": 1700,
     "per_year_international": 18352,
@@ -20,13 +23,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -38,5 +41,9 @@
     "https://www.studymalaysia.com/edu/upm/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه Veterinary Science (M.V.Sc.)",
+  "program_name_zh": "Veterinary Science (M.V.Sc.)博士",
+  "field_ar": "Research",
+  "field_zh": "Research"
 }

@@ -6,17 +6,40 @@
   "field": "Computing",
   "duration": "1 Year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM10,000",
-    "international": "RM15,000"
+    "international": "RM15,000",
+    "local_total": 10000,
+    "per_year_local": 10000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/unimy/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "foundation-in-computing-and-engineering"
+  "last_updated": "2026-09-16",
+  "slug": "foundation-in-computing-and-engineering",
+  "program_name_ar": "تأسيس Computing and Engineering",
+  "program_name_zh": "Computing and Engineering预科",
+  "field_ar": "Computing",
+  "field_zh": "Computing"
 }

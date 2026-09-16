@@ -7,18 +7,34 @@
   "program_slug": "bsc-data-analytics",
   "field": "Data Science",
   "faculty": "Faculty of Computer Science and Mathematics",
-  "duration": null,
+  "duration": "3 years",
   "mode": "full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 7200,
+    "local_total": 5400,
     "international_total": 21600,
     "per_year_local": 1800,
     "per_year_international": 5400,
     "notes": "Standard public university fees (MQA regulated)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) including Mathematics",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "MQA/FA6461003",
   "sources": [
     "https://umt.my/all-programs-at-umt/",
@@ -26,5 +42,9 @@
     "https://www.studymalaysia.com/edu/umt/courses/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Data Analytics) with Honours",
+  "program_name_zh": "Science (Data Analytics) with Honours学士",
+  "field_ar": "علوم البيانات",
+  "field_zh": "数据科学"
 }

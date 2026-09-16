@@ -1,1 +1,46 @@
-{"university":"Islamic University of Malaysia","university_slug":"uim","level":"doctorate","program_name":"Doctor of Philosophy in Quranic and Sunnah Studies","field":"Islamic Sciences","duration":"3-5 years","mode":"Full-time, Part-time","intakes":["September","February"],"fees":null,"requirements":null,"accreditation":"MQA","sources":["https://www.uim.edu.my","https://en.wikipedia.org/wiki/Islamic_University_of_Malaysia"],"confidence":"low","last_updated":"2026-09-14"}
+{
+  "university": "Islamic University of Malaysia",
+  "university_slug": "uim",
+  "level": "doctorate",
+  "program_name": "Doctor of Philosophy in Quranic and Sunnah Studies",
+  "field": "Islamic Sciences",
+  "duration": "3-5 years",
+  "mode": "Full-time, Part-time",
+  "intakes": [
+    "September",
+    "February"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 75000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 5.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
+  "accreditation": "MQA",
+  "sources": [
+    "https://www.uim.edu.my",
+    "https://en.wikipedia.org/wiki/Islamic_University_of_Malaysia"
+  ],
+  "confidence": "low",
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Quranic and Sunnah Studies",
+  "program_name_zh": "哲学博士 in Quranic and Sunnah Studies",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
+}

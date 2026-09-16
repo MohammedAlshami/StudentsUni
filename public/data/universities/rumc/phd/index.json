@@ -9,13 +9,20 @@
     "duration": "3-4 years",
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 60000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 4.0yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://www.rumc.edu.my/programmes/structured-ph-d/"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

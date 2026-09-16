@@ -14,22 +14,24 @@
   "fees": {
     "local": "RM50,180",
     "international": "RM59,660",
-    "local_total": 13400,
+    "local_total": 13398,
     "currency": "MYR",
-    "international_total": 15967
+    "international_total": 15967,
+    "per_year_local": 4466,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "Any of These: STPM or equivalent: Grade C (GPA 2.00) in any two (2) subjects, AND passes in Mathematics and English at SPM level or equivalent. STAM: Grade of Jayyid, AND passes in Mathematics and English at SPM level or equivalent. UEC: Grade B in five (5) subjects and passes in Mathematics and English. Matriculation/Foundation: CGPA 2.00 out of 4.00. Other qualifications equivalent to a Diploma or Advanced Diploma: CGPA 2.00 out of 4.00. Diploma Kemahiran Malaysia (DKM) / Diploma Lanjutan Kemahiran Malaysia (DLKM)/ Diploma Vokasional Malaysia (DVM): CGPA 2.50 out of 4.00 AND subjected to Bridging programme. A-LEVEL: Pass with Grade D in two subjects, AND passes in Mathematics and English at SPM level or equivalent. Australian Matriculation: ATAR 55. International Baccalaureate Diploma Programme (IB): 24 points across six subjects. Other qualifications recognised as equivalent.   Note: The credit requirement at the SPM level can be waived should the grades obtained at the STPM/STAM level are equivalent/higher. Students enrolling on a Dual Award programme will be subject to the English requirements of UWTSD/UK. English language competency requirements for international students: International students are required to achieve a minimum score of 5.5 in IELTS OR Band 3 in MUET OR 550 in TOEFL OR its equivalent. English language requirements can be waived if the international student EITHER comes from a country that uses English as the official language OR the entry qualification uses English as the medium of instruction."
   },
@@ -53,6 +55,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-business-administration-hons-in-international-business"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-business-administration-hons-in-international-business",
+  "program_name_ar": "بكالوريوس Business Administration (Hons) in International Business",
+  "program_name_zh": "Business Administration (Hons) in International Business学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

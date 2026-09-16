@@ -7,10 +7,18 @@
   "slug": "certificate-in-information-technology-it",
   "duration": "1.5 years",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Oct"
+  ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University"
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 44000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
   },
   "requirements": null,
   "accreditation": null,
@@ -18,5 +26,9 @@
     "https://studymalaysia.com/what/course/CUCMS/0058811/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "شهادة Information Technology (IT)",
+  "program_name_zh": "Information Technology (IT)证书",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

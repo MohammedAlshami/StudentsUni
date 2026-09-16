@@ -9,14 +9,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 16000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0224/3/0003 (21/5/2029) (A9809)",
     "sources": [
       "https://unishams.edu.my/component/content/article/foundation-in-islamic-studies?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -28,14 +35,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 16000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0410/3/0032 (1/1/2029) (A9723)",
     "sources": [
       "https://unishams.edu.my/component/content/article/foundation-in-management?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -47,13 +61,20 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 16000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0011/3/0124 (23/3/2029) (MQA/FA1687)",
     "sources": [
       "https://unishams.edu.my/component/content/article/foundation-in-science?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

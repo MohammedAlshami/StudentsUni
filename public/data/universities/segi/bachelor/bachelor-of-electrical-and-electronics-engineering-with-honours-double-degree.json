@@ -7,18 +7,41 @@
   "field": "Engineering & Engineering Trades",
   "duration": "4 – 4.5 Yrs",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
-    "local": "Refer to the Univ.",
-    "international": "Refer to the Univ."
+    "currency": "MYR",
+    "local_total": 99000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme"
   },
   "requirements": {
-    "academic": null
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SEGI/0054499/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Electrical and Electronics Engineering with Honours (Double Degree)",
+  "program_name_zh": "Electrical and Electronics Engineering with Honours (Double Degree)学士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

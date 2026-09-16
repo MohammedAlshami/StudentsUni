@@ -16,11 +16,13 @@
     "international": "RM18,350",
     "local_total": 11727,
     "currency": "MYR",
-    "international_total": 16361
+    "international_total": 16361,
+    "per_year_local": 11727,
+    "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -28,8 +30,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Any of These: SPM/SPMV: Credit in any five (5) subjects O Level: Grade C in any five (5) subjects UEC: Grade B in three (3) subjects IB-Middle Year Programme: 28 total points across the certificate’s 7 components Other qualifications recognised as equivalent"
   },
@@ -53,6 +55,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "foundation-in-arts"
+  "last_updated": "2026-09-16",
+  "slug": "foundation-in-arts",
+  "program_name_ar": "تأسيس Arts",
+  "program_name_zh": "Arts预科",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

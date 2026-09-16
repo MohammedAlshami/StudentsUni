@@ -7,16 +7,33 @@
   "field": "Pre-University Programme / University Foundation Studies",
   "duration": "1 Year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 9000,
     "international_total": 12000,
-    "per_year_local": "RM9,000-RM12,000",
+    "per_year_local": 9000,
     "per_year_international": "RM12,000-RM18,000",
     "notes": ""
   },
-  "requirements": "SPM/O-Level or equivalent \u2013 min. 5 credits",
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA/FA0193",
   "campus": "SEGi University Kota Damansara",
   "faculty": "Centre for Foundation Studies (CFS)",
@@ -26,5 +43,9 @@
     "https://eduswasta.my/university/segi-university/"
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Arts",
+  "program_name_zh": "Arts预科",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

@@ -16,7 +16,8 @@
     "currency": "MYR",
     "local_total": 8340,
     "international_total": 13200,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.5yr duration)",
+    "per_year_local": 3336
   },
   "requirements": null,
   "accreditation": null,
@@ -33,5 +34,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Management",
+  "program_name_zh": "Management硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

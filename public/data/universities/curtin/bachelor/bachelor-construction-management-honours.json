@@ -15,22 +15,22 @@
     "currency": "MYR",
     "local_total": 110688,
     "international_total": 166912,
-    "per_year_local": "RM27,672 per annum",
+    "per_year_local": 27672,
     "per_year_international": "RM41,728 per annum",
     "notes": null
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -42,5 +42,9 @@
     "https://www.studymalaysia.com/edu/curtin/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Applied Science (Construction Management) (Honours)",
+  "program_name_zh": "Applied Science (Construction Management) (Honours)学士",
+  "field_ar": "Built Environment",
+  "field_zh": "Built Environment"
 }

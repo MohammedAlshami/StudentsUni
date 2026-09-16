@@ -18,20 +18,21 @@
     "currency": "MYR",
     "local_total": 13560,
     "international_total": 16680,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.5yr duration)",
+    "per_year_local": 5424
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Any one of these: SPM or equivalent with PASS in Bahasa Melayu and English and 5 credits in the following subjects: Mathematics ONE science subject (Biology/Physics/Chemistry/General Science/Applied Science); and Any other THREE subjects (including Bahasa Malaysia and/or English if credits) *Having SPM referring to pass SPM with at least pass in Bahasa Melayu and History* Pass GCE O-Level or equivalent with PASS in Bahasa Melayu or English and 5 Grade C in the following subjects: Mathematics ONE science subject (Biology/Physics/Chemistry/General Science/Applied Science); and Any other THREE subjects (including Bahasa Melayu and/or English if obtained Grade C) Certificate (Level 3 MQF) in the field of Health Science with minimum CGPA of 2.75 Other recognized qualification of equivalence English Proficiency for International students: IELTS (4.0) TOEFL IBT (30-31) TOEFL PBT (397) CAM ENG ADV–CAE (160) CAM ENG PROF–CPE (180) Pearson Test English–PTE (30) MUET (Band 2)"
   },
@@ -54,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Physiotherapy",
+  "program_name_zh": "Physiotherapy文凭",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

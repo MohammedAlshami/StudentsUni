@@ -2,11 +2,27 @@
   {
     "slug": "master-of-research-in-biomedical-sciences",
     "name": "Master of Research in Biomedical Sciences",
-    "field": "Science"
+    "field": "Science",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-in-translational-medicine",
     "name": "Master of Science in Translational Medicine",
-    "field": "Medicine and Health"
+    "field": "Medicine and Health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   }
 ]

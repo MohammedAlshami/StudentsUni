@@ -63,5 +63,13 @@
   "sources": [
     "https://www.studymalaysia.com/edu/utem/courses/"
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 3500,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 2.5yr duration)"
+  }
 }

@@ -12,24 +12,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 100600,
+    "local_total": 475000,
     "international_total": 139920,
-    "per_year_local": 95000.0,
+    "per_year_local": 95000,
     "per_year_international": 105000.0,
     "notes": "RM95,000/Yr local, RM105,000/Yr international, for each of the five years of the programme"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -59,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Medicine and Bachelor of Surgery (MBBS)",
+  "program_name_zh": "Medicine and Bachelor of Surgery (MBBS)学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

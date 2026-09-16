@@ -7,14 +7,26 @@
   "slug": "accounting-finance",
   "duration": "Flexible Full-time/Part-time Mode",
   "mode": "Refer to University",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
-    "local": "Refer to the University",
-    "international": "https://studymalaysia.com/what/course/qiu/0057388/"
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
   },
   "requirements": null,
   "accreditation": null,
   "sources": [],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Accounting & Finance",
+  "program_name_zh": "Accounting & Finance",
+  "field_ar": "3 years | Full-time; 6 years | Part-time",
+  "field_zh": "3 years | Full-time; 6 years | Part-time"
 }

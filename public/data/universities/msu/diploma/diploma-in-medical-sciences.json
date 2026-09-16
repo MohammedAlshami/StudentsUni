@@ -14,24 +14,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12200,
+    "local_total": 12198,
     "international_total": 21130,
-    "per_year_local": null,
+    "per_year_local": 4066,
     "per_year_international": null,
-    "notes": "Local: RM36,600.00; International: RM80,445.00"
+    "notes": "Local: RM36,600.00; International: RM80,445.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Pass SPM or its equivalent with 3 credits in any subjects including Biology, Chemistry and Mathematics; Health Science Certificate from PTPL with minimum 2.0 CGPA; Certificate in related field from IPTA with minimum CGPA of 2.0; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Medical Sciences",
+  "program_name_zh": "Medical Sciences文凭",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

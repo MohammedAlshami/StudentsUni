@@ -7,29 +7,32 @@
   "field": "",
   "duration": "4 years",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 180000,
     "international_total": 216000,
-    "per_year_local": null,
+    "per_year_local": 45000,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of These: A-Level/STPM: BBC including B in Mathematics and Physics. UEC: 15 points or less including A2 in Mathematics and Physics (5 subjects not less than B grade). WACE (Australian): ATAR 75 including 65% in Mathematics Method/Specialist and Physics. SACE (Australian): ATAR 75 including 15.0 in Mathematics Method/Specialist and Physics. Canada Year 12 High School Diploma: 75% including 70% in Mathematics and Physics. International Baccalaureate Diploma: 26 points including 5 in SL Physics and Mathematics AA (or 5 in HL Mathematics AI). Matriculation/Foundation: CGPA 3.0 including B in Mathematics and Physics. Diploma: A diploma in a related field – Engineering with a CGPA 3.0 including a B in Mathematics and Physics. Heriot-Watt University Malaysia Foundation in Science: Grade C average including C in Mathematics, Physics, and English. SMA 3 (Indonesia): 8.0 including 8.0 in Mathematics and Physics. Year 12 State Board High School Examination (India): 75% including 75% in Mathematics and Physics. Senior High School Graduation Certificate (China): 80% including 80% in Mathematics and Physics. Important Notes: Applications from individuals with a wide range of qualifications are encouraged. Eligibility is best determined by submitting a complete application with academic documents. Entry requirements are subject to change, and individual offers may vary. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 6.0 (or equivalent) with no score lower than 5.5. English Language Courses: Offered for those who do not meet the IELTS 6.0 requirement."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -43,5 +46,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "MEng Electrical and Electronic Engineering",
+  "program_name_zh": "MEng Electrical and Electronic Engineering"
 }

@@ -16,22 +16,22 @@
     "currency": "MYR",
     "local_total": 19347,
     "international_total": 24884,
-    "per_year_local": null,
+    "per_year_local": 6449,
     "per_year_international": null,
-    "notes": "Local: 54000/Course; International: 54000/Course"
+    "notes": "Local: 54000/Course; International: 54000/Course (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "STPM Pass with a minimum Grade C (GPA 2.0) in any two (2) subjects and a pass in Mathematics and English at SPM level or its equivalent. A-Level Pass with a minimum Grade D in any two (2) subjects and a pass in Mathematics at SPM level or its equivalent. UEC Pass with a minimum Grade B in five (5) subjects and a pass in Mathematics and English. STAM Pass with a minimum Grade Jayyid and a pass in Mathematics and English at SPM level or its equivalent. Foundation / Matriculation Pass with a minimum CGPA of 2.00. Diploma / Advanced Diploma (Level 4/5, MQF) or Equivalent Pass with a minimum CGPA of 2.00. Additional Notes A pass in Mathematics at the SPM level can be waived if the qualification contains an equivalent or higher achievement. Candidates without a pass in Mathematics or English at the SPM level (or equivalent) are required to attend special enhancement courses. English Language Requirements (for International Students) MUET: Minimum 4.0 IELTS: Minimum 5.5 TOEFL: Ess Online: Minimum 8 iBT: Minimum 46 Pearson: Minimum 51 Linguaskill: Minimum 160 OET: Minimum 200 ELS: Minimum 108 Exemptions International students with qualifications from educational systems where English is the primary medium of instruction are exempt from this requirement. Malaysian students&#39; pass in English can be waived if previous studies were conducted in English or if they have at least Band 2 in Linguaskill. Alternative Option International students who do not fulfill the English Language Requirements may join the Intensive English Programme at Nilai University, which prepares them for the Linguaskill examination"
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business Administration (Hons) in Management",
+  "program_name_zh": "Business Administration (Hons) in Management学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

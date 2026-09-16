@@ -7,25 +7,31 @@
   "field": "Design & Creative Media",
   "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM104,600.00",
     "international": "RM108,500.00",
-    "local_total": 102200,
-    "international_total": 104600
+    "local_total": 102198,
+    "international_total": 104600,
+    "per_year_local": 34066,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Any relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90"
     },
     "general_text": "Direct Entry to Level 1 of the Degree STPM A Pass in STPM with a minimum Grade C (GP 2.00) in any 2 subjects. A-Level 2 Passes (Grade A-D) in A-Level. UEC 5 Grade B’s in UEC. Matriculation/Foundation A Pass in Matriculation or Foundation studies with a minimum CGPA of 2.00. Note: Pass an Interview OR submission of Design Portfolio as required. Direct Entry to Level 2 of the Degree Related Diploma A Diploma (Level 4, MQF) with a minimum CGPA of 2.00, or its equivalent. A pass in DKM / DLKM / DVM with a minimum CGPA of 2.50 subjected to HEP Senate/Academic Board’s approval. Additional Notes Equivalent qualification and/or experience which is recognised by the Senate/institution. The above entry requirements may differ for specific programmes based on the latest programme standards published by the Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the &#34;Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent)&#34; published by the Malaysian Qualifications Agency (MQA). ENGLISH REQUIREMENTS International Students IELTS: 5.5 TOEFL IBT: 46 Pearson (PTE): 51 MUET: Band 4"
   },
@@ -40,5 +46,9 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Arts (Honours) in Visual Effects",
+  "program_name_zh": "Arts (Honours) in Visual Effects学士",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
 }

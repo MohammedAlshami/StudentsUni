@@ -23,7 +23,7 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics and Science",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -31,10 +31,9 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of these: Sijil Pelajaran Malaysia (SPM): Requires a minimum Grade B in five specific subjects: Biology, Chemistry, Physics, Mathematics (or Additional Mathematics), and any other subject. International General Certificate of Secondary Education (IGCSE) – O Levels: Requires the same minimum Grade B in the same five subjects as the SPM. Unified Examination Certificate (UEC): Requires a minimum grade of B4 in three specific subjects: Biology, Chemistry, and either Physics, Mathematics, or Advanced Mathematics. Other qualifications deemed equivalent by the Government of Malaysia."
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -61,5 +60,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Science (Medical/Pharmacy)",
+  "program_name_zh": "Science (Medical/Pharmacy)预科",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

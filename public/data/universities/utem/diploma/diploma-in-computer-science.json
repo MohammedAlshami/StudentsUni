@@ -7,7 +7,10 @@
   "field": "Computing & IT",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "local": null,
     "international": null,
@@ -18,11 +21,28 @@
     "per_year_international": 3900,
     "notes": "Standard public university fees (MQA regulated)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UTEM/0058287/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Computer Science",
+  "program_name_zh": "Computer Science文凭",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

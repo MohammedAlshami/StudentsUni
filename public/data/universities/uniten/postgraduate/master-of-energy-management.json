@@ -25,11 +25,22 @@
     },
     "currency": "MYR",
     "local_total": 47600,
-    "per_year_local": null
+    "per_year_local": 11900,
+    "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
-    "local": "Bachelor's degree with minimum CGPA 2.50 or equivalent",
-    "international": "Bachelor's degree with minimum CGPA 2.50 or equivalent, English proficiency"
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_code": null,
@@ -46,5 +57,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Energy Management",
+  "program_name_zh": "Energy Management硕士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

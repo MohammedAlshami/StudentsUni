@@ -6,23 +6,44 @@
   "field": "Music Performance",
   "duration": "2.5 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 56,080",
     "international": "RM 72,280",
     "currency": "MYR",
-    "local_total": 56080,
+    "local_total": 140200,
     "international_total": 72280,
     "per_year_local": 56080,
     "per_year_international": 72280,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057286/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Music Performance",
+  "program_name_zh": "Music Performance文凭",
+  "field_ar": "الموسيقى",
+  "field_zh": "音乐学"
 }

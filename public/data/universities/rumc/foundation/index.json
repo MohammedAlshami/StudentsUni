@@ -14,7 +14,9 @@
     ],
     "fees": {
       "local": "RM 30,000",
-      "international": "RM 35,000"
+      "international": "RM 35,000",
+      "local_total": 30000,
+      "per_year_local": 30000
     },
     "requirements": null,
     "accreditation": "R/010/3/0491 (12/27) (MQA/FA9105)",
@@ -22,7 +24,7 @@
       "https://www.rumc.edu.my/programmes/foundation-in-science/"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Royal College of Surgeons in Ireland & UCD Malaysia Campus",
@@ -38,7 +40,9 @@
     ],
     "fees": {
       "local": "RM 40,000",
-      "international": "RM 45,000"
+      "international": "RM 45,000",
+      "local_total": 39999,
+      "per_year_local": 53333
     },
     "requirements": null,
     "accreditation": "R3/010/3/0099 (12/27) (MQA/A7144)",
@@ -46,6 +50,6 @@
       "https://www.rumc.edu.my/programmes/pre-medical-foundation-year/"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

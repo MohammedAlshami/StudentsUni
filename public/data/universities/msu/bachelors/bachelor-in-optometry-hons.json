@@ -7,29 +7,32 @@
   "field": "Medicine & Healthcare",
   "duration": "4 years",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Feb",
+    "Jul",
+    "Sep"
+  ],
   "fees": {
     "currency": "RM",
-    "local_total": 84000,
+    "local_total": 112000,
     "international_total": 99000,
-    "per_year_local": "RM28,000-RM35,000",
+    "per_year_local": 28000,
     "per_year_international": "RM33,000-RM40,000",
     "notes": "Estimated based on typical MSU health science programme fees"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Pass SPM or its equivalent with minimum 3 credits, including 2 credits in the following subjects: Biology Physics Mathematics Chemistry and at least pass in English Languge Pass STPM in Science Stream with 2.50 CGPA; Pass The South Australian Matriculation (SAM) with average score of 14 (60% ATAR/TER) including 3 Science or Mathematic subjects; Pass Canadian Pre University Programme (CPU) with minimum 2.50 CGPA including 3 Science or Mathematic subjects; Pass Indian Pre-University/HSC/SSC with 60% aggregate, including 3 Science or Mathematic subjects; Pass A Level in Science Stream with 2.50 CGPA, including 3 Science or Mathematic subjects; Pass Australian Matriculation (AUSMAT) with average score of 14 (60% ATAR/TER) including 3 Science or Mathematic subjects; Pass Foundation in Science/ cience Biology/ Health Sciences from MSU/IPTA/IPTS with 2.50 CGPA, including 3 Science or Mathematic subjects; Pass Science Stream Matriculation Programme with 2.50 CGPA; Other equivalent qualification recognised by the Malaysian Government."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -58,5 +61,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Optometry (Hons)",
+  "program_name_zh": "Optometry (Hons)学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

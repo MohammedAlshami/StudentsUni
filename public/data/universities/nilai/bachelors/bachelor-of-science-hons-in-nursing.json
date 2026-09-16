@@ -14,24 +14,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 19514,
+    "local_total": 19512,
     "international_total": 22159,
-    "per_year_local": null,
+    "per_year_local": 4878,
     "per_year_international": null,
-    "notes": "Local: 72760/Course; International: 72760/Course"
+    "notes": "Local: 72760/Course; International: 72760/Course (per_year based on 4.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Biology, Chemistry and Physics/Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -61,5 +61,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) in Nursing",
+  "program_name_zh": "Science (Hons) in Nursing学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

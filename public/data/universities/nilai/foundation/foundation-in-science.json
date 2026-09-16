@@ -16,13 +16,13 @@
     "currency": "MYR",
     "local_total": 16780,
     "international_total": 29450,
-    "per_year_local": null,
+    "per_year_local": 16780,
     "per_year_international": null,
-    "notes": "Local: 15000/Course; International: 15000/Course"
+    "notes": "Local: 15000/Course; International: 15000/Course (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics and Science",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -30,8 +30,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Science Degrees (Degrees other than Medical/ Dental/ Pharmacy) SPM / O-Level or equivalent Minimum 5 credits including Mathematics and 2 Science subjects and a pass in Bahasa Melayu and English. UEC Minimum 4Bs including Mathematics and 2 Science subjects. Medical/ Dental/ Pharmacy Degrees SPM / O-Level or equivalent Minimum 5 credits including Grade B and above for Mathematics, Additional Mathematics,Physics, Chemistry and Biology or a Technical subject and pass in Bahasa Melayu and English. UEC Minimum 5Bs including Mathematics, Additional Mathematics, Physics, Chemistry and Biology or a Technical subject and pass in Bahasa Melayu and English. English language Requirements (For International Students) MUET minimum 3.0 IELTS minimum 4.0 TOEFL minimum 5 (ESS OL)/ 30-31 (iBT) Pearson minimum 36 Linguaskill OL minimum 140 ELS minimum 106  "
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Science",
+  "program_name_zh": "Science预科",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

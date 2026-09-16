@@ -7,25 +7,31 @@
   "field": "Accounting & Finance",
   "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM100,400.00",
     "international": "RM108,500.00",
-    "local_total": 99800,
-    "international_total": 104600
+    "local_total": 99798,
+    "international_total": 104600,
+    "per_year_local": 33266,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "Direct Entry to Level 1 of the Degree STPM 2 Passes in STPM with a minimum Grade C+ (GP 2.33) and a Credit in Mathematics at SPM Level or its equivalent. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. A-Level 2 Passes (Grade A-D) in A-Level in any 2 subjects, and a Credit in Mathematics at SPM/O-Level/IGCSE or its equivalent. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. UEC 5 Grade B’s in UEC including Mathematics. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. Matriculation/Foundation Passed Foundation programme (minimum CGPA of 2.5) with a Credit in Mathematics at SPM/O-Level/IGCSE or equivalent. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. Entry to Level 2 of the Accounting, Banking or Finance Degree Diploma in Accounting Passed Diploma with minimum CGPA of 2.5 and a Credit in Mathematics at SPM/O-Level/IGCSE level. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the &#34;Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent)&#34; published by Malaysian Qualifications Agency (MQA). English Requirements International Students IELTS: 5.0 TOEFL IBT: 40 Pearson (PTE): 47 MUET: Band 3.5"
   },
@@ -40,5 +46,9 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accounting and Finance (Honours) with a specialism in Forex and Investments",
+  "program_name_zh": "Accounting and Finance (Honours) with a specialism in Forex and Investments学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

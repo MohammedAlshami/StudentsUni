@@ -7,16 +7,41 @@
   "slug": "doctor-of-philosophy-in-computing",
   "duration": "3-6 years | Full time; 4-8 years | Part time",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
-    "local": null,
-    "international": null
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 11000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 6.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/QIU/0059073/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Computing",
+  "program_name_zh": "哲学博士 in Computing",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

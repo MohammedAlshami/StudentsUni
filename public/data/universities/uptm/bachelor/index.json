@@ -2,46 +2,118 @@
   {
     "slug": "bachelor-of-business-administration-honours-in-accounting",
     "name": "Bachelor of Business Administration (Honours) in Accounting",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration-honours-in-finance",
     "name": "Bachelor of Business Administration (Honours) in Finance",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration-honours-in-marketing",
     "name": "Bachelor of Business Administration (Honours) in Marketing",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration-honours-in-human-resource-management",
     "name": "Bachelor of Business Administration (Honours) in Human Resource Management",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-computer-science-honours",
     "name": "Bachelor of Computer Science (Honours)",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-multimedia-honours",
     "name": "Bachelor of Multimedia (Honours)",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-education-honours-in-early-childhood-education",
     "name": "Bachelor of Education (Honours) in Early Childhood Education",
-    "field": "Education"
+    "field": "Education",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-education-honours-in-teaching-english-as-a-second-language",
     "name": "Bachelor of Education (Honours) in Teaching English as a Second Language",
-    "field": "Education"
+    "field": "Education",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-corporate-communication-honours",
     "name": "Bachelor of Corporate Communication (Honours)",
-    "field": "Media"
+    "field": "Media",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

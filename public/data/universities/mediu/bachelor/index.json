@@ -2,86 +2,222 @@
   {
     "slug": "bachelor-of-arabic-language",
     "name": "Bachelor of Arabic Language",
-    "field": "Languages"
+    "field": "Languages",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-islamic-studies",
     "name": "Bachelor of Islamic Studies",
-    "field": "Islamic Sciences"
+    "field": "Islamic Sciences",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-education",
     "name": "Bachelor of Education",
-    "field": "Education"
+    "field": "Education",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-computer-science",
     "name": "Bachelor of Computer Science",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration",
     "name": "Bachelor of Business Administration",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-islamic-science-honours-in-al-hadith",
     "name": "Bachelor of Islamic Science (Honours) in Al-Hadith",
-    "field": "Islamic Sciences"
+    "field": "Islamic Sciences",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-islamic-science-honours-in-dawah-and-usuluddin",
     "name": "Bachelor of Islamic Science (Honours) in Dawah and Usuluddin",
-    "field": "Islamic Sciences"
+    "field": "Islamic Sciences",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-islamic-science-honours-in-fiqh-and-usul-fiqh",
     "name": "Bachelor of Islamic Science (Honours) in Fiqh and Usul Fiqh",
-    "field": "Islamic Sciences"
+    "field": "Islamic Sciences",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-islamic-sciences-honours-in-the-science-of-al-quran",
     "name": "Bachelor of Islamic Sciences (Honours) in the Science of Al-Quran",
-    "field": "Islamic Sciences"
+    "field": "Islamic Sciences",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-language-honours-in-arabic-language-and-literature",
     "name": "Bachelor of Language (Honours) in Arabic Language and Literature",
-    "field": "Languages"
+    "field": "Languages",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-civil-engineering-honours",
     "name": "Bachelor of Civil Engineering (Honours)",
-    "field": "Engineering"
+    "field": "Engineering",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-electrical-and-electronics-engineering-honours",
     "name": "Bachelor of Electrical and Electronics Engineering (Honours)",
-    "field": "Engineering"
+    "field": "Engineering",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-information-technology-in-management-information-systems-honours",
     "name": "Bachelor of Information Technology in Management Information Systems (Honours)",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-information-technology-in-systems-development-and-administration-honours",
     "name": "Bachelor of Information Technology in Systems Development and Administration (Honours)",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-information-technology-honours",
     "name": "Bachelor of Information Technology (Honours)",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration-in-e-commerce-honours",
     "name": "Bachelor of Business Administration in E-Commerce (Honours)",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-administration-honours-in-management",
     "name": "Bachelor of Business Administration (Honours) in Management",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

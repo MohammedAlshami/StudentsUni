@@ -6,7 +6,10 @@
   "field": "Mathematics",
   "duration": "8 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 7200,
@@ -46,5 +49,9 @@
     }
   ],
   "confidence": "partial",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science with Honours (Business Mathematics)",
+  "program_name_zh": "Science with Honours (Business Mathematics)学士",
+  "field_ar": "Mathematics",
+  "field_zh": "Mathematics"
 }

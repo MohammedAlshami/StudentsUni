@@ -15,7 +15,7 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 34785,
+    "local_total": 250200,
     "international_total": 41466,
     "per_year_local": 83400,
     "per_year_international": 28677,
@@ -23,18 +23,17 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Prerequisites: SPM / O-Level with Pre-U / Foundation: Pass SPM / O-Level or equivalent with 5 credits for entry with Pre-University / Foundation qualification (Except for UEC). SPM / O-Level with Diploma: Pass SPM / O-Level or equivalent with 3 credits for entry with Diploma qualification. Entry Pathway Any one of these: Taylor’s Foundation / Diploma programme: Pass any Taylor’s Foundation / Diploma programme with min. CGPA 2.00 Sijil Tinggi Pelajaran Malaysia (STPM): Min. GPA 2.00 in 2 subjects Unified Examination Certification (UEC): Pass with min. 5Bs A Level: Pass with min. Grade C in 2 subjects AUSMAT (SACEi): Min. ATAR 60  Canadian Pre-University (CPU): Average 60% in 6 subjects International Baccalaureate (IB): Min. 26 points in 6 subjects Monash University Foundation Year (MUFY): 50% MOHE Matriculation: Pass with min. CGPA 2.00 Other Equivalent Qualification: Pass Foundation/Pre U/Diploma from other recognised institutions with CGPA 2.00; or Higher School Cert from New South Wales (Yr 12) min 60%; or Application via APEL A is allowed; or Any other equivalent qualification recognised by the Malaysian Government. English Requirements: LOCAL STUDENTS: IELTS, TOEFL, MUET, UEC English: Pass English Taylor&#39;s EET: Overall score 5.0 Taylor&#39;s IEN: Level 2 - Grade C Pre-University/Diploma: Complete Pre-University/Diploma that was conducted in English INTERNATIONAL STUDENTS: IELTS: 5.5 Pre-University/Diploma: Complete Pre-University/Diploma that was conducted in English  "
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -57,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Education (Honours)",
+  "program_name_zh": "Education (Honours)学士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

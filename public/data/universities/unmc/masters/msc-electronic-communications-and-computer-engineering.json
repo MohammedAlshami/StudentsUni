@@ -6,7 +6,9 @@
   "field": "Engineering",
   "duration": "1 Year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM51,570",
     "international": "RM57,180",
@@ -16,7 +18,20 @@
     "per_year_international": 57180,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -27,6 +42,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "msc-electronic-communications-and-computer-engineering"
+  "last_updated": "2026-09-16",
+  "slug": "msc-electronic-communications-and-computer-engineering",
+  "program_name_ar": "M.Sc. (Electronic Communications & Computer Engineering)",
+  "program_name_zh": "M.Sc. (Electronic Communications & Computer Engineering)",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

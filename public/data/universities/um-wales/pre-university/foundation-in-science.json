@@ -16,11 +16,13 @@
     "international": "RM19,800",
     "local_total": 13000,
     "currency": "MYR",
-    "international_total": 17700
+    "international_total": 17700,
+    "per_year_local": 13000,
+    "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics and Science",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -28,8 +30,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Biotechnology / IT / Psychology: SPM/SPMV/O Level: Minimum Credit in five (5) subjects including Mathematics and any science subject. UEC: Minimum grade B in three (3) subjects including Mathematics and any science subject. Built Environment: SPM/SPMV/O Level: Pass with minimum Credit in five (5) subjects including Mathematics, OR Pass O-Level with minimum credit in three (3) subjects including Mathematics. UEC: Minimum grade B4 in three (3) subjects including Mathematics. Computer Science: SPM/SPMV/O Level: Minimum credit in five (5) subjects including Additional Mathematics OR Maths and any one (1) science subject OR Its equivalent. UEC: Minimum grade B in three (3) subjects including Additional Mathematics and any one (1) science subject. Medical and Health Science: SPM/SPMV/O Level: Minimum credit in 5 subjects including any of these 3 subjects: Biology, Physics, Mathematics, Chemistry, English, and Applied Science. UEC: Minimum grade B in any three (3) of the following subjects: Biology, Physics, Mathematics, Chemistry, English, Applied Science. Engineering: SPM/SPMV/O Level: Minimum Credit in five (5) subjects including Mathematics and any two (2) science subjects. UEC: Minimum grade B in three (3) subjects including Mathematics and any two (2) science subjects. Medicine OR Dentistry: SPM/SPMV/O Level: Minimum grade B in Biology, Chemistry, Physics, Mathematics OR Additional Mathematics, and any one (1) subject. Dentistry: Minimum grade B4 in four (4) subjects: Biology, Chemistry, Physics, Mathematics OR Additional Mathematics, and any one (1) subject. UEC: Minimum grade B4 in three (3) subjects: Biology, Chemistry, Physics OR Mathematics OR Additional Mathematics. Pharmacy: SPM/SPMV/O Level: Pass SPM with a minimum grade of B in five subjects below, OR Pass O-level with a minimum grade of C in five (5) subjects: Mathematics OR Additional Mathematics, Physics, Chemistry, Biology, and any one (1) subject. Science e.g. BSc (Hons) Biochemistry: SPM/SPMV/O Level: Minimum credit in five (5) subjects including Mathematics and any two (2) science subjects. UEC: Minimum grade B in subjects: Mathematics and any two (2) science subjects."
   },
@@ -53,6 +55,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "foundation-in-science"
+  "last_updated": "2026-09-16",
+  "slug": "foundation-in-science",
+  "program_name_ar": "تأسيس Science",
+  "program_name_zh": "Science预科",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

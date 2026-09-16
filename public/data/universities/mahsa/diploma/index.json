@@ -2,41 +2,105 @@
   {
     "slug": "diploma-in-nursing",
     "name": "Diploma in Nursing",
-    "field": "Medicine and Health"
+    "field": "Medicine and Health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-pharmacy",
     "name": "Diploma in Pharmacy",
-    "field": "Medicine and Health"
+    "field": "Medicine and Health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-biomedical-science",
     "name": "Diploma in Biomedical Science",
-    "field": "Medicine and Health"
+    "field": "Medicine and Health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-medical-laboratory-technology",
     "name": "Diploma in Medical Laboratory Technology",
-    "field": "Medicine and Health"
+    "field": "Medicine and Health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-physiotherapy",
     "name": "Diploma in Physiotherapy",
-    "field": "Medicine and Health"
+    "field": "Medicine and Health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-environmental-health",
     "name": "Diploma in Environmental Health",
-    "field": "Medicine and Health"
+    "field": "Medicine and Health",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-business-administration",
     "name": "Diploma in Business Administration",
-    "field": "Business"
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "diploma-in-computer-science",
     "name": "Diploma in Computer Science",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

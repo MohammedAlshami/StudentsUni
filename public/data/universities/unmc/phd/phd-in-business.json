@@ -6,7 +6,9 @@
   "field": "Business",
   "duration": "3-4 Years",
   "mode": "Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM35,690/Yr",
     "international": "RM39,940/Yr",
@@ -21,15 +23,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Academic Requirements: A Master’s degree (or international equivalent) with a minimum average of 65% (taught and dissertation components) An upper second-class honours degree (2:1) or international equivalent in a relevant discipline Additional Notes: Applicants must hold a degree from a recognised university. Applications from all academic backgrounds are welcome, provided relevant qualifications are met. Some programmes may require prior study in related fields. Interviews may be conducted if further evaluation is needed. Eligibility will be confirmed only after submission of a complete application. English Language Requirements IELTS (Academic): 7.0 overall, with no less than 6.0 in each element TOEFL iBT: 100 overall Minimum 19 in Writing and Listening Minimum 20 in Reading Minimum 22 in Speaking PTE (Academic): 76 overall, with no less than 65 in each component MUET: Band 5 Note: IELTS, TOEFL iBT, and PTE Academic results must be less than two years old MUET results are valid for five years from the release date IELTS One Skill Retake is accepted Online test versions (IELTS Academic Online, TOEFL iBT Home Edition, PTE Academic Online) are not accepted"
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -46,6 +47,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "phd-in-business"
+  "last_updated": "2026-09-16",
+  "slug": "phd-in-business",
+  "program_name_ar": "Ph.D in Business",
+  "program_name_zh": "Ph.D in Business",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

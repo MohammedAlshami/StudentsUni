@@ -6,7 +6,9 @@
   "field": "Biotechnology",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM44,800/Yr",
     "international": "RM52,600/Yr",
@@ -16,7 +18,20 @@
     "per_year_international": 52600,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Relevant science subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -27,6 +42,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "bachelor-of-science-hons-biotechnology"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-science-hons-biotechnology",
+  "program_name_ar": "بكالوريوس Science (Hons) Biotechnology",
+  "program_name_zh": "Science (Hons) Biotechnology学士",
+  "field_ar": "التكنولوجيا الحيوية",
+  "field_zh": "生物技术"
 }

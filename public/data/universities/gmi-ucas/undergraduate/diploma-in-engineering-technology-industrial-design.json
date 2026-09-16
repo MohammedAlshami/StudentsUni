@@ -6,9 +6,33 @@
   "field": "Mechanical Engineering",
   "duration": "6 Semester / 3 Years",
   "mode": "Full Time",
-  "intakes": null,
-  "fees": "RM 33,324",
-  "requirements": null,
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 36000,
+    "international_total": null,
+    "per_year_local": 12000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM12000/year for typical private university programme"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "R2/0741/4/0010 (02/30) (MQA/FA 4785) - Accredited",
   "sources": [
     {
@@ -17,5 +41,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Engineering Technology (Industrial Design)",
+  "program_name_zh": "Engineering Technology (Industrial Design)文凭",
+  "field_ar": "الهندسة الميكانيكية",
+  "field_zh": "机械工程"
 }

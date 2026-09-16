@@ -13,7 +13,9 @@
     ],
     "fees": {
       "local": "RM 620,000",
-      "international": "EUR 155,000"
+      "international": "EUR 155,000",
+      "local_total": 620000,
+      "per_year_local": 124000
     },
     "requirements": null,
     "accreditation": "R3/721/6/0009 (06/28) (MQA/FA4397)",
@@ -21,7 +23,7 @@
       "https://www.rumc.edu.my/programmes/undergraduate-medicine/"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Royal College of Surgeons in Ireland & UCD Malaysia Campus",
@@ -38,7 +40,9 @@
     ],
     "fees": {
       "local": "RM 93,000",
-      "international": "RM 102,000"
+      "international": "RM 102,000",
+      "local_total": 93000,
+      "per_year_local": 31000
     },
     "requirements": null,
     "accreditation": "N/0688/6/0001 (01/29) (MQA/PA16934)",
@@ -46,6 +50,6 @@
       "https://www.rumc.edu.my/programmes/medical-informatics/"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

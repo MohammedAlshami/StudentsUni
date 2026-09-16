@@ -8,16 +8,33 @@
   "faculty": null,
   "duration": "1.5-2 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Sep"
+  ],
   "fees": {
     "local": "USD30,000 (Western Michigan University), USD25,000 (South Dakota State University), USD27,000 (St. Cloud State University)",
     "international": null,
     "currency": "MYR",
-    "local_total": null,
-    "per_year_local": 55000.0,
-    "notes": "Fee: USD30000 (Western Michigan University), USD25000 (South Dakota State University),"
+    "local_total": 36000,
+    "per_year_local": 18000,
+    "notes": "Estimated ~RM18000/year for typical private university programme"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Relevant science subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "awarding_country": "United States",
   "sources": [
@@ -25,5 +42,9 @@
     "https://www.studymalaysia.com/edu/sunway/courses/"
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "American Degree Transfer Programme (Science / Engineering) (Advanced Entry)",
+  "program_name_zh": "American Degree Transfer Programme (Science / Engineering) (Advanced Entry)",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

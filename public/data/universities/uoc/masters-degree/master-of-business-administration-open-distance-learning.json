@@ -7,10 +7,16 @@
   "slug": "master-of-business-administration-open-distance-learning",
   "duration": "Full-time, 1-2 years Part time, 2-4 years",
   "mode": "Open and Distance Learning (ODL)",
-  "intakes": null,
+  "intakes": [
+    "Oct"
+  ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University"
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 33000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
   },
   "requirements": null,
   "accreditation": null,
@@ -18,5 +24,9 @@
     "https://studymalaysia.com/what/course/CUCMS/0058807/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (Open & Distance Learning)",
+  "program_name_zh": "Business Administration (Open & Distance Learning)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

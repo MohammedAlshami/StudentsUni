@@ -16,24 +16,23 @@
     "currency": "MYR",
     "local_total": 30000,
     "international_total": 41360,
-    "per_year_local": null,
+    "per_year_local": 7500,
     "per_year_international": null,
-    "notes": "Local: RM120,000.00; International: RM187,760.00"
+    "notes": "Local: RM120,000.00; International: RM187,760.00 (per_year based on 4.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "TWO (2) STPM/A-level subjects and 2.00 CGPA; OR an MSU Diploma in a related field; An MSU Foundation Certificate with 2.00 CGPA; An equivalent qualification recognized by MSU Senate."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -67,5 +66,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Cardiovascular Technology (Hons)",
+  "program_name_zh": "Cardiovascular Technology (Hons)学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

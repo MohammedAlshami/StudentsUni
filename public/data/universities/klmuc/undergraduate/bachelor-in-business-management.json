@@ -5,12 +5,47 @@
   "program_name": "Bachelor in Business Management (Honours)",
   "field": "Business & Entrepreneurship",
   "duration": "9 Semesters / 3 Years",
-  "mode": ["Full-time"],
-  "intakes": ["January", "May", "September"],
-  "fees": {"local": "RM 30,000 - RM 46,153"},
-  "requirements": null,
-  "accreditation": {"mqa_ref": "R2/0414/6/0058", "valid_until": "05/2030"},
-  "sources": ["https://www.unitar.my/programmes/"],
+  "mode": [
+    "Full-time"
+  ],
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 67500,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
+  "accreditation": {
+    "mqa_ref": "R2/0414/6/0058",
+    "valid_until": "05/2030"
+  },
+  "sources": [
+    "https://www.unitar.my/programmes/"
+  ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business Management (Honours)",
+  "program_name_zh": "Business Management (Honours)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

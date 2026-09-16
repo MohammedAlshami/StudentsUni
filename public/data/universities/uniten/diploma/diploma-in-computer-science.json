@@ -7,7 +7,11 @@
   "field": "Computer Science",
   "duration": "2.5 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "January",
+    "July",
+    "September"
+  ],
   "fees": {
     "local": {
       "tuition": "RM29,800",
@@ -24,9 +28,23 @@
     },
     "currency": "MYR",
     "local_total": 29800,
-    "per_year_local": null
+    "per_year_local": 11920,
+    "notes": " (per_year based on 2.5yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "college": "College of Computing & Informatics (CCI)",
   "sources": [
@@ -39,5 +57,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Computer Science",
+  "program_name_zh": "Computer Science文凭",
+  "field_ar": "علوم الحاسوب",
+  "field_zh": "计算机科学"
 }

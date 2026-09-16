@@ -6,7 +6,7 @@
   "state": "Melaka",
   "website": "https://www.unimel.edu.my",
   "studymalaysia_url": "https://studymalaysia.com/edu/unimel/courses/",
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "sources": [
     {
       "url": "https://unimel.edu.my/programme-list/",
@@ -27,5 +27,13 @@
     "bachelor": 15,
     "masters": 16,
     "doctorate": 7
+  },
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
   }
 }

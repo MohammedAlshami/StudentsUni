@@ -5,12 +5,15 @@
   "program_name": "Bachelor of Arts in Malay Language and Linguistics with Honours",
   "program_slug": "bachelor-of-malay-language-linguistics",
   "field": "Languages & Communication",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 6400,
+    "local_total": 4800,
     "international_total": 19200,
     "per_year_local": 1600,
     "per_year_international": 4800,
@@ -18,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+)",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -38,5 +41,9 @@
     "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Arts in Malay Language and Linguistics with Honours",
+  "program_name_zh": "Arts in Malay Language and Linguistics with Honours学士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

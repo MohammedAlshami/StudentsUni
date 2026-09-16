@@ -7,16 +7,39 @@
   "field": "Education",
   "duration": "2 - 4 years (Full-time), 3 - 6 years (Part-time)",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM8,150",
-    "international": "RM8,750"
+    "international": "RM8,750",
+    "local_total": 8148,
+    "per_year_local": 2037
   },
-  "requirements": "Bachelor's degree with minimum CGPA of 2.75 or equivalent from AIU or any university recognised by the AIU Senate",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "N/140/7/0028 (6/26) MQA/PA 14318",
   "sources": [
     "https://www.aiu.edu.my/postgraduate"
   ],
   "confidence": 0.95,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Education",
+  "program_name_zh": "Education硕士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

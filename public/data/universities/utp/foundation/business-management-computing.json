@@ -7,14 +7,30 @@
   "field": "Business & Computing",
   "duration": "1 year",
   "mode": "full-time",
-  "intakes": ["may"],
+  "intakes": [
+    "may"
+  ],
   "fees": {
-    "total": "RM 17,700",
     "currency": "MYR",
-    "note": "Total estimated fees; contact university for current rates"
+    "local_total": 16000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "spm": "5 credits including Mathematics, English, and relevant subjects"
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": "JPT/BPP(R3/0011/3/0066)(07/29)(A4231)",
   "description": "Foundation programme designed to prepare students for undergraduate studies in business management and computing disciplines at UTP.",
@@ -28,5 +44,9 @@
     "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Business Management & Computing",
+  "program_name_zh": "Business Management & Computing预科",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -12,13 +12,32 @@
   ],
   "fees": {
     "local": "RM 28,000",
-    "international": "RM 35,000"
+    "international": "RM 35,000",
+    "local_total": 28000,
+    "per_year_local": 14000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "N/0915/7/0009 (MOA/PA 18398) (06/30)",
   "sources": [
     "https://www.rumc.edu.my/programmes/master-of-science-in-occupational-therapy/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science in Occupational Therapy",
+  "program_name_zh": "Science in Occupational Therapy硕士",
+  "field_ar": "العلاج الوظيفي",
+  "field_zh": "作业治疗"
 }

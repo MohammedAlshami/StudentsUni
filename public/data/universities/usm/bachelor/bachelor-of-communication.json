@@ -7,7 +7,9 @@
   "slug": "bachelor-of-communication",
   "duration": "6 semesters (3 years)",
   "mode": "Full-time",
-  "intakes": ["September"],
+  "intakes": [
+    "September"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 15000,
@@ -17,13 +19,34 @@
     "notes": "RM 2500/Sem (6 semesters)"
   },
   "requirements": {
-    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
-    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+    "malaysian": {
+      "spm": "5 Credits (C+)",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
   },
-  "accreditation": {"mqa_status": "Full Accreditation", "mqa_ref": null},
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
   "sources": [
-    {"url": "https://studymalaysia.com/edu/usm/courses/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"}
+    {
+      "url": "https://studymalaysia.com/edu/usm/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Communication (Honours)(Digital Communication, Strategic Communication, Creative Screen & Journalism)",
+  "program_name_zh": "Communication (Honours)(Digital Communication, Strategic Communication, Creative Screen & Journalism)学士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

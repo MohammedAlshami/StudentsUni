@@ -6,7 +6,10 @@
   "field": "Accounting & Finance",
   "duration": "8 Semesters",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 6800,
@@ -37,5 +40,9 @@
     "https://www.studymalaysia.com/what/course/IIUM/0000786/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accounting (Hons)",
+  "program_name_zh": "Accounting (Hons)学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

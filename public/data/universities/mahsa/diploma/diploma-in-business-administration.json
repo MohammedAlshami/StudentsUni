@@ -18,20 +18,21 @@
     "currency": "MYR",
     "local_total": 13560,
     "international_total": 16680,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.5yr duration)",
+    "per_year_local": 5424
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Any one of these: SPM: Pass SPM or equivalent with 3 credits in any subjects UEC: Pass UEC with a Grade B in any 3 subjects O-Level: Pass O-Level with Grade C in any 3 subjects and pass in Maths and English SKM: Pass with level three (3) in a related field and pass SPM with one (1) credit in any subject Certificate: Pass in SKM level 3 or certificate from Kolej Komuniti and pass SPM with 1 credit STPM: Pass STPM with a GPA 2.00/C in any 1 subject Others: Other equivalent qualifications approved by the government of Malaysia English Proficiency Requirements: IELTS: 5.0 TOEFL PBT: 550 MUET: BAND 3.0"
   },
@@ -54,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Business Administration",
+  "program_name_zh": "Business Administration文凭",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

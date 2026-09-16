@@ -16,13 +16,13 @@
     "currency": "MYR",
     "local_total": 16780,
     "international_total": 29450,
-    "per_year_local": null,
+    "per_year_local": 16780,
     "per_year_international": null,
-    "notes": "Local: 15000/Course; International: 15000/Course"
+    "notes": "Local: 15000/Course; International: 15000/Course (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -30,8 +30,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "SPM / O-Level or equivalent:  A pass with at least Grade C in 5 subjects UEC: A pass with at least Grade B in 3 subjects; or its equivalence English Requirements (International Students Only): IELTS: Band 4.0 TOEFL: 5 (Ess OL) / 30-31 (iBT) Pearson: 36 Linguaskill OL: 140 ELS: 106 MUET: 3.0 Note: To progress to degree programs in specialized fields, students may need a credit in specific subjects at the SPM (or equivalent) level.  "
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Business",
+  "program_name_zh": "Business预科",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

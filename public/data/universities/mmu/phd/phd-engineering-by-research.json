@@ -6,27 +6,30 @@
   "field": "Engineering",
   "duration": "2 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Apr",
+    "Nov"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 3750,
     "international_total": 6375,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.0yr duration)",
+    "per_year_local": 1875
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Entry requirements: A Master’s degree in the field or related field accepted by the Senate; OR A Master’s degree in non-related fields as accepted by the Senate, and evidence of at least two (2) years relevant working or research experience, subject to rigorous internal assessment; OR A Master’s degree in non-related fields as accepted by the Senate and without relevant working experience, subject to rigorous internal assessment and passing pre-requisite courses; OR A Bachelor’s degree with minimum CGPA of 3.67 or equivalent in the field or related field from MMU or institutions recognised by Senate can be accepted subject to rigorous internal assessment Other qualifications equivalent to a Master’s degree in the field recognised by Malaysian Government. English Entry Requirement: Minimum IELTS overall band score of 5.0 or its equivalent* Any other qualification which is of equivalent level as determined by the Senate of the University. The English language requirement is waived for the candidates who are natives of and/or have completed their Bachelor’s or Master’s degrees from countries that use English as the medium of instruction as well as the first language."
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -70,5 +73,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Ph.D.) Engineering (By Research)",
+  "program_name_zh": "哲学博士 (Ph.D.) Engineering (By Research)",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

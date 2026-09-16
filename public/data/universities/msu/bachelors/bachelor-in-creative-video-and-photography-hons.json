@@ -16,24 +16,23 @@
     "currency": "MYR",
     "local_total": 17367,
     "international_total": 22820,
-    "per_year_local": null,
+    "per_year_local": 5789,
     "per_year_international": null,
-    "notes": "Local: RM52,100.00; International: RM86,780.00"
+    "notes": "Local: RM52,100.00; International: RM86,780.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "2.00 CGPA or TWO (2) C’s at STPM level OR an MSU Diploma in Creative Multimedia or equivalent with at least 2.50 CGPA (CGPAs 2.00-2.50 subject to approval) OR an equivalent qualification recognized by MSU Senate."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -67,5 +66,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Creative Video and Photography (Hons)",
+  "program_name_zh": "Creative Video and Photography (Hons)学士",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

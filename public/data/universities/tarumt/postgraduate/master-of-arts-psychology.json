@@ -7,13 +7,32 @@
   "field": "Social Sciences",
   "duration": "2 years (FT) / 3 years (PT)",
   "mode": "Flexible",
-  "intakes": null,
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
   "fees": {
     "local": "RM11,200.00 (FT) / RM12,400.00 (PT)",
     "international": "RM25,300.00",
-    "currency": "MYR"
+    "currency": "MYR",
+    "local_total": 11200,
+    "international_total": 25300.0,
+    "per_year_local": 5600
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -29,5 +48,9 @@
     }
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Arts (Psychology)",
+  "program_name_zh": "Arts (Psychology)硕士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

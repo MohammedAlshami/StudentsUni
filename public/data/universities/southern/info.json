@@ -6,7 +6,12 @@
   "state": "Johor",
   "city": "Skudai",
   "website": "https://www.southern.edu.my",
-  "levels_available": ["foundation", "diploma", "bachelor", "postgraduate"],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "postgraduate"
+  ],
   "sources": [
     "https://www.southern.edu.my",
     "https://www.southern.edu.my/faculty-of-business-management/",
@@ -16,5 +21,13 @@
     "https://www.southern.edu.my/faculty-of-humanities-social-science/",
     "https://www.southern.edu.my/faculty-of-chinese-studies/"
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

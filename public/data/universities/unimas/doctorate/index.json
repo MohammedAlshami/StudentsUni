@@ -219,5 +219,13 @@
   "sources": [
     "https://www.studymalaysia.com/edu/unimas/courses/"
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 39000,
+    "international_total": null,
+    "per_year_local": 13000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM6500/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

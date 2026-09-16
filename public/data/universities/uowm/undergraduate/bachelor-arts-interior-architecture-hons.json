@@ -7,11 +7,41 @@
   "field": "Design & Creative Media",
   "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Feb",
+    "Jun",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Any relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90"
+    }
+  },
   "accreditation": "MQA",
-  "sources": ["https://www.uow.edu.my/programmes"],
+  "sources": [
+    "https://www.uow.edu.my/programmes"
+  ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Arts (Hons) in Interior Architecture",
+  "program_name_zh": "Arts (Hons) in Interior Architecture学士",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
 }

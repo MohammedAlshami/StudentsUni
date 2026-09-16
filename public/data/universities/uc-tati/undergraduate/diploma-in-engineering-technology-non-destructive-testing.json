@@ -4,11 +4,35 @@
   "level": "diploma",
   "program_name": "Diploma in Engineering Technology (Non-Destructive Testing)",
   "field": "Engineering Technology",
-  "duration": null,
+  "duration": "4 years",
   "mode": "Full Time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 30000,
+    "international_total": null,
+    "per_year_local": 7500,
+    "per_year_international": null,
+    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 4.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "KPT: R3/0714/4/0006 (09/2029) - MQA/FA 15543 - MBOT/FA/ME/0/01/0150",
   "sources": [
     {
@@ -17,5 +41,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Engineering Technology (Non-Destructive Testing)",
+  "program_name_zh": "Engineering Technology (Non-Destructive Testing)文凭",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

@@ -16,13 +16,13 @@
     "currency": "MYR",
     "local_total": 18600,
     "international_total": 20150,
-    "per_year_local": null,
+    "per_year_local": 18600,
     "per_year_international": null,
-    "notes": "Local: RM18,600.00; International: RM28,245.00"
+    "notes": "Local: RM18,600.00; International: RM28,245.00 (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -30,8 +30,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -61,5 +61,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Visual Arts",
+  "program_name_zh": "Visual Arts预科",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

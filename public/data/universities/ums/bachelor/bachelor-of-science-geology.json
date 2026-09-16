@@ -6,10 +6,13 @@
   "field": "Science / Physical Science",
   "duration": "8 semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 7680,
+    "local_total": 3840,
     "international_total": null,
     "per_year_local": 960,
     "per_year_international": null,
@@ -17,16 +20,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": "STPM + MUET",
-      "foundation_matriculation": "Matriculation Certificate",
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) including Mathematics",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": "A-Level or equivalent",
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -34,8 +37,16 @@
     "mqa_ref": null
   },
   "sources": [
-    {"url": "https://studymalaysia.com/what/course/UMS/0008266/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"}
+    {
+      "url": "https://studymalaysia.com/what/course/UMS/0008266/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Geology) (Hons)",
+  "program_name_zh": "Science (Geology) (Hons)学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

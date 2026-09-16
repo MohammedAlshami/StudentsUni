@@ -7,29 +7,32 @@
   "field": "",
   "duration": "3 years",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 109680,
     "international_total": 128544,
-    "per_year_local": null,
+    "per_year_local": 36560,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of These: A-Level: DDD STPM (Sijil Tinggi Persekolahan Malaysia): C+C+ UEC (Unified Examination Certificate): Maximum 30 points (5 subjects not less than B grade) ATAR (Australian Tertiary Admission Rank - WACE/SACE): ATAR 50 Canada Year 12 High School Diploma: 50% (average score based on 6 best relevant subjects including English) International Baccalaureate Diploma: 24 points excluding Theory of knowledge and Extended Essay Matriculation/Foundation: Minimum CGPA 2.5 Diploma: Minimum CGPA 2.5 Heriot-Watt University Malaysia Foundation in Business / Foundation in Science: Grade C average SMA 3 (Indonesia): 6.0 Year 12 State Board High School Examination (India): 70% Senior High School Graduation Certificate (China): 80% Additional Academic Requirements: Mathematics: Grade C in Mathematics at SPM/IGCSE level or equivalent is required. This can be waived if a passing grade in Mathematics at a higher level is achieved. MUET (Malaysian University English Test): Malaysian students using qualifications where the medium of instruction is not English (e.g., UEC, STPM) must possess a MUET Band 2 or equivalent. Important Notes: Applications are strongly encouraged from individuals with a wide range of qualifications. Eligibility is best assessed through a completed application with academic documentation. Entry requirements are subject to change, and individual offers may vary. English Language Requirements: For Non-Native English Speakers: Evidence of English language ability is required. Minimum IELTS 6.0 (or equivalent) with no score lower than 5.5. English Language Courses: Offered for those who do not meet the IELTS 6.0 requirement."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -43,5 +46,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Hons) Accounting and Business Finance",
+  "program_name_zh": "Hons) Accounting and Business Finance硕士"
 }

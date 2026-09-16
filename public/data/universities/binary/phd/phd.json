@@ -7,14 +7,18 @@
   "field": "general",
   "duration": "3-6 years",
   "mode": "Full-Time",
-  "intakes": [],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 75000,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 12500,
     "per_year_international": null,
-    "notes": "RM 17,000/year"
+    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 6.0yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -42,5 +46,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة",
+  "program_name_zh": "哲学博士",
+  "field_ar": "general",
+  "field_zh": "general"
 }

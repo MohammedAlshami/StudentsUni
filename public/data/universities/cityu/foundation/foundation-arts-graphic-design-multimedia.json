@@ -16,11 +16,12 @@
     "currency": "MYR",
     "local_total": 13700,
     "international_total": 24850,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 1.0yr duration)",
+    "per_year_local": 13700
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -28,8 +29,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "SPM: Possess SPM or equivalent with a minimum of 5 credits in any subjects including English. English Competency Requirement: Determination of Malay and English grade requirements at the SPM level for admission to programs under the body professionals are in accordance with the standards/manuals/stipulations of the relevant professional bodies."
   },
@@ -52,5 +53,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Arts (Graphic Design & Multimedia)",
+  "program_name_zh": "Arts (Graphic Design & Multimedia)预科",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
 }

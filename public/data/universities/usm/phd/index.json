@@ -5,20 +5,76 @@
   "total_programs": 82,
   "note": "Many PhD programs are offered alongside Master's degrees as combined M.Sc./Ph.D. programs",
   "sample_programs": [
-    {"slug": "phd-management", "name": "Ph.D. in Management", "field": "Business"},
-    {"slug": "phd-physics", "name": "Ph.D. in Physics", "field": "Science"},
-    {"slug": "phd-mathematics", "name": "Ph.D. in Mathematics", "field": "Science"},
-    {"slug": "phd-chemistry", "name": "Ph.D. in Chemistry", "field": "Science"},
-    {"slug": "phd-biotechnology", "name": "Ph.D. in Biotechnology", "field": "Science"},
-    {"slug": "phd-computer-science", "name": "Ph.D. in Computer Science", "field": "Computing"},
-    {"slug": "phd-engineering", "name": "Ph.D. in various Engineering fields", "field": "Engineering"},
-    {"slug": "phd-education", "name": "Ph.D. in Education", "field": "Education"},
-    {"slug": "phd-pharmacology", "name": "Ph.D. in Pharmacology", "field": "Medicine"},
-    {"slug": "phd-psychology", "name": "Ph.D. in Psychology", "field": "Social Sciences"}
+    {
+      "slug": "phd-management",
+      "name": "Ph.D. in Management",
+      "field": "Business"
+    },
+    {
+      "slug": "phd-physics",
+      "name": "Ph.D. in Physics",
+      "field": "Science"
+    },
+    {
+      "slug": "phd-mathematics",
+      "name": "Ph.D. in Mathematics",
+      "field": "Science"
+    },
+    {
+      "slug": "phd-chemistry",
+      "name": "Ph.D. in Chemistry",
+      "field": "Science"
+    },
+    {
+      "slug": "phd-biotechnology",
+      "name": "Ph.D. in Biotechnology",
+      "field": "Science"
+    },
+    {
+      "slug": "phd-computer-science",
+      "name": "Ph.D. in Computer Science",
+      "field": "Computing"
+    },
+    {
+      "slug": "phd-engineering",
+      "name": "Ph.D. in various Engineering fields",
+      "field": "Engineering"
+    },
+    {
+      "slug": "phd-education",
+      "name": "Ph.D. in Education",
+      "field": "Education"
+    },
+    {
+      "slug": "phd-pharmacology",
+      "name": "Ph.D. in Pharmacology",
+      "field": "Medicine"
+    },
+    {
+      "slug": "phd-psychology",
+      "name": "Ph.D. in Psychology",
+      "field": "Social Sciences"
+    }
   ],
   "sources": [
-    {"url": "https://studymalaysia.com/edu/usm/courses/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"},
-    {"url": "https://admission.usm.my/index.php/postgraduate/fee-pg", "publisher": "USM Admissions", "fetched_at": "2026-09-14"}
+    {
+      "url": "https://studymalaysia.com/edu/usm/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
+      "publisher": "USM Admissions",
+      "fetched_at": "2026-09-14"
+    }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 39000,
+    "international_total": null,
+    "per_year_local": 13000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM6500/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

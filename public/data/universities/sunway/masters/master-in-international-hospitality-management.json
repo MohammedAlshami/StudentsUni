@@ -18,8 +18,8 @@
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
     "local_total": 49900,
-    "per_year_local": null,
-    "notes": "Fee: FromRM45,000.00",
+    "per_year_local": 49900,
+    "notes": "Fee: FromRM45,000.00 (per_year based on 1.0yr duration)",
     "international_total": 52150
   },
   "requirements": {
@@ -27,15 +27,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Entry Requirements Bachelor’s Degree A recognised Bachelor’s degree or its equivalent with a minimum CGPA of 2.50 out of 4.00 or equivalent from a recognised institution of higher education, as accepted by the University’s Senate: OR A Bachelor’s degree with CGPA of below 2.50 out of 4.00 or its equivalent qualification can be accepted subject to a minimum of 5 years of working experience in relevant field. APEL.A An APEL.A Certificate (APEL T-7) (Recognition of Prior Learning) Any other qualifications will be considered on a case-by-case basis.   English Language Requirements Applicants whose medium of instruction for their Bachelor’s / Master’s degree was not English will be required to provide evidence of language ability of:    International English Language Testing System (IELTS): 6.0 or equivalent; OR TOEFL: 100 (internet-based); OR PTE Academic: 70 overall   Application Procedure Applicants are requested to send the completed application with the following supporting documents:  1.    Sunway Postgraduate application form 2.    Research statement 3.    Scholarship application form (if applicable) 4.    Passport size photo (white background) 5.    Photocopy of Identification Card (applicable to Malaysian applicant) 6.    Photocopy of passport (full passport incl. cover and blank pages; International applicant) 7.    Official academic transcripts and completion certificates 8.    Curriculum vitae 9.    IELTS 6.0 or equivalent (if applicable)"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "awarding_country": "Malaysia",
@@ -59,5 +58,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير International Hospitality Management",
+  "program_name_zh": "International Hospitality Management硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { Link } from "@/i18n/navigation";
 import { useSearchParams } from "next/navigation";
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { ChevronLeft, ChevronRight, GraduationCap, Landmark, MapPin, Search, SlidersHorizontal, Wallet } from "lucide-react";
 import { wrap, Label, institutionTypeLabel } from "@/components/marketing-ui";
 import { getUniversityImage } from "@/lib/university-images";
@@ -12,6 +12,8 @@ import type { UniversityStats } from "@/lib/university-stats";
 type Institution = {
   slug: string;
   name: string;
+  name_ar?: string;
+  name_zh?: string;
   abbr: string;
   type: string;
   state: string | null;
@@ -86,10 +88,18 @@ export default function UniversitiesClient({
   const [page, setPage] = useState(1);
   const t = useTranslations("filters");
   const tCommon = useTranslations("common");
+  const locale = useLocale();
+
+  function getLocalizedName(inst: Institution): string {
+    if (locale === "ar") return inst.name_ar || inst.name;
+    if (locale === "zh") return inst.name_zh || inst.name;
+    return inst.name;
+  }
 
   const filtered = institutions.filter((inst) => {
+    const searchName = getLocalizedName(inst);
     const matchesSearch =
-      inst.name.toLowerCase().includes(search.toLowerCase()) ||
+      searchName.toLowerCase().includes(search.toLowerCase()) ||
       inst.abbr.toLowerCase().includes(search.toLowerCase());
     const matchesType = typeFilter === "all" || inst.type === typeFilter;
     return matchesSearch && matchesType;
@@ -170,13 +180,13 @@ export default function UniversitiesClient({
                 href={`/universities/${inst.slug}`}
                 className="group block border border-black/10 bg-white transition-colors hover:border-[#285b50]"
               >
-                <UniversityMark slug={inst.slug} name={inst.name} abbr={inst.abbr} />
+                <UniversityMark slug={inst.slug} name={getLocalizedName(inst)} abbr={inst.abbr} />
                 <div className="px-[21px] pb-[21px]">
                   <p className="mt-[21px] text-[12px] font-bold uppercase tracking-[.1em] text-[#285b50]">
                     {institutionTypeLabel(tCommon, inst.type)}
                   </p>
                   <h3 className="mt-[6px] text-[18px] font-bold leading-tight group-hover:underline">
-                    {inst.name}
+                    {getLocalizedName(inst)}
                   </h3>
                   {inst.state && (
                     <p className="mt-[10px] flex items-center gap-[6px] text-[13px] text-black/55">

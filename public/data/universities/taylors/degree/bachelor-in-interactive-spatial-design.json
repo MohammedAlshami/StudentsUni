@@ -17,22 +17,22 @@
     "currency": "MYR",
     "local_total": 36585,
     "international_total": 43266,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 12195
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Prerequisites: Pass SPM//O-level or equivalent with 5 credits for entry with pre-university/ foundation qualification (Except for UEC). Pass SPM/O-level or equivalent with 3 credits for entry with Diploma qualification. Pass Visual Test:Pass Visual Test (Taylor’s FID, DID and FNBE are exempted from the Entrance Test) Entry Pathway: SPM/O level:Pass SPM/O-level or equivalent with 5 credits for entry with pre-university/ foundation qualification (Except for UEC). AUSMAT (SACEi):ATAR 55 A level:Min. grades CDD Canadian Pre-U:Average of 55% in 6 subjects STPM:CC UEC:A Pass with UEC with Min. 5 Bs TAYLOR&#39;S FOUNDATION / DIPLOMA Pass FNBE with min. CGPA 2.00 Pass FID with min. CGPA 2.00 Pass Taylor&#39;s Diploma with min. CGPA 2.00 Other Taylor&#39;s Foundation with min CGPA 2.00 IB:Min 24 points in 6 subjects MUFY:Overall 50% Other Qualifications: Foundation from an institution recognised by the Malaysian Government with min. CGPA 2.00 Diploma from an institution recognised by the Malaysian Government with min. CGPA 2.00 MoE Matriculation with min. CGPA 2.00  Any other qualification recognised by the Malaysian govt. English Requirements: MUET/IELTS/TOEFL/UEC English:Pass English Pre-U/ Diploma:Completed Pre-U / Diploma that was conducted in English Cambridge English/ELS also recognised; the minimum score varies by programme Taylor&#39;s EET:Overall Score 4.0 Taylor&#39;s IEN Level 2:Grade C  "
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -53,5 +53,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Interactive Spatial Design (Honours)",
+  "program_name_zh": "Interactive Spatial Design (Honours)学士",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
 }

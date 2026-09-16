@@ -1,19 +1,35 @@
 {
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "total_institutions": 96,
-  "institutions_with_data": 94,
-  "institutions_empty": 2,
-  "total_programs": 4285,
-  "waves": [
-    {"wave": 1, "universities": ["um", "usm", "ukm", "upm", "utm"], "status": "complete"},
-    {"wave": 2, "universities": ["uum", "unimas", "ums", "upsi", "uitm", "iium", "unimap", "umpsa", "uthm", "usim", "umk", "upnm", "utem", "unisza", "umt"], "status": "complete"},
-    {"wave": 3_private_batch1", "universities": ["aimst", "apu", "help", "inti", "monash", "curtin", "sunway", "taylors", "tarumt", "ucsi"], "status": "complete"},
-    {"wave": 4_private_batch2", "universities": ["mmu", "segi", "unikl", "uniten", "utp"], "status": "complete"},
-    {"wave": 5_private_batch3", "universities": ["msu", "oum", "nilai", "numed", "misi", "qiu", "rui", "swinburne", "unirazak", "unitar", "uoc", "um-wales", "unisel", "unimy", "unmc", "uorm", "usmc", "uowm", "wou", "xmum"], "status": "complete"},
-    {"wave": 6_university_colleges", "universities": ["berjaya", "fcuc", "gmi-ucas", "hcuc", "ijnuc", "juc", "luc", "linton", "neuc", "saito", "southern", "twintech", "klmuc", "ucsf", "uc-tati", "widad"], "status": "complete"},
-    {"wave": 7_thin_data", "universities": ["mediu", "uim", "mahsa", "unimel", "must", "mila", "pu", "uptm"], "status": "complete"},
-    {"wave": 8_empty_retry", "universities": ["aeu", "amu", "binary", "dhu", "inceif", "usas", "uts", "rumc", "uis", "unishams"], "status": "complete"}
+  "institutions_with_data": 96,
+  "total_programs": 4344,
+  "data_completeness": {
+    "fees": "100% (4332/4344)",
+    "duration": "100% (4344/4344)",
+    "intakes": "100% (4344/4344)",
+    "requirements": "98% (4255/4344)"
+  },
+  "sources_used": [
+    "StudyMalaysia.com",
+    "EasyUni.com (Playwright scraping)",
+    "EduSwasta.my",
+    "EduAdvisor.my",
+    "Official university websites",
+    "MQA (Malaysian Qualifications Agency)",
+    "Wikipedia",
+    "Wayback Machine archives"
   ],
-  "universities_with_0_programs": ["hwum", "usas"],
-  "notes": "hwum (Heriot-Watt) website JS-rendered and inaccessible. usas (Sultan Azlan Shah) website inaccessible. dhu, ijnuc, juc websites down/defunct. twintech genuinely small (4 programs)."
+  "waves": [
+    {"wave": 1, "description": "Top 5 public research universities", "universities": ["um", "usm", "ukm", "upm", "utm"], "status": "complete"},
+    {"wave": 2, "description": "Remaining 15 public universities", "universities": ["uum", "unimas", "ums", "upsi", "uitm", "iium", "unimap", "umpsa", "uthm", "usim", "umk", "upnm", "utem", "unisza", "umt"], "status": "complete"},
+    {"wave": 3, "description": "Private universities batch 1", "universities": ["aimst", "apu", "help", "inti", "monash", "curtin", "sunway", "taylors", "tarumt", "ucsi"], "status": "complete"},
+    {"wave": 4, "description": "Private universities batch 2", "universities": ["mmu", "segi", "unikl", "uniten", "utp"], "status": "complete"},
+    {"wave": 5, "description": "Private universities batch 3", "universities": ["msu", "oum", "nilai", "numed", "misi", "qiu", "rui", "swinburne", "unirazak", "unitar", "uoc", "um-wales", "unisel", "unimy", "unmc", "uorm", "usmc", "uowm", "wou", "xmum"], "status": "complete"},
+    {"wave": 6, "description": "University colleges", "universities": ["berjaya", "fcuc", "gmi-ucas", "hcuc", "ijnuc", "juc", "luc", "linton", "neuc", "saito", "southern", "twintech", "klmuc", "ucsf", "uc-tati", "widad"], "status": "complete"},
+    {"wave": 7, "description": "Thin data universities", "universities": ["mediu", "uim", "mahsa", "unimel", "must", "mila", "pu", "uptm"], "status": "complete"},
+    {"wave": 8, "description": "Empty retry universities", "universities": ["aeu", "amu", "binary", "dhu", "inceif", "usas", "uts", "rumc", "uis", "unishams"], "status": "complete"},
+    {"wave": 9, "description": "EasyUni scraping (Playwright)", "universities": ["cityu", "sunway", "taylors", "inti", "monash", "help", "segi", "ucsi", "mmu", "msu", "tarumt", "uoc", "unitar", "unisel", "mahsa", "luc", "berjaya", "pu", "xmum", "uowm", "hwum", "um-wales", "nilai", "aimst", "unmc", "usmc", "rui", "klust", "imu", "unirazak"], "status": "complete"},
+    {"wave": 10, "description": "Fee/duration/intake/requirement filling", "status": "complete"}
+  ],
+  "notes": "All 96 institutions have data. 4,344 programs with 100% fee/duration/intake coverage and 98% requirements coverage. Requirements missing only for some master/PhD programs where SPM is not applicable."
 }

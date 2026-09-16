@@ -1,94 +1,278 @@
 [
   {
     "name": "Diploma In Human Resource Management",
-    "slug": "diploma-in-human-resource-management"
+    "slug": "diploma-in-human-resource-management",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Islamic Broadcasting Media",
-    "slug": "diploma-in-islamic-broadcasting-media"
+    "slug": "diploma-in-islamic-broadcasting-media",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Physiotherapy",
-    "slug": "diploma-in-physiotherapy"
+    "slug": "diploma-in-physiotherapy",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Islamic Studies (Syariah)",
-    "slug": "diploma-in-islamic-studies-syariah"
+    "slug": "diploma-in-islamic-studies-syariah",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma in Nursing Science",
-    "slug": "diploma-in-nursing-science"
+    "slug": "diploma-in-nursing-science",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Marketing",
-    "slug": "diploma-in-marketing"
+    "slug": "diploma-in-marketing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Islamic Studies (Islamic Administration)",
-    "slug": "diploma-in-islamic-studies-islamic-administration"
+    "slug": "diploma-in-islamic-studies-islamic-administration",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Radiographic",
-    "slug": "diploma-in-radiographic"
+    "slug": "diploma-in-radiographic",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Industrial Design",
-    "slug": "diploma-in-industrial-design"
+    "slug": "diploma-in-industrial-design",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma in Islamic Studies (Islamic History and Civilization)",
-    "slug": "diploma-in-islamic-studies-islamic-history-and-civilization"
+    "slug": "diploma-in-islamic-studies-islamic-history-and-civilization",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Finance",
-    "slug": "diploma-in-finance"
+    "slug": "diploma-in-finance",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Islamic Studies (Arabic Language & Literature)",
-    "slug": "diploma-in-islamic-studies-arabic-language-and-literature"
+    "slug": "diploma-in-islamic-studies-arabic-language-and-literature",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Islamic Studies (Usuluddin)",
-    "slug": "diploma-in-islamic-studies-usuluddin"
+    "slug": "diploma-in-islamic-studies-usuluddin",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In International Commerce",
-    "slug": "diploma-in-international-commerce"
+    "slug": "diploma-in-international-commerce",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Manufacturing Technology",
-    "slug": "diploma-in-manufacturing-technology"
+    "slug": "diploma-in-manufacturing-technology",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Insurance Studies",
-    "slug": "diploma-in-insurance-studies"
+    "slug": "diploma-in-insurance-studies",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma In Law",
-    "slug": "diploma-in-law"
+    "slug": "diploma-in-law",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma in Medical Laboratory Technology",
-    "slug": "diploma-in-medical-laboratory-technology"
+    "slug": "diploma-in-medical-laboratory-technology",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 21000,
+      "international_total": null,
+      "per_year_local": 7000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM3,500/semester for public university medical programme (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma in Islamic Studies (Dakwah)",
-    "slug": "diploma-in-islamic-studies-dakwah"
+    "slug": "diploma-in-islamic-studies-dakwah",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma in Information Technology",
-    "slug": "diploma-in-information-technology"
+    "slug": "diploma-in-information-technology",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma in Accounting",
-    "slug": "diploma-in-accounting"
+    "slug": "diploma-in-accounting",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma in Islamic Studies (Al Quran & Al Sunnah)",
-    "slug": "diploma-in-islamic-studies-al-quran-and-al-sunnah"
+    "slug": "diploma-in-islamic-studies-al-quran-and-al-sunnah",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "name": "Diploma in Banking Studies",
-    "slug": "diploma-in-banking-studies"
+    "slug": "diploma-in-banking-studies",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   }
 ]

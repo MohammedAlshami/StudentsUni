@@ -17,7 +17,9 @@
     "international": "20130/Course",
     "local_total": 18000,
     "currency": "MYR",
-    "international_total": 31688
+    "international_total": 31688,
+    "per_year_local": 13500,
+    "notes": " (per_year based on 1.3333333333333333yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -54,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Education (Educational Leadership & Management)",
+  "program_name_zh": "Education (Educational Leadership & Management)硕士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

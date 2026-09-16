@@ -12,13 +12,32 @@
   ],
   "fees": {
     "local": "RM 40,000",
-    "international": "RM 45,000"
+    "international": "RM 45,000",
+    "local_total": 39999,
+    "per_year_local": 53333
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Science",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "R3/010/3/0099 (12/27) (MQA/A7144)",
   "sources": [
     "https://www.rumc.edu.my/programmes/pre-medical-foundation-year/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Pre-Medical Foundation Year",
+  "program_name_zh": "Pre-Medical Foundation Year",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

@@ -7,12 +7,37 @@
   "field": "Business Management & Administration",
   "duration": "2 years (maximum candidature of 3 years)",
   "mode": "Open and Distance Learning (ODL)",
-  "intakes": ["Modular"],
-  "fees": { "local": "RM18,000.00", "international": "RM30,000.00" },
+  "intakes": [
+    "Modular"
+  ],
+  "fees": {
+    "local": "RM18,000.00",
+    "international": "RM30,000.00",
+    "local_total": 18000,
+    "per_year_local": 9000
+  },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0057841/",
     "https://www.help.edu.my"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
+  "program_name_ar": "ماجستير Business Administration (Open & Distance Learning – ODL)",
+  "program_name_zh": "Business Administration (Open & Distance Learning – ODL)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

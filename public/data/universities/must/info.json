@@ -6,7 +6,7 @@
   "state": "Selangor",
   "website": "https://www.must.edu.my",
   "studymalaysia_url": null,
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "sources": [
     {
       "url": "https://must.edu.my/programmes_explore-our-programmes/",
@@ -27,5 +27,13 @@
     "bachelor": 7,
     "masters": 5,
     "doctorate": 3
+  },
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
   }
 }

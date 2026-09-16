@@ -15,13 +15,13 @@
     "currency": "MYR",
     "local_total": 27580,
     "international_total": 33787,
-    "per_year_local": null,
+    "per_year_local": 27580,
     "per_year_international": null,
-    "notes": "RM26,000 for the 12 month programme"
+    "notes": "RM26,000 for the 12 month programme (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics and Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -29,8 +29,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "In order to enrol for the Foundation programme, students must have 5Bs in each of the following subjects at O-Level, SPM, IGCSE, Local High School Curriculum Grade 12 or equivalent: Biology and Chemistry and Physics and Mathematics or Additional Mathematics and another subject"
   },
@@ -66,5 +66,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Foundation Certificate in Biological and Biomedical Sciences",
+  "program_name_zh": "Foundation Certificate in Biological and Biomedical Sciences",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

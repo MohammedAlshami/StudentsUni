@@ -15,11 +15,26 @@
   "fees": {
     "local": "RM38,690/Yr",
     "international": "RM43,830/Yr",
-    "local_total": 50000,
+    "local_total": 49998,
     "currency": "MYR",
-    "international_total": 56000
+    "international_total": 56000,
+    "per_year_local": 16666,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -35,6 +50,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-science-hons-computer-science"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-science-hons-computer-science",
+  "program_name_ar": "بكالوريوس Science (Hons) Computer Science",
+  "program_name_zh": "Science (Hons) Computer Science学士",
+  "field_ar": "Computing",
+  "field_zh": "Computing"
 }

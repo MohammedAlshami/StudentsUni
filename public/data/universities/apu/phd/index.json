@@ -122,14 +122,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 26800.0,
+    "local_total": 26799,
     "international_total": 28400.0,
-    "per_year_local": null,
+    "per_year_local": 8933,
     "per_year_international": null,
-    "notes": "From StudyMalaysia: RM26,800.00"
+    "notes": "From StudyMalaysia: RM26,800.00 (per_year based on 3yr duration)"
   },
   "sources": [
     "https://www.studymalaysia.com/edu/apu/courses/"
   ],
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16"
 }

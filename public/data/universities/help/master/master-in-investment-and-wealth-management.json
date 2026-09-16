@@ -7,11 +7,39 @@
   "field": "Accounting & Finance",
   "duration": "Full-time: 1 year, Part-time: up to 5 years",
   "mode": "Flexible Full-time/Part-time Mode",
-  "fees": { "local": "Enquire for fees", "international": null },
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 45000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.0yr duration)"
+  },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058742/",
     "https://www.help.edu.my"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "intakes": [
+    "Modular"
+  ],
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
+  "program_name_ar": "ماجستير Investment and Wealth Management",
+  "program_name_zh": "Investment and Wealth Management硕士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

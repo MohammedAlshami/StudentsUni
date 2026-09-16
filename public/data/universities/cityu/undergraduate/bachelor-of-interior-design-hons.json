@@ -19,22 +19,22 @@
     "currency": "MYR",
     "local_total": 16284,
     "international_total": 20000,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 5428
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: i) A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent ii) A pass in Matriculation /Foundation / Pre- University studies related to Architecture &amp; related field with minimum CGPA of 2.0 iii) A pass in STPM with a minimum Grade C(GP2.0) in any subjects and a credit in Mathematics at SPM level or its equivalent iv) A Diploma. (Level4 ,MQF) in Architecture &amp; related field with minimum CGPA of 2.0 v) An Advanced Diploma (Level 5, MQF) in Architecture &amp; related field or equivalent with a minimum CGPA of 2.0 as accepted by the senate vi) Any other Diploma Level 4, MQF) in Science and technology with a minimum CGPA of 2.5 may be admitted, subject to a rigorous internal assessment process and a credit in Mathematics at SPM level or its equivalent vii) *Pass DKM/DLKM/DVM (HEP is required to implement a screening and bridging program which correspond to the program field). AND For qualifications (i), (iii), (vi) and (vii): a. Passed Art (Pendidikan Seni)/ Engineering Drawing subjects at SPM level or equivalent b. Pass the portfolio test for those who fail or do not take Art subjects. English Requirements for International Students IELTS minimum score of 4.0 Malaysian University English Test (MUET) with Band 3 or its equivalent    "
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": "MQA",
   "sources": [
@@ -55,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Interior Design (Hons)",
+  "program_name_zh": "Interior Design (Hons)学士",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
 }

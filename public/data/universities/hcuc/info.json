@@ -47,6 +47,14 @@
       "note": "Basic institutional info; established 1999, upgraded to university college 2017"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "4 schools: Communication & Media, Applied Arts & Design, Business & Management, Chinese Studies. DKU037(P). MyQUEST 5-star rating. Founded 1999, university college status 2017. Located at Jalan Lim Lean Teng, George Town, Penang. 16 programs verified from official website."
+  "last_updated": "2026-09-16",
+  "notes": "4 schools: Communication & Media, Applied Arts & Design, Business & Management, Chinese Studies. DKU037(P). MyQUEST 5-star rating. Founded 1999, university college status 2017. Located at Jalan Lim Lean Teng, George Town, Penang. 16 programs verified from official website.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

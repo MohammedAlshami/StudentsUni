@@ -7,7 +7,10 @@
   "field": "Humanities",
   "duration": "6 semesters",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 4800,
@@ -16,7 +19,20 @@
     "per_year_international": 4800,
     "notes": "Standard public university fees (MQA regulated)"
   },
-  "requirements": "SPM+STPM/Matriculation+MUET",
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+)",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "MQA",
   "faculty": "Akademi Pengajian Pertahanan Islam",
   "sources": [
@@ -24,5 +40,9 @@
     "https://www.studymalaysia.com/what/course/UPNM/0057801/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Sarjana Muda Pertahanan dan Keselamatan Islam",
+  "program_name_zh": "Sarjana Muda Pertahanan dan Keselamatan Islam",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

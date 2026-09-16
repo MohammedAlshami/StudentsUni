@@ -13,13 +13,26 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 38213,
+    "local_total": 57319,
     "international_total": 43680,
-    "per_year_local": "RM38,213",
+    "per_year_local": 38213,
     "per_year_international": "RM43,680",
     "notes": "Enquire for fees"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": {
     "mqa_status": "MQA",
     "mqa_ref": null
@@ -29,5 +42,9 @@
     "https://eduadvisor.my/university/monash-university-malaysia"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Monash University Foundation Year (MUFY)",
+  "program_name_zh": "Monash University Foundation Year (MUFY)",
+  "field_ar": "Foundation Studies",
+  "field_zh": "Foundation Studies"
 }

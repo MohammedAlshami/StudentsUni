@@ -6,10 +6,13 @@
   "field": "Engineering",
   "duration": "12 Semesters",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 150000,
+    "local_total": 75000,
     "international_total": 450000,
     "per_year_local": 12500,
     "per_year_international": 37500,
@@ -20,13 +23,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -38,6 +41,10 @@
     "https://studymalaysia.com/what/course/UMP/0003331/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14",
-  "research_areas": "Bio-Process Engineering"
+  "last_updated": "2026-09-16",
+  "research_areas": "Bio-Process Engineering",
+  "program_name_ar": "دكتوراه فلسفة (Bio-Process Engineering)",
+  "program_name_zh": "哲学博士 (Bio-Process Engineering)",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

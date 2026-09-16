@@ -8,16 +8,32 @@
   "faculty": null,
   "duration": "Full Time: Min. 2 academic years / Part Time: Min. 3 academic years",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "Jul"
+  ],
   "fees": {
     "local": "From RM38,000",
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
-    "local_total": 38000.0,
-    "per_year_local": null,
-    "notes": "Fee: FromRM38,000.00"
+    "local_total": 37999,
+    "per_year_local": 25333,
+    "notes": "Fee: FromRM38,000.00 (per_year based on 1.5yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -25,5 +41,9 @@
     "https://www.studymalaysia.com/edu/sunway/courses/"
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "M.Sc in Psychology",
+  "program_name_zh": "M.Sc in Psychology",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

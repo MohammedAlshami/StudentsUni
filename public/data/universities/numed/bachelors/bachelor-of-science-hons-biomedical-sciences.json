@@ -12,24 +12,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 42640,
+    "local_total": 120720,
     "international_total": 52900,
-    "per_year_local": 40240.0,
+    "per_year_local": 40240,
     "per_year_international": 44100.0,
     "notes": "RM40,240/Yr local, RM44,100/Yr international, for each of the three years of the programme (both NUMed Malaysia and Newcastle UK)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -54,5 +54,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) Biomedical Sciences",
+  "program_name_zh": "Science (Hons) Biomedical Sciences学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

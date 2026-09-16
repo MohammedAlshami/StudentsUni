@@ -12,5 +12,13 @@
     "master-of-medical-science",
     "master-of-arts-in-teaching-of-english-as-a-second-language",
     "master-of-business-administration-2"
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

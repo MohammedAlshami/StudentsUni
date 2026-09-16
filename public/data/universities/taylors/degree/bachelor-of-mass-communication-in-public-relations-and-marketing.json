@@ -15,7 +15,7 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 37881,
+    "local_total": 279000,
     "international_total": 44598,
     "per_year_local": 93000,
     "per_year_international": 31420,
@@ -23,18 +23,17 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Prerequisites: Pass SPM/O-level or equivalent with 5 credits including English for entry with pre-university / foundation qualification (Except for UEC). Pass SPM/O-level or equivalent with 3 credits including English for entry with Diploma qualification. Entry Pathway Any one of these: Taylor’s Foundation in Arts (FIA): Pass with min. CGPA 2.00  Taylor’s Diploma in Communication (DICM): Pass with min. CGPA 2.00  Sijil Tinggi Persekolahan Malaysia (STPM): CC Unified Examination Certificate (UEC): Pass with min. 5Bs including English (Note: Candidates without a Grade ‘B’ in UEC English may be admitted if the candidate has a credit in English at SPM or equivalent) A Level: Min. DD (2 subjects) AUSMAT (SACEi): Min. ATAR 55 Canadian Pre-University (CPU): Min. average of 55% in 6 subjects International Baccalaureate (IB): Min. 24 points in 6 subjects Monash University Foundation Year (MUFY): 50% Other Qualifications: Pass Foundation / Pre-University from any other institution recognised by MOHE with min CGPA 2.0; or Pass Diploma from any other institution recognised by MOHE with min CGPA 2.0 or Pass Diploma in Media and Communication or its equivalent; or (Pre-requisite of credit in English at SPM level or equivalent is not required) Pass Matriculation from an institution recognised by MOHE; or Any other equiv. qualification recognized by M&#39;sian Government. Application via APEL A is allowed. For the requirements please refer to the index page. Note: Candidates without a credit in English at SPM level or its equivalent may be admitted if the STPM / Foundation / Diploma / Matriculation programme contains subjects in English that are equivalent or higher to English at SPM level. English Requirements: LOCAL STUDENTS: IELTS, TOEFL, MUET, UEC English: Pass English Taylor&#39;s EET: Overall score 5.0 Taylor&#39;s IEN: Level 2 - Grade C Pre-University/Diploma: Complete Pre-University/Diploma that was conducted in English INTERNATIONAL STUDENTS: IELTS: 5.5 Pre-U / Diploma: Completed Pre-U / Diploma that was conducted in English  "
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -57,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Mass Communication (Honours) in Public Relations and Marketing",
+  "program_name_zh": "Mass Communication (Honours) in Public Relations and Marketing学士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

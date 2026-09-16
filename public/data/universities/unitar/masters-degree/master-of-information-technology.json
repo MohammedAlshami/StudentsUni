@@ -17,7 +17,9 @@
     "international": "20080/Course",
     "local_total": 19450,
     "currency": "MYR",
-    "international_total": 33635
+    "international_total": 33635,
+    "per_year_local": 19450,
+    "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": null,
   "accreditation": null,
@@ -35,5 +37,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Information Technology",
+  "program_name_zh": "Information Technology硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

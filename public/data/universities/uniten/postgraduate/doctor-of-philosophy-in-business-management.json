@@ -24,12 +24,22 @@
       "registration": "USD1,650 (RM6,600)"
     },
     "currency": "MYR",
-    "local_total": 8550,
+    "local_total": 59850,
     "per_year_local": 8550
   },
   "requirements": {
-    "local": "Master's degree in Business or related field, or Bachelor's degree with First Class Honours",
-    "international": "Master's degree in Business or related field, English proficiency"
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_code": null,
@@ -45,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Business Management",
+  "program_name_zh": "哲学博士 in Business Management",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

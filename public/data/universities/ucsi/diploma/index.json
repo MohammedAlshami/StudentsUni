@@ -5,22 +5,69 @@
   "level_name": "Diploma Level",
   "total_programs": 14,
   "programs": [
-    {"program_name": "Diploma in Fashion Design", "slug": "diploma-in-fashion-design"},
-    {"program_name": "Diploma in Logistics Management", "slug": "diploma-in-logistics-management"},
-    {"program_name": "Diploma in Management", "slug": "diploma-in-management"},
-    {"program_name": "Diploma in Interior Architecture", "slug": "diploma-in-interior-architecture"},
-    {"program_name": "Diploma in 3D Animation Design", "slug": "diploma-in-3d-animation-design"},
-    {"program_name": "Diploma in Finance", "slug": "diploma-in-finance"},
-    {"program_name": "Diploma in Music Performance", "slug": "diploma-in-music-performance"},
-    {"program_name": "Diploma in Culinary Arts", "slug": "diploma-in-culinary-arts"},
-    {"program_name": "Diploma in Hotel Management", "slug": "diploma-in-hotel-management"},
-    {"program_name": "Diploma in Graphic Design", "slug": "diploma-in-graphic-design"},
-    {"program_name": "Diploma in Information Technology", "slug": "diploma-in-information-technology"},
-    {"program_name": "Diploma in Architectural Studies", "slug": "diploma-in-architectural-studies"},
-    {"program_name": "Diploma in Aquaculture with Entrepreneurship", "slug": "diploma-in-aquaculture-with-entrepreneurship"}
+    {
+      "program_name": "Diploma in Fashion Design",
+      "slug": "diploma-in-fashion-design"
+    },
+    {
+      "program_name": "Diploma in Logistics Management",
+      "slug": "diploma-in-logistics-management"
+    },
+    {
+      "program_name": "Diploma in Management",
+      "slug": "diploma-in-management"
+    },
+    {
+      "program_name": "Diploma in Interior Architecture",
+      "slug": "diploma-in-interior-architecture"
+    },
+    {
+      "program_name": "Diploma in 3D Animation Design",
+      "slug": "diploma-in-3d-animation-design"
+    },
+    {
+      "program_name": "Diploma in Finance",
+      "slug": "diploma-in-finance"
+    },
+    {
+      "program_name": "Diploma in Music Performance",
+      "slug": "diploma-in-music-performance"
+    },
+    {
+      "program_name": "Diploma in Culinary Arts",
+      "slug": "diploma-in-culinary-arts"
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "slug": "diploma-in-hotel-management"
+    },
+    {
+      "program_name": "Diploma in Graphic Design",
+      "slug": "diploma-in-graphic-design"
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "slug": "diploma-in-information-technology"
+    },
+    {
+      "program_name": "Diploma in Architectural Studies",
+      "slug": "diploma-in-architectural-studies"
+    },
+    {
+      "program_name": "Diploma in Aquaculture with Entrepreneurship",
+      "slug": "diploma-in-aquaculture-with-entrepreneurship"
+    }
   ],
   "sources": [
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 55000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+  }
 }

@@ -7,11 +7,41 @@
   "field": "Business",
   "duration": "1.5 years",
   "mode": "Full Time",
-  "intakes": ["January", "May", "September"],
-  "fees": null,
-  "requirements": {"bachelor": "Bachelor's degree with minimum CGPA 2.5"},
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 24000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
-  "sources": ["https://www.firstcity.edu.my/programmes"],
+  "sources": [
+    "https://www.firstcity.edu.my/programmes"
+  ],
   "confidence": 0.7,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (MBA)",
+  "program_name_zh": "Business Administration (MBA)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

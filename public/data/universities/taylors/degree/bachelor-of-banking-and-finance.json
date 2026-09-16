@@ -15,7 +15,7 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 39717,
+    "local_total": 298290,
     "international_total": 46398,
     "per_year_local": 99430,
     "per_year_international": 33257,
@@ -23,18 +23,17 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Prerequisites: SPM / O-Level with Pre-U / Foundation: Pass SPM / O-Level or equivalent with 5 credits (including credits in Mathematics and pass in English) for entry with pre-university/ foundation qualification (Except for UEC) SPM / O-Level with Diploma: Pass SPM / O-Level or equivalent with 3 credits for entry with Diploma qualification. Entry Pathway: Any one of these: Taylor&#39;s Foundation: Pass any Taylor&#39;s Foundation programme with minimum CGPA 2.50 Taylor&#39;s Diploma: Pass any Taylor&#39;s Diploma in Finance, Banking, Insurance or related field with a minimum CGPA of 2.50 Sijil Tinggi Persekolahan Malaysia (STPM): Minimum Grade C+ (GPA 2.33) in any two subjects Unified Examination Certificate (UEC): Minimum 5Bs with a maximum of 26 points including Mathematics and a pass in English. Candidates without a Grade B in UEC Mathematics and a pass in UEC English may be admitted if the candidate has a credit in Mathematics and a pass in English at SPM or equivalent A Level: Minimum DD  AUSMAT (SACEi) : Minimum ATAR 60 Canadian Pre-University (CPU): Minimum average of 55% in 6 subjects International Baccalaureate (IB): Minimum 26 points and above for 6 subjects Monash University Foundation Year (MUFY): Overall 60% Other Equivalent Qualifications: Business Foundation from other accredited institutions with a minimum CGPA of 2.50 Diploma in Finance, Banking, Insurance or a related field from an accredited institution with a minimum CGPA of 2.50 Other foundation, matriculation/high school certificates/ diploma (Year 12) from other accredited institution with minimum CGPA of 2.50 Application via APEL A is allowed Note: Candidates without a credit in Mathematics and pass in English at SPM level or its equivalent may be admitted if the STPM / Matriculation / Foundation programme contains subjects in Mathematics and English that are equivalent and achieved higher at SPM level English Requirements: IELTS: Band 6.0 TOEFL: 60 (Internet Based Test) Cambridge English/ELS also recognised; the minimum score varies by programme MUET: Band 4 Pre-U/ Diploma: Completed Pre-U/ Diploma conducted in English Note: International students with non-English qualifications are required to achieve a minimum score of 6.0 for IELTS (you may join IEN preparatory course)"
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -57,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Banking and Finance (Honours)",
+  "program_name_zh": "Banking and Finance (Honours)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

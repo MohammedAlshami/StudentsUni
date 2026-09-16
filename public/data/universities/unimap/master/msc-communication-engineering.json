@@ -15,15 +15,25 @@
     "local": "10490/Course",
     "international": "18260/Course",
     "currency": "MYR",
-    "local_total": 10490,
+    "local_total": 31470,
     "international_total": 18260,
     "per_year_local": 10490,
     "per_year_international": 18260,
     "notes": "Fee data from StudyMalaysia."
   },
   "requirements": {
-    "entry_requirements": null,
-    "minimum_cgpa": null
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa": true,
@@ -34,5 +44,9 @@
     "https://www.studymalaysia.com/edu/unimap/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "M.Sc.(Communication Engineering)",
+  "program_name_zh": "M.Sc.(Communication Engineering)",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

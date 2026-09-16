@@ -11,21 +11,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 40800,
+    "local_total": 36676,
     "international_total": 46560,
-    "per_year_local": "RM36,676 per year",
+    "per_year_local": 36676,
     "per_year_international": "RM40,386 per year",
     "notes": null
   },
   "requirements": {
     "malaysian": {
-      "bachelor_degree": null,
-      "cgpa": null
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
-      "bachelor_degree": null,
-      "cgpa": null,
-      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -47,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Postgraduate Diploma in Business and Commerce",
+  "program_name_zh": "Postgraduate Diploma in Business and Commerce",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

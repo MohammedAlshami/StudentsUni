@@ -7,17 +7,42 @@
   "field": "Digital Marketing & Media",
   "duration": "FT: 1+ year; PT: 2 years 5 months",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM34,800.00",
-    "international": "RM38,800.00"
+    "international": "RM38,800.00",
+    "local_total": 34800,
+    "international_total": 38800.0,
+    "currency": "MYR",
+    "per_year_local": 17400
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/msc-of-science-digital-marketing",
     "https://www.studymalaysia.com/what/course/APU/0058655/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science in Digital Marketing",
+  "program_name_zh": "Science in Digital Marketing硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

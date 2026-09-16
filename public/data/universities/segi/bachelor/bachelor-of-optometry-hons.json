@@ -16,11 +16,23 @@
     "international": "Refer to the Univ.",
     "local_total": 26800,
     "currency": "MYR",
-    "international_total": 32063
+    "international_total": 32063,
+    "per_year_local": 6700,
+    "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
-    "academic": null,
-    "general_text": "Any one of these: SPM 5 credits including 3 Science subjects STPM (Science) with minimum CGPA of 2.50 UEC (minimum B5 in 3 Science subjects, B6 in other 2 other subjects and must have passed SPM) 3Ds in A-Level (Science) Foundation/Pre-University (Science) with CGPA of 2.5 or above Any equivalent Pre-U qualifications (Science)  Diploma in any Science discipline (CGPA of 2.75 or above) Diploma in Opticianry or Optical Dispensing (CGPA of 2.75 or above)  "
+    "malaysian": {
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -42,5 +54,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Optometry (Hons)",
+  "program_name_zh": "Optometry (Hons)学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

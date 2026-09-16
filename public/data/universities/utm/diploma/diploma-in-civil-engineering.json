@@ -4,9 +4,11 @@
   "level": "diploma",
   "program_name": "Diploma in Civil Engineering",
   "field": "Engineering",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": [
+    "September"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 3900,
@@ -17,16 +19,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics and Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -38,5 +40,9 @@
     "https://www.studymalaysia.com/edu/utm/courses/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Civil Engineering",
+  "program_name_zh": "Civil Engineering文凭",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

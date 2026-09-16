@@ -14,22 +14,23 @@
     "international": "RM44,200",
     "local_total": 58000,
     "currency": "MYR",
-    "international_total": 66000
+    "international_total": 66000,
+    "per_year_local": 58000,
+    "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Entry Requirements Academic Qualifications: A second-class honours degree (2:2) or international equivalent in a relevant subject. Non-UK qualifications will be assessed accordingly. Creative Writing Sample: Applicants must submit a sample of written work as part of the application. The university will provide full details on how and when to submit this. Institution Recognition: Applicants must hold a degree from a recognised university. While students from all academic backgrounds are considered, some programmes may require related prior study. Interview (if applicable): An interview may be required for further evaluation during the admissions process. English Language Requirements One of the following test scores is required if your previous education was not conducted in English: Note: IELTS (Academic): 6.5 overall, with no component below 6.0 TOEFL iBT: 90 overall Minimum: 19 (Writing &amp; Listening), 20 (Reading), 22 (Speaking) PTE Academic: 71 overall, with no component below 65 MUET: Band 4.5 (valid for 5 years) IELTS One Skill Retake is accepted. Online versions (IELTS Academic Online, TOEFL iBT Home Edition, PTE Academic Online) are not accepted. All other English test scores must be less than 2 years old at the time of application."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -51,6 +52,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "ma-english-with-creative-writing"
+  "last_updated": "2026-09-16",
+  "slug": "ma-english-with-creative-writing",
+  "program_name_ar": "M.A. English with Creative Writing",
+  "program_name_zh": "M.A. English with Creative Writing",
+  "field_ar": "اللغة الإنجليزية",
+  "field_zh": "英语"
 }

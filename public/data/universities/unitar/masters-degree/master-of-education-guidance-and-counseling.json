@@ -15,9 +15,11 @@
   "fees": {
     "local": "23580/Course",
     "international": "23580/Course",
-    "local_total": 10875,
+    "local_total": 10874,
     "currency": "MYR",
-    "international_total": 19815
+    "international_total": 19815,
+    "per_year_local": 8156,
+    "notes": " (per_year based on 1.3333333333333333yr duration)"
   },
   "requirements": null,
   "accreditation": null,
@@ -30,5 +32,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Education (Guidance and Counseling)",
+  "program_name_zh": "Education (Guidance and Counseling)硕士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

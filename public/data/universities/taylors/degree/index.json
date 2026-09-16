@@ -9,14 +9,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/undergraduate/bachelor-of-science-in-architecture.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -28,14 +35,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/undergraduate/bachelor-of-art-in-interior-architecture.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -47,14 +61,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/undergraduate/bachelor-of-quantity-surveying.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -66,14 +87,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/undergraduate/bachelor-of-science-honours-in-sustainable-digital-construction-management.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -85,14 +113,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-biomedical-science.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -104,14 +139,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-food-science.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -123,14 +165,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-biotechnology.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -142,14 +191,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-applied-health-sciences.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -160,10 +216,18 @@
     "slug": "bachelor-of-business",
     "duration": "3 years",
     "mode": "Full Time",
-    "intakes": ["February", "April", "September"],
+    "intakes": [
+      "February",
+      "April",
+      "September"
+    ],
     "fees": {
-      "local": "MYR 129,830",
-      "international": "USD 42,309"
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
     },
     "requirements": {
       "spm": "5 credits including Mathematics and English",
@@ -174,7 +238,7 @@
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-business.html"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -186,14 +250,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-business-in-international-business-and-marketing.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -205,14 +276,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-accounting-and-finance.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -224,14 +302,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-banking-and-finance.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -243,14 +328,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-finance-and-economics.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -262,14 +354,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-actuarial-studies.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -281,14 +380,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-entrepreneurship-in-team-enterpreneurship.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -300,14 +406,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-accounting-fintech.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -319,14 +432,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/bachelor-of-patisserie-arts.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -338,14 +458,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/bachelor-of-science-culinology.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -357,14 +484,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/bachelor-of-culinary-management.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -376,14 +510,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication-in-advertising-and-brand-management.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -395,14 +536,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication-digital-media-production.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -414,14 +562,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -433,14 +588,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication-in-public-relation-and-event-management.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -452,14 +614,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication-in-public-relations-and-marketing.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -470,10 +639,18 @@
     "slug": "bachelor-of-computer-science",
     "duration": "3 years",
     "mode": "Full Time",
-    "intakes": ["February", "April", "September"],
+    "intakes": [
+      "February",
+      "April",
+      "September"
+    ],
     "fees": {
-      "local": "MYR 121,730",
-      "international": "USD 40,049"
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
     },
     "requirements": {
       "spm": "5 credits including Additional Mathematics",
@@ -484,7 +661,7 @@
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/undergraduate/bachelor-of-computer-science.html"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -496,14 +673,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/undergraduate/bachelor-of-software-engineering.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -515,14 +699,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/undergraduate/bachelor-of-information-technology.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -534,14 +725,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/design/undergraduate/bachelor-in-interactive-spatial-design.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -553,14 +751,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/design/undergraduate/bachelor-of-fashion-design-technology.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -572,14 +777,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/design/undergraduate/bachelor-of-design-in-creative-media.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -591,14 +803,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/undergraduate/bachelor-of-education.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -610,14 +829,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/undergraduate/bachelor-of-chemical-engineering.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -629,14 +855,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/undergraduate/bachelor-of-electrical-and-electronic-engineering.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -648,14 +881,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/undergraduate/bachelor-of-mechanical-engineering.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -667,14 +907,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/undergraduate/bachelor-of-mechatronics-engineering.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -686,14 +933,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/undergraduate/bachelor-of-international-hospitality-management.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -705,14 +959,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/undergraduate/bachelor-of-international-events-management.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -724,14 +985,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/undergraduate/bachelor-of-international-tourism-management.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -743,14 +1011,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/undergraduate/bachelor-of-laws.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -762,14 +1037,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/undergraduate/bachelor-in-philosophy-politics-and-economics.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -781,14 +1063,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/american-degree-transfer-program.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -800,14 +1089,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/bachelor-of-performing-arts.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -819,14 +1115,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/bachelor-of-psychology.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -838,14 +1141,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/bachelor-of-social-science-in-international-relations.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -857,14 +1167,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 105000,
+      "international_total": null,
+      "per_year_local": 35000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/general-studies-and-languages/undergraduate/intensive-english.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -876,14 +1193,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/undergraduate/bachelor-of-pharmacy.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -895,14 +1219,21 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/undergraduate/bachelor-of-pharmaceutical-science.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Taylor's University",
@@ -914,13 +1245,20 @@
     "duration": null,
     "mode": "Full Time",
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/medicine/undergraduate/bachelor-of-medicine-bachelor-of-surgery.html"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

@@ -5,15 +5,43 @@
   "program_name": "Postgraduate Diploma in Education (DPLI)",
   "field": "Education",
   "slug": "postgraduate-diploma-in-education-dpli",
-  "duration": null,
+  "duration": "3 years",
   "mode": null,
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 15999,
+    "international_total": null,
+    "per_year_local": 5333,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "N/0114/7/0055 (8/2/2031) (MQA/PA 18809)",
   "sources": [
     "https://unishams.edu.my/component/content/article/postgraduate-diploma-in-education?catid=11"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Postgraduate Diploma in Education (DPLI)",
+  "program_name_zh": "Postgraduate Diploma in Education (DPLI)",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

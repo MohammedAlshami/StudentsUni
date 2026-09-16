@@ -14,24 +14,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12000,
+    "local_total": 11998,
     "international_total": 16983,
-    "per_year_local": null,
+    "per_year_local": 4965,
     "per_year_international": null,
-    "notes": "Local: RM27,700.00; International: RM57,595.00"
+    "notes": "Local: RM27,700.00; International: RM57,595.00 (per_year based on 2.4166666666666665yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Passed SPM/GCE O-Levels with at least CREDIT in any THREE (3) subjects, also passed Art Education (Pendidikan Seni); Certificate in a relevant field (MQF Level 3) with minimum CGPA 2.00; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Fashion Design",
+  "program_name_zh": "Fashion Design文凭",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

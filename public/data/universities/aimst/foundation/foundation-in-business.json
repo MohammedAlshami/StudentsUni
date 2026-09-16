@@ -7,18 +7,22 @@
   "field": "Business",
   "duration": "1 year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 16000,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 16000,
     "per_year_international": null,
-    "notes": "Refer to university"
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -26,8 +30,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -40,5 +44,9 @@
     "https://www.studymalaysia.com/what/course/AIMST/0006151/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Business",
+  "program_name_zh": "Business预科",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

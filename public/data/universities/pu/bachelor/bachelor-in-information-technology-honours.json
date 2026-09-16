@@ -13,22 +13,23 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 18067,
+    "local_total": 18066,
     "international_total": 20634,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 6022
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum Grade of C (CGPA 2.0) in any TWO (2) subjects and a credit in Mathematics at SPM level or its equivalent; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum Grade of Jayyid in any TWO (2) subjects and a credit in Mathematics at SPM level or its equivalent; OR A pass in Matriculation or Foundation studies with a minimum CGPA of 2.00 and a credit in Mathematics at SPM level or its equivalent; OR Candidates with a pass in Mathematics at SPM level need to take and pass the reinforcement Mathematics subject that is equivalent to the SPM Level. The reinforcement Mathematics subject must be offered in first semester or before enrolment with unconditional offer. OR Diploma in Computing fields (Level 4, MQF) or equivalent with a minimum CGPA of 2.50. Candidates with a CGPA below 2.50 but more than 2.00 may be admitted subject to a thorough rigorous assessment; OR Diploma Kemahiran Malaysia (DKM)* I Diploma Vokasional Malaysia (DVM)* in Computing fields with a minimum CGPA of 2.50 subjected to HEP Senate I Academic Board&#39;s approval; OR Diploma Lanjutan Kemahiran Malaysia (DLKM)* in Computing fields with a minimum CGPA of 2.50 subjected to HEP Senate I Academic Board&#39;s approval; OR Diploma (Level 4 Malaysian Qualifications Framework, MQF) in Non-Computing with a minimum CGPA of 2.75. Candidates with a CGPA below 2.75 but more than 2.50 can be admitted subject to a thorough rigorous assessment; OR Other relevant and equivalent qualifications recognised by the Malaysian Government."
   },
@@ -51,5 +52,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Information Technology (Honours)",
+  "program_name_zh": "Information Technology (Honours)学士",
+  "field_ar": "Computing",
+  "field_zh": "Computing"
 }

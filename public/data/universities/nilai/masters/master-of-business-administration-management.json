@@ -16,24 +16,23 @@
     "currency": "MYR",
     "local_total": 27280,
     "international_total": 37800,
-    "per_year_local": null,
+    "per_year_local": 27280,
     "per_year_international": null,
-    "notes": "Local: 25200/Course; International: 25200/Course"
+    "notes": "Local: 25200/Course; International: 25200/Course (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Bachelor’s Degree (Level 6, MQF) In a Related Field: Pass with a minimum CGPA of 2.50 OR Pass with a minimum CGPA of 2.00-2.50 may require an internal assessment. In a Non-Related Field: Pass with a minimum CGPA of 2.00 and relevant working experience may require an internal assessment. OR Pass with a minimum CGPA of 2.00 and without relevant working experience may require the completion of prerequisite courses. English Language Requirements (for International Students) MUET: Minimum 4.0 IELTS: Minimum 6.0 TOEFL: Ess Online: Minimum 8.5 iBT: Minimum 60 Pearson: Minimum 59 Linguaskill: Minimum 169 Admission via APEL (Accreditation of Prior Experiential Learning) For those without the required formal qualification, but with relevant work experience: Malaysian citizens aged 30 years or older Must possess at least STPM, A-level, Diploma, or an Equivalent qualification Must have relevant work experience. APEL allows applicants to be assessed based on their prior learning and work experience as an alternative entry method for the Master of Business Administration programmes"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -67,5 +66,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (Management)",
+  "program_name_zh": "Business Administration (Management)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

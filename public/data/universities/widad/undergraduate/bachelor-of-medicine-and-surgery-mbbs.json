@@ -4,11 +4,35 @@
   "level": "bachelor",
   "program_name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
   "field": "Medicine",
-  "duration": null,
+  "duration": "5 years",
   "mode": "Full Time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 240000,
+    "international_total": null,
+    "per_year_local": 48000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 5.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     {
@@ -17,5 +41,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Medicine and Bachelor of Surgery (MBBS)",
+  "program_name_zh": "Medicine and Bachelor of Surgery (MBBS)学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

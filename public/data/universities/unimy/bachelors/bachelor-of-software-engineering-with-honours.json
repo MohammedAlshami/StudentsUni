@@ -6,17 +6,40 @@
   "field": "Computing",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM50,000",
-    "international": "RM51,000"
+    "international": "RM51,000",
+    "local_total": 49998,
+    "per_year_local": 16666
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/unimy/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-software-engineering-with-honours"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-software-engineering-with-honours",
+  "program_name_ar": "بكالوريوس Software Engineering with Honours",
+  "program_name_zh": "Software Engineering with Honours学士",
+  "field_ar": "Computing",
+  "field_zh": "Computing"
 }

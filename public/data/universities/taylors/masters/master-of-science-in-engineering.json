@@ -17,13 +17,26 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 16550,
+    "local_total": 58600,
     "international_total": 22859,
     "per_year_local": 29300,
     "per_year_international": 12520,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/master-research/master-of-science-in-engineering.html",
@@ -40,5 +53,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science in Engineering",
+  "program_name_zh": "Science in Engineering硕士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

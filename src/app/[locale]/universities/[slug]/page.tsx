@@ -74,11 +74,15 @@ export default async function UniversityDetailPage({
   const institutionsList = JSON.parse(fs.readFileSync(institutionsPath, "utf-8")).institutions as Array<{
     slug: string;
     name: string;
+    name_ar?: string;
+    name_zh?: string;
     abbr: string;
   }>;
   const canonical = institutionsList.find((i) => i.slug === slug);
 
-  const displayName = canonical?.name || info.name || info.university || slug;
+  const displayName = locale === "ar" ? (canonical?.name_ar || canonical?.name || info.name || info.university || slug)
+    : locale === "zh" ? (canonical?.name_zh || canonical?.name || info.name || info.university || slug)
+    : (canonical?.name || info.name || info.university || slug);
   const displayAbbr = canonical?.abbr || info.abbreviation || info.abbr || "";
   const image = getUniversityImage(slug);
   const coverPhoto = UNIVERSITY_PHOTOS[slug] ?? null;

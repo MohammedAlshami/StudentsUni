@@ -15,24 +15,25 @@
   "fees": {
     "local": null,
     "international": null,
-    "local_total": 12784,
+    "local_total": 12783,
     "currency": "MYR",
-    "international_total": 16667
+    "international_total": 16667,
+    "per_year_local": 4261,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Entry Requirements STPM: A pass with a minimum Grade Point of 2.00 in any TWO (2) subjects and a pass in Mathematics and English at SPM level. Note: The requirement for a pass in Mathematics and English at the SPM level can be excluded if the candidate obtained a credit or higher grade at STPM. A-Level: A pass with a minimum Grade D in any TWO (2) subjects, and a pass in Mathematics and English at SPM level. Matriculation / Foundation / Pre-University: A pass with a minimum CGPA of 2.00 from an institution recognized by the Malaysian Government. Sijil Tinggi Agama Malaysia (STAM): A pass with a minimum grade of Jayyid and a pass in Mathematics and English at SPM level. Note: The requirement for a pass in Mathematics and English at the SPM level can be excluded if the candidate obtained a credit or higher grade at STAM. UEC: A pass with a minimum grade B in FIVE (5) subjects, including a pass in Mathematics &amp; English. Diploma: A Diploma with a minimum CGPA of 2.00 from universities/colleges recognized by the Malaysian Government. International Baccalaureate (IB): A pass with a minimum score of 30 points. Others: Other equivalent qualifications recognized by MQA/Malaysian Government, including: Diploma Kolej Vokasional (DVM) Diploma Executive UM APEL (Accreditation of Prior Experiential Learning) International Students: A minimum score of: IELTS 5.5 / CEFR B1 TOEFL PBT (410-413) TOEFL IBT (34) CAE (160) (Cambridge English: Advanced) / CEFR B2 CPE (180) (Cambridge English: Proficiency) / CEFR C1 PTE (Pearson Test of English) (36) A minimum of Grade C in First Cambridge English (FCE) minimum scale MUET (Malaysian University English Test) (Band 3) Successful attainment of FCE minimum of Grade C (162) conducted by the Centre for English Language (CEL) within 12 months from the date of entry with a conditional offer letter. Note: The validity period for TOEFL and IELTS is TWO (2) years from the date of the award."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -54,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Economics (Hons)",
+  "program_name_zh": "Economics (Hons)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

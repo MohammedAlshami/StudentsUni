@@ -15,7 +15,7 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 36827,
+    "local_total": 283500,
     "international_total": 43562,
     "per_year_local": 94500,
     "per_year_international": 31848,
@@ -23,18 +23,17 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Prerequisites: Pass SPM/O-level or equivalent with 5 credits with foundation qualification (Except for UEC). Pass SPM/O-level or equivalent with 3 credits for entry with Diploma qualification. Pass Visual Test: Pass Visual Test (Taylor&#39;’s FID, DID and FNBE are exempted from the Entrance Test) Entry Pathway: Any of these Taylor’s Foundation in Design (FID): Pass with min. CGPA 2.00 Taylor’s Foundation in Natural and Built Environments (FNBE): Pass with min. CGPA 2.00 Other Taylor&#39;s Foundation: Pass with min. CGPA 2.00 Taylor’s Diploma in Interior Design (DID): Pass with min. CGPA 2.00 Sijil Tinggi Persekolahan Malaysia (STPM): CC  Unified Examination Certificate (UEC): Pass with min. 5Bs A Level: Min. grades DD AUSMAT (SACEi): Min. ATAR 60 Canadian Pre-University (CPU): Min. average of 55% in 6 subjects MUFY: Overall 50% IB: Min 24 points in 6 subjects Other Qualifications Foundation from institution recognised by Malaysian Government with min. CGPA 2.00 Diploma from institution recognised by Malaysian Government with min. CGPA 2.00 MoE Matriculation with min. CGPA 2.00 A pass in DKM/DKLM/DVM in suitable fields with a min. CGPA of 2.50 subject to Senate approval (Note: The HEPs are to conduct screening and provide necessary guidance specific to the discipline of the programme); A pass in DKM / DLKM / DVM with a min. CGPA of 2.00 and at least have two (2) years working experience in a related discipline Any other qualification recognised by Malaysian govt. Application via APEL A is allowed English Requirements: MUET/IELTS/TOEFL/UEC English: Pass Taylor&#39;s EET: Overall Score 4.0 Cambridge English/ELS also recognised; the minimum score varies by programme Taylor&#39;s IEN: Level 2 - Grade C Pre-U/Diploma: Completed Pre-U/Diploma that was conducted in English  "
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -57,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Fashion Design Technology (Honours)",
+  "program_name_zh": "Fashion Design Technology (Honours)学士",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
 }

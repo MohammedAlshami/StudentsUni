@@ -6,14 +6,43 @@
   "field": "Science",
   "duration": "6 semesters",
   "mode": "Full-time",
-  "intakes": ["September"],
-  "fees": {"currency": "MYR", "local_total": 6174, "international_total": 9000, "per_year_local": 2058, "per_year_international": 3000, "notes": "Per semester: MYR 1,029 local, MYR 1,500 international"},
-  "requirements": {
-    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
-    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 6174,
+    "international_total": 9000,
+    "per_year_local": 2058,
+    "per_year_international": 3000,
+    "notes": "Per semester: MYR 1,029 local, MYR 1,500 international"
   },
-  "accreditation": {"mqa_status": null, "mqa_ref": null},
-  "sources": ["https://www.studymalaysia.com/what/course/UPSI/0000998/", "https://fsmt.upsi.edu.my/diploma-in-laboratory-technology/"],
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Science",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UPSI/0000998/",
+    "https://fsmt.upsi.edu.my/diploma-in-laboratory-technology/"
+  ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Laboratory Technology",
+  "program_name_zh": "Laboratory Technology文凭",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

@@ -7,17 +7,42 @@
   "field": "Accounting & Finance",
   "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM99,800.00",
-    "international": "RM104,600.00"
+    "international": "RM104,600.00",
+    "local_total": 99801,
+    "international_total": 104600.0,
+    "currency": "MYR",
+    "per_year_local": 33267
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/bachelor-of-accounting-finance",
     "https://www.studymalaysia.com/what/course/APU/0005279/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accounting and Finance (Honours)",
+  "program_name_zh": "Accounting and Finance (Honours)学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

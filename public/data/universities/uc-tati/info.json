@@ -6,7 +6,12 @@
   "state": "Terengganu",
   "city": "Kemaman",
   "website": "https://www.uctati.edu.my",
-  "levels_available": ["foundation", "diploma", "bachelor", "postgraduate"],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "postgraduate"
+  ],
   "program_counts": {
     "foundation": 2,
     "diploma": 13,
@@ -25,6 +30,14 @@
       "note": "Main page with 26 degree/diploma, 7 postgrad, 2 foundation, 51 short courses"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "Leading TVET university college in Terengganu. 2 faculties: FKMPT (Computer, Media & Tech Management), FTK (Engineering Technology). Also City Campus. DKU006(T). Setara 5 rating. THE WUR listed. MBOT accredited programs. Ruane-TATI and TATI Skills subsidiaries."
+  "last_updated": "2026-09-16",
+  "notes": "Leading TVET university college in Terengganu. 2 faculties: FKMPT (Computer, Media & Tech Management), FTK (Engineering Technology). Also City Campus. DKU006(T). Setara 5 rating. THE WUR listed. MBOT accredited programs. Ruane-TATI and TATI Skills subsidiaries.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

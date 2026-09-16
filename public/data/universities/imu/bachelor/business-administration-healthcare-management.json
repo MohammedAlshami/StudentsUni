@@ -3,14 +3,17 @@
   "field": "",
   "duration": "3 years",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Jul",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 114600,
     "international_total": 126000,
-    "per_year_local": null,
+    "per_year_local": 38200,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -39,5 +42,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business Administration with Healthcare Management (Hons)",
+  "program_name_zh": "Business Administration with Healthcare Management (Hons)学士"
 }

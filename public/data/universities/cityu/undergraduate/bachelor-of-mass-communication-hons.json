@@ -17,24 +17,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 15700,
+    "local_total": 15699,
     "international_total": 19417,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 5233
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of these:  A pass in STPM or its equivalent, with a minimum of Grade C (GPA 2.00) in any two subjects and a credit in English at SPM or its equivalent A pass in STAM with a minimum grade of Jayyid and a credit in English at SPM or its equivalent A Diploma or its equivalent, with a minimum CGPA of 2.00 and a credit in English at SPM or its equivalent A Diploma in Media and Communication or its equivalent Matriculation/Foundation or its equivalent, with a minimum CGPA of 2.00 and credit in English at SPM or its equivalent. Pass DKM/DLKM/DVM (HEP is required to implement a screening and bridging program which correspond to the program field). English Requirements For International Students International English Language Testing System (IELTS) score of 5.0 OR its equivalent."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": "MQA",
   "sources": [
@@ -55,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Mass Communication (Hons)",
+  "program_name_zh": "Mass Communication (Hons)学士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

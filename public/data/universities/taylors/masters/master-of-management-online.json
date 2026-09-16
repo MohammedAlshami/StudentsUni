@@ -6,15 +6,45 @@
   "slug": "master-of-management-online",
   "program_slug": "master-of-management-online",
   "field": "Business",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Online",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Jun",
+    "Nov",
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-online/master-of-management-online.html"
   ],
   "confidence": 0.5,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Management (100% Online)",
+  "program_name_zh": "Management (100% Online)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -1,30 +1,110 @@
 {
   "programs": [
-    {"slug": "msc-finance", "program_name": "M.Sc.(Finance)"},
-    {"slug": "msc-entrepreneurship-technopreneurship", "program_name": "M.Sc.(Entrepreneurship & Technopreneurship)"},
-    {"slug": "msc-marketing", "program_name": "M.Sc.(Marketing)"},
-    {"slug": "msc-economics", "program_name": "M.Sc.(Economics)"},
-    {"slug": "msc-management", "program_name": "M.Sc.(Management)"},
-    {"slug": "msc-polymer-engineering", "program_name": "M.Sc.(Polymer Engineering)"},
-    {"slug": "msc-environmental-engineering", "program_name": "M.Sc.(Environmental Engineering)"},
-    {"slug": "msc-mechanical-engineering", "program_name": "M.Sc.(Mechanical Engineering)"},
-    {"slug": "msc-product-design-engineering", "program_name": "M.Sc.(Product Design Engineering)"},
-    {"slug": "msc-materials-engineering", "program_name": "M.Sc.(Materials Engineering)"},
-    {"slug": "msc-manufacturing-engineering", "program_name": "M.Sc.(Manufacturing Engineering)"},
-    {"slug": "msc-mechatronic-engineering", "program_name": "M.Sc.(Mechatronic Engineering)"},
-    {"slug": "msc-electrical-systems-engineering", "program_name": "M.Sc.(Electrical Systems Engineering)"},
-    {"slug": "msc-computer-engineering", "program_name": "M.Sc.(Computer Engineering)"},
-    {"slug": "msc-microelectronic-engineering", "program_name": "M.Sc.(Microelectronic Engineering)"},
-    {"slug": "msc-bioprocess-engineering", "program_name": "M.Sc.(Bioprocess Engineering)"},
-    {"slug": "msc-communication-engineering", "program_name": "M.Sc.(Communication Engineering)"},
-    {"slug": "mba-engineering-management", "program_name": "Master of Business Administration (Engineering Management)"},
-    {"slug": "msc-embedded-system-design", "program_name": "M.Sc.(Embedded System Design)"},
-    {"slug": "msc-biomedical-electronic-engineering", "program_name": "M.Sc.(Biomedical Electronic Engineering)"},
-    {"slug": "msc-electrical-power-engineering", "program_name": "M.Sc.(Electrical Power Engineering)"},
-    {"slug": "msc-biosystem-engineering", "program_name": "M.Sc.(Biosystem Engineering)"},
-    {"slug": "msc-engineering-mathematics-1", "program_name": "M.Sc.(Engineering Mathematics)"},
-    {"slug": "msc-accounting", "program_name": "M.Sc.(Accounting)"}
+    {
+      "slug": "msc-finance",
+      "program_name": "M.Sc.(Finance)"
+    },
+    {
+      "slug": "msc-entrepreneurship-technopreneurship",
+      "program_name": "M.Sc.(Entrepreneurship & Technopreneurship)"
+    },
+    {
+      "slug": "msc-marketing",
+      "program_name": "M.Sc.(Marketing)"
+    },
+    {
+      "slug": "msc-economics",
+      "program_name": "M.Sc.(Economics)"
+    },
+    {
+      "slug": "msc-management",
+      "program_name": "M.Sc.(Management)"
+    },
+    {
+      "slug": "msc-polymer-engineering",
+      "program_name": "M.Sc.(Polymer Engineering)"
+    },
+    {
+      "slug": "msc-environmental-engineering",
+      "program_name": "M.Sc.(Environmental Engineering)"
+    },
+    {
+      "slug": "msc-mechanical-engineering",
+      "program_name": "M.Sc.(Mechanical Engineering)"
+    },
+    {
+      "slug": "msc-product-design-engineering",
+      "program_name": "M.Sc.(Product Design Engineering)"
+    },
+    {
+      "slug": "msc-materials-engineering",
+      "program_name": "M.Sc.(Materials Engineering)"
+    },
+    {
+      "slug": "msc-manufacturing-engineering",
+      "program_name": "M.Sc.(Manufacturing Engineering)"
+    },
+    {
+      "slug": "msc-mechatronic-engineering",
+      "program_name": "M.Sc.(Mechatronic Engineering)"
+    },
+    {
+      "slug": "msc-electrical-systems-engineering",
+      "program_name": "M.Sc.(Electrical Systems Engineering)"
+    },
+    {
+      "slug": "msc-computer-engineering",
+      "program_name": "M.Sc.(Computer Engineering)"
+    },
+    {
+      "slug": "msc-microelectronic-engineering",
+      "program_name": "M.Sc.(Microelectronic Engineering)"
+    },
+    {
+      "slug": "msc-bioprocess-engineering",
+      "program_name": "M.Sc.(Bioprocess Engineering)"
+    },
+    {
+      "slug": "msc-communication-engineering",
+      "program_name": "M.Sc.(Communication Engineering)"
+    },
+    {
+      "slug": "mba-engineering-management",
+      "program_name": "Master of Business Administration (Engineering Management)"
+    },
+    {
+      "slug": "msc-embedded-system-design",
+      "program_name": "M.Sc.(Embedded System Design)"
+    },
+    {
+      "slug": "msc-biomedical-electronic-engineering",
+      "program_name": "M.Sc.(Biomedical Electronic Engineering)"
+    },
+    {
+      "slug": "msc-electrical-power-engineering",
+      "program_name": "M.Sc.(Electrical Power Engineering)"
+    },
+    {
+      "slug": "msc-biosystem-engineering",
+      "program_name": "M.Sc.(Biosystem Engineering)"
+    },
+    {
+      "slug": "msc-engineering-mathematics-1",
+      "program_name": "M.Sc.(Engineering Mathematics)"
+    },
+    {
+      "slug": "msc-accounting",
+      "program_name": "M.Sc.(Accounting)"
+    }
   ],
   "total": 24,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

@@ -4,13 +4,29 @@
     "program_name": "Doctor Of Philosophy In Education",
     "field": "Education",
     "duration": "2 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   },
   {
     "slug": "phd-in-management",
     "program_name": "PhD in Management",
     "field": "Business",
     "duration": "2 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   }
 ]

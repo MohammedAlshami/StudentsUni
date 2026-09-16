@@ -15,22 +15,22 @@
     "currency": "MYR",
     "local_total": 8502,
     "international_total": 16454,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 2834
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Passed Malaysian Higher School Certificate (Sijil Tinggi Persekolahan Malaysia – STPM) or equivalent by obtaining at least C grade (NGMP: 2.00) in two (2) subjects and passed Mathematics and English at Malaysian Ceritificate of Education (SPM) level or equivalent qualifications; OR Passed the Malaysian Higher Certificate of Religion (STAM) with at least the rank of Jayyid (Good) and passed Mathematics and English at the Malaysian Certificate of Education (SPM) level/ equivalent; OR  Pass the United Examination Certificate (UEC) with at least a B grade in five (5) subjects, including Mathematics and pass English; OR Pass Matriculation/Foundation/AsSI with at least CGPA 2.00 out of 4.00; OR Pass the UNISEL Foundation Year Study Programme with a minimum GPA of 2.00; OR Other qualifications recognised as equivalent to a Diploma or Advanced Diploma (Level 4 or 5, KKM) with at least a CGPA of 2.00; OR Other qualifications are recognised as equivalent by the Malaysian Government."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -51,6 +51,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-human-resource-management-honours"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-human-resource-management-honours",
+  "program_name_ar": "بكالوريوس Human Resource Management (Honours)",
+  "program_name_zh": "Human Resource Management (Honours)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

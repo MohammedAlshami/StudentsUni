@@ -7,16 +7,41 @@
   "slug": "foundation-programme-in-business-administration",
   "duration": "1 Year",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Nov"
+  ],
   "fees": {
-    "local": null,
-    "international": null
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 66000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNIRAZAK/0055962/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Foundation Programme in Business Administration",
+  "program_name_zh": "Foundation Programme in Business Administration",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

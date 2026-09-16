@@ -16,22 +16,24 @@
   "fees": {
     "local": "Refer to newinti.edu.my",
     "international": "Refer to newinti.edu.my",
-    "local_total": 22691,
+    "local_total": 22688,
     "currency": "MYR",
-    "international_total": 22691
+    "international_total": 22691,
+    "per_year_local": 5672,
+    "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "  Foundation : minimum CGPA of 2.0 in Technical or Science Stream Diploma / Advanced Diploma / Degree : A minimum CGPA of 2.0 in a related field • The amount of credit transfer given is subjected to the school’s discretion after reviewing the programme, transcript, and syllabus. • The maximum credit transfer available depends on the limits set by the programme accreditation body (EAC). STPM : Pass STPM and minimum Grade C in Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) A-Level : Pass A-Level and minimum Grade C in Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) UEC : Minimum five (5) subjects at Grade B including Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) SACE : A minimum ATAR of 60 and pass in Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) Local Matriculation : Pass Matriculation and a minimum CGPA of 2.0 in Technical or Science Stream NSW(HSC) : A minimum ATAR of 60 and pass 10 units including Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) Australian Matriculation (AUSMAT) : A minimum ATAR of 60 and pass in Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) Ontario Secondary School Diploma / Canadian Pre-University (CPU) : A minimum average of 60 and pass in Mathematics and 1 natural sciences subject (Physics / Chemistry / Biology) Others : Other equivalent qualifications as recognised by the government of Malaysia"
   },
@@ -57,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Engineering (Hons) in Mechanical Engineering",
+  "program_name_zh": "Engineering (Hons) in Mechanical Engineering学士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

@@ -7,10 +7,13 @@
   "field": "Computing & IT",
   "duration": "1 year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 1650,
+    "local_total": 3300,
     "international_total": 2350,
     "per_year_local": 3300,
     "per_year_international": 4700,
@@ -18,7 +21,7 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics and Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -26,8 +29,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -38,5 +41,9 @@
     "https://www.studymalaysia.com/edu/unimas/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Computing",
+  "program_name_zh": "Computing预科",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

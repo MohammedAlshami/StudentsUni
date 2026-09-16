@@ -7,9 +7,12 @@
   "program_slug": "diploma-in-fisheries",
   "field": "Fisheries",
   "faculty": "Faculty of Fisheries and Aquaculture Sciences",
-  "duration": null,
+  "duration": "3 years",
   "mode": "full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 3900,
@@ -18,12 +21,29 @@
     "per_year_international": 3900,
     "notes": "Standard public university fees (MQA regulated)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://umt.my/all-programs-at-umt/",
     "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Fisheries",
+  "program_name_zh": "Fisheries文凭",
+  "field_ar": "Fisheries",
+  "field_zh": "Fisheries"
 }

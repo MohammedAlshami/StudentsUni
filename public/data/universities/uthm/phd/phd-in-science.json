@@ -8,7 +8,10 @@
   "faculty": "Applied Sciences and Technology",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "local": "9450/Course",
     "international": "USD6220/Course",
@@ -19,12 +22,29 @@
     "per_year_international": 37500,
     "notes": "Standard public university fees (MQA regulated)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "research_areas": "Physics, Mathematics and Statistics, Biology and Chemistry",
   "sources": [
     "https://www.studymalaysia.com/what/course/UTHM/0053952/"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Ph.D in Science",
+  "program_name_zh": "Ph.D in Science",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

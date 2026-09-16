@@ -7,7 +7,11 @@
   "field": "Information Systems - Business Analytics",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "January",
+    "July",
+    "September"
+  ],
   "fees": {
     "local": {
       "tuition": "RM75,000",
@@ -24,9 +28,23 @@
     },
     "currency": "MYR",
     "local_total": 75000,
-    "per_year_local": null
+    "per_year_local": 25000,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "MQA",
   "college": "College of Computing & Informatics (CCI)",
   "sources": [
@@ -38,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Information Systems (Business Analytics) (Honours)",
+  "program_name_zh": "Information Systems (Business Analytics) (Honours)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

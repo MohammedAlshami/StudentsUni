@@ -13,22 +13,23 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 7898,
+    "local_total": 7897,
     "international_total": 15566,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.5yr duration)",
+    "per_year_local": 3159
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Pass Malaysian Certificate of Education (Sijill Pelajaran Malaysia – SPM) or equivalent with a minimum of 3 credits, including Mathematics, and pass English; OR Pass a Malaysian Higher School Certificate (STPM) or equivalent, with a minimum of Grade C (NGMP 2.0) in any subject, and credit in Mathematics and pass English at SPM level; OR Pass a Malaysia Higher Religious Certificate (Sijil Tinggi Agama Malaysia – STAM) with a minimum of Maqbul (pass) and credit in Mathematics and pass English at SPM level; OR Pass a Level 3 SKM in the relevant field and pass a Malaysian Certificate of Education (Sijil Pelajaran Malaysia – SPM) with a minimum of 1 credit in any subject with credit in Mathematics and English pass; OR Certificate or its equivalent in the relevant field International students Pass IGCSE O-Level or equivalent with a minimum of 3 subjects with grade &#34;C&#34; or better, including Mathematics"
   },
@@ -51,6 +52,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "diploma-in-accountancy"
+  "last_updated": "2026-09-16",
+  "slug": "diploma-in-accountancy",
+  "program_name_ar": "دبلوم Accountancy",
+  "program_name_zh": "Accountancy文凭",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

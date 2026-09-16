@@ -17,14 +17,24 @@
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
     "local_total": 23487,
-    "per_year_local": null,
-    "notes": "Fee: FromRM59,160.00",
+    "per_year_local": 7829,
+    "notes": "Fee: FromRM59,160.00 (per_year based on 3.0yr duration)",
     "international_total": 25737
   },
-  "requirements": [
-    "A Master's degree related to Medical Science",
-    "Other qualifications equivalent to a Master's degree or professional qualification related to the field of Medical Science and experience recognised by the University Senate"
-  ],
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": "MQA/PA 11941 JPT/BPP(U)1000-801/57/Jld.12(24)",
   "awarding_country": "Malaysia",
   "format": "Research",
@@ -43,5 +53,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Medical Science",
+  "program_name_zh": "哲学博士 in Medical Science",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

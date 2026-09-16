@@ -17,9 +17,24 @@
     "international": null,
     "local_total": 15300,
     "currency": "MYR",
-    "international_total": 18800
+    "international_total": 18800,
+    "per_year_local": 15300,
+    "notes": " (per_year based on 1.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Science",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.xmu.edu.my/foundation-programmes",
@@ -35,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Arts and Social Science",
+  "program_name_zh": "Arts and Social Science预科",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

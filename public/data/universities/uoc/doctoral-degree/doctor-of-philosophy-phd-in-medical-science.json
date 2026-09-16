@@ -16,24 +16,25 @@
   "fees": {
     "local": "Refer to University",
     "international": "Refer to University",
-    "local_total": 20434,
+    "local_total": 20433,
     "currency": "MYR",
-    "international_total": 14767
+    "international_total": 14767,
+    "per_year_local": 6811,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of these: Direct Entry for Outstanding Graduates (Other): Academic excellence: A first-class bachelor&#39;s degree with a minimum CGPA of 3.70. Research capability: Demonstrated competency and capability in conducting research at the doctoral level. Rigorous internal assessment: Successful completion of an internal assessment conducted by the University. Senate approval: Final endorsement by the University Senate. Master&#39;s Degree: Master’s Degree in a relevant field from the University of Cyberjaya or any other institutions of higher learning recognised by the Malaysian government and acceptable to the University; OR Other Equivalent Qualifications (Master&#39;s Degree Level): Any other qualifications equivalent to a Master‘s degree recognised by the Malaysian government and acceptable to the University Other Equivalent Qualifications (Master&#39;s Degree Level): Other equivalent qualifications recognised by the Malaysian Government and acceptable to the University English Proficiency (For International Students): Minimum TOEFL score of 550 (pBT) or 80 (iBT) or Minimum IELTS score of 6.0 or its equivalent."
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -55,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (PhD) in Medical Science",
+  "program_name_zh": "哲学博士 (PhD) in Medical Science",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

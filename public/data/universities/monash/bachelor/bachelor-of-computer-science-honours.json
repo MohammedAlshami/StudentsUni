@@ -15,21 +15,21 @@
     "currency": "MYR",
     "local_total": 40428,
     "international_total": 46200,
-    "per_year_local": "RM40,428 per year",
+    "per_year_local": 40428,
     "per_year_international": "RM46,200 per year",
     "notes": null
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
       "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
     }
   },
@@ -42,5 +42,9 @@
     "https://www.studymalaysia.com/what/course/MONASH/0057179/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Computer Science (Honours)",
+  "program_name_zh": "Computer Science (Honours)学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

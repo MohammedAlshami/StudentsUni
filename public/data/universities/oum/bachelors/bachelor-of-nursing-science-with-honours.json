@@ -7,27 +7,31 @@
   "field": "Medicine & Healthcare",
   "duration": "3 years - 9 semester",
   "mode": "Open and Distance Learning (ODL)",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "RM",
-    "local_total": 18000,
+    "local_total": 27000,
     "international_total": 36000,
-    "per_year_local": "RM6,000-RM8,000",
+    "per_year_local": 6000,
     "per_year_international": "RM12,000-RM15,000",
     "notes": "ODL mode - fees per course"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Biology, Chemistry and Physics/Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -52,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Nursing Science with Honours",
+  "program_name_zh": "Nursing Science with Honours学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

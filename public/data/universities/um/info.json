@@ -6,12 +6,40 @@
   "state": "Kuala Lumpur",
   "city": "Kuala Lumpur",
   "website": "https://www.um.edu.my",
-  "levels_available": ["bachelor", "master", "phd"],
-  "program_counts": {"bachelor": 82, "master": 95, "phd": 18},
-  "sources": [
-    {"url": "https://www.um.edu.my/faculties", "publisher": "UM Official Site", "fetched_at": "2026-09-14"},
-    {"url": "https://study.um.edu.my/programmes", "publisher": "UM Study Portal", "fetched_at": "2026-09-14"},
-    {"url": "https://studymalaysia.com/edu/um/courses/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"}
+  "levels_available": [
+    "bachelor",
+    "master",
+    "phd"
   ],
-  "last_updated": "2026-09-14"
+  "program_counts": {
+    "bachelor": 82,
+    "master": 95,
+    "phd": 18
+  },
+  "sources": [
+    {
+      "url": "https://www.um.edu.my/faculties",
+      "publisher": "UM Official Site",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://study.um.edu.my/programmes",
+      "publisher": "UM Study Portal",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/um/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

@@ -6,7 +6,10 @@
   "field": "Medicine & Healthcare",
   "duration": "4 Semesters",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 2000,
@@ -17,7 +20,7 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Biology, Chemistry, Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -25,8 +28,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -37,5 +40,9 @@
     "https://www.studymalaysia.com/what/course/IIUM/0000651/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Foundation Studies in Medicine",
+  "program_name_zh": "Foundation Studies in Medicine",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

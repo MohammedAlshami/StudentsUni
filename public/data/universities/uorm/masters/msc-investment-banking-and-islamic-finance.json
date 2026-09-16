@@ -6,17 +6,42 @@
   "field": "Finance",
   "duration": "1 Year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
-    "local": "RM45,000/Yr",
-    "international": "RM54,000/Yr"
+    "currency": "MYR",
+    "local_total": 33000,
+    "international_total": null,
+    "per_year_local": 33000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/reading/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "msc-investment-banking-and-islamic-finance"
+  "last_updated": "2026-09-16",
+  "slug": "msc-investment-banking-and-islamic-finance",
+  "program_name_ar": "ماجستير Investment Banking and Islamic Finance",
+  "program_name_zh": "Investment Banking and Islamic Finance硕士",
+  "field_ar": "التمويل",
+  "field_zh": "金融学"
 }

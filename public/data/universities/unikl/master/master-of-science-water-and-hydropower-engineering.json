@@ -7,25 +7,28 @@
   "field": "Engineering",
   "duration": "2 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "July"
+  ],
   "fees": {
     "local_total": 18000,
-    "international_total": 26800
+    "international_total": 26800,
+    "per_year_local": 9000,
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Entry Level and Requirements For Local Students   Bachelor in Engineering (Honours) / Bachelor in Engineering Technology from Universiti Kuala Lumpur with minimum CGPA of 2.50 or equivalent; or Bachelor of Science (Honours) in related field with CGPA of 2.50 from any universities as approved by Senate, Universiti Kuala Lumpur; or Bachelor degree in related sciences or technical field with CGPA below than 2.50 is acceptable for admission subject to a minimum of 5 years relevance working experience as approved by Senate, Universiti Kuala Lumpur. For International Students Bachelor&#39;s in Engineering (Honours) / Engineering Technology from Universiti Kuala Lumpur with CGPA of 2.50; OR Bachelor&#39;s in a related field with CGPA of 2.50 from approved universities; OR CGPA below 2.50 may be accepted with 2 years of relevant work experience. IELTS 6.0-6.5, TOEFL 550 or equivalent.  "
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -42,5 +45,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science (Water and Hydropower Engineering)",
+  "program_name_zh": "Science (Water and Hydropower Engineering)硕士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

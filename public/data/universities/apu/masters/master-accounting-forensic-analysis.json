@@ -7,27 +7,32 @@
   "field": "Accounting & Finance",
   "duration": "1+ year",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM34,800.00",
     "international": "RM38,800.00",
     "local_total": 34800,
-    "international_total": 38800
+    "international_total": 38800,
+    "per_year_local": 23200,
+    "notes": " (per_year based on 1.5yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "  GENERAL REQUIREMENTS Bachelor’s degree in related fields with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in related fields below a CGPA of 2.50 can be accepted, subject to a minimum of 5 years working experience in the relevant fields. Relevant professional accounting qualifications equivalent to a bachelor’s degree as accepted by the Senate. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). ENGLISH REQUIREMENTS IELTS: 5.5"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": "MQA",
   "sources": [
@@ -40,5 +45,9 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Accounting in Forensic Analysis",
+  "program_name_zh": "Accounting in Forensic Analysis硕士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

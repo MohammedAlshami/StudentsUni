@@ -6,7 +6,9 @@
   "field": "Economics",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM36,000/Yr",
     "international": "RM45,500/Yr",
@@ -16,7 +18,20 @@
     "per_year_international": 45500,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -27,6 +42,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "bachelor-of-science-economics-and-international-economics"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-science-economics-and-international-economics",
+  "program_name_ar": "بكالوريوس Science Economics and International Economics",
+  "program_name_zh": "Science Economics and International Economics学士",
+  "field_ar": "الاقتصاد",
+  "field_zh": "经济学"
 }

@@ -7,7 +7,11 @@
   "slug": "master-of-arts-tesol",
   "duration": "2 Years",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM38,240",
     "international": "RM46,640",
@@ -25,5 +29,9 @@
     "https://www.swinburne.edu.my/?p=31477"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Arts (TESOL)",
+  "program_name_zh": "Arts (TESOL)硕士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

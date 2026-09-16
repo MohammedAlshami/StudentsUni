@@ -7,21 +7,42 @@
   "field": "Accounting & Finance",
   "duration": "1 Year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 15000,
     "international_total": 20000,
-    "per_year_local": "RM15,000-RM25,000",
+    "per_year_local": 15000,
     "per_year_international": "RM20,000-RM30,000",
     "notes": ""
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SEGI/0004694/",
     "https://eduswasta.my/university/segi-university/"
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Accountancy",
+  "program_name_zh": "Accountancy硕士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

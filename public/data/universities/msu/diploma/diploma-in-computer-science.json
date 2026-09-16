@@ -16,22 +16,22 @@
     "currency": "MYR",
     "local_total": 9600,
     "international_total": 16524,
-    "per_year_local": null,
+    "per_year_local": 3840,
     "per_year_international": null,
-    "notes": "Local: RM24,000.00; International: RM57,685.00"
+    "notes": "Local: RM24,000.00; International: RM57,685.00 (per_year based on 2.5yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics and Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "THREE (3) Credits at SPM/SPMV level including in Mathematics OR a PTPL Certificate in Computer Science or Electrical &amp; Electronic Engineering OR an equivalent qualification recognized by MSU Senate. "
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Computer Science",
+  "program_name_zh": "Computer Science文凭",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

@@ -13,7 +13,7 @@
   "fees": {
     "local": "RM19,100.00",
     "international": "RM44,000.00",
-    "local_total": 8700,
+    "local_total": 6960,
     "currency": "MYR",
     "international_total": 15400,
     "per_year_local": 3480,
@@ -21,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "(1) SPM - 3 Credits in the relevant subjects (2) O Level - 3 Grade C in the relevant subjects (3) UEC - 3 Grade B in the relevant subjects (4) Certificate - Relevant Certificate accredited by MQA OR Relevant Skilled/Technical/Vocational Certificate recognised by the Malaysian Government. Compulsory subjects: i) (1), (2) or (3) must include SPM Pass/ O Level Grade E (pass) in Mathematics/ UEC Grade C in one mathematics subject ii) (1), (2) or (3) must include SPM Pass/ O Level Grade E  (pass)/ UEC Grade C in English Language Note: a) SPM holders must have at least a pass in Bahasa Melayu and SPM holders from Year 2013 onwards must have at least a pass in Sejarah. b) Students without a credit in SPM Bahasa Melayu are required to pass Bahasa Kebangsaan A before the award of Diploma. c) Equivalent qualifications/qualifications from other Institution of Higher Learning (IHL) will be considered on a case-by-case basis. d) Subject to the Ministry of Higher Education latest requirements."
   },
@@ -64,5 +64,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Human Resource Management",
+  "program_name_zh": "Human Resource Management文凭",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

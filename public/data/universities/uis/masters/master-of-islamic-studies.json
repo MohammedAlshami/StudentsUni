@@ -5,15 +5,43 @@
   "program_name": "Master of Islamic Studies",
   "field": "Islamic Studies",
   "slug": "master-of-islamic-studies",
-  "duration": null,
+  "duration": "3 years",
   "mode": null,
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 33000,
+    "international_total": null,
+    "per_year_local": 11000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
   ],
   "confidence": 0.5,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Islamic Studies",
+  "program_name_zh": "Islamic Studies硕士",
+  "field_ar": "الدراسات الإسلامية",
+  "field_zh": "伊斯兰研究"
 }

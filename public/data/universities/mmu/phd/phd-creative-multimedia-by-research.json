@@ -6,25 +6,29 @@
   "field": "Creative Multimedia",
   "duration": "2 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Apr",
+    "Nov"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 5625,
+    "local_total": 5624,
     "international_total": 8625,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.0yr duration)",
+    "per_year_local": 2812
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -64,5 +68,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Ph.D.) Creative Multimedia (By Research)",
+  "program_name_zh": "哲学博士 (Ph.D.) Creative Multimedia (By Research)",
+  "field_ar": "الإعلام",
+  "field_zh": "媒体学"
 }

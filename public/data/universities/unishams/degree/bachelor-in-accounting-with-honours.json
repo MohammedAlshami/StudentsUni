@@ -5,15 +5,43 @@
   "program_name": "Bachelor in Accounting with Honours",
   "field": "Business",
   "slug": "bachelor-in-accounting-with-honours",
-  "duration": null,
+  "duration": "3 years",
   "mode": null,
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "R3/0411/6/0124 (21/5/2033) (A9712)",
   "sources": [
     "https://unishams.edu.my/component/content/article/bachelor-in-accounting-with-honours?catid=11"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accounting with Honours",
+  "program_name_zh": "Accounting with Honours学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -4,30 +4,126 @@
   "level": "master",
   "total_programs": 180,
   "sample_programs": [
-    {"slug": "master-of-business-administration", "name": "Master of Business Administration (MBA)", "field": "Business"},
-    {"slug": "master-of-business-administration-online", "name": "Master of Business Administration (MBA)(Online Mode)", "field": "Business"},
-    {"slug": "master-of-business-administration-international-business", "name": "Master of Business Administration (MBA)(International Business)", "field": "Business"},
-    {"slug": "master-of-business-analytics", "name": "Master of Business Analytics", "field": "Business"},
-    {"slug": "master-of-data-science", "name": "Master of Data Science", "field": "Computing"},
-    {"slug": "master-of-computer-science", "name": "Master of Computer Science", "field": "Computing"},
-    {"slug": "master-of-cyber-security", "name": "Master of Science in Cyber Security", "field": "Computing"},
-    {"slug": "master-of-digital-transformation", "name": "Master of Digital Transformation", "field": "Computing"},
-    {"slug": "master-of-public-administration", "name": "Master of Public Administration (MPA)", "field": "Social Sciences"},
-    {"slug": "master-of-public-health", "name": "Master of Public Health", "field": "Medicine"},
-    {"slug": "master-of-counselling", "name": "Master in Counselling", "field": "Social Sciences"},
-    {"slug": "master-of-social-work", "name": "Master of Social Work", "field": "Social Sciences"},
-    {"slug": "master-of-communication", "name": "Master of Communication", "field": "Communication"},
-    {"slug": "master-of-education-curriculum-studies", "name": "Master of Education in Curriculum Studies", "field": "Education"},
-    {"slug": "master-of-education-tesol", "name": "Master of Education in English Language Education/TESOL", "field": "Education"},
-    {"slug": "master-of-environmental-science", "name": "Master of Environmental Science", "field": "Science"},
-    {"slug": "master-of-pharmacy-clinical-pharmacy", "name": "Master of Pharmacy in Clinical Pharmacy", "field": "Medicine"},
-    {"slug": "master-of-architecture", "name": "Master of Architecture", "field": "Architecture"},
-    {"slug": "master-of-landscape-architecture", "name": "Master of Landscape Architecture", "field": "Architecture"},
-    {"slug": "master-of-instructional-multimedia", "name": "Master of Instructional Multimedia", "field": "Education"}
+    {
+      "slug": "master-of-business-administration",
+      "name": "Master of Business Administration (MBA)",
+      "field": "Business"
+    },
+    {
+      "slug": "master-of-business-administration-online",
+      "name": "Master of Business Administration (MBA)(Online Mode)",
+      "field": "Business"
+    },
+    {
+      "slug": "master-of-business-administration-international-business",
+      "name": "Master of Business Administration (MBA)(International Business)",
+      "field": "Business"
+    },
+    {
+      "slug": "master-of-business-analytics",
+      "name": "Master of Business Analytics",
+      "field": "Business"
+    },
+    {
+      "slug": "master-of-data-science",
+      "name": "Master of Data Science",
+      "field": "Computing"
+    },
+    {
+      "slug": "master-of-computer-science",
+      "name": "Master of Computer Science",
+      "field": "Computing"
+    },
+    {
+      "slug": "master-of-cyber-security",
+      "name": "Master of Science in Cyber Security",
+      "field": "Computing"
+    },
+    {
+      "slug": "master-of-digital-transformation",
+      "name": "Master of Digital Transformation",
+      "field": "Computing"
+    },
+    {
+      "slug": "master-of-public-administration",
+      "name": "Master of Public Administration (MPA)",
+      "field": "Social Sciences"
+    },
+    {
+      "slug": "master-of-public-health",
+      "name": "Master of Public Health",
+      "field": "Medicine"
+    },
+    {
+      "slug": "master-of-counselling",
+      "name": "Master in Counselling",
+      "field": "Social Sciences"
+    },
+    {
+      "slug": "master-of-social-work",
+      "name": "Master of Social Work",
+      "field": "Social Sciences"
+    },
+    {
+      "slug": "master-of-communication",
+      "name": "Master of Communication",
+      "field": "Communication"
+    },
+    {
+      "slug": "master-of-education-curriculum-studies",
+      "name": "Master of Education in Curriculum Studies",
+      "field": "Education"
+    },
+    {
+      "slug": "master-of-education-tesol",
+      "name": "Master of Education in English Language Education/TESOL",
+      "field": "Education"
+    },
+    {
+      "slug": "master-of-environmental-science",
+      "name": "Master of Environmental Science",
+      "field": "Science"
+    },
+    {
+      "slug": "master-of-pharmacy-clinical-pharmacy",
+      "name": "Master of Pharmacy in Clinical Pharmacy",
+      "field": "Medicine"
+    },
+    {
+      "slug": "master-of-architecture",
+      "name": "Master of Architecture",
+      "field": "Architecture"
+    },
+    {
+      "slug": "master-of-landscape-architecture",
+      "name": "Master of Landscape Architecture",
+      "field": "Architecture"
+    },
+    {
+      "slug": "master-of-instructional-multimedia",
+      "name": "Master of Instructional Multimedia",
+      "field": "Education"
+    }
   ],
   "sources": [
-    {"url": "https://studymalaysia.com/edu/usm/courses/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"},
-    {"url": "https://admission.usm.my/index.php/postgraduate/fee-pg", "publisher": "USM Admissions", "fetched_at": "2026-09-14"}
+    {
+      "url": "https://studymalaysia.com/edu/usm/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
+      "publisher": "USM Admissions",
+      "fetched_at": "2026-09-14"
+    }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 12000,
+    "international_total": null,
+    "per_year_local": 8000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM4000/semester for public university (subsidized) (per_year based on 1.5yr duration)"
+  }
 }

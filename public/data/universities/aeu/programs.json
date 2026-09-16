@@ -8,12 +8,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 16000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -24,12 +33,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -40,12 +58,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -56,12 +83,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -72,12 +108,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -88,12 +133,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -104,12 +158,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -120,12 +183,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -136,12 +208,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -152,12 +233,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -168,12 +258,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -184,12 +283,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -200,12 +308,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -216,12 +333,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -232,12 +358,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -248,12 +383,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -264,12 +408,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -280,12 +433,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -296,12 +458,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -312,12 +483,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -328,12 +508,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -344,12 +533,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -360,12 +558,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -376,12 +583,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -392,12 +608,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -408,12 +633,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -424,12 +658,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -440,12 +683,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -456,12 +708,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Asia e University",
@@ -472,11 +733,20 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "MQA approved",
-    "sources": ["https://aeu.edu.my/study/programme/"],
+    "sources": [
+      "https://aeu.edu.my/study/programme/"
+    ],
     "confidence": "verified",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

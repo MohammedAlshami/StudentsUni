@@ -7,25 +7,31 @@
   "field": "Computing & Technology",
   "duration": "2+ years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM50,800.00",
     "international": "RM54,200.00",
     "local_total": 49200,
-    "international_total": 52600
+    "international_total": 52600,
+    "per_year_local": 19680,
+    "notes": " (per_year based on 2.5yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics and Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "SPM 3 Credits in at least 3 subjects at SPM level including Mathematics#, with a minimum of a pass in Bahasa Malaysia and Sejarah (History). Candidates with only a Pass in Maths in SPM will be required to complete and pass &#34;Mathematics and Statistics for Computing&#34; in their Semester 1 of Diploma. IGCSE/O-LEVELS 3 Credits (Grade C &amp; above) in at least 3 subjects at IGCSE/O-Levels including Mathematics#. Candidates with only a Pass in Maths in IGCSE/O-Level will be required to complete and pass &#34;Mathematics and Statistics for Computing&#34; in their Semester 1 of Diploma. UEC 3 Credits (Grade B &amp; above) in at least 3 subjects in UEC including Mathematics#. Candidates with only a Pass in Maths in UEC will be required to complete and pass &#34;Mathematics and Statistics for Computing&#34; in their Semester 1 of Diploma. Certificate Pass relevant Certificate Programme or its equivalent.   English Requirements IELTS: 4.5 TOEFL IBT: 33 Pearson (PTE): 43 MUET: Band 3"
   },
@@ -40,5 +46,9 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Information & Communication Technology with a specialism in Data Informatics",
+  "program_name_zh": "Information & Communication Technology with a specialism in Data Informatics文凭",
+  "field_ar": "Computing & Technology",
+  "field_zh": "Computing & Technology"
 }

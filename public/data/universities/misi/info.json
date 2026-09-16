@@ -6,7 +6,7 @@
   "state": "Selangor",
   "website": "https://www.misi.edu.my",
   "studymalaysia_url": "https://studymalaysia.com/edu/misi/courses/",
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "sources": [
     {
       "url": "https://www.misi.edu.my/degree/",
@@ -23,5 +23,13 @@
     "foundation": 1,
     "bachelor": 5,
     "masters": 2
+  },
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
   }
 }

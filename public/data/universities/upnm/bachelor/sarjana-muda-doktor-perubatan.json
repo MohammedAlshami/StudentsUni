@@ -7,16 +7,32 @@
   "field": "Medicine & Healthcare",
   "duration": "10 semesters",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 12880,
+    "local_total": 12900,
     "international_total": 38660,
     "per_year_local": 2580,
     "per_year_international": 7740,
     "notes": "Standard public university fees (MQA regulated)"
   },
-  "requirements": "SPM+STPM/Matriculation+MUET",
+  "requirements": {
+    "malaysian": {
+      "spm": "5 A's including Biology, Chemistry, Physics, and Mathematics",
+      "stpm": "CGPA 3.0 or above including Biology, Chemistry, and Physics",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "MQA",
   "faculty": "Fakulti Perubatan dan Kesihatan Pertahanan",
   "sources": [
@@ -24,5 +40,9 @@
     "https://www.studymalaysia.com/what/course/UPNM/0055033/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Sarjana Muda Doktor Perubatan",
+  "program_name_zh": "Sarjana Muda Doktor Perubatan",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

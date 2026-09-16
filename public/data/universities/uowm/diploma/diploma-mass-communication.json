@@ -14,11 +14,25 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 23905,
+    "local_total": 23904,
     "international_total": 29285,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.0yr duration)",
+    "per_year_local": 11952
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,5 +47,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Mass Communication",
+  "program_name_zh": "Mass Communication文凭",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

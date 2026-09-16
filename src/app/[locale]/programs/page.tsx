@@ -13,8 +13,12 @@ type ProgramRow = {
   university_slug: string;
   level: string;
   name: string;
+  name_ar?: string;
+  name_zh?: string;
   slug: string;
   field: string;
+  field_ar?: string;
+  field_zh?: string;
 };
 
 const HERO_IMG =
@@ -30,16 +34,20 @@ function loadPrograms(): ProgramRow[] {
   const allPrograms: ProgramRow[] = [];
 
   const institutionsPath = path.join(process.cwd(), "public/data/institutions.json");
-  const institutionsList: Array<{ slug: string; name: string }> = JSON.parse(
+  const institutionsList: Array<{ slug: string; name: string; name_ar?: string; name_zh?: string }> = JSON.parse(
     fs.readFileSync(institutionsPath, "utf-8")
   ).institutions;
-  const nameBySlug = new Map(institutionsList.map((i) => [i.slug, i.name]));
+  const nameBySlug = new Map(institutionsList.map((i) => [i.slug, i]));
+  const nameArBySlug = new Map(institutionsList.filter((i) => i.name_ar).map((i) => [i.slug, i.name_ar!]));
+  const nameZhBySlug = new Map(institutionsList.filter((i) => i.name_zh).map((i) => [i.slug, i.name_zh!]));
 
   for (const uniSlug of universities) {
     const uniPath = path.join(uniDir, uniSlug);
     const infoPath = path.join(uniPath, "info.json");
 
-    let uniName = nameBySlug.get(uniSlug) || uniSlug;
+    let uniName = nameBySlug.get(uniSlug)?.name || uniSlug;
+    let uniNameAr = nameArBySlug.get(uniSlug) || uniName;
+    let uniNameZh = nameZhBySlug.get(uniSlug) || uniName;
     if (!nameBySlug.get(uniSlug) && fs.existsSync(infoPath)) {
       const info = JSON.parse(fs.readFileSync(infoPath, "utf-8"));
       uniName = info.name ?? info.university ?? uniSlug;
@@ -59,13 +67,34 @@ function loadPrograms(): ProgramRow[] {
       for (const prog of programs) {
         const slug = entrySlug(prog);
         if (!slug) continue;
+        const progName = entryFallbackName(prog, slug);
+        const progField = entryField(prog);
+        // Try to read translations from the program detail file
+        let progNameAr: string | undefined;
+        let progNameZh: string | undefined;
+        let progFieldAr: string | undefined;
+        let progFieldZh: string | undefined;
+        const detailPath = path.join(uniPath, level, `${slug}.json`);
+        if (fs.existsSync(detailPath)) {
+          try {
+            const detail = JSON.parse(fs.readFileSync(detailPath, "utf-8"));
+            progNameAr = detail.program_name_ar;
+            progNameZh = detail.program_name_zh;
+            progFieldAr = detail.field_ar;
+            progFieldZh = detail.field_zh;
+          } catch {}
+        }
         allPrograms.push({
           university: uniName,
           university_slug: uniSlug,
           level,
-          name: entryFallbackName(prog, slug),
+          name: progName,
+          name_ar: progNameAr,
+          name_zh: progNameZh,
           slug,
-          field: entryField(prog),
+          field: progField,
+          field_ar: progFieldAr,
+          field_zh: progFieldZh,
         });
       }
     }

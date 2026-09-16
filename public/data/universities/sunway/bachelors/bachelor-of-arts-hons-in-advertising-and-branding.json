@@ -17,12 +17,25 @@
     "local": "From RM82,600",
     "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 36914,
-    "per_year_local": null,
-    "notes": "Fee: FromRM82,600.00",
+    "local_total": 36912,
+    "per_year_local": 12304,
+    "notes": "Fee: FromRM82,600.00 (per_year based on 3.0yr duration)",
     "international_total": 39164
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -40,5 +53,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Arts (Hons) in Advertising & Branding",
+  "program_name_zh": "Arts (Hons) in Advertising & Branding学士",
+  "field_ar": "التسويق",
+  "field_zh": "市场营销"
 }

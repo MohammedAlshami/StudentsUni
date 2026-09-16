@@ -6,14 +6,42 @@
   "field": "Education",
   "duration": "1.5 Years",
   "mode": "Part-time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 12000,
+    "international_total": null,
+    "per_year_local": 8000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1.5yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/wou/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "post-graduate-diploma-in-education"
+  "last_updated": "2026-09-16",
+  "slug": "post-graduate-diploma-in-education",
+  "program_name_ar": "Post Graduate Diploma in Education",
+  "program_name_zh": "Post Graduate Diploma in Education",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

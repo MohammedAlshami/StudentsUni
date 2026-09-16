@@ -4,118 +4,254 @@
     "program_name": "M.Sc. (Civil Engineering)",
     "field": "Engineering",
     "duration": "1 Year",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 66000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   },
   {
     "slug": "msc-business-and-management",
     "program_name": "M.Sc. Business and Management",
     "field": "Business",
     "duration": "1 Year",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 66000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   },
   {
     "slug": "mba-master-of-business-administration",
     "program_name": "M.B.A. (Master of Business Administration)",
     "field": "Business",
     "duration": "1-2 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   },
   {
     "slug": "msc-mechanical-engineering",
     "program_name": "M.Sc. (Mechanical Engineering)",
     "field": "Engineering",
     "duration": "1 Year",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 66000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   },
   {
     "slug": "msc-finance-and-investment",
     "program_name": "M.Sc. (Finance and Investment)",
     "field": "Finance",
     "duration": "1-2 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   },
   {
     "slug": "ma-teaching-of-english-to-speakers-of-other-languages-tesol",
     "program_name": "M.A. (Teaching of English to Speakers of Other Languages, TESOL)",
     "field": "Education",
     "duration": "1-2 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   },
   {
     "slug": "msc-chemical-engineering",
     "program_name": "M.Sc. (Chemical Engineering)",
     "field": "Engineering",
     "duration": "1 Year",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 66000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   },
   {
     "slug": "msc-electronic-communications-and-computer-engineering",
     "program_name": "M.Sc. (Electronic Communications & Computer Engineering)",
     "field": "Engineering",
     "duration": "1 Year",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 66000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   },
   {
     "slug": "ma-education",
     "program_name": "M.A. (Education)",
     "field": "Education",
     "duration": "1-2 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   },
   {
     "slug": "ma-international-relations",
     "program_name": "M.A. (International Relations)",
     "field": "International Relations",
     "duration": "1-2 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   },
   {
     "slug": "ma-educational-leadership-and-management",
     "program_name": "M.A. (Educational Leadership and Management)",
     "field": "Education",
     "duration": "1-2 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   },
   {
     "slug": "msc-environmental-engineering",
     "program_name": "M.Sc. (Environmental Engineering)",
     "field": "Engineering",
     "duration": "1 Year",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 66000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   },
   {
     "slug": "msc-occupational-health-and-safety-leadership",
     "program_name": "M.Sc. (Occupational Health & Safety Leadership)",
     "field": "Occupational Health",
     "duration": "2-3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "ma-english-with-creative-writing",
     "program_name": "M.A. English with Creative Writing",
     "field": "English",
     "duration": "1 Year",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 66000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   },
   {
     "slug": "ma-english-language-and-literature",
     "program_name": "M.A. (English Language and Literature)",
     "field": "English",
     "duration": "1 Year",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 66000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   },
   {
     "slug": "msc-investment-and-islamic-finance",
     "program_name": "M.Sc. (Investment and Islamic Finance)",
     "field": "Finance",
     "duration": "1 Year",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 66000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   },
   {
     "slug": "msc-management-psychology",
     "program_name": "M.Sc. (Management Psychology)",
     "field": "Psychology",
     "duration": "2-3 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   }
 ]

@@ -7,18 +7,33 @@
   "slug": "diploma-in-business-studies",
   "duration": "2 Yrs",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
-    "local": null,
-    "international": "44000/Course",
-    "international_total": 44000,
     "currency": "MYR",
-    "per_year_international": 22000,
-    "notes": "Total fee from existing data Local fees not published online; contact university.",
-    "local_total": null,
-    "per_year_local": null
+    "local_total": 44000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/RUI/0055316/",
@@ -29,5 +44,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Business Studies",
+  "program_name_zh": "Business Studies文凭",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

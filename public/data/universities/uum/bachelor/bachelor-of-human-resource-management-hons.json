@@ -6,7 +6,10 @@
   "field": "Business Management",
   "duration": "8 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 6800,
@@ -46,5 +49,9 @@
     }
   ],
   "confidence": "partial",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Human Resource Management with Honours",
+  "program_name_zh": "Human Resource Management with Honours学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

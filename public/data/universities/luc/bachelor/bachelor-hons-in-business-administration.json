@@ -13,22 +13,23 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12500,
+    "local_total": 12498,
     "international_total": 9471,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 4166
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "Pass in Sijil Tinggi Persekolahan Malaysia (STPM) or equivalent with at least Grade C (NGMP 2.0) in two (2) subjects and passed Mathematics and English at SPM level; or Pass in the Unified Examination Certificate (UEC) with at least Grade B in five (5) subjects and passed subjects including Mathematics and English; or Pass in Matriculation/ Foundation/ Foundation from IPTA/ IPTS with at least CGPA 2.00 out of 4.00 or equivalent qualification; or Qualification equivalent to a Diploma or Advanced Diploma (Level 4 or 5, MQF) with a minimum CGPA of 2.00; or APEL Pathway – Candidates must be 21 years of age or older in the year the application is made, have relevant work experience to PASS the APEL assessment conducted by MQA (HEP is subject to the APEL student intake quota policy which is a maximum of 5% of the total student population at a time); or Other qualifications recognized as equivalent by the Malaysian government. English Profiency Requirements (International Students): International students must obtain a score of 5.5 for the International English Language Testing System (IELTS) or equivalent. If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the program."
   },
@@ -51,5 +52,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Bachelor (Hons) in Business Administration",
+  "program_name_zh": "Bachelor (Hons) in Business Administration",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

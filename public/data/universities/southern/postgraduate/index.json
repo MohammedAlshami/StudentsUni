@@ -1,15 +1,392 @@
 [
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Master of Business Administration (MBA)", "program_slug": "master-business-administration", "field": "Business", "duration": "1.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-business-management/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Master of Science in Computer Science", "program_slug": "master-science-computer-science", "field": "Computing", "duration": "1.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-engineering-information-technology/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Master of Engineering Science", "program_slug": "master-engineering-science", "field": "Engineering", "duration": "1.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-engineering-information-technology/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Master of Communication", "program_slug": "master-communication", "field": "Communication", "duration": "1.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-humanities-social-science/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Master in Education", "program_slug": "master-education", "field": "Education", "duration": "1.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-humanities-social-science/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Master in English Language Studies", "program_slug": "master-english-language-studies", "field": "Languages", "duration": "1.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-humanities-social-science/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Master of Arts in Chinese Studies", "program_slug": "master-arts-chinese-studies", "field": "Chinese Studies", "duration": "1.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-chinese-studies/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Master of Chinese Studies", "program_slug": "master-chinese-studies", "field": "Chinese Studies", "duration": "1.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-chinese-studies/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Doctor of Business Administration", "program_slug": "doctor-business-administration", "field": "Business", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-business-management/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Doctor of Philosophy in Engineering", "program_slug": "doctor-philosophy-engineering", "field": "Engineering", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-engineering-information-technology/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Doctor of Philosophy (Chinese Studies)", "program_slug": "doctor-philosophy-chinese-studies", "field": "Chinese Studies", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-chinese-studies/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Doctor of Chinese Studies", "program_slug": "doctor-chinese-studies", "field": "Chinese Studies", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-chinese-studies/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "postgraduate", "program_name": "Doctor of Philosophy in Global Chinese and Cultural Studies", "program_slug": "doctor-philosophy-global-chinese-cultural-studies", "field": "Chinese Studies", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-chinese-studies/"], "confidence": 0.8, "last_updated": "2026-09-14"}
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Master of Business Administration (MBA)",
+    "program_slug": "master-business-administration",
+    "field": "Business",
+    "duration": "1.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-business-management/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Master of Science in Computer Science",
+    "program_slug": "master-science-computer-science",
+    "field": "Computing",
+    "duration": "1.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-engineering-information-technology/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Master of Engineering Science",
+    "program_slug": "master-engineering-science",
+    "field": "Engineering",
+    "duration": "1.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-engineering-information-technology/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Master of Communication",
+    "program_slug": "master-communication",
+    "field": "Communication",
+    "duration": "1.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-humanities-social-science/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Master in Education",
+    "program_slug": "master-education",
+    "field": "Education",
+    "duration": "1.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-humanities-social-science/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Master in English Language Studies",
+    "program_slug": "master-english-language-studies",
+    "field": "Languages",
+    "duration": "1.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-humanities-social-science/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Master of Arts in Chinese Studies",
+    "program_slug": "master-arts-chinese-studies",
+    "field": "Chinese Studies",
+    "duration": "1.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-chinese-studies/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Master of Chinese Studies",
+    "program_slug": "master-chinese-studies",
+    "field": "Chinese Studies",
+    "duration": "1.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-chinese-studies/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Doctor of Business Administration",
+    "program_slug": "doctor-business-administration",
+    "field": "Business",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 8000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-business-management/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Doctor of Philosophy in Engineering",
+    "program_slug": "doctor-philosophy-engineering",
+    "field": "Engineering",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 8000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-engineering-information-technology/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Doctor of Philosophy (Chinese Studies)",
+    "program_slug": "doctor-philosophy-chinese-studies",
+    "field": "Chinese Studies",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 8000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-chinese-studies/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Doctor of Chinese Studies",
+    "program_slug": "doctor-chinese-studies",
+    "field": "Chinese Studies",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 8000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-chinese-studies/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "postgraduate",
+    "program_name": "Doctor of Philosophy in Global Chinese and Cultural Studies",
+    "program_slug": "doctor-philosophy-global-chinese-cultural-studies",
+    "field": "Chinese Studies",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 24000,
+      "international_total": null,
+      "per_year_local": 8000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-chinese-studies/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  }
 ]

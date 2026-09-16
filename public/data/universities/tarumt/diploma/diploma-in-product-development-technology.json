@@ -15,13 +15,26 @@
   "fees": {
     "local": "RM20,500.00",
     "international": "RM39,200.00",
-    "local_total": 7972,
+    "local_total": 6378,
     "currency": "MYR",
     "international_total": 15472,
     "per_year_local": 3189,
     "per_year_international": 6189
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -47,5 +60,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Product Development Technology",
+  "program_name_zh": "Product Development Technology文凭",
+  "field_ar": "Manufacturing & Processing",
+  "field_zh": "Manufacturing & Processing"
 }

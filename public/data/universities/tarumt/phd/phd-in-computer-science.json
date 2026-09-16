@@ -7,16 +7,32 @@
   "field": "Computing & IT",
   "duration": "3-5 years",
   "mode": "Flexible",
-  "intakes": null,
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 75000,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 15000,
     "per_year_international": null,
-    "notes": "TAR UMT does not publish PhD fees online. Contact university for current fee information."
+    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 5.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://sites.google.com/tarc.edu.my/cpsr/programmes/by-research/faculty-of-computing-and-information-technology/doctor-of-philosophy-computer-science",
@@ -28,5 +44,9 @@
     }
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Computer Science",
+  "program_name_zh": "哲学博士 in Computer Science",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

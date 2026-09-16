@@ -5,7 +5,10 @@
   "type": "private-university",
   "state": "Selangor",
   "city": "Cyberjaya",
-  "campuses": ["Cyberjaya", "Melaka"],
+  "campuses": [
+    "Cyberjaya",
+    "Melaka"
+  ],
   "website": "https://www.mmu.edu.my",
   "phone": "1300800668",
   "address": "Persiaran Multimedia, Cyberjaya, 63100 Cyberjaya, Selangor, Malaysia",
@@ -22,7 +25,13 @@
     "Faculty of Management (FOM)",
     "Open and Distance Learning (ODL)"
   ],
-  "levels_available": ["foundation", "diploma", "bachelor", "master", "phd"],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "master",
+    "phd"
+  ],
   "program_counts": {
     "foundation": 8,
     "diploma": 15,
@@ -51,5 +60,13 @@
       "fetched_at": "2026-09-14"
     }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

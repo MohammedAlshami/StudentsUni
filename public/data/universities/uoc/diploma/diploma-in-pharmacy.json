@@ -7,16 +7,41 @@
   "slug": "diploma-in-pharmacy",
   "duration": "3 years",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Oct"
+  ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University"
+    "currency": "MYR",
+    "local_total": 240000,
+    "international_total": null,
+    "per_year_local": 80000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058792/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Pharmacy",
+  "program_name_zh": "Pharmacy文凭",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

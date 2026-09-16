@@ -4,13 +4,29 @@
     "program_name": "Graduate Certificate in Logistics Management",
     "field": "Logistics",
     "duration": "1.5 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.5yr duration)"
+    }
   },
   {
     "slug": "graduate-certificate-in-business-management",
     "program_name": "Graduate Certificate in Business Management",
     "field": "Business",
     "duration": "1.5 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.5yr duration)"
+    }
   }
 ]

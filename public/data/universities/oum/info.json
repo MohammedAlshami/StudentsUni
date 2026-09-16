@@ -6,7 +6,7 @@
   "state": "Kuala Lumpur",
   "website": "https://www.oum.edu.my",
   "studymalaysia_url": "https://studymalaysia.com/edu/oum/courses/",
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-16",
   "sources": [
     {
       "url": "https://studymalaysia.com/edu/oum/courses/",
@@ -18,5 +18,13 @@
       "publisher": "University Website",
       "fetched_at": "2026-09-14T00:00:00+08:00"
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

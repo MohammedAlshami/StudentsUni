@@ -6,23 +6,44 @@
   "field": "Pharmaceutical Chemistry",
   "duration": "1-3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 39,180",
     "international": "RM 52,850",
     "currency": "MYR",
-    "local_total": 39180,
+    "local_total": 117540,
     "international_total": 52850,
     "per_year_local": 39180,
     "per_year_international": 52850,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0009163/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "M.Sc. in Pharmaceutical Chemistry",
+  "program_name_zh": "M.Sc. in Pharmaceutical Chemistry",
+  "field_ar": "Pharmaceutical Chemistry",
+  "field_zh": "Pharmaceutical Chemistry"
 }

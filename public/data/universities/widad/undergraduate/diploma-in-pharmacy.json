@@ -4,11 +4,35 @@
   "level": "diploma",
   "program_name": "Diploma in Pharmacy",
   "field": "Pharmacy",
-  "duration": null,
+  "duration": "4 years",
   "mode": "Full Time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 200000,
+    "international_total": null,
+    "per_year_local": 50000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 4.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     {
@@ -17,5 +41,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Pharmacy",
+  "program_name_zh": "Pharmacy文凭",
+  "field_ar": "الصيدلة",
+  "field_zh": "药学"
 }

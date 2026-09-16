@@ -7,16 +7,32 @@
   "field": "Architecture & Building",
   "duration": "3.5 Yrs",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "Refer to the Univ.",
     "international": "Refer to the Univ.",
-    "local_total": 66200,
-    "international_total": 68200
+    "local_total": 66199,
+    "international_total": 68200,
+    "per_year_local": 18914,
+    "notes": " (per_year based on 3.5yr duration)"
   },
   "requirements": {
-    "academic": null,
-    "general_text": "Any one of these: Pass in STPM or equivalent, minimum Grade C (2.00) in 2 subjects Pass in A-Level in 2 subjects Pass in Unified Examinations Certificate (UEC) at least B in 5 subjects Pass in Foundation Studies in related field by Higher Institutions Provider recognised by Malaysia Government (at least CGPA 2.00) Pass in Diploma in related field by Higher Institutions Provider recognised by Malaysia Government (at least CGPA 2.00) Other Equivalent qualification recognised by Malaysia Government AND Pass in Art/ Technical Drawing subject in SPM or equivalent Pass in portfolio assessment interview for those who failed or did not take Art subject” English Proficiency Requirements (International Student): TOEFL with minimum of score 500 IELTS with minimum of score 5.0."
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -28,5 +44,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Arts (Honours) in Interior Architecture",
+  "program_name_zh": "Arts (Honours) in Interior Architecture学士",
+  "field_ar": "العمارة",
+  "field_zh": "建筑学"
 }

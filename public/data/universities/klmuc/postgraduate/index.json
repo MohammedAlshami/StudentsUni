@@ -3,70 +3,150 @@
     "program_name": "Master of Business Administration",
     "field": "Business & Entrepreneurship",
     "duration": "3 Semesters / 1 Year",
-    "mode": ["Full-time", "Online"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 28,620 - RM 31,800"},
+    "mode": [
+      "Full-time",
+      "Online"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 22500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
     "accreditation": null,
     "campus": "KLMUC",
-    "sources": ["https://www.unitar.my/programmes/"],
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "medium",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "program_name": "Master of Education",
     "field": "Education",
     "duration": "3 Semesters / 1 Year",
-    "mode": ["Full-time", "Online"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 22,000 - RM 23,500"},
+    "mode": [
+      "Full-time",
+      "Online"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 22500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
     "accreditation": null,
     "campus": "KLMUC",
-    "sources": ["https://www.unitar.my/programmes/"],
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "medium",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "program_name": "Master of Education (Educational Leadership & Management)",
     "field": "Education",
     "duration": "3 Semesters / 1 Year",
-    "mode": ["Full-time", "Online"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 22,000 - RM 23,500"},
+    "mode": [
+      "Full-time",
+      "Online"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 22500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
     "accreditation": null,
     "campus": "KLMUC",
-    "sources": ["https://www.unitar.my/programmes/"],
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "medium",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "program_name": "Master of Information Technology",
     "field": "Computing",
     "duration": "3 Semesters / 1 Year",
-    "mode": ["Full-time", "Online"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 22,000 - RM 23,500"},
+    "mode": [
+      "Full-time",
+      "Online"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 22500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
     "accreditation": null,
     "campus": "KLMUC",
-    "sources": ["https://www.unitar.my/programmes/"],
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "medium",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "program_name": "Postgraduate Diploma in Education",
     "field": "Education",
     "duration": "3 Semesters / 1 Year",
-    "mode": ["Full-time", "Online"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 17,000 - RM 22,500"},
+    "mode": [
+      "Full-time",
+      "Online"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 22500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
     "accreditation": null,
     "campus": "KLMUC",
-    "sources": ["https://www.unitar.my/programmes/"],
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "medium",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

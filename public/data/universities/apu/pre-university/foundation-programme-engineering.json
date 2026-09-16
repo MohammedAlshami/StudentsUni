@@ -7,17 +7,42 @@
   "field": "Engineering",
   "duration": "1 year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM27,500.00",
-    "international": "RM29,200.00"
+    "international": "RM29,200.00",
+    "local_total": 27500,
+    "international_total": 29200.0,
+    "currency": "MYR",
+    "per_year_local": 27500
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/foundation-programme-engineering",
     "https://www.studymalaysia.com/what/course/APU/0005481/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Foundation Programme (Engineering Route)",
+  "program_name_zh": "Foundation Programme (Engineering Route)",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

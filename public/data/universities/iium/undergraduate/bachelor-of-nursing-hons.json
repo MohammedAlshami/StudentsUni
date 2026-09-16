@@ -6,7 +6,10 @@
   "field": "Medicine & Healthcare",
   "duration": "8 Semesters",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 28000,
@@ -37,5 +40,9 @@
     "https://www.studymalaysia.com/what/course/IIUM/0000810/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Nursing (Hons)",
+  "program_name_zh": "Nursing (Hons)学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

@@ -6,22 +6,31 @@
   "field": "Education",
   "duration": "2 Years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": {},
+  "intakes": [
+    "Jan",
+    "Jul"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 33000,
+    "international_total": null,
+    "per_year_local": 16500,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+  },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Bachelor’s degree with a minimum CGPA of 2.75 or its equivalent, as accepted by the Senate PPT; or A bachelor’s degree or equivalent with a minimum CGPA 2.50 and does not reach CGPA of 2.75, may be accepted depending on thorough internal assessment through interviews conducted by the Faculty; or Bachelor’s degree or equivalent but not CGPA of 2.50, admissible subject to a minimum of 5 years of relevant work experience. Non-education students are required to show high interest in the field of education. International Students required to achieve the score minimum of IELTS 5.0 or equivalent."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -33,6 +42,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "master-of-education-discipline-management"
+  "last_updated": "2026-09-16",
+  "slug": "master-of-education-discipline-management",
+  "program_name_ar": "ماجستير Education (Discipline Management)",
+  "program_name_zh": "Education (Discipline Management)硕士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

@@ -3,7 +3,7 @@
   "university_slug": "umpsa",
   "level": "bachelor",
   "source": "https://www.studymalaysia.com/edu/ump/courses/",
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "programs": [
     {
       "slug": "bachelor-of-computer-science-computer-systems-networks",
@@ -238,11 +238,11 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 4200,
     "international_total": null,
-    "per_year_local": 680.0,
+    "per_year_local": 1400,
     "per_year_international": null,
-    "notes": "Per semester: 340/sem"
+    "notes": "Estimated ~RM700/semester for public university (subsidized)"
   },
   "sources": [
     "https://www.studymalaysia.com/edu/umpsa/courses/"

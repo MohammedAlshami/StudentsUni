@@ -19,20 +19,22 @@
     "international": null,
     "local_total": 20318,
     "currency": "MYR",
-    "international_total": 22125
+    "international_total": 22125,
+    "per_year_local": 10159,
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Entry Requirements Applicants must have one of the following entry requirements: A pass in SPM or its equivalent, with a minimum of 3 credits in any subject, including English; OR 3 O-Level credits (including English) or 3 Bs (including English) in Senior Middle Three (UEC) or equivalent; OR A pass in STPM or its equivalent, with a minimum Grade C in any subject; OR A Certificate in Media or Communication or its equivalent. International Students Only International students who do not meet the minimum English language entry requirement may be accepted into the programme. However, they must first enroll in the university’s Intensive English Programme (IEP) and sit for the IELTS or other similar tests. Upon passing the test with a 5.0 score or equivalent, students can formally enroll in the faculty programme."
   },
@@ -57,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Communication",
+  "program_name_zh": "Communication文凭",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

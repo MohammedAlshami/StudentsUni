@@ -7,7 +7,11 @@
   "field": "Business & Management",
   "duration": "3 years",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": null,
     "international": null,
@@ -22,15 +26,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "MINIMUM ENTRY REQUIREMENT A Master&#39;s degree in a related field accepted by the APU Senate. Other qualifications equivalent to a Master&#39;s degree that are accepted by the APU Senate. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by the Malaysian Qualifications Agency (MQA). MINIMUM ENGLISH REQUIREMENTS IELTS: 6.0"
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": "MQA",
   "sources": [
@@ -44,5 +47,9 @@
     }
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة",
+  "program_name_zh": "哲学博士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

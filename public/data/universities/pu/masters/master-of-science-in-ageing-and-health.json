@@ -11,24 +11,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 30067,
+    "local_total": 30066,
     "international_total": 48534,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 1.5yr duration)",
+    "per_year_local": 20044
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A Bachelor’s Degree (Level 6 MQF) in the Medical and Health Science field or related fields with a minimum CGPA of 2.50 as accepted by the Perdana University Senate; OR  A Bachelor’s Degree (Level 6 MQF) in the Medical and Health Science field or related fields with a minimum CGPA of 2.00 (and not meeting CGPA of 2.50), and a minimum of 5 years’ working experience in the related field; OR Other equivalent qualifications recognised by the Malaysian Government. English Language Requirements A minimum IELTS score of 5.5 or equivalent for international students."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -49,5 +49,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science in Ageing and Health",
+  "program_name_zh": "Science in Ageing and Health硕士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

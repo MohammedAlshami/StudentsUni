@@ -16,22 +16,24 @@
   "fees": {
     "local": "Refer to newinti.edu.my",
     "international": "Refer to newinti.edu.my",
-    "local_total": 22298,
+    "local_total": 22296,
     "currency": "MYR",
-    "international_total": 22298
+    "international_total": 22298,
+    "per_year_local": 5574,
+    "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "Entry Level and Requirements Foundation: Foundation in Business Programme, Minimum CGPA 2.50 Diploma: A relevant diploma with a CGPA of at least 2.50 from another institution A-Level : 2 Grade D, and a credit in Mathematics STPM : Grade C+ (GP 2.33) in any 2 subjects, and credits in Mathematics STAM : Grade Jayyid and a credit in Mathematics UEC : 5 subjects at grade B including a pass in Mathematics and English SACE : 5 subjects with ATAR of 55 and a credit in Mathematics NSW (HSC) : 10 units with ATAR of 55 and a credit in Mathematics CPU : 6 passes with an average of 60 Tertiary Entrance Examination (TEE) : 4 or 5 subjects with ATAR of 55 and a credit in Mathematics at SPM level Australian Year 12 : TER/UAI/ENTER 55 Matriculation/Pre-University - Completion of Matriculation/Pre-University programme with minimum CGPA of 2.5 Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
   },
@@ -57,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accountancy (Hons)",
+  "program_name_zh": "Accountancy (Hons)学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

@@ -6,23 +6,44 @@
   "field": "Tertiary Teaching",
   "duration": "1-2 Years",
   "mode": "Full-time/Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 20,480",
     "international": "RM 31,750",
     "currency": "MYR",
-    "local_total": 20480,
+    "local_total": 40960,
     "international_total": 31750,
     "per_year_local": 20480,
     "per_year_international": 31750,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057299/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Postgraduate Diploma in Tertiary Teaching",
+  "program_name_zh": "Postgraduate Diploma in Tertiary Teaching",
+  "field_ar": "التدريس",
+  "field_zh": "教学"
 }

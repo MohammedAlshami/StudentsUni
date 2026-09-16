@@ -15,22 +15,22 @@
     "currency": "MYR",
     "local_total": 67200,
     "international_total": 99384,
-    "per_year_local": "RM22,400 per annum",
+    "per_year_local": 22400,
     "per_year_international": "RM33,128 per annum",
     "notes": null
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -42,5 +42,9 @@
     "https://www.studymalaysia.com/edu/curtin/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Commerce (Accounting and Finance) (Double Major)",
+  "program_name_zh": "Commerce (Accounting and Finance) (Double Major)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

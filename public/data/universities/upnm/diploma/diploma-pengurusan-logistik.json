@@ -7,7 +7,10 @@
   "field": "Business Management & Administration",
   "duration": "6 semesters",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 3900,
@@ -16,7 +19,20 @@
     "per_year_international": 3900,
     "notes": "Standard public university fees (MQA regulated)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "faculty": "Fakulti Pengajian dan Pengurusan Pertahanan",
   "sources": [
@@ -24,5 +40,9 @@
     "https://www.studymalaysia.com/what/course/UPNM/0055670/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Diploma Pengurusan Logistik",
+  "program_name_zh": "Diploma Pengurusan Logistik",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

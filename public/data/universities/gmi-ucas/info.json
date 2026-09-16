@@ -6,7 +6,11 @@
   "state": "Selangor",
   "city": "Kajang",
   "website": "https://www.gmi.edu.my",
-  "levels_available": ["pre-university", "diploma", "bachelor"],
+  "levels_available": [
+    "pre-university",
+    "diploma",
+    "bachelor"
+  ],
   "program_counts": {
     "pre-university": 2,
     "diploma": 16,
@@ -34,6 +38,14 @@
       "note": "Computer and Information department diplomas with fees and codes"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "German-Malaysian Institute. MARA-owned TVET institution. German dual vocational training model. KPT(JPS)600-48/B/103(2), DK040(B). All diplomas RM 33,324 fee, 6 semesters/3 years, full time. ISO 9001 certified. MYQUEST and MQA awarded."
+  "last_updated": "2026-09-16",
+  "notes": "German-Malaysian Institute. MARA-owned TVET institution. German dual vocational training model. KPT(JPS)600-48/B/103(2), DK040(B). All diplomas RM 33,324 fee, 6 semesters/3 years, full time. ISO 9001 certified. MYQUEST and MQA awarded.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

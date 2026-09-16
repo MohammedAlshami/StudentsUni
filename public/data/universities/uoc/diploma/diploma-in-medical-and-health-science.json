@@ -14,22 +14,24 @@
   "fees": {
     "local": "Refer to University",
     "international": "Refer to University",
-    "local_total": 15967,
+    "local_total": 15966,
     "currency": "MYR",
-    "international_total": 23634
+    "international_total": 23634,
+    "per_year_local": 5322,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics and Science",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Any of these: SPM: Pass with a minimum of 5 credits in the following subjects: Bahasa Malaysia Science subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR General Science / Applied Science Mathematics or Additional Mathematics 2 (two) other subjects AND pass in English STPM: Pass with a Grade C (GPA 2.00) in one subject AND a minimum of 3 credits in the following subjects: Science Subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR General Science Mathematics or Additional Mathematics UEC: Pass with minimum Grade B in 3 subjects: Science subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR Mathematics / Advanced Mathematics General Science O-Level/IGCSE: Pass with a minimum of 5 credits in the following subjects: Two (2) credits from Science or Mathematics subject (Biology/ Physics/Chemistry/General Science); Three (3) from any other subjects; AND Pass in English OR Candidates with other relevant qualifications are subject to approval by the MAB Certificate in health-related field: Certificate in a Health-related field recognised and approved by the MAB AND a minimum of 3 credits in the following subjects: Science subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR General Science Mathematics or Additional Mathematics Additional Requirements: Medical Status - Students must be certified medically fit by a registered medical practitioner recognised by the University and free from: Mental illness Physical and sensory disability HIV-AIDS Hepatitis B and C Epilepsy Drug addiction and substance abuse Any other medical condition certified unfit English Proficiency (For International Students): English Proficiency for International Students: Minimum IELTS score of 4.0 or equivalent"
   },
@@ -53,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Medical and Health Science",
+  "program_name_zh": "Medical and Health Science文凭",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

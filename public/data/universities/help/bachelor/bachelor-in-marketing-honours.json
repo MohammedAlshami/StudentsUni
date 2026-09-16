@@ -17,9 +17,11 @@
   "fees": {
     "local": "RM82,800.00",
     "international": null,
-    "local_total": 25900,
+    "local_total": 25899,
     "currency": "MYR",
-    "international_total": 28450
+    "international_total": 28450,
+    "per_year_local": 8633,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0005688/",
@@ -35,5 +37,23 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
+  "program_name_ar": "بكالوريوس Marketing (Honours)",
+  "program_name_zh": "Marketing (Honours)学士",
+  "field_ar": "التسويق",
+  "field_zh": "市场营销"
 }

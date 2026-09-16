@@ -21,7 +21,7 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -29,8 +29,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "SPM/O-Level or equivalent: Minimum Grade C in at least five (5) subjects, including English and Mathematics; OR UEC: Minimum Grade B in at least three (3) subjects, including Mathematics and English."
   },
@@ -76,5 +76,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Communication",
+  "program_name_zh": "Communication预科",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

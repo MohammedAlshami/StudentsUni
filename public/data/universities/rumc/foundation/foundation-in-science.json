@@ -13,13 +13,32 @@
   ],
   "fees": {
     "local": "RM 30,000",
-    "international": "RM 35,000"
+    "international": "RM 35,000",
+    "local_total": 30000,
+    "per_year_local": 30000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Science",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "R/010/3/0491 (12/27) (MQA/FA9105)",
   "sources": [
     "https://www.rumc.edu.my/programmes/foundation-in-science/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Science",
+  "program_name_zh": "Science预科",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

@@ -8,16 +8,32 @@
   "faculty": "Technology Management and Business",
   "duration": "1 Year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "local": "3550/Course",
     "international": "USD3060/Course",
     "currency": "MYR",
-    "local_total": 3550.0,
-    "per_year_local": 887.5,
+    "local_total": 887,
+    "per_year_local": 887,
     "notes": "Fee: By Coursework/By Research: 3550/Course"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "research_areas": "Technology Management, Real Estate and Facilities Management",
   "sources": [
@@ -25,5 +41,9 @@
     "https://www.studymalaysia.com/edu/uthm/courses/"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Construction Technology",
+  "program_name_zh": "Construction Technology硕士",
+  "field_ar": "العمارة",
+  "field_zh": "建筑学"
 }

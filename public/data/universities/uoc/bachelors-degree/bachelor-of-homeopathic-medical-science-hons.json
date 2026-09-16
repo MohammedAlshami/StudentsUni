@@ -21,18 +21,17 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of these: UOC Foundation in Science (Foundation): Pass with CGPA 2.50 and above. STPM (Science): A pass in STPM with at least a CGPA of 2.50. STPM (Non-Science): Pass with CGPA 2.50 with credits in 2 science subjects and Mathematics in SPM. A-Level: Pass with minimum C in 2 Science subjects and Mathematics. STAM: Pass with a minimum Jayyid grade and credits in 2 Science subjects and Mathematics at the SPM level or its equivalent. Unified Examination Certificate (UEC) (Certificate): Pass with minimum grade B in 5 subjects, including 2 Science subjects and Mathematics. Foundation from other fields/institutions (Foundation): Pass with minimum CGPA 2.50 with credits in 2 Science subjects and Mathematics at SPM level. Australian Matriculation (AUSMAT) (Matriculation): Pass with a minimum 60% points, including 2 Science subjects or credits in 2 Science subjects in SPM/O-Level or equivalent. Diploma in Traditional Complementary Medicine / other related diploma (Diploma Level): Diploma in Traditional Complementary Medicine/other related diploma: Pass with CGPA 2.50 and above; OR Pass with CGPA 2.00 with 2 years working experience in a related field. Diploma: A Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in T&amp;CM-related areas or any science-related areas with at least a CGPA of 2.50 acceptable to the University. OR A DKM / DVM in T&amp;CM-related areas or any science-related areas with CGPA above 2.00 but less than 2.50 can be accepted with a minimum of TWO years’ work experience in relevant T&amp;CM or Science fields acceptable to the University. Canadian Pre-University/Monash University Foundation Year (MUFY)/Australian Matriculation (AUSMAT)/South Australian Matriculation (SAM) (Other): Pass with a minimum 60% points, including 2 Science subjects or credits in 2 Science subjects in SPM/O-Level or equivalent. English Proficiency (For International Students Only): MUET Band 3 or CEFR High B1 or IELTS 5.0 or TOEFL iBT 40 or equivalent."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -59,5 +58,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Homeopathic Medical Science (Hons)",
+  "program_name_zh": "Homeopathic Medical Science (Hons)学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

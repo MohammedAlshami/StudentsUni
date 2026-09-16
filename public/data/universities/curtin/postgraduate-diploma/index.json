@@ -5,7 +5,23 @@
   "level_label": "Graduate Diploma",
   "program_count": 2,
   "programs": [
-    { "slug": "graduate-diploma-in-project-management", "name": "Graduate Diploma in Project Management", "field": "Business & Commerce" },
-    { "slug": "graduate-diploma-in-public-health", "name": "Graduate Diploma in Public Health", "field": "Health Sciences" }
-  ]
+    {
+      "slug": "graduate-diploma-in-project-management",
+      "name": "Graduate Diploma in Project Management",
+      "field": "Business & Commerce"
+    },
+    {
+      "slug": "graduate-diploma-in-public-health",
+      "name": "Graduate Diploma in Public Health",
+      "field": "Health Sciences"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 16000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+  }
 }

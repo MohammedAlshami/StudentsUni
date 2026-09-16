@@ -4,83 +4,179 @@
     "program_name": "Diploma in Nursing",
     "field": "Healthcare",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-medical-laboratory-technology",
     "program_name": "Diploma in Medical Laboratory Technology",
     "field": "Healthcare",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-sports-industry-management",
     "program_name": "Diploma in Sports Industry Management",
     "field": "Business",
     "duration": "2 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-physiotherapy",
     "program_name": "Diploma in Physiotherapy",
     "field": "Healthcare",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-photography-technology",
     "program_name": "Diploma In Photography Technology",
     "field": "Media",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-medical-imaging",
     "program_name": "Diploma in Medical Imaging",
     "field": "Healthcare",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-accountancy",
     "program_name": "Diploma in Accountancy",
     "field": "Accounting",
     "duration": "2.5 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 26400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+    }
   },
   {
     "slug": "diploma-in-administrative-management",
     "program_name": "Diploma in Administrative Management",
     "field": "Business",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-business-management",
     "program_name": "Diploma in Business Management",
     "field": "Business",
     "duration": "2.5 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 26400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+    }
   },
   {
     "slug": "diploma-in-environmental-health",
     "program_name": "Diploma in Environmental Health",
     "field": "Healthcare",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "diploma-in-digital-graphic-design",
     "program_name": "Diploma In Digital Graphic Design",
     "field": "Design",
     "duration": "2.5 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 26400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+    }
   },
   {
     "slug": "diploma-in-communication-and-media",
     "program_name": "Diploma In Communication And Media",
     "field": "Communication",
     "duration": "2.5 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 26400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+    }
   }
 ]

@@ -8,21 +8,41 @@
   "faculty": "Technical and Vocational Education",
   "duration": "1.5 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "local": "4550/Course",
     "international": "USD3060/Course",
     "currency": "MYR",
-    "local_total": 4550.0,
-    "per_year_local": 1137.5,
+    "local_total": 1705,
+    "per_year_local": 1137,
     "notes": "Fee: 4550/Course"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UTHM/0008183/",
     "https://www.studymalaysia.com/edu/uthm/courses/"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Technical Education (Industrial Electronics)",
+  "program_name_zh": "Technical Education (Industrial Electronics)硕士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

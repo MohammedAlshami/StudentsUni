@@ -14,22 +14,22 @@
     "currency": "MYR",
     "local_total": 19000,
     "international_total": 22800,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.0yr duration)",
+    "per_year_local": 9500
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Bachelor degree in Nursing or nursing related Registered with Nursing Board Malaysia or its equivalent Possess current Annual Practicing Certificate (APC) Minimum three (3) years working experience   English Requirements for International Students: Temporary Practice Certificate (TPC) IELTS minimum 6.5 TOEFL minimum 600 or equivalent"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -50,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science in Nursing",
+  "program_name_zh": "Science in Nursing硕士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

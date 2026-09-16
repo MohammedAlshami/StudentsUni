@@ -6,25 +6,30 @@
   "field": "Business & Management",
   "duration": "1.5 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jul",
+    "Mar",
+    "Nov"
+  ],
   "fees": {
     "local_total": 18000,
-    "international_total": 4000
+    "international_total": 4000,
+    "per_year_local": 12000,
+    "notes": " (per_year based on 1.5yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: A Bachelor’s Degree (Level 6, MQF) with a minimum CGPA of 2.50 or equivalent, as accepted by the Lincoln University College Senate; or A Bachelor’s Degree (Level 6, MQF) or equivalent not meeting a CGPA of 2.50, can be accepted subject to a minimum of 5 years of working experience in a relevant field; or Other qualifications recognized by the Malaysian Government. English Profiency Requirements (International Students): International English Language Testing System (IELTS) score of 6.0 or its equivalent. If a student does not meet this requirement, HEPS must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the program."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -41,5 +46,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration in Project Management",
+  "program_name_zh": "Business Administration in Project Management硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

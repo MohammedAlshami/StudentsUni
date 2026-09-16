@@ -3,14 +3,20 @@
   "field": "",
   "duration": "3 years",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Jul",
+    "Jun",
+    "Mar",
+    "Oct",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 58560,
     "international_total": 62220,
-    "per_year_local": null,
+    "per_year_local": 19520,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -39,5 +45,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) in Economics and Finance",
+  "program_name_zh": "Science (Hons) in Economics and Finance学士"
 }

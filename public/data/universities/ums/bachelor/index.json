@@ -2,71 +2,409 @@
   "university_slug": "ums",
   "level": "bachelor",
   "programs": [
-    {"slug": "bachelor-of-international-finance-international-financial-economics", "name": "Bachelor of International Finance (International Financial Economics) (Hons)", "field": "Business / Finance", "detail_status": "pending"},
-    {"slug": "bachelor-of-engineering-chemical-engineering", "name": "Bachelor of Engineering (Chemical Engineering) (Hons)", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-conservation-biology", "name": "Bachelor of Science (Conservation Biology) (Hons)", "field": "Science / Life Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-marine-science", "name": "Bachelor of Science (Marine Science) (Hons)", "field": "Science / Life Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-biotechnology", "name": "Bachelor of Science (Biotechnology) (Hons)", "field": "Science / Life Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-industrial-chemistry", "name": "Bachelor of Science (Industrial Chemistry) (Hons)", "field": "Science / Physical Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-geology", "name": "Bachelor of Science (Geology) (Hons)", "field": "Science / Physical Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-visual-arts-technology", "name": "Bachelor of Visual Arts Technology (Hons)", "field": "Creative Arts", "detail_status": "pending"},
-    {"slug": "bachelor-of-education-education-with-economics", "name": "Bachelor of Education (Education with Economics) (Hons)", "field": "Education", "detail_status": "pending"},
-    {"slug": "bachelor-of-engineering-electrical-electronic-engineering", "name": "Bachelor of Engineering (Electrical & Electronic Engineering) (Hons)", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-food-science-food-science-nutrition", "name": "Bachelor of Food Science (Food Science & Nutrition) (Hons)", "field": "Science / Applied Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-tourism-management", "name": "Bachelor of Tourism Management (Hons)", "field": "Hospitality & Tourism", "detail_status": "pending"},
-    {"slug": "bachelor-of-forestry-science-forest-plantation-agro-forestry", "name": "Bachelor Science in Forestry (Forest Plantation & Agro Forestry) (Hons)", "field": "Agriculture / Forestry", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-aquaculture", "name": "Bachelor of Science (Aquaculture) (Hons)", "field": "Agriculture / Fisheries", "detail_status": "pending"},
-    {"slug": "bachelor-of-forestry-science-international-tropical-forestry", "name": "Bachelor of Forestry Science (International Tropical Forestry) (Hons)", "field": "Agriculture / Forestry", "detail_status": "pending"},
-    {"slug": "doctor-of-medicine", "name": "Doctor of Medicine", "field": "Medicine", "detail_status": "pending"},
-    {"slug": "bachelor-of-computer-science-data-science", "name": "Bachelor of Computer Science (Data Science) (Hons)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-engineering-mechanical-engineering", "name": "Bachelor of Engineering (Mechanical Engineering) (Hons)", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-computer-science-network-engineering", "name": "Bachelor of Computer Science (Network Engineering) (Hons)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-computer-science-software-engineering", "name": "Bachelor of Computer Science (Software Engineering) (Hons)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-engineering-oil-and-gas-engineering", "name": "Bachelor of Engineering (Oil and Gas Engineering) (Hons)", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-islamic-studies-pendarasan-islam", "name": "Bachelor of Islamic Studies (Pendarasan Islam) (Hons)", "field": "Islamic Studies", "detail_status": "pending"},
-    {"slug": "bachelor-of-early-childhood-education", "name": "Bachelor of Early Childhood Education (Hons)", "field": "Education", "detail_status": "pending"},
-    {"slug": "bachelor-of-education-history", "name": "Bachelor of Education (History) (Hons)", "field": "Education", "detail_status": "pending"},
-    {"slug": "bachelor-of-electronic-engineering-computer", "name": "Bachelor of Electronic Engineering (Computer) (Hons)", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-hospitality-management", "name": "Bachelor of Hospitality Management (Hons)", "field": "Hospitality & Tourism", "detail_status": "pending"},
-    {"slug": "bachelor-in-nursing-science", "name": "Bachelor in Nursing Science (Hons)", "field": "Nursing", "detail_status": "pending"},
-    {"slug": "bachelor-of-information-technology-multimedia-technology", "name": "Bachelor of Information Technology (Multimedia Technology) (Hons)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-counselling", "name": "Bachelor of Counselling with Honours", "field": "Social Sciences / Counseling", "detail_status": "pending"},
-    {"slug": "bachelor-of-shariah", "name": "Bachelor of Shariah with Honours", "field": "Islamic Studies", "detail_status": "pending"},
-    {"slug": "bachelor-of-usuluddin", "name": "Bachelor of Usuluddin with Honours", "field": "Islamic Studies", "detail_status": "pending"},
-    {"slug": "bachelor-of-information-technology-e-commerce", "name": "Bachelor of Information Technology (E-Commerce) (Hons)", "field": "Computer Science / IT", "detail_status": "pending"},
-    {"slug": "bachelor-of-agriculture-science-livestock-production", "name": "Bachelor of Agriculture Science (Livestock Production) (Hons)", "field": "Agriculture", "detail_status": "pending"},
-    {"slug": "bachelor-of-agriculture-science-horticulture-and-landscape", "name": "Bachelor of Agriculture Science (Horticulture and Landscape) (Hons)", "field": "Agriculture", "detail_status": "pending"},
-    {"slug": "bachelor-of-international-finance-international-offshore-banking-finance", "name": "Bachelor of International Finance (International & Offshore Banking Finance) (Hons)", "field": "Business / Finance", "detail_status": "pending"},
-    {"slug": "bachelor-of-international-marketing", "name": "Bachelor of International Marketing (Hons)", "field": "Business / Marketing", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-industrial-physics", "name": "Bachelor of Science (Industrial Physics) (Hons)", "field": "Science / Physical Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-mathematics-with-economy", "name": "Bachelor of Science (Mathematics with Economy) (Hons)", "field": "Science / Mathematics", "detail_status": "pending"},
-    {"slug": "bachelor-of-food-science-food-service", "name": "Bachelor of Food Science (Food Service) (Hons)", "field": "Science / Applied Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-mathematics-with-computer-graphic", "name": "Bachelor of Science (Mathematics with Computer Graphic) (Hons)", "field": "Science / Mathematics", "detail_status": "pending"},
-    {"slug": "bachelor-of-agriculture-science-crop-production", "name": "Bachelor of Agriculture Science (Crop Production) (Hons)", "field": "Agriculture", "detail_status": "pending"},
-    {"slug": "bachelor-of-science-environmental-science", "name": "Bachelor of Science (Environmental Science) (Hons)", "field": "Environmental Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-accounting", "name": "Bachelor of Accounting (Hons)", "field": "Business / Accounting", "detail_status": "pending"},
-    {"slug": "bachelor-of-social-science-industrial-relations", "name": "Bachelor of Social Science (Industrial Relations) (Hons)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-forestry-science-wood-industry-technology", "name": "Bachelor of Forestry Science (Wood Industry & Technology) (Hons)", "field": "Agriculture / Forestry", "detail_status": "pending"},
-    {"slug": "bachelor-of-social-science-communications", "name": "Bachelor of Social Science (Communications) (Hons)", "field": "Social Sciences / Communications", "detail_status": "pending"},
-    {"slug": "bachelor-of-business-entrepreneurship", "name": "Bachelor of Business (Entrepreneurship) (Hons)", "field": "Business / Management", "detail_status": "pending"},
-    {"slug": "bachelor-of-islamic-finance", "name": "Bachelor of Islamic Finance (Hons)", "field": "Business / Islamic Finance", "detail_status": "pending"},
-    {"slug": "bachelor-of-social-science-sociology-anthropology", "name": "Bachelor of Social Science (Sociology & Anthropology Social) (Hons)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-economics-financial-economics", "name": "Bachelor of Economics (Financial Economics) (Hons)", "field": "Business / Economics", "detail_status": "pending"},
-    {"slug": "bachelor-of-engineering-civil-engineering", "name": "Bachelor of Engineering (Civil Engineering) (Hons)", "field": "Engineering", "detail_status": "pending"},
-    {"slug": "bachelor-of-social-work", "name": "Bachelor of Social Work (Hons)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-economics-planning-development-economics", "name": "Bachelor of Economics (Planning & Development Economics) (Hons)", "field": "Business / Economics", "detail_status": "pending"},
-    {"slug": "bachelor-of-sports-science", "name": "Bachelor of Sports Science (Hons)", "field": "Sport Science", "detail_status": "pending"},
-    {"slug": "bachelor-of-forestry-science-nature-parks-recreation", "name": "Bachelor of Forestry Science (Nature Parks & Recreation) (Hons)", "field": "Agriculture / Forestry", "detail_status": "pending"},
-    {"slug": "bachelor-of-social-science-international-relations", "name": "Bachelor of Social Science (International Relations) (Hons)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-social-science-geography", "name": "Bachelor of Social Science (Geography) (Hons)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-international-business-international-finance", "name": "Bachelor of International Business (International Finance) (Hons)", "field": "Business / Finance", "detail_status": "pending"},
-    {"slug": "bachelor-of-education-education-with-tesl", "name": "Bachelor of Education (Education with TESL) (Hons)", "field": "Education", "detail_status": "pending"},
-    {"slug": "bachelor-of-economics-human-resource-economics", "name": "Bachelor of Economics (Human Resource Economics) (Hons)", "field": "Business / Economics", "detail_status": "pending"},
-    {"slug": "bachelor-of-business-marketing", "name": "Bachelor of Business (Marketing) (Hons)", "field": "Business / Marketing", "detail_status": "pending"},
-    {"slug": "bachelor-of-business-international-business", "name": "Bachelor of Business (International Business) (Hons)", "field": "Business / Management", "detail_status": "pending"},
-    {"slug": "bachelor-of-business-financial-management-banking", "name": "Bachelor of Business (Financial Management & Banking) (Hons)", "field": "Business / Finance", "detail_status": "pending"},
-    {"slug": "bachelor-of-nutrition", "name": "Bachelor of Nutrition (Hons)", "field": "Medicine & Healthcare", "detail_status": "pending"},
-    {"slug": "bachelor-of-social-science-history", "name": "Bachelor of Social Science (History) (Hons)", "field": "Social Sciences", "detail_status": "pending"},
-    {"slug": "bachelor-of-arts-music-studies", "name": "Bachelor of Arts (Music Studies) (Hons)", "field": "Creative Arts / Performing Arts", "detail_status": "pending"}
-  ]
+    {
+      "slug": "bachelor-of-international-finance-international-financial-economics",
+      "name": "Bachelor of International Finance (International Financial Economics) (Hons)",
+      "field": "Business / Finance",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-engineering-chemical-engineering",
+      "name": "Bachelor of Engineering (Chemical Engineering) (Hons)",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-conservation-biology",
+      "name": "Bachelor of Science (Conservation Biology) (Hons)",
+      "field": "Science / Life Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-marine-science",
+      "name": "Bachelor of Science (Marine Science) (Hons)",
+      "field": "Science / Life Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-biotechnology",
+      "name": "Bachelor of Science (Biotechnology) (Hons)",
+      "field": "Science / Life Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-industrial-chemistry",
+      "name": "Bachelor of Science (Industrial Chemistry) (Hons)",
+      "field": "Science / Physical Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-geology",
+      "name": "Bachelor of Science (Geology) (Hons)",
+      "field": "Science / Physical Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-visual-arts-technology",
+      "name": "Bachelor of Visual Arts Technology (Hons)",
+      "field": "Creative Arts",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-education-education-with-economics",
+      "name": "Bachelor of Education (Education with Economics) (Hons)",
+      "field": "Education",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-engineering-electrical-electronic-engineering",
+      "name": "Bachelor of Engineering (Electrical & Electronic Engineering) (Hons)",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-food-science-food-science-nutrition",
+      "name": "Bachelor of Food Science (Food Science & Nutrition) (Hons)",
+      "field": "Science / Applied Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-tourism-management",
+      "name": "Bachelor of Tourism Management (Hons)",
+      "field": "Hospitality & Tourism",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-forestry-science-forest-plantation-agro-forestry",
+      "name": "Bachelor Science in Forestry (Forest Plantation & Agro Forestry) (Hons)",
+      "field": "Agriculture / Forestry",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-aquaculture",
+      "name": "Bachelor of Science (Aquaculture) (Hons)",
+      "field": "Agriculture / Fisheries",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-forestry-science-international-tropical-forestry",
+      "name": "Bachelor of Forestry Science (International Tropical Forestry) (Hons)",
+      "field": "Agriculture / Forestry",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "doctor-of-medicine",
+      "name": "Doctor of Medicine",
+      "field": "Medicine",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-computer-science-data-science",
+      "name": "Bachelor of Computer Science (Data Science) (Hons)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-engineering-mechanical-engineering",
+      "name": "Bachelor of Engineering (Mechanical Engineering) (Hons)",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-computer-science-network-engineering",
+      "name": "Bachelor of Computer Science (Network Engineering) (Hons)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-computer-science-software-engineering",
+      "name": "Bachelor of Computer Science (Software Engineering) (Hons)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-engineering-oil-and-gas-engineering",
+      "name": "Bachelor of Engineering (Oil and Gas Engineering) (Hons)",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-islamic-studies-pendarasan-islam",
+      "name": "Bachelor of Islamic Studies (Pendarasan Islam) (Hons)",
+      "field": "Islamic Studies",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-early-childhood-education",
+      "name": "Bachelor of Early Childhood Education (Hons)",
+      "field": "Education",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-education-history",
+      "name": "Bachelor of Education (History) (Hons)",
+      "field": "Education",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-electronic-engineering-computer",
+      "name": "Bachelor of Electronic Engineering (Computer) (Hons)",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-hospitality-management",
+      "name": "Bachelor of Hospitality Management (Hons)",
+      "field": "Hospitality & Tourism",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-in-nursing-science",
+      "name": "Bachelor in Nursing Science (Hons)",
+      "field": "Nursing",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-information-technology-multimedia-technology",
+      "name": "Bachelor of Information Technology (Multimedia Technology) (Hons)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-counselling",
+      "name": "Bachelor of Counselling with Honours",
+      "field": "Social Sciences / Counseling",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-shariah",
+      "name": "Bachelor of Shariah with Honours",
+      "field": "Islamic Studies",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-usuluddin",
+      "name": "Bachelor of Usuluddin with Honours",
+      "field": "Islamic Studies",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-information-technology-e-commerce",
+      "name": "Bachelor of Information Technology (E-Commerce) (Hons)",
+      "field": "Computer Science / IT",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-agriculture-science-livestock-production",
+      "name": "Bachelor of Agriculture Science (Livestock Production) (Hons)",
+      "field": "Agriculture",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-agriculture-science-horticulture-and-landscape",
+      "name": "Bachelor of Agriculture Science (Horticulture and Landscape) (Hons)",
+      "field": "Agriculture",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-international-finance-international-offshore-banking-finance",
+      "name": "Bachelor of International Finance (International & Offshore Banking Finance) (Hons)",
+      "field": "Business / Finance",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-international-marketing",
+      "name": "Bachelor of International Marketing (Hons)",
+      "field": "Business / Marketing",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-industrial-physics",
+      "name": "Bachelor of Science (Industrial Physics) (Hons)",
+      "field": "Science / Physical Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-mathematics-with-economy",
+      "name": "Bachelor of Science (Mathematics with Economy) (Hons)",
+      "field": "Science / Mathematics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-food-science-food-service",
+      "name": "Bachelor of Food Science (Food Service) (Hons)",
+      "field": "Science / Applied Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-mathematics-with-computer-graphic",
+      "name": "Bachelor of Science (Mathematics with Computer Graphic) (Hons)",
+      "field": "Science / Mathematics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-agriculture-science-crop-production",
+      "name": "Bachelor of Agriculture Science (Crop Production) (Hons)",
+      "field": "Agriculture",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-science-environmental-science",
+      "name": "Bachelor of Science (Environmental Science) (Hons)",
+      "field": "Environmental Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-accounting",
+      "name": "Bachelor of Accounting (Hons)",
+      "field": "Business / Accounting",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-social-science-industrial-relations",
+      "name": "Bachelor of Social Science (Industrial Relations) (Hons)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-forestry-science-wood-industry-technology",
+      "name": "Bachelor of Forestry Science (Wood Industry & Technology) (Hons)",
+      "field": "Agriculture / Forestry",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-social-science-communications",
+      "name": "Bachelor of Social Science (Communications) (Hons)",
+      "field": "Social Sciences / Communications",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-business-entrepreneurship",
+      "name": "Bachelor of Business (Entrepreneurship) (Hons)",
+      "field": "Business / Management",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-islamic-finance",
+      "name": "Bachelor of Islamic Finance (Hons)",
+      "field": "Business / Islamic Finance",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-social-science-sociology-anthropology",
+      "name": "Bachelor of Social Science (Sociology & Anthropology Social) (Hons)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-economics-financial-economics",
+      "name": "Bachelor of Economics (Financial Economics) (Hons)",
+      "field": "Business / Economics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-engineering-civil-engineering",
+      "name": "Bachelor of Engineering (Civil Engineering) (Hons)",
+      "field": "Engineering",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-social-work",
+      "name": "Bachelor of Social Work (Hons)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-economics-planning-development-economics",
+      "name": "Bachelor of Economics (Planning & Development Economics) (Hons)",
+      "field": "Business / Economics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-sports-science",
+      "name": "Bachelor of Sports Science (Hons)",
+      "field": "Sport Science",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-forestry-science-nature-parks-recreation",
+      "name": "Bachelor of Forestry Science (Nature Parks & Recreation) (Hons)",
+      "field": "Agriculture / Forestry",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-social-science-international-relations",
+      "name": "Bachelor of Social Science (International Relations) (Hons)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-social-science-geography",
+      "name": "Bachelor of Social Science (Geography) (Hons)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-international-business-international-finance",
+      "name": "Bachelor of International Business (International Finance) (Hons)",
+      "field": "Business / Finance",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-education-education-with-tesl",
+      "name": "Bachelor of Education (Education with TESL) (Hons)",
+      "field": "Education",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-economics-human-resource-economics",
+      "name": "Bachelor of Economics (Human Resource Economics) (Hons)",
+      "field": "Business / Economics",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-business-marketing",
+      "name": "Bachelor of Business (Marketing) (Hons)",
+      "field": "Business / Marketing",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-business-international-business",
+      "name": "Bachelor of Business (International Business) (Hons)",
+      "field": "Business / Management",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-business-financial-management-banking",
+      "name": "Bachelor of Business (Financial Management & Banking) (Hons)",
+      "field": "Business / Finance",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-nutrition",
+      "name": "Bachelor of Nutrition (Hons)",
+      "field": "Medicine & Healthcare",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-social-science-history",
+      "name": "Bachelor of Social Science (History) (Hons)",
+      "field": "Social Sciences",
+      "detail_status": "pending"
+    },
+    {
+      "slug": "bachelor-of-arts-music-studies",
+      "name": "Bachelor of Arts (Music Studies) (Hons)",
+      "field": "Creative Arts / Performing Arts",
+      "detail_status": "pending"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

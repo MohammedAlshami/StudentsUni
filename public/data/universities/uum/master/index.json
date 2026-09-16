@@ -3,378 +3,882 @@
     "slug": "master-in-taxation",
     "name": "Master in Taxation",
     "field": "Accounting",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-accounting-research",
     "name": "Master of Science (Accounting) - Research",
     "field": "Accounting",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-international-accounting",
     "name": "Master of Science (International Accounting)",
     "field": "Accounting",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-in-applied-linguistics",
     "name": "Master in Applied Linguistics",
     "field": "Applied Linguistics",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-communication-research",
     "name": "Master of Arts (Communication) - Research",
     "field": "Communication",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-managerial-communication",
     "name": "Master of Science (Managerial Communication)",
     "field": "Communication",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-information-communication-technology",
     "name": "Master of Science (Information and Communication Technology)",
     "field": "Computing",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-information-technology",
     "name": "Master of Science (Information Technology)",
     "field": "Computing",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-intelligent-system",
     "name": "Master of Science (Intelligent System)",
     "field": "Computing",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-in-cybersecurity",
     "name": "Master of Science in Cybersecurity",
     "field": "Computing",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-contemporary-malay-language-studies",
     "name": "Master of Arts (Contemporary Malay Language Studies)",
     "field": "Language Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-correctional-science",
     "name": "Master of Science (Correctional Science)",
     "field": "Counselling",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-counselling",
     "name": "Master of Science (Counselling)",
     "field": "Counselling",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-decision-science",
     "name": "Master of Science (Decision Science)",
     "field": "Decision Science",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-in-operations-research-analytics",
     "name": "Master of Science in Operations Research and Analytics",
     "field": "Decision Science",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-economics",
     "name": "Master of Economics",
     "field": "Economics",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-education",
     "name": "Master of Education",
     "field": "Education",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-educational-management",
     "name": "Master of Science (Educational Management)",
     "field": "Education",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-principalship",
     "name": "Master of Science (Principalship)",
     "field": "Education",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "postgraduate-diploma-in-education",
     "name": "Postgraduate Diploma in Education",
     "field": "Education",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "postgraduate-diploma-higher-education-learning-teaching",
     "name": "Postgraduate Diploma in Higher Education Learning and Teaching",
     "field": "Education",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-banking-research",
     "name": "Master of Science (Banking) - Research",
     "field": "Finance and Banking",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-finance",
     "name": "Master of Science (Finance)",
     "field": "Finance and Banking",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-risk-management",
     "name": "Master of Science (Risk Management)",
     "field": "Finance and Banking",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-history-research",
     "name": "Master of Arts (History) - Research",
     "field": "History",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-human-resource-management",
     "name": "Master of Human Resource Management",
     "field": "Human Resource Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-occupational-safety-health-management",
     "name": "Master of Science (Occupational Safety and Health Management)",
     "field": "Human Resource Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-international-business",
     "name": "Master of Science (International Business)",
     "field": "International Business",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-in-international-political-economy",
     "name": "Master in International Political Economy",
     "field": "International Relations",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-international-relations-research",
     "name": "Master of Arts (International Relations) - Research",
     "field": "International Relations",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-in-islamic-finance-banking",
     "name": "Master in Islamic Finance and Banking",
     "field": "Islamic Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-islamic-studies-research",
     "name": "Master of Arts (Islamic Studies) - Research",
     "field": "Islamic Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-islamic-business-studies",
     "name": "Master of Islamic Business Studies",
     "field": "Islamic Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-islamic-finance-research",
     "name": "Master of Science (Islamic Finance) - Research",
     "field": "Islamic Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-commercial-law",
     "name": "Master of Commercial Law",
     "field": "Law",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-corporate-law",
     "name": "Master of Corporate Law",
     "field": "Law",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-human-resource-law",
     "name": "Master of Human Resource Law",
     "field": "Law",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-law",
     "name": "Master of Law",
     "field": "Law",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-business-administration",
     "name": "Master of Business Administration",
     "field": "Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-business-management",
     "name": "Master of Business Management",
     "field": "Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-management",
     "name": "Master of Science (Management)",
     "field": "Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-mathematics-research",
     "name": "Master of Science (Mathematics) - Research",
     "field": "Mathematics",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-media-management-research",
     "name": "Master of Science (Media Management) - Research",
     "field": "Media Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-multimedia-journalism",
     "name": "Master of Science Multimedia Journalism",
     "field": "Media Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-multimedia-studies-research",
     "name": "Master of Science (Multimedia Studies) - Research",
     "field": "Multimedia Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-multimedia-studies",
     "name": "Master of Science Multimedia Studies",
     "field": "Multimedia Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-nationhood-studies",
     "name": "Master of Arts in Nationhood Studies",
     "field": "Nationhood Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-operation-management-research",
     "name": "Master of Science (Operation Management) - Research",
     "field": "Operation, Logistics and Technology Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-project-management",
     "name": "Master of Science (Project Management)",
     "field": "Operation, Logistics and Technology Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-supply-chain-management",
     "name": "Master of Science (Supply Chain Management)",
     "field": "Operation, Logistics and Technology Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-technology-management-research",
     "name": "Master of Science (Technology Management) - Research",
     "field": "Operation, Logistics and Technology Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-transportation-logistics-management",
     "name": "Master of Science (Transportation and Logistics Management)",
     "field": "Operation, Logistics and Technology Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-political-science-research",
     "name": "Master of Arts (Political Science) - Research",
     "field": "Political Sciences",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-psychology-research",
     "name": "Master of Arts (Psychology) - Research",
     "field": "Psychology",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-public-management",
     "name": "Master of Public Management",
     "field": "Public Management",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-social-work-research",
     "name": "Master of Arts (Social Work) - Research",
     "field": "Social Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-social-work",
     "name": "Master of Social Work",
     "field": "Social Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-sociology-research",
     "name": "Master of Arts (Sociology) - Research",
     "field": "Sociology",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-data-analysis",
     "name": "Master of Science (Data Analysis)",
     "field": "Statistics",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-statistics-research",
     "name": "Master of Science (Statistics) - Research",
     "field": "Statistics",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-strategic-studies",
     "name": "Master of Science (Strategic Studies)",
     "field": "Strategic Studies",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-in-tourism-management",
     "name": "Master in Tourism Management",
     "field": "Tourism, Hospitality and Event",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "master-of-science-tourism-management-research",
     "name": "Master of Science (Tourism Management) - Research",
     "field": "Tourism, Hospitality and Event",
-    "detail_status": "partial"
+    "detail_status": "partial",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 4200,
+      "international_total": null,
+      "per_year_local": 1400,
+      "per_year_international": null,
+      "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    }
   }
 ]

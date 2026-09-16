@@ -14,22 +14,22 @@
     "currency": "MYR",
     "local_total": 8450,
     "international_total": 9200,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.0yr duration)",
+    "per_year_local": 4225
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A Bachelor’s degree (Level 6, MQF) in Computing or related fields with a minimum CGPA of 2.50 or equivalent, as accepted by the Senate; OR A Bachelor’s degree (Level 6, MQF) in Computing or related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 or equivalent, can be accepted subject to a minimum of FIVE (5) years of working experience in the related fields and rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-computing fields with a minimum CGPA of 2.00 or equivalent, must undergo appropriate prerequisite courses as determined by the HEP with minimum of 5 years working experience in the relevant field and rigorous internal assessment; OR Other qualifications equivalent to a Bachelor’s degree (Level 6, MQF) in the field of Computing or related fields recognised by the Government of Malaysia must undergo appropriate prerequisite courses as determined by the HEP English Entry Requirement: a minimum IELTS overall band score of 6.0 ; or a minimum overall TOEFL iBT score of 60 ; or a minimum MUET overall band score of 4 ; or a minimum Pearson Test of English score of 59 ; or a minimum Cambridge Qualifications and Test score of 169; or a minimum Linguaskill overall band score of 169"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -73,5 +73,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Computer Science in Software Engineering via ODL (By Coursework)",
+  "program_name_zh": "Computer Science in Software Engineering via ODL (By Coursework)硕士",
+  "field_ar": "علوم الحاسوب",
+  "field_zh": "计算机科学"
 }

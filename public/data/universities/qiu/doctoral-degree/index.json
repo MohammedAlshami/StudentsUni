@@ -9,5 +9,13 @@
     "doctor-of-philosophy-in-business-administration",
     "doctor-of-business-administration",
     "doctor-of-philosophy-in-science"
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

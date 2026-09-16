@@ -7,7 +7,11 @@
   "slug": "master-of-computer-science-areas-of-specialisation-information-security-computer-forensics",
   "duration": "1 Yr",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "21980/Course",
     "international": "21980/Course",
@@ -26,5 +30,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Computer Science (Areas of specialisation: Information Security/Computer Forensics)",
+  "program_name_zh": "Computer Science (Areas of specialisation: Information Security/Computer Forensics)硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

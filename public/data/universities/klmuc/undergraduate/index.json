@@ -3,83 +3,193 @@
     "program_name": "Bachelor in Accounting and Finance",
     "field": "Accounting & Finance",
     "duration": "9 Semesters / 3 Years (Full time) | 18 Semesters / 6 Years (Part time)",
-    "mode": ["Full-time", "Part-time"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 31,200 - RM 48,000"},
+    "mode": [
+      "Full-time",
+      "Part-time"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 67500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
-    "accreditation": {"mqa_ref": "N/0411/6/0134", "valid_until": "05/31"},
-    "sources": ["https://www.unitar.my/programmes/"],
+    "accreditation": {
+      "mqa_ref": "N/0411/6/0134",
+      "valid_until": "05/31"
+    },
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "high",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "program_name": "Bachelor in Accounting and Finance",
     "field": "Accounting & Finance",
     "duration": "9 Semesters / 3 Years (Full time) | 18 Semesters / 6 Years (Part time)",
-    "mode": ["Full-time", "Part-time"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 31,200 - RM 48,000"},
+    "mode": [
+      "Full-time",
+      "Part-time"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 67500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
-    "accreditation": {"mqa_ref": "N/0411/6/0137", "valid_until": "06/31"},
+    "accreditation": {
+      "mqa_ref": "N/0411/6/0137",
+      "valid_until": "06/31"
+    },
     "campus": "KLMUC",
-    "sources": ["https://www.unitar.my/programmes/"],
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "high",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "program_name": "Bachelor in Human Resource Management (Honours)",
     "field": "Business & Entrepreneurship",
     "duration": "9 Semesters / 3 Years",
-    "mode": ["Full-time"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 30,000 - RM 46,153"},
+    "mode": [
+      "Full-time"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 67500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
-    "accreditation": {"mqa_ref": "R2/0414/6/0058", "valid_until": "05/2030"},
+    "accreditation": {
+      "mqa_ref": "R2/0414/6/0058",
+      "valid_until": "05/2030"
+    },
     "campus": "KLMUC",
-    "sources": ["https://www.unitar.my/programmes/"],
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "high",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "program_name": "Bachelor in Business Management (Honours)",
     "field": "Business & Entrepreneurship",
     "duration": "9 Semesters / 3 Years",
-    "mode": ["Full-time"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 30,000 - RM 46,153"},
+    "mode": [
+      "Full-time"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 67500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
-    "accreditation": {"mqa_ref": "R2/0414/6/0058", "valid_until": "05/2030"},
+    "accreditation": {
+      "mqa_ref": "R2/0414/6/0058",
+      "valid_until": "05/2030"
+    },
     "campus": "KLMUC",
-    "sources": ["https://www.unitar.my/programmes/"],
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "high",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "program_name": "Bachelor of Education (Hons)",
     "field": "Education",
     "duration": "9 Semesters / 3 Years",
-    "mode": ["Full-time"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 30,000 - RM 46,153"},
+    "mode": [
+      "Full-time"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 67500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
-    "accreditation": {"mqa_ref": "R2/0414/6/0058", "valid_until": "05/2030"},
+    "accreditation": {
+      "mqa_ref": "R2/0414/6/0058",
+      "valid_until": "05/2030"
+    },
     "campus": "KLMUC",
-    "sources": ["https://www.unitar.my/programmes/"],
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "high",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "program_name": "Bachelor of Education (Early Childhood Education) (Hons)",
     "field": "Education",
     "duration": "9 Semesters / 3 Years",
-    "mode": ["Full-time"],
-    "intakes": ["January", "May", "September"],
-    "fees": {"local": "RM 30,000 - RM 46,153"},
+    "mode": [
+      "Full-time"
+    ],
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 67500,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme"
+    },
     "requirements": null,
-    "accreditation": {"mqa_ref": "R2/0414/6/0058", "valid_until": "05/2030"},
+    "accreditation": {
+      "mqa_ref": "R2/0414/6/0058",
+      "valid_until": "05/2030"
+    },
     "campus": "KLMUC",
-    "sources": ["https://www.unitar.my/programmes/"],
+    "sources": [
+      "https://www.unitar.my/programmes/"
+    ],
     "confidence": "high",
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

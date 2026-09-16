@@ -17,22 +17,24 @@
   "fees": {
     "local": "RM29,800.00",
     "international": null,
-    "local_total": 11315,
+    "local_total": 11314,
     "currency": "MYR",
-    "international_total": 11529
+    "international_total": 11529,
+    "per_year_local": 4849,
+    "notes": " (per_year based on 2.3333333333333335yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Applicants must meet one of the following criteria: SPM / SPMV / MCE – Minimum 3 credits Other equivalent qualifications as approved by the Malaysian Qualification Agency (MQA) Alternative Pathways for Candidates Without SPM or MCE Option 1: SPM / MCE – 2 credits AND Teaching Experience – 3 years Option 2: SPM / MCE – 1 credit AND Teaching Experience – 5 years Option 3: Qualifying test on BM, English, and Mathematics through the APEL Route created by MQA Refer to MQA&#39;s current status for updates Special Considerations Mature senior candidates with an acceptable ECCE qualification who fulfill the minimum requirements may apply for advanced standing."
   },
@@ -57,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Early Childhood Education",
+  "program_name_zh": "Early Childhood Education文凭",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

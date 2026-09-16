@@ -8,7 +8,10 @@
   "field": "Syariah & Law",
   "duration": "2 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "local": "RM 350/semester",
     "international": null,
@@ -20,9 +23,18 @@
     "per_year_international": 3000
   },
   "requirements": {
-    "general": "SPM with credits in Bahasa Melayu and Sejarah",
-    "specific": "Relevant Syariah and Law subjects",
-    "muet": "Band 1"
+    "malaysian": {
+      "spm": "5 Credits including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": {
     "mqa_program_code": null,
@@ -40,5 +52,9 @@
     "https://admission.usim.edu.my/tamhidi/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Tamhidi (Foundation Studies) for Syariah & Law",
+  "program_name_zh": "Tamhidi (Foundation Studies) for Syariah & Law",
+  "field_ar": "القانون",
+  "field_zh": "法律"
 }

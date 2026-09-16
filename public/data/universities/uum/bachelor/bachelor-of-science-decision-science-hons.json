@@ -6,7 +6,10 @@
   "field": "Decision Science",
   "duration": "8 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 7200,
@@ -41,5 +44,9 @@
     }
   ],
   "confidence": "partial",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science with Honours (Decision Science)",
+  "program_name_zh": "Science with Honours (Decision Science)学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

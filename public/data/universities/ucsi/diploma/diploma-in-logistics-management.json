@@ -6,23 +6,44 @@
   "field": "Logistics Management",
   "duration": "2 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 46,152",
     "international": "RM 58,474",
     "currency": "MYR",
-    "local_total": 46152,
+    "local_total": 92304,
     "international_total": 58474,
     "per_year_local": 46152,
     "per_year_international": 58474,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0006024/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Logistics Management",
+  "program_name_zh": "Logistics Management文凭",
+  "field_ar": "إدارة",
+  "field_zh": "管理学"
 }

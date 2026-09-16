@@ -13,7 +13,7 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 54250,
+    "local_total": 54249,
     "international_total": 67250,
     "per_year_local": 18083,
     "per_year_international": 22417,
@@ -21,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "Entry Requirments Any one of the following: Pass Foundation/Matriculation studies from a recognised institution with a minimum CGPA of 2.50 AND a Credit in Mathematics AND a Pass in English at SPM Level or its equivalent;  Pass STPM or its equivalent with a minimum Grade C+ (GP 2.33) in 2 subjects AND a Credit in Mathematics AND a Pass in English at SPM Level or its equivalent;  Pass A-Level with a minimum of Grade D in 2 subjects AND a Credit in Mathematics AND a Pass in English at SPM Level or its equivalent; OR Pass UEC with a minimum of Grade B in at least five 5) subjects inclusive of Mathematics and English;  Pass STAM with a minimum Grade Jayyid (Good) in 2 subjects AND a Credit in Mathematic AND a Pass in English at SPM Level or its equivalent;  Any qualification equivalent to Diploma in Finance, Banking, Insurance or related field (Level 4, MQF) with a minimum CGPA of 2.50 out of 4.00;  Pass DKM /DLKM/DVM with a minimum CGPA of 2.50. Candidates with CGPA below 2.50 MUST have at least two (2) years of work experience in the related field.*;  Possess an APEL.A certificate from MQA for admission into Bachelor programmes. For more information, please visit https://mmu.edu.my/apel-a Note: The Credit requirement for Mathematics and Pass in English at SPM Level for candidate in category (i), (ii), (iii) and (v) can be waived should the qualifications contain Mathematics and English subjects with equivalent higher achievement. *DKM /DLKM/DVM candidates may be required to undergo Bridging Programme as an additional requirement."
   },
@@ -76,5 +76,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Finance (Hons.)",
+  "program_name_zh": "Finance (Hons.)学士",
+  "field_ar": "التمويل",
+  "field_zh": "金融学"
 }

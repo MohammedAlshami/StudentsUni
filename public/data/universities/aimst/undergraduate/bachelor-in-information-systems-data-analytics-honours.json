@@ -5,13 +5,46 @@
   "program_name": "Bachelor in Information Systems (Data Analytics) (Honours)",
   "slug": "bachelor-in-information-systems-data-analytics-honours",
   "field": "Information Systems",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-  "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-  "accreditation": { "mqa_status": null, "mqa_ref": null },
-  "sources": ["https://www.aimst.edu.my/academic/bachelor-in-information-systems-data-analyticshonours/"],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.aimst.edu.my/academic/bachelor-in-information-systems-data-analyticshonours/"
+  ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Information Systems (Data Analytics) (Honours)",
+  "program_name_zh": "Information Systems (Data Analytics) (Honours)学士",
+  "field_ar": "Information Systems",
+  "field_zh": "Information Systems"
 }

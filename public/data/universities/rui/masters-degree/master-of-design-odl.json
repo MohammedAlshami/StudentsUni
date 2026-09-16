@@ -7,13 +7,18 @@
   "slug": "master-of-design-odl",
   "duration": "1 Year (Full Time) | 2 Years (Part Time)",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
-    "local": null,
-    "international": "Refer to Univ.",
-    "local_total": null,
-    "per_year_local": null,
-    "notes": " Local fees not published online; contact university."
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 66000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
   "requirements": null,
   "accreditation": null,
@@ -26,5 +31,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Design (ODL)",
+  "program_name_zh": "Design (ODL)硕士",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

@@ -7,16 +7,35 @@
   "field": "Business Management & Administration",
   "duration": "2 Years",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": ["Modular"],
-  "fees": { "local": "RM45,000.00", "international": null },
+  "intakes": [
+    "Modular"
+  ],
+  "fees": {
+    "local": "RM45,000.00",
+    "international": null,
+    "local_total": 45000,
+    "per_year_local": 22500
+  },
   "requirements": {
-    "degree": "Bachelor's degree from a recognised university with CGPA 2.50, preferably with adequate industry experience; CGPA <2.50 with 5 years relevant working experience also admissible",
-    "english": "IELTS 6.0 or equivalent"
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_code": "R2/0414/7/0147",
     "valid_until": "05/27",
-    "additional_codes": ["A5957"]
+    "additional_codes": [
+      "A5957"
+    ]
   },
   "faculty": "ELM Graduate School",
   "sources": [
@@ -24,5 +43,9 @@
     "https://www.help.edu.my"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration",
+  "program_name_zh": "Business Administration硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

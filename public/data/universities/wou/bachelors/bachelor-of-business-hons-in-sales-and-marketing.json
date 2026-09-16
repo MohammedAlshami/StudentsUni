@@ -6,14 +6,42 @@
   "field": "Business",
   "duration": "5 Years",
   "mode": "Part-time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 9000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/wou/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-business-hons-in-sales-and-marketing"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-business-hons-in-sales-and-marketing",
+  "program_name_ar": "بكالوريوس Business (Hons) in Sales and Marketing",
+  "program_name_zh": "Business (Hons) in Sales and Marketing学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

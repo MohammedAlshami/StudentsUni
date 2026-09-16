@@ -15,11 +15,26 @@
   "fees": {
     "local": "Refer to University",
     "international": "Refer to University",
-    "local_total": 16559,
+    "local_total": 16556,
     "currency": "MYR",
-    "international_total": 17884
+    "international_total": 17884,
+    "per_year_local": 6409,
+    "notes": " (per_year based on 2.5833333333333335yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058797/",
@@ -35,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Graphic Design",
+  "program_name_zh": "Graphic Design文凭",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

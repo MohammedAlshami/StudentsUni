@@ -5,29 +5,33 @@
   "program_name": "Diploma in Information Technology",
   "program_slug": "diploma-in-information-technology",
   "field": "ict",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 22500,
+    "local_total": 30000,
     "international_total": 33750,
-    "per_year_local": "RM10,000-RM12,500",
+    "per_year_local": 10000,
     "per_year_international": "RM15,000-RM18,750",
     "notes": "Indicative range based on EduSwasta 2026"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "partial",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Information Technology",
+  "program_name_zh": "Information Technology文凭",
+  "field_ar": "ict",
+  "field_zh": "ict"
 }

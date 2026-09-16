@@ -6,17 +6,32 @@
   "field": "Science",
   "duration": "2-3 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM8,950/Sem",
     "international": "RM10,130/Sem",
-    "local_total": 17900,
+    "local_total": 26850,
     "per_year_local": 17900,
     "international_total": 20260,
     "per_year_international": 20260,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Science",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -27,6 +42,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "foundation-in-science"
+  "last_updated": "2026-09-16",
+  "slug": "foundation-in-science",
+  "program_name_ar": "تأسيس Science",
+  "program_name_zh": "Science预科",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

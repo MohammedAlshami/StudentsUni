@@ -7,12 +7,16 @@
   "field": "Design & Creative Media",
   "duration": "1 year",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": null,
     "international": null,
     "currency": "MYR",
-    "local_total": 34800,
+    "local_total": 13920,
     "international_total": 38800,
     "notes": "Total program fee from source",
     "per_year_local": 13920
@@ -22,15 +26,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "General Requirements Bachelor’s degree in related fields with a minimum CGPA of 2.50, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a CGPA of less than 2.50 can be accepted, subject to a minimum of 5 years working experience in the relevant fields. Pass an interview or submission of portfolio determined by the Senate as required. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). English Requirements IELTS: 6.0"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": "MQA",
   "sources": [
@@ -44,5 +47,9 @@
     }
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Arts in Design Innovation Management",
+  "program_name_zh": "Arts in Design Innovation Management硕士",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
 }

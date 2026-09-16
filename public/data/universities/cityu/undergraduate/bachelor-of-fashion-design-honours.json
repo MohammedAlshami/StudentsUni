@@ -17,24 +17,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 16714,
+    "local_total": 16713,
     "international_total": 20430,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 5571
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of these:   A pass in STPM with a minimum of Grade C (GP 2.00) in any two (2) subjects, or its equivalent  A pass in STAM with a minimum grade of Jayyid A pass in Matriculation or Foundation with a minimum CGPA of 2.00, or it’s equivalent A Diploma (Level 4, MQF) with a minimum CGPA of 2.00, or its equivalent Pass DKM/DLKM/DVM (HEP is required to implement a screening and bridging program which correspond to the program field)  Pass an interview OR submission of portfolio determined by the HEP as required. For International Students Malaysian University English Test (MUET) with Band 3 OR its equivalent."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": "MQA",
   "sources": [
@@ -55,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Fashion Design (Honours)",
+  "program_name_zh": "Fashion Design (Honours)学士",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
 }

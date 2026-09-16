@@ -6,14 +6,43 @@
   "field": "Performing Arts",
   "duration": "7 semesters",
   "mode": "Full-time",
-  "intakes": ["September"],
-  "fees": {"currency": "MYR", "local_total": 7553, "international_total": 10500, "per_year_local": 2158, "per_year_international": 3000, "notes": "Per semester: MYR 1,079 local, MYR 1,500 international"},
-  "requirements": {
-    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
-    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 7553,
+    "international_total": 10500,
+    "per_year_local": 2158,
+    "per_year_international": 3000,
+    "notes": "Per semester: MYR 1,079 local, MYR 1,500 international"
   },
-  "accreditation": {"mqa_status": null, "mqa_ref": null},
-  "sources": ["https://www.studymalaysia.com/what/course/UPSI/0008349/", "https://fmsp.upsi.edu.my/diploma-in-music/"],
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UPSI/0008349/",
+    "https://fmsp.upsi.edu.my/diploma-in-music/"
+  ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Music",
+  "program_name_zh": "Music文凭",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

@@ -6,23 +6,44 @@
   "field": "Child Psychology",
   "duration": "1.5-3 Years",
   "mode": "Full-time/Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 39,510",
     "international": "RM 53,550",
     "currency": "MYR",
-    "local_total": 39510,
+    "local_total": 118530,
     "international_total": 53550,
     "per_year_local": 39510,
     "per_year_international": 53550,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057298/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Child Psychology",
+  "program_name_zh": "Child Psychology硕士",
+  "field_ar": "علم النفس",
+  "field_zh": "心理学"
 }

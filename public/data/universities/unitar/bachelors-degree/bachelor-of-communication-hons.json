@@ -7,15 +7,32 @@
   "slug": "bachelor-of-communication-hons",
   "duration": "3 Yrs (9 Sem)",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "45480/Course",
     "international": "45480/Course",
-    "local_total": 45480,
+    "local_total": 68220,
     "per_year_local": 15160,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0008931/",
@@ -26,5 +43,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Communication (Hons)",
+  "program_name_zh": "Communication (Hons)学士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

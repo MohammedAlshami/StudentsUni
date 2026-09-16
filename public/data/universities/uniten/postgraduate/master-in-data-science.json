@@ -24,12 +24,22 @@
       "registration": "USD1,650 (RM6,600)"
     },
     "currency": "MYR",
-    "local_total": 5700,
+    "local_total": 17100,
     "per_year_local": 5700
   },
   "requirements": {
-    "local": "Bachelor's degree in Computing/IT or related field with minimum CGPA 2.50 or equivalent",
-    "international": "Bachelor's degree in Computing/IT or related field with minimum CGPA 2.50 or equivalent, English proficiency"
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_code": null,
@@ -45,5 +55,9 @@
     }
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Data Science",
+  "program_name_zh": "Data Science硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

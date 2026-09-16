@@ -16,24 +16,23 @@
     "currency": "MYR",
     "local_total": 17050,
     "international_total": 20650,
-    "per_year_local": null,
+    "per_year_local": 17050,
     "per_year_international": null,
-    "notes": "Local: 25200/Course; International: 25200/Course"
+    "notes": "Local: 25200/Course; International: 25200/Course (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Bachelor’s degree (Level 6, MQF) in a related field: Pass with a minimum CGPA of 2.50ORPass with a minimum CGPA of 2.00-2.50 may require an internal assessment; OR Bachelor&#39;s degree (Level 6, MQF) in a non-related field Pass with a minimum CGPA of 2.00 with relevant working experiences may require an internal assessment OR Pass with a minimum CGPA of 2.00 and without relevant working experience, may require to pass prerequisite courses English Language Requirements (for International Students) MUET: 4.0 IELTS: 6.0 TOEFL: 8.5 (Ess OL) / 60 (iBT) Pearson: 59 Linguaskill: 169"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -67,5 +66,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (Banking & Finance)",
+  "program_name_zh": "Business Administration (Banking & Finance)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

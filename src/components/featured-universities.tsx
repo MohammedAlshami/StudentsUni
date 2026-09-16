@@ -2,7 +2,7 @@
 
 import { Link } from "@/i18n/navigation";
 import { motion } from "framer-motion";
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { ArrowRight, MapPin } from "lucide-react";
 import { UNIVERSITY_PHOTOS } from "@/lib/university-images";
 import { institutionTypeLabel } from "@/components/marketing-ui";
@@ -10,6 +10,8 @@ import { institutionTypeLabel } from "@/components/marketing-ui";
 export type FeaturedUniversity = {
   slug: string;
   name: string;
+  name_ar?: string;
+  name_zh?: string;
   abbr: string;
   type: string;
   state: string | null;
@@ -17,6 +19,14 @@ export type FeaturedUniversity = {
 
 export function FeaturedUniversities({ items }: { items: FeaturedUniversity[] }) {
   const tCommon = useTranslations("common");
+  const locale = useLocale();
+
+  function getLocalizedName(u: FeaturedUniversity): string {
+    if (locale === "ar") return u.name_ar || u.name;
+    if (locale === "zh") return u.name_zh || u.name;
+    return u.name;
+  }
+
   return (
     <div className="mt-[42px] grid gap-[26px] md:grid-cols-3">
       {items.map((u, i) => (
@@ -32,7 +42,7 @@ export function FeaturedUniversities({ items }: { items: FeaturedUniversity[] })
             <div className="overflow-hidden">
               <img
                 src={UNIVERSITY_PHOTOS[u.slug]}
-                alt={u.name}
+                alt={getLocalizedName(u)}
                 className="h-[202px] w-full object-cover transition-transform duration-500 group-hover:scale-105"
               />
             </div>
@@ -43,7 +53,7 @@ export function FeaturedUniversities({ items }: { items: FeaturedUniversity[] })
             </p>
             <Link href={`/universities/${u.slug}`}>
               <h3 className="mt-[6px] text-[21px] font-bold leading-tight hover:underline">
-                {u.name}
+                {getLocalizedName(u)}
               </h3>
             </Link>
             {u.state && (

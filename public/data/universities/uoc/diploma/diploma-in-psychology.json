@@ -17,9 +17,24 @@
     "international": "Refer to University",
     "local_total": 13100,
     "currency": "MYR",
-    "international_total": 24280
+    "international_total": 24280,
+    "per_year_local": 5240,
+    "notes": " (per_year based on 2.5yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Science",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0055143/",
@@ -35,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Psychology",
+  "program_name_zh": "Psychology文凭",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

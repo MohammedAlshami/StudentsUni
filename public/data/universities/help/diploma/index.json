@@ -9,9 +9,21 @@
       "field": "Business Management & Administration",
       "duration": "2 years",
       "mode": "Full-time Study",
-      "intakes": ["Jan", "Feb", "May", "Jul", "Aug", "Oct"],
-      "fees": { "local": "RM43,800.00", "international": null },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0005487/"]
+      "intakes": [
+        "Jan",
+        "Feb",
+        "May",
+        "Jul",
+        "Aug",
+        "Oct"
+      ],
+      "fees": {
+        "local": "RM43,800.00",
+        "international": null
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0005487/"
+      ]
     },
     {
       "program_name": "Diploma in Communication",
@@ -19,9 +31,19 @@
       "field": "Communication & Broadcasting",
       "duration": "2 years",
       "mode": "Full-time Study",
-      "intakes": ["Jan", "May", "Jul", "Sep"],
-      "fees": { "local": "RM43,800.00", "international": null },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0056458/"]
+      "intakes": [
+        "Jan",
+        "May",
+        "Jul",
+        "Sep"
+      ],
+      "fees": {
+        "local": "RM43,800.00",
+        "international": null
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0056458/"
+      ]
     },
     {
       "program_name": "Diploma in Early Childhood Education",
@@ -29,9 +51,19 @@
       "field": "Education",
       "duration": "28 months (7 semesters)",
       "mode": "Full-time Study",
-      "intakes": ["Jan", "May", "Jul", "Sep"],
-      "fees": { "local": "RM29,800.00", "international": null },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058733/"]
+      "intakes": [
+        "Jan",
+        "May",
+        "Jul",
+        "Sep"
+      ],
+      "fees": {
+        "local": "RM29,800.00",
+        "international": null
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058733/"
+      ]
     },
     {
       "program_name": "Diploma in Education",
@@ -39,9 +71,19 @@
       "field": "Education",
       "duration": "28 months (7 semesters)",
       "mode": "Full-time Study",
-      "intakes": ["Jan", "May", "Jul", "Sep"],
-      "fees": { "local": "RM18,200.00", "international": null },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058734/"]
+      "intakes": [
+        "Jan",
+        "May",
+        "Jul",
+        "Sep"
+      ],
+      "fees": {
+        "local": "RM18,200.00",
+        "international": null
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058734/"
+      ]
     },
     {
       "program_name": "Diploma in Information Technology",
@@ -49,9 +91,27 @@
       "field": "Computing & IT",
       "duration": "2 years",
       "mode": "Full-time Study",
-      "intakes": ["Jan", "May", "Jul", "Sep"],
-      "fees": { "local": "RM46,800.00", "international": null },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058735/"]
+      "intakes": [
+        "Jan",
+        "May",
+        "Jul",
+        "Sep"
+      ],
+      "fees": {
+        "local": "RM46,800.00",
+        "international": null
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058735/"
+      ]
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 55000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+  }
 }

@@ -7,14 +7,30 @@
   "field": "Engineering & Science",
   "duration": "1 year",
   "mode": "full-time",
-  "intakes": ["may"],
+  "intakes": [
+    "may"
+  ],
   "fees": {
-    "total": "RM 17,700",
     "currency": "MYR",
-    "note": "Total estimated fees; contact university for current rates"
+    "local_total": 16000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "spm": "5 credits including Mathematics, Additional Mathematics, Physics, Chemistry, and English"
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": "JPT/BPP(R3/0011/3/0066)(07/29)(A4231)",
   "description": "Foundation programme designed to prepare students for undergraduate studies in engineering and science disciplines at UTP.",
@@ -36,5 +52,9 @@
     "https://unienrol.com/study-malaysia/universiti-teknologi-petronas-utp/courses/all"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Engineering & Science",
+  "program_name_zh": "Engineering & Science预科",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

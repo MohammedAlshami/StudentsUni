@@ -19,22 +19,22 @@
     "currency": "MYR",
     "local_total": 16350,
     "international_total": 22982,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 5450
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: MASTER&#39;S DEGREE: Master’s degree in the field or related fields (Level 7, MQF) or its equivalent as accepted by the Taylor&#39;s University Senate.  BACHELOR&#39;S DEGREE: Passed Bachelor&#39;s degree in the field or related fields with a minimum CGPA of 3.67 and passed related qualifying assessment. BACHELOR&#39;S TO DOCTORAL CONVERSION: Bachelor&#39;s degree candidates who are registered for master&#39;s degree programmes may apply to convert to the doctoral degree programmes subjected to the following conditions: Within 1 year for full-time and within 2 years for part-time candidates. Having shown competency and capability in conducting research at the doctoral level through rigorous internal evaluation. Approval of the Taylor’s University Senate. English Requirements For International Students: IELTS 6.5 / TOEFL 79 (Internet-Based Test). May join the IEN preparatory course and achieve the IELTS score. The validity of IELTS or equivalent is within 2 years from the examination date.      "
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -55,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (PhD) In Food Studies",
+  "program_name_zh": "哲学博士 (PhD) In Food Studies",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

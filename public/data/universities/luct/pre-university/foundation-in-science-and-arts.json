@@ -1,1 +1,46 @@
-{"university":"Limkokwing University of Creative Technology","university_slug":"luct","level":"pre-university","program_name":"Foundation in Science and Arts","field":"Arts","duration":"1 year","mode":"Full-time","intakes":["January","April","August"],"fees":null,"requirements":null,"accreditation":"MQA","sources":["https://limkokwing.net/malaysia/academic/courses/"],"confidence":"medium","last_updated":"2026-09-14"}
+{
+  "university": "Limkokwing University of Creative Technology",
+  "university_slug": "luct",
+  "level": "pre-university",
+  "program_name": "Foundation in Science and Arts",
+  "field": "Arts",
+  "duration": "1 year",
+  "mode": "Full-time",
+  "intakes": [
+    "January",
+    "April",
+    "August"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 18000,
+    "international_total": null,
+    "per_year_local": 18000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
+  "accreditation": "MQA",
+  "sources": [
+    "https://limkokwing.net/malaysia/academic/courses/"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Science and Arts",
+  "program_name_zh": "Science and Arts预科",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
+}

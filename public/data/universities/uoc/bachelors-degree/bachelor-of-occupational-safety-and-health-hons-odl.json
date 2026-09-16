@@ -17,9 +17,24 @@
     "international": "Refer to University",
     "local_total": 21267,
     "currency": "MYR",
-    "international_total": 29234
+    "international_total": 29234,
+    "per_year_local": 7089,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Science",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0055132/",
@@ -35,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Occupational Safety and Health (Hons) (ODL)",
+  "program_name_zh": "Occupational Safety and Health (Hons) (ODL)学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

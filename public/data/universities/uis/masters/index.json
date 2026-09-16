@@ -9,14 +9,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Selangor Islamic University",
@@ -28,14 +35,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Selangor Islamic University",
@@ -47,14 +61,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Selangor Islamic University",
@@ -66,14 +87,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Selangor Islamic University",
@@ -85,14 +113,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-penyelidikan"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Selangor Islamic University",
@@ -104,13 +139,20 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 33000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-penyelidikan"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

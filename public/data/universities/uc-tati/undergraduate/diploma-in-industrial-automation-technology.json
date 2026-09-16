@@ -4,11 +4,35 @@
   "level": "diploma",
   "program_name": "Diploma in Industrial Automation Technology",
   "field": "Industrial Automation",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full Time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 30000,
+    "international_total": null,
+    "per_year_local": 10000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "KPT: N/0741/4/0014 (01/2030) - MQA/PA 17564 - MBOT/PA/EE/0/01/0003",
   "sources": [
     {
@@ -17,5 +41,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Industrial Automation Technology",
+  "program_name_zh": "Industrial Automation Technology文凭",
+  "field_ar": "Industrial Automation",
+  "field_zh": "Industrial Automation"
 }

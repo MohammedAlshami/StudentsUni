@@ -4,12 +4,14 @@
   "level": "postgraduate",
   "program_name": "Master (Mixed Mode)",
   "field": "Mixed Mode",
-  "duration": null,
+  "duration": "1.5 years",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": [
+    "September"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 20000,
+    "local_total": 7500,
     "international_total": 60000,
     "per_year_local": 5000,
     "per_year_international": 15000,
@@ -20,13 +22,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -37,5 +39,9 @@
     "https://admission.utm.my/malaysian-postgraduate-study/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Master (Mixed Mode)",
+  "program_name_zh": "Master (Mixed Mode)",
+  "field_ar": "Mixed Mode",
+  "field_zh": "Mixed Mode"
 }

@@ -8,14 +8,33 @@
   "duration": "3 Years",
   "mode": "Full-time",
   "study_type": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Aug",
+    "Jan",
+    "Jun"
+  ],
   "fees": {
     "local": "Refer to newinti.edu.my",
     "international": "Refer to newinti.edu.my",
     "local_total": 32268,
-    "international_total": 44908
+    "international_total": 44908,
+    "per_year_local": 10756,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": "STPM/A-Levels or equivalent",
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "KPT/JPS(N/481/6/0261)02/2018",
   "awarding_country": "Malaysia",
   "awarding_body": "Dual-award Degree - conferred by INTI and University of Coventry, UK",
@@ -29,5 +48,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Computer Science (Hons) (Digital Multimedia) (Dual-Award Degree)",
+  "program_name_zh": "Computer Science (Hons) (Digital Multimedia) (Dual-Award Degree)学士",
+  "field_ar": "الإعلام",
+  "field_zh": "媒体学"
 }

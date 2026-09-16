@@ -3,14 +3,20 @@
   "field": "",
   "duration": "42 months",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Jul",
+    "Jun",
+    "Mar",
+    "Oct",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 56990,
+    "local_total": 56987,
     "international_total": 63940,
-    "per_year_local": null,
+    "per_year_local": 16282,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 3.5yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -39,5 +45,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accountancy (Hons)",
+  "program_name_zh": "Accountancy (Hons)学士"
 }

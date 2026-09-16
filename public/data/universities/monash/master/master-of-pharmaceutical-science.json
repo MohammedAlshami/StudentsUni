@@ -14,19 +14,22 @@
     "currency": "MYR",
     "local_total": 47040,
     "international_total": 53280,
-    "per_year_local": null,
+    "per_year_local": 23520,
     "per_year_international": null,
-    "notes": null
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "bachelor_degree": null,
-      "cgpa": null
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
-      "bachelor_degree": null,
-      "cgpa": null,
-      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -47,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Pharmaceutical Science",
+  "program_name_zh": "Pharmaceutical Science硕士",
+  "field_ar": "الصيدلة",
+  "field_zh": "药学"
 }

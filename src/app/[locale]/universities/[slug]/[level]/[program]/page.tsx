@@ -95,9 +95,11 @@ export default async function ProgramDetailPage({
 
   const info = readJSON(infoPath) as { name?: string; university?: string } | null;
   const institutionsPath = path.join(process.cwd(), "public/data/institutions.json");
-  const institutionsList = (readJSON(institutionsPath) as { institutions: Array<{ slug: string; name: string }> } | null)?.institutions ?? [];
-  const canonicalName = institutionsList.find((i) => i.slug === slug)?.name;
-  const universityName = canonicalName || info?.name || info?.university || slug;
+  const institutionsList = (readJSON(institutionsPath) as { institutions: Array<{ slug: string; name: string; name_ar?: string; name_zh?: string }> } | null)?.institutions ?? [];
+  const canonicalName = institutionsList.find((i) => i.slug === slug);
+  const universityName = locale === "ar" ? (canonicalName?.name_ar || canonicalName?.name || info?.name || info?.university || slug)
+    : locale === "zh" ? (canonicalName?.name_zh || canonicalName?.name || info?.name || info?.university || slug)
+    : (canonicalName?.name || info?.name || info?.university || slug);
 
   if (!rawEntry) {
     return (
@@ -111,6 +113,12 @@ export default async function ProgramDetailPage({
   }
 
   const prog = loadProgramDetail(universityName, slug, level, rawEntry);
+  const displayName = locale === "ar" ? (prog.program_name_ar || prog.program_name)
+    : locale === "zh" ? (prog.program_name_zh || prog.program_name)
+    : prog.program_name;
+  const displayField = locale === "ar" ? (prog.field_ar || prog.field)
+    : locale === "zh" ? (prog.field_zh || prog.field)
+    : prog.field;
   const fee = prog.fees;
   const hasFees = fee.local_total || fee.international_total || fee.per_year_local || fee.per_year_international;
   const hasMalaysianReq = Object.values(prog.requirements.malaysian).some(Boolean);
@@ -129,18 +137,18 @@ export default async function ProgramDetailPage({
             </Link>
             <span>/</span>
             <Link href={`/universities/${slug}`} className="hover:underline">
-              {prog.university}
+              {universityName}
             </Link>
             <span>/</span>
-            <span className="text-white/85">{prog.program_name}</span>
+            <span className="text-white/85">{displayName}</span>
           </div>
 
           <Label>
             {levelLabel}
-            {prog.field ? ` · ${prog.field}` : ""}
+            {displayField ? ` · ${displayField}` : ""}
           </Label>
           <h1 className="max-w-[750px] text-[29px] font-bold leading-[1.05] tracking-[-.03em] md:text-[36px]">
-            {prog.program_name}
+            {displayName}
           </h1>
 
           <div className="mt-[21px] flex flex-wrap gap-[21px] text-[14px] text-white/75">

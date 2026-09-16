@@ -4,62 +4,134 @@
     "program_name": "Bachelor in Medical Laboratory Science (Honours)",
     "field": "Healthcare",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 240000,
+      "international_total": null,
+      "per_year_local": 80000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-communication-hons-journalism",
     "program_name": "Bachelor of Communication (Hons) (Journalism)",
     "field": "Communication",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-occupational-safety-and-health-honours",
     "program_name": "Bachelor of Occupational Safety and Health (Honours)",
     "field": "Healthcare",
     "duration": "4 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 16500,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-business-management-hons",
     "program_name": "Bachelor Of Business Management (Hons)",
     "field": "Business",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-accountancy-hons",
     "program_name": "Bachelor of Accountancy (Hons)",
     "field": "Accounting",
     "duration": "4 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 16500,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-hons-in-digital-graphic-design",
     "program_name": "Bachelor (Hons) in Digital Graphic Design",
     "field": "Design",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-finance-honours",
     "program_name": "Bachelor of Finance (Honours)",
     "field": "Business",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-communication-honours-corporate-communication",
     "program_name": "Bachelor of Communication (Honours) (Corporate Communication)",
     "field": "Communication",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-human-resource-management-honours",
     "program_name": "Bachelor of Human Resource Management (Honours)",
     "field": "Business",
     "duration": "3 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   }
 ]

@@ -15,12 +15,25 @@
   "fees": {
     "local": "Refer to the Univ.",
     "international": "Refer to the Univ.",
-    "local_total": 23269,
+    "local_total": 23268,
     "currency": "MYR",
-    "international_total": 28407
+    "international_total": 28407,
+    "per_year_local": 5817,
+    "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
-    "academic": null
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -37,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Civil Engineering (Hons) (Double Degree)",
+  "program_name_zh": "Civil Engineering (Hons) (Double Degree)学士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

@@ -6,14 +6,42 @@
   "field": "Communication",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Apr",
+    "Aug",
+    "Nov"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/unisel/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-communication-hons-journalism"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-communication-hons-journalism",
+  "program_name_ar": "بكالوريوس Communication (Hons) (Journalism)",
+  "program_name_zh": "Communication (Hons) (Journalism)学士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

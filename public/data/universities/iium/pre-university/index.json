@@ -3,27 +3,97 @@
   "university_slug": "iium",
   "level": "pre-university",
   "programs": [
-    {"slug": "foundation-studies-in-law", "name": "Foundation Studies in Law"},
-    {"slug": "foundation-studies-in-engineering", "name": "Foundation Studies in Engineering"},
-    {"slug": "foundation-studies-in-life-science", "name": "Foundation Studies in Life Science"},
-    {"slug": "foundation-studies-in-tourism-and-hospitality-management", "name": "Foundation Studies in Tourism and Hospitality Management"},
-    {"slug": "foundation-studies-in-malay-language-for-international-communication", "name": "Foundation Studies in Malay Language for International Communication"},
-    {"slug": "foundation-studies-in-english-language-for-international-communication", "name": "Foundation Studies in English Language for International Communication"},
-    {"slug": "foundation-studies-in-allied-health-science", "name": "Foundation Studies in Allied Health Science"},
-    {"slug": "foundation-studies-in-nursing", "name": "Foundation Studies in Nursing"},
-    {"slug": "foundation-studies-in-dentistry", "name": "Foundation Studies in Dentistry"},
-    {"slug": "foundation-studies-in-medicine", "name": "Foundation Studies in Medicine"},
-    {"slug": "foundation-studies-in-arabic-language-for-international-communication", "name": "Foundation Studies in Arabic Language for International Communication"},
-    {"slug": "foundation-studies-in-economics-science-management", "name": "Foundation Studies in Economics & Science Management"},
-    {"slug": "foundation-studies-in-engineering-and-computer-science", "name": "Foundation Studies in Engineering and Computer Science"},
-    {"slug": "foundation-studies-in-architecture-and-environmental-design", "name": "Foundation Studies in Architecture and Environmental Design"},
-    {"slug": "foundation-studies-in-physical-science", "name": "Foundation Studies in Physical Science"},
-    {"slug": "foundation-studies-in-pharmacy", "name": "Foundation Studies in Pharmacy"},
-    {"slug": "foundation-studies-in-arabic-language", "name": "Foundation Studies in Arabic Language"},
-    {"slug": "foundation-studies-in-english-language", "name": "Foundation Studies in English Language"},
-    {"slug": "foundation-studies-in-human-sciences", "name": "Foundation Studies in Human Sciences"},
-    {"slug": "foundation-studies-in-islamic-revealed-knowledge-and-heritage", "name": "Foundation Studies in Islamic Revealed Knowledge & Heritage"}
+    {
+      "slug": "foundation-studies-in-law",
+      "name": "Foundation Studies in Law"
+    },
+    {
+      "slug": "foundation-studies-in-engineering",
+      "name": "Foundation Studies in Engineering"
+    },
+    {
+      "slug": "foundation-studies-in-life-science",
+      "name": "Foundation Studies in Life Science"
+    },
+    {
+      "slug": "foundation-studies-in-tourism-and-hospitality-management",
+      "name": "Foundation Studies in Tourism and Hospitality Management"
+    },
+    {
+      "slug": "foundation-studies-in-malay-language-for-international-communication",
+      "name": "Foundation Studies in Malay Language for International Communication"
+    },
+    {
+      "slug": "foundation-studies-in-english-language-for-international-communication",
+      "name": "Foundation Studies in English Language for International Communication"
+    },
+    {
+      "slug": "foundation-studies-in-allied-health-science",
+      "name": "Foundation Studies in Allied Health Science"
+    },
+    {
+      "slug": "foundation-studies-in-nursing",
+      "name": "Foundation Studies in Nursing"
+    },
+    {
+      "slug": "foundation-studies-in-dentistry",
+      "name": "Foundation Studies in Dentistry"
+    },
+    {
+      "slug": "foundation-studies-in-medicine",
+      "name": "Foundation Studies in Medicine"
+    },
+    {
+      "slug": "foundation-studies-in-arabic-language-for-international-communication",
+      "name": "Foundation Studies in Arabic Language for International Communication"
+    },
+    {
+      "slug": "foundation-studies-in-economics-science-management",
+      "name": "Foundation Studies in Economics & Science Management"
+    },
+    {
+      "slug": "foundation-studies-in-engineering-and-computer-science",
+      "name": "Foundation Studies in Engineering and Computer Science"
+    },
+    {
+      "slug": "foundation-studies-in-architecture-and-environmental-design",
+      "name": "Foundation Studies in Architecture and Environmental Design"
+    },
+    {
+      "slug": "foundation-studies-in-physical-science",
+      "name": "Foundation Studies in Physical Science"
+    },
+    {
+      "slug": "foundation-studies-in-pharmacy",
+      "name": "Foundation Studies in Pharmacy"
+    },
+    {
+      "slug": "foundation-studies-in-arabic-language",
+      "name": "Foundation Studies in Arabic Language"
+    },
+    {
+      "slug": "foundation-studies-in-english-language",
+      "name": "Foundation Studies in English Language"
+    },
+    {
+      "slug": "foundation-studies-in-human-sciences",
+      "name": "Foundation Studies in Human Sciences"
+    },
+    {
+      "slug": "foundation-studies-in-islamic-revealed-knowledge-and-heritage",
+      "name": "Foundation Studies in Islamic Revealed Knowledge & Heritage"
+    }
   ],
-  "sources": ["https://www.studymalaysia.com/edu/iium/courses/"],
-  "last_updated": "2026-09-14"
+  "sources": [
+    "https://www.studymalaysia.com/edu/iium/courses/"
+  ],
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 2100,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 1.5yr duration)"
+  }
 }

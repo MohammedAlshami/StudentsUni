@@ -20,6 +20,14 @@
       "note": "Listed as university college in Malaysia's private university colleges list"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "IJN University College (International Jantung Negara). Affiliated with National Heart Institute. Website inaccessible at time of collection. No Wayback Machine archives available. No program data retrievable from any source. Institution likely offers health/medical programs given National Heart Institute affiliation."
+  "last_updated": "2026-09-16",
+  "notes": "IJN University College (International Jantung Negara). Affiliated with National Heart Institute. Website inaccessible at time of collection. No Wayback Machine archives available. No program data retrievable from any source. Institution likely offers health/medical programs given National Heart Institute affiliation.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

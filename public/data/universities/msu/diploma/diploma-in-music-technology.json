@@ -14,24 +14,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 22900,
+    "local_total": 22899,
     "international_total": 31860,
-    "per_year_local": null,
+    "per_year_local": 7633,
     "per_year_international": null,
-    "notes": "Local: RM40,000.00; International: RM69,345.00"
+    "notes": "Local: RM40,000.00; International: RM69,345.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics and Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "THREE (3) Credits at SPM level; An equivalent qualification recognized by MSU Senate."
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Music Technology",
+  "program_name_zh": "Music Technology文凭",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

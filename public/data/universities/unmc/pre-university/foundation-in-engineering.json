@@ -6,17 +6,32 @@
   "field": "Engineering",
   "duration": "2-3 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM9,390/Sem",
     "international": "RM10,640/Sem",
-    "local_total": 18780,
+    "local_total": 28170,
     "per_year_local": 18780,
     "international_total": 21280,
     "per_year_international": 21280,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -27,6 +42,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "foundation-in-engineering"
+  "last_updated": "2026-09-16",
+  "slug": "foundation-in-engineering",
+  "program_name_ar": "تأسيس Engineering",
+  "program_name_zh": "Engineering预科",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

@@ -15,11 +15,12 @@
     "currency": "MYR",
     "local_total": 30900,
     "international_total": 30900,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 1.0yr duration)",
+    "per_year_local": 30900
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics and Science",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -27,8 +28,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Academic Requirements Pass SPM/O-Level with 5Cs in Mathematics, English, 2 Science subjects** and 1 other subject. **Science subjects: Biology/Chemistry/Physics   English Proficiency Requirements: Malaysian Student: Overall band score of 5.0 (for those who did not obtain a Credit in English at SPM/O-Level) International Student: Overall band score of 5.0"
   },
@@ -50,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Science",
+  "program_name_zh": "Science预科",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

@@ -11,7 +11,9 @@
       "duration": null,
       "mode": "Full-time",
       "accreditation": "MQA/PA11457",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0057844/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0057844/"
+      ]
     },
     {
       "program_name": "Master of Business Administration (Finance) (Dual Awards)",
@@ -20,7 +22,9 @@
       "duration": "1.5 - 5 Yrs",
       "mode": "Full-time",
       "accreditation": "MQA/FA3467",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0057847/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0057847/"
+      ]
     },
     {
       "program_name": "Master of Arts in Corporate Communications",
@@ -29,7 +33,9 @@
       "duration": "1.5 Yrs",
       "mode": "Flexible Full-time/Part-time Mode",
       "accreditation": "MQA/FA2507",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0056876/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0056876/"
+      ]
     },
     {
       "program_name": "Master of Business Administration (Human Resource Management) (Dual Awards)",
@@ -37,7 +43,9 @@
       "field": "Business Management & Administration",
       "duration": "1 Year",
       "mode": "Full-time",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0057848/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0057848/"
+      ]
     },
     {
       "program_name": "Master of Business Administration (Global Business) (Dual Awards)",
@@ -45,7 +53,9 @@
       "field": "Business Management & Administration",
       "duration": "1 Year",
       "mode": "Full-time",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0054566/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054566/"
+      ]
     },
     {
       "program_name": "Master of Business Administration (General Management) (Dual Awards)",
@@ -53,7 +63,9 @@
       "field": "Business Management & Administration",
       "duration": "1.5 - 5 Yrs",
       "mode": "Full-time",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0054567/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054567/"
+      ]
     },
     {
       "program_name": "Master of Education by Research",
@@ -61,7 +73,9 @@
       "field": "Education (Teacher Training & Education Sciences)",
       "duration": "1.5 - 3 Yrs",
       "mode": "Flexible Full-time/Part-time Mode",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0056389/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0056389/"
+      ]
     },
     {
       "program_name": "Master of Accountancy",
@@ -69,7 +83,9 @@
       "field": "Accounting & Finance",
       "duration": "1 Year",
       "mode": "Full-time",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0004694/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0004694/"
+      ]
     },
     {
       "program_name": "MSc (Management) by Research",
@@ -77,7 +93,9 @@
       "field": "Business Management & Administration",
       "duration": "2 - 4 Yrs (FT) / 3 – 6 Yrs (PT)",
       "mode": "Flexible Full-time/Part-time Mode",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0009966/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0009966/"
+      ]
     },
     {
       "program_name": "Master of Financial Planning",
@@ -85,7 +103,9 @@
       "field": "Accounting & Finance",
       "duration": "1 Year",
       "mode": "Full-time",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0054521/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054521/"
+      ]
     },
     {
       "program_name": "Master of Business Administration (Marketing) (Dual Award)",
@@ -93,7 +113,9 @@
       "field": "Business Management & Administration",
       "duration": "1 Year",
       "mode": "Full-time",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0054519/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054519/"
+      ]
     },
     {
       "program_name": "MSc (Information Technology) by Research",
@@ -101,7 +123,9 @@
       "field": "Computing & IT",
       "duration": "2 – 4 Yrs (Full-Time) / 3 – 6 Yrs (Part-Time)",
       "mode": "Flexible Full-time/Part-time Mode",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0009970/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0009970/"
+      ]
     },
     {
       "program_name": "MSc (Engineering) by Research",
@@ -109,7 +133,9 @@
       "field": "Engineering & Engineering Trades",
       "duration": "2 - 4 Yrs (FT) / 3 – 6 Yrs (PT)",
       "mode": "Flexible Full-time/Part-time Mode",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0009974/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0009974/"
+      ]
     },
     {
       "program_name": "MSc (Vision Science) by Research",
@@ -117,8 +143,18 @@
       "field": "Medicine & Healthcare",
       "duration": "2 - 4 Yrs",
       "mode": "Full-time",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0009978/"]
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0009978/"
+      ]
     }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 33000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+  }
 }

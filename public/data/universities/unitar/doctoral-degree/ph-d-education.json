@@ -7,15 +7,34 @@
   "slug": "ph-d-education",
   "duration": "3 Yrs (9 Sem)",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "Jul",
+    "Mar",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "23480/Course",
     "international": "23480/Course",
-    "local_total": 23480,
+    "local_total": 35221,
     "per_year_local": 7827,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0053581/",
@@ -26,5 +45,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Ph.D. (Education)",
+  "program_name_zh": "Ph.D. (Education)",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

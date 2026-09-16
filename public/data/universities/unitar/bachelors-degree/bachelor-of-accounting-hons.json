@@ -17,22 +17,23 @@
     "international": "50080/Course",
     "local_total": 12240,
     "currency": "MYR",
-    "international_total": 17532
+    "international_total": 17532,
+    "per_year_local": 3672,
+    "notes": " (per_year based on 3.3333333333333335yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A pass in STPM or its equivalent, with a minimum Grade C+ (GPA 2.33) in any two subjects, and credits in Mathematics at SPM and its equivalent; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Jayyid, (good) and credits in Mathematics at SPM and its equivalent; OR Matriculation/Foundation qualification or its equivalent with a minimum CGPA of 2.50, and credits in Mathematics at SPM and its equivalent; OR A diploma in accounting or related field (Level 4, MQF), or its equivalent with a minimum CGPA of 2.50; OR Pass Diploma Kemahiran Malaysia (DKM)/ Diploma Lanjutan Kemahiran Malaysia (DLKM)/ Diploma Vokasional Malaysia (DVM) with a minimum CGPA of 2.50 in relevant field subject to the approval of the Senate and MUST attend bridging courses; OR Pass DKM/ DLKM/ DVM with at least CGPA 2.00 AND have at least two (2) years of work experience in relevant field and MUST attend bridging courses;​ OR Pass BTEC Level 4 &amp; 5 with credit in 3 subjects at SPM level including Mathematics; OR Other qualifications that recognized by the Malaysian government; OR Note: The credit in SPM Mathematics requirement may be waived if the applicant has completed Mathematics at the higher level and has obtained credit or higher English Language Requirements International Students Minimum score of 46 for TOEFL; OR Minimum score of 5.5 for IELTS; OR its equivalent. Local Students Malaysian University English Test (MUET) Band 2*; AND A pass in SPM English* Exempted from University English Courses: Distinction in SPM / SPMV English MUET Band 4, 5 and 6 A Pass in English Course at a previous institution Required to take English Preparatory 2: Credit in SPM / SPMV English MUET Band 1, 2 and 3 Required to take both English Preparatory 1 and 2: No credit in SPM / SPMV English *Programme standard requirement"
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -54,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accounting (Hons)",
+  "program_name_zh": "Accounting (Hons)学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

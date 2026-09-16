@@ -17,11 +17,23 @@
     "international": "Refer to the Univ.",
     "local_total": 15267,
     "currency": "MYR",
-    "international_total": 16100
+    "international_total": 16100,
+    "per_year_local": 5089,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "academic": null,
-    "general_text": "Any one of these: STPM – min. of Grade C (GP 2.00) in any two (2) subjects Unified Examination Certificate (UEC) with at least 5Bs Matriculation/Foundation or equivalent Diploma – (Level 4, MQF) min. CGPA of 2.00 Diploma Kemahiran Malaysia (DKM) / Diploma Lanjutan Kemahiran Malaysia (DLKM) / Diploma Vokasional Malaysia (DVM) in suitable fields with a minimum CGPA of 2.50 subject to Senate / Academic Board’s approval Note: The HEPs are to conduct screening and provide necessary guidance specific to the discipline of the programme DKM / DLKM / DVM – min. CGPA of 2.00 and two (2) years working experience in a related discipline Other equivalent qualifications recognised by the Malaysian Government. Pass an interview OR submission of portfolio determined by the HEP MUET Band 3"
+    "malaysian": {
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -43,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Arts (Hons) Visual Communication Design",
+  "program_name_zh": "Arts (Hons) Visual Communication Design学士",
+  "field_ar": "الإعلام",
+  "field_zh": "媒体学"
 }

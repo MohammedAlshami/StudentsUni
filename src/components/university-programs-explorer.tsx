@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { Link } from "@/i18n/navigation";
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { ChevronLeft, ChevronRight, Clock, Wallet } from "lucide-react";
 import type { LevelPrograms } from "@/lib/university-detail";
 
@@ -40,6 +40,7 @@ export function UniversityProgramsExplorer({
   const t = useTranslations("universityDetail");
   const tLevels = useTranslations("levels");
   const tCommon = useTranslations("common");
+  const locale = useLocale();
   const nonEmptyLevels = levels.filter((l) => l.programs.length > 0);
   const [activeLevel, setActiveLevel] = useState(nonEmptyLevels[0]?.level ?? "");
   const [page, setPage] = useState(1);
@@ -91,8 +92,14 @@ export function UniversityProgramsExplorer({
               className="flex flex-col gap-[10px] p-[16px] transition-colors hover:bg-[#f5efeb] sm:flex-row sm:items-center sm:justify-between"
             >
               <div className="min-w-0">
-                <p className="truncate text-[15px] font-semibold">{prog.name}</p>
-                {prog.field && <p className="mt-[3px] text-[12px] text-black/50">{prog.field}</p>}
+                <p className="truncate text-[15px] font-semibold">
+                  {locale === "ar" ? (prog.name_ar || prog.name) : locale === "zh" ? (prog.name_zh || prog.name) : prog.name}
+                </p>
+                {prog.field && (
+                  <p className="mt-[3px] text-[12px] text-black/50">
+                    {locale === "ar" ? (prog.field_ar || prog.field) : locale === "zh" ? (prog.field_zh || prog.field) : prog.field}
+                  </p>
+                )}
               </div>
               <div className="flex shrink-0 flex-wrap items-center gap-x-[16px] gap-y-[4px] text-[13px] text-black/70">
                 {prog.duration && (

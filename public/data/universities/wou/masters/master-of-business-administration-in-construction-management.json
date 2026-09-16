@@ -6,14 +6,42 @@
   "field": "Business",
   "duration": "2.5 Years",
   "mode": "Part-time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 24000,
+    "international_total": null,
+    "per_year_local": 9600,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/wou/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "master-of-business-administration-in-construction-management"
+  "last_updated": "2026-09-16",
+  "slug": "master-of-business-administration-in-construction-management",
+  "program_name_ar": "ماجستير Business Administration in Construction Management",
+  "program_name_zh": "Business Administration in Construction Management硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

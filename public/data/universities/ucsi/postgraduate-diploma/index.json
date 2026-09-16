@@ -5,8 +5,21 @@
   "level_name": "Postgraduate Diploma",
   "total_programs": 1,
   "programs": [
-    {"program_name": "Postgraduate Diploma in Tertiary Teaching", "slug": "postgraduate-diploma-in-tertiary-teaching"}
+    {
+      "program_name": "Postgraduate Diploma in Tertiary Teaching",
+      "slug": "postgraduate-diploma-in-tertiary-teaching"
+    }
   ],
-  "sources": ["https://www.studymalaysia.com/edu/ucsi/courses/"],
-  "last_updated": "2026-09-14"
+  "sources": [
+    "https://www.studymalaysia.com/edu/ucsi/courses/"
+  ],
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 22000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1yr duration)"
+  }
 }

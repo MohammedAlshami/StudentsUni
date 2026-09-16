@@ -6,7 +6,13 @@
   "state": "Kuala Lumpur",
   "city": "Kuala Lumpur",
   "website": "https://www.berjaya.edu.my",
-  "levels_available": ["foundation", "diploma", "bachelor", "master", "doctorate"],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "master",
+    "doctorate"
+  ],
   "program_counts": {
     "foundation": 2,
     "diploma": 10,
@@ -21,6 +27,14 @@
       "note": "Full program listing retrieved from main website"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "Programs across 4 faculties: Business, Culinary Arts, Hospitality & Tourism, Education & Arts. DKU007(W). Located at Berjaya Times Square."
+  "last_updated": "2026-09-16",
+  "notes": "Programs across 4 faculties: Business, Culinary Arts, Hospitality & Tourism, Education & Arts. DKU007(W). Located at Berjaya Times Square.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

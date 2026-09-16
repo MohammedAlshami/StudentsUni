@@ -4,27 +4,59 @@
     "program_name": "Ph.D in Business",
     "field": "Business",
     "duration": "3-4 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 16500,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    }
   },
   {
     "slug": "phd-in-education",
     "program_name": "Ph.D in Education",
     "field": "Education",
     "duration": "3-6 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 11000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 6.0yr duration)"
+    }
   },
   {
     "slug": "phd-in-economics",
     "program_name": "Ph.D in Economics",
     "field": "Economics",
     "duration": "1-2 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 33000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    }
   },
   {
     "slug": "phd-in-english",
     "program_name": "Ph.D. in English",
     "field": "English",
     "duration": "2-3 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    }
   }
 ]

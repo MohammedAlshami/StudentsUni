@@ -20,8 +20,8 @@
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
     "local_total": 52140,
-    "per_year_local": null,
-    "notes": "Fee: FromRM55,200.00",
+    "per_year_local": 52140,
+    "notes": "Fee: FromRM55,200.00 (per_year based on 1.0yr duration)",
     "international_total": 54390
   },
   "requirements": {
@@ -29,15 +29,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Entry Requirements A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate; or A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; or A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and with relevant working experience of at least 2 years of work experience, subject to a rigorous internal assessment; or A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; or An APEL.A Certificate (APEL T-7) (Recognition of Prior Learning) Other equivalent/related qualifications to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government. English Language Requirements IELTS 6.5 or equivalent"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "awarding_country": "Malaysia",
@@ -61,5 +60,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Marketing",
+  "program_name_zh": "Marketing硕士",
+  "field_ar": "التسويق",
+  "field_zh": "市场营销"
 }

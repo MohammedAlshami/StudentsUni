@@ -10,10 +10,17 @@
   "intakes": [
     "July"
   ],
-  "fees": {},
+  "fees": {
+    "currency": "MYR",
+    "local_total": 80000,
+    "international_total": null,
+    "per_year_local": 80000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.0yr duration)"
+  },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics and Science",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -21,8 +28,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Entry Level and Requirements For Local Students   Pass SPM / SPMV / O-Level with at least grade B in 5 subjects inclusive: Mathematics or Additional Mathematics, Physics, Chemistry, Biology, one (1) other subjects. Credit in Bahasa Malaysia and English or other equivalent qualiﬁcation. For International Students Students must complete 11 years of schooling and obtain a general pass in their Secondary School Certificate, O-levels or equivalent with min Grade B in Mathematics, Chemistry, Physics, Biology and one other subject, Grade C in English and one other subject."
   },
@@ -40,5 +47,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Medical Sciences (MBBS)",
+  "program_name_zh": "Medical Sciences (MBBS)预科",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

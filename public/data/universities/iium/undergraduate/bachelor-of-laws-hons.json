@@ -6,7 +6,10 @@
   "field": "Law",
   "duration": "8 Semesters",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 6800,
@@ -37,5 +40,9 @@
     "https://www.studymalaysia.com/what/course/IIUM/0000711/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Laws (Hons)",
+  "program_name_zh": "Laws (Hons)学士",
+  "field_ar": "القانون",
+  "field_zh": "法律"
 }

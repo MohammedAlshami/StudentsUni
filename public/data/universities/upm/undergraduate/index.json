@@ -3,87 +3,415 @@
   "university_slug": "upm",
   "level": "undergraduate",
   "source": "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800",
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-16",
   "programs": [
-    {"slug": "bachelor-of-science-agriculture", "name": "Bachelor of Science in Agriculture with Honours", "field": "Agriculture"},
-    {"slug": "bachelor-of-science-horticulture", "name": "Bachelor of Science in Horticulture with Honours", "field": "Agriculture"},
-    {"slug": "bachelor-of-science-agribusiness", "name": "Bachelor of Science in Agribusiness with Honours", "field": "Agriculture"},
-    {"slug": "bachelor-of-science-aquaculture", "name": "Bachelor of Science in Aquaculture with Honours", "field": "Agriculture"},
-    {"slug": "bachelor-of-science-animal-science", "name": "Bachelor of Science in Animal Science with Honours", "field": "Agriculture"},
-    {"slug": "bachelor-of-science-plantation-management", "name": "Bachelor of Science in Plantation Management", "field": "Agriculture"},
-    {"slug": "bachelor-of-smart-agricultural-technology", "name": "Bachelor of Smart Agricultural Technology with Honours", "field": "Agriculture"},
-    {"slug": "bachelor-of-computer-science", "name": "Bachelor of Computer Science with Honours", "field": "Computing"},
-    {"slug": "bachelor-of-computer-science-multimedia", "name": "Bachelor of Computer Science (Multimedia Computing) with Honours", "field": "Computing"},
-    {"slug": "bachelor-of-computer-science-networking", "name": "Bachelor of Computer Science (Computer Networks) with Honours", "field": "Computing"},
-    {"slug": "bachelor-of-software-engineering", "name": "Bachelor of Software Engineering with Honours", "field": "Computing"},
-    {"slug": "bachelor-of-landscape-architecture", "name": "Bachelor of Landscape Architecture with Honours", "field": "Architecture"},
-    {"slug": "bachelor-of-architecture", "name": "Bachelor of Science in Architecture with Honours", "field": "Architecture"},
-    {"slug": "bachelor-of-industrial-design", "name": "Bachelor of Industrial Design with Honours", "field": "Architecture"},
-    {"slug": "bachelor-of-education-agricultural-science", "name": "Bachelor of Education in Agricultural Science with Honours", "field": "Education"},
-    {"slug": "bachelor-of-education-home-science", "name": "Bachelor of Education in Home Science with Honours", "field": "Education"},
-    {"slug": "bachelor-of-education-physical-education", "name": "Bachelor of Education in Physical Education with Honours", "field": "Education"},
-    {"slug": "bachelor-of-education-tesl", "name": "Bachelor of Education in Teaching English as a Second Language with Honours", "field": "Education"},
-    {"slug": "bachelor-of-education-malay-language", "name": "Bachelor of Education in Malay Language with Honours", "field": "Education"},
-    {"slug": "bachelor-of-education-guidance-counselling", "name": "Bachelor of Education in Guidance and Counselling with Honours", "field": "Education"},
-    {"slug": "bachelor-of-human-resource-development", "name": "Bachelor of Science in Human Resource Development with Honours", "field": "Education"},
-    {"slug": "bachelor-of-counselling", "name": "Bachelor of Counselling with Honours", "field": "Education"},
-    {"slug": "bachelor-of-engineering-aerospace", "name": "Bachelor of Aerospace Engineering with Honours", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-civil", "name": "Bachelor of Civil Engineering with Honours", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-agricultural-biosystem", "name": "Bachelor of Agricultural and Biosystem Engineering with Honours", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-electrical-electronics", "name": "Bachelor of Electrical and Electronics Engineering with Honours", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-chemical", "name": "Bachelor of Chemical Engineering with Honours", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-mechanical", "name": "Bachelor of Mechanical Engineering with Honours", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-process-food", "name": "Bachelor of Process and Food Engineering with Honours", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-computer-communication", "name": "Bachelor of Computer Systems and Communication Engineering with Honours", "field": "Engineering"},
-    {"slug": "bachelor-of-environmental-management", "name": "Bachelor of Environmental Management with Honours", "field": "Forestry & Environment"},
-    {"slug": "bachelor-of-environmental-science-technology", "name": "Bachelor of Science in Environmental Science and Technology with Honours", "field": "Forestry & Environment"},
-    {"slug": "bachelor-of-forestry-science", "name": "Bachelor of Science in Forestry with Honours", "field": "Forestry & Environment"},
-    {"slug": "bachelor-of-wood-industry-science", "name": "Bachelor of Science in Wood Industry Science with Honours", "field": "Forestry & Environment"},
-    {"slug": "bachelor-of-parks-recreation-science", "name": "Bachelor of Science in Parks and Recreation with Honours", "field": "Forestry & Environment"},
-    {"slug": "bachelor-of-food-science-technology", "name": "Bachelor of Science in Food Science and Technology with Honours", "field": "Food Science & Technology"},
-    {"slug": "bachelor-of-food-service-management", "name": "Bachelor of Science in Food Service Management with Honours", "field": "Food Science & Technology"},
-    {"slug": "bachelor-of-food-manufacturing-operations", "name": "Bachelor of Science in Food Manufacturing Operations with Honours", "field": "Food Science & Technology"},
-    {"slug": "bachelor-of-biomedical-science", "name": "Bachelor of Biomedical Science with Honours", "field": "Medicine & Health Sciences"},
-    {"slug": "doctor-of-medicine", "name": "Doctor of Medicine", "field": "Medicine & Health Sciences"},
-    {"slug": "bachelor-of-nursing", "name": "Bachelor of Nursing with Honours", "field": "Medicine & Health Sciences"},
-    {"slug": "bachelor-of-dietetics", "name": "Bachelor of Science in Dietetics with Honours", "field": "Medicine & Health Sciences"},
-    {"slug": "bachelor-of-nutrition-community-health", "name": "Bachelor of Science in Nutrition and Community Health with Honours", "field": "Medicine & Health Sciences"},
-    {"slug": "bachelor-of-environmental-occupational-health", "name": "Bachelor of Science in Environmental and Occupational Health with Honours", "field": "Medicine & Health Sciences"},
-    {"slug": "bachelor-of-malay-language-linguistics", "name": "Bachelor of Arts in Malay Language and Linguistics with Honours", "field": "Languages & Communication"},
-    {"slug": "bachelor-of-malay-literature", "name": "Bachelor of Arts in Malay Literature with Honours", "field": "Languages & Communication"},
-    {"slug": "bachelor-of-english-language-linguistics", "name": "Bachelor of Arts in English Language and Linguistics with Honours", "field": "Languages & Communication"},
-    {"slug": "bachelor-of-chinese-studies", "name": "Bachelor of Arts in Chinese Studies with Honours", "field": "Languages & Communication"},
-    {"slug": "bachelor-of-arabic-language", "name": "Bachelor of Arts in Arabic Language with Honours", "field": "Languages & Communication"},
-    {"slug": "bachelor-of-english-literature", "name": "Bachelor of Arts in English Literature with Honours", "field": "Languages & Communication"},
-    {"slug": "bachelor-of-french-studies", "name": "Bachelor of Arts in French Studies with Honours", "field": "Languages & Communication"},
-    {"slug": "bachelor-of-german-studies", "name": "Bachelor of Arts in German Studies with Honours", "field": "Languages & Communication"},
-    {"slug": "bachelor-of-communication", "name": "Bachelor of Communication with Honours", "field": "Languages & Communication"},
-    {"slug": "bachelor-of-science-biology-education", "name": "Bachelor of Science in Biology with Education (Honours)", "field": "Science"},
-    {"slug": "bachelor-of-science-physics-education", "name": "Bachelor of Science in Physics with Education (Honours)", "field": "Science"},
-    {"slug": "bachelor-of-science-chemistry-education", "name": "Bachelor of Science in Chemistry with Education (Honours)", "field": "Science"},
-    {"slug": "bachelor-of-science-mathematics-education", "name": "Bachelor of Science in Mathematics with Education (Honours)", "field": "Science"},
-    {"slug": "bachelor-of-science-biology", "name": "Bachelor of Science in Biology with Honours", "field": "Science"},
-    {"slug": "bachelor-of-science-material-physics", "name": "Bachelor of Science in Materials Physics with Honours", "field": "Science"},
-    {"slug": "bachelor-of-science-instrumentation-physics", "name": "Bachelor of Science in Instrumentation Physics with Honours", "field": "Science"},
-    {"slug": "bachelor-of-science-physics", "name": "Bachelor of Science in Physics with Honours", "field": "Science"},
-    {"slug": "bachelor-of-science-chemistry", "name": "Bachelor of Science in Chemistry with Honours", "field": "Science"},
-    {"slug": "bachelor-of-science-industrial-chemistry", "name": "Bachelor of Science in Industrial Chemistry with Honours", "field": "Science"},
-    {"slug": "bachelor-of-science-petroleum-chemistry", "name": "Bachelor of Science in Petroleum Chemistry with Honours", "field": "Science"},
-    {"slug": "bachelor-of-science-mathematics", "name": "Bachelor of Science in Mathematics with Honours", "field": "Science"},
-    {"slug": "bachelor-of-science-statistics", "name": "Bachelor of Science in Statistics with Honours", "field": "Science"},
-    {"slug": "doctor-of-veterinary-medicine", "name": "Doctor of Veterinary Medicine", "field": "Veterinary Medicine"},
-    {"slug": "bachelor-of-biochemistry", "name": "Bachelor of Science in Biochemistry with Honours", "field": "Biotechnology & Biomolecular Sciences"},
-    {"slug": "bachelor-of-microbiology", "name": "Bachelor of Science in Microbiology with Honours", "field": "Biotechnology & Biomolecular Sciences"},
-    {"slug": "bachelor-of-cell-molecular-biology", "name": "Bachelor of Science in Cell and Molecular Biology with Honours", "field": "Biotechnology & Biomolecular Sciences"},
-    {"slug": "bachelor-of-biotechnology", "name": "Bachelor of Science in Biotechnology with Honours", "field": "Biotechnology & Biomolecular Sciences"},
-    {"slug": "bachelor-of-economics", "name": "Bachelor of Economics with Honours", "field": "Business & Economics"},
-    {"slug": "bachelor-of-accounting", "name": "Bachelor of Accounting (Honours)", "field": "Business & Economics"},
-    {"slug": "bachelor-of-business-administration", "name": "Bachelor of Business Administration with Honours", "field": "Business & Economics"},
-    {"slug": "bachelor-of-applied-finance", "name": "Bachelor of Applied Finance with Honours", "field": "Business & Economics"},
-    {"slug": "bachelor-of-music", "name": "Bachelor of Music with Honours", "field": "Human Ecology"},
-    {"slug": "bachelor-of-human-development-science", "name": "Bachelor of Science in Human Development Science with Honours", "field": "Human Ecology"},
-    {"slug": "bachelor-of-consumer-studies", "name": "Bachelor of Consumer Studies with Honours", "field": "Human Ecology"},
-    {"slug": "bachelor-of-human-development-management", "name": "Bachelor of Science in Human Development Science with Management (Honours)", "field": "Human Ecology"},
-    {"slug": "bachelor-of-human-development-it", "name": "Bachelor of Science in Human Development Science with Information Technology (Honours)", "field": "Human Ecology"}
-  ]
+    {
+      "slug": "bachelor-of-science-agriculture",
+      "name": "Bachelor of Science in Agriculture with Honours",
+      "field": "Agriculture"
+    },
+    {
+      "slug": "bachelor-of-science-horticulture",
+      "name": "Bachelor of Science in Horticulture with Honours",
+      "field": "Agriculture"
+    },
+    {
+      "slug": "bachelor-of-science-agribusiness",
+      "name": "Bachelor of Science in Agribusiness with Honours",
+      "field": "Agriculture"
+    },
+    {
+      "slug": "bachelor-of-science-aquaculture",
+      "name": "Bachelor of Science in Aquaculture with Honours",
+      "field": "Agriculture"
+    },
+    {
+      "slug": "bachelor-of-science-animal-science",
+      "name": "Bachelor of Science in Animal Science with Honours",
+      "field": "Agriculture"
+    },
+    {
+      "slug": "bachelor-of-science-plantation-management",
+      "name": "Bachelor of Science in Plantation Management",
+      "field": "Agriculture"
+    },
+    {
+      "slug": "bachelor-of-smart-agricultural-technology",
+      "name": "Bachelor of Smart Agricultural Technology with Honours",
+      "field": "Agriculture"
+    },
+    {
+      "slug": "bachelor-of-computer-science",
+      "name": "Bachelor of Computer Science with Honours",
+      "field": "Computing"
+    },
+    {
+      "slug": "bachelor-of-computer-science-multimedia",
+      "name": "Bachelor of Computer Science (Multimedia Computing) with Honours",
+      "field": "Computing"
+    },
+    {
+      "slug": "bachelor-of-computer-science-networking",
+      "name": "Bachelor of Computer Science (Computer Networks) with Honours",
+      "field": "Computing"
+    },
+    {
+      "slug": "bachelor-of-software-engineering",
+      "name": "Bachelor of Software Engineering with Honours",
+      "field": "Computing"
+    },
+    {
+      "slug": "bachelor-of-landscape-architecture",
+      "name": "Bachelor of Landscape Architecture with Honours",
+      "field": "Architecture"
+    },
+    {
+      "slug": "bachelor-of-architecture",
+      "name": "Bachelor of Science in Architecture with Honours",
+      "field": "Architecture"
+    },
+    {
+      "slug": "bachelor-of-industrial-design",
+      "name": "Bachelor of Industrial Design with Honours",
+      "field": "Architecture"
+    },
+    {
+      "slug": "bachelor-of-education-agricultural-science",
+      "name": "Bachelor of Education in Agricultural Science with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-home-science",
+      "name": "Bachelor of Education in Home Science with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-physical-education",
+      "name": "Bachelor of Education in Physical Education with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-tesl",
+      "name": "Bachelor of Education in Teaching English as a Second Language with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-malay-language",
+      "name": "Bachelor of Education in Malay Language with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-guidance-counselling",
+      "name": "Bachelor of Education in Guidance and Counselling with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-human-resource-development",
+      "name": "Bachelor of Science in Human Resource Development with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-counselling",
+      "name": "Bachelor of Counselling with Honours",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-engineering-aerospace",
+      "name": "Bachelor of Aerospace Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-civil",
+      "name": "Bachelor of Civil Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-agricultural-biosystem",
+      "name": "Bachelor of Agricultural and Biosystem Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-electrical-electronics",
+      "name": "Bachelor of Electrical and Electronics Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-chemical",
+      "name": "Bachelor of Chemical Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-mechanical",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-process-food",
+      "name": "Bachelor of Process and Food Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-computer-communication",
+      "name": "Bachelor of Computer Systems and Communication Engineering with Honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-environmental-management",
+      "name": "Bachelor of Environmental Management with Honours",
+      "field": "Forestry & Environment"
+    },
+    {
+      "slug": "bachelor-of-environmental-science-technology",
+      "name": "Bachelor of Science in Environmental Science and Technology with Honours",
+      "field": "Forestry & Environment"
+    },
+    {
+      "slug": "bachelor-of-forestry-science",
+      "name": "Bachelor of Science in Forestry with Honours",
+      "field": "Forestry & Environment"
+    },
+    {
+      "slug": "bachelor-of-wood-industry-science",
+      "name": "Bachelor of Science in Wood Industry Science with Honours",
+      "field": "Forestry & Environment"
+    },
+    {
+      "slug": "bachelor-of-parks-recreation-science",
+      "name": "Bachelor of Science in Parks and Recreation with Honours",
+      "field": "Forestry & Environment"
+    },
+    {
+      "slug": "bachelor-of-food-science-technology",
+      "name": "Bachelor of Science in Food Science and Technology with Honours",
+      "field": "Food Science & Technology"
+    },
+    {
+      "slug": "bachelor-of-food-service-management",
+      "name": "Bachelor of Science in Food Service Management with Honours",
+      "field": "Food Science & Technology"
+    },
+    {
+      "slug": "bachelor-of-food-manufacturing-operations",
+      "name": "Bachelor of Science in Food Manufacturing Operations with Honours",
+      "field": "Food Science & Technology"
+    },
+    {
+      "slug": "bachelor-of-biomedical-science",
+      "name": "Bachelor of Biomedical Science with Honours",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "doctor-of-medicine",
+      "name": "Doctor of Medicine",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-nursing",
+      "name": "Bachelor of Nursing with Honours",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-dietetics",
+      "name": "Bachelor of Science in Dietetics with Honours",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-nutrition-community-health",
+      "name": "Bachelor of Science in Nutrition and Community Health with Honours",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-environmental-occupational-health",
+      "name": "Bachelor of Science in Environmental and Occupational Health with Honours",
+      "field": "Medicine & Health Sciences"
+    },
+    {
+      "slug": "bachelor-of-malay-language-linguistics",
+      "name": "Bachelor of Arts in Malay Language and Linguistics with Honours",
+      "field": "Languages & Communication"
+    },
+    {
+      "slug": "bachelor-of-malay-literature",
+      "name": "Bachelor of Arts in Malay Literature with Honours",
+      "field": "Languages & Communication"
+    },
+    {
+      "slug": "bachelor-of-english-language-linguistics",
+      "name": "Bachelor of Arts in English Language and Linguistics with Honours",
+      "field": "Languages & Communication"
+    },
+    {
+      "slug": "bachelor-of-chinese-studies",
+      "name": "Bachelor of Arts in Chinese Studies with Honours",
+      "field": "Languages & Communication"
+    },
+    {
+      "slug": "bachelor-of-arabic-language",
+      "name": "Bachelor of Arts in Arabic Language with Honours",
+      "field": "Languages & Communication"
+    },
+    {
+      "slug": "bachelor-of-english-literature",
+      "name": "Bachelor of Arts in English Literature with Honours",
+      "field": "Languages & Communication"
+    },
+    {
+      "slug": "bachelor-of-french-studies",
+      "name": "Bachelor of Arts in French Studies with Honours",
+      "field": "Languages & Communication"
+    },
+    {
+      "slug": "bachelor-of-german-studies",
+      "name": "Bachelor of Arts in German Studies with Honours",
+      "field": "Languages & Communication"
+    },
+    {
+      "slug": "bachelor-of-communication",
+      "name": "Bachelor of Communication with Honours",
+      "field": "Languages & Communication"
+    },
+    {
+      "slug": "bachelor-of-science-biology-education",
+      "name": "Bachelor of Science in Biology with Education (Honours)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-physics-education",
+      "name": "Bachelor of Science in Physics with Education (Honours)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-chemistry-education",
+      "name": "Bachelor of Science in Chemistry with Education (Honours)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-mathematics-education",
+      "name": "Bachelor of Science in Mathematics with Education (Honours)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-biology",
+      "name": "Bachelor of Science in Biology with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-material-physics",
+      "name": "Bachelor of Science in Materials Physics with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-instrumentation-physics",
+      "name": "Bachelor of Science in Instrumentation Physics with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-physics",
+      "name": "Bachelor of Science in Physics with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-chemistry",
+      "name": "Bachelor of Science in Chemistry with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-industrial-chemistry",
+      "name": "Bachelor of Science in Industrial Chemistry with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-petroleum-chemistry",
+      "name": "Bachelor of Science in Petroleum Chemistry with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-mathematics",
+      "name": "Bachelor of Science in Mathematics with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-statistics",
+      "name": "Bachelor of Science in Statistics with Honours",
+      "field": "Science"
+    },
+    {
+      "slug": "doctor-of-veterinary-medicine",
+      "name": "Doctor of Veterinary Medicine",
+      "field": "Veterinary Medicine"
+    },
+    {
+      "slug": "bachelor-of-biochemistry",
+      "name": "Bachelor of Science in Biochemistry with Honours",
+      "field": "Biotechnology & Biomolecular Sciences"
+    },
+    {
+      "slug": "bachelor-of-microbiology",
+      "name": "Bachelor of Science in Microbiology with Honours",
+      "field": "Biotechnology & Biomolecular Sciences"
+    },
+    {
+      "slug": "bachelor-of-cell-molecular-biology",
+      "name": "Bachelor of Science in Cell and Molecular Biology with Honours",
+      "field": "Biotechnology & Biomolecular Sciences"
+    },
+    {
+      "slug": "bachelor-of-biotechnology",
+      "name": "Bachelor of Science in Biotechnology with Honours",
+      "field": "Biotechnology & Biomolecular Sciences"
+    },
+    {
+      "slug": "bachelor-of-economics",
+      "name": "Bachelor of Economics with Honours",
+      "field": "Business & Economics"
+    },
+    {
+      "slug": "bachelor-of-accounting",
+      "name": "Bachelor of Accounting (Honours)",
+      "field": "Business & Economics"
+    },
+    {
+      "slug": "bachelor-of-business-administration",
+      "name": "Bachelor of Business Administration with Honours",
+      "field": "Business & Economics"
+    },
+    {
+      "slug": "bachelor-of-applied-finance",
+      "name": "Bachelor of Applied Finance with Honours",
+      "field": "Business & Economics"
+    },
+    {
+      "slug": "bachelor-of-music",
+      "name": "Bachelor of Music with Honours",
+      "field": "Human Ecology"
+    },
+    {
+      "slug": "bachelor-of-human-development-science",
+      "name": "Bachelor of Science in Human Development Science with Honours",
+      "field": "Human Ecology"
+    },
+    {
+      "slug": "bachelor-of-consumer-studies",
+      "name": "Bachelor of Consumer Studies with Honours",
+      "field": "Human Ecology"
+    },
+    {
+      "slug": "bachelor-of-human-development-management",
+      "name": "Bachelor of Science in Human Development Science with Management (Honours)",
+      "field": "Human Ecology"
+    },
+    {
+      "slug": "bachelor-of-human-development-it",
+      "name": "Bachelor of Science in Human Development Science with Information Technology (Honours)",
+      "field": "Human Ecology"
+    }
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

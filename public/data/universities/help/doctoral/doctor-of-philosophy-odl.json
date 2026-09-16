@@ -7,11 +7,41 @@
   "field": "Business Management & Administration",
   "duration": "Full-time: min 3 years, max 5 years. Part-time: min 4 years, max 8 years.",
   "mode": "Flexible Full-time/Part-time Mode",
-  "fees": { "local": "RM38,000.00", "international": null },
+  "fees": {
+    "local": "RM38,000.00",
+    "international": null,
+    "local_total": 37998,
+    "per_year_local": 12666
+  },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0059083/",
     "https://www.help.edu.my"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "intakes": [
+    "Aug",
+    "Feb",
+    "Jan",
+    "May",
+    "Sep"
+  ],
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
+  "program_name_ar": "دكتوراه فلسفة (Open & Distance Learning – ODL)",
+  "program_name_zh": "哲学博士 (Open & Distance Learning – ODL)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -16,22 +16,22 @@
     "currency": "MYR",
     "local_total": 27280,
     "international_total": 37800,
-    "per_year_local": null,
+    "per_year_local": 27280,
     "per_year_international": null,
-    "notes": "Local: 25200/Course; International: 25200/Course"
+    "notes": "Local: 25200/Course; International: 25200/Course (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -61,5 +61,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (Human Resource Management)",
+  "program_name_zh": "Business Administration (Human Resource Management)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

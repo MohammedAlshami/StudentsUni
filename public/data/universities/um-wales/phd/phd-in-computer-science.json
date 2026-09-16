@@ -14,11 +14,26 @@
   "fees": {
     "local": "RM39,460",
     "international": "RM53,100",
-    "local_total": 14044,
+    "local_total": 14043,
     "currency": "MYR",
-    "international_total": 18994
+    "international_total": 18994,
+    "per_year_local": 4681,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/iumw/courses/",
@@ -29,6 +44,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "phd-in-computer-science"
+  "last_updated": "2026-09-16",
+  "slug": "phd-in-computer-science",
+  "program_name_ar": "Ph.D in Computer Science",
+  "program_name_zh": "Ph.D in Computer Science",
+  "field_ar": "Computing",
+  "field_zh": "Computing"
 }

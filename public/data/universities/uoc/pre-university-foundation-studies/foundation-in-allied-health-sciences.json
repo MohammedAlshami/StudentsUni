@@ -23,7 +23,7 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics and Science",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -31,10 +31,9 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of These: Sijil Pelajaran Malaysia (SPM): Pass with a minimum of 5 credits in the following subjects: Science Mathematics 3 other subjects; AND Passed English and Bahasa Malaysia. International General Certificate of Secondary Education (IGCSE) / Certificate: Minimum of Grade B in 3 subjects: Mathematics Science Any other subjects International General Certificate of Secondary Education (IGCSE) – O Levels: Pass with a minimum of Grade C in 5 subjects: Science Mathematics; AND 3 other subjects Any other equivalent qualification recognized by the Malaysian Government / University Senate Prerequisites: SPM: Students intending to progress to the Bachelor of Psychology (Hons) upon completion of this program must have obtained credits at SPM/SPMV/O-Level, or grade B in UEC, in Mathematics and a Science subject, and a Pass in English."
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -56,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Allied Health Sciences",
+  "program_name_zh": "Allied Health Sciences预科",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

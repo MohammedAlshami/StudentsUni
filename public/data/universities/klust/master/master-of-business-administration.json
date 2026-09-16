@@ -15,22 +15,22 @@
     "currency": "MYR",
     "local_total": 30820,
     "international_total": 47730,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 1.0yr duration)",
+    "per_year_local": 30820
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these Bachelor’s degree (related field): Minimum CGPA 2.50. Bachelor’s degree (related field, CGPA 2.00 – 2.49): Subject to internal assessment. Bachelor’s degree (non-related field, CGPA 2.00+): Relevant work experience &amp; internal assessment. Bachelor’s degree (non-related field, CGPA 2.00+): No work experience → Must pass prerequisite courses. Other equivalent qualifications: Recognised by the Malaysian Government. ENGLISH LANGUAGE REQUIREMENTS: MUET - BAND 4 IELTS - 6.0 TOEFL (IBT) - 60 TOEFL Essentials (Online) - 8.5 PEARSON TEST OF ENGLISH - 59 Cambridge English Qualifications and Tests: (i) B1 Preliminary/PTE First, C1 Advanced, C2 Proficiency: 169 (ii) Linguaskill Online: 169 (iii) Occupational English Test (OET) (Conventional/Online): 250 ELS - Certified Intensive English Programme Level (CIEP Level): 109  "
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": "MQA",
   "sources": [
@@ -56,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration",
+  "program_name_zh": "Business Administration硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

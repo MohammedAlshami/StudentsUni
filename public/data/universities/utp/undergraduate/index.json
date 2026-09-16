@@ -9,7 +9,11 @@
       "field": "Engineering",
       "duration": "4 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": "RM 110,000 (total)"
     },
     {
@@ -18,7 +22,11 @@
       "field": "Engineering",
       "duration": "4 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": "RM 104,500 (total)"
     },
     {
@@ -27,7 +35,11 @@
       "field": "Engineering",
       "duration": "4 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": "RM 104,500 (total)"
     },
     {
@@ -36,7 +48,11 @@
       "field": "Engineering",
       "duration": "4 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": null
     },
     {
@@ -45,7 +61,11 @@
       "field": "Engineering",
       "duration": "4 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": "RM 160,000 (total)"
     },
     {
@@ -54,7 +74,11 @@
       "field": "Engineering",
       "duration": "4 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": null
     },
     {
@@ -63,7 +87,11 @@
       "field": "Engineering",
       "duration": "4 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": "RM 110,000 (total)"
     },
     {
@@ -72,7 +100,11 @@
       "field": "Engineering",
       "duration": "4 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": null
     },
     {
@@ -81,7 +113,11 @@
       "field": "Computing",
       "duration": "3.5 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": "RM 82,530 (total)"
     },
     {
@@ -90,7 +126,11 @@
       "field": "Computing",
       "duration": "3.5 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": "RM 82,530 (total)"
     },
     {
@@ -99,7 +139,11 @@
       "field": "Computing",
       "duration": "3.5 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": "RM 82,530 (total)"
     },
     {
@@ -108,7 +152,11 @@
       "field": "Science",
       "duration": "3.5 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": null
     },
     {
@@ -117,7 +165,11 @@
       "field": "Science",
       "duration": "3.5 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": null
     },
     {
@@ -126,7 +178,11 @@
       "field": "Science",
       "duration": "3.5 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": null
     },
     {
@@ -135,10 +191,22 @@
       "field": "Business Management",
       "duration": "3.5 years",
       "mode": "full-time",
-      "intakes": ["january", "may", "september"],
+      "intakes": [
+        "january",
+        "may",
+        "september"
+      ],
       "fees": "RM 73,500 (total)"
     }
   ],
   "total_programs": 15,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

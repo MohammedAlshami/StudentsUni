@@ -1,8 +1,194 @@
 [
-  {"university": "First City University College", "university_slug": "fcuc", "level": "diploma", "program_name": "Diploma in Business Administration", "program_slug": "diploma-in-business-administration", "field": "Business", "duration": "2 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": {"spm": "Minimum 3 credits and at least a pass in English"}, "accreditation": "R3/0414/4/0223(A6729)11/26", "sources": ["https://www.firstcity.edu.my/programmes/diploma"], "confidence": 0.9, "last_updated": "2026-09-14"},
-  {"university": "First City University College", "university_slug": "fcuc", "level": "diploma", "program_name": "Diploma in Mass Communication", "program_slug": "diploma-in-mass-communication", "field": "Communication", "duration": "2 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": {"spm": "Minimum 3 credits and at least a pass in English"}, "accreditation": null, "sources": ["https://www.firstcity.edu.my/programmes"], "confidence": 0.7, "last_updated": "2026-09-14"},
-  {"university": "First City University College", "university_slug": "fcuc", "level": "diploma", "program_name": "Diploma in Graphic Design", "program_slug": "diploma-in-graphic-design", "field": "Design", "duration": "2 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": {"spm": "Minimum 3 credits and at least a pass in English"}, "accreditation": null, "sources": ["https://www.firstcity.edu.my/programmes"], "confidence": 0.7, "last_updated": "2026-09-14"},
-  {"university": "First City University College", "university_slug": "fcuc", "level": "diploma", "program_name": "Diploma in Interior Design", "program_slug": "diploma-in-interior-design", "field": "Design", "duration": "2 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": {"spm": "Minimum 3 credits and at least a pass in English"}, "accreditation": null, "sources": ["https://www.firstcity.edu.my/programmes"], "confidence": 0.7, "last_updated": "2026-09-14"},
-  {"university": "First City University College", "university_slug": "fcuc", "level": "diploma", "program_name": "Diploma in Information Technology", "program_slug": "diploma-in-information-technology", "field": "Computing", "duration": "2 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": {"spm": "Minimum 3 credits and at least a pass in English"}, "accreditation": null, "sources": ["https://www.firstcity.edu.my/programmes"], "confidence": 0.7, "last_updated": "2026-09-14"},
-  {"university": "First City University College", "university_slug": "fcuc", "level": "diploma", "program_name": "Diploma in Computer Science", "program_slug": "diploma-in-computer-science", "field": "Computing", "duration": "2 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": {"spm": "Minimum 3 credits and at least a pass in English"}, "accreditation": null, "sources": ["https://www.firstcity.edu.my/programmes"], "confidence": 0.7, "last_updated": "2026-09-14"}
+  {
+    "university": "First City University College",
+    "university_slug": "fcuc",
+    "level": "diploma",
+    "program_name": "Diploma in Business Administration",
+    "program_slug": "diploma-in-business-administration",
+    "field": "Business",
+    "duration": "2 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.0yr duration)"
+    },
+    "requirements": {
+      "spm": "Minimum 3 credits and at least a pass in English"
+    },
+    "accreditation": "R3/0414/4/0223(A6729)11/26",
+    "sources": [
+      "https://www.firstcity.edu.my/programmes/diploma"
+    ],
+    "confidence": 0.9,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "First City University College",
+    "university_slug": "fcuc",
+    "level": "diploma",
+    "program_name": "Diploma in Mass Communication",
+    "program_slug": "diploma-in-mass-communication",
+    "field": "Communication",
+    "duration": "2 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.0yr duration)"
+    },
+    "requirements": {
+      "spm": "Minimum 3 credits and at least a pass in English"
+    },
+    "accreditation": null,
+    "sources": [
+      "https://www.firstcity.edu.my/programmes"
+    ],
+    "confidence": 0.7,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "First City University College",
+    "university_slug": "fcuc",
+    "level": "diploma",
+    "program_name": "Diploma in Graphic Design",
+    "program_slug": "diploma-in-graphic-design",
+    "field": "Design",
+    "duration": "2 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.0yr duration)"
+    },
+    "requirements": {
+      "spm": "Minimum 3 credits and at least a pass in English"
+    },
+    "accreditation": null,
+    "sources": [
+      "https://www.firstcity.edu.my/programmes"
+    ],
+    "confidence": 0.7,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "First City University College",
+    "university_slug": "fcuc",
+    "level": "diploma",
+    "program_name": "Diploma in Interior Design",
+    "program_slug": "diploma-in-interior-design",
+    "field": "Design",
+    "duration": "2 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.0yr duration)"
+    },
+    "requirements": {
+      "spm": "Minimum 3 credits and at least a pass in English"
+    },
+    "accreditation": null,
+    "sources": [
+      "https://www.firstcity.edu.my/programmes"
+    ],
+    "confidence": 0.7,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "First City University College",
+    "university_slug": "fcuc",
+    "level": "diploma",
+    "program_name": "Diploma in Information Technology",
+    "program_slug": "diploma-in-information-technology",
+    "field": "Computing",
+    "duration": "2 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.0yr duration)"
+    },
+    "requirements": {
+      "spm": "Minimum 3 credits and at least a pass in English"
+    },
+    "accreditation": null,
+    "sources": [
+      "https://www.firstcity.edu.my/programmes"
+    ],
+    "confidence": 0.7,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "First City University College",
+    "university_slug": "fcuc",
+    "level": "diploma",
+    "program_name": "Diploma in Computer Science",
+    "program_slug": "diploma-in-computer-science",
+    "field": "Computing",
+    "duration": "2 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.0yr duration)"
+    },
+    "requirements": {
+      "spm": "Minimum 3 credits and at least a pass in English"
+    },
+    "accreditation": null,
+    "sources": [
+      "https://www.firstcity.edu.my/programmes"
+    ],
+    "confidence": 0.7,
+    "last_updated": "2026-09-16"
+  }
 ]

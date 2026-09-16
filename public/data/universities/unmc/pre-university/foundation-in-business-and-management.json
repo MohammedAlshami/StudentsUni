@@ -6,17 +6,32 @@
   "field": "Business",
   "duration": "2-3 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM7,800/Sem",
     "international": "RM9,500/Sem",
-    "local_total": 15600,
+    "local_total": 23400,
     "per_year_local": 15600,
     "international_total": 19000,
     "per_year_international": 19000,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -27,6 +42,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "foundation-in-business-and-management"
+  "last_updated": "2026-09-16",
+  "slug": "foundation-in-business-and-management",
+  "program_name_ar": "تأسيس Business & Management",
+  "program_name_zh": "Business & Management预科",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -23,18 +23,17 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of These: STPM: Pass with a minimum Grade C+ (GPA 2.33) in any two subjects, and credits in Mathematics and a pass in English at SPM level. STAM: Pass with minimum Jayyid grade (good) and credit in Mathematics and a pass in English at SPM level or its equivalent. UEC: Pass with Grade B in 5 subjects including Mathematics &amp; English. UOC Foundation Programme (Foundation): Matriculation/Foundation qualification with a minimum CGPA of 2.50 and SPM / O-Level or equivalent with a credit in Mathematics and pass in English. Matriculation or Foundation from other institutions (Other): Matriculation / Foundation qualification or its equivalent with a minimum CGPA of 2.50 and O-Level or equivalent with credits in Mathematics and pass in English. Diploma in related field (Bachelor&#39;s Degree Level): A diploma in accounting or related field, or its equivalent with a minimum CGPA of 2.50, and credits in Mathematics and a pass in English at SPM level. English Proficiency For International Students: Minimum IELTS score of 5.5 or equivalent. For Malaysian Students: MUET Band 2."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -61,5 +60,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accounting and Finance (Honours)",
+  "program_name_zh": "Accounting and Finance (Honours)学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

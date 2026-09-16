@@ -5,13 +5,46 @@
   "program_name": "Bachelor of Science (Hons) Biomedical Science",
   "slug": "bachelor-of-science-hons-biomedical-science",
   "field": "Biomedical Science",
-  "duration": null,
+  "duration": "5 years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-  "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-  "accreditation": { "mqa_status": null, "mqa_ref": null },
-  "sources": ["https://www.aimst.edu.my/academic/bachelor-of-science-biomedical-science/"],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 240000,
+    "international_total": null,
+    "per_year_local": 48000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 5.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Biology, Chemistry and Physics/Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.aimst.edu.my/academic/bachelor-of-science-biomedical-science/"
+  ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) Biomedical Science",
+  "program_name_zh": "Science (Hons) Biomedical Science学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

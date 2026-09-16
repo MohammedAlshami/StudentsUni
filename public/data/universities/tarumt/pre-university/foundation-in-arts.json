@@ -23,7 +23,7 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -31,8 +31,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "SPM - 5 credits in the relevant subjects; * O Level - 5 Grade C in the relevant subjects; * UEC - 3 Grade B in the relevant subjects.  * Note: a) SPM holders must have at least a pass in Bahasa Melayu and SPM holders from Year 2013 onwards must have at least a pass in Sejarah. *Click here to find out more about the Minimum Entry Requirements: https://www.tarc.edu.my/files/admissions/2021mer/93ECE72C-D16E-4DEC-934A-E2A4621CC3A4.pdf"
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Arts",
+  "program_name_zh": "Arts预科",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

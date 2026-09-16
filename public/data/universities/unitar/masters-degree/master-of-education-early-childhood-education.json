@@ -15,9 +15,11 @@
   "fees": {
     "local": "18690/Course",
     "international": "18690/Course",
-    "local_total": 10875,
+    "local_total": 10874,
     "currency": "MYR",
-    "international_total": 19523
+    "international_total": 19523,
+    "per_year_local": 8156,
+    "notes": " (per_year based on 1.3333333333333333yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -54,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Education (Early Childhood Education)",
+  "program_name_zh": "Education (Early Childhood Education)硕士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

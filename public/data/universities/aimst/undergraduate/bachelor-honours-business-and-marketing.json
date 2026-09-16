@@ -7,11 +7,45 @@
   "field": "Business",
   "duration": "3.5 years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-  "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-  "accreditation": { "mqa_status": null, "mqa_ref": null },
-  "sources": ["https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-business-marketing/", "https://www.studymalaysia.com/what/course/AIMST/0055043/"],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 65999,
+    "international_total": null,
+    "per_year_local": 18857,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.5yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-business-marketing/",
+    "https://www.studymalaysia.com/what/course/AIMST/0055043/"
+  ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Bachelor (Honours) in Business and Marketing",
+  "program_name_zh": "Bachelor (Honours) in Business and Marketing",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

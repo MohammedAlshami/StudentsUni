@@ -5,18 +5,35 @@
   "program_name": "Executive Diploma in Business Administration",
   "program_slug": "executive-diploma-in-business-administration",
   "field": "Business Management & Administration",
-  "duration": "2.5 \u2013 3 Yrs",
+  "duration": "2.5 – 3 Yrs",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 28000,
+    "local_total": 42000,
     "international_total": 36000,
-    "per_year_local": "RM14,000-RM18,000",
+    "per_year_local": 14000,
     "per_year_international": "RM18,000-RM25,000",
     "notes": ""
   },
-  "requirements": "A pass in SPM with at least credit in any 3 subjects, or any equivalent qualification; OR A pass in STPM, with a minimum of Grade C (GP 2.0) in any subject, or any equivalent qualification; OR A pass in STAM with a minimum grade of Maqbul; OR A pass in SKM Level 3 in a related field, and a pass in SPM with a minimum of 1 credit in any subject; OR Any qualifications equivalent to Certificate (Level 3, MQF). International students: minimum IELTS 5.0. Prerequisites: 3 years of working experience, minimum age 21",
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA/FA4032",
   "campus": "SEGi University Kota Damansara",
   "exam_body": "Internal Diploma, Malaysia",
@@ -25,5 +42,9 @@
     "https://eduswasta.my/university/segi-university/"
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Executive Diploma in Business Administration",
+  "program_name_zh": "Executive Diploma in Business Administration",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

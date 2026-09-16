@@ -7,11 +7,43 @@
   "field": "Social Sciences",
   "duration": "3 years (full-time). Part-time options available.",
   "mode": "Flexible Full-time/Part-time Mode",
-  "fees": { "local": "RM48,100 (including Application Fee, Registration Fee, Resources Fee and Tuition Fee)", "international": null },
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058738/",
     "https://www.help.edu.my"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "intakes": [
+    "Aug",
+    "Feb",
+    "Jan",
+    "May",
+    "Sep"
+  ],
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
+  "program_name_ar": "دكتوراه فلسفة (Psychology)",
+  "program_name_zh": "哲学博士 (Psychology)",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

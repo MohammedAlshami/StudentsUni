@@ -8,7 +8,11 @@
   "state": "Selangor",
   "city": "Sepang",
   "website": "https://www.xmu.edu.my",
-  "levels_available": ["foundation", "undergraduate", "postgraduate"],
+  "levels_available": [
+    "foundation",
+    "undergraduate",
+    "postgraduate"
+  ],
   "program_counts": {
     "foundation": 3,
     "undergraduate": 27,
@@ -37,6 +41,14 @@
       "note": "Wikipedia page confirming 49 programmes, 10,350 students, 94% employability rate"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "First overseas campus of Xiamen University (China). Accredited by both Malaysia and China governments. Ranked 1st in Malaysia for Nature Index Institution Research Output 2025. 49 programmes across 11 schools. 94% employability rate (2024)."
+  "last_updated": "2026-09-16",
+  "notes": "First overseas campus of Xiamen University (China). Accredited by both Malaysia and China governments. Ranked 1st in Malaysia for Nature Index Institution Research Output 2025. 49 programmes across 11 schools. 94% employability rate (2024).",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

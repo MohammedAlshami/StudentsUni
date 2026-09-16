@@ -7,9 +7,39 @@
   "field": "Computing & IT",
   "duration": "3 years",
   "mode": "Full-time Study",
-  "intakes": ["Jan", "May", "Jul", "Sep"],
-  "fees": { "local": "RM82,800.00", "international": null },
-  "sources": ["https://studymalaysia.com/what/course/HELP/0057835/"],
+  "intakes": [
+    "Jan",
+    "May",
+    "Jul",
+    "Sep"
+  ],
+  "fees": {
+    "local": "RM82,800.00",
+    "international": null,
+    "local_total": 82800,
+    "per_year_local": 27600
+  },
+  "sources": [
+    "https://studymalaysia.com/what/course/HELP/0057835/"
+  ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
+  "program_name_ar": "بكالوريوس Information Technology (Honours)(2U 1I)(Work-Based Learning)",
+  "program_name_zh": "Information Technology (Honours)(2U 1I)(Work-Based Learning)学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

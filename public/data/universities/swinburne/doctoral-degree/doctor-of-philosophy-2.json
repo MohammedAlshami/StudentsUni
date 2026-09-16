@@ -7,7 +7,11 @@
   "slug": "doctor-of-philosophy-2",
   "duration": "FT(4 Years) & PT(8 Years)",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM34,160",
     "international": "RM43,480",
@@ -18,12 +22,29 @@
     "per_year_international": 10870,
     "notes": "Total course fee for 4-year programme"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SWINBURNE/0056009/",
     "https://www.swinburne.edu.my/?p=31477"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (2)",
+  "program_name_zh": "哲学博士 (2)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -1,20 +1,542 @@
 [
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Marketing", "program_slug": "diploma-in-marketing", "field": "Business", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-business-management/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Logistics Management", "program_slug": "diploma-in-logistics-management", "field": "Business", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-business-management/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in International Business", "program_slug": "diploma-in-international-business", "field": "Business", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-business-management/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Business Administration", "program_slug": "diploma-in-business-administration", "field": "Business", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-business-management/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Financial Analysis", "program_slug": "diploma-in-financial-analysis", "field": "Business", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-business-management/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Tourism Management", "program_slug": "diploma-in-tourism-management", "field": "Business", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-business-management/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Accountancy", "program_slug": "diploma-in-accountancy", "field": "Business", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-business-management/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Advertising Design", "program_slug": "diploma-in-advertising-design", "field": "Design", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-art-design/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Industrial Design", "program_slug": "diploma-in-industrial-design", "field": "Design", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-art-design/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Multimedia Design", "program_slug": "diploma-in-multimedia-design", "field": "Design", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-art-design/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Visual Art", "program_slug": "diploma-in-visual-art", "field": "Design", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-art-design/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Computer Science", "program_slug": "diploma-in-computer-science", "field": "Computing", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-engineering-information-technology/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Information Technology", "program_slug": "diploma-in-information-technology", "field": "Computing", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-engineering-information-technology/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Electrical and Electronic Engineering", "program_slug": "diploma-in-electrical-electronic-engineering", "field": "Engineering", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-engineering-information-technology/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Journalism", "program_slug": "diploma-in-journalism", "field": "Communication", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-humanities-social-science/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in English Language", "program_slug": "diploma-in-english-language", "field": "Languages", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-humanities-social-science/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Early Childhood Education", "program_slug": "diploma-in-early-childhood-education", "field": "Education", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-humanities-social-science/"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "Southern University College", "university_slug": "southern", "level": "diploma", "program_name": "Diploma in Chinese Studies", "program_slug": "diploma-in-chinese-studies", "field": "Chinese Studies", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-chinese-studies/"], "confidence": 0.8, "last_updated": "2026-09-14"}
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Marketing",
+    "program_slug": "diploma-in-marketing",
+    "field": "Business",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-business-management/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Logistics Management",
+    "program_slug": "diploma-in-logistics-management",
+    "field": "Business",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-business-management/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in International Business",
+    "program_slug": "diploma-in-international-business",
+    "field": "Business",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-business-management/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Business Administration",
+    "program_slug": "diploma-in-business-administration",
+    "field": "Business",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-business-management/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Financial Analysis",
+    "program_slug": "diploma-in-financial-analysis",
+    "field": "Business",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-business-management/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Tourism Management",
+    "program_slug": "diploma-in-tourism-management",
+    "field": "Business",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-business-management/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Accountancy",
+    "program_slug": "diploma-in-accountancy",
+    "field": "Business",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-business-management/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Advertising Design",
+    "program_slug": "diploma-in-advertising-design",
+    "field": "Design",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-art-design/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Industrial Design",
+    "program_slug": "diploma-in-industrial-design",
+    "field": "Design",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-art-design/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Multimedia Design",
+    "program_slug": "diploma-in-multimedia-design",
+    "field": "Design",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-art-design/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Visual Art",
+    "program_slug": "diploma-in-visual-art",
+    "field": "Design",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-art-design/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Computer Science",
+    "program_slug": "diploma-in-computer-science",
+    "field": "Computing",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-engineering-information-technology/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Information Technology",
+    "program_slug": "diploma-in-information-technology",
+    "field": "Computing",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-engineering-information-technology/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Electrical and Electronic Engineering",
+    "program_slug": "diploma-in-electrical-electronic-engineering",
+    "field": "Engineering",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-engineering-information-technology/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Journalism",
+    "program_slug": "diploma-in-journalism",
+    "field": "Communication",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-humanities-social-science/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in English Language",
+    "program_slug": "diploma-in-english-language",
+    "field": "Languages",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-humanities-social-science/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Early Childhood Education",
+    "program_slug": "diploma-in-early-childhood-education",
+    "field": "Education",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-humanities-social-science/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "Southern University College",
+    "university_slug": "southern",
+    "level": "diploma",
+    "program_name": "Diploma in Chinese Studies",
+    "program_slug": "diploma-in-chinese-studies",
+    "field": "Chinese Studies",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.southern.edu.my/faculty-of-chinese-studies/"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  }
 ]

@@ -7,16 +7,39 @@
   "field": "Computing & Technology",
   "duration": "2 - 4 years (Full-time), 3 - 6 years (Part-time)",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM8,150",
-    "international": "RM8,750"
+    "international": "RM8,750",
+    "local_total": 8148,
+    "per_year_local": 2037
   },
-  "requirements": "Bachelor's degree with minimum CGPA of 3.00 or equivalent from AIU or any university recognised by the AIU Senate",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "N/0610/7/0011 (6/26) MQA/PA 18676",
   "sources": [
     "https://www.aiu.edu.my/postgraduate"
   ],
   "confidence": 0.95,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Computing",
+  "program_name_zh": "Computing硕士",
+  "field_ar": "Computing & Technology",
+  "field_zh": "Computing & Technology"
 }

@@ -17,11 +17,24 @@
     "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
     "local_total": 16475,
-    "per_year_local": null,
-    "notes": "Fee: FromRM12,375.00",
+    "per_year_local": 32950,
+    "notes": "Fee: FromRM12,375.00 (per_year based on 0.5yr duration)",
     "international_total": 17600
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "awarding_country": null,
   "sources": [
@@ -39,5 +52,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Post Basic Certificate in Perioperative Nursing",
+  "program_name_zh": "Post Basic Certificate in Perioperative Nursing",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

@@ -5,15 +5,43 @@
   "program_name": "Diploma in Creative Multimedia",
   "field": "Creative Multimedia",
   "slug": "diploma-in-creative-multimedia",
-  "duration": null,
+  "duration": "3 years",
   "mode": null,
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 39999,
+    "international_total": null,
+    "per_year_local": 13333,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "R3/0211/4/0111 (4/2/2029) (A9642)",
   "sources": [
     "https://unishams.edu.my/component/content/article/diploma-in-creative-multimedia?catid=11"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Creative Multimedia",
+  "program_name_zh": "Creative Multimedia文凭",
+  "field_ar": "الإعلام",
+  "field_zh": "媒体学"
 }

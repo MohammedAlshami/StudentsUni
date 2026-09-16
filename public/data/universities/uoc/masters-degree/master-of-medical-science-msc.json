@@ -7,11 +7,13 @@
   "slug": "master-of-medical-science-msc",
   "duration": "Full-time: 2 - 6 years Part-time: 4 - 8 years",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Oct"
+  ],
   "fees": {
     "local": "Refer to University",
     "international": "Refer to University",
-    "local_total": 19850,
+    "local_total": 59550,
     "per_year_local": 9925,
     "notes": "Estimated total fees (local) for full course duration"
   },
@@ -26,5 +28,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Medical Science (MSc)",
+  "program_name_zh": "Medical Science (MSc)硕士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

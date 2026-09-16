@@ -15,7 +15,7 @@
   "fees": {
     "local": "Refer to University",
     "international": "Refer to University",
-    "local_total": 19300,
+    "local_total": 19299,
     "currency": "MYR",
     "international_total": 19867,
     "per_year_local": 6433,
@@ -42,5 +42,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Nursing",
+  "program_name_zh": "Nursing文凭",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

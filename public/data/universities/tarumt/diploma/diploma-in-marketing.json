@@ -7,13 +7,32 @@
   "field": "Marketing & Sales",
   "duration": "2 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
   "fees": {
     "local": "RM19,200.00",
     "international": "RM44,400.00",
-    "currency": "MYR"
+    "currency": "MYR",
+    "local_total": 19200,
+    "international_total": 44400.0,
+    "per_year_local": 9600
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -29,5 +48,9 @@
     }
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Marketing",
+  "program_name_zh": "Marketing文凭",
+  "field_ar": "التسويق",
+  "field_zh": "市场营销"
 }

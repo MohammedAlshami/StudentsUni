@@ -21,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Entry Requirements Pass in SPM/O-Level or its equivalent with a minimum of Grade C in at least three (3) subjects, inclusive of English; OR Pass STPM or its equivalent with a minimum of Grade C (GPA 2.00) in any one (1) subject including a minimum of Grade C in English at SPM/O-Level or its equivalent; OR Pass in STAM with a minimum Grade Maqbul (Pass) in any one (1) subject including a credit in SPM English or its equivalent; OR Pass UEC with a minimum of three (3) Bs including English; OR Pass SKM Level 3 or any qualifications equivalent to Certificate (Level 3, MQF) including Pass SPM with a credit in English or its equivalent; OR Pass a Certificate or its equivalent including a credit in English at SPM or its equivalent; OR Pass a Certificate in Media and Communication or its equivalent; OR Possess an APEL.A certificate from MQA for admission into Diploma programmes."
   },
@@ -76,5 +76,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Applied Communication",
+  "program_name_zh": "Applied Communication文凭",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

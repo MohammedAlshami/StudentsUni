@@ -24,6 +24,14 @@
       "note": "Website connection error during data collection"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "Owned by Perak State Government. Located in Kuala Kangsar, Perak. Previously known as KISDAR (1999) and KUISAS (2013). Upgraded to full university status on 15 June 2016."
+  "last_updated": "2026-09-16",
+  "notes": "Owned by Perak State Government. Located in Kuala Kangsar, Perak. Previously known as KISDAR (1999) and KUISAS (2013). Upgraded to full university status on 15 June 2016.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

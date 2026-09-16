@@ -4,10 +4,21 @@
   "level": "executive",
   "program_name": "Women's Leadership Programme",
   "field": "Leadership",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Unknown",
-  "intakes": null,
-  "fees": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 15000,
+    "international_total": null,
+    "per_year_local": 5000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
   "requirements": null,
   "accreditation": null,
   "sources": [
@@ -17,5 +28,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Women's Leadership Programme",
+  "program_name_zh": "Women's Leadership Programme",
+  "field_ar": "Leadership",
+  "field_zh": "Leadership"
 }

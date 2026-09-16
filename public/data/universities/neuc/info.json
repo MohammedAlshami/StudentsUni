@@ -52,6 +52,14 @@
       "note": "Faculties and history; established 1997, university college 2017"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "Private non-profit. 6 faculties: FAME, FICT, FASS, FMCA, Education, Health/Safety/Security/Environment. Also has Graduate School, Institute of International Education, Institute of Ageing. DKU040(B). LCCI RTC, Cisco Networking Academy. Founded 1997, university college 2017. MAPCU affiliated. 42 programs verified from official website with MQA codes."
+  "last_updated": "2026-09-16",
+  "notes": "Private non-profit. 6 faculties: FAME, FICT, FASS, FMCA, Education, Health/Safety/Security/Environment. Also has Graduate School, Institute of International Education, Institute of Ageing. DKU040(B). LCCI RTC, Cisco Networking Academy. Founded 1997, university college 2017. MAPCU affiliated. 42 programs verified from official website with MQA codes.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

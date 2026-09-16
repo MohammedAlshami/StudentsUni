@@ -14,7 +14,9 @@
       "fees": null,
       "requirements": "A pass in SPM with at least credit in any 3 subjects, or any equivalent qualification; OR A pass in STPM, with a minimum of Grade C (GP 2.0) in any subject, or any equivalent qualification; OR A pass in STAM with a minimum grade of Maqbul; OR A pass in SKM Level 3 in a related field, and a pass in SPM with a minimum of 1 credit in any subject; OR Any qualifications equivalent to Certificate (Level 3, MQF). International students: minimum IELTS 5.0. Prerequisites: 3 years of working experience, minimum age 21",
       "accreditation": "MQA/FA4032",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0005819/"],
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0005819/"
+      ],
       "confidence": 0.85,
       "last_updated": "2026-09-14"
     },
@@ -28,9 +30,19 @@
       "fees": null,
       "requirements": "SPM/O-Level – min. 3 credits; Any equivalent qualifications. International students: TOEFL 500 or IELTS 5.0",
       "accreditation": "MQA/FA2108",
-      "sources": ["https://studymalaysia.com/what/course/SEGI/0054551/"],
+      "sources": [
+        "https://studymalaysia.com/what/course/SEGI/0054551/"
+      ],
       "confidence": 0.85,
       "last_updated": "2026-09-14"
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 40000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+  }
 }

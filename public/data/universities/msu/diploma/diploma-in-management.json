@@ -14,24 +14,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 9311,
+    "local_total": 9309,
     "international_total": 15269,
-    "per_year_local": null,
+    "per_year_local": 3852,
     "per_year_international": null,
-    "notes": "Local: RM22,500.00; International: RM53,255.00"
+    "notes": "Local: RM22,500.00; International: RM53,255.00 (per_year based on 2.4166666666666665yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Pass SPM with 3 credits in any subjects; Certificate from Polytechnic or higher learning institution; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
   },
@@ -67,5 +67,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Management",
+  "program_name_zh": "Management文凭",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

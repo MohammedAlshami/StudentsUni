@@ -7,11 +7,37 @@
   "field": "Business Management & Administration",
   "duration": "Minimum 1 year 8 months, maximum 2 years 8 months",
   "mode": "Full-time Study",
-  "fees": { "local": "RM30,000.00", "international": null },
+  "fees": {
+    "local": "RM30,000.00",
+    "international": null,
+    "local_total": 30000,
+    "per_year_local": 30000
+  },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0056465/",
     "https://www.help.edu.my"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "intakes": [
+    "Modular"
+  ],
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
+  "program_name_ar": "ماجستير Science in Economic Crime Management",
+  "program_name_zh": "Science in Economic Crime Management硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

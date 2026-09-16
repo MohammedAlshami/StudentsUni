@@ -17,9 +17,24 @@
     "international": "28000/Course",
     "local_total": 12720,
     "currency": "MYR",
-    "international_total": 20896
+    "international_total": 20896,
+    "per_year_local": 5088,
+    "notes": " (per_year based on 2.5yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0056632/",
@@ -30,5 +45,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Interior Architecture",
+  "program_name_zh": "Interior Architecture文凭",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

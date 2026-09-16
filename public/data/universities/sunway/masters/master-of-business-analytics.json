@@ -17,15 +17,24 @@
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
     "local_total": 23350,
-    "per_year_local": null,
-    "notes": "Fee: FromRM41,600.00",
+    "per_year_local": 11675,
+    "notes": "Fee: FromRM41,600.00 (per_year based on 2.0yr duration)",
     "international_total": 25600
   },
-  "requirements": [
-    "A Bachelor's Degree with a minimum CGPA of 2.50 out of 4.00 or its equivalent qualifications as accepted by HEP Senate",
-    "A Bachelor's Degree or equivalent with CGPA lower than 2.50, with at least 5 years of work experience",
-    "IELTS 6.0 or equivalent for non-English medium first degree holders"
-  ],
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "MQA/PA 14138 JPT/BPP(U)1000-801/57/Jld.13(40)",
   "awarding_country": "Malaysia",
   "format": "Taught",
@@ -44,5 +53,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Analytics",
+  "program_name_zh": "Business Analytics硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

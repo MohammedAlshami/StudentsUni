@@ -18,9 +18,24 @@
     "international": "Refer to newinti.edu.my",
     "local_total": 19942,
     "currency": "MYR",
-    "international_total": 19942
+    "international_total": 19942,
+    "per_year_local": 19942,
+    "notes": " (per_year based on 1.0yr duration)"
   },
-  "requirements": "SPM/O-level 5 credits or its equivalent",
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "Internal Qualification, Malaysia",
   "awarding_country": "Malaysia",
   "faculty": "Pre-University",
@@ -34,5 +49,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Foundation Programme (Engineering/Science)",
+  "program_name_zh": "Foundation Programme (Engineering/Science)",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

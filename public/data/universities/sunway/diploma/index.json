@@ -4,12 +4,38 @@
   "level": "diploma",
   "total_programs": 6,
   "programs": [
-    { "program_name": "Diploma in Culinary Arts", "program_slug": "diploma-in-culinary-arts" },
-    { "program_name": "Diploma in Nursing", "program_slug": "diploma-in-nursing" },
-    { "program_name": "Diploma in Interior Design", "program_slug": "diploma-in-interior-design" },
-    { "program_name": "Diploma in Hotel Management", "program_slug": "diploma-in-hotel-management" },
-    { "program_name": "Diploma in Events Management", "program_slug": "diploma-in-events-management" },
-    { "program_name": "Diploma in Graphic and Multimedia Design", "program_slug": "diploma-in-graphic-and-multimedia-design" }
+    {
+      "program_name": "Diploma in Culinary Arts",
+      "program_slug": "diploma-in-culinary-arts"
+    },
+    {
+      "program_name": "Diploma in Nursing",
+      "program_slug": "diploma-in-nursing"
+    },
+    {
+      "program_name": "Diploma in Interior Design",
+      "program_slug": "diploma-in-interior-design"
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "program_slug": "diploma-in-hotel-management"
+    },
+    {
+      "program_name": "Diploma in Events Management",
+      "program_slug": "diploma-in-events-management"
+    },
+    {
+      "program_name": "Diploma in Graphic and Multimedia Design",
+      "program_slug": "diploma-in-graphic-and-multimedia-design"
+    }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 55000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+  }
 }

@@ -7,10 +7,18 @@
   "slug": "master-in-computing",
   "duration": "2-4 years | Full time; 3-6 years | Part time",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
-    "local": null,
-    "international": null
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 16500,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
   },
   "requirements": null,
   "accreditation": null,
@@ -18,5 +26,9 @@
     "https://studymalaysia.com/what/course/QIU/0059069/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Computing",
+  "program_name_zh": "Computing硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

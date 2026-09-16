@@ -15,24 +15,23 @@
     "currency": "MYR",
     "local_total": 16900,
     "international_total": 16500,
-    "per_year_local": null,
+    "per_year_local": 16900,
     "per_year_international": null,
-    "notes": "Total programme fee; ODL mode; local fee not listed on website"
+    "notes": "Total programme fee; ODL mode; local fee not listed on website (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.50 or equivalent, as accepted by the HEP Senate; OR A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 or equivalent, can be accepted, subject to a rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 or equivalent, as accepted by the HEP Senate and with relevant working experience, subject to a rigorous internal assessment; OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 or equivalent, as accepted by the HEP Senate and without working experience, subject to passing pre-requisite courses; OR Other equivalent/related qualifications to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government. English Entry Requirement: a minimum IELTS overall band score of 6.0 ; or a minimum overall TOEFL iBT score of 60 ; or a minimum MUET overall band score of 4 ; or a minimum Pearson Test of English score of 59 ; or a minimum Cambridge Qualifications and Test score of 169; or a minimum Linguaskill overall band score of 169"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -76,5 +75,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Executive Master of Business Administration (E.M.B.A) via ODL (By Coursework)",
+  "program_name_zh": "Executive Master of Business Administration (E.M.B.A) via ODL (By Coursework)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

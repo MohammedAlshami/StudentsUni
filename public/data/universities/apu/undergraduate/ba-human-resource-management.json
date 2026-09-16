@@ -7,25 +7,31 @@
   "field": "Business & Management",
   "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM100,400.00",
     "international": "RM108,500.00",
-    "local_total": 99800,
-    "international_total": 104600
+    "local_total": 99798,
+    "international_total": 104600,
+    "per_year_local": 33266,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "Direct Entry to Level 1 of the Degree STPM 2 Passes in STPM with a minimum Grade C (GP 2.0) and a Pass in English and Mathematics at SPM Level or its equivalent. A-Level 2 Passes (Grade A-D) in A-Level with a Pass in English and Mathematics at SPM/O-Level/IGCSE or its equivalent. UEC 5 Grade B’s in UEC with a Pass in Mathematics and English. Matriculation/Foundation Passed Foundation programme (minimum CGPA of 2.0). Entry to Level 2 of the Degree Diploma Successful completion of the APU Diploma or Successful completion of studies in another recognised institute with academic credits equivalent to Level 1 of an Honours Degree (Subject to the approval of the APU Academic Board) * The requirement to pass Mathematics and English subjects at STPM, A-Level, and UEC can be waived should the qualifications contain Mathematics and English subjects with equivalent/higher achievement. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the &#34;Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent)&#34; published by Malaysian Qualifications Agency (MQA). English Requirements International Students IELTS: 5.5 TOEFL IBT: 46 Pearson (PTE): 51 MUET: Band 4"
   },
@@ -40,5 +46,9 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Arts (Honours) in Human Resource Management",
+  "program_name_zh": "Arts (Honours) in Human Resource Management学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

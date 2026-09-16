@@ -4,12 +4,15 @@
   "level": "postgraduate",
   "program_name": "Doctor of Philosophy (PhD) - Health Science",
   "field": "Health Science",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 20000,
+    "local_total": 15000,
     "international_total": 60000,
     "per_year_local": 5000,
     "per_year_international": 15000,
@@ -20,13 +23,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -37,5 +40,9 @@
     "https://www.ukm.my/portal/postgraduate-programme/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (PhD) - Health Science",
+  "program_name_zh": "哲学博士 (PhD) - Health Science",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

@@ -6,7 +6,9 @@
   "field": "English",
   "duration": "2-3 Years",
   "mode": "Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM35,690/Yr",
     "international": "RM39,940/Yr",
@@ -21,15 +23,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "PhD Eligibility Criteria Degree Requirements: A good master’s degree (usually merit or higher). An upper second-class honours degree (2:1) or international equivalent in a relevant discipline. Non-UK qualifications will be assessed. Language Proficiency (if applicable): IELTS (Academic): Overall 7.0, with no component below 6.0. TOEFL iBT: Overall 100, with minimum scores: Writing &amp; Listening: 19 Reading: 20 Speaking: 22 PTE (Academic): Overall 76, with no component below 65. MUET: Band 5 (valid for 5 years). Important Notes: English proficiency test results must be less than 2 years old. IELTS One Skill Retake is accepted. Online versions of IELTS, TOEFL, or PTE are not accepted."
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -46,6 +47,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "phd-in-english"
+  "last_updated": "2026-09-16",
+  "slug": "phd-in-english",
+  "program_name_ar": "Ph.D. in English",
+  "program_name_zh": "Ph.D. in English",
+  "field_ar": "اللغة الإنجليزية",
+  "field_zh": "英语"
 }

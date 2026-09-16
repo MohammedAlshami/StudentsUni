@@ -5,13 +5,41 @@
   "program_name": "Master in Computer Science",
   "program_slug": "master-in-computer-science",
   "field": "Information Technology",
-  "duration": null,
+  "duration": "1.5 years",
   "mode": "Mixed Mode",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "July"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 33000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
-  "sources": ["https://www.unikl.edu.my/postgraduate-admission/"],
+  "sources": [
+    "https://www.unikl.edu.my/postgraduate-admission/"
+  ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Computer Science",
+  "program_name_zh": "Computer Science硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

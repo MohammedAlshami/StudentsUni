@@ -6,11 +6,24 @@
   "state": "Selangor",
   "website": "https://www.taylors.edu.my",
   "qs_ranking": "Top 272 in the World, Top 30 in Asia",
-  "levels_available": ["diploma", "degree", "masters", "phd"],
+  "levels_available": [
+    "diploma",
+    "degree",
+    "masters",
+    "phd"
+  ],
   "total_programs": 62,
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-16",
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes.html",
     "https://university.taylors.edu.my/en.html"
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

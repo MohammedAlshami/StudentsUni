@@ -14,26 +14,25 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12800,
+    "local_total": 12798,
     "international_total": 20235,
-    "per_year_local": null,
+    "per_year_local": 4266,
     "per_year_international": null,
-    "notes": "Local: RM38,400.00; International: RM78,995.00"
+    "notes": "Local: RM38,400.00; International: RM78,995.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Pass STPM or its equivalent, obtaining full pass in 2 subjects including Pengajian Am (General Studies) or at least 2.00 CGPA; Ministry of Education (KPM) Matriculation Certificate; Diploma with a minimum CGPA of 2.0 in relevant field from any provider of higher education; Pass at least 2 subjects in A-Level; Pass Unified Examination Certificate (UEC) with at least grade B in 5 subjects; Other equivalent qualification recognised by Malaysian Government."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -67,5 +66,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Industrial Management (Honours)",
+  "program_name_zh": "Industrial Management (Honours)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

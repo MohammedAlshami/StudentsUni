@@ -6,7 +6,17 @@
   "state": "Kuala Lumpur",
   "city": "Kuala Lumpur",
   "website": "https://www.imu.edu.my",
-  "levels_available": ["foundation", "diploma", "bachelor", "master", "phd", "executive", "odl", "lifelong-learning", "global-learning"],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "master",
+    "phd",
+    "executive",
+    "odl",
+    "lifelong-learning",
+    "global-learning"
+  ],
   "program_counts": {
     "foundation": 2,
     "diploma": 1,
@@ -30,5 +40,13 @@
       "note": "Programmes search page"
     }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

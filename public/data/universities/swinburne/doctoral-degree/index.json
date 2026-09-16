@@ -6,5 +6,13 @@
     "doctor-of-philosophy-2",
     "doctor-of-philosophy-3",
     "doctor-of-philosophy-4"
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

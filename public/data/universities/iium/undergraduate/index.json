@@ -3,59 +3,225 @@
   "university_slug": "iium",
   "level": "undergraduate",
   "programs": [
-    {"slug": "bachelor-of-biotechnology-hons", "name": "Bachelor of Biotechnology (Hons)"},
-    {"slug": "bachelor-of-education-guidance-and-counseling-hons", "name": "Bachelor of Education (Guidance And Counseling) (Hons)"},
-    {"slug": "bachelor-of-arts-english-for-international-communication-hons", "name": "Bachelor of Arts (English for International Communication) (Hons)"},
-    {"slug": "bachelor-of-finance-islamic-finance-hons", "name": "Bachelor of Finance (Islamic Finance) (Hons)"},
-    {"slug": "bachelor-of-education-tesl-hons", "name": "Bachelor of Education (Teaching of English as a Second Language) (TESL) (Hons)"},
-    {"slug": "bachelor-of-physiotherapy-hons", "name": "Bachelor of Physiotherapy (Hons)"},
-    {"slug": "bachelor-of-science-architectural-studies-hons", "name": "Bachelor of Science (Architectural Studies) (Hons)"},
-    {"slug": "bachelor-of-islamic-revealed-knowledge-heritage-quran-sunnah-hons", "name": "Bachelor of Islamic Revealed Knowledge & Heritage (Quran & Sunnah) (Hons)"},
-    {"slug": "bachelor-of-applied-art-design-hons", "name": "Bachelor of Applied Art & Design (Hons)"},
-    {"slug": "bachelor-of-audiology-honours", "name": "Bachelor of Audiology (Honours)"},
-    {"slug": "bachelor-of-pharmacy", "name": "Bachelor of Pharmacy"},
-    {"slug": "bachelor-of-islamic-revealed-knowledge-heritage-arabic-language-literature-hons", "name": "Bachelor of Islamic Revealed Knowledge & Heritage (Arabic Language and Literature) (Hons)"},
-    {"slug": "bachelor-of-quantity-surveying-hons", "name": "Bachelor of Quantity Surveying (Hons)"},
-    {"slug": "bachelor-of-engineering-mechanical-hons", "name": "Bachelor of Engineering (Mechanical Engineering) (Hons)"},
-    {"slug": "bachelor-of-engineering-chemical-hons", "name": "Bachelor of Engineering (Chemical Engineering) (Hons)"},
-    {"slug": "bachelor-of-engineering-electrical-electronic-hons", "name": "Bachelor of Engineering (Electrical and Electronic Engineering) (Hons)"},
-    {"slug": "bachelor-of-science-applied-plant-sciences-hons", "name": "Bachelor of Science (Applied Plant Sciences) (Hons)"},
-    {"slug": "bachelor-of-engineering-civil-hons", "name": "Bachelor of Engineering (Civil Engineering) (Hons)"},
-    {"slug": "bachelor-of-arts-malay-language-for-international-communication-hons", "name": "Bachelor of Arts (Malay Language for International Communication) (Hons)"},
-    {"slug": "bachelor-in-halal-industry-management-honours", "name": "Bachelor In Halal Industry Management (Honours)"},
-    {"slug": "bachelor-of-tourism-management-hons", "name": "Bachelor of Tourism Management (Hons)"},
-    {"slug": "bachelor-of-science-applied-chemistry-hons", "name": "Bachelor of Science (Applied Chemistry) (Hons)"},
-    {"slug": "bachelor-of-science-physics-hons", "name": "Bachelor of Science (Physics) (Hons)"},
-    {"slug": "bachelor-of-science-marine-science-technology-hons", "name": "Bachelor of Science (Marine Science & Technology) (Hons)"},
-    {"slug": "bachelor-of-human-sciences-sociology-anthropology-hons", "name": "Bachelor of Human Sciences (Sociology & Anthropology) (Hons)"},
-    {"slug": "bachelor-of-landscape-architecture-hons", "name": "Bachelor of Landscape Architecture (Hons)"},
-    {"slug": "bachelor-of-urban-regional-planning-hons", "name": "Bachelor of Urban & Regional Planning (Hons)"},
-    {"slug": "bachelor-of-accounting-hons", "name": "Bachelor of Accounting (Hons)"},
-    {"slug": "bachelor-of-business-administration-hons", "name": "Bachelor of Business Administration (Hons)"},
-    {"slug": "bachelor-of-economics-hons", "name": "Bachelor of Economics (Hons)"},
-    {"slug": "bachelor-of-laws-hons", "name": "Bachelor of Laws (Hons)"},
-    {"slug": "bachelor-of-engineering-manufacturing-hons", "name": "Bachelor of Engineering (Manufacturing Engineering) (Hons)"},
-    {"slug": "bachelor-of-engineering-aerospace-hons", "name": "Bachelor of Engineering (Aerospace Engineering) (Hons)"},
-    {"slug": "bachelor-of-engineering-materials-hons", "name": "Bachelor of Engineering (Materials Engineering) (Hons)"},
-    {"slug": "bachelor-of-engineering-mechatronics-hons", "name": "Bachelor of Engineering (Mechatronics Engineering) (Hons)"},
-    {"slug": "bachelor-of-computer-science-hons", "name": "Bachelor of Computer Science (Hons)"},
-    {"slug": "bachelor-of-information-technology-hons", "name": "Bachelor of Information Technology (Hons)"},
-    {"slug": "bachelor-of-human-sciences-history-civilisation-hons", "name": "Bachelor of Human Sciences (History & Civilisation) (Hons)"},
-    {"slug": "bachelor-of-arts-arabic-language-for-international-communication-hons", "name": "Bachelor of Arts (Arabic Language for International Communication) (Hons)"},
-    {"slug": "bachelor-of-human-sciences-political-science-hons", "name": "Bachelor of Human Sciences (Political Science) (Hons)"},
-    {"slug": "bachelor-of-human-sciences-english-language-literature-hons", "name": "Bachelor of Human Sciences (English Language & Literature) (Hons)"},
-    {"slug": "bachelor-of-human-sciences-communication-hons", "name": "Bachelor of Human Sciences (Communication) (Hons)"},
-    {"slug": "bachelor-of-human-sciences-psychology-hons", "name": "Bachelor of Human Sciences (Psychology) (Hons)"},
-    {"slug": "bachelor-of-islamic-revealed-knowledge-heritage-fikah-usul-fikah-hons", "name": "Bachelor of Islamic Revealed Knowledge & Heritage (Fikah and Usul Fikah) (Hons)"},
-    {"slug": "bachelor-of-education-islamic-education-hons", "name": "Bachelor of Education (Islamic Education) (Hons)"},
-    {"slug": "bachelor-of-islamic-revealed-knowledge-heritage-usuluddin-comparative-religion-hons", "name": "Bachelor of Islamic Revealed Knowledge & Heritage (Usuluddin & Comparative Religion) (Hons)"},
-    {"slug": "bachelor-of-nursing-hons", "name": "Bachelor of Nursing (Hons)"},
-    {"slug": "bachelor-of-biomedical-science-hons", "name": "Bachelor of Biomedical Science (Hons)"},
-    {"slug": "bachelor-of-science-mathematics-hons", "name": "Bachelor of Science (Mathematics) (Hons)"},
-    {"slug": "bachelor-of-optometry-hons", "name": "Bachelor of Optometry (Hons)"},
-    {"slug": "bachelor-of-dietetics-hons", "name": "Bachelor of Dietetics (Hons)"},
-    {"slug": "bachelor-of-education-teaching-arabic-as-second-language-hons", "name": "Bachelor of Education (Teaching Arabic as a Second Language (TASL) (Hons)"}
+    {
+      "slug": "bachelor-of-biotechnology-hons",
+      "name": "Bachelor of Biotechnology (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-guidance-and-counseling-hons",
+      "name": "Bachelor of Education (Guidance And Counseling) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-arts-english-for-international-communication-hons",
+      "name": "Bachelor of Arts (English for International Communication) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-finance-islamic-finance-hons",
+      "name": "Bachelor of Finance (Islamic Finance) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-tesl-hons",
+      "name": "Bachelor of Education (Teaching of English as a Second Language) (TESL) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-physiotherapy-hons",
+      "name": "Bachelor of Physiotherapy (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-architectural-studies-hons",
+      "name": "Bachelor of Science (Architectural Studies) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-islamic-revealed-knowledge-heritage-quran-sunnah-hons",
+      "name": "Bachelor of Islamic Revealed Knowledge & Heritage (Quran & Sunnah) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-applied-art-design-hons",
+      "name": "Bachelor of Applied Art & Design (Hons)"
+    },
+    {
+      "slug": "bachelor-of-audiology-honours",
+      "name": "Bachelor of Audiology (Honours)"
+    },
+    {
+      "slug": "bachelor-of-pharmacy",
+      "name": "Bachelor of Pharmacy"
+    },
+    {
+      "slug": "bachelor-of-islamic-revealed-knowledge-heritage-arabic-language-literature-hons",
+      "name": "Bachelor of Islamic Revealed Knowledge & Heritage (Arabic Language and Literature) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-quantity-surveying-hons",
+      "name": "Bachelor of Quantity Surveying (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-mechanical-hons",
+      "name": "Bachelor of Engineering (Mechanical Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-chemical-hons",
+      "name": "Bachelor of Engineering (Chemical Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-electrical-electronic-hons",
+      "name": "Bachelor of Engineering (Electrical and Electronic Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-applied-plant-sciences-hons",
+      "name": "Bachelor of Science (Applied Plant Sciences) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-civil-hons",
+      "name": "Bachelor of Engineering (Civil Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-arts-malay-language-for-international-communication-hons",
+      "name": "Bachelor of Arts (Malay Language for International Communication) (Hons)"
+    },
+    {
+      "slug": "bachelor-in-halal-industry-management-honours",
+      "name": "Bachelor In Halal Industry Management (Honours)"
+    },
+    {
+      "slug": "bachelor-of-tourism-management-hons",
+      "name": "Bachelor of Tourism Management (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-applied-chemistry-hons",
+      "name": "Bachelor of Science (Applied Chemistry) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-physics-hons",
+      "name": "Bachelor of Science (Physics) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-marine-science-technology-hons",
+      "name": "Bachelor of Science (Marine Science & Technology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-human-sciences-sociology-anthropology-hons",
+      "name": "Bachelor of Human Sciences (Sociology & Anthropology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-landscape-architecture-hons",
+      "name": "Bachelor of Landscape Architecture (Hons)"
+    },
+    {
+      "slug": "bachelor-of-urban-regional-planning-hons",
+      "name": "Bachelor of Urban & Regional Planning (Hons)"
+    },
+    {
+      "slug": "bachelor-of-accounting-hons",
+      "name": "Bachelor of Accounting (Hons)"
+    },
+    {
+      "slug": "bachelor-of-business-administration-hons",
+      "name": "Bachelor of Business Administration (Hons)"
+    },
+    {
+      "slug": "bachelor-of-economics-hons",
+      "name": "Bachelor of Economics (Hons)"
+    },
+    {
+      "slug": "bachelor-of-laws-hons",
+      "name": "Bachelor of Laws (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-manufacturing-hons",
+      "name": "Bachelor of Engineering (Manufacturing Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-aerospace-hons",
+      "name": "Bachelor of Engineering (Aerospace Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-materials-hons",
+      "name": "Bachelor of Engineering (Materials Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-engineering-mechatronics-hons",
+      "name": "Bachelor of Engineering (Mechatronics Engineering) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-computer-science-hons",
+      "name": "Bachelor of Computer Science (Hons)"
+    },
+    {
+      "slug": "bachelor-of-information-technology-hons",
+      "name": "Bachelor of Information Technology (Hons)"
+    },
+    {
+      "slug": "bachelor-of-human-sciences-history-civilisation-hons",
+      "name": "Bachelor of Human Sciences (History & Civilisation) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-arts-arabic-language-for-international-communication-hons",
+      "name": "Bachelor of Arts (Arabic Language for International Communication) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-human-sciences-political-science-hons",
+      "name": "Bachelor of Human Sciences (Political Science) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-human-sciences-english-language-literature-hons",
+      "name": "Bachelor of Human Sciences (English Language & Literature) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-human-sciences-communication-hons",
+      "name": "Bachelor of Human Sciences (Communication) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-human-sciences-psychology-hons",
+      "name": "Bachelor of Human Sciences (Psychology) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-islamic-revealed-knowledge-heritage-fikah-usul-fikah-hons",
+      "name": "Bachelor of Islamic Revealed Knowledge & Heritage (Fikah and Usul Fikah) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-islamic-education-hons",
+      "name": "Bachelor of Education (Islamic Education) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-islamic-revealed-knowledge-heritage-usuluddin-comparative-religion-hons",
+      "name": "Bachelor of Islamic Revealed Knowledge & Heritage (Usuluddin & Comparative Religion) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-nursing-hons",
+      "name": "Bachelor of Nursing (Hons)"
+    },
+    {
+      "slug": "bachelor-of-biomedical-science-hons",
+      "name": "Bachelor of Biomedical Science (Hons)"
+    },
+    {
+      "slug": "bachelor-of-science-mathematics-hons",
+      "name": "Bachelor of Science (Mathematics) (Hons)"
+    },
+    {
+      "slug": "bachelor-of-optometry-hons",
+      "name": "Bachelor of Optometry (Hons)"
+    },
+    {
+      "slug": "bachelor-of-dietetics-hons",
+      "name": "Bachelor of Dietetics (Hons)"
+    },
+    {
+      "slug": "bachelor-of-education-teaching-arabic-as-second-language-hons",
+      "name": "Bachelor of Education (Teaching Arabic as a Second Language (TASL) (Hons)"
+    }
   ],
-  "sources": ["https://www.studymalaysia.com/edu/iium/courses/"],
-  "last_updated": "2026-09-14"
+  "sources": [
+    "https://www.studymalaysia.com/edu/iium/courses/"
+  ],
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

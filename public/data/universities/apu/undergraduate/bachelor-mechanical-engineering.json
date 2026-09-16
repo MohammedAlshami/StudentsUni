@@ -7,17 +7,42 @@
   "field": "Engineering",
   "duration": "4 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM118,400.00",
-    "international": "RM137,200.00"
+    "international": "RM137,200.00",
+    "local_total": 118400,
+    "international_total": 137200.0,
+    "currency": "MYR",
+    "per_year_local": 29600
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics and Physics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "MQA, Board of Engineers Malaysia (BEM)",
   "sources": [
     "https://www.apu.edu.my/course/bachelor-of-mechanical-engineering",
     "https://www.studymalaysia.com/what/course/APU/0058533/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Mechanical Engineering with Honours",
+  "program_name_zh": "Mechanical Engineering with Honours学士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

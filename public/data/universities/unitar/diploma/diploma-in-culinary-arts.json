@@ -7,15 +7,32 @@
   "slug": "diploma-in-culinary-arts",
   "duration": "3 Yrs (9 Sem)",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "25180/Course",
     "international": "25180/Course",
-    "local_total": 25180,
+    "local_total": 37768,
     "per_year_local": 8393,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0005960/",
@@ -26,5 +43,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Culinary Arts",
+  "program_name_zh": "Culinary Arts文凭",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

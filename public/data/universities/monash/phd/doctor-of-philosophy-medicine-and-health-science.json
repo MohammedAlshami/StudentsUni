@@ -12,23 +12,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 126999,
+    "local_total": 169332,
     "international_total": 139668,
-    "per_year_local": "RM42,333 per year",
+    "per_year_local": 42333,
     "per_year_international": "RM46,556 per year",
     "notes": null
   },
   "requirements": {
     "malaysian": {
-      "master_degree": null,
-      "cgpa": null,
-      "research_proposal": null
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
-      "master_degree": null,
-      "cgpa": null,
-      "research_proposal": null,
-      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -40,5 +41,9 @@
     "https://www.studymalaysia.com/what/course/MONASH/0054368/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Medicine and Health Science)",
+  "program_name_zh": "哲学博士 (Medicine and Health Science)",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

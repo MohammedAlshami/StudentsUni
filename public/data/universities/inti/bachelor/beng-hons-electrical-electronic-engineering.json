@@ -15,11 +15,26 @@
   "fees": {
     "local": "Refer to newinti.edu.my",
     "international": "Refer to newinti.edu.my",
-    "local_total": 23870,
+    "local_total": 23868,
     "currency": "MYR",
-    "international_total": 23870
+    "international_total": 23870,
+    "per_year_local": 5967,
+    "notes": " (per_year based on 4.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "faculty": "Engineering, Technology & Quantity Surveying",
@@ -32,5 +47,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "B.Eng. (Hons) Electrical & Electronic Engineering",
+  "program_name_zh": "B.Eng. (Hons) Electrical & Electronic Engineering",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

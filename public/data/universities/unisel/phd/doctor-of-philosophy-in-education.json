@@ -15,22 +15,22 @@
     "currency": "MYR",
     "local_total": 9174,
     "international_total": 17424,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 3058
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A Master’s degree (Level 7, MQF) in the field of Computing or related fields as accepted by the HEP Senate; OR A Master’s degree (Level 7, MQF) in nonComputing fields with a minimum of FIVE (5) years of working experience in the field of computing or related fields must undergo appropriate prerequisite courses as determined by the HEP; OR A Master’s degree (Level 7, MQF) in nonComputing fields with less than FIVE (5) years of working experience in the field of computing or related fields must undergo appropriate prerequisite courses as determined by the HEP and subject to rigorous internal assessment; OR Other qualifications equivalent to a Master’s degree in the field of Computing or related fields recognised by the Government of Malaysia must undergo appropriate prerequisite courses as determined by the HEP."
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -51,6 +51,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "doctor-of-philosophy-in-education"
+  "last_updated": "2026-09-16",
+  "slug": "doctor-of-philosophy-in-education",
+  "program_name_ar": "دكتوراه فلسفة In Education",
+  "program_name_zh": "哲学博士 In Education",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

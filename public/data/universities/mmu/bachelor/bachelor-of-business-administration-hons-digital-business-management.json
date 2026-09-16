@@ -6,10 +6,14 @@
   "field": "Business Administration",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Aug",
+    "Mar",
+    "Oct"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 54250,
+    "local_total": 54249,
     "international_total": 67250,
     "per_year_local": 18083,
     "per_year_international": 22417,
@@ -17,16 +21,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -51,5 +55,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business Administration (Hons) (Digital Business Management)",
+  "program_name_zh": "Business Administration (Hons) (Digital Business Management)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

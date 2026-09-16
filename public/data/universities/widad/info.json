@@ -6,7 +6,13 @@
   "state": "Kelantan",
   "city": "Kuantan",
   "website": "https://www.widad.edu.my",
-  "levels_available": ["foundation", "diploma", "bachelor", "master", "doctorate"],
+  "levels_available": [
+    "foundation",
+    "diploma",
+    "bachelor",
+    "master",
+    "doctorate"
+  ],
   "program_counts": {
     "foundation": 2,
     "diploma": 17,
@@ -21,6 +27,14 @@
       "note": "Full program listing from main page with all faculties"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "Faculties: Medicine (MBBS), Business & Management, Education & Social Sciences, Information IT, Nursing, Health Sciences, Sports & Coaching Science, Architecture. 43k graduates, 93.9% employability rate. Widad Education Sdn Bhd (DK317(C) for college). Also has Widad College with UiTM and UTM diploma programs. MBBS program offered."
+  "last_updated": "2026-09-16",
+  "notes": "Faculties: Medicine (MBBS), Business & Management, Education & Social Sciences, Information IT, Nursing, Health Sciences, Sports & Coaching Science, Architecture. 43k graduates, 93.9% employability rate. Widad Education Sdn Bhd (DK317(C) for college). Also has Widad College with UiTM and UTM diploma programs. MBBS program offered.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

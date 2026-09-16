@@ -8,16 +8,24 @@
   "duration": "6 Weeks",
   "mode": "Full-time",
   "study_type": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Aug",
+    "Jan",
+    "Mar",
+    "May",
+    "Oct"
+  ],
   "fees": {
     "local": "Refer to newinti.edu.my",
     "international": "Refer to newinti.edu.my",
     "local_total": 2400,
-    "international_total": 15140
+    "international_total": 15140,
+    "per_year_local": 800,
+    "notes": " (per_year based on 3yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -25,10 +33,9 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Open entry. "
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": null,
   "awarding_country": "Malaysia",
@@ -42,5 +49,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Laureate English Programme",
+  "program_name_zh": "Laureate English Programme",
+  "field_ar": "Languages (National language & other languages)",
+  "field_zh": "Languages (National language & other languages)"
 }

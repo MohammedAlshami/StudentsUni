@@ -8,16 +8,32 @@
   "faculty": null,
   "duration": "Full time: Min 3 years, Max 6 years / Part time: Min 4 years, Max 8 years",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "Jul"
+  ],
   "fees": {
     "local": "From RM49,680",
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
-    "local_total": 49680.0,
-    "per_year_local": null,
-    "notes": "Fee: FromRM49,680.00"
+    "local_total": 49680,
+    "per_year_local": 16560,
+    "notes": "Fee: FromRM49,680.00 (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -25,5 +41,9 @@
     "https://www.studymalaysia.com/edu/sunway/courses/"
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Sustainable Development",
+  "program_name_zh": "哲学博士 in Sustainable Development",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

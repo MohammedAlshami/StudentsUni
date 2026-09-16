@@ -7,12 +7,16 @@
   "field": "islamic-finance",
   "duration": "4 semesters / 2 years",
   "mode": "Face-To-Face",
-  "intakes": [],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 36000,
+    "local_total": 72000,
     "international_total": null,
-    "per_year_local": "From RM36,000",
+    "per_year_local": 36000,
     "per_year_international": "From RM36,000 + SST",
     "notes": ""
   },
@@ -21,13 +25,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Masters in Islamic Finance Practice (MIFP)",
+  "program_name_zh": "Masters in Islamic Finance Practice (MIFP)",
+  "field_ar": "التمويل",
+  "field_zh": "金融学"
 }

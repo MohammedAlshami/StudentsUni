@@ -5,29 +5,33 @@
   "program_name": "Health Care Assistant",
   "slug": "health-care-assistant",
   "field": "Health Science",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 39999,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 13333,
     "per_year_international": null,
-    "notes": "Refer to university"
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -38,5 +42,9 @@
     "https://www.aimst.edu.my/academic/health-care-assistant-faculty-of-allied-health-profession/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Health Care Assistant",
+  "program_name_zh": "Health Care Assistant",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

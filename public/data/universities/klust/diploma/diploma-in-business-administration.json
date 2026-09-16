@@ -3,14 +3,20 @@
   "field": "",
   "duration": "2 years",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Jul",
+    "Jun",
+    "Mar",
+    "Oct",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 29250,
     "international_total": 29250,
-    "per_year_local": null,
+    "per_year_local": 14625,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -39,5 +45,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Business Administration",
+  "program_name_zh": "Business Administration文凭"
 }

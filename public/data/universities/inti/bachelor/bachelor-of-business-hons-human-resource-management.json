@@ -16,22 +16,24 @@
   "fees": {
     "local": "Refer to newinti.edu.my",
     "international": "Refer to newinti.edu.my",
-    "local_total": 25285,
+    "local_total": 25284,
     "currency": "MYR",
-    "international_total": 25285
+    "international_total": 25285,
+    "per_year_local": 8428,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "Entry Level and Requirements Foundation: Matriculation or Foundation Certificate with CGPA 2.0 Diploma: A relevant diploma with a CGPA of at least 2.00 from another institution STPM: Grade C+ CGPA 2.33 in 2 subjects and SPM credit in Mathematics and a pass in English A-Level: 2Ds UEC: 5 subjects at grade B including a pass in Mathematics and English SACE: 5 subject with ATAR of 55 NSW (HSC): 10 units with ATAR of 55 CPU: 6 passes with an average of 55 TEE: 4 or 5 subjects with ATAR of 55 Australian Year 12: TER/UAI/ENTER 55 Others: Other equivalent qualifications as recognised by the government of Malaysia"
   },
@@ -57,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business (Hons) Human Resource Management",
+  "program_name_zh": "Business (Hons) Human Resource Management学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

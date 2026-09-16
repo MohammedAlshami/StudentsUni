@@ -2,31 +2,79 @@
   {
     "slug": "bachelor-of-marine-engineering-technology-hons",
     "program_name": "Bachelor of Marine Engineering Technology (Hons)",
-    "field": "marine-engineering"
+    "field": "marine-engineering",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "bachelor-of-nautical-studies-hons",
     "program_name": "Bachelor of Nautical Studies (Hons)",
-    "field": "nautical-studies"
+    "field": "nautical-studies",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "engineering-programmes-various-disciplines",
     "program_name": "Engineering programmes (various disciplines)",
-    "field": "engineering"
+    "field": "engineering",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "business-and-management-programmes",
     "program_name": "Business and Management programmes",
-    "field": "business"
+    "field": "business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "built-environment-programmes",
     "program_name": "Built Environment programmes",
-    "field": "built-environment"
+    "field": "built-environment",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "computing-and-creative-media-programmes",
     "program_name": "Computing and Creative Media programmes",
-    "field": "computing"
+    "field": "computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

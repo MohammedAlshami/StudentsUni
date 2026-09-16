@@ -7,17 +7,42 @@
   "field": "Architecture & Design",
   "duration": "1 year",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM26,800.00",
-    "international": "RM28,400.00"
+    "international": "RM28,400.00",
+    "local_total": 26800,
+    "international_total": 28400.0,
+    "currency": "MYR",
+    "per_year_local": 26800
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/foundation-programme-architecture-design",
     "https://www.studymalaysia.com/what/course/APU/0058857/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Foundation Programme (Architecture & Design Route)",
+  "program_name_zh": "Foundation Programme (Architecture & Design Route)",
+  "field_ar": "العمارة",
+  "field_zh": "建筑学"
 }

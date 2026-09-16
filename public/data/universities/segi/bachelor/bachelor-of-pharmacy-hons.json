@@ -14,13 +14,25 @@
   "fees": {
     "local": "Refer to the Univ.",
     "international": "Refer to the Univ.",
-    "local_total": 24750,
+    "local_total": 24748,
     "currency": "MYR",
-    "international_total": 29888
+    "international_total": 29888,
+    "per_year_local": 6187,
+    "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
-    "academic": null,
-    "general_text": "Any one of these: Foundation in Science – CGPA 3.0 including a minimum of B in Chemistry Ministry of Education Matriculation – CGPA 3.0 including a minimum of B in Chemistry STPM – CGPA 3.0 with BBB or ABC or AAC in Biology, Chemistry, and Physics or Mathematics, including a minimum of B in Chemistry A-Levels – BBB or ABC or AAC in Biology, Chemistry, and Physics or Mathematics, with a minimum of B in Chemistry Diploma in Pharmacy – CGPA 3.5 or above Diploma in Science (Chemistry/Biology/Physics) – CGPA 3.75 including a minimum of B in Chemistry Degree in Science – CGPA 2.75 or above UEC – Pass UEC with minimum of B4 in 5 subjects in Biology, Chemistry, Physics, Mathematics, and Additional Mathematics (or one other subject) Australian Matriculation (AUSMAT) and other equivalent qualifications from Australia: Minimum aggregate or TER/UAI/ENTER/ATAR of 80% including in Biology, Chemistry, and Physics or Mathematics, with a minimum of B in Chemistry or equivalent Canadian Pre-University (CPU) &amp; Canadian International Matriculation Programme (CIMP): Minimum aggregate of 80% including Biology, Chemistry and Physics or Mathematics with a minimum of B in Chemistry or equivalent International Baccalaureate (IB): Pass IB with minimum score of 30 (exclusive of bonus points) with two Science or Mathematics subjects at Higher Level (HL) and another one Science subject at Standard Level (SL), and a minimum score of 4 in Biology, Chemistry and Physics or Mathematics Other equivalent qualifications will be considered on a case-by-case basis Additional Requirements: For Foundation in Science, Matriculation, and Diploma students: Pass SPM with a minimum of 5Bs in Biology, Chemistry, Physics, Mathematics (or Additional Mathematics), and one other subject All Malaysian citizens to pass Bahasa Malaysia and English with minimum of Grade C in SPM or  equivalent English Proficiency Requirements: Malaysian University English Test (MUET) with minimum Band score of 3 or Test of English as a Foreign Language (TOEFL) scoring 550 or International English Language Testing Service (IELTS) with minimum of Band 6 (5.5 for each skill – Writing, Reading, Listening/Speaking) or Cambridge English Qualifications and Tests (Linguaskill) with minimum score of 154"
+    "malaysian": {
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -42,5 +54,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Pharmacy (Hons)",
+  "program_name_zh": "Pharmacy (Hons)学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

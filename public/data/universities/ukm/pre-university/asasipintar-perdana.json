@@ -4,12 +4,15 @@
   "level": "pre-university",
   "program_name": "ASASIpintar Perdana",
   "field": "Pre-University",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 2000,
+    "local_total": 3000,
     "international_total": 6000,
     "per_year_local": 1000,
     "per_year_international": 3000,
@@ -17,7 +20,7 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including Mathematics and Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -25,8 +28,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -37,5 +40,9 @@
     "https://www.ukm.my/permatapintar/asasipintar/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ASASIpintar Perdana",
+  "program_name_zh": "ASASIpintar Perdana",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

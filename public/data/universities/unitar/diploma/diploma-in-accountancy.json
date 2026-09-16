@@ -7,27 +7,31 @@
   "slug": "diploma-in-accountancy",
   "duration": "2 Yrs 6 Mths (8 Sem)",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "19280/Course",
     "international": "19280/Course",
-    "local_total": 19280,
+    "local_total": 30848,
     "per_year_local": 7712,
     "notes": "Estimated total fees (local) for full course duration",
     "international_total": 28560
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "A pass in SPM or its equivalent with a minimum of 3 credits including Mathematics, and a pass in English; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent, with a minimum of Grade C (GP 2.0) in any subject, and credits in Mathematics and a pass in English at SPM level;OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul (pass) and credits in Mathematics and a pass in English at SPM level; OR A pass in SKM Level 3 (Level 3, MQF) in a related field and a pass in SPM with a minimum of 1 credit in any subject with credits in Mathematics and a pass in English subject to Senate approval and MUST attend bridging courses;​ OR A certificate (Level 3,MQF) or its equivalent in a related field Language Requirements International Students Minimum score of 5.5 for IELTS; OR its equivalent Local Students A pass in SPM English"
   },
@@ -46,5 +50,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Accountancy",
+  "program_name_zh": "Accountancy文凭",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

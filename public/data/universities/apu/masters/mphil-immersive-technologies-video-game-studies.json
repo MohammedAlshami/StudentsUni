@@ -7,17 +7,42 @@
   "field": "Games Development",
   "duration": "FT: 2 years; PT: 3 years 6 months",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM27,500.00",
-    "international": "RM29,800.00"
+    "international": "RM29,800.00",
+    "local_total": 27500,
+    "international_total": 29800.0,
+    "currency": "MYR",
+    "per_year_local": 13750
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/master-philosophy-immersive-technologies-video-game-studies",
     "https://www.studymalaysia.com/what/course/APU/0058863/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Philosophy in Immersive Technologies and Video Game Studies",
+  "program_name_zh": "Philosophy in Immersive Technologies and Video Game Studies硕士",
+  "field_ar": "Games Development",
+  "field_zh": "Games Development"
 }

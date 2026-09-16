@@ -7,21 +7,40 @@
   "slug": "structured-phd",
   "duration": "3-4 years",
   "mode": "Full Time",
-  "intakes": null,
+  "intakes": [
+    "September"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 240000,
     "international_total": null,
-    "per_year_local": "Contact university",
-    "per_year_international": "Contact university",
-    "notes": ""
+    "per_year_local": 60000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 4.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.rumc.edu.my/programmes/structured-ph-d/",
     "https://www.rumc.edu.my/admissions/fees/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Structured PhD",
+  "program_name_zh": "Structured PhD",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

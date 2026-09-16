@@ -24,12 +24,23 @@
       "registration": "USD1,650 (RM6,600)"
     },
     "currency": "MYR",
-    "local_total": 31200,
-    "per_year_local": null
+    "local_total": 31199,
+    "per_year_local": 4457,
+    "notes": " (per_year based on 7.0yr duration)"
   },
   "requirements": {
-    "local": "Master's degree in ICT or related field, or Bachelor's degree with First Class Honours",
-    "international": "Master's degree in ICT or related field, English proficiency"
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_code": null,
@@ -45,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Information & Communication Technology",
+  "program_name_zh": "哲学博士 in Information & Communication Technology",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

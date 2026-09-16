@@ -11,11 +11,16 @@
       "field": "Science & Technology",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["February", "July"],
+      "intakes": [
+        "February",
+        "July"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
@@ -26,11 +31,16 @@
       "field": "Creative Arts & Design",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["February", "July"],
+      "intakes": [
+        "February",
+        "July"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
@@ -41,11 +51,15 @@
       "field": "Information Technology",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["July"],
+      "intakes": [
+        "July"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
@@ -56,11 +70,15 @@
       "field": "Business & Management",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["July"],
+      "intakes": [
+        "July"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
@@ -71,11 +89,15 @@
       "field": "Medical Sciences",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["July"],
+      "intakes": [
+        "July"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
@@ -86,11 +108,15 @@
       "field": "Medical Sciences",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["July"],
+      "intakes": [
+        "July"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
@@ -101,11 +127,16 @@
       "field": "Science",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["February", "July"],
+      "intakes": [
+        "February",
+        "July"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
@@ -116,11 +147,15 @@
       "field": "Arts",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["July"],
+      "intakes": [
+        "July"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
@@ -131,11 +166,15 @@
       "field": "Engineering",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["July"],
+      "intakes": [
+        "July"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
@@ -146,11 +185,15 @@
       "field": "Engineering",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["February"],
+      "intakes": [
+        "February"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
@@ -161,14 +204,26 @@
       "field": "Business & Management",
       "duration": "1 year",
       "mode": "Full-time",
-      "intakes": ["February"],
+      "intakes": [
+        "February"
+      ],
       "fees": null,
       "requirements": null,
       "accreditation": "MQA",
-      "sources": ["https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"],
+      "sources": [
+        "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+      ],
       "confidence": "high",
       "last_updated": "2026-09-14",
       "status": "CLOSED"
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 16000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+  }
 }

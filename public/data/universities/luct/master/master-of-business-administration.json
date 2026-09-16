@@ -1,1 +1,47 @@
-{"university":"Limkokwing University of Creative Technology","university_slug":"luct","level":"master","program_name":"Master of Business Administration in General Management","field":"Business","duration":"1.5 years","mode":"Full-time, Part-time","intakes":["January","April","August"],"fees":null,"requirements":null,"accreditation":"MQA","sources":["https://limkokwing.net/malaysia/academic/courses/","https://www.limkokwing.edu.my"],"confidence":"medium","last_updated":"2026-09-14"}
+{
+  "university": "Limkokwing University of Creative Technology",
+  "university_slug": "luct",
+  "level": "master",
+  "program_name": "Master of Business Administration in General Management",
+  "field": "Business",
+  "duration": "1.5 years",
+  "mode": "Full-time, Part-time",
+  "intakes": [
+    "January",
+    "April",
+    "August"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 24000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
+  "accreditation": "MQA",
+  "sources": [
+    "https://limkokwing.net/malaysia/academic/courses/",
+    "https://www.limkokwing.edu.my"
+  ],
+  "confidence": "medium",
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration in General Management",
+  "program_name_zh": "Business Administration in General Management硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
+}

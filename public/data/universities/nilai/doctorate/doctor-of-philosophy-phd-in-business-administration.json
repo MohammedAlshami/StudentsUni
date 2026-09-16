@@ -7,27 +7,31 @@
   "field": "Business Management & Administration",
   "duration": "3 - 5 Years",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "Jun",
+    "Sep"
+  ],
   "fees": {
     "currency": "RM",
-    "local_total": 3000.0,
+    "local_total": 3000,
     "international_total": 3000.0,
-    "per_year_local": null,
+    "per_year_local": 600,
     "per_year_international": null,
-    "notes": "Local: Short semester-RM3000, Long semester-RM6000; International: Short semester-RM3000, Long semester-RM6000"
+    "notes": "Local: Short semester-RM3000, Long semester-RM6000; International: Short semester-RM3000, Long semester-RM6000 (per_year based on 5.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (PhD) in Business Administration",
+  "program_name_zh": "哲学博士 (PhD) in Business Administration",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -16,11 +16,24 @@
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
     "local_total": 26200,
-    "per_year_local": null,
-    "notes": "Fee: FromRM20,000.00",
+    "per_year_local": 26200,
+    "notes": "Fee: FromRM20,000.00 (per_year based on 1.0yr duration)",
     "international_total": 28450
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -38,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Post Graduate Diploma in Primary Care for Elderly",
+  "program_name_zh": "Post Graduate Diploma in Primary Care for Elderly",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

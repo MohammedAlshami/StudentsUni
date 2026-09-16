@@ -4,11 +4,35 @@
   "level": "master",
   "program_name": "Master of Science in Information Technology Management",
   "field": "Information Technology",
-  "duration": null,
+  "duration": "1.5 years",
   "mode": "ODL",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 24000,
+    "international_total": null,
+    "per_year_local": 16000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": {
     "mqa_code": "R2/0611/7/0046",
     "expiry": "08/27",
@@ -21,5 +45,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science in Information Technology Management",
+  "program_name_zh": "Science in Information Technology Management硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

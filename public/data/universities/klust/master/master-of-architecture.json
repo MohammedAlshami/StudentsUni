@@ -3,14 +3,18 @@
   "field": "",
   "duration": "2 years",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Jun",
+    "Mar",
+    "Oct"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 39000,
     "international_total": 39000,
-    "per_year_local": null,
+    "per_year_local": 19500,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -39,5 +43,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Architecture",
+  "program_name_zh": "Architecture硕士"
 }

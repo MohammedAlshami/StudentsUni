@@ -7,29 +7,32 @@
   "field": "",
   "duration": "3 years",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 109680,
     "international_total": 128544,
-    "per_year_local": null,
+    "per_year_local": 36560,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any of These: A-Level / STPM: CCC UEC: 20 points or less ATAR (WACE/SACE): ATAR 70 Canada Year 12 High School Diploma: 70% International Baccalaureate Diploma: 25 points Matriculation/Foundation: CGPA 3.0 Diploma: Psychology-related Diploma with CGPA 2.5 Non-related Diploma with CGPA 3.0 Foundation in Business / Foundation in Science (from Heriot-Watt University Malaysia): Pass and eligible to receive the award SMA 3 (Indonesia): 7.5 Year 12 State Board High School Examination (India): 70% Senior High School Graduation Certificate (China): 80% Additional Academic Requirements: Mathematics and Science: Grade C in Mathematics and Science at SPM/IGCSE level or equivalent. This requirement can be waived if a passing grade in Mathematics and Science at a higher level is achieved. Important Notes: Applications from individuals with diverse qualifications are encouraged. Eligibility is best assessed through a complete application with academic documents. Entry requirements may vary, and individual offers may differ from published guidelines. Pre-Sessional English Programme (PSEP) is available. English Language Requirements: For Non-Native English Speakers: Evidence of English language proficiency is required. Minimum IELTS 6.0 (or equivalent) with no score lower than 5.5. English Language Courses: Offered to assist students in meeting the IELTS 6.0 requirement."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -43,5 +46,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس (Hons) Psychology with Management",
+  "program_name_zh": "(Hons) Psychology with Management学士"
 }

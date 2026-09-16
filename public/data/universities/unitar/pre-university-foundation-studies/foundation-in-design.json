@@ -7,18 +7,22 @@
   "slug": "foundation-in-design",
   "duration": "1 Yr (3 Sem)",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "7800/Course",
     "international": "7800/Course",
-    "local_total": 7800,
+    "local_total": 11700,
     "per_year_local": 7800,
     "notes": "Estimated total fees (local) for full course duration",
     "international_total": 14000
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -26,10 +30,9 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Pass SPM or its equivalent, with at least five (5) credits in any subjects; or Pass UEC with a minimum of Grade B in three (3) subjects; or Pass O-Level with a minimum of Grade C in five (5) subjects; or Any other equivalent qualifications recognised by the Malaysian Government."
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -46,5 +49,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Design",
+  "program_name_zh": "Design预科",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

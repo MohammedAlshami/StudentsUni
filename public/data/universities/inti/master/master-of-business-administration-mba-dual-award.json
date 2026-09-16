@@ -18,11 +18,26 @@
   "fees": {
     "local": "Refer to newinti.edu.my",
     "international": "Refer to newinti.edu.my",
-    "local_total": 27648,
+    "local_total": 27647,
     "currency": "MYR",
-    "international_total": 27648
+    "international_total": 27648,
+    "per_year_local": 23698,
+    "notes": " (per_year based on 1.1666666666666667yr duration)"
   },
-  "requirements": "Bachelor's degree or its equivalent acceptable by the university",
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "awarding_body": "Dual-award Degree - MBA conferred by INTI and MA Management Studies by University of Hertfordshire, UK",
@@ -43,5 +58,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (MBA) (Dual-Award Degree)",
+  "program_name_zh": "Business Administration (MBA) (Dual-Award Degree)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

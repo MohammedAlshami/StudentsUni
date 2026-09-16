@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 3950,
+    "local_total": 5925,
     "international_total": 4900,
-    "per_year_local": "RM3,950 per unit",
+    "per_year_local": 3950,
     "per_year_international": "RM4,900 per unit",
     "notes": null
   },
@@ -24,13 +24,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -42,5 +42,9 @@
     "https://www.studymalaysia.com/edu/curtin/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير International Business",
+  "program_name_zh": "International Business硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

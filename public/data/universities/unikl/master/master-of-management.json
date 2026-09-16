@@ -7,22 +7,30 @@
   "field": "Business & Management",
   "duration": "2 Years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": {},
+  "intakes": [
+    "July"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 33000,
+    "international_total": null,
+    "per_year_local": 16500,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+  },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Entry Level and Requirements For Local Students A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.75 as accepted by the HEP Senate;OR A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.50 and not meeting CGPA of 2.75 can be accepted, subject to rigorous internal assessment****;OR A Bachelor’s degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a minimum of 5 years relevant working experience***** and rigorous internal assessment****;OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate, subject to having relevant working experience***** and rigorous internal assessment****;OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 and not meeting 2.5 as accepted by the HEP Senate, subject to a minimum of 5 years relevant working experience***** and rigorous internal assessment****;OR A Bachelor’s degree (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses******; Other qualifications equivalent to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government. For International Students Bachelor&#39;s in a related field with minimum CGPA of 2.75 from approved institutions. CGPA between 2.50 and 2.75 may be accepted after rigorous internal assessment. CGPA below 2.50 requires at least 5 years of relevant work experience. IELTS 5.0-6.5 or equivalent.  "
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": {
     "mqa_code": "A10143",
@@ -40,5 +48,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Management",
+  "program_name_zh": "Management硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

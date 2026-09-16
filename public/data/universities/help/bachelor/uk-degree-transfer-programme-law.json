@@ -15,9 +15,11 @@
   "fees": {
     "local": "RM65,800.00",
     "international": null,
-    "local_total": 31925,
+    "local_total": 31924,
     "currency": "MYR",
-    "international_total": 34925
+    "international_total": 34925,
+    "per_year_local": 15962,
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058745/",
@@ -38,20 +40,24 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-16",
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "Entry Requirements MUET Band 4 AND any of the following: A pass in STPM, with a minimum Grade C (GP 2.0) in any TWO (2) subjects; or any equivalent qualification; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Jayyid (good) Any qualifications equivalent to Diploma (Level 4, MQF); or any equivalent qualification Matriculation/Foundation qualification with a minimum CGPA of 2.0 out of 4.0; or any equivalent qualification English Requirement (International Students) A score of 600 for Test of English as a Foreign Language (TOEFL) A score of 100 for the Online TOEFL test A score of 6.0 for International English Language Testing System (IELTS) or its equivalent"
-  }
+  },
+  "program_name_ar": "UK Degree Transfer Programme (Law)",
+  "program_name_zh": "UK Degree Transfer Programme (Law)",
+  "field_ar": "القانون",
+  "field_zh": "法律"
 }

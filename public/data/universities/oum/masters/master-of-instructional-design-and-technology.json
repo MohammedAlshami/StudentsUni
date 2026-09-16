@@ -7,27 +7,31 @@
   "field": "Computing & IT",
   "duration": "2 Yrs",
   "mode": "Open and Distance Learning (ODL)",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "RM",
-    "local_total": 19880.0,
+    "local_total": 19880,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 9940,
     "per_year_international": null,
-    "notes": "Local: 19880/Course"
+    "notes": "Local: 19880/Course (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Instructional Design and Technology",
+  "program_name_zh": "Instructional Design and Technology硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

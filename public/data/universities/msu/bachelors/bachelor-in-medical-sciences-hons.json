@@ -7,29 +7,32 @@
   "field": "Medicine & Healthcare",
   "duration": "3 years",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Feb",
+    "Jul",
+    "Sep"
+  ],
   "fees": {
     "currency": "RM",
     "local_total": 98400,
     "international_total": 174350,
-    "per_year_local": null,
+    "per_year_local": 32800,
     "per_year_international": null,
-    "notes": "Local: RM98,400.00; International: RM174,350.00"
+    "notes": "Local: RM98,400.00; International: RM174,350.00 (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "STPM: Interview  Pass SPM or its equivalent with credit in Bahasa Melayu and  Pass STPM or its equivalent, with minimum Grade C in 2 subjects including Pengajian Am/Kertas Am (General Studies/General Paper) or minimum 2.00 CGPA Pass Ministry of Education Matriculation or MSU Foundation Programme, or other Foundation Programme or its equivalent from higher learning institution with minimum 2.00 CGPA;  Diploma in related field from Higher Learning Institution or other institution recognised by MSU Senate with minimum 2.00 CGPA;  Pass The South Australian Matriculation (SAM) with minimum score of 65% ;  Pass Canadian Pre University Programme (CPU) with minimum score of 80%;  Pass Unified Examination Certificate (UEC) with at least grade B in 5 subjects;  Other equivalent qualification recognised by the Malaysian Government."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -53,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Medical Sciences (Hons)",
+  "program_name_zh": "Medical Sciences (Hons)学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

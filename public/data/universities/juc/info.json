@@ -20,6 +20,14 @@
       "note": "Listed as university college in Malaysia's private university colleges list"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "Jesselton University College. Domain appears to be parked/expired. No Wayback Machine archives available. No program data retrievable. Institution may have ceased operations or changed domain."
+  "last_updated": "2026-09-16",
+  "notes": "Jesselton University College. Domain appears to be parked/expired. No Wayback Machine archives available. No program data retrievable. Institution may have ceased operations or changed domain.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

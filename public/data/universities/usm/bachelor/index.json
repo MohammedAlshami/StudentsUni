@@ -4,75 +4,351 @@
   "level": "bachelor",
   "total_programs": 64,
   "programs": [
-    {"slug": "bachelor-of-engineering-chemical-engineering", "name": "Bachelor of Engineering (Chemical Engineering)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-civil-engineering", "name": "Bachelor of Engineering (Civil Engineering)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-electrical-engineering", "name": "Bachelor of Engineering (Electrical Engineering)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-electronics-engineering", "name": "Bachelor of Engineering (Electronics Engineering)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-aerospace-engineering", "name": "Bachelor of Engineering (Aerospace Engineering)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-manufacturing-engineering", "name": "Bachelor of Engineering (Manufacturing Engineering with Management)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-materials-engineering", "name": "Bachelor of Engineering (Materials Engineering)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-mechanical-engineering", "name": "Bachelor of Engineering (Mechanical Engineering)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-mineral-resources-engineering", "name": "Bachelor of Engineering (Mineral Resources Engineering)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-polymer-engineering", "name": "Bachelor of Engineering (Polymer Engineering)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-mechatronics-engineering", "name": "Bachelor of Engineering (Mechatronics Engineering)(Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-engineering-software", "name": "Bachelor of Engineering (Software) with honours", "field": "Engineering"},
-    {"slug": "bachelor-of-bioprocess-engineering-technology", "name": "Bachelor of Bioprocess Engineering Technology (Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-building-technology-engineering", "name": "Bachelor of Building Technology Engineering (Hons)", "field": "Engineering"},
-    {"slug": "bachelor-of-science-architecture", "name": "Bachelor of Science (Architecture)(Hons)", "field": "Architecture"},
-    {"slug": "bachelor-of-interior-architecture", "name": "Bachelor of Interior Architecture(Hons)", "field": "Architecture"},
-    {"slug": "bachelor-of-building-surveying", "name": "Bachelor of Building Surveying(Hons)", "field": "Architecture"},
-    {"slug": "bachelor-of-science-construction-project-management", "name": "Bachelor of Science (Construction Project Management)(Hons)", "field": "Architecture"},
-    {"slug": "bachelor-of-urban-regional-planning", "name": "Bachelor of Urban & Regional Planning(Hons)", "field": "Architecture"},
-    {"slug": "bachelor-of-science-quantity-surveying", "name": "Bachelor of Science (Housing, Building & Planning)(Quantity Surveying)(Hons)", "field": "Architecture"},
-    {"slug": "bachelor-of-computer-science", "name": "Bachelor of Computer Science (Intelligence Computing/Infrastructure Computing/Software Engineering)(Hons)", "field": "Computing"},
-    {"slug": "bachelor-of-accounting", "name": "Bachelor of Accounting(Hons)", "field": "Business"},
-    {"slug": "bachelor-of-management", "name": "Bachelor of Management (Organization Strategic and Management/Marketing/Finance/Operation Management/International Business/Islamic Finance/Business Analytics)(Hons)", "field": "Business"},
-    {"slug": "bachelor-of-economics", "name": "Bachelor of Economics(Hons)", "field": "Business"},
-    {"slug": "bachelor-of-communication", "name": "Bachelor of Communication (Honours)(Digital Communication, Strategic Communication, Creative Screen & Journalism)", "field": "Communication"},
-    {"slug": "bachelor-of-arts-english-literature", "name": "Bachelor of Arts (English and Literature)(Hons)", "field": "Arts"},
-    {"slug": "bachelor-of-arts-fine-arts", "name": "Bachelor of Arts (Fine Arts)(Hons)", "field": "Arts"},
-    {"slug": "bachelor-of-fine-arts-acting-directing", "name": "Bachelor of Fine Arts (Acting & Directing)(Hons)", "field": "Arts"},
-    {"slug": "bachelor-of-fine-arts-graphics-communication", "name": "Bachelor of Fine Arts (Graphics Communication)(Hons)", "field": "Arts"},
-    {"slug": "bachelor-of-fine-arts-new-media-technology", "name": "Bachelor of Fine Arts (New Media Technology and Design)(Hons)", "field": "Arts"},
-    {"slug": "bachelor-of-fine-arts-product-design", "name": "Bachelor of Fine Arts (Product Design)(Hons)", "field": "Arts"},
-    {"slug": "bachelor-of-arts-translation-interpretation", "name": "Bachelor of Arts (Translation & Interpretation)(Hons)", "field": "Arts"},
-    {"slug": "bachelor-of-arts-english-professional", "name": "Bachelor of Arts (English for Professional)(Hons)", "field": "Arts"},
-    {"slug": "bachelor-of-arts-language-studies", "name": "Bachelor of Arts (English Language Studies/Malay Language Studies/Geography/History/Literature)(Hons)", "field": "Arts"},
-    {"slug": "bachelor-of-education-special-education", "name": "Bachelor of Education (Special Education)(Hons)", "field": "Education"},
-    {"slug": "bachelor-of-education-tesol", "name": "Bachelor of Education (TESOL)(Hons)", "field": "Education"},
-    {"slug": "bachelor-of-social-work", "name": "Bachelor of Social Work(Hons)", "field": "Social Sciences"},
-    {"slug": "bachelor-of-social-sciences", "name": "Bachelor of Social Sciences (Anthropology & Sociology / Economics / Political Science / Planning & Development Management)(Hons)", "field": "Social Sciences"},
-    {"slug": "bachelor-of-social-science", "name": "Bachelor of Social Science(Hons)(Specialised in Anthropology & Sociology / Economics / Political Science / Planning & Development Management)", "field": "Social Sciences"},
-    {"slug": "bachelor-of-science-applied-biology", "name": "Bachelor of Applied Science (Applied Biology)(Biotechnology/Agrobiology/Environmental Biology/Entomology and Parasitology)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-science-chemistry", "name": "Bachelor of Science (Chemistry)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-science-mathematics", "name": "Bachelor of Science (Mathematics)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-science-physics", "name": "Bachelor of Science (Physics)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-applied-science-applied-statistics", "name": "Bachelor of Applied Science (Applied Statistics)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-applied-science-geophysics", "name": "Bachelor of Applied Science (Geophysics)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-applied-science-industrial-chemistry", "name": "Bachelor of Applied Science (Industrial Chemistry)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-applied-science-mathematics-economics", "name": "Bachelor of Applied Science (Mathematics & Economics)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-applied-science-medical-physics", "name": "Bachelor of Applied Science (Medical Physics)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-applied-science-chemistry-analysis", "name": "Bachelor of Applied Science (Chemistry Analysis)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-science-biomedical-science", "name": "Bachelor of Science (Biomedical Science)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-science-forensic-science", "name": "Bachelor of Science (Forensic Science)(Hons)", "field": "Science"},
-    {"slug": "bachelor-of-technology-bio-resources", "name": "Bachelor of Technology (Bio-Resources)(Hons)", "field": "Technology"},
-    {"slug": "bachelor-of-technology-food", "name": "Bachelor of Technology (Food)(Hons)", "field": "Technology"},
-    {"slug": "bachelor-of-technology-environmental", "name": "Bachelor of Technology (Environmental)(Hons)", "field": "Technology"},
-    {"slug": "doctor-of-medicine", "name": "Doctor of Medicine", "field": "Medicine"},
-    {"slug": "doctor-of-dental-surgery", "name": "Doctor of Dental Surgery", "field": "Medicine"},
-    {"slug": "bachelor-of-pharmacy", "name": "Bachelor of Pharmacy(Hons)", "field": "Medicine"},
-    {"slug": "bachelor-of-nursing", "name": "Bachelor of Nursing(Hons)", "field": "Medicine"},
-    {"slug": "bachelor-of-audiology", "name": "Bachelor of Audiology(Hons)", "field": "Medicine"},
-    {"slug": "bachelor-of-medical-radiation", "name": "Bachelor of Medical Radiation(Hons)", "field": "Medicine"},
-    {"slug": "bachelor-of-environmental-occupational-health", "name": "Bachelor of Environmental & Occupational Health(Hons)", "field": "Medicine"},
-    {"slug": "bachelor-of-dietetic", "name": "Bachelor of Dietetic(Hons)", "field": "Medicine"},
-    {"slug": "bachelor-of-nutrition", "name": "Bachelor of Nutrition(Hons)", "field": "Medicine"},
-    {"slug": "bachelor-of-health-science-speech-pathology", "name": "Bachelor of Health Science(Hons) Speech Pathology", "field": "Medicine"},
-    {"slug": "bachelor-of-health-science-exercise-sport-sciences", "name": "Bachelor of Health Science (Exercise & Sport Sciences)(Hons)", "field": "Medicine"}
+    {
+      "slug": "bachelor-of-engineering-chemical-engineering",
+      "name": "Bachelor of Engineering (Chemical Engineering)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-civil-engineering",
+      "name": "Bachelor of Engineering (Civil Engineering)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-electrical-engineering",
+      "name": "Bachelor of Engineering (Electrical Engineering)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-electronics-engineering",
+      "name": "Bachelor of Engineering (Electronics Engineering)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-aerospace-engineering",
+      "name": "Bachelor of Engineering (Aerospace Engineering)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-manufacturing-engineering",
+      "name": "Bachelor of Engineering (Manufacturing Engineering with Management)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-materials-engineering",
+      "name": "Bachelor of Engineering (Materials Engineering)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-mechanical-engineering",
+      "name": "Bachelor of Engineering (Mechanical Engineering)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-mineral-resources-engineering",
+      "name": "Bachelor of Engineering (Mineral Resources Engineering)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-polymer-engineering",
+      "name": "Bachelor of Engineering (Polymer Engineering)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-mechatronics-engineering",
+      "name": "Bachelor of Engineering (Mechatronics Engineering)(Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-engineering-software",
+      "name": "Bachelor of Engineering (Software) with honours",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-bioprocess-engineering-technology",
+      "name": "Bachelor of Bioprocess Engineering Technology (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-building-technology-engineering",
+      "name": "Bachelor of Building Technology Engineering (Hons)",
+      "field": "Engineering"
+    },
+    {
+      "slug": "bachelor-of-science-architecture",
+      "name": "Bachelor of Science (Architecture)(Hons)",
+      "field": "Architecture"
+    },
+    {
+      "slug": "bachelor-of-interior-architecture",
+      "name": "Bachelor of Interior Architecture(Hons)",
+      "field": "Architecture"
+    },
+    {
+      "slug": "bachelor-of-building-surveying",
+      "name": "Bachelor of Building Surveying(Hons)",
+      "field": "Architecture"
+    },
+    {
+      "slug": "bachelor-of-science-construction-project-management",
+      "name": "Bachelor of Science (Construction Project Management)(Hons)",
+      "field": "Architecture"
+    },
+    {
+      "slug": "bachelor-of-urban-regional-planning",
+      "name": "Bachelor of Urban & Regional Planning(Hons)",
+      "field": "Architecture"
+    },
+    {
+      "slug": "bachelor-of-science-quantity-surveying",
+      "name": "Bachelor of Science (Housing, Building & Planning)(Quantity Surveying)(Hons)",
+      "field": "Architecture"
+    },
+    {
+      "slug": "bachelor-of-computer-science",
+      "name": "Bachelor of Computer Science (Intelligence Computing/Infrastructure Computing/Software Engineering)(Hons)",
+      "field": "Computing"
+    },
+    {
+      "slug": "bachelor-of-accounting",
+      "name": "Bachelor of Accounting(Hons)",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-management",
+      "name": "Bachelor of Management (Organization Strategic and Management/Marketing/Finance/Operation Management/International Business/Islamic Finance/Business Analytics)(Hons)",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-economics",
+      "name": "Bachelor of Economics(Hons)",
+      "field": "Business"
+    },
+    {
+      "slug": "bachelor-of-communication",
+      "name": "Bachelor of Communication (Honours)(Digital Communication, Strategic Communication, Creative Screen & Journalism)",
+      "field": "Communication"
+    },
+    {
+      "slug": "bachelor-of-arts-english-literature",
+      "name": "Bachelor of Arts (English and Literature)(Hons)",
+      "field": "Arts"
+    },
+    {
+      "slug": "bachelor-of-arts-fine-arts",
+      "name": "Bachelor of Arts (Fine Arts)(Hons)",
+      "field": "Arts"
+    },
+    {
+      "slug": "bachelor-of-fine-arts-acting-directing",
+      "name": "Bachelor of Fine Arts (Acting & Directing)(Hons)",
+      "field": "Arts"
+    },
+    {
+      "slug": "bachelor-of-fine-arts-graphics-communication",
+      "name": "Bachelor of Fine Arts (Graphics Communication)(Hons)",
+      "field": "Arts"
+    },
+    {
+      "slug": "bachelor-of-fine-arts-new-media-technology",
+      "name": "Bachelor of Fine Arts (New Media Technology and Design)(Hons)",
+      "field": "Arts"
+    },
+    {
+      "slug": "bachelor-of-fine-arts-product-design",
+      "name": "Bachelor of Fine Arts (Product Design)(Hons)",
+      "field": "Arts"
+    },
+    {
+      "slug": "bachelor-of-arts-translation-interpretation",
+      "name": "Bachelor of Arts (Translation & Interpretation)(Hons)",
+      "field": "Arts"
+    },
+    {
+      "slug": "bachelor-of-arts-english-professional",
+      "name": "Bachelor of Arts (English for Professional)(Hons)",
+      "field": "Arts"
+    },
+    {
+      "slug": "bachelor-of-arts-language-studies",
+      "name": "Bachelor of Arts (English Language Studies/Malay Language Studies/Geography/History/Literature)(Hons)",
+      "field": "Arts"
+    },
+    {
+      "slug": "bachelor-of-education-special-education",
+      "name": "Bachelor of Education (Special Education)(Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-education-tesol",
+      "name": "Bachelor of Education (TESOL)(Hons)",
+      "field": "Education"
+    },
+    {
+      "slug": "bachelor-of-social-work",
+      "name": "Bachelor of Social Work(Hons)",
+      "field": "Social Sciences"
+    },
+    {
+      "slug": "bachelor-of-social-sciences",
+      "name": "Bachelor of Social Sciences (Anthropology & Sociology / Economics / Political Science / Planning & Development Management)(Hons)",
+      "field": "Social Sciences"
+    },
+    {
+      "slug": "bachelor-of-social-science",
+      "name": "Bachelor of Social Science(Hons)(Specialised in Anthropology & Sociology / Economics / Political Science / Planning & Development Management)",
+      "field": "Social Sciences"
+    },
+    {
+      "slug": "bachelor-of-science-applied-biology",
+      "name": "Bachelor of Applied Science (Applied Biology)(Biotechnology/Agrobiology/Environmental Biology/Entomology and Parasitology)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-chemistry",
+      "name": "Bachelor of Science (Chemistry)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-mathematics",
+      "name": "Bachelor of Science (Mathematics)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-physics",
+      "name": "Bachelor of Science (Physics)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-applied-science-applied-statistics",
+      "name": "Bachelor of Applied Science (Applied Statistics)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-applied-science-geophysics",
+      "name": "Bachelor of Applied Science (Geophysics)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-applied-science-industrial-chemistry",
+      "name": "Bachelor of Applied Science (Industrial Chemistry)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-applied-science-mathematics-economics",
+      "name": "Bachelor of Applied Science (Mathematics & Economics)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-applied-science-medical-physics",
+      "name": "Bachelor of Applied Science (Medical Physics)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-applied-science-chemistry-analysis",
+      "name": "Bachelor of Applied Science (Chemistry Analysis)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-biomedical-science",
+      "name": "Bachelor of Science (Biomedical Science)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-science-forensic-science",
+      "name": "Bachelor of Science (Forensic Science)(Hons)",
+      "field": "Science"
+    },
+    {
+      "slug": "bachelor-of-technology-bio-resources",
+      "name": "Bachelor of Technology (Bio-Resources)(Hons)",
+      "field": "Technology"
+    },
+    {
+      "slug": "bachelor-of-technology-food",
+      "name": "Bachelor of Technology (Food)(Hons)",
+      "field": "Technology"
+    },
+    {
+      "slug": "bachelor-of-technology-environmental",
+      "name": "Bachelor of Technology (Environmental)(Hons)",
+      "field": "Technology"
+    },
+    {
+      "slug": "doctor-of-medicine",
+      "name": "Doctor of Medicine",
+      "field": "Medicine"
+    },
+    {
+      "slug": "doctor-of-dental-surgery",
+      "name": "Doctor of Dental Surgery",
+      "field": "Medicine"
+    },
+    {
+      "slug": "bachelor-of-pharmacy",
+      "name": "Bachelor of Pharmacy(Hons)",
+      "field": "Medicine"
+    },
+    {
+      "slug": "bachelor-of-nursing",
+      "name": "Bachelor of Nursing(Hons)",
+      "field": "Medicine"
+    },
+    {
+      "slug": "bachelor-of-audiology",
+      "name": "Bachelor of Audiology(Hons)",
+      "field": "Medicine"
+    },
+    {
+      "slug": "bachelor-of-medical-radiation",
+      "name": "Bachelor of Medical Radiation(Hons)",
+      "field": "Medicine"
+    },
+    {
+      "slug": "bachelor-of-environmental-occupational-health",
+      "name": "Bachelor of Environmental & Occupational Health(Hons)",
+      "field": "Medicine"
+    },
+    {
+      "slug": "bachelor-of-dietetic",
+      "name": "Bachelor of Dietetic(Hons)",
+      "field": "Medicine"
+    },
+    {
+      "slug": "bachelor-of-nutrition",
+      "name": "Bachelor of Nutrition(Hons)",
+      "field": "Medicine"
+    },
+    {
+      "slug": "bachelor-of-health-science-speech-pathology",
+      "name": "Bachelor of Health Science(Hons) Speech Pathology",
+      "field": "Medicine"
+    },
+    {
+      "slug": "bachelor-of-health-science-exercise-sport-sciences",
+      "name": "Bachelor of Health Science (Exercise & Sport Sciences)(Hons)",
+      "field": "Medicine"
+    }
   ],
   "sources": [
-    {"url": "https://studymalaysia.com/edu/usm/courses/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"},
-    {"url": "https://admission.usm.my/index.php/main/undergraduate", "publisher": "USM Admissions", "fetched_at": "2026-09-14"}
+    {
+      "url": "https://studymalaysia.com/edu/usm/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://admission.usm.my/index.php/main/undergraduate",
+      "publisher": "USM Admissions",
+      "fetched_at": "2026-09-14"
+    }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

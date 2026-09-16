@@ -6,7 +6,10 @@
   "field": "Agriculture, Forestry, Fishery & Veterinary",
   "duration": "10 Semesters",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
     "local_total": 9000,
@@ -38,5 +41,9 @@
     "https://www.studymalaysia.com/edu/umk/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه Veterinary Medicine",
+  "program_name_zh": "Veterinary Medicine博士",
+  "field_ar": "الزراعة",
+  "field_zh": "农学"
 }

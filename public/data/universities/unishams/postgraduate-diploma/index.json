@@ -9,14 +9,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 16000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+    },
     "requirements": null,
     "accreditation": "N/0114/7/0055 (8/2/2031) (MQA/PA 18809)",
     "sources": [
       "https://unishams.edu.my/component/content/article/postgraduate-diploma-in-education?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -28,13 +35,20 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 16000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+    },
     "requirements": null,
     "accreditation": "R2/0421/6/0011 (15/7/2029) (MQA/FA3670)",
     "sources": [
       "https://unishams.edu.my/component/content/article/postgraduate-diploma-in-judiciary-and-syarie-advocacy?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

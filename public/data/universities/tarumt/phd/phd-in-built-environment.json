@@ -7,16 +7,32 @@
   "field": "Architecture & Building",
   "duration": "3-5 years",
   "mode": "Flexible",
-  "intakes": null,
+  "intakes": [
+    "Jun",
+    "Nov"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 15200.0,
+    "local_total": 25335,
     "international_total": 32700.0,
     "per_year_local": 5067,
     "per_year_international": 10900,
     "notes": "From StudyMalaysia: RM15,200 (FT) RM16,200 (PT)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.studymalaysia.com/what/course/tarumt/",
@@ -33,5 +49,9 @@
     }
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Built Environment",
+  "program_name_zh": "哲学博士 in Built Environment",
+  "field_ar": "العمارة",
+  "field_zh": "建筑学"
 }

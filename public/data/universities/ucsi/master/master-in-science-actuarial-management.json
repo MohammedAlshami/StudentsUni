@@ -6,23 +6,44 @@
   "field": "Actuarial Management",
   "duration": "1+ Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 30,608 - RM 41,148",
     "international": "RM 45,639 - RM 56,689",
     "currency": "MYR",
-    "local_total": 30608,
+    "local_total": 45912,
     "international_total": 45639,
     "per_year_local": 30608,
     "per_year_international": 45639,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057295/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science (Actuarial Management)",
+  "program_name_zh": "Science (Actuarial Management)硕士",
+  "field_ar": "إدارة",
+  "field_zh": "管理学"
 }

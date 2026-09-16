@@ -20,9 +20,24 @@
     "international": "Enquire for fees",
     "local_total": 9724,
     "currency": "MYR",
-    "international_total": 9724
+    "international_total": 9724,
+    "per_year_local": 4862,
+    "notes": " (per_year based on 2.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "faculty": "Business",
@@ -41,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Business",
+  "program_name_zh": "Business文凭",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

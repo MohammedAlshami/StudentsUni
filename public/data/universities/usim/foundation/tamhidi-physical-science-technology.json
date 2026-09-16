@@ -8,7 +8,10 @@
   "field": "Physical Science & Technology",
   "duration": "2 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "local": null,
     "international": null,
@@ -20,9 +23,18 @@
     "per_year_international": 3000
   },
   "requirements": {
-    "general": "SPM with credits in Bahasa Melayu and Sejarah",
-    "specific": "Relevant physical science and technology subjects",
-    "muet": "Band 1"
+    "malaysian": {
+      "spm": "5 Credits including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
   },
   "accreditation": {
     "mqa_program_code": null,
@@ -41,5 +53,9 @@
     "https://admission.usim.edu.my/tamhidi/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Tamhidi (Foundation Studies) for Physical Science and Technology",
+  "program_name_zh": "Tamhidi (Foundation Studies) for Physical Science and Technology",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

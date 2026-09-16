@@ -15,13 +15,25 @@
   "fees": {
     "local": "Refer to the Univ.",
     "international": "Refer to the Univ.",
-    "local_total": 13960,
+    "local_total": 13959,
     "currency": "MYR",
-    "international_total": 14794
+    "international_total": 14794,
+    "per_year_local": 4653,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "academic": null,
-    "general_text": "Any one of these: MUET Band 2 STPM with a minimum. Grade C+ (CGPA 2.33) in any two subjects, and credit in Mathematics and a pass in English at SPM level STAM with a minimum. grade of Jayyid, (good) and credit in Mathematics and a pass in English at SPM level Diploma in accounting or related field, or its equivalent with a minimum. CGPA of 2.50, and credit in Mathematics and a pass in English at SPM level Matriculation/Foundation qualification or its equivalent with a minimum. CGPA of 2.50, and credit in Mathematics and a pass in English at SPM level English Proficiency Requirements For international student: TOEFL score of 550 or  IELTS score The English proficiency requirement is exempted for both local and international students if:- The student has an academic qualification from an institution where English is used as a medium of instruction or The international student is from a country where English is an official language"
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -43,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accounting and Finance (Honours) (Double Degree)",
+  "program_name_zh": "Accounting and Finance (Honours) (Double Degree)学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

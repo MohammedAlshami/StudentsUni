@@ -1,10 +1,242 @@
 [
-  {"university": "SAITO University College", "university_slug": "saito", "level": "diploma", "program_name": "Diploma in Human Resource Management", "program_slug": "diploma-in-human-resource-management", "field": "Business", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.saito.edu.my/our-programmes/diploma"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "SAITO University College", "university_slug": "saito", "level": "diploma", "program_name": "Diploma in Business Management", "program_slug": "diploma-in-business-management", "field": "Business", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.saito.edu.my/our-programmes/diploma"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "SAITO University College", "university_slug": "saito", "level": "diploma", "program_name": "Diploma in Culinary Arts", "program_slug": "diploma-in-culinary-arts", "field": "Hospitality", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.saito.edu.my/our-programmes/diploma"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "SAITO University College", "university_slug": "saito", "level": "diploma", "program_name": "Diploma in Pastry Arts", "program_slug": "diploma-in-pastry-arts", "field": "Hospitality", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.saito.edu.my/our-programmes/diploma"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "SAITO University College", "university_slug": "saito", "level": "diploma", "program_name": "Diploma in Hotel Management", "program_slug": "diploma-in-hotel-management", "field": "Hospitality", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.saito.edu.my/our-programmes/diploma"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "SAITO University College", "university_slug": "saito", "level": "diploma", "program_name": "Diploma in Security Management", "program_slug": "diploma-in-security-management", "field": "Law Enforcement", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.saito.edu.my/our-programmes/diploma"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "SAITO University College", "university_slug": "saito", "level": "diploma", "program_name": "Diploma in Law Enforcement Administration", "program_slug": "diploma-in-law-enforcement-administration", "field": "Law Enforcement", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.saito.edu.my/our-programmes/diploma"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "SAITO University College", "university_slug": "saito", "level": "diploma", "program_name": "Diploma in Logistics Management", "program_slug": "diploma-in-logistics-management", "field": "Logistics", "duration": "2.5 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.saito.edu.my/our-programmes/diploma"], "confidence": 0.8, "last_updated": "2026-09-14"}
+  {
+    "university": "SAITO University College",
+    "university_slug": "saito",
+    "level": "diploma",
+    "program_name": "Diploma in Human Resource Management",
+    "program_slug": "diploma-in-human-resource-management",
+    "field": "Business",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.saito.edu.my/our-programmes/diploma"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "SAITO University College",
+    "university_slug": "saito",
+    "level": "diploma",
+    "program_name": "Diploma in Business Management",
+    "program_slug": "diploma-in-business-management",
+    "field": "Business",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.saito.edu.my/our-programmes/diploma"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "SAITO University College",
+    "university_slug": "saito",
+    "level": "diploma",
+    "program_name": "Diploma in Culinary Arts",
+    "program_slug": "diploma-in-culinary-arts",
+    "field": "Hospitality",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.saito.edu.my/our-programmes/diploma"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "SAITO University College",
+    "university_slug": "saito",
+    "level": "diploma",
+    "program_name": "Diploma in Pastry Arts",
+    "program_slug": "diploma-in-pastry-arts",
+    "field": "Hospitality",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.saito.edu.my/our-programmes/diploma"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "SAITO University College",
+    "university_slug": "saito",
+    "level": "diploma",
+    "program_name": "Diploma in Hotel Management",
+    "program_slug": "diploma-in-hotel-management",
+    "field": "Hospitality",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.saito.edu.my/our-programmes/diploma"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "SAITO University College",
+    "university_slug": "saito",
+    "level": "diploma",
+    "program_name": "Diploma in Security Management",
+    "program_slug": "diploma-in-security-management",
+    "field": "Law Enforcement",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.saito.edu.my/our-programmes/diploma"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "SAITO University College",
+    "university_slug": "saito",
+    "level": "diploma",
+    "program_name": "Diploma in Law Enforcement Administration",
+    "program_slug": "diploma-in-law-enforcement-administration",
+    "field": "Law Enforcement",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.saito.edu.my/our-programmes/diploma"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "SAITO University College",
+    "university_slug": "saito",
+    "level": "diploma",
+    "program_name": "Diploma in Logistics Management",
+    "program_slug": "diploma-in-logistics-management",
+    "field": "Logistics",
+    "duration": "2.5 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 30000,
+      "international_total": null,
+      "per_year_local": 12000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.saito.edu.my/our-programmes/diploma"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  }
 ]

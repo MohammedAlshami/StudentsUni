@@ -13,24 +13,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 11180,
+    "local_total": 11178,
     "international_total": 18555,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 3726
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A pass in STPM with a minimum of Grade C (GP 2.00) in any two (2) subjects, or its equivalent; OR A pass in STAM with a minimum grade of Jayyid, or its equivalent; OR A Certificate in Matriculation or Foundation with a minimum CGPA of 2.00, or its equivalent; OR A Diploma (Level 4, MQF) with a minimum CGPA of 2.00, or its equivalent;"
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -51,6 +51,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-hons-in-digital-graphic-design"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-hons-in-digital-graphic-design",
+  "program_name_ar": "Bachelor (Hons) in Digital Graphic Design",
+  "program_name_zh": "Bachelor (Hons) in Digital Graphic Design",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
 }

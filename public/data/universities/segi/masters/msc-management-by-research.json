@@ -7,12 +7,16 @@
   "field": "Business Management & Administration",
   "duration": "2 - 4 Yrs (FT) / 3 – 6 Yrs (PT)",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 30000,
+    "local_total": 60000,
     "international_total": 40000,
-    "per_year_local": "RM15,000-RM25,000",
+    "per_year_local": 15000,
     "per_year_international": "RM20,000-RM30,000",
     "notes": ""
   },
@@ -21,15 +25,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: Bachelor’s Degree – (Level 6, KKM) in the related field, with at least CGPA 2.75 or equivalent as approved by the PPT Senate Bachelor’s Degree – (Level 6, KKM) in the related field, with CGPA 2.50 but not achieving CGPA 2.75 can be admitted, subject to rigorous internal assessment process Bachelor’s Degree – (Level 6, KKM) in relevant field but did not achieve CGPA 2.50, can be admitted subject to min 5 years working experience in the appropriate field and rigorous internal assessment. English Proficiency Requirements: TOEFL 500 or  IELTS 5.0"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -42,5 +45,9 @@
     }
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير (Management) by Research",
+  "program_name_zh": "(Management) by Research硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -6,17 +6,32 @@
   "field": "Psychology",
   "duration": "2-3 Years",
   "mode": "Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM48,620",
     "international": "RM51,050",
-    "local_total": 48620,
+    "local_total": 48621,
     "per_year_local": 16207,
     "international_total": 51050,
     "per_year_international": 17017,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -27,6 +42,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "msc-management-psychology"
+  "last_updated": "2026-09-16",
+  "slug": "msc-management-psychology",
+  "program_name_ar": "M.Sc. (Management Psychology)",
+  "program_name_zh": "M.Sc. (Management Psychology)",
+  "field_ar": "علم النفس",
+  "field_zh": "心理学"
 }

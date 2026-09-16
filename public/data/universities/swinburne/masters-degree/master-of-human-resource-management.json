@@ -7,12 +7,16 @@
   "slug": "master-of-human-resource-management",
   "duration": "FT(1.5 Years) & PT(3 Years)",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM45,540",
     "international": "RM53,820",
     "currency": "MYR",
-    "local_total": 45540,
+    "local_total": 34155,
     "international_total": 53820,
     "per_year_local": 22770,
     "per_year_international": 26910,
@@ -25,5 +29,9 @@
     "https://www.swinburne.edu.my/?p=31477"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Human Resource Management",
+  "program_name_zh": "Human Resource Management硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

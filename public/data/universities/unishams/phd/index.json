@@ -9,14 +9,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0232/8/0008 (15/6/2033) (A9862)",
     "sources": [
       "https://unishams.edu.my/component/content/article/doctor-of-philosophy-in-arabic-language?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -28,14 +35,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "R/0414/8/0092 (9/8/2032) (MQA/FA10012)",
     "sources": [
       "https://unishams.edu.my/component/content/article/doctor-of-philosophy-in-management?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -47,14 +61,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "R/0923/8/0004 (19/9/2026) (MQA/FA12131)",
     "sources": [
       "https://unishams.edu.my/component/content/article/doctor-of-philosophy-in-counselling?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -66,14 +87,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0224/8/0017 (15/6/2033) (A9803)",
     "sources": [
       "https://unishams.edu.my/component/content/article/doctor-of-philosophy-in-sharia?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -85,14 +113,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0413/8/0006 (21/5/2033) (A9864)",
     "sources": [
       "https://unishams.edu.my/component/content/article/doctor-of-philosophy-in-islamic-banking-and-finance?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -104,14 +139,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0224/8/0018 (15/6/2033) (A9804)",
     "sources": [
       "https://unishams.edu.my/component/content/article/doctor-of-philosophy-in-usuluddin?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -123,14 +165,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "N/0300/8/0004 (11/4/2033) (MQA/PA 18860)",
     "sources": [
       "https://unishams.edu.my/component/content/article/doctor-of-philosophy?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -142,13 +191,20 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 75000,
+      "international_total": null,
+      "per_year_local": 25000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+    },
     "requirements": null,
     "accreditation": "N/0113/8/0002 (21/5/2033) (MQA/PA 18856)",
     "sources": [
       "https://unishams.edu.my/component/content/article/doctor-of-philosophy-in-education?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

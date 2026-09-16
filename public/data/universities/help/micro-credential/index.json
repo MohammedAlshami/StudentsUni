@@ -9,8 +9,20 @@
       "field": "Personal Services",
       "duration": "4 Months",
       "mode": "Short-term Course",
-      "fees": { "local": "RM8,800.00" },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058740/"]
+      "fees": {
+        "local": "RM8,800.00"
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058740/"
+      ]
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

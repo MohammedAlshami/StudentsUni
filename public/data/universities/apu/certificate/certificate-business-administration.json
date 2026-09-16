@@ -7,17 +7,42 @@
   "field": "Business & Management",
   "duration": "1 year 4 months",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM19,500.00",
-    "international": "RM22,400.00"
+    "international": "RM22,400.00",
+    "local_total": 19500,
+    "international_total": 22400.0,
+    "currency": "MYR",
+    "per_year_local": 19500
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/cert-in-business-administrative",
     "https://www.studymalaysia.com/what/course/APU/0056892/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "APIIT - Certificate in Business Administration (CBA)",
+  "program_name_zh": "APIIT - Certificate in Business Administration (CBA)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

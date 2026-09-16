@@ -1,1 +1,47 @@
-{"university": "Southern University College", "university_slug": "southern", "level": "bachelor", "program_name": "Bachelor in Computer Graphic Design (Honours)", "program_slug": "bachelor-computer-graphic-design", "field": "Design", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.southern.edu.my/faculty-of-art-design/"], "confidence": 0.8, "last_updated": "2026-09-14"}
+{
+  "university": "Southern University College",
+  "university_slug": "southern",
+  "level": "bachelor",
+  "program_name": "Bachelor in Computer Graphic Design (Honours)",
+  "program_slug": "bachelor-computer-graphic-design",
+  "field": "Design",
+  "duration": "3 years",
+  "mode": "Full Time",
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
+  "accreditation": null,
+  "sources": [
+    "https://www.southern.edu.my/faculty-of-art-design/"
+  ],
+  "confidence": 0.8,
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Computer Graphic Design (Honours)",
+  "program_name_zh": "Computer Graphic Design (Honours)学士",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
+}

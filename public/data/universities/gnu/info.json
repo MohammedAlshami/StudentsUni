@@ -6,7 +6,12 @@
   "state": "Kuala Lumpur",
   "city": "Kuala Lumpur",
   "website": "https://www.globalnxt.edu.my",
-  "levels_available": ["doctorate", "master", "bachelor", "executive"],
+  "levels_available": [
+    "doctorate",
+    "master",
+    "bachelor",
+    "executive"
+  ],
   "program_counts": {
     "doctorate": 4,
     "master": 6,
@@ -20,5 +25,13 @@
       "note": "Main university website with programme listings"
     }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 45000,
+    "international_total": null,
+    "per_year_local": 15000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

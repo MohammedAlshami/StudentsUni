@@ -1,9 +1,212 @@
 [
-  {"university": "University College Sabah Foundation", "university_slug": "ucsf", "level": "bachelor", "program_name": "Bachelor of Arts (Honours) in Development Studies with Media Communication", "program_slug": "bachelor-arts-development-studies-media-communication", "field": "Media & Communication", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.ucsf.edu.my/degree"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "University College Sabah Foundation", "university_slug": "ucsf", "level": "bachelor", "program_name": "Bachelor of Hospitality & Tourism Management (Honours)", "program_slug": "bachelor-hospitality-tourism-management", "field": "Hospitality & Tourism", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.ucsf.edu.my/degree"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "University College Sabah Foundation", "university_slug": "ucsf", "level": "bachelor", "program_name": "Bachelor of Accountancy (Honours)", "program_slug": "bachelor-accountancy", "field": "Business", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.ucsf.edu.my/degree"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "University College Sabah Foundation", "university_slug": "ucsf", "level": "bachelor", "program_name": "Bachelor of Business Administration (Hons)", "program_slug": "bachelor-business-administration", "field": "Business", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.ucsf.edu.my/degree"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "University College Sabah Foundation", "university_slug": "ucsf", "level": "bachelor", "program_name": "Bachelor of Entrepreneurship (Hons)", "program_slug": "bachelor-entrepreneurship", "field": "Business", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.ucsf.edu.my/degree"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "University College Sabah Foundation", "university_slug": "ucsf", "level": "bachelor", "program_name": "Bachelor of Science (Honours) Sustainable Resource Management and Conservation", "program_slug": "bachelor-science-sustainable-resource-management", "field": "Environmental Science", "duration": "3 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.ucsf.edu.my/degree"], "confidence": 0.8, "last_updated": "2026-09-14"},
-  {"university": "University College Sabah Foundation", "university_slug": "ucsf", "level": "bachelor", "program_name": "Bachelor of Science in Architecture with Honours", "program_slug": "bachelor-science-architecture", "field": "Architecture", "duration": "4 years", "mode": "Full Time", "intakes": ["January", "May", "September"], "fees": null, "requirements": null, "accreditation": null, "sources": ["https://www.ucsf.edu.my/degree"], "confidence": 0.8, "last_updated": "2026-09-14"}
+  {
+    "university": "University College Sabah Foundation",
+    "university_slug": "ucsf",
+    "level": "bachelor",
+    "program_name": "Bachelor of Arts (Honours) in Development Studies with Media Communication",
+    "program_slug": "bachelor-arts-development-studies-media-communication",
+    "field": "Media & Communication",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.ucsf.edu.my/degree"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "University College Sabah Foundation",
+    "university_slug": "ucsf",
+    "level": "bachelor",
+    "program_name": "Bachelor of Hospitality & Tourism Management (Honours)",
+    "program_slug": "bachelor-hospitality-tourism-management",
+    "field": "Hospitality & Tourism",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.ucsf.edu.my/degree"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "University College Sabah Foundation",
+    "university_slug": "ucsf",
+    "level": "bachelor",
+    "program_name": "Bachelor of Accountancy (Honours)",
+    "program_slug": "bachelor-accountancy",
+    "field": "Business",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.ucsf.edu.my/degree"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "University College Sabah Foundation",
+    "university_slug": "ucsf",
+    "level": "bachelor",
+    "program_name": "Bachelor of Business Administration (Hons)",
+    "program_slug": "bachelor-business-administration",
+    "field": "Business",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.ucsf.edu.my/degree"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "University College Sabah Foundation",
+    "university_slug": "ucsf",
+    "level": "bachelor",
+    "program_name": "Bachelor of Entrepreneurship (Hons)",
+    "program_slug": "bachelor-entrepreneurship",
+    "field": "Business",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.ucsf.edu.my/degree"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "University College Sabah Foundation",
+    "university_slug": "ucsf",
+    "level": "bachelor",
+    "program_name": "Bachelor of Science (Honours) Sustainable Resource Management and Conservation",
+    "program_slug": "bachelor-science-sustainable-resource-management",
+    "field": "Environmental Science",
+    "duration": "3 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 15000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.ucsf.edu.my/degree"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  },
+  {
+    "university": "University College Sabah Foundation",
+    "university_slug": "ucsf",
+    "level": "bachelor",
+    "program_name": "Bachelor of Science in Architecture with Honours",
+    "program_slug": "bachelor-science-architecture",
+    "field": "Architecture",
+    "duration": "4 years",
+    "mode": "Full Time",
+    "intakes": [
+      "January",
+      "May",
+      "September"
+    ],
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 11250,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 4.0yr duration)"
+    },
+    "requirements": null,
+    "accreditation": null,
+    "sources": [
+      "https://www.ucsf.edu.my/degree"
+    ],
+    "confidence": 0.8,
+    "last_updated": "2026-09-16"
+  }
 ]

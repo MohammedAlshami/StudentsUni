@@ -18,20 +18,22 @@
     "international": "Refer to newinti.edu.my",
     "local_total": 25287,
     "currency": "MYR",
-    "international_total": 25287
+    "international_total": 25287,
+    "per_year_local": 8429,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics and Science",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "Entry Level and Requirements Foundation : Certificate with CGPA 2.0 or its equivalent, and possess SPM with Mathematics and science. Diploma : A relevant diploma with a CGPA of at least 2.00 from another institution STPM : 2 grade C in any 2 subjects, or its equivalent SACE : ATAR of 70 and possess SPM/ its equivalent with Mathematics and Science UEC : 5Bs including Mathematics and 1 science subject and 1 any other subject or its equivalent A-Level : Grade D (NGMP 2.0) in 2 subjects and possess SPM/O levels with 3 credits in Mathematics, 1 science subject and 1 any other subject NSW (HSC) : ATAR of 70 and possess SPM/ its equivalent with 3 credits in Mathematics, 1 subject Science and 1 other subject Australian Year 12 : ATAR of 70 and possess SPM/ its equivalent with 3 credits in Mathematics, 1 Science subect and 1 other subject Canadian Pre-U : 6 subjects with minimum average score of 68 and possess SPM with 3 credits in Mathematics, 1 subject Science and 1 other subject MUFY : 4 subjects with minimum average score of 61 Others : Other equivalent qualifications as recognised by the Malaysian government"
   },
@@ -57,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Biotechnology (Hons)",
+  "program_name_zh": "Biotechnology (Hons)学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

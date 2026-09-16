@@ -31,6 +31,14 @@
       "note": "Website returned 403 Forbidden during data collection"
     }
   ],
-  "last_updated": "2026-09-14",
-  "notes": "Established in 2005 by Bank Negara Malaysia. Specializes in Islamic finance education. Previously known as Global University of Islamic Finance. Granted university status in 2007."
+  "last_updated": "2026-09-16",
+  "notes": "Established in 2005 by Bank Negara Malaysia. Specializes in Islamic finance education. Previously known as Global University of Islamic Finance. Granted university status in 2007.",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

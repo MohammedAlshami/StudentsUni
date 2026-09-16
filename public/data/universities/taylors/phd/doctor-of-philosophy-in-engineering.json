@@ -17,7 +17,7 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 16350,
+    "local_total": 87900,
     "international_total": 20724,
     "per_year_local": 29300,
     "per_year_international": 12520,
@@ -28,15 +28,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Pre-requisites:  Masters in the Engineering/Engineering Technology or its equivalent; OR Passed Bachelor&#39;s degree Engineering/Engineering Technology or its equivalent with min. CGPA 3.67 and registered as a Masters candidate and passed related qualifying assessment; OR Any other equivalent qualification recognized by Malaysian government OR accepted by the Taylor&#39;s University Senate and Any of the above condition would require student&#39;s research proposal to be approved. International Students: IELTS 5.0 / TOEFL 40 (Internet Based Test) (May join IEN preparatory course and achieve the IELTS score) The validity of the IELTS or equivalent is within 2 years from the date of the examination. Accelerated PhD Programme: Bachelor&#39;s degree candidates who are registered for master&#39;s degree programmes may apply to convert to the doctoral degree programmes subjected to the following conditions: Within 1 year for full time and within 2 years for part-time candidates; Having shown competency and capability in conducting research at doctoral level through rigorous internal evaluation. Approval of the Taylor&#39;s University Senate. If Your Bachelor Degree Are From Different Fields: Students without a qualification in the related fields or relevant working experience requires to undergo and pass a bridging module. Any of the above conditions would require student&#39;s research proposal to be approved.  Prior Publication Mode: Obtain a master&#39;s degree in the field or related fields accepted by the HEP Senate Obtain other qualifications equivalent to a master&#39;s degree recognised by the Government of Malaysia In addition to the above criteria, those who want to join Doctoral Degree by Retrospective or Prior Publication mode must include the below to the formal application: Minimum of 5 publications in alignment with the theme of the specialisation; An executive summary of the above publications establishing The theme that connects the published works to be submitted (up to 1,000 words); Contribution to knowledge in the field of the proposed area of study (up to 1,000 words) A list of scholarly published work; Curriculum Vitae (CV) For international candidates, evidence of English Language Proficiency as determined by the intake standards approved by the Senate A Selection Committee must be established to review the formal application for PhD by Retrospective or Prior Publication and recommend to the Senate to obtain approval. Criteria for published works: Published work must encompass high-quality journals, monographs, books, research-based chapters in books, electronic publications which have not been used to obtain other awards or deemed a part of those awards. The publications must be published within a period not exceeding ten (10) years from the date of submission. For the five (5) nominated publications, the candidate must be the principal author with the contributions of others clearly defined.  "
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -59,5 +58,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة in Engineering",
+  "program_name_zh": "哲学博士 in Engineering",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

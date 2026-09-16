@@ -3,14 +3,17 @@
   "field": "",
   "duration": "6 months",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Mar",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 22000,
     "international_total": 37500,
-    "per_year_local": null,
+    "per_year_local": 44000,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 0.5yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -44,5 +47,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Postgraduate Certificate in Health Informatics and Analytics",
+  "program_name_zh": "Postgraduate Certificate in Health Informatics and Analytics"
 }

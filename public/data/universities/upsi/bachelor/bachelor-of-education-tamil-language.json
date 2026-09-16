@@ -6,14 +6,43 @@
   "field": "Education",
   "duration": "8 semesters",
   "mode": "Full-time",
-  "intakes": ["September"],
-  "fees": {"currency": "MYR", "local_total": 6632, "international_total": null, "per_year_local": 1658, "per_year_international": null, "notes": "Per semester: MYR 829 local"},
-  "requirements": {
-    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
-    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 6632,
+    "international_total": null,
+    "per_year_local": 1658,
+    "per_year_international": null,
+    "notes": "Per semester: MYR 829 local"
   },
-  "accreditation": {"mqa_status": null, "mqa_ref": null},
-  "sources": ["https://www.studymalaysia.com/what/course/UPSI/0000878/", "https://fbk.upsi.edu.my/at62-bachelor-tamil/"],
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+)",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UPSI/0000878/",
+    "https://fbk.upsi.edu.my/at62-bachelor-tamil/"
+  ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Education (Tamil Language) (Hons)",
+  "program_name_zh": "Education (Tamil Language) (Hons)学士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

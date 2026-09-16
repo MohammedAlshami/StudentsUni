@@ -7,29 +7,32 @@
   "field": "Education (Teacher Training & Education Sciences)",
   "duration": "4 years",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Feb",
+    "Jul",
+    "Sep"
+  ],
   "fees": {
     "currency": "RM",
     "local_total": 43000,
     "international_total": 89950,
-    "per_year_local": null,
+    "per_year_local": 10750,
     "per_year_international": null,
-    "notes": "Local: RM43,000.00; International: RM89,950.00"
+    "notes": "Local: RM43,000.00; International: RM89,950.00 (per_year based on 4.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics and Science",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Pass STPM with minimum Grade C in 3 subjects including Pengajian Am/Kertas Am (General Studies/General Paper); A pass in STPM with minimum Grade C in 2 subjects including Pengajian Am/Kertas Am (General Studies/General Paper) and Grade D for 2 other subjects;Ministry of Education (KPM) Matriculation Certificate or MSU Foundation Certificate; Diploma from PTPL/MSU, or Certificate/Diploma from Polytechnic/IPT; Pass at least 3 subjects in A-Level (GCE); Pass The South Australian Matriculation (SAM) with minimum score of 65% - 70%;; Pass Canadian Pre University Programme (CPU) with minimum score of 80%; Pass Unified Examination Certificate (UEC) with at least grade B in 5 subjects; Other equivalent qualification recognised by Malaysian Government."
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_status": null,
@@ -53,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Counselling and Guidance (Hons)",
+  "program_name_zh": "Counselling and Guidance (Hons)学士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

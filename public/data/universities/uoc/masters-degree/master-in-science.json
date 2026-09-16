@@ -18,7 +18,9 @@
     "international": "Refer to University",
     "local_total": 19850,
     "currency": "MYR",
-    "international_total": 20250
+    "international_total": 20250,
+    "per_year_local": 9925,
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -55,5 +57,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science",
+  "program_name_zh": "Science硕士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

@@ -6,14 +6,42 @@
   "field": "Healthcare",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Apr",
+    "Aug",
+    "Nov"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 199998,
+    "international_total": null,
+    "per_year_local": 66666,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/unisel/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "diploma-in-medical-imaging"
+  "last_updated": "2026-09-16",
+  "slug": "diploma-in-medical-imaging",
+  "program_name_ar": "دبلوم Medical Imaging",
+  "program_name_zh": "Medical Imaging文凭",
+  "field_ar": "الصحة",
+  "field_zh": "健康科学"
 }

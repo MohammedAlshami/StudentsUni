@@ -7,16 +7,42 @@
   "slug": "doctor-of-philosophy-management",
   "duration": "Full time: 3 - 6 years Part time: 4 - 8 years",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Dec",
+    "Jun",
+    "Mar",
+    "Sep"
+  ],
   "fees": {
-    "local": "Refer to University",
-    "international": "Refer to University"
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 11000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 6.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058814/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Management)",
+  "program_name_zh": "哲学博士 (Management)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

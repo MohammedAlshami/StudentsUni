@@ -6,22 +6,43 @@
   "field": "Engineering",
   "duration": "1.5 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 35000,
+    "local_total": 52500,
     "international_total": 40000,
-    "per_year_local": "RM35,000-RM45,000",
+    "per_year_local": 35000,
     "per_year_international": "RM40,000-RM50,000",
     "notes": "Typical engineering master's at UM Wales"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/iumw/courses/",
     "https://www.walesum.edu.my"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "master-of-science-in-internet-engineering"
+  "last_updated": "2026-09-16",
+  "slug": "master-of-science-in-internet-engineering",
+  "program_name_ar": "ماجستير Science in Internet Engineering",
+  "program_name_zh": "Science in Internet Engineering硕士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

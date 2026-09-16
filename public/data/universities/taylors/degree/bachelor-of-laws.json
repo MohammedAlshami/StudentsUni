@@ -15,7 +15,7 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 40985,
+    "local_total": 304200,
     "international_total": 45961,
     "per_year_local": 101400,
     "per_year_international": 33820,
@@ -23,18 +23,17 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "SPM / O-Level with Pre-U or Foundation Qualification Pass SPM / O-Level or equivalent with 5 credits (including English) for entry with pre-university / foundation qualification (Except for UEC) SPM / O-Level with Diploma Qualification Pass SPM / O-Level or equivalent with 3 credits (including English) for entry with Diploma qualification. Prerequisite for CLP Students who wish to pursue the CLP Examinations, will be required to show 5 credits in SPM/ equivalent   ENTRY REQUIREMENTS Taylor’s Foundation * Pass with min. CGPA 2.67 Taylor’s Diploma * Pass with min. CGPA 2.67 in a related discipline Sijil Tinggi Persekolahan Malaysia (STPM) Pass STPM with CGPA 2.67 in 2 subjects with at least a Pass in Pengajian Am Unified Examination Certificate (UEC) A Pass in UEC with min 5Bs including English, with Max. of 20 points. For entry with UEC, the SPM prerequisites of 5 credits must be satisfied for students’ who wish to sit for CLP Exam A Level Min. CC / BD / AE SAM/SACEi International Min. ATAR 70 Canadian Pre-University (CPU)* Min. average of 65% in 6 subjects International Baccalaureate (IB) 24 points in 6 subjects and at least 4 points for 3 Higher Level subjects Monash University Foundation Year (MUFY) Overall 60% Other Qualifications* Any Foundation/ Matriculation recognised as an equivalent by the Malaysian Government / Any Diploma in a related discipline recognised as an equivalent by the Malaysian Government with Min CGPA of 2.67 * Note: Students are advised to check with LPQB (Legal Profession Qualifying Board) on the recognition of the Pre-U programme for purposes of pursuing the CLP (Certificate of Legal Practice)   ENGLISH REQUIREMENTS IELTS Overall Band 6.0 TOEFL 79 - Internet Based Test (20 in writing) A Level (English / English Literature ) Min. Grade C South Australian Matriculation (SAM) / SACEi International (English as Additional Language) Grade B Canadian Pre-University (CPU) (English 4U) Min. Grade C MUET Band 4 Other Equivalent English Qualifications Students with other qualifications will be considered on a case-by-case basis "
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -57,5 +56,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Laws (Honours)",
+  "program_name_zh": "Laws (Honours)学士",
+  "field_ar": "القانون",
+  "field_zh": "法律"
 }

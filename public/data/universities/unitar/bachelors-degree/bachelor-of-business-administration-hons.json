@@ -23,18 +23,17 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Programme Entry Requirements You must meet the following requirements in order to be considered for entry to the UNITAR Bachelor’s Programme: A pass in STPM with at least Grade C (GP 2.0) in any TWO subjects with a pass in Mathematics and English at SPM level*; OR A pass in STAM with at least Grade Jayyid with a pass in Mathematics and English at SPM level*; OR Matriculation or Foundation with at least CGPA of 2.00; OR A Diploma (Level 4, MQF) with at least CGPA of 2.00; OR An Advanced Diploma (Level 5, MQF) with at least CGPA of 2.00; OR Pass Diploma Kemahiran Malaysia (DKM)/ Diploma Lanjutan Kemahiran Malaysia (DLKM)/ Diploma Vokasional Malaysia (DVM) with a minimum CGPA of 2.50 in relevant field and subject to the approval of the Senate and MUST attend bridging courses; OR Pass DKM/ DLKM/ DVM with at least CGPA 2.00 AND have at least two (2) years of work experience in relevant field and subject to the approval of the Senate and MUST attend bridging courses courses; OR Pass BTEC Level 4 &amp; 5 and pass in SPM or its equivalent, with at least three (3) credits in any subjects; OR Other equivalent qualifications recognised by the Malaysian Government; OR Notes: *A pass in Mathematics and English at SPM level or equivalent qualifications Can be waived should any other higher qualifications contain Mathematics and English subjects with an equivalent/higher achievement. Malaysian students using English as the medium of instruction in their previous study or with at least Band 2in MUET or equivalent can be exempted from a pass in English requirement. Those without a pass in Mathematics and/or English at SPM level or equivalent can be admitted but are required to attend special enhancement course(s). These special enhancement courses should be SPM equivalent, remedial in nature. Students must pass the Mathematics and English enhancement courses as a prerequisite to related core courses taught in English. Language Requirements International Students Minimum score of 5.5 for IELTS; OR its equivalent. Local Students A Pass in SPM English* Exempted from University English Courses: Distinction in SPM / SPMV English MUET Band 4, 5 and 6 A Pass in English Course at a previous institution Required to take English Preparatory 2: Credit in SPM / SPMV English MUET Band 1, 2 and 3 Required to take both English Preparatory 1 and 2: No credit in SPM / SPMV English *Programme standard requirement"
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -61,5 +60,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Business Administration (Hons)",
+  "program_name_zh": "Business Administration (Hons)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

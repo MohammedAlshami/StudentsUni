@@ -6,17 +6,40 @@
   "field": "Business",
   "duration": "3 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM42,000",
-    "international": "RM43,000"
+    "international": "RM43,000",
+    "local_total": 42000,
+    "per_year_local": 14000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/unimy/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-business-administration-management-information-systems-hons"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-business-administration-management-information-systems-hons",
+  "program_name_ar": "بكالوريوس Business Administration (Management Information Systems) (Hons)",
+  "program_name_zh": "Business Administration (Management Information Systems) (Hons)学士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

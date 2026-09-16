@@ -6,14 +6,43 @@
   "field": "Computing & IT",
   "duration": "8 semesters",
   "mode": "Full-time",
-  "intakes": ["September"],
-  "fees": {"currency": "MYR", "local_total": 9640, "international_total": null, "per_year_local": 2410, "per_year_international": null, "notes": "Per semester: MYR 1,205 local"},
-  "requirements": {
-    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
-    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+  "intakes": [
+    "September"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 9640,
+    "international_total": null,
+    "per_year_local": 2410,
+    "per_year_international": null,
+    "notes": "Per semester: MYR 1,205 local"
   },
-  "accreditation": {"mqa_status": null, "mqa_ref": null},
-  "sources": ["https://www.studymalaysia.com/what/course/UPSI/0000879/", "https://meta.upsi.edu.my/bachelor-of-software-engineering-educational-software-with-honours/"],
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) including Mathematics and Physics",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
+  "accreditation": {
+    "mqa_status": null,
+    "mqa_ref": null
+  },
+  "sources": [
+    "https://www.studymalaysia.com/what/course/UPSI/0000879/",
+    "https://meta.upsi.edu.my/bachelor-of-software-engineering-educational-software-with-honours/"
+  ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Software Engineering (Software Education) (Hons)",
+  "program_name_zh": "Software Engineering (Software Education) (Hons)学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

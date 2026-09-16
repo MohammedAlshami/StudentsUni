@@ -6,7 +6,9 @@
   "field": "Engineering",
   "duration": "3-4 Years",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM47,100/Yr",
     "international": "RM55,200/Yr",
@@ -16,7 +18,20 @@
     "per_year_international": 55200,
     "currency": "MYR"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics and Physics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -27,6 +42,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "bachelor-of-engineering-hons-civil-engineering"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-engineering-hons-civil-engineering",
+  "program_name_ar": "بكالوريوس Engineering (Hons) Civil Engineering",
+  "program_name_zh": "Engineering (Hons) Civil Engineering学士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

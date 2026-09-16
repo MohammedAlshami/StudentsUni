@@ -1,6 +1,14 @@
 [
   {
     "name": "Foundation in Science and Medicine",
-    "slug": "foundation-in-science-and-medicine"
+    "slug": "foundation-in-science-and-medicine",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 21000,
+      "international_total": null,
+      "per_year_local": 7000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM3,500/semester for public university medical programme (per_year based on 3yr duration)"
+    }
   }
 ]

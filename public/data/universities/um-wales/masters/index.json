@@ -4,41 +4,89 @@
     "program_name": "Master of Business Administration",
     "field": "Business",
     "duration": "1.5 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.5yr duration)"
+    }
   },
   {
     "slug": "master-of-business-administration-dual-award",
     "program_name": "Master of Business Administration (Dual Award)",
     "field": "Business",
     "duration": "1.5 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.5yr duration)"
+    }
   },
   {
     "slug": "master-of-science-in-project-management",
     "program_name": "Master of Science In Project Management",
     "field": "Business",
     "duration": "1.5 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.5yr duration)"
+    }
   },
   {
     "slug": "master-of-science-in-internet-engineering",
     "program_name": "Master of Science in Internet Engineering",
     "field": "Engineering",
     "duration": "1.5 Years",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.5yr duration)"
+    }
   },
   {
     "slug": "master-of-arts-in-professional-communication-odl",
     "program_name": "Master of Arts in Professional Communication (ODL)",
     "field": "Communication",
     "duration": "1.5 Years",
-    "mode": "Part-time"
+    "mode": "Part-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.5yr duration)"
+    }
   },
   {
     "slug": "master-of-business-administration-odl",
     "program_name": "Master of Business Administration (ODL)",
     "field": "Business",
     "duration": "1.5 Years",
-    "mode": "Online"
+    "mode": "Online",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 30000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.5yr duration)"
+    }
   }
 ]

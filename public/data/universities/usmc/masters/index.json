@@ -2,16 +2,40 @@
   {
     "slug": "msc-in-autonomous-systems",
     "name": "MSc in Autonomous Systems",
-    "field": "Engineering"
+    "field": "Engineering",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "msc-in-energy-and-sustainability-with-electrical-power-engineering",
     "name": "MSc in Energy and Sustainability with Electrical Power Engineering",
-    "field": "Engineering"
+    "field": "Engineering",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   },
   {
     "slug": "msc-in-software-engineering",
     "name": "MSc in Software Engineering",
-    "field": "Computing"
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
   }
 ]

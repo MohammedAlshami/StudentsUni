@@ -18,22 +18,22 @@
     "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
     "local_total": 38007,
-    "per_year_local": null,
-    "notes": "Fee: FromRM78,870.00",
+    "per_year_local": 12669,
+    "notes": "Fee: FromRM78,870.00 (per_year based on 3.0yr duration)",
     "international_total": 40257
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "STPM Average C+ or CGPA 2.33 (minimum 2 Principals) A-Level Minimum 14 points (Minimum Grade D in at least 2 subjects) Note: For A-Level points calculation A = 10 points B = 8 points C = 6 points D = 4 points E = 2 points Australian Matriculation ATAR 60 Canadian Matriculation 60% Monash University Foundation Year 60% Sunway Foundation in Arts CGPA 2.5 Sunway Foundation in Science Technology CGPA 2.5 Sunway Diploma CAVG 55% or CGPA 2.50 * Students may obtain advanced standing if credit transfer requirements are met. Unified Examination Certificate Maximum 25 points from 5 subjects (all grade Bs) and a Pass in Mathematics subject International Baccalaureate Completed with minimum 27 points (excluding bonus points) APEL.A An APEL.A Certificate (APEL T-6) (Recognition of Prior Learning)  (Click on this link for further information on APEL.A) Specific Requirements Pass in Mathematics at SPM or its equivalent Any other qualifications will be considered on a case-to-case basis Additional Requirements for Certain International Students International students from certain countries that want to take some Sunway University degree programmes (for example programmes in partnership with Lancaster University) will need to take and pass our online six-month International Preparatory Programme (IPP). This is a requirement to enrol on a Sunway degree programme that also leads to a degree awarded by Sunway’s partner institution. Students are required to pass all the subjects with a grade C or above to progress to the degree. English Language Requirements IELTS or equivalent 6.0 MUET Band 4 SPM English B+ UEC English B4 O-Level English (1119) Credit Sunway Intensive English Programme (IEP) Pass Level 4 with minimum 65% ESL/English Satisfactory level in Pre-University programmes, where the medium of instruction is English"
   },
@@ -59,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) Financial Economics",
+  "program_name_zh": "Science (Hons) Financial Economics学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

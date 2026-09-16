@@ -7,27 +7,31 @@
   "field": "Business Management & Administration",
   "duration": "Refer to Univ.",
   "mode": "Open and Distance Learning (ODL)",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "RM",
-    "local_total": 27878.0,
+    "local_total": 27876,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 9292,
     "per_year_international": null,
-    "notes": "Local: 27,878 /Course"
+    "notes": "Local: 27,878 /Course (per_year based on 3yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Arts)",
+  "program_name_zh": "哲学博士 (Arts)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

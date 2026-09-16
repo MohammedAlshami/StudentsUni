@@ -4,12 +4,15 @@
   "level": "undergraduate",
   "program_name": "Bachelor of Science in Liberal Studies (Hons.)",
   "field": "Liberal Science",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 7200,
+    "local_total": 5400,
     "international_total": 21600,
     "per_year_local": 1800,
     "per_year_international": 5400,
@@ -17,16 +20,16 @@
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) including Mathematics",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -37,5 +40,9 @@
     "https://www.ukm.my/portal/undergraduate-programmes/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science in Liberal Studies (Hons.)",
+  "program_name_zh": "Science in Liberal Studies (Hons.)学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

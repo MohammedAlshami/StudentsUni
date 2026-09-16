@@ -6,23 +6,44 @@
   "slug": "bachelor-of-international-events-management",
   "program_slug": "bachelor-of-international-events-management",
   "field": "Hospitality and Tourism",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full Time",
-  "intakes": null,
+  "intakes": [
+    "Apr",
+    "Feb",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 99900,
+    "local_total": 299700,
     "international_total": 33391,
     "per_year_local": 99900,
     "per_year_international": 33391,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/undergraduate/bachelor-of-international-events-management.html",
     "https://www.studymalaysia.com/edu/taylor/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس International Events Management (Honours)",
+  "program_name_zh": "International Events Management (Honours)学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

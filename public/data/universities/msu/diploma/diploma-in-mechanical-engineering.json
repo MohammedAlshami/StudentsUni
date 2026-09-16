@@ -14,24 +14,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 23587,
+    "local_total": 23586,
     "international_total": 36423,
-    "per_year_local": null,
+    "per_year_local": 9760,
     "per_year_international": null,
-    "notes": "Local: RM57,000.00; International: RM104,395.00"
+    "notes": "Local: RM57,000.00; International: RM104,395.00 (per_year based on 2.4166666666666665yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Mathematics and Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -61,5 +61,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Mechanical Engineering",
+  "program_name_zh": "Mechanical Engineering文凭",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

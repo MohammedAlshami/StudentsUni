@@ -18,8 +18,8 @@
     "international": "International Student Administration Fee: RM1,980 per year",
     "currency": "MYR",
     "local_total": 46950,
-    "per_year_local": null,
-    "notes": "Fee: FromRM40,050.00",
+    "per_year_local": 46950,
+    "notes": "Fee: FromRM40,050.00 (per_year based on 1.0yr duration)",
     "international_total": 51750
   },
   "requirements": {
@@ -27,15 +27,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Bachelor&#39;s Degree A Bachelor’s degree or its equivalent, with a minimum CGPA of 2.75 A Bachelor’s degree or its equivalent, with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a rigorous internal assessment OR A Bachelor’s degree or its equivalent, with a minimum CGPA of 2.50 can be accepted subject to a minimum of 5 years working experience in a relevant field APEL.A An APEL.A Certificate (APEL T-7) (Recognition of Prior Learning) Other Qualifications Any other qualifications will be considered on a case-to-case basis English Language Requirements IELTS 6.0 OR its equivalent For International students, a Test of English as a Foreign Language (TOEFL) score of 600 OR an International English Language Testing System (IELTS) score of 6.0 OR its equivalent is needed. How to Apply Candidates are requested to send the completed application with the following supporting documents: Academic transcripts and certificate for Bachelor degree; Report from 2 academic referees; TOEFL / IELTS Score (if applicable); Passport’s personal particular page/Identification card; Portfolio and/or scholarly writing sample; Personal statement All relevant files in the submission package are to be put on a standard USB flash drive, containing only the submission documents. Please send the completed application form together with all the required supporting documents (as pdf files). Portfolio A portfolio should contain 5 - 15 examples of your own original creative work. Its purpose is to demonstrate how you express your concepts through media. Any form of media is acceptable. For media work, links to streaming sites such as Vimeo, YouTube or SoundCloud are acceptable. Otherwise, Video files must be H.264 QuickTime file. Audio files must be in MP3 format. Photographs, drawings and 3-D work will be accepted as digital photographs. Games or other applications must be playable on both Macintosh and Windows operating systems. Personal Statement: Applicants must submit a written statement (500–750 words) outlining their interest and goals in pursuing graduate study. You should include a thoughtful description of your background, tentative plan of inquiry in the field as you now envision it, the outcomes do you hope to get from the degree, your professional goals, and how this graduate programme will help you realise those goals. All documents must be in English. Otherwise, they must be accompanied by certified translations in the English language."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "awarding_country": "Malaysia",
@@ -59,5 +58,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Arts in Visual Communication and Media Studies",
+  "program_name_zh": "Arts in Visual Communication and Media Studies硕士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

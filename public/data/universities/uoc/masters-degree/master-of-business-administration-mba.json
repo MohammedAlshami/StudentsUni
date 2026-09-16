@@ -17,7 +17,9 @@
     "international": "Refer to University",
     "local_total": 29300,
     "currency": "MYR",
-    "international_total": 18000
+    "international_total": 18000,
+    "per_year_local": 29300,
+    "notes": " (per_year based on 1.0yr duration)"
   },
   "requirements": null,
   "accreditation": null,
@@ -35,5 +37,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (MBA)",
+  "program_name_zh": "Business Administration (MBA)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

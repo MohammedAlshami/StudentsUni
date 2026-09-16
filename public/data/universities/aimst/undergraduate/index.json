@@ -10,10 +10,36 @@
       "duration": "5 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-medicine-and-surgery-mbbs/", "https://www.studymalaysia.com/what/course/AIMST/0055049/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-medicine-and-surgery-mbbs/",
+        "https://www.studymalaysia.com/what/course/AIMST/0055049/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -24,10 +50,36 @@
       "duration": "5 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-dental-surgery/", "https://www.studymalaysia.com/what/course/AIMST/0055048/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-dental-surgery/",
+        "https://www.studymalaysia.com/what/course/AIMST/0055048/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -38,10 +90,36 @@
       "duration": "4 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-dental-technology/", "https://www.studymalaysia.com/what/course/AIMST/0056339/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-dental-technology/",
+        "https://www.studymalaysia.com/what/course/AIMST/0056339/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -52,10 +130,36 @@
       "duration": "4 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-pharmacy-honours/", "https://www.studymalaysia.com/what/course/AIMST/0005357/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-pharmacy-honours/",
+        "https://www.studymalaysia.com/what/course/AIMST/0005357/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -66,10 +170,36 @@
       "duration": "4 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-in-physiotherapy/", "https://www.studymalaysia.com/what/course/AIMST/0055042/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-in-physiotherapy/",
+        "https://www.studymalaysia.com/what/course/AIMST/0055042/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -80,10 +210,36 @@
       "duration": "4 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-in-nursing-science-hons/", "https://www.studymalaysia.com/what/course/AIMST/0056656/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-in-nursing-science-hons/",
+        "https://www.studymalaysia.com/what/course/AIMST/0056656/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -94,10 +250,35 @@
       "duration": null,
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-in-nursing-science-honours-odl/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-in-nursing-science-honours-odl/"
+      ],
       "confidence": "low",
       "last_updated": "2026-09-14"
     },
@@ -108,10 +289,35 @@
       "duration": null,
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-science-biomedical-science/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-science-biomedical-science/"
+      ],
       "confidence": "low",
       "last_updated": "2026-09-14"
     },
@@ -122,10 +328,36 @@
       "duration": "3 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-biotechnology/", "https://www.studymalaysia.com/what/course/AIMST/0055046/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-biotechnology/",
+        "https://www.studymalaysia.com/what/course/AIMST/0055046/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -136,10 +368,35 @@
       "duration": null,
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-science-honours-biotechnology-with-entrepreneurship/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-science-honours-biotechnology-with-entrepreneurship/"
+      ],
       "confidence": "low",
       "last_updated": "2026-09-14"
     },
@@ -150,10 +407,36 @@
       "duration": "3 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-bioinformatics/", "https://www.studymalaysia.com/what/course/AIMST/0056655/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-bioinformatics/",
+        "https://www.studymalaysia.com/what/course/AIMST/0056655/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -164,10 +447,36 @@
       "duration": "3.5 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-accounting-finance/", "https://www.studymalaysia.com/what/course/AIMST/0055045/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-accounting-finance/",
+        "https://www.studymalaysia.com/what/course/AIMST/0055045/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -178,10 +487,35 @@
       "duration": null,
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-accountancy-honours/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-accountancy-honours/"
+      ],
       "confidence": "low",
       "last_updated": "2026-09-14"
     },
@@ -192,10 +526,36 @@
       "duration": "3.5 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-finance-management/", "https://www.studymalaysia.com/what/course/AIMST/0055044/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-finance-management/",
+        "https://www.studymalaysia.com/what/course/AIMST/0055044/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -206,10 +566,36 @@
       "duration": "3.5 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-business-marketing/", "https://www.studymalaysia.com/what/course/AIMST/0055043/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-science-hons-in-business-marketing/",
+        "https://www.studymalaysia.com/what/course/AIMST/0055043/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -220,10 +606,36 @@
       "duration": "3.5 years",
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-science-hons-management-information-systems/", "https://www.studymalaysia.com/what/course/AIMST/0055047/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-science-hons-management-information-systems/",
+        "https://www.studymalaysia.com/what/course/AIMST/0055047/"
+      ],
       "confidence": "medium",
       "last_updated": "2026-09-14"
     },
@@ -234,10 +646,35 @@
       "duration": null,
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-in-information-systems-data-analyticshonours/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-in-information-systems-data-analyticshonours/"
+      ],
       "confidence": "low",
       "last_updated": "2026-09-14"
     },
@@ -248,10 +685,35 @@
       "duration": null,
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-of-computer-science/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-of-computer-science/"
+      ],
       "confidence": "low",
       "last_updated": "2026-09-14"
     },
@@ -262,10 +724,35 @@
       "duration": null,
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-in-software-engineering-honours/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-in-software-engineering-honours/"
+      ],
       "confidence": "low",
       "last_updated": "2026-09-14"
     },
@@ -276,12 +763,59 @@
       "duration": null,
       "mode": "Full-time",
       "intakes": null,
-      "fees": { "currency": "MYR", "local_total": null, "international_total": null, "per_year_local": null, "per_year_international": null, "notes": "Refer to university" },
-      "requirements": { "malaysian": { "spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null }, "international": { "a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null } },
-      "accreditation": { "mqa_status": null, "mqa_ref": null },
-      "sources": ["https://www.aimst.edu.my/academic/bachelor-in-multimedia-technology-honours/"],
+      "fees": {
+        "currency": "MYR",
+        "local_total": null,
+        "international_total": null,
+        "per_year_local": null,
+        "per_year_international": null,
+        "notes": "Refer to university"
+      },
+      "requirements": {
+        "malaysian": {
+          "spm": null,
+          "stpm": null,
+          "foundation_matriculation": null,
+          "diploma_pathway": null
+        },
+        "international": {
+          "a_level": null,
+          "ib": null,
+          "other_qualifications": null,
+          "english_requirement": null
+        }
+      },
+      "accreditation": {
+        "mqa_status": null,
+        "mqa_ref": null
+      },
+      "sources": [
+        "https://www.aimst.edu.my/academic/bachelor-in-multimedia-technology-honours/"
+      ],
       "confidence": "low",
       "last_updated": "2026-09-14"
     }
-  ]
+  ],
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

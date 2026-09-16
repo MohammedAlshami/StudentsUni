@@ -17,12 +17,25 @@
     "local": "From RM81,675",
     "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 38167,
-    "per_year_local": null,
-    "notes": "Fee: FromRM81,675.00",
+    "local_total": 38166,
+    "per_year_local": 12722,
+    "notes": "Fee: FromRM81,675.00 (per_year based on 3.0yr duration)",
     "international_total": 40417
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "awarding_country": "Malaysia",
   "sources": [
@@ -40,5 +53,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) Information Technology",
+  "program_name_zh": "Science (Hons) Information Technology学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

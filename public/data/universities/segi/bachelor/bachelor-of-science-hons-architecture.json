@@ -15,13 +15,25 @@
   "fees": {
     "local": "Refer to the Univ.",
     "international": "Refer to the Univ.",
-    "local_total": 28334,
+    "local_total": 28332,
     "currency": "MYR",
-    "international_total": 34850
+    "international_total": 34850,
+    "per_year_local": 9444,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "academic": null,
-    "general_text": "Any one of these: Pass in STPM with grade point of 2.0 for at least 2 subjects and obtained credit in Bahasa Malaysia and Mathematic in SPM Pass in A-Level in at least 2 subjects and obtained credit in Mathematics in SPM or equivalent Pass in Unified Examinations Certificate (UEC) at least B in 5 subjects Foundation in Science – SEGi; Foundation (in relevant field) from IHL recognised by the Malaysian Government and obtained credit in Mathematics in SPM Pass in New South Wales Higher Certificate with Grade C in 2 subjects and obtained credit in Mathematics in SPM or equivalent South Australian Certificate of Education (SACE) 2 passes with Grade C and obtained credit in Mathematics in SPM or equivalent Pass in Canadian Pre-U (CPU) / Ontario Secondary School Diploma (OSSD) with at least 60 marks in 2 subjects and obtained credit in Mathematics in SPM or equivalent Pass in International Baccalaureate, with at least score of 24 and obtained credit in Mathematics in SPM or equivalent Pass in Matriculation in relevant area (Ministry of Education Malaysia), Pass with minimum CGPA of 2.50 and obtained credit in Mathematics in SPM or equivalent Pass in Diploma in related field by Higher Institutions Provider recognised by Malaysia Government (at least CGPA 2.00) and obtained credit in Mathematics in SPM or equivalent Other equivalent qualification recognised by Malaysian Government AND Pass in Art/ Technical Drawing subject in SPM or equivalent OR Pass in portfolio assessment interview for those who failed or did not take Art subject” English Proficiency Requirements (International Student): TOEFL with minimum of score 500 IELTS with minimum of score 5.0."
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -38,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) Architecture",
+  "program_name_zh": "Science (Hons) Architecture学士",
+  "field_ar": "العمارة",
+  "field_zh": "建筑学"
 }

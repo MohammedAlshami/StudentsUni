@@ -6,23 +6,44 @@
   "field": "Business Administration",
   "duration": "3+ Years",
   "mode": "Full-time/Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 72,840 - RM 80,640",
     "international": "RM 89,000 - RM 99,500",
     "currency": "MYR",
-    "local_total": 72840,
+    "local_total": 218520,
     "international_total": 89000,
     "per_year_local": 72840,
     "per_year_international": 89000,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0008891/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه Business Administration (DBA)",
+  "program_name_zh": "Business Administration (DBA)博士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

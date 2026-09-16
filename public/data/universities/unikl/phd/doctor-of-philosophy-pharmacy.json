@@ -5,13 +5,41 @@
   "program_name": "Doctor of Philosophy (Pharmacy)",
   "program_slug": "doctor-of-philosophy-pharmacy",
   "field": "Pharmacy",
-  "duration": null,
+  "duration": "3 years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "July"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 240000,
+    "international_total": null,
+    "per_year_local": 80000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
-  "sources": ["https://www.unikl.edu.my/postgraduate-admission/"],
+  "sources": [
+    "https://www.unikl.edu.my/postgraduate-admission/"
+  ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Pharmacy)",
+  "program_name_zh": "哲学博士 (Pharmacy)",
+  "field_ar": "الصيدلة",
+  "field_zh": "药学"
 }

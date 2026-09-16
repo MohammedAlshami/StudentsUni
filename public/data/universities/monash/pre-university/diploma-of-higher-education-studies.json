@@ -15,11 +15,24 @@
     "currency": "MYR",
     "local_total": 43680,
     "international_total": 50400,
-    "per_year_local": null,
+    "per_year_local": 43680,
     "per_year_international": null,
-    "notes": "Enquire for fees"
+    "notes": "Enquire for fees (per_year based on 1.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": {
     "mqa_status": "MQA",
     "mqa_ref": null
@@ -38,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Higher Education Studies",
+  "program_name_zh": "Higher Education Studies文凭",
+  "field_ar": "General Studies",
+  "field_zh": "General Studies"
 }

@@ -19,20 +19,22 @@
     "international": null,
     "local_total": 6560,
     "currency": "MYR",
-    "international_total": 6760
+    "international_total": 6760,
+    "per_year_local": 2624,
+    "notes": " (per_year based on 2.5yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Entry Requirements Applicants must meet one of the following entry requirements: SPM/SPMV/MCE: Minimum of three (3) credits Other equivalent qualifications: As approved by the Malaysian Qualifications Agency (MQA) Candidates without SPM/MCE: Must follow an alternative pathway approved by MQA, which includes: Qualifying test on Bahasa Melayu, English, and Mathematics (APEL Route by MQA) English Requirement (International Students) IELTS: Band 4 MUET: Band 2"
   },
@@ -57,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Education",
+  "program_name_zh": "Education文凭",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

@@ -6,14 +6,40 @@
   "field": "Engineering",
   "duration": "4 Years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": null,
-  "requirements": null,
+  "intakes": [
+    "Sep"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 16500,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+  },
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics and Physics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/usmc/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14",
-  "slug": "master-of-engineering-mechanical-engineering-2+2-in-collaboration-with-university-of-southampton-uk"
+  "last_updated": "2026-09-16",
+  "slug": "master-of-engineering-mechanical-engineering-2+2-in-collaboration-with-university-of-southampton-uk",
+  "program_name_ar": "ماجستير Engineering (Mechanical Engineering) 2+2 in collaboration with University of Southampton, UK",
+  "program_name_zh": "Engineering (Mechanical Engineering) 2+2 in collaboration with University of Southampton, UK硕士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

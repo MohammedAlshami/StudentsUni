@@ -7,15 +7,32 @@
   "slug": "diploma-in-architechtural-technology",
   "duration": "2 Yr 4 Mths (7 Sem)",
   "mode": "Full-time Study",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "30000/Course",
     "international": "30000/Course",
-    "local_total": 30000,
+    "local_total": 45066,
     "per_year_local": 12876,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0056631/",
@@ -26,5 +43,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Architechtural Technology",
+  "program_name_zh": "Architechtural Technology文凭",
+  "field_ar": "العمارة",
+  "field_zh": "建筑学"
 }

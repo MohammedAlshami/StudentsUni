@@ -7,19 +7,42 @@
   "field": "Science",
   "duration": "3.5 years",
   "mode": "full-time",
-  "intakes": ["january", "may", "september"],
+  "intakes": [
+    "january",
+    "may",
+    "september"
+  ],
   "fees": {
-    "total": null,
     "currency": "MYR",
-    "note": "Contact university for current fee rates"
+    "local_total": 65999,
+    "international_total": null,
+    "per_year_local": 18857,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.5yr duration)"
   },
   "requirements": {
-    "a_level": "CCC",
-    "spm": "Credits in Mathematics, Physics, Chemistry, and English"
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics and Science",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": "R3/0532/6/0001 (01/2033) A9560",
   "description": "Covers sedimentology, stratigraphy, structural geology, geophysics, petroleum systems, and reservoir characterisation. Prepares graduates for careers in oil and gas exploration.",
-  "career_prospect": ["Geoscientist", "Exploration Geologist", "Reservoir Geologist", "Geophysicist", "Petroleum Geologist"],
+  "career_prospect": [
+    "Geoscientist",
+    "Exploration Geologist",
+    "Reservoir Geologist",
+    "Geophysicist",
+    "Petroleum Geologist"
+  ],
   "sources": [
     "https://www.utp.edu.my",
     "https://www.studymalaysia.com/edu/utp/courses/",
@@ -27,5 +50,9 @@
     "https://www.utp.edu.my/Academic/Faculties/Faculty-of-Science-Management-Computing/Department-of-Geoscience/Programme.aspx"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Science (Hons) in Petroleum Geoscience",
+  "program_name_zh": "Science (Hons) in Petroleum Geoscience学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

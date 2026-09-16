@@ -4,43 +4,176 @@
   "level": "bachelors",
   "total_programs": 35,
   "programs": [
-    { "program_name": "American Degree Transfer Programme (Science / Engineering)", "program_slug": "american-degree-transfer-programme-science-engineering" },
-    { "program_name": "Bachelor of Science (Hons) in Actuarial Studies", "program_slug": "bachelor-of-science-hons-in-actuarial-studies" },
-    { "program_name": "Bachelor of Science (Hons) Information Technology (Computer Networking and Security)", "program_slug": "bachelor-of-science-hons-information-technology-computer-networking-and-security" },
-    { "program_name": "Bachelor of Science (Hons) in Computer Science", "program_slug": "bachelor-of-science-hons-in-computer-science" },
-    { "program_name": "Bachelor of Arts (Hons) in Communication", "program_slug": "bachelor-of-arts-hons-in-communication" },
-    { "program_name": "Bachelor of Arts (Honours) Music Performance", "program_slug": "bachelor-of-arts-honours-music-performance" },
-    { "program_name": "Bachelor of Science (Hons) in Culinary Management", "program_slug": "bachelor-of-science-hons-in-culinary-management" },
-    { "program_name": "Bachelor of Arts (Hons) Digital Film Production", "program_slug": "bachelor-of-arts-hons-digital-film-production" },
-    { "program_name": "Bachelor of Science (Honours) Marketing", "program_slug": "bachelor-of-science-honours-marketing" },
-    { "program_name": "Bachelor of Science (Hons) Psychology", "program_slug": "bachelor-of-science-hons-psychology" },
-    { "program_name": "Bachelor of Arts (Hons) Contemporary Music (Audio Technology)", "program_slug": "bachelor-of-arts-hons-contemporary-music-audio-technology" },
-    { "program_name": "Bachelor of Science (Hons) Medical Biotechnology", "program_slug": "bachelor-of-science-hons-medical-biotechnology" },
-    { "program_name": "Bachelor of Science (Hons) in International Hospitality Management", "program_slug": "bachelor-of-science-hons-in-international-hospitality-management" },
-    { "program_name": "Bachelor of Science (Hons) Information Technology", "program_slug": "bachelor-of-science-hons-information-technology" },
-    { "program_name": "Bachelor of Science (Hons) Business Studies", "program_slug": "bachelor-of-science-hons-business-studies" },
-    { "program_name": "Bachelor of Science (Hons) Business Management", "program_slug": "bachelor-of-science-hons-business-management" },
-    { "program_name": "Bachelor of Arts (Honours) in Interior Architecture", "program_slug": "bachelor-of-arts-honours-in-interior-architecture" },
-    { "program_name": "Bachelor of Science (Hons) Financial Economics", "program_slug": "bachelor-of-science-hons-financial-economics" },
-    { "program_name": "Bachelor of Science (Honours) in Conventions and Events Management", "program_slug": "bachelor-of-science-honours-in-conventions-and-events-management" },
-    { "program_name": "Bachelor of Science (Hons) Financial Analysis", "program_slug": "bachelor-of-science-hons-financial-analysis" },
-    { "program_name": "Bachelor of Science (Honours) Biomedicine", "program_slug": "bachelor-of-science-honours-biomedicine" },
-    { "program_name": "Bachelor of Arts (Honours) Design Communication", "program_slug": "bachelor-of-arts-honours-design-communication" },
-    { "program_name": "Bachelor of Science Information Systems (Honours)(Data Analytics)", "program_slug": "bachelor-of-science-information-systems-honours-data-analytics" },
-    { "program_name": "Bachelor of Science (Hons) Global Supply Chain Management", "program_slug": "bachelor-of-science-hons-global-supply-chain-management" },
-    { "program_name": "Bachelor of Arts (Hons) Entrepreneurship", "program_slug": "bachelor-of-arts-hons-entrepreneurship" },
-    { "program_name": "Bachelor of Science (Hons) in International Business", "program_slug": "bachelor-of-science-hons-in-international-business" },
-    { "program_name": "Bachelor of Business Analytics (Honours)", "program_slug": "bachelor-of-business-analytics-honours" },
-    { "program_name": "Bachelor of Science (Hons) in Accounting and Finance", "program_slug": "bachelor-of-science-hons-in-accounting-and-finance" },
-    { "program_name": "Bachelor of Science (Hons) in Industrial Statistics", "program_slug": "bachelor-of-science-hons-in-industrial-statistics" },
-    { "program_name": "Bachelor of Arts (Hons) in Advertising & Branding", "program_slug": "bachelor-of-arts-hons-in-advertising-and-branding" },
-    { "program_name": "Bachelor (Honours) in Finance", "program_slug": "bachelor-honours-in-finance" },
-    { "program_name": "Bachelor of Science (Hons) Biology with Psychology", "program_slug": "bachelor-of-science-hons-biology-with-psychology" },
-    { "program_name": "Bachelor of Software Engineering (Hons)", "program_slug": "bachelor-of-software-engineering-hons" },
-    { "program_name": "American Degree Transfer Program (Arts) (Advanced Entry)", "program_slug": "american-degree-transfer-program-arts-advanced-entry" },
-    { "program_name": "American Degree Transfer Programme (Science / Engineering) (Advanced Entry)", "program_slug": "american-degree-transfer-programme-science-engineering-advanced-entry" },
-    { "program_name": "American Degree Transfer Program (Arts)", "program_slug": "american-degree-transfer-program-arts" },
-    { "program_name": "Bachelor of Electronic and Electrical Engineering with Honours", "program_slug": "bachelor-of-electronic-and-electrical-engineering-with-honours" }
+    {
+      "program_name": "American Degree Transfer Programme (Science / Engineering)",
+      "program_slug": "american-degree-transfer-programme-science-engineering"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in Actuarial Studies",
+      "program_slug": "bachelor-of-science-hons-in-actuarial-studies"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Information Technology (Computer Networking and Security)",
+      "program_slug": "bachelor-of-science-hons-information-technology-computer-networking-and-security"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in Computer Science",
+      "program_slug": "bachelor-of-science-hons-in-computer-science"
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) in Communication",
+      "program_slug": "bachelor-of-arts-hons-in-communication"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) Music Performance",
+      "program_slug": "bachelor-of-arts-honours-music-performance"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in Culinary Management",
+      "program_slug": "bachelor-of-science-hons-in-culinary-management"
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) Digital Film Production",
+      "program_slug": "bachelor-of-arts-hons-digital-film-production"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) Marketing",
+      "program_slug": "bachelor-of-science-honours-marketing"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Psychology",
+      "program_slug": "bachelor-of-science-hons-psychology"
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) Contemporary Music (Audio Technology)",
+      "program_slug": "bachelor-of-arts-hons-contemporary-music-audio-technology"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Medical Biotechnology",
+      "program_slug": "bachelor-of-science-hons-medical-biotechnology"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in International Hospitality Management",
+      "program_slug": "bachelor-of-science-hons-in-international-hospitality-management"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Information Technology",
+      "program_slug": "bachelor-of-science-hons-information-technology"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Business Studies",
+      "program_slug": "bachelor-of-science-hons-business-studies"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Business Management",
+      "program_slug": "bachelor-of-science-hons-business-management"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Interior Architecture",
+      "program_slug": "bachelor-of-arts-honours-in-interior-architecture"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Financial Economics",
+      "program_slug": "bachelor-of-science-hons-financial-economics"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) in Conventions and Events Management",
+      "program_slug": "bachelor-of-science-honours-in-conventions-and-events-management"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Financial Analysis",
+      "program_slug": "bachelor-of-science-hons-financial-analysis"
+    },
+    {
+      "program_name": "Bachelor of Science (Honours) Biomedicine",
+      "program_slug": "bachelor-of-science-honours-biomedicine"
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) Design Communication",
+      "program_slug": "bachelor-of-arts-honours-design-communication"
+    },
+    {
+      "program_name": "Bachelor of Science Information Systems (Honours)(Data Analytics)",
+      "program_slug": "bachelor-of-science-information-systems-honours-data-analytics"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Global Supply Chain Management",
+      "program_slug": "bachelor-of-science-hons-global-supply-chain-management"
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) Entrepreneurship",
+      "program_slug": "bachelor-of-arts-hons-entrepreneurship"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in International Business",
+      "program_slug": "bachelor-of-science-hons-in-international-business"
+    },
+    {
+      "program_name": "Bachelor of Business Analytics (Honours)",
+      "program_slug": "bachelor-of-business-analytics-honours"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in Accounting and Finance",
+      "program_slug": "bachelor-of-science-hons-in-accounting-and-finance"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in Industrial Statistics",
+      "program_slug": "bachelor-of-science-hons-in-industrial-statistics"
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) in Advertising & Branding",
+      "program_slug": "bachelor-of-arts-hons-in-advertising-and-branding"
+    },
+    {
+      "program_name": "Bachelor (Honours) in Finance",
+      "program_slug": "bachelor-honours-in-finance"
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Biology with Psychology",
+      "program_slug": "bachelor-of-science-hons-biology-with-psychology"
+    },
+    {
+      "program_name": "Bachelor of Software Engineering (Hons)",
+      "program_slug": "bachelor-of-software-engineering-hons"
+    },
+    {
+      "program_name": "American Degree Transfer Program (Arts) (Advanced Entry)",
+      "program_slug": "american-degree-transfer-program-arts-advanced-entry"
+    },
+    {
+      "program_name": "American Degree Transfer Programme (Science / Engineering) (Advanced Entry)",
+      "program_slug": "american-degree-transfer-programme-science-engineering-advanced-entry"
+    },
+    {
+      "program_name": "American Degree Transfer Program (Arts)",
+      "program_slug": "american-degree-transfer-program-arts"
+    },
+    {
+      "program_name": "Bachelor of Electronic and Electrical Engineering with Honours",
+      "program_slug": "bachelor-of-electronic-and-electrical-engineering-with-honours"
+    }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

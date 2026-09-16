@@ -14,9 +14,24 @@
     "international": "RM33,400/Yr",
     "local_total": 42000,
     "currency": "MYR",
-    "international_total": 50000
+    "international_total": 50000,
+    "per_year_local": 10500,
+    "notes": " (per_year based on 4.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -32,6 +47,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-education-hons-tesol"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-education-hons-tesol",
+  "program_name_ar": "بكالوريوس Education (Hons) TESOL",
+  "program_name_zh": "Education (Hons) TESOL学士",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

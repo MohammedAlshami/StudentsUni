@@ -7,27 +7,32 @@
   "field": "Accounting & Finance",
   "duration": "FT: 1+ year; PT: 2 years 6 months",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM38,800.00",
     "international": "RM42,000.00",
     "local_total": 34800,
-    "international_total": 38800
+    "international_total": 38800,
+    "per_year_local": 17400,
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "GENERAL REQUIREMENTS Bachelor’s degree in related fields with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a minimum of 5 years working experience in the relevant fields. (Applicants with Bachelor’s Degree in Business, Economics, Software Engineering, Banking &amp; Finance, Engineering, Actuarial Science, Mathematics, and Statistics may be considered for entry to the Master of Finance programme.) Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by the Malaysian Qualifications Agency (MQA). ENGLISH REQUIREMENTS IELTS: 6.5"
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": "MQA",
   "sources": [
@@ -40,5 +45,9 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Finance",
+  "program_name_zh": "Finance硕士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

@@ -6,15 +6,55 @@
   "state": "Penang",
   "city": "Gelugor",
   "website": "https://www.usm.my",
-  "levels_available": ["bachelor", "master", "phd"],
-  "program_counts": {"bachelor": 64, "master": 180, "phd": 82},
-  "sources": [
-    {"url": "https://www.usm.my", "publisher": "Universiti Sains Malaysia", "fetched_at": "2026-09-14"},
-    {"url": "https://admission.usm.my/index.php/main/undergraduate", "publisher": "USM Admissions", "fetched_at": "2026-09-14"},
-    {"url": "https://admission.usm.my/index.php/main/postgraduate", "publisher": "USM Admissions", "fetched_at": "2026-09-14"},
-    {"url": "https://admission.usm.my/index.php/postgraduate/fee-pg", "publisher": "USM Admissions", "fetched_at": "2026-09-14"},
-    {"url": "https://studymalaysia.com/edu/usm/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"},
-    {"url": "https://studymalaysia.com/edu/usm/courses/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"}
+  "levels_available": [
+    "bachelor",
+    "master",
+    "phd"
   ],
-  "last_updated": "2026-09-14"
+  "program_counts": {
+    "bachelor": 64,
+    "master": 180,
+    "phd": 82
+  },
+  "sources": [
+    {
+      "url": "https://www.usm.my",
+      "publisher": "Universiti Sains Malaysia",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://admission.usm.my/index.php/main/undergraduate",
+      "publisher": "USM Admissions",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://admission.usm.my/index.php/main/postgraduate",
+      "publisher": "USM Admissions",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
+      "publisher": "USM Admissions",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/usm/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://studymalaysia.com/edu/usm/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    }
+  ],
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 4200,
+    "international_total": null,
+    "per_year_local": 1400,
+    "per_year_international": null,
+    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+  }
 }

@@ -27,11 +27,23 @@
     },
     "currency": "MYR",
     "local_total": 75000,
-    "per_year_local": null
+    "per_year_local": 25000,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "local": "STPM / A-Level / equivalent with minimum CGPA in relevant subjects, or UNITEN Foundation",
-    "international": "Varies by country. Check MQA requirements."
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    },
+    "malaysian": {
+      "spm": "3-5 Credits (C) including relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    }
   },
   "accreditation": {
     "mqa_code": null,
@@ -47,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Computer Science (Cyber Security) (Hons)",
+  "program_name_zh": "Computer Science (Cyber Security) (Hons)学士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

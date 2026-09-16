@@ -14,11 +14,26 @@
   "fees": {
     "local": "RM66,750",
     "international": "RM73,850",
-    "local_total": 29467,
+    "local_total": 29466,
     "currency": "MYR",
-    "international_total": 31867
+    "international_total": 31867,
+    "per_year_local": 9822,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Mathematics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/iumw/courses/",
@@ -34,6 +49,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-accounting-hons"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-accounting-hons",
+  "program_name_ar": "بكالوريوس Accounting (Hons)",
+  "program_name_zh": "Accounting (Hons)学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

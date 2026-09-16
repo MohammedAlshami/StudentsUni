@@ -7,7 +7,11 @@
   "field": "Mechanical Engineering",
   "duration": "2-3 Years (FT) / 3-4 Years (PT)",
   "mode": "Full-time / Part-time",
-  "intakes": null,
+  "intakes": [
+    "January",
+    "July",
+    "September"
+  ],
   "fees": {
     "local": {
       "tuition": "RM14,800",
@@ -19,10 +23,24 @@
       "registration": "USD1,650 (RM6,600) (one-time)"
     },
     "currency": "MYR",
-    "local_total": 14800,
-    "per_year_local": null
+    "local_total": 14799,
+    "per_year_local": 4933,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "MQA",
   "college": "College of Graduate Studies (COGS)",
   "structure": "By Research (Structure A)",
@@ -36,5 +54,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science in Mechanical Engineering",
+  "program_name_zh": "Science in Mechanical Engineering硕士",
+  "field_ar": "الهندسة الميكانيكية",
+  "field_zh": "机械工程"
 }

@@ -8,7 +8,12 @@
   "address": "No.1, Jalan UCSI, Taman Connaught, 56000 Kuala Lumpur",
   "phone": "603 9101 8880",
   "fax": "603 9102 2614",
-  "campuses": ["Kuala Lumpur", "Sarawak", "Bandar Springhill", "Bangladesh"],
+  "campuses": [
+    "Kuala Lumpur",
+    "Sarawak",
+    "Bandar Springhill",
+    "Bangladesh"
+  ],
   "faculties": [
     "Actuarial Science and Data Analytics",
     "Applied Sciences",
@@ -29,5 +34,13 @@
     "https://www.ucsiuniversity.edu.my",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

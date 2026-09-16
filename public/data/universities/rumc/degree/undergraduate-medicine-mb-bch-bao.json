@@ -12,13 +12,32 @@
   ],
   "fees": {
     "local": "RM 620,000",
-    "international": "EUR 155,000"
+    "international": "EUR 155,000",
+    "local_total": 620000,
+    "per_year_local": 124000
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "R3/721/6/0009 (06/28) (MQA/FA4397)",
   "sources": [
     "https://www.rumc.edu.my/programmes/undergraduate-medicine/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Undergraduate Medicine (MB BCh BAO)",
+  "program_name_zh": "Undergraduate Medicine (MB BCh BAO)",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

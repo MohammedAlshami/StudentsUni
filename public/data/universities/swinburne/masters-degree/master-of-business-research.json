@@ -7,7 +7,11 @@
   "slug": "master-of-business-research",
   "duration": "FT(2 Years) & PT(4 Years)",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM30,060",
     "international": "RM38,300",
@@ -25,5 +29,9 @@
     "https://www.swinburne.edu.my/?p=31477"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business (Research)",
+  "program_name_zh": "Business (Research)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -7,7 +7,10 @@
   "field": "Agriculture, Forestry, Fishery & Veterinary",
   "duration": "7 Sem",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "local": "Enquire",
     "international": "Enquire",
@@ -18,11 +21,28 @@
     "international_total": 18900,
     "per_year_international": 5400
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Biology",
+      "stpm": "2 Principals (C+) including Biology",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/unisza/courses/"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Plant Breeding Technology (Hons)",
+  "program_name_zh": "Plant Breeding Technology (Hons)学士",
+  "field_ar": "الزراعة",
+  "field_zh": "农学"
 }

@@ -15,7 +15,9 @@
     "international": "Refer to University",
     "local_total": 37200,
     "currency": "MYR",
-    "international_total": 32150
+    "international_total": 32150,
+    "per_year_local": 18600,
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": null,
   "accreditation": null,
@@ -33,5 +35,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Clinical Psychology",
+  "program_name_zh": "Clinical Psychology硕士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

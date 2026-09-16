@@ -14,20 +14,22 @@
     "international": "RM55,200/Yr",
     "local_total": 55000,
     "currency": "MYR",
-    "international_total": 65000
+    "international_total": 65000,
+    "per_year_local": 13750,
+    "notes": " (per_year based on 4.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Mathematics and Physics",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "Any one of these: A Level: BBC, including Mathematics and Physics, excluding Critical Thinking and General Studies. IB Diploma: 26 points with 5, 4 at Higher Level, including Mathematics: Analysis and Approaches (HL) and Physics (HL). STPM: BBC+, including Mathematics and Physics, excluding Pengajian Am. UEC: 5 B3s including Mathematics and Physics, excluding Bahasa Malaysia and Chinese language. Australian Year 12: ATAR 82. Applicants must meet specific grade standards in Mathematics and Physics, aligned with A Level subject requirements. For WACE, both Mathematics Methods and Mathematics Specialist are required. For SACE, both Mathematical Methods and Specialist Mathematics are required. Other states and territories will be reviewed on a case-by-case basis. Ontario Secondary School Diploma (OSSD): 77% average based on 6 subjects, including Advanced Functions, Calculus and Vectors, and Physics. Applicants must meet specific grade requirements for subjects required at A Level: 75% for C and 81% for B. Canadian Secondary School Diplomas: Other provinces will be assessed based on the University’s requirements. Gaokao (NCEE) and Senior High School Diploma (China): 70% average in the Gaokao, including at least 75% in Mathematics and 73% in Physics. A minimum of 70% overall in the Senior High School Diploma with at least 70% in Mathematics and Physics. CBSE / CISCE - Class XII (India): 78% average from the best four subjects, including Mathematics and Physics (80% and 70%, respectively). CBSE Applied Mathematics is not accepted for the Mathematics requirement. Advance Placement (AP): 4, 4, 3, including AP Calculus and AP Physics. Diploma - Local Institutions: Entry to Year 2 is assessed on a case-by-case basis, typically requiring a minimum GPA of 3.20 out of 4.0 and good grades in relevant subjects, including Mathematics and Physics. Foundation - Local Institutions: Acceptance is at the School’s discretion and requires a minimum GPA of 3.20 out of 4.0 with good grades in relevant subjects, including Mathematics and Physics. Nottingham&#39;s Foundation Programme: Successful completion with a minimum score of 45% in all Mathematics and Physics modules. English Language Requirements IELTS (Academic): 6.0 (with no less than 5.5 in each element). TOEFL (iBT): 80 (minimum 17 in Writing and Listening, 18 in Reading and 20 in Speaking). PTE (Academic): 65 (with no less than 59 in each element). GCE A Level English Language or English Literature: Grade C. SPM: CEFR level B2. GCSE O-Level: Grade C / 4. IGCSE (first language): Grade C / 4. IGCSE (second language): Grade B / 6. MUET: Band 4. UEC: Grade B3. IB English A1 or A2 (Standard or Higher Level): 4 points. IB English B (Higher Level): 4 points. OSSD English (ENG3U / ENG4U): 75%. CBSE/CISCE Class XII or Class X: 70% overall (confirmation of English as the medium of instruction required). Notes: IELTS, TOEFL, and PTE (Academic) results must be less than two years old. IELTS One Skill Retake is accepted. IELTS Academic Online, TOEFL iBT Home Edition, and PTE Academic Online are not accepted. MUET results are valid for five years from the release date. OSSD English (ENG3U/ENG4U) with the required grades will only be accepted if applicants have completed all 30 credits from standard OSSD courses, not through credit exemptions. Fast-track routes are not accepted. CBSE/CISCE Class XII or Class X English with the required grades will only be accepted if applicants provide a confirmation letter stating that English was the medium of instruction throughout schooling from Class X to Class XII."
   },
@@ -51,6 +53,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-engineering-hons-electrical-and-electronic-engineering"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-engineering-hons-electrical-and-electronic-engineering",
+  "program_name_ar": "بكالوريوس Engineering (Hons) Electrical & Electronic Engineering",
+  "program_name_zh": "Engineering (Hons) Electrical & Electronic Engineering学士",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

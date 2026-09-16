@@ -15,11 +15,26 @@
   "fees": {
     "local": "Refer to University",
     "international": "Refer to University",
-    "local_total": 21100,
+    "local_total": 21099,
     "currency": "MYR",
-    "international_total": 16434
+    "international_total": 16434,
+    "per_year_local": 7033,
+    "notes": " (per_year based on 3.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/CUCMS/0058803/",
@@ -35,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه Business Administration",
+  "program_name_zh": "Business Administration博士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

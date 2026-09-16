@@ -18,20 +18,22 @@
     "international": "Refer to newinti.edu.my",
     "local_total": 24075,
     "currency": "MYR",
-    "international_total": 24075
+    "international_total": 24075,
+    "per_year_local": 8025,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including relevant subjects",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "Entry Level and Requirements Foundation : Completion of Foundation Programme, Credit in English at SPM level Diploma : Completion of Diploma in relevant fields with minimum CGPA of 2.0, Credit in English at SPM level UEC : 5Bs including English STPM : Grade C in 2 subjects or CGPA 2.00, Credit in English at SPM level A-Level : 2 Grade Ds in 2 subjects or CGPA 2.00, Credit in English at SPM level SACE : 5 subjects with ATAR 55 NSW (HSC) : 10 units with ATAR 55 Australian Year 12 : 4 or 5 passes with ATAR of 55 Australian Degree Transfer Program (ADTP) : Completion of ADTP Matriculation/Pre-University : Completion of Matriculation/ Pre-University programme with a minimum CGPA of 2.0, Credit in English at SPM level Others : Other equivalent qualifications as recognised by the government of Malaysia Note: International students are subject to meet entry requirements that reflect similar qualifications and experience as stated above."
   },
@@ -57,5 +59,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Mass Communication (Hons)",
+  "program_name_zh": "Mass Communication (Hons)学士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

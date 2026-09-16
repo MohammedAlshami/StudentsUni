@@ -15,16 +15,25 @@
     "local": "From RM41,740",
     "international": "International Administrative Fee RM1,980 per year",
     "currency": "MYR",
-    "local_total": 29925,
-    "per_year_local": null,
-    "notes": "Fee: FromRM41,740.00",
+    "local_total": 29924,
+    "per_year_local": 14962,
+    "notes": "Fee: FromRM41,740.00 (per_year based on 2.0yr duration)",
     "international_total": 32175
   },
-  "requirements": [
-    "SPM/SPMV/O-Level Pass with minimum 3 credits",
-    "UEC Pass with minimum 3 grade Bs",
-    "Other qualifications considered on a case-to-case basis"
-  ],
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics and Physics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": "MQA/FA 0076 3/6/2013 JPT/BPP(U)1000-801/57/Jld.13(27)",
   "awarding_country": "Malaysia",
   "exam_body": "Le Cordon Bleu",
@@ -44,5 +53,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Culinary Arts",
+  "program_name_zh": "Culinary Arts文凭",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

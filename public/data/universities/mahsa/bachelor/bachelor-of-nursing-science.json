@@ -3,14 +3,17 @@
   "field": "",
   "duration": "42 months",
   "mode": "Onsite",
-  "intakes": [],
+  "intakes": [
+    "Apr",
+    "Sep"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 78900,
+    "local_total": 78897,
     "international_total": 83300,
-    "per_year_local": null,
+    "per_year_local": 22542,
     "per_year_international": null,
-    "notes": ""
+    "notes": " (per_year based on 3.5yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -39,5 +42,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Sport Science (Honours)",
+  "program_name_zh": "Sport Science (Honours)学士"
 }

@@ -7,23 +7,46 @@
   "slug": "master-of-data-science",
   "duration": "FT: Min 2 Sem/Max 4 Sem",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": ["September"],
+  "intakes": [
+    "September"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 19200,
     "international_total": 8000,
-    "per_year_local": null,
+    "per_year_local": 19200,
     "per_year_international": null,
-    "notes": "Total fees from USM fee schedule (2025/2026). International fees in USD."
+    "notes": "Total fees from USM fee schedule (2025/2026). International fees in USD. (per_year based on 1.0yr duration)"
   },
   "requirements": {
-    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
-    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
-  "accreditation": {"mqa_status": "Full Accreditation", "mqa_ref": null},
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
   "sources": [
-    {"url": "https://admission.usm.my/index.php/postgraduate/fee-pg", "publisher": "USM Admissions", "fetched_at": "2026-09-14"}
+    {
+      "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
+      "publisher": "USM Admissions",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Data Science",
+  "program_name_zh": "Data Science硕士",
+  "field_ar": "Computing",
+  "field_zh": "Computing"
 }

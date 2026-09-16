@@ -4,13 +4,29 @@
     "program_name": "Foundation In Arts",
     "field": "Arts",
     "duration": "1 Year",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 45000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   },
   {
     "slug": "foundation-in-science",
     "program_name": "Foundation In Science",
     "field": "Science",
     "duration": "1 Year",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 45000,
+      "international_total": null,
+      "per_year_local": 45000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   }
 ]

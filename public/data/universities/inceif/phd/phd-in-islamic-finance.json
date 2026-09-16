@@ -7,27 +7,31 @@
   "field": "islamic-finance",
   "duration": "8 semesters / 4 years",
   "mode": "Face-To-Face",
-  "intakes": [],
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 100000,
     "international_total": null,
-    "per_year_local": "By semester",
-    "per_year_international": "By semester",
-    "notes": ""
+    "per_year_local": 25000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM25000/year for typical private university programme"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة Finance",
+  "program_name_zh": "哲学博士 Finance",
+  "field_ar": "التمويل",
+  "field_zh": "金融学"
 }

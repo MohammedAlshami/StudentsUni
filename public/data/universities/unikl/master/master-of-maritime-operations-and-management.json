@@ -7,22 +7,30 @@
   "field": "Maritime & Logistics",
   "duration": "18 months",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": {},
+  "intakes": [
+    "July"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 33000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme"
+  },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Entry Level and Requirements For Local Students   A Bachelor’s degree (level 6 / MQF) or equivalent with a minimum CGPA of 2.50 in related field, as endorsed by the Senate of UniKL; or A Bachelor’s degree (level 6 / MQF) or equivalent with CGPA not meeting 2.50, can be accepted but with 5 years working experience in related sector as endorsed by the Senate of UniKL; or Professionals qualifications recognised by the Public Service Department as equivalent to a Bachelor’s degree (level 6 / MQF); or Other qualifications recognized by the Government of Malaysia. For International Students Bachelor&#39;s degree (Level 6/MQF) or equivalent with minimum CGPA of 2.50 in a related field. CGPA below 2.50 may be accepted with 5 years of related work experience. IELTS 6.0, TOEFL 550 or equivalent."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -35,5 +43,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Maritime Operations and Management",
+  "program_name_zh": "Maritime Operations and Management硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }

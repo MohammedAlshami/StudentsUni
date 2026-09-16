@@ -9,14 +9,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R/221/4/0213A (21/3/2027) (MQA/FA8228)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma-in-islamic-studies?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -28,14 +35,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0224/4/0030 (3/5/2029) (A9729)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma-in-tahfiz-al-quran-and-qiraat-studies?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -47,14 +61,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0413/4/0018 (17/6/2029) (A9713)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma-in-islamic-banking?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -66,14 +87,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R2/811/4/0347A (14/1/2028) (MQA/FA2215)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma-in-culinary-arts?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -85,14 +113,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0411/4/0117 (1/12/2028) (A9704)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -104,14 +139,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0414/4/0248 (1/12/2028) (A9705)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma-in-business-management?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -123,14 +165,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0211/4/0112 (4/2/2029) (A9641)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma-in-graphic-design?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -142,14 +191,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0211/4/0111 (4/2/2029) (A9642)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma-in-creative-multimedia?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -161,14 +217,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/1013/4/0118 (18/11/2029) (A9946)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma-in-hotel-management?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -180,14 +243,21 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R2/812/4/0035A (12/1/2028) (MQA/FA2214)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma-in-tourism-management?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   },
   {
     "university": "Sultan Abdul Halim Mu'adzam Shah International Islamic University",
@@ -199,13 +269,20 @@
     "duration": null,
     "mode": null,
     "intakes": null,
-    "fees": null,
+    "fees": {
+      "currency": "MYR",
+      "local_total": 40000,
+      "international_total": null,
+      "per_year_local": 16000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    },
     "requirements": null,
     "accreditation": "R3/0611/4/0077 (11/1/2029) (A9703)",
     "sources": [
       "https://unishams.edu.my/component/content/article/diploma-in-information-technology?catid=11"
     ],
     "confidence": 0.9,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-16"
   }
 ]

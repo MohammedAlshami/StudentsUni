@@ -9,8 +9,12 @@
       "field": "Business Management & Administration",
       "duration": "Minimum 3 years",
       "mode": "Flexible Full-time/Part-time Mode",
-      "fees": { "local": "RM37,000.00" },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0007881/"]
+      "fees": {
+        "local": "RM37,000.00"
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0007881/"
+      ]
     },
     {
       "program_name": "Doctor of Philosophy (Business, Management and Entrepreneurship)",
@@ -18,8 +22,12 @@
       "field": "Business Management & Administration",
       "duration": "Full-time: min 3 years, max 5 years. Part-time: min 4 years, max 8 years.",
       "mode": "Flexible Full-time/Part-time Mode",
-      "fees": { "local": "RM35,000" },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058736/"]
+      "fees": {
+        "local": "RM35,000"
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058736/"
+      ]
     },
     {
       "program_name": "Doctor of Philosophy (Psychology)",
@@ -27,8 +35,12 @@
       "field": "Social Sciences",
       "duration": "3 years (full-time). Part-time options available.",
       "mode": "Flexible Full-time/Part-time Mode",
-      "fees": { "local": "RM48,100 (including Application Fee, Registration Fee, Resources Fee and Tuition Fee)" },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058738/"]
+      "fees": {
+        "local": "RM48,100 (including Application Fee, Registration Fee, Resources Fee and Tuition Fee)"
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058738/"
+      ]
     },
     {
       "program_name": "Doctor of Philosophy in Education",
@@ -36,8 +48,12 @@
       "field": "Education",
       "duration": "3-year programme (1 year coursework + 2 years dissertation)",
       "mode": "Flexible Full-time/Part-time Mode",
-      "fees": { "local": "RM50,000.00" },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0058739/"]
+      "fees": {
+        "local": "RM50,000.00"
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0058739/"
+      ]
     },
     {
       "program_name": "Doctor of Philosophy (Open & Distance Learning – ODL)",
@@ -45,8 +61,20 @@
       "field": "Business Management & Administration",
       "duration": "Full-time: min 3 years, max 5 years. Part-time: min 4 years, max 8 years.",
       "mode": "Flexible Full-time/Part-time Mode",
-      "fees": { "local": "RM38,000.00" },
-      "sources": ["https://studymalaysia.com/what/course/HELP/0059083/"]
+      "fees": {
+        "local": "RM38,000.00"
+      },
+      "sources": [
+        "https://studymalaysia.com/what/course/HELP/0059083/"
+      ]
     }
-  ]
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 105000,
+    "international_total": null,
+    "per_year_local": 35000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+  }
 }

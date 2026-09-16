@@ -17,20 +17,22 @@
     "international": "Refer to newinti.edu.my",
     "local_total": 27565,
     "currency": "MYR",
-    "international_total": 27565
+    "international_total": 27565,
+    "per_year_local": 5513,
+    "notes": " (per_year based on 5.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "5 Credits (C+) including Biology, Chemistry, Physics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
     },
     "general_text": "Entry Level and Requirements STPM (science stream) : Pass with a minimum CGPA of 2.50 and above STPM (arts stream) : Pass with a minimum CGPA of 2.50 and above and credit in Mathematics and 2 Science subjects at SPM level STAM : Pass with minimum Grade Jayyid and credit** in Mathematics and 2 Science subjects at SPM level Matriculation/Foundation : Completion of Foundation Programme (Science) or TCM related areas with a minimum of CGPA 2.50 and above. Completion of Foundation in other fields with a minimum of CGPA 2.50 and above and credit in Mathematics and 2 Science subjects at SPM level Diploma : Minimum CGPA of 2.5 and above in TCM related areas or any Science related; OR CGPA of 2.00 and above but less than 2.50 can be accepted with minimum 2 years working experience in relevant TCM or Science related field English Language Requirements (International Students) MUET Band 3.5 or equivalent Note: Students are required to sit for a Mandarin Challenge Test **the credit requirements for Mathematics and Science subjects can be waived should students hold any other higher qualifications which contain Mathematics and Science subjects with equivalent/ higher achievement  "
   },
@@ -56,5 +58,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Traditional Chinese Medicine (Hons)",
+  "program_name_zh": "Traditional Chinese Medicine (Hons)学士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

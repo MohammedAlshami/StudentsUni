@@ -6,23 +6,44 @@
   "field": "Business and Management",
   "duration": "3-4 Years",
   "mode": "Full-time/Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "local": "RM 45,870 - RM 51,720",
     "international": "RM 62,868 - RM 70,743",
     "currency": "MYR",
-    "local_total": 45870,
+    "local_total": 183480,
     "international_total": 62868,
     "per_year_local": 45870,
     "per_year_international": 62868,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057294/",
     "https://www.studymalaysia.com/edu/ucsi/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Business and Management)",
+  "program_name_zh": "哲学博士 (Business and Management)",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

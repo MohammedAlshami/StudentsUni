@@ -4,6 +4,14 @@
     "program_name": "Foundation in Computing and Engineering",
     "field": "Computing",
     "duration": "1 Year",
-    "mode": "Full-time"
+    "mode": "Full-time",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 66000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    }
   }
 ]

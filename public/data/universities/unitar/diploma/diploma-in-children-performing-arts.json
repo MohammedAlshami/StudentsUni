@@ -7,15 +7,32 @@
   "slug": "diploma-in-children-performing-arts",
   "duration": "2 Yrs 4 Mths (7 Sem)",
   "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": null,
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ],
   "fees": {
     "local": "21980/Course",
     "international": "21980/Course",
-    "local_total": 21980,
+    "local_total": 33015,
     "per_year_local": 9433,
     "notes": "Estimated total fees (local) for full course duration"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/UNITAR/0005987/",
@@ -26,5 +43,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Children Performing Arts",
+  "program_name_zh": "Children Performing Arts文凭",
+  "field_ar": "Social Services",
+  "field_zh": "Social Services"
 }

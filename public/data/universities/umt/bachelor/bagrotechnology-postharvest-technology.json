@@ -7,23 +7,43 @@
   "program_slug": "bagrotechnology-postharvest-technology",
   "field": "Agrotechnology",
   "faculty": "Faculty of Food Science and Agrotechnology",
-  "duration": null,
+  "duration": "3 years",
   "mode": "full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 7600,
+    "local_total": 5700,
     "international_total": 22800,
     "per_year_local": 1900,
     "per_year_international": 5700,
     "notes": "Standard public university fees (MQA regulated)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) including Mathematics",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
+  },
   "accreditation": "MQA/FA6621002",
   "sources": [
     "https://umt.my/all-programs-at-umt/",
     "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Agrotechnology (Postharvest Technology) with Honours",
+  "program_name_zh": "Agrotechnology (Postharvest Technology) with Honours学士",
+  "field_ar": "Agrotechnology",
+  "field_zh": "Agrotechnology"
 }

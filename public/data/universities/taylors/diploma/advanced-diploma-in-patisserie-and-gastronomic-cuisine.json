@@ -14,13 +14,26 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 35090,
+    "local_total": 33030,
     "international_total": 49494,
     "per_year_local": 33030,
     "per_year_international": 12597,
     "notes": "Fee data from StudyMalaysia."
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including relevant subjects",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/advanced-diploma-in-patisserie-and-gastronomic-cuisine.html",
@@ -37,5 +50,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "Advanced Diploma in Patisserie and Gastronomic Cuisine",
+  "program_name_zh": "Advanced Diploma in Patisserie and Gastronomic Cuisine",
+  "field_ar": "الفنون",
+  "field_zh": "文学"
 }

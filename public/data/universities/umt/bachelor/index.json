@@ -232,14 +232,14 @@
     }
   ],
   "total": 37,
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 4200,
     "international_total": null,
-    "per_year_local": 2260.0,
+    "per_year_local": 1400,
     "per_year_international": null,
-    "notes": "Per semester: 1130-1630/Sem"
+    "notes": "Estimated ~RM700/semester for public university (subsidized)"
   },
   "sources": [
     "https://www.studymalaysia.com/edu/umt/courses/"

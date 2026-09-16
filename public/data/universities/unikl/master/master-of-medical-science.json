@@ -7,22 +7,30 @@
   "field": "Medical Sciences",
   "duration": "2 years",
   "mode": "Full-time",
-  "intakes": null,
-  "fees": {},
+  "intakes": [
+    "July"
+  ],
+  "fees": {
+    "currency": "MYR",
+    "local_total": 120000,
+    "international_total": null,
+    "per_year_local": 60000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 2.0yr duration)"
+  },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Entry Level and Requirements For Local Students   A bachelor’s degree or equivalent with minimum CGPA of 2.75 in related field, as accepted by the HEP Senate; or A bachelor’s degree or equivalent with CGPA between 2.50 and 2.75, can be accepted subject to rigorous internal assessment; or A bachelor’s degree or equivalent in related field with CGPA of less than 2.50 and a minimum of 5 years working experience in the related field; or Doctor of Medicine (MD), Bachelor of medicine and Bachelor of Surgery (MBBS) (Level 6, MQF) or equivalent For International Students Bachelor&#39;s in a related field with minimum CGPA of 2.75 from approved institutions. CGPA between 2.50 and 2.75 may be accepted after rigorous internal assessment. CGPA below 2.50 requires at least 5 years of relevant work experience. IELTS 5.0-6.5 or equivalent."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -34,5 +42,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Medical Science",
+  "program_name_zh": "Medical Science硕士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

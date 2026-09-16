@@ -14,9 +14,24 @@
     "international": "RM57,180",
     "local_total": 55000,
     "currency": "MYR",
-    "international_total": 65000
+    "international_total": 65000,
+    "per_year_local": 13750,
+    "notes": " (per_year based on 4.0yr duration)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/nottingham/courses/",
@@ -27,6 +42,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "msc-civil-engineering"
+  "last_updated": "2026-09-16",
+  "slug": "msc-civil-engineering",
+  "program_name_ar": "M.Sc. (Civil Engineering)",
+  "program_name_zh": "M.Sc. (Civil Engineering)",
+  "field_ar": "الهندسة",
+  "field_zh": "工程学"
 }

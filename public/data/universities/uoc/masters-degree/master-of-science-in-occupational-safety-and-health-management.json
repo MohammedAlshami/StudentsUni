@@ -16,7 +16,9 @@
     "international": "Refer to University",
     "local_total": 22350,
     "currency": "MYR",
-    "international_total": 23400
+    "international_total": 23400,
+    "per_year_local": 11175,
+    "notes": " (per_year based on 2.0yr duration)"
   },
   "requirements": {
     "malaysian": {
@@ -53,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Science in Occupational Safety and Health Management",
+  "program_name_zh": "Science in Occupational Safety and Health Management硕士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

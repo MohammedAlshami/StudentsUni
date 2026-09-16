@@ -17,7 +17,7 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 16550,
+    "local_total": 200,
     "international_total": 25347,
     "per_year_local": 100,
     "per_year_international": 36,
@@ -28,15 +28,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Any one of these: A Bachelor&#39;s degree (Level 6, MQF) or equivalent with minimum CGPA of 2.75 in the relevant field, as accepted by the HEP&#39;s Senate Candidates with a Bachelor&#39;s degree (Level 6, MQF) or equivalent with at least CGPA of 2.50 in the relevant field and has not achieved CGPA 2.75, can be accepted subject to rigorous internal assessment; Candidates with a Bachelor’s degree (Level 6, MQF) or equivalent with CGPA of less than 2.50 in the relevant field and a minimum of five (5) years working experience in the relevant field; Other relevant equivalent qualifications recognized by the Malaysian Government and Pass an interview OR submission of a portfolio determined by the HEP as required. English Requirements (International Students): IELTS 6.0 / TOEFL 60 (Internet Based Test) (May join IEN preparatory course and achieve the IELTS score) The validity of the IELTS or equivalent is within 2 years from the date of the examination."
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -59,5 +58,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Design",
+  "program_name_zh": "Design硕士",
+  "field_ar": "التصميم",
+  "field_zh": "设计学"
 }

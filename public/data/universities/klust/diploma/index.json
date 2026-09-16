@@ -1,9 +1,93 @@
 [
-  {"slug": "diploma-in-agricultural-science", "name": "Diploma in Agricultural Science (Plantation Management)", "field": "Agriculture"},
-  {"slug": "diploma-in-architecture", "name": "Diploma in Architecture", "field": "Architecture"},
-  {"slug": "diploma-in-automotive-engineering", "name": "Diploma in Automotive Engineering", "field": "Engineering"},
-  {"slug": "diploma-in-business-administration", "name": "Diploma in Business Administration", "field": "Business"},
-  {"slug": "diploma-in-english-for-professional-communication", "name": "Diploma in English for Professional Communication", "field": "Languages"},
-  {"slug": "diploma-in-information-technology", "name": "Diploma in Information Technology", "field": "Computing"},
-  {"slug": "diploma-in-sports-management", "name": "Diploma in Sports Management", "field": "Sports"}
+  {
+    "slug": "diploma-in-agricultural-science",
+    "name": "Diploma in Agricultural Science (Plantation Management)",
+    "field": "Agriculture",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
+  },
+  {
+    "slug": "diploma-in-architecture",
+    "name": "Diploma in Architecture",
+    "field": "Architecture",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
+  },
+  {
+    "slug": "diploma-in-automotive-engineering",
+    "name": "Diploma in Automotive Engineering",
+    "field": "Engineering",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
+  },
+  {
+    "slug": "diploma-in-business-administration",
+    "name": "Diploma in Business Administration",
+    "field": "Business",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
+  },
+  {
+    "slug": "diploma-in-english-for-professional-communication",
+    "name": "Diploma in English for Professional Communication",
+    "field": "Languages",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
+  },
+  {
+    "slug": "diploma-in-information-technology",
+    "name": "Diploma in Information Technology",
+    "field": "Computing",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
+  },
+  {
+    "slug": "diploma-in-sports-management",
+    "name": "Diploma in Sports Management",
+    "field": "Sports",
+    "fees": {
+      "currency": "MYR",
+      "local_total": 66000,
+      "international_total": null,
+      "per_year_local": 22000,
+      "per_year_international": null,
+      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    }
+  }
 ]

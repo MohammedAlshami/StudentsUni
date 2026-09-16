@@ -8,7 +8,10 @@
   "field": "Accounting & Finance",
   "duration": "8 Semesters",
   "mode": "Full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": null
+  },
   "fees": {
     "local": "RM 501/semester",
     "international": null,
@@ -22,7 +25,19 @@
   "requirements": {
     "general": "SPM with credits in Bahasa Melayu and Sejarah; STPM/Matriculation/Diploma with CGPA 2.00",
     "specific": null,
-    "muet": "Band 1"
+    "muet": "Band 1",
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) including Mathematics",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_program_code": null,
@@ -38,5 +53,9 @@
     "https://admission.usim.edu.my/undergraduate-studies/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Islamic Banking and Finance (Hons)",
+  "program_name_zh": "Islamic Banking and Finance (Hons)学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

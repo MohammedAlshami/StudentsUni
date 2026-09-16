@@ -14,20 +14,22 @@
     "international": "RM43,830/Yr",
     "local_total": 45000,
     "currency": "MYR",
-    "international_total": 50000
+    "international_total": 50000,
+    "per_year_local": 15000,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Any relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     },
     "general_text": "Any one of these: A Level BCC in either arts or science subjects (excluding Critical Thinking and General Studies). A Level Psychology is not required. International Baccalaureate (IB) Diploma Minimum of 24 points overall. STPM Grades of BC + C+ (excluding Pengajian Am). Unified Examination Certificate (UEC) 3 B3s and 2 B4s (excluding Bahasa Malaysia and Chinese Language). Australian Year 12 ATAR of 78, with relevant subjects considered. Ontario Secondary School Diploma (OSSD) 75% average across 6 subjects. Canadian Secondary School Diplomas (Other Provinces) Accepted and assessed based on university requirements. China (Gaokao and Senior High School Diploma) 68% average in Gaokao (converted from 750 scale). 70% overall in the Senior High School Diploma, including 80% in Mathematics and 70% in a science subject. India (CBSE / CISCE - Class XII) 75% average in the best four subjects, excluding local language, Environmental Education, General Studies, and Physical Education. Advanced Placement (AP) Minimum scores of 4, 3, 3 in relevant subjects. Diploma (Local Institutions) Entry to Year 2 assessed on a case-by-case basis. Typically requires a GPA of 3.0/4.0 or higher and strong performance in relevant subjects. Foundation (Local Institutions) Minimum GPA of 3.0/4.0 with good grades in relevant subjects. Subject to School’s discretion. Nottingham Foundation Programme Successful completion with a minimum average of 50%. Additional Requirement Grade B in Mathematics and a credit in a science subject at SPM, GCSE, IGCSE, High School Diploma, or equivalent. This may be waived if similar or higher-level qualifications have been achieved. English Language Requirements IELTS (Academic) Overall 6.5 with no less than 6.0 in each element. TOEFL (iBT) Minimum score of 90 Writing: 19 Listening: 19 Reading: 20 Speaking: 22 PTE (Academic) Overall 71 with no less than 65 in each element. GCE A Level / AS Level (English Language or Literature) Grade C SPM CEFR Level B2 GCSE O-Level Grade C / 4 IGCSE (First Language) Grade C / 4 IGCSE (Second Language) Grade B / 6 MUET Band 4.5 UEC Grade A2 IB English English A1 or A2 (SL/HL): 4 points English B (HL): 4 points English B (SL): 5 points OSSD English (ENG3U/ENG4U) Minimum 75% Must complete all 30 standard credits (no fast-track or exemptions). CBSE / CISCE (Class X or XII) Minimum 75% in English A confirmation letter is required stating English was the medium of instruction from Class X to XII. Important Notes: IELTS One Skill Retake is accepted. IELTS Academic Online, TOEFL iBT Home Edition, and PTE Academic Online are not accepted. MUET results are valid for 5 years from the release date. OSSD and CBSE/CISCE English results are only accepted with appropriate documentation of English as the medium of instruction. Fast-track or credit-exempted qualifications are not accepted for English proficiency validation."
   },
@@ -51,6 +53,10 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14",
-  "slug": "bachelor-of-science-hons-psychology-and-cognitive-neuroscience"
+  "last_updated": "2026-09-16",
+  "slug": "bachelor-of-science-hons-psychology-and-cognitive-neuroscience",
+  "program_name_ar": "بكالوريوس Science (Hons) Psychology and Cognitive Neuroscience",
+  "program_name_zh": "Science (Hons) Psychology and Cognitive Neuroscience学士",
+  "field_ar": "علم النفس",
+  "field_zh": "心理学"
 }

@@ -6,7 +6,7 @@
   "state": "Johor",
   "website": "https://www.newcastle.edu.my",
   "studymalaysia_url": "https://studymalaysia.com/edu/numed/courses/",
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "sources": [
     {
       "url": "https://studymalaysia.com/edu/numed/courses/",
@@ -23,5 +23,13 @@
     "foundation": 1,
     "bachelors": 2,
     "masters": 2
+  },
+  "fees": {
+    "currency": "MYR",
+    "local_total": 66000,
+    "international_total": null,
+    "per_year_local": 22000,
+    "per_year_international": null,
+    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
   }
 }

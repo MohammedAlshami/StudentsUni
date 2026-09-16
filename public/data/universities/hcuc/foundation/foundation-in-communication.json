@@ -5,20 +5,24 @@
   "program_name": "Foundation in Communication",
   "program_slug": "foundation-in-communication",
   "field": "communication",
-  "duration": null,
+  "duration": "1 year",
   "mode": "Full-time",
-  "intakes": [],
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": null,
+    "local_total": 12000,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 12000,
     "per_year_international": null,
-    "notes": ""
+    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "5 Credits including relevant subjects",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
@@ -26,8 +30,8 @@
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     }
   },
   "accreditation": {
@@ -42,5 +46,9 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "تأسيس Communication",
+  "program_name_zh": "Communication预科",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

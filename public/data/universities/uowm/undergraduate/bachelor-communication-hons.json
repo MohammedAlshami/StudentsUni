@@ -14,11 +14,25 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 25900,
+    "local_total": 25899,
     "international_total": 30570,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 3.0yr duration)",
+    "per_year_local": 8633
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3-5 Credits (C) including Any relevant subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90"
+    }
+  },
   "accreditation": "MQA",
   "sources": [
     {
@@ -33,5 +47,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Communication (Hons)",
+  "program_name_zh": "Communication (Hons)学士",
+  "field_ar": "الاتصالات",
+  "field_zh": "传播学"
 }

@@ -7,24 +7,51 @@
   "slug": "master-of-business-administration",
   "duration": "FT: Min 3 Sem/Max 4 Sem; PT: Min 4 Sem/Max 8 Sem",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": ["September"],
+  "intakes": [
+    "September"
+  ],
   "fees": {
     "currency": "MYR",
-    "local_total": 16940,
+    "local_total": 16939,
     "international_total": 25410,
-    "per_year_local": null,
+    "per_year_local": 11293,
     "per_year_international": null,
-    "notes": "RM 385 x 44 Units. From USM fee schedule."
+    "notes": "RM 385 x 44 Units. From USM fee schedule. (per_year based on 1.5yr duration)"
   },
   "requirements": {
-    "malaysian": {"spm": null, "stpm": null, "foundation_matriculation": null, "diploma_pathway": null},
-    "international": {"a_level": null, "ib": null, "other_qualifications": null, "english_requirement": null}
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
   },
-  "accreditation": {"mqa_status": "Full Accreditation", "mqa_ref": null},
+  "accreditation": {
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": null
+  },
   "sources": [
-    {"url": "https://studymalaysia.com/edu/usm/courses/", "publisher": "StudyMalaysia", "fetched_at": "2026-09-14"},
-    {"url": "https://admission.usm.my/index.php/postgraduate/fee-pg", "publisher": "USM Admissions", "fetched_at": "2026-09-14"}
+    {
+      "url": "https://studymalaysia.com/edu/usm/courses/",
+      "publisher": "StudyMalaysia",
+      "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
+      "publisher": "USM Admissions",
+      "fetched_at": "2026-09-14"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Business Administration (MBA)",
+  "program_name_zh": "Business Administration (MBA)硕士",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

@@ -13,11 +13,25 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 8225,
+    "local_total": 8224,
     "international_total": 11075,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.0yr duration)",
+    "per_year_local": 4112
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": "3 Credits (C) including Mathematics",
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": null
+    },
+    "international": {
+      "a_level": "1 Principal",
+      "ib": null,
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
+    }
+  },
   "accreditation": null,
   "sources": [
     {
@@ -32,5 +46,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Human Resource Management",
+  "program_name_zh": "Human Resource Management文凭",
+  "field_ar": "إدارة الأعمال",
+  "field_zh": "商业管理"
 }

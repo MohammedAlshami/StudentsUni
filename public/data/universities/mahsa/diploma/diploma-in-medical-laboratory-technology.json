@@ -17,20 +17,21 @@
     "currency": "MYR",
     "local_total": 13280,
     "international_total": 17080,
-    "notes": "From EasyUni"
+    "notes": "From EasyUni (per_year based on 2.5yr duration)",
+    "per_year_local": 5312
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
+      "spm": "3 Credits (C) including Biology, Chemistry, Physics",
       "stpm": null,
       "foundation_matriculation": null,
       "diploma_pathway": null
     },
     "international": {
-      "a_level": null,
+      "a_level": "1 Principal",
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "High school completion",
+      "english_requirement": "IELTS 5.0 or TOEFL 60"
     },
     "general_text": "Any one of these: Pass SPM with minimum (3) C / Credits including Mathematics and a Pass in English and Drawing subject and (2) other subjects. Drawing test/portfolio needed if without pass in art subject at SPM level or without drawing subject at SPM level. O-Level: With Grade C in (3) subjects including Mathematics and Drawing subject or (2) other subjects. UEC: For senior middle three (SM3) only. Pass UEC with Grade B in (3) subjects including Mathematics and (2) other subjects. Certificate (Polytechnic): Minimum CGPA of 2.50 and pass C in (2) subjects including Mathematics and a pass in SPM English and (1) other subject. Drawing test/portfolio needed if without pass in Art subject at SPM Level or without Drawing subject at SPM Level. Certificate (KKM): Minimum CGPA of 2.75 with 2Cs (including Mathematics) and a pass in SPM English. Certificate/SKM III: Minimum CGPA of 2.50 with a C in SPM, pass in Mathematics and Drawing test by MAHSA University SAM/Tertiary Entrance Rank (TER)/UAI: Average of 50% or higher in 5 subjects (including Drawing and English) CPU/CIMP: Average of 50% or higher in 6 subjects (including Drawing and English) HSC/AUSMAT: Average of 50% or higher in 5 subjects (including Drawing and English) SKM - Pass in Certificate / SKM Level 3 with minimum CGPA 2.50 with Grade C at SPM Level and Pass Mathematics Vocational &amp; Technical Qualification - Pass in certificate/college professional Mara (KKM) with minimum CGPA of 2.75 and Pass C including Mathematics and 1 subject as well as Pass in English at SPM Level and 1 other subject. Other Qualifications - Other equivalent to SPM qualification as recognized by SENATE of University English Language Requirements: IELTS: 5.0 or TOEFL PBT: 500 or MUET: Band 3"
   },
@@ -53,5 +54,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دبلوم Medical Laboratory Technology",
+  "program_name_zh": "Medical Laboratory Technology文凭",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

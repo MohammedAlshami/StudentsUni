@@ -6,7 +6,9 @@
   "field": "Education",
   "duration": "3-6 Years",
   "mode": "Part-time",
-  "intakes": null,
+  "intakes": [
+    "Sep"
+  ],
   "fees": {
     "local": "RM35,690/Yr",
     "international": "RM39,940/Yr",
@@ -21,15 +23,14 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "Academic Requirements Option 1: A Master’s degree (normally with merit or international equivalent) in a relevant discipline. Experience in research methodology (e.g., dissertation or research project). An upper second-class honours degree (2:1) or international equivalent. Option 2: A First-class honours degree (or international equivalent) in a relevant discipline. Must include experience in research methodology. Direct admission is at the discretion of the School based on evaluation of applicant’s competency. All applicants must hold a degree from a recognised university. English Language Requirements IELTS (Academic): 7.0 overall (no less than 6.0 in each element) TOEFL (iBT): 100 overall (minimum 19 Writing/Listening, 20 Reading, 22 Speaking) PTE (Academic): 76 overall (no less than 65 in each element) MUET: Band 5 Note: IELTS, TOEFL iBT, and PTE results must be less than 2 years old. IELTS One Skill Retake is accepted. Online versions (IELTS Academic Online, TOEFL iBT Home Edition, PTE Academic Online) are not accepted. MUET results are valid for 5 years from release date."
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": null,
   "sources": [
@@ -46,6 +47,10 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15",
-  "slug": "phd-in-education"
+  "last_updated": "2026-09-16",
+  "slug": "phd-in-education",
+  "program_name_ar": "Ph.D in Education",
+  "program_name_zh": "Ph.D in Education",
+  "field_ar": "التربية والتعليم",
+  "field_zh": "教育学"
 }

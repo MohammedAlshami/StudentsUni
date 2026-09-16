@@ -17,17 +17,25 @@
   "fees": {
     "local": "RM82,800.00",
     "international": null,
-    "local_total": 26767,
+    "local_total": 26766,
     "currency": "MYR",
-    "international_total": 28684
+    "international_total": 28684,
+    "per_year_local": 8922,
+    "notes": " (per_year based on 3.0yr duration)"
   },
   "requirements": {
-    "matriculation.foundation": "Minimum CGPA 2.50 out of 4.00 (supported with credit in Maths and pass in English at SPM)",
-    "diploma": "Diploma in Accounting/related field, CGPA 2.50 out of 4.00",
-    "stpm": "Minimum Grade C+ (GP 2.33) in any two subjects",
-    "a_level": "2 passes",
-    "uec": "5 B's",
-    "english": "MUET Band 2 or IELTS 5.5"
+    "malaysian": {
+      "spm": "5 Credits (C+) including Mathematics",
+      "stpm": "2 Principals (C+) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.0-2.5 in relevant stream",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+    },
+    "international": {
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification",
+      "english_requirement": "IELTS 6.0 or TOEFL 80"
+    }
   },
   "accreditation": {
     "mqa_code": "R3/0411/6/0053",
@@ -47,5 +55,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Accounting (Honours)",
+  "program_name_zh": "Accounting (Honours)学士",
+  "field_ar": "المحاسبة",
+  "field_zh": "会计学"
 }

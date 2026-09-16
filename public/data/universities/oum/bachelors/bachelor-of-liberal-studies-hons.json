@@ -7,27 +7,31 @@
   "field": "Social Sciences",
   "duration": "4 years & 8 months - 14 semester",
   "mode": "Open and Distance Learning (ODL)",
-  "intakes": null,
+  "intakes": [
+    "Sep",
+    "Feb",
+    "Jun"
+  ],
   "fees": {
     "currency": "RM",
-    "local_total": 24000.0,
+    "local_total": 23996,
     "international_total": null,
-    "per_year_local": null,
+    "per_year_local": 3428,
     "per_year_international": null,
-    "notes": "Local: 24,000.00/Course"
+    "notes": "Local: 24,000.00/Course (per_year based on 7.0yr duration)"
   },
   "requirements": {
     "malaysian": {
-      "spm": null,
-      "stpm": null,
-      "foundation_matriculation": null,
-      "diploma_pathway": null
+      "spm": "3-5 Credits (C) including Relevant science subjects",
+      "stpm": "2 Principals (C+)",
+      "foundation_matriculation": "CGPA 2.0-2.5",
+      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
     },
     "international": {
-      "a_level": null,
-      "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "a_level": "2 Principals (C+)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent qualification",
+      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
     }
   },
   "accreditation": {
@@ -47,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "بكالوريوس Liberal Studies (Hons)",
+  "program_name_zh": "Liberal Studies (Hons)学士",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

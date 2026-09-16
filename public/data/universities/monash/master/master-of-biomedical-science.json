@@ -12,21 +12,24 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 47040,
+    "local_total": 84666,
     "international_total": 53280,
-    "per_year_local": "RM42,333 per year",
+    "per_year_local": 42333,
     "per_year_international": "RM46,556 per year",
     "notes": null
   },
   "requirements": {
     "malaysian": {
-      "bachelor_degree": null,
-      "cgpa": null
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
-      "bachelor_degree": null,
-      "cgpa": null,
-      "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent"
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -48,5 +51,9 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Biomedical Science",
+  "program_name_zh": "Biomedical Science硕士",
+  "field_ar": "الطب",
+  "field_zh": "医学"
 }

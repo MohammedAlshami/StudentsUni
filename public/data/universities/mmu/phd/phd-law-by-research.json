@@ -6,29 +6,31 @@
   "field": "Law",
   "duration": "Flexible",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": null,
+  "intakes": [
+    "Apr",
+    "Nov"
+  ],
   "fees": {
     "currency": "MYR",
     "local_total": 7500,
     "international_total": 19200,
-    "per_year_local": null,
+    "per_year_local": 2500,
     "per_year_international": null,
-    "notes": "Total programme fee; by research"
+    "notes": "Total programme fee; by research (per_year based on 3yr duration)"
   },
   "requirements": {
     "malaysian": {
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Master degree in relevant field with CGPA 3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
-    },
-    "general_text": "A Master’s degree in the field or related field accepted by the Senate; OR A Master’s degree in non-related fields as accepted by the Senate, and evidence of at least two (2) years relevant working or research experience, subject to rigorous internal assessment; OR A Master’s degree in non-related fields as accepted by the Senate and without relevant working experience, subject to rigorous internal assessment and passing pre-requisite courses; OR A Bachelor’s degree with minimum CGPA of 3.67 or equivalent in the field or related field from MMU or institutions recognised by Senate can be accepted subject to rigorous internal assessment Other qualifications equivalent to a Master’s degree in the field recognised by Malaysian Government. English Entry Requirement: a minimum IELTS overall band score of 5.0 ; or a minimum overall TOEFL iBT score of 42 ; or a minimum MUET overall band score of 3 ; or a minimum Pearson Test of English score of 47 ; or a minimum Cambridge Qualifications and Test score of 154; or a minimum Linguaskill overall band score of 154"
+      "other_qualifications": "Master degree with research experience",
+      "english_requirement": "IELTS 6.5 or TOEFL 95"
+    }
   },
   "accreditation": {
     "mqa_status": "Full Accreditation",
@@ -57,5 +59,9 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "دكتوراه فلسفة (Laws)",
+  "program_name_zh": "哲学博士 (Laws)",
+  "field_ar": "القانون",
+  "field_zh": "法律"
 }

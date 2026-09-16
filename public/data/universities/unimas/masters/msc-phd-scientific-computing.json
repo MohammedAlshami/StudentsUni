@@ -7,10 +7,13 @@
   "field": "Science",
   "duration": "Master: FT 4-8 sem, PT 6-12 sem / Ph.D: FT 6-12 sem, PT 8-16 sem",
   "mode": "Flexible Full-time/Part-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 1650,
+    "local_total": 13200,
     "international_total": 2350,
     "per_year_local": 3300,
     "per_year_international": 4700,
@@ -21,13 +24,13 @@
       "spm": null,
       "stpm": null,
       "foundation_matriculation": null,
-      "diploma_pathway": null
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
     },
     "international": {
       "a_level": null,
       "ib": null,
-      "other_qualifications": null,
-      "english_requirement": null
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
     }
   },
   "accreditation": {
@@ -38,5 +41,9 @@
     "https://www.studymalaysia.com/edu/unimas/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "M.Sc./Ph.D. in Scientific Computing",
+  "program_name_zh": "M.Sc./Ph.D. in Scientific Computing",
+  "field_ar": "العلوم",
+  "field_zh": "理学"
 }

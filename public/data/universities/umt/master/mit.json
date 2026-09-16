@@ -9,21 +9,41 @@
   "type": "coursework",
   "duration": "40 months",
   "mode": "full-time",
-  "intakes": null,
+  "intakes": {
+    "main": "September",
+    "secondary": "February"
+  },
   "fees": {
     "currency": "MYR",
-    "local_total": 10000,
+    "local_total": 16666,
     "international_total": 30000,
     "per_year_local": 5000,
     "per_year_international": 15000,
     "notes": "Standard public university fees (MQA regulated)"
   },
-  "requirements": null,
+  "requirements": {
+    "malaysian": {
+      "spm": null,
+      "stpm": null,
+      "foundation_matriculation": null,
+      "diploma_pathway": "Bachelor degree in relevant field with CGPA 2.5-3.0"
+    },
+    "international": {
+      "a_level": null,
+      "ib": null,
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
+    }
+  },
   "accreditation": "MQA/FA9119",
   "sources": [
     "https://umt.my/all-programs-at-umt/",
     "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-16",
+  "program_name_ar": "ماجستير Information Technology",
+  "program_name_zh": "Information Technology硕士",
+  "field_ar": "تقنية المعلومات",
+  "field_zh": "信息技术"
 }
