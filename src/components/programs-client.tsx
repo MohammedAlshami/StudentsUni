@@ -3,55 +3,33 @@
 import { useState } from "react";
 import { Link } from "@/i18n/navigation";
 import { useSearchParams } from "next/navigation";
-import { useTranslations, useLocale } from "next-intl";
-import {
-  ChevronLeft,
-  ChevronRight,
-  GraduationCap,
-  Landmark,
-  Search,
-  SlidersHorizontal,
-} from "lucide-react";
+import { useTranslations } from "next-intl";
+import { ChevronLeft, ChevronRight, GraduationCap, Landmark, Search, SlidersHorizontal, Wallet } from "lucide-react";
 import { wrap, Label } from "@/components/marketing-ui";
+import type { ProgramLevelGroup } from "@/lib/program-catalog";
 
-type ProgramRow = {
-  university: string;
-  university_slug: string;
-  level: string;
-  name: string;
-  name_ar?: string;
-  name_zh?: string;
+export type CanonicalProgramRow = {
   slug: string;
+  title: string;
   field: string;
-  field_ar?: string;
-  field_zh?: string;
+  levels: ProgramLevelGroup[];
+  universityCount: number;
+  feeMin: number | null;
+  feeMax: number | null;
 };
 
 const LEVEL_FILTER_VALUES = ["all", "foundation", "diploma", "bachelor", "master", "phd"] as const;
 
 const LEVEL_LABEL_KEYS: Record<string, string> = {
   foundation: "foundation",
-  "pre-university": "pre-university",
   diploma: "diploma",
-  "advanced-diploma": "advanced-diploma",
   bachelor: "bachelor",
-  "bachelors-degree": "bachelors-degree",
-  degree: "degree",
-  undergraduate: "undergraduate",
   master: "master",
-  "masters-degree": "masters-degree",
-  masters: "masters",
-  postgraduate: "postgraduate",
   phd: "phd",
-  "doctoral-degree": "doctoral-degree",
   certificate: "certificate",
   language: "language",
+  other: "other",
 };
-
-function matchesLevelFilter(level: string, filter: string): boolean {
-  if (filter === "all") return true;
-  return level.toLowerCase().includes(filter);
-}
 
 const PAGE_SIZE = 15;
 
@@ -67,7 +45,12 @@ function pageNumbers(current: number, total: number): (number | "…")[] {
   return result;
 }
 
-export default function ProgramsClient({ programs }: { programs: ProgramRow[] }) {
+function formatFee(value: number | null): string | null {
+  if (!value) return null;
+  return `MYR ${Math.round(value).toLocaleString()}`;
+}
+
+export default function ProgramsClient({ programs }: { programs: CanonicalProgramRow[] }) {
   const searchParams = useSearchParams();
   const [search, setSearch] = useState(searchParams.get("q") ?? "");
   const [level, setLevel] = useState("all");
@@ -75,29 +58,15 @@ export default function ProgramsClient({ programs }: { programs: ProgramRow[] })
   const t = useTranslations("filters");
   const tLevels = useTranslations("levels");
   const tCommon = useTranslations("common");
-  const locale = useLocale();
-
-  function getLocalizedName(name: string, nameAr?: string, nameZh?: string): string {
-    if (locale === "ar") return nameAr || name;
-    if (locale === "zh") return nameZh || name;
-    return name;
-  }
-
-  function getLocalizedField(field: string, fieldAr?: string, fieldZh?: string): string {
-    if (locale === "ar") return fieldAr || field;
-    if (locale === "zh") return fieldZh || field;
-    return field;
-  }
 
   const filtered = programs.filter((p) => {
     const q = search.toLowerCase();
-    const searchName = getLocalizedName(p.name, p.name_ar, p.name_zh);
-    const searchField = getLocalizedField(p.field, p.field_ar, p.field_zh);
     const matchesSearch =
-      searchName.toLowerCase().includes(q) ||
-      p.university.toLowerCase().includes(q) ||
-      searchField.toLowerCase().includes(q);
-    return matchesSearch && matchesLevelFilter(p.level, level);
+      p.title.toLowerCase().includes(q) ||
+      p.field.toLowerCase().includes(q) ||
+      p.levels.some((l) => l.includes(q));
+    const matchesLevel = level === "all" || p.levels.includes(level as ProgramLevelGroup);
+    return matchesSearch && matchesLevel;
   });
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
@@ -166,29 +135,45 @@ export default function ProgramsClient({ programs }: { programs: ProgramRow[] })
       {/* Grid */}
       <div className={`${wrap} py-[52px]`}>
         <div className="grid grid-cols-1 gap-[26px] sm:grid-cols-2 lg:grid-cols-3">
-          {pageItems.map((p) => (
-            <Link
-              key={`${p.university_slug}-${p.level}-${p.slug}`}
-              href={`/universities/${p.university_slug}/${p.level}/${p.slug}`}
-              className="group block border border-black/10 bg-white transition-colors hover:border-[#285b50]"
-            >
-              <div className="flex h-[80px] items-center gap-[10px] border-b border-black/10 bg-[#f5efeb] px-[21px]">
-                <GraduationCap size={18} className="shrink-0 text-[#285b50]" />
-                <span className="text-[12px] font-bold uppercase tracking-[.08em] text-[#285b50]">
-                  {LEVEL_LABEL_KEYS[p.level.toLowerCase()] ? tLevels(LEVEL_LABEL_KEYS[p.level.toLowerCase()] as "foundation") : p.level}
-                </span>
-              </div>
-              <div className="p-[21px]">
-                <p className="text-[12px] font-bold uppercase tracking-[.06em] text-black/40">
-                  {p.university}
-                </p>
-                <h3 className="mt-[6px] text-[16px] font-bold leading-snug group-hover:underline">
-                  {getLocalizedName(p.name, p.name_ar, p.name_zh)}
-                </h3>
-                {p.field && <p className="mt-[10px] text-[13px] text-black/55">{getLocalizedField(p.field, p.field_ar, p.field_zh)}</p>}
-              </div>
-            </Link>
-          ))}
+          {pageItems.map((p) => {
+            const feeMin = formatFee(p.feeMin);
+            const feeMax = formatFee(p.feeMax);
+            return (
+              <Link
+                key={p.slug}
+                href={`/programs/${p.slug}`}
+                className="group flex flex-col border border-black/10 bg-white transition-colors hover:border-[#285b50]"
+              >
+                <div className="flex h-[80px] items-center justify-between gap-[10px] border-b border-black/10 bg-[#f5efeb] px-[21px]">
+                  <span className="flex items-center gap-[10px]">
+                    <GraduationCap size={18} className="shrink-0 text-[#285b50]" />
+                    <span className="text-[12px] font-bold uppercase tracking-[.08em] text-[#285b50]">
+                      {p.field || tLevels(LEVEL_LABEL_KEYS[p.levels[0]] as "foundation")}
+                    </span>
+                  </span>
+                  <span className="shrink-0 rounded-full bg-white px-[10px] py-[4px] text-[12px] font-bold text-[#285b50]">
+                    {p.universityCount}
+                  </span>
+                </div>
+                <div className="flex flex-1 flex-col p-[21px]">
+                  <h3 className="text-[17px] font-bold leading-snug group-hover:underline">{p.title}</h3>
+                  <div className="mt-[10px] flex flex-wrap gap-[5px]">
+                    {p.levels.map((l) => (
+                      <span key={l} className="rounded-full bg-[#f5efeb] px-[9px] py-[3px] text-[11px] font-semibold text-black/60">
+                        {tLevels(LEVEL_LABEL_KEYS[l] as "foundation")}
+                      </span>
+                    ))}
+                  </div>
+                  {(feeMin || feeMax) && (
+                    <p className="mt-auto flex items-center gap-[6px] pt-[16px] text-[13px] text-black/55">
+                      <Wallet size={13} className="text-[#285b50]" />
+                      {feeMin === feeMax || !feeMax ? feeMin : `${feeMin} – ${feeMax}`}
+                    </p>
+                  )}
+                </div>
+              </Link>
+            );
+          })}
         </div>
 
         {filtered.length === 0 && (

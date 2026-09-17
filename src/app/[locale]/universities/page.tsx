@@ -45,7 +45,7 @@ export default async function UniversitiesPage({ params }: { params: Promise<{ l
       <div
         className="flex h-[762px] items-center bg-cover bg-center text-white"
         style={{
-          backgroundImage: `linear-gradient(90deg,rgba(10,45,36,.82),rgba(10,45,36,.42)),url(${HERO_IMG})`,
+          backgroundImage: `linear-gradient(90deg,rgba(0,0,0,.82),rgba(0,0,0,.42)),url(${HERO_IMG})`,
         }}
       >
         <div className={wrap}>

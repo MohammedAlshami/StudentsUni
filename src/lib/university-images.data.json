@@ -1,0 +1,249 @@
+{
+  "logos": {
+    "um": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/um/logo.svg",
+    "usm": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/usm/logo.svg",
+    "ukm": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/ukm/logo.png",
+    "upm": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/upm/logo.png",
+    "utm": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/utm/logo.png",
+    "uum": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uum/logo.png",
+    "uitm": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uitm/logo.gif",
+    "iium": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/iium/logo.svg",
+    "unimas": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unimas/logo.svg",
+    "ums": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/ums/logo.png",
+    "usim": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/usim/logo.png",
+    "upsi": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/upsi/logo.png",
+    "unimap": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unimap/logo.svg",
+    "utem": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/utem/logo.png",
+    "taylors": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/taylors/logo.svg",
+    "apu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/apu/logo.svg",
+    "help": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/help/logo.png",
+    "curtin": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/curtin/logo.jpg",
+    "uniten": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uniten/logo.png",
+    "utp": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/utp/logo.png",
+    "xmum": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/xmum/logo.svg",
+    "unikl": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unikl/logo.svg",
+    "umpsa": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/umpsa/logo.png",
+    "umk": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/umk/logo.png",
+    "upnm": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/upnm/logo.png",
+    "unisza": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unisza/logo.png",
+    "umt": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/umt/logo.png",
+    "aimst": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/aimst/logo.png",
+    "aiu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/aiu/logo.png",
+    "mediu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/mediu/logo.jpg",
+    "aeu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/aeu/logo.png",
+    "amu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/amu/logo.png",
+    "gnu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/gnu/logo.png",
+    "inceif": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/inceif/logo.png",
+    "luct": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/luct/logo.jpg",
+    "unimel": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unimel/logo.png",
+    "must": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/must/logo.png",
+    "mila": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/mila/logo.png",
+    "misi": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/misi/logo.svg",
+    "pu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/pu/logo.png",
+    "uptm": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uptm/logo.png",
+    "qiu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/qiu/logo.png",
+    "rumc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/rumc/logo.png",
+    "unishams": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unishams/logo.png",
+    "usas": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/usas/logo.png",
+    "um-wales": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/um-wales/logo.png",
+    "uts": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uts/logo.png",
+    "unimy": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unimy/logo.png",
+    "uorm": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uorm/logo.png",
+    "fcuc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/fcuc/logo.png",
+    "gmi-ucas": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/gmi-ucas/logo.png",
+    "juc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/juc/logo.png",
+    "neuc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/neuc/logo.png",
+    "saito": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/saito/logo.png",
+    "southern": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/southern/logo.png",
+    "twintech": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/twintech/logo.png",
+    "klmuc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/klmuc/logo.svg",
+    "ucsf": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/ucsf/logo.png",
+    "uc-tati": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uc-tati/logo.png",
+    "widad": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/widad/logo.jpg",
+    "rui": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/rui/logo.png",
+    "hcuc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/hcuc/logo.svg",
+    "binary": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/binary/logo.png",
+    "uis": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uis/logo.png",
+    "berjaya": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/berjaya/logo.png",
+    "linton": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/linton/logo.png",
+    "uim": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uim/logo.png",
+    "ijnuc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/ijnuc/logo.png",
+    "hwum": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/hwum/logo.svg",
+    "dhu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/dhu/logo.png"
+  },
+  "photos": {
+    "monash": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/monash/cover.jpg",
+    "sunway": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/sunway/cover.jpg",
+    "ucsi": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/ucsi/cover.jpg",
+    "uthm": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uthm/cover.jpg",
+    "swinburne": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/swinburne/cover.jpg",
+    "msu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/msu/cover.jpg",
+    "oum": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/oum/cover.jpg",
+    "tarumt": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/tarumt/cover.jpg",
+    "wou": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/wou/cover.jpg",
+    "apu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/apu/cover.webp",
+    "cityu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/cityu/cover.webp",
+    "help": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/help/cover.webp",
+    "imu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/imu/cover.webp",
+    "inti": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/inti/cover.webp",
+    "klust": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/klust/cover.webp",
+    "luc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/luc/cover.webp",
+    "mahsa": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/mahsa/cover.webp",
+    "mmu": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/mmu/cover.webp",
+    "nilai": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/nilai/cover.webp",
+    "numed": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/numed/cover.webp",
+    "segi": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/segi/cover.webp",
+    "taylors": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/taylors/cover.webp",
+    "unikl": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unikl/cover.webp",
+    "unirazak": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unirazak/cover.webp",
+    "unisel": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unisel/cover.webp",
+    "unitar": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unitar/cover.webp",
+    "uniten": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uniten/cover.webp",
+    "unmc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unmc/cover.webp",
+    "uoc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uoc/cover.webp",
+    "uowm": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uowm/cover.webp",
+    "usmc": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/usmc/cover.webp",
+    "xmum": "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/xmum/cover.webp"
+  },
+  "gallery": {
+    "monash": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/monash/gallery-1.jpg"
+    ],
+    "sunway": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/sunway/gallery-1.jpg",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/sunway/gallery-2.jpg",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/sunway/gallery-3.jpg"
+    ],
+    "ucsi": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/ucsi/gallery-1.jpg"
+    ],
+    "uthm": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uthm/gallery-1.jpg",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uthm/gallery-2.jpg",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uthm/gallery-3.jpg"
+    ],
+    "swinburne": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/swinburne/gallery-1.jpg",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/swinburne/gallery-2.jpg",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/swinburne/gallery-3.jpg"
+    ],
+    "msu": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/msu/gallery-1.jpg",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/msu/gallery-2.jpg",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/msu/gallery-3.jpg"
+    ],
+    "tarumt": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/tarumt/gallery-1.jpg",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/tarumt/gallery-2.jpg"
+    ],
+    "wou": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/wou/gallery-1.jpg",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/wou/gallery-2.jpg"
+    ],
+    "apu": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/apu/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/apu/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/apu/gallery-3.webp"
+    ],
+    "cityu": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/cityu/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/cityu/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/cityu/gallery-3.webp"
+    ],
+    "help": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/help/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/help/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/help/gallery-3.webp"
+    ],
+    "imu": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/imu/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/imu/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/imu/gallery-3.webp"
+    ],
+    "inti": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/inti/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/inti/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/inti/gallery-3.webp"
+    ],
+    "klust": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/klust/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/klust/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/klust/gallery-3.webp"
+    ],
+    "mahsa": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/mahsa/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/mahsa/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/mahsa/gallery-3.webp"
+    ],
+    "mmu": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/mmu/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/mmu/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/mmu/gallery-3.webp"
+    ],
+    "nilai": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/nilai/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/nilai/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/nilai/gallery-3.webp"
+    ],
+    "numed": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/numed/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/numed/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/numed/gallery-3.webp"
+    ],
+    "segi": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/segi/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/segi/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/segi/gallery-3.webp"
+    ],
+    "taylors": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/taylors/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/taylors/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/taylors/gallery-3.webp"
+    ],
+    "unikl": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unikl/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unikl/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unikl/gallery-3.webp"
+    ],
+    "unirazak": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unirazak/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unirazak/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unirazak/gallery-3.webp"
+    ],
+    "unisel": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unisel/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unisel/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unisel/gallery-3.webp"
+    ],
+    "unitar": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unitar/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unitar/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unitar/gallery-3.webp"
+    ],
+    "uniten": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uniten/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uniten/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uniten/gallery-3.webp"
+    ],
+    "unmc": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unmc/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unmc/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/unmc/gallery-3.webp"
+    ],
+    "uoc": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uoc/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uoc/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uoc/gallery-3.webp"
+    ],
+    "uowm": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uowm/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uowm/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/uowm/gallery-3.webp"
+    ],
+    "xmum": [
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/xmum/gallery-1.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/xmum/gallery-2.webp",
+      "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/universities/xmum/gallery-3.webp"
+    ]
+  }
+}

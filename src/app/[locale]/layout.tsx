@@ -1,18 +1,28 @@
 import type { Metadata, Viewport } from "next";
 import { notFound } from "next/navigation";
-import Script from "next/script";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist_Mono } from "next/font/google";
+import localFont from "next/font/local";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { ServiceWorkerRegistration } from "@/components/service-worker-registration";
+import { DevScripts } from "@/components/dev-scripts";
 import { routing, rtlLocales, type Locale } from "@/i18n/routing";
 import "../globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
+const shubbak = localFont({
+  src: [
+    { path: "../fonts/Shubbak-ExtraLight.woff2", weight: "200", style: "normal" },
+    { path: "../fonts/Shubbak-Light.woff2", weight: "300", style: "normal" },
+    { path: "../fonts/Shubbak-Regular.woff2", weight: "400", style: "normal" },
+    { path: "../fonts/Shubbak-Medium.woff2", weight: "500", style: "normal" },
+    { path: "../fonts/Shubbak-SemiBold.woff2", weight: "600", style: "normal" },
+    { path: "../fonts/Shubbak-Bold.woff2", weight: "700", style: "normal" },
+    { path: "../fonts/Shubbak-ExtraBold.woff2", weight: "800", style: "normal" },
+    { path: "../fonts/Shubbak-Black.woff2", weight: "900", style: "normal" },
+  ],
+  variable: "--font-shubbak",
 });
 
 const geistMono = Geist_Mono({
@@ -21,12 +31,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "StudentsUni - Find Your University in Malaysia",
+  title: "Arabic Era - Find Your University in Malaysia",
   description: "Browse Malaysian universities and programs. We help students find and register in the right university.",
   manifest: "/manifest.webmanifest",
   appleWebApp: {
     capable: true,
-    title: "StudentsUni",
+    title: "Arabic Era",
     statusBarStyle: "black-translucent",
   },
   icons: {
@@ -65,19 +75,11 @@ export default async function RootLayout({
     <html
       lang={locale}
       dir={dir}
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${shubbak.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <head>
-        {process.env.NODE_ENV === "development" && (
-          <Script
-            src="//unpkg.com/react-grab/dist/index.global.js"
-            crossOrigin="anonymous"
-            strategy="beforeInteractive"
-          />
-        )}
-      </head>
-      <body className="flex min-h-full flex-col">
+      <body className="flex min-h-full flex-col font-sans">
         <NextIntlClientProvider>
+          <DevScripts />
           <ServiceWorkerRegistration />
           <div className="relative flex-1">
             <SiteHeader />

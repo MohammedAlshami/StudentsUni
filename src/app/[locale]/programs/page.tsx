@@ -1,107 +1,14 @@
-import fs from "fs";
-import path from "path";
 import { Suspense } from "react";
 import { ArrowUpRight } from "lucide-react";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import ProgramsClient from "@/components/programs-client";
+import ProgramsClient, { type CanonicalProgramRow } from "@/components/programs-client";
 import { wrap, Pic, Label, Heading, Pill } from "@/components/marketing-ui";
-import { normalizeProgramsList, entrySlug, entryFallbackName, entryField } from "@/lib/university-detail";
+import { PROGRAM_CATALOG } from "@/lib/program-catalog";
 import { routing } from "@/i18n/routing";
 
-type ProgramRow = {
-  university: string;
-  university_slug: string;
-  level: string;
-  name: string;
-  name_ar?: string;
-  name_zh?: string;
-  slug: string;
-  field: string;
-  field_ar?: string;
-  field_zh?: string;
-};
-
-const HERO_IMG =
-  "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1600&q=85";
-const CTA_IMG_1 =
-  "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=900&q=80";
-const CTA_IMG_2 =
-  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=900&q=80";
-
-function loadPrograms(): ProgramRow[] {
-  const uniDir = path.join(process.cwd(), "public/data/universities");
-  const universities = fs.readdirSync(uniDir);
-  const allPrograms: ProgramRow[] = [];
-
-  const institutionsPath = path.join(process.cwd(), "public/data/institutions.json");
-  const institutionsList: Array<{ slug: string; name: string; name_ar?: string; name_zh?: string }> = JSON.parse(
-    fs.readFileSync(institutionsPath, "utf-8")
-  ).institutions;
-  const nameBySlug = new Map(institutionsList.map((i) => [i.slug, i]));
-  const nameArBySlug = new Map(institutionsList.filter((i) => i.name_ar).map((i) => [i.slug, i.name_ar!]));
-  const nameZhBySlug = new Map(institutionsList.filter((i) => i.name_zh).map((i) => [i.slug, i.name_zh!]));
-
-  for (const uniSlug of universities) {
-    const uniPath = path.join(uniDir, uniSlug);
-    const infoPath = path.join(uniPath, "info.json");
-
-    let uniName = nameBySlug.get(uniSlug)?.name || uniSlug;
-    let uniNameAr = nameArBySlug.get(uniSlug) || uniName;
-    let uniNameZh = nameZhBySlug.get(uniSlug) || uniName;
-    if (!nameBySlug.get(uniSlug) && fs.existsSync(infoPath)) {
-      const info = JSON.parse(fs.readFileSync(infoPath, "utf-8"));
-      uniName = info.name ?? info.university ?? uniSlug;
-    }
-
-    const levels = fs
-      .readdirSync(uniPath, { withFileTypes: true })
-      .filter((e) => e.isDirectory() && e.name !== "_meta")
-      .map((e) => e.name)
-      .filter((name) => fs.existsSync(path.join(uniPath, name, "index.json")));
-
-    for (const level of levels) {
-      const indexPath = path.join(uniPath, level, "index.json");
-      const raw = JSON.parse(fs.readFileSync(indexPath, "utf-8"));
-      const programs = normalizeProgramsList(raw);
-
-      for (const prog of programs) {
-        const slug = entrySlug(prog);
-        if (!slug) continue;
-        const progName = entryFallbackName(prog, slug);
-        const progField = entryField(prog);
-        // Try to read translations from the program detail file
-        let progNameAr: string | undefined;
-        let progNameZh: string | undefined;
-        let progFieldAr: string | undefined;
-        let progFieldZh: string | undefined;
-        const detailPath = path.join(uniPath, level, `${slug}.json`);
-        if (fs.existsSync(detailPath)) {
-          try {
-            const detail = JSON.parse(fs.readFileSync(detailPath, "utf-8"));
-            progNameAr = detail.program_name_ar;
-            progNameZh = detail.program_name_zh;
-            progFieldAr = detail.field_ar;
-            progFieldZh = detail.field_zh;
-          } catch {}
-        }
-        allPrograms.push({
-          university: uniName,
-          university_slug: uniSlug,
-          level,
-          name: progName,
-          name_ar: progNameAr,
-          name_zh: progNameZh,
-          slug,
-          field: progField,
-          field_ar: progFieldAr,
-          field_zh: progFieldZh,
-        });
-      }
-    }
-  }
-
-  return allPrograms;
-}
+const HERO_IMG = "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/blog/1509062522246-3755977927d7.jpg";
+const CTA_IMG_1 = "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/blog/1509062522246-3755977927d7.jpg";
+const CTA_IMG_2 = "https://pub-9f312be7e4a94c53b384bfcf5701085e.r2.dev/studentsuni/images/blog/1521737711867-e3b97375f902.jpg";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -110,17 +17,28 @@ export function generateStaticParams() {
 export default async function ProgramsPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const allPrograms = loadPrograms();
-  const universityCount = new Set(allPrograms.map((p) => p.university_slug)).size;
   const t = await getTranslations("programsPage");
   const tCommon = await getTranslations("common");
+
+  const programs: CanonicalProgramRow[] = PROGRAM_CATALOG.map((p) => ({
+    slug: p.slug,
+    title: p.title,
+    field: p.field,
+    levels: p.levels,
+    universityCount: p.universityCount,
+    feeMin: p.feeMin,
+    feeMax: p.feeMax,
+  }));
+  const universityCount = new Set(
+    PROGRAM_CATALOG.flatMap((p) => p.offerings.map((o) => o.university_slug))
+  ).size;
 
   return (
     <div className="bg-white font-sans text-[#242927]">
       <div
         className="flex h-[762px] items-center bg-cover bg-center text-white"
         style={{
-          backgroundImage: `linear-gradient(90deg,rgba(10,45,36,.82),rgba(10,45,36,.42)),url(${HERO_IMG})`,
+          backgroundImage: `linear-gradient(90deg,rgba(0,0,0,.82),rgba(0,0,0,.42)),url(${HERO_IMG})`,
         }}
       >
         <div className={wrap}>
@@ -129,12 +47,12 @@ export default async function ProgramsPage({ params }: { params: Promise<{ local
             {t("hero.titleLine1")}<br />{t("hero.titleLine2")}
           </h1>
           <p className="mt-[26px] max-w-[582px] text-[18px] leading-relaxed text-white/80">
-            {t("hero.subtitle", { count: allPrograms.length.toLocaleString(), universities: universityCount })}
+            {t("hero.subtitle", { count: programs.length.toLocaleString(), universities: universityCount })}
           </p>
         </div>
       </div>
       <Suspense fallback={null}>
-        <ProgramsClient programs={allPrograms} />
+        <ProgramsClient programs={programs} />
       </Suspense>
 
       {/* Consultation CTA */}

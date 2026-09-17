@@ -11,10 +11,10 @@
     "emailPlaceholder": "您的电子邮箱",
     "subscribe": "订阅",
     "quote": "正确的指导能让大学申请变成充满信心的一步。",
-    "counsellors": "StudentsUni 顾问团队",
+    "counsellors": "Arabic Era 顾问团队",
     "counsellorsSubtext": "从查询到注册全程陪伴",
     "contact": "联系我们",
-    "copyright": "版权所有 © STUDENTSUNI — 2026"
+    "copyright": "版权所有 © ARABIC ERA — 2026"
   },
   "common": {
     "talkToUs": "联系我们",
@@ -48,20 +48,29 @@
       "label": "我们如何提供帮助",
       "titleLine1": "从搜索到注册",
       "titleLine2": "只需三步。",
+      "subtitle": "我们以清晰的指导、直接的比较和专属的申请支持,简化你在马来西亚的留学之路。",
+      "cta": "预约免费咨询",
+      "stepPrefix": "步骤",
       "steps": [
         {
           "title": "搜索并比较",
-          "desc": "浏览 96 所大学和 4,000 多个课程,真实费用与入学要求一目了然。"
+          "desc": "浏览 96 所大学和 4,000 多个课程,真实费用与入学要求一目了然。",
+          "action": "浏览院校库"
         },
         {
           "title": "获得匹配推荐",
-          "desc": "与顾问沟通你的成绩、预算和目标,获得真正适合你的课程清单。"
+          "desc": "与顾问沟通你的成绩、预算和目标,获得真正适合你的课程清单。",
+          "action": "获取推荐清单"
         },
         {
           "title": "全程支持申请",
-          "desc": "我们免费协助文件准备、截止日期跟进和申请本身,从筛选到注册全程陪伴。"
+          "desc": "我们免费协助文件准备、截止日期跟进和申请本身,从筛选到注册全程陪伴。",
+          "action": "开始申请"
         }
-      ]
+      ],
+      "calloutTitle": "需要个性化指导?",
+      "calloutBody": "我们的大学招生团队可为你提供一对一协助。",
+      "calloutCta": "咨询顾问"
     },
     "partner": {
       "label": "您的马来西亚留学伙伴",
@@ -87,7 +96,15 @@
         "medic": "医学与健康科学",
         "education": "教育学",
         "design": "艺术与设计",
-        "law": "法律"
+        "law": "法律",
+        "account": "会计与金融",
+        "psycholog": "心理学",
+        "architect": "建筑与建造",
+        "hospitality": "酒店与旅游",
+        "communicat": "传播与媒体",
+        "islamic": "伊斯兰研究",
+        "health": "健康科学",
+        "social": "社会科学"
       }
     },
     "why": {
@@ -103,7 +120,7 @@
       "titleLine2": "始于值得信赖的",
       "titleLine3": "支持。",
       "quoteLabel": "更清晰的前行之路",
-      "quote": "StudentsUni 让我轻松比较各种选择,清楚了解每项申请要求。我的顾问在每一步都陪伴着我,直到我完成注册。",
+      "quote": "Arabic Era 让我轻松比较各种选择,清楚了解每项申请要求。我的顾问在每一步都陪伴着我,直到我完成注册。",
       "author": "Aina R.",
       "role": "本科申请者"
     },
@@ -128,7 +145,7 @@
       "stat2Label": "始终提供指导",
       "items": [
         {
-          "q": "StudentsUni 真的是免费的吗?",
+          "q": "Arabic Era 真的是免费的吗?",
           "a": "是的。浏览大学、比较课程以及获得我们顾问的咨询服务,对学生完全免费。我们与各大学合作,不向学生收取任何指导费用。"
         },
         {
@@ -156,7 +173,7 @@
     "story": {
       "label": "我们的故事",
       "title": "一个平台,涵盖所有选择。",
-      "p1": "StudentsUni 的创立初衷,是为了简化马来西亚学生的大学搜索与申请流程。我们发现,寻找一个合适的课程——包括准确的费用、要求和认证信息——原本不该如此困难。",
+      "p1": "Arabic Era 的创立初衷,是为了简化马来西亚学生的大学搜索与申请流程。我们发现,寻找一个合适的课程——包括准确的费用、要求和认证信息——原本不该如此困难。",
       "p2": "我们的平台整合了来自各大学官方渠道和权威教育平台的数据,为学生提供一个统一的平台来比较选择、做出明智决定。",
       "p3": "除了网站服务,我们还提供免费咨询服务,指导学生完成申请与注册流程。"
     },
@@ -359,7 +376,7 @@
   },
   "blogPage": {
     "hero": {
-      "label": "StudentsUni 博客",
+      "label": "Arabic Era 博客",
       "titleLine1": "为你的下一个",
       "titleLine2": "重要决定提供指南。",
       "subtitle": "{count} 篇关于费用、申请、奖学金以及如何选择合适道路的实用指南——专为探索马来西亚高等教育的学生撰写。"
@@ -367,7 +384,7 @@
     "cta": {
       "titleLine1": "还有",
       "titleLine2": "疑问吗?",
-      "body": "联系 StudentsUni 顾问,获得符合你成绩、预算和目标的专属指导。"
+      "body": "联系 Arabic Era 顾问,获得符合你成绩、预算和目标的专属指导。"
     },
     "articleNotFound": "未找到该文章",
     "backToBlog": "返回博客",
@@ -383,7 +400,7 @@
     "cta": {
       "titleLine1": "不确定哪个",
       "titleLine2": "课程适合你?",
-      "body": "联系 StudentsUni 顾问,获得符合你成绩、预算和目标的课程推荐清单。"
+      "body": "联系 Arabic Era 顾问,获得符合你成绩、预算和目标的课程推荐清单。"
     }
   },
   "universitiesPage": {
@@ -396,7 +413,7 @@
     "cta": {
       "titleLine1": "不确定哪所",
       "titleLine2": "大学适合你?",
-      "body": "联系 StudentsUni 顾问,获得符合你成绩、预算和目标的大学推荐清单。"
+      "body": "联系 Arabic Era 顾问,获得符合你成绩、预算和目标的大学推荐清单。"
     }
   },
   "filters": {
@@ -444,7 +461,8 @@
     "phd": "博士学位",
     "doctoral-degree": "博士 / 博士研究学位",
     "certificate": "证书课程",
-    "language": "语言课程"
+    "language": "语言课程",
+    "other": "其他"
   },
   "universityDetail": {
     "programmes": "课程数量",
@@ -493,6 +511,54 @@
     "backToUniversity": "返回大学页面",
     "programNotFound": "未找到该课程",
     "universityNotFound": "未找到该大学",
-    "backToUniversities": "返回大学列表"
+    "backToUniversities": "返回大学列表",
+    "compareAll": "对比开设 {title} 的 {count} 所大学"
+  },
+  "programPage": {
+    "backToPrograms": "所有课程",
+    "offeredBy": "马来西亚共有 {count} 所大学开设",
+    "aboutTitle": "课程简介",
+    "compareTitle": "学费对比",
+    "feeNote": "费用为参考值,来自大学官方来源;申请前请向大学确认最新费用。",
+    "metaDescription": "对比马来西亚 {count} 所大学的 {title} 课程——学费、学制、入学要求与开课时间。",
+    "descriptionTemplate": "{title} 课程在马来西亚 {count} 所大学开设,涵盖 {levels} 等层次。你可以在下方比较各校的学费、学制、认证与入学要求。",
+    "table": {
+      "university": "大学",
+      "level": "层次",
+      "duration": "学制",
+      "totalFee": "总学费",
+      "perYear": "每年学费",
+      "accreditation": "MQA"
+    },
+    "stats": {
+      "universities": "开设大学",
+      "feeRange": "学费范围",
+      "feeRangeNote": "参考学费最低至最高",
+      "levels": "层次"
+    },
+    "needHelp": "需要选校帮助?",
+    "needHelpBody": "与顾问免费沟通,结合你的成绩、预算和职业目标比较这些课程。",
+    "descriptions": {
+      "business-administration": "工商管理研究组织的运作方式:战略、运营、市场营销、财务与人员管理。它是马来西亚覆盖面最广的学位之一,可通向管理、银行、咨询和创业等职业方向。",
+      "accounting": "会计学教授财务报告、审计、税务和商法,是考取 ACCA、CPA、CIMA 等专业资格的标准路径。",
+      "computer-science": "计算机科学是研究算法、软件与计算系统的学科,课程涵盖编程、数据结构、数据库和网络,并可专攻人工智能、网络安全等方向。",
+      "information-technology": "信息技术侧重在真实组织中应用计算系统——网络、数据库、云基础设施与 IT 运维,而非计算理论本身。",
+      "software-engineering": "软件工程将工程原则应用于软件的构建与维护,涵盖需求、设计、开发、测试和交付的完整生命周期。",
+      "cyber-security": "网络安全培养保护系统与数据的人才,涵盖网络防御、道德黑客、密码学、数字取证与安全治理。",
+      "artificial-intelligence": "人工智能涵盖机器学习、神经网络、自然语言处理与机器人技术,以及这些技术在产品与研究中的应用。",
+      "education": "教育课程培养教师与培训者,将教学法与儿童发展同课堂实践和教学实习相结合。",
+      "business": "通用商科课程提供市场营销、财务、管理与运营的广泛基础,学生可日后选择专攻方向。",
+      "mechanical-engineering": "机械工程涉及机械、材料与能源——从设计与热力学到制造、自动化与机器人。",
+      "management": "管理学聚焦于领导团队与组织:战略、组织行为、运营与决策。",
+      "communication": "传播学课程涵盖媒体、新闻、公共关系与数字内容,兼顾理论与实践制作技能。",
+      "psychology": "心理学研究心智与行为,涵盖发展、认知、社会与临床心理学,可通往心理咨询与人力资源等方向。",
+      "nursing": "护理学通过患者护理、解剖学、药理学与社区健康的临床培训,培养注册护士。",
+      "finance": "金融学涵盖金融市场、投资、公司金融与风险管理,通常包含扎实的量化与分析训练。",
+      "civil-engineering": "土木工程负责基础设施的设计与建造——建筑、道路、桥梁与水务系统,以力学和材料学为基础。",
+      "law": "法律课程涵盖宪法、合同法、刑法与商法,为法律执业、企业法务与合规职业做准备。",
+      "architecture": "建筑学将设计工作室与建筑技术、历史和环境设计相结合,通向职业建筑实践。",
+      "pharmacy": "药学涵盖药物科学、药理学与患者护理,毕业生可进入医院、社区药房与制药行业。",
+      "tourism-management": "旅游与酒店管理涵盖酒店与会展运营、旅行服务和目的地营销。"
+    }
   }
 }

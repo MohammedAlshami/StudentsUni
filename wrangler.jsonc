@@ -4,7 +4,11 @@
   "main": ".open-next/worker.js",
   "compatibility_date": "2024-09-23",
   "compatibility_flags": ["nodejs_compat"],
-  "account_id": "89485cf64207bc5a2e17dffd8b757733",
+  "account_id": "e2f9e8d1485dce72d1a18307ed32a47a",
+  "routes": [
+    { "pattern": "arabicera.com/*", "zone_name": "arabicera.com" },
+    { "pattern": "www.arabicera.com/*", "zone_name": "arabicera.com" }
+  ],
   "assets": {
     "directory": ".open-next/assets",
     "binding": "ASSETS"

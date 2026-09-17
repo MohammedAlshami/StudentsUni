@@ -76,7 +76,7 @@ export default async function BlogPostPage({
       <div
         className="relative bg-[#285b50] bg-cover bg-center text-white"
         style={{
-          backgroundImage: `linear-gradient(90deg,rgba(10,45,36,.82),rgba(10,45,36,.55)),url(${post.coverImage})`,
+          backgroundImage: `linear-gradient(90deg,rgba(0,0,0,.82),rgba(0,0,0,.55)),url(${post.coverImage})`,
         }}
       >
         <div className={`${wrap} pt-[125px] pb-[52px]`}>

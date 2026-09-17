@@ -2,8 +2,8 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "StudentsUni - Find Your University in Malaysia",
-    short_name: "StudentsUni",
+    name: "Arabic Era - Find Your University in Malaysia",
+    short_name: "Arabic Era",
     description:
       "Browse Malaysian universities and programs. Compare fees, entry requirements, and get free guidance from application to registration.",
     start_url: "/",

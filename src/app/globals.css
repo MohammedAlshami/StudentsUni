@@ -1,3 +1,8 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
+
+@theme inline {
+  --font-sans: var(--font-shubbak), "Noto Sans SC", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono);
+}

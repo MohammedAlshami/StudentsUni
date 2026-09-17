@@ -118,7 +118,7 @@ export default async function UniversityDetailPage({
         className="relative bg-[#285b50] bg-cover bg-center text-white"
         style={
           coverPhoto
-            ? { backgroundImage: `linear-gradient(90deg,rgba(10,45,36,.82),rgba(10,45,36,.55)),url(${coverPhoto})` }
+            ? { backgroundImage: `linear-gradient(90deg,rgba(0,0,0,.82),rgba(0,0,0,.55)),url(${coverPhoto})` }
             : undefined
         }
       >

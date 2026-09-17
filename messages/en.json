@@ -11,10 +11,10 @@
     "emailPlaceholder": "YOUR EMAIL ADDRESS",
     "subscribe": "Subscribe",
     "quote": "The right guidance turns a university application into a confident next step.",
-    "counsellors": "StudentsUni counsellors",
+    "counsellors": "Arabic Era counsellors",
     "counsellorsSubtext": "Here from search to registration",
     "contact": "Contact",
-    "copyright": "COPYRIGHT © STUDENTSUNI — 2026"
+    "copyright": "COPYRIGHT © ARABIC ERA — 2026"
   },
   "common": {
     "talkToUs": "Talk to us",
@@ -48,20 +48,29 @@
       "label": "How we help",
       "titleLine1": "Three steps from",
       "titleLine2": "search to registration.",
+      "subtitle": "We simplify your study journey in Malaysia with clear guidance, direct comparisons, and dedicated application support.",
+      "cta": "Book free consultation",
+      "stepPrefix": "Step",
       "steps": [
         {
           "title": "Search & compare",
-          "desc": "Browse 96 universities and 4,000+ programmes, with real fees and entry requirements side by side."
+          "desc": "Browse 96 universities and 4,000+ programmes, with real fees and entry requirements side by side.",
+          "action": "Explore directory"
         },
         {
           "title": "Get matched",
-          "desc": "Talk to a counsellor about your grades, budget, and goals, and get a shortlist that actually fits."
+          "desc": "Talk to a counsellor about your grades, budget, and goals, and get a shortlist that actually fits.",
+          "action": "Get shortlisted"
         },
         {
           "title": "Apply with support",
-          "desc": "We help with documents, deadlines, and the application itself, free, from shortlist to registration."
+          "desc": "We help with documents, deadlines, and the application itself, free, from shortlist to registration.",
+          "action": "Start application"
         }
-      ]
+      ],
+      "calloutTitle": "Need personalized guidance?",
+      "calloutBody": "Our university admissions team is available for 1-on-1 assistance.",
+      "calloutCta": "Chat with an advisor"
     },
     "partner": {
       "label": "Your Malaysia study partner",
@@ -87,7 +96,15 @@
         "medic": "Medicine & Health Sciences",
         "education": "Education",
         "design": "Arts & Design",
-        "law": "Law"
+        "law": "Law",
+        "account": "Accounting & Finance",
+        "psycholog": "Psychology",
+        "architect": "Architecture & Building",
+        "hospitality": "Hospitality & Tourism",
+        "communicat": "Communication & Media",
+        "islamic": "Islamic Studies",
+        "health": "Health Sciences",
+        "social": "Social Sciences"
       }
     },
     "why": {
@@ -103,7 +120,7 @@
       "titleLine2": "start with trusted",
       "titleLine3": "support.",
       "quoteLabel": "A clearer path forward",
-      "quote": "StudentsUni made it easy to compare my options and understand each application requirement. My counsellor was there at every step until I registered.",
+      "quote": "Arabic Era made it easy to compare my options and understand each application requirement. My counsellor was there at every step until I registered.",
       "author": "Aina R.",
       "role": "Undergraduate applicant"
     },
@@ -128,7 +145,7 @@
       "stat2Label": "Guidance, always",
       "items": [
         {
-          "q": "Is StudentsUni actually free to use?",
+          "q": "Is Arabic Era actually free to use?",
           "a": "Yes. Browsing universities, comparing programmes, and getting consultation from our counsellors is free for students. We work with universities and don't charge students for guidance."
         },
         {
@@ -156,7 +173,7 @@
     "story": {
       "label": "Our story",
       "title": "A single place for every option.",
-      "p1": "StudentsUni was created to simplify the university search and application process for students in Malaysia. We noticed that finding the right program — with accurate fees, requirements, and accreditation info — was unnecessarily difficult.",
+      "p1": "Arabic Era was created to simplify the university search and application process for students in Malaysia. We noticed that finding the right program — with accurate fees, requirements, and accreditation info — was unnecessarily difficult.",
       "p2": "Our platform aggregates data from official university sources and recognized education portals, giving students a single place to compare options and make informed decisions.",
       "p3": "Beyond the website, we offer free consultation services to guide students through the application and enrollment process."
     },
@@ -359,7 +376,7 @@
   },
   "blogPage": {
     "hero": {
-      "label": "StudentsUni Blog",
+      "label": "Arabic Era Blog",
       "titleLine1": "Guides for your",
       "titleLine2": "next big decision.",
       "subtitle": "{count} honest, practical guides on costs, applications, scholarships, and choosing the right path — written for students navigating Malaysian higher education."
@@ -367,7 +384,7 @@
     "cta": {
       "titleLine1": "Still have",
       "titleLine2": "questions?",
-      "body": "Talk to a StudentsUni counsellor for guidance tailored to your grades, budget, and goals."
+      "body": "Talk to a Arabic Era counsellor for guidance tailored to your grades, budget, and goals."
     },
     "articleNotFound": "Article not found",
     "backToBlog": "Back to blog",
@@ -383,7 +400,7 @@
     "cta": {
       "titleLine1": "Not sure which",
       "titleLine2": "programme fits you?",
-      "body": "Talk to a StudentsUni counsellor and get a shortlist matched to your grades, budget, and goals."
+      "body": "Talk to a Arabic Era counsellor and get a shortlist matched to your grades, budget, and goals."
     }
   },
   "universitiesPage": {
@@ -396,7 +413,7 @@
     "cta": {
       "titleLine1": "Not sure which",
       "titleLine2": "university fits you?",
-      "body": "Talk to a StudentsUni counsellor and get a shortlist matched to your grades, budget, and goals."
+      "body": "Talk to a Arabic Era counsellor and get a shortlist matched to your grades, budget, and goals."
     }
   },
   "filters": {
@@ -444,7 +461,8 @@
     "phd": "PhD",
     "doctoral-degree": "PhD / Doctoral Degree",
     "certificate": "Certificate",
-    "language": "Language Program"
+    "language": "Language Program",
+    "other": "Other"
   },
   "universityDetail": {
     "programmes": "Programmes",
@@ -493,6 +511,54 @@
     "backToUniversity": "Back to university",
     "programNotFound": "Program not found",
     "universityNotFound": "University not found",
-    "backToUniversities": "Back to universities"
+    "backToUniversities": "Back to universities",
+    "compareAll": "Compare all {count} universities offering {title}"
+  },
+  "programPage": {
+    "backToPrograms": "All programmes",
+    "offeredBy": "Offered by {count} universities in Malaysia",
+    "aboutTitle": "About this programme",
+    "compareTitle": "Compare tuition fees",
+    "feeNote": "Fees are indicative and taken from official university sources; confirm current fees with the university before applying.",
+    "metaDescription": "Compare {title} programmes at {count} universities in Malaysia — tuition fees, duration, entry requirements, and intakes.",
+    "descriptionTemplate": "{title} programmes are offered at {count} universities in Malaysia across {levels} levels. Compare tuition fees, duration, accreditation, and entry requirements for every option below.",
+    "table": {
+      "university": "University",
+      "level": "Level",
+      "duration": "Duration",
+      "totalFee": "Total fee",
+      "perYear": "Per year",
+      "accreditation": "MQA"
+    },
+    "stats": {
+      "universities": "Universities",
+      "feeRange": "Fee range",
+      "feeRangeNote": "Lowest to highest indicative fee",
+      "levels": "Levels"
+    },
+    "needHelp": "Need help choosing?",
+    "needHelpBody": "Talk to a counsellor to compare these programmes against your grades, budget, and career goals — free of charge.",
+    "descriptions": {
+      "business-administration": "Business administration covers how organisations are run — strategy, operations, marketing, finance, and people. It is one of the broadest degrees in Malaysia and leads into management, banking, consulting, and entrepreneurship.",
+      "accounting": "Accounting teaches financial reporting, auditing, taxation, and business law, and is the standard route toward professional qualifications such as ACCA, CPA, and CIMA.",
+      "computer-science": "Computer science is the study of algorithms, software, and computing systems. Programmes cover programming, data structures, databases, and networks, with specialisations such as AI and cybersecurity.",
+      "information-technology": "Information technology focuses on applying computing systems inside real organisations — networks, databases, cloud infrastructure, and IT operations — rather than on the theory of computation.",
+      "software-engineering": "Software engineering applies engineering principles to building and maintaining software across the full lifecycle: requirements, design, development, testing, and delivery.",
+      "cyber-security": "Cybersecurity prepares graduates to protect systems and data, covering network defence, ethical hacking, cryptography, digital forensics, and security governance.",
+      "artificial-intelligence": "Artificial intelligence covers machine learning, neural networks, natural language processing, and robotics, and how these techniques are applied in products and research.",
+      "education": "Education programmes prepare teachers and trainers, combining pedagogy and child development with classroom practice and supervised teaching placements.",
+      "business": "General business degrees give a broad foundation across marketing, finance, management, and operations, and let students specialise later.",
+      "mechanical-engineering": "Mechanical engineering deals with machines, materials, and energy — from design and thermodynamics to manufacturing, automation, and robotics.",
+      "management": "Management degrees focus on leading teams and organisations: strategy, organisational behaviour, operations, and decision-making.",
+      "communication": "Communication programmes cover media, journalism, public relations, and digital content, blending theory with practical production skills.",
+      "psychology": "Psychology studies the mind and behaviour, covering developmental, cognitive, social, and clinical psychology, with routes into counselling and human resources.",
+      "nursing": "Nursing prepares registered nurses through clinical training in patient care, anatomy, pharmacology, and community health.",
+      "finance": "Finance covers financial markets, investments, corporate finance, and risk management, usually with strong quantitative and analytical training.",
+      "civil-engineering": "Civil engineering designs and builds infrastructure — structures, roads, bridges, and water systems — with strong foundations in mechanics and materials.",
+      "law": "Law programmes cover constitutional, contract, criminal, and commercial law, preparing graduates for legal practice, corporate, and compliance careers.",
+      "architecture": "Architecture combines design studio work with building technology, history, and environmental design, leading toward professional architectural practice.",
+      "pharmacy": "Pharmacy covers drug science, pharmacology, and patient care, preparing graduates for hospitals, community pharmacies, and the pharmaceutical industry.",
+      "tourism-management": "Tourism and hospitality management covers hotel and event operations, travel services, and destination marketing."
+    }
   }
 }

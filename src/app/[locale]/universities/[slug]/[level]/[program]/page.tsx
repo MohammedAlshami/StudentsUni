@@ -5,6 +5,8 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { BadgeCheck, Calendar, Clock, GraduationCap, ShieldCheck, Wallet } from "lucide-react";
 import { wrap, Label, Pill } from "@/components/marketing-ui";
 import { normalizeProgramsList, loadProgramDetail, entrySlug } from "@/lib/university-detail";
+import { getCanonicalProgramForOffering } from "@/lib/program-catalog";
+import { getUniversityGallery, GENERIC_CAMPUS_PHOTOS } from "@/lib/university-images";
 import { routing } from "@/i18n/routing";
 
 const LEVEL_LABEL_KEYS: Record<string, string> = {
@@ -124,11 +126,16 @@ export default async function ProgramDetailPage({
   const reqs = prog.requirements;
   const hasReqs = Object.values(reqs).some(Boolean);
   const levelLabel = LEVEL_LABEL_KEYS[prog.level] ? tLevels(LEVEL_LABEL_KEYS[prog.level] as "foundation") : prog.level;
+  const canonical = getCanonicalProgramForOffering(slug, level, program);
+  const headerImage = getUniversityGallery(slug)[0]?.url ?? GENERIC_CAMPUS_PHOTOS[0];
 
   return (
     <div className="bg-white font-sans text-[#242927]">
       {/* Header */}
-      <div className="bg-[#285b50] text-white">
+      <div
+        className="bg-cover bg-center text-white"
+        style={{ backgroundImage: `linear-gradient(rgba(0,0,0,.78),rgba(0,0,0,.55)),url(${headerImage})` }}
+      >
         <div className={`${wrap} py-[42px]`}>
           <div className="flex flex-wrap items-center gap-[6px] text-[12px] text-white/60">
             <Link href="/universities" className="hover:underline">
@@ -168,8 +175,16 @@ export default async function ProgramDetailPage({
             )}
           </div>
 
-          <div className="mt-[26px]">
+          <div className="mt-[26px] flex flex-wrap items-center gap-[16px]">
             <Pill white>{t("applyThroughUs")}</Pill>
+            {canonical && (
+              <Link
+                href={`/programs/${canonical.slug}`}
+                className="text-[13px] font-semibold text-white/80 underline underline-offset-4 hover:text-white"
+              >
+                {t("compareAll", { count: canonical.universityCount, title: canonical.title })}
+              </Link>
+            )}
           </div>
         </div>
       </div>
