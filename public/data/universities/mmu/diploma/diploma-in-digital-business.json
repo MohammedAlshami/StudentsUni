@@ -4,7 +4,7 @@
   "level": "diploma",
   "program_name": "Diploma in Digital Business",
   "field": "Business",
-  "duration": "2 Years",
+  "duration": "2 years",
   "mode": "Full-time",
   "intakes": [
     "Aug",
@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 26500,
-    "per_year": 13250,
-    "notes": "Total programme fee"
+    "total": 29000,
+    "per_year": 14500,
+    "notes": "MMU official 2026 international fee schedule (June 2026); fees are before 6% SST. Source: https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -47,10 +47,15 @@
       "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-melaka-224/diploma-in-digital-business-293177/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Digital Business",
   "program_name_zh": "Digital Business文凭",
   "field_ar": "إدارة الأعمال",

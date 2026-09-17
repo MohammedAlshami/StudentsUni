@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 52600,
-    "per_year": 23100,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": 54200,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM54,200 (excludes 6% SST). Source: https://www.apu.edu.my/course/diploma-in-accounting (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "english_requirement": "IELTS : 4.5 / TOEFL IBT : 2 / Pearson (PTE) : 43 / MUET : Band 3.0",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "SPM 3 Credits in at least 3 subjects at SPM level including Mathematics, with a minimum of a pass in Bahasa Malaysia, English, and Sejarah (History). Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. IGCSE/O-Levels 3 Credits (Grade C &amp; above) in at least 3 subjects at IGCSE/O-Levels including Mathematics. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. UEC 3 Credits (Grade B &amp; above) in at least 3 subjects in UEC including Mathematics. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. Certificate Pass relevant Certificate Programme or its equivalent, with a Credit in Mathematics and a pass in English at SPM level. Note: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. Pass in English is required at SPM/IGCSE/O-Level or equivalent. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by the Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) published by the Malaysian Qualifications Agency (MQA). English Requirements International Students IELTS: 4.5 TOEFL IBT: 33 Pearson (PTE): 43 MUET: Band 3.0"
+    "general": "General Requirements SPM 3 Credits in at least 3 subjects at SPM level including Mathematics, with a minimum of a pass in Bahasa Malaysia, English and Sejarah (History); IGCSE/O-LEVELS 3 Credits (Grade C & above) in at least 3 subjects at IGCSE/O-LEVELS including Mathematics; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC including Mathematics; CERTIFICATE Pass relevant Certificate Programme or its equivalent, with a Credit in Mathematics and a pass in English at SPM level. A qualification that APU accepts as equivalent to the above. Pass in English is required at SPM/IGCSE/O-Level or equivalent. Candidates who have obtained a Pass in Mathematics , but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module before enrolment. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -35,7 +35,7 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Accounting",
   "program_name_zh": "Accounting文凭",
   "field_ar": "المحاسبة",

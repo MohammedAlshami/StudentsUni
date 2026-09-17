@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17094,
-    "per_year": 4280,
-    "notes": "Local: RM25,000.00; International: RM57,705.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 57705,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,705. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0005993/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "Pass SPM or its equivalent with 3 credits in any subjects; Science Computer Certificate or Business Management Certificate from PTPL; Polytechnic, IPTA Certificate or its equivalent recognised by MSU Senate; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
+    "general": "You need at least THREE (3) Credits at SPM level; OR a PTPL Certificate in Computer Science or Business Management; OR an equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +56,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Graphic Design",
   "program_name_zh": "Graphic Design文凭",
   "field_ar": "الفنون",

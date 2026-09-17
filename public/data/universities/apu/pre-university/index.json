@@ -108,14 +108,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 26799,
-    "international_total": 28400.0,
-    "per_year_local": 17866,
+    "local_total": 21200,
+    "international_total": 21200,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "From StudyMalaysia: RM26,800.00 (per_year based on 1.5yr duration)"
+    "notes": "APU official course pages: international tuition totals RM21,200–RM29,200; Malaysian RM21,200–RM27,500. Individual programme pages carry exact per-programme figures. Sources: https://www.apu.edu.my/fees and APU course pages (accessed 2026-09-18)."
   },
   "sources": [
-    "https://www.studymalaysia.com/edu/apu/courses/"
+    "https://www.studymalaysia.com/edu/apu/courses/",
+    "https://www.apu.edu.my/fees"
   ],
-  "last_updated": "2026-09-16"
+  "last_updated": "2026-09-18"
 }

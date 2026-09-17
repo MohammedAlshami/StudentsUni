@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 18100,
-    "per_year": 4525,
-    "notes": ""
+    "total": 85900,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM85,900 (inclusive of 6% SST). Source: https://foet.tarc.edu.my/programmes/bachelor-degree/bachelor-of-electronics-engineering-technology-honours (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -44,10 +44,12 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://foet.tarc.edu.my/programmes/bachelor-degree/bachelor-of-electronics-engineering-technology-honours",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Electronics Engineering Technology with Honours",
   "program_name_zh": "Electronics Engineering Technology with Honours学士",
   "field_ar": "الهندسة",

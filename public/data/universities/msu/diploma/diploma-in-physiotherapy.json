@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 28294,
-    "per_year": 7166,
-    "notes": "Local: RM64,500.00; International: RM102,035.00 (per_year based on 3.0yr duration)"
+    "total": 102035,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM102,035. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0056490/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "Passed SPM or equivalent with at least FIVE (5) Credits including THREE (3) from Bahasa Malaysia, English, Mathematics, ONE (1) from a Science subject (Biology, Physics, Chemistry, General Science, or Applied Science), and ONE (1) from any other subject; OR passed GCE O-level or equivalent with at least FIVE (5) Cs including TWO (2) from English and Mathematics, ONE (1) from a Science subject (Biology, Physics, Chemistry, General Science, or Applied Science), and TWO (2) from other subjects."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Physiotherapy",
   "program_name_zh": "Physiotherapy文凭",
   "field_ar": "الطب",

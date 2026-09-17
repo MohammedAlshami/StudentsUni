@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 24600,
-    "per_year": 5750,
-    "notes": "Local: RM51,750.00; International: RM90,955.00 (per_year based on 3.0yr duration)"
+    "total": 90955,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM90,955. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057139/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "Pass SPM with a Credit in any three (3) subjects and a Pass in two (2) Science subjects (Physics/Chemistry/Biology); Other acceptable qualifications include a Certificate (MQF Level 3) in Optical Technology or Science or equivalent, a Fellowship Diploma of the British Dispensing Optician (FBDO), or other qualifications recognized by the Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,
@@ -45,7 +46,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Ophthalmic Dispensing",
   "program_name_zh": "Ophthalmic Dispensing文凭",
   "field_ar": "General",

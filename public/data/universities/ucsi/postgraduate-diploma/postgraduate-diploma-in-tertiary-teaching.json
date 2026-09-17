@@ -4,18 +4,18 @@
   "level": "postgraduate-diploma",
   "program_name": "Postgraduate Diploma in Tertiary Teaching",
   "field": "Tertiary Teaching",
-  "duration": "1-2 Years",
+  "duration": "Full-time : 12 months, part-time : 18-24 months",
   "mode": "Full-time/Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 31750,
-    "per_year": 31750,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 35312,
+    "per_year": null,
+    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/postgraduate-diploma-tertiary-teaching-pgdtt), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,10 +24,11 @@
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057299/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/"
+    "https://www.studymalaysia.com/edu/ucsi/courses/",
+    "https://www.ucsiuniversity.edu.my/programmes/postgraduate-diploma-tertiary-teaching-pgdtt"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Postgraduate Diploma in Tertiary Teaching",
   "program_name_zh": "Postgraduate Diploma in Tertiary Teaching",
   "field_ar": "التدريس",

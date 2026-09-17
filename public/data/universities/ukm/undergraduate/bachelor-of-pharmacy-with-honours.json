@@ -4,7 +4,7 @@
   "level": "undergraduate",
   "program_name": "Bachelor of Pharmacy with Honours",
   "field": "Pharmacy",
-  "duration": "4 years",
+  "duration": "8 Semesters",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 84000,
-    "per_year": 21000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 144220,
+    "per_year": 36055,
+    "notes": "International (UKMi) tuition per UKMShape fee schedule 2024/2025: RM144,220 total (incl. first-semester registration) for 8 semesters; per_year = total / 4 years (derived). Source: https://shape.ukm.my/storage/lampiran/struktur_yuran/FFAR/pra/strukturyuran_FFAR_UKMi_pra_F_int.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,10 +27,10 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.ukm.my/portal/undergraduate-programmes/"
+    "https://shape.ukm.my/storage/lampiran/struktur_yuran/FFAR/pra/strukturyuran_FFAR_UKMi_pra_F_int.pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Pharmacy with Honours",
   "program_name_zh": "Pharmacy with Honours学士",
   "field_ar": "الصيدلة",

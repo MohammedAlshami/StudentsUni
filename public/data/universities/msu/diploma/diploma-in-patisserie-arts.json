@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22345,
-    "per_year": 6677,
-    "notes": "Local: RM39,000.00; International: RM70,315.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 70315,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM70,315. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0004695/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "Pass SPM or equivalent with at least a Credit in three (3) subjects or equivalent; OR Obtain one (1) Credit at SPM level plus a Level-3 Skills Certificate; OR Obtain a recognized MQF Level-3 certificate in a related field; OR Pass UEC with a B in three (3) subjects; OR Pass O-Level with a C in three (3) subjects; OR Pass Malaysia Skills Certificate (SKM) / Community College Certificate (both MQF Level 3) in a related field and pass SPM with one (1); OR Pass STPM or equivalent with at least a C (2.00 CGPA) in one (1) subject or pass STAM with Maqbul; OR Obtain other equivalent qualifications recognized by the Government of Malaysia."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Patisserie Arts",
   "program_name_zh": "Patisserie Arts文凭",
   "field_ar": "الفنون",

@@ -5,7 +5,7 @@
   "program_name": "Bachelor in Computer Science (Hons)",
   "program_slug": "bachelor-in-computer-science-hons",
   "field": "Computing & IT",
-  "duration": "4 years",
+  "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
     "Jul",
@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 38865,
-    "per_year": 6075,
-    "notes": "Local: RM44,500.00; International: RM85,400.00 (per_year based on 4.0yr duration)"
+    "total": 85400,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM85,400. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003077/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "i. Pass in Matriculation or Foundation studies with a minimum CGPA of 2.00; OR pass in STPM or equivalent with a minimum of Grade C (GP 2.00) in any 2 subjects and credit in: a) Additional Mathematics; OR b) Mathematics and any one of the Science, Technology or Engineering subjects. Note: Students under i b) must take and pass Mathematics reinforcement subjects before proceeding to relevant core courses unless exempted by prior qualifications. ii. Pass STPM in Science stream or equivalent with minimum Grade C (GP 2.00) in one Mathematics and one Science/ICT subject; OR iii. Diploma in Computer Science / Software Engineering / IT / Information Systems or equivalent with minimum CGPA of 2.50; OR iv. Any other Diploma in science and technology with minimum CGPA of 2.50."
   },
   "accreditation": {
     "mqa_status": null,
@@ -53,10 +54,11 @@
       "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-in-computer-science-hons-27090/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.msu.edu.my/faculty-information-sciences-engineering/bachelor-computer-science.php"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Science (Hons)",
   "program_name_zh": "Computer Science (Hons)学士",
   "field_ar": "تقنية المعلومات",

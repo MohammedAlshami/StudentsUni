@@ -4,21 +4,21 @@
   "level": "bachelor",
   "program_name": "Bachelor of Computer Engineering (Artificial Intelligence) with Honours",
   "field": "Computer Engineering (Artificial Intelligence)",
-  "duration": "4 Years",
+  "duration": "4 years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 124245,
-    "per_year": 124245,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 137674,
+    "per_year": null,
+    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-computer-engineering-artificial-intelligence-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 141,267."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.0",
     "a_level": "2 Principals (C+) including relevant subjects",
     "ib": "24 points",
     "other_qualifications": "Equivalent pre-university qualification"
@@ -26,10 +26,11 @@
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057288/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/"
+    "https://www.studymalaysia.com/edu/ucsi/courses/",
+    "https://www.ucsiuniversity.edu.my/programmes/bachelor-computer-engineering-artificial-intelligence-honours"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Engineering (Artificial Intelligence) with Honours",
   "program_name_zh": "Computer Engineering (Artificial Intelligence) with Honours学士",
   "field_ar": "الهندسة",

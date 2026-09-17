@@ -13,15 +13,16 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 57275.0,
-    "per_year": 11340,
-    "notes": "Local: RM28,350.00; International: RM57,275.00 (per_year based on 2.5yr duration)"
+    "currency": "MYR",
+    "total": 57275,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,275. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0058476/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "A pass in SPM with at least credit in any 3 subjects, or any equivalent qualification; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM), with a minimum of Grade C (GP 2.0) in any subject, or any equivalent qualification; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul; OR A pass in SKM Level 3 in a related field, and a pass in SPM with a minimum of 1 credit in any subject; OR Any qualifications equivalent to Certificate (Level 3, Malaysian Qualifications Framework, MQF)."
   },
   "accreditation": {
     "mqa_status": null,
@@ -40,7 +41,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Sports Management",
   "program_name_zh": "Sports Management文凭",
   "field_ar": "إدارة الأعمال",

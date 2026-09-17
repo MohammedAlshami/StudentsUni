@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 20915,
-    "per_year": 4889,
-    "notes": "Local: RM44,000.00; International: RM81,005.00 (per_year based on 3.0yr duration)"
+    "total": 81005,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM81,005. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0004680/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Pass in Matriculation or Foundation studies with a minimum CGPA of 2.00 and credit in Mathematics at SPM level or its equivalent; OR Pass in STPM or its equivalent, with a minimum of Grade C (GPA 2.00) in any 2 subjects and a credit in Mathematics at SPM level or its equivalent; OR Diploma in Computer Science / Software Engineering / Information Technology / Information Systems or equivalent with a minimum CGPA of 2.50 and credit in Mathematics at SPM level or its equivalent; OR Any other Diploma in science and technology or business studies with a minimum CGPA of 2.50 may be admitted, subject to a rigorous internal assessment process and a credit in Mathematics at SPM level or its equivalent. Candidates with CGPA below 2.5 but above 2.0 with a credit in Mathematics at SPM level or its equivalent may be admitted, subject to a rigorous internal assessment process. The credit in Mathematics at SPM level can be waived if the qualification contains equivalent or higher-level Mathematics. Candidates with a credit in computing-related subject at SPM or STPM level or equivalent may be given preferential consideration. International students must have IELTS score of 6.0 or equivalent."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Information and Communication Technology (Hons)",
   "program_name_zh": "Information and Communication Technology (Hons)学士",
   "field_ar": "تقنية المعلومات",

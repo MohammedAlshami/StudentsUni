@@ -4,7 +4,7 @@
   "level": "foundation",
   "program_name": "Foundation in Cinematic Arts",
   "field": "Cinematic Arts",
-  "duration": "1 Year",
+  "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
     "Apr",
@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19500,
-    "per_year": 19500,
-    "notes": "Total programme fee; maps to Foundation in Creative Multimedia"
+    "total": 12000,
+    "per_year": 12000,
+    "notes": "MMU official 2026 international fee schedule (June 2026): fee corresponds to Foundation in Creative Multimedia; fees are before 6% SST. Source: https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -45,10 +45,15 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Cinematic Arts",
   "program_name_zh": "Cinematic Arts预科",
   "field_ar": "الفنون",

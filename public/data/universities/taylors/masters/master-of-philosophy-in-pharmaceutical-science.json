@@ -9,17 +9,17 @@
   "duration": "3 years",
   "mode": "Full Time",
   "intakes": [
-    "Apr",
     "Feb",
+    "Apr",
     "Jun",
-    "Nov",
-    "Sep"
+    "Sep",
+    "Oct"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 120000,
-    "per_year": 40000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+    "total": 57018,
+    "per_year": 19006,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/master-research/master-of-philosophy-in-pharmaceutical-science.html"
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/master-research/master-of-philosophy-in-pharmaceutical-science.html",
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.5,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Philosophy in Pharmaceutical Sciences",
   "program_name_zh": "Philosophy in Pharmaceutical Sciences硕士",
   "field_ar": "الصيدلة",

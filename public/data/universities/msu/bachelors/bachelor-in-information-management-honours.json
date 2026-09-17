@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 79340.0,
-    "per_year": 12833,
-    "notes": "Local: RM38,500.00; International: RM79,340.00 (per_year based on 3.0yr duration)"
+    "currency": "MYR",
+    "total": 79340,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM79,340. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057158/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "i. Pass Sijil Tinggi Persekolahan Malaysia (STPM)/Matriculation/A-Level/Pre-University programme or its equivalent with minimum Gred C (CGPA of 2.00) in any two subjects and pass mathematics or additional mathematics at SPM or equivalent level. ii. Pass Sijil Tinggi Agama Malaysia (STAM) with minimum jayyid gred and pass mathematics or additional mathematics at Sijil Pelajaran Malaysia (SPM) level. iii. Pass Diploma (Level 4, KKM) or its equivalent from Management and Science University (MSU) or any higher institute recognize by MOE with minimum of CGPA 2.00 and pass mathematics or additional mathematics at SPM or equivalent level. iv. Pass in Matriculation/Foundation from MSU or its equivalent with minimum CGPA 2.00 and pass mathematics or additional mathematics at SPM or equivalent level. v. Pass in Diploma Kolej Komuniti (Level 4, KKM) in related field. vi. A pass in UEC with a minimum B grade in five subjects and a pass in Mathematics or Additional Mathematics. vii. Pass South Australia Matriculation (SAM) with minimum marks of 65% to 70%. viii. Pass Canadian Pre-University Programme (CPU) with minimum 80%. ix. Pass three subjects at A-Level (GCE). x. Pass Diploma Kemahiran Malaysia (DKM) (Level 4, KKM) in any field. xi. Pass Diploma Institut Kemahairan Mara (IKM) (Level 4, KKM) in related field. xii. Any qualification approved aby MSU Senate or Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Information Management (Honours)",
   "program_name_zh": "Information Management (Honours)学士",
   "field_ar": "إدارة الأعمال",

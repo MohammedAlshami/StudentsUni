@@ -13,15 +13,16 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 57685.0,
-    "per_year": 9600,
-    "notes": "Local: RM24,000.00; International: RM57,685.00 (per_year based on 2.5yr duration)"
+    "currency": "MYR",
+    "total": 57685,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,685. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0058664/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "i. A pass in SPM with at least credit in any 3 subjects inclusive of Mathematics or any equivalent qualification; OR ii. A pass in STPM with a minimum Grade C (GP 2.0) in any subject and a credit in Mathematics at SPM level or equivalent; OR iii. A pass in STAM with a minimum grade of Maqbul (pass) and a credit in Mathematics at SPM level or equivalent; OR iv. A pass in SKM Level 3 and a credit in Mathematics at SPM level or equivalent; OR v. A pass in any qualifications equivalent to Certificate (Level 3, MQF) and a credit in Mathematics at SPM level or equivalent. Candidates without a credit in Mathematics at SPM level may be admitted if the Certificate programme contains equivalent mathematics subjects. Preferential consideration may be given to those with a credit in computing-related subjects at SPM level or equivalent."
   },
   "accreditation": {
     "mqa_status": null,
@@ -40,7 +41,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Information System",
   "program_name_zh": "Information System文凭",
   "field_ar": "General",

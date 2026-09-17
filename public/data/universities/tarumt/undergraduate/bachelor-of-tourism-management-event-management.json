@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33498,
-    "per_year": 11166,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "TAR UMT 2026 International Student Fees Guide lists Faculty of Social Science and Humanities Bachelor Degree estimated total international fees RM73,000–74,600 (inclusive of 6% SST); exact programme fee is not published on the programme page. Source: https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf (updated April 2026; accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -41,10 +41,12 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/bachelor-of-tourism-management-honours-event-management-292899/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://fssh.tarc.edu.my/programmes/bachelor-degree/bachelor-of-tourism-management-honours-event-management",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Tourism Management (Honours) Event Management",
   "program_name_zh": "Tourism Management (Honours) Event Management学士",
   "field_ar": "تقنية المعلومات",

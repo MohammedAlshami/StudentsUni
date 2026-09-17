@@ -73,15 +73,17 @@
   },
   "sources": [
     "https://www.uthm.edu.my",
-    "https://www.studymalaysia.com/edu/uthm/courses/"
+    "https://www.studymalaysia.com/edu/uthm/courses/",
+    "https://bendahari.uthm.edu.my/index.php/perkhidmatan/yuran-pengajian",
+    "https://io.uthm.edu.my/admission/tuition-fees"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 4200,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 1400,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    "notes": "International totals (excluding SST/personal bond/hostel) from UTHM official 2026/27 fee schedule: bachelor RM26,550-RM53,100 (some programmes not offered internationally); diploma RM15,600; master RM18,595 (coursework) / RM38,535 (IT coursework) / RM24,550 (research); PhD RM39,020. See individual programme files. Source: https://bendahari.uthm.edu.my/index.php/perkhidmatan/yuran-pengajian, retrieved 2026-09-18."
   }
 }

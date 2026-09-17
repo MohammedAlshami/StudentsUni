@@ -7,17 +7,17 @@
   "program_slug": "pgdip-maritime-studies",
   "field": "Maritime Studies",
   "type": "coursework",
-  "duration": "1.5 years",
+  "duration": "2 Semesters",
   "mode": "full-time",
   "intakes": {
     "main": "September",
     "secondary": "February"
   },
   "fees": {
-    "currency": "MYR",
-    "total": 30000,
-    "per_year": 15000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": 4176.4,
+    "per_year": 4176,
+    "notes": "Official UMT postgraduate coursework international fee (Sem I 2025/2026): USD4,176.40 total for 2 semesters; per_year = total / 1 years (derived). Source: https://postgrad.umt.edu.my/wp-content/uploads/2025/08/YURAN-PENGAJIAN-PROGRAM-SARJANA-KERJA-KURSUS-SEM-I-2025.2026.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,11 +25,10 @@
   },
   "accreditation": null,
   "sources": [
-    "https://umt.my/all-programs-at-umt/",
-    "https://www.studymalaysia.com/edu/umt/courses/"
+    "https://postgrad.umt.edu.my/wp-content/uploads/2025/08/YURAN-PENGAJIAN-PROGRAM-SARJANA-KERJA-KURSUS-SEM-I-2025.2026.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Postgraduate Diploma in Maritime Studies",
   "program_name_zh": "Postgraduate Diploma in Maritime Studies",
   "field_ar": "تقنية المعلومات",

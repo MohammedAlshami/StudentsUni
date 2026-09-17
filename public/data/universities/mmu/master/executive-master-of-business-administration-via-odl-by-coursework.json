@@ -14,8 +14,8 @@
   "fees": {
     "currency": "MYR",
     "total": 16500,
-    "per_year": 16900,
-    "notes": "Total programme fee; ODL mode; local fee not listed on website (per_year based on 1.0yr duration)"
+    "per_year": 16500,
+    "notes": "MMU official 2026 international postgraduate fee schedule (June 2026): ODL mode; fees are before 6% SST. Source: https://www.mmu.edu.my/wp-content/uploads/2026/06/2026-Pricing-30-JUNE-2026-UPDATE-PG-Fee-Structure-International-Update-21-04-2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -60,10 +60,15 @@
       "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/executive-master-of-business-administration-online-27282/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/2026-Pricing-30-JUNE-2026-UPDATE-PG-Fee-Structure-International-Update-21-04-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Executive Master of Business Administration (E.M.B.A) via ODL (By Coursework)",
   "program_name_zh": "Executive Master of Business Administration (E.M.B.A) via ODL (By Coursework)",
   "field_ar": "إدارة الأعمال",

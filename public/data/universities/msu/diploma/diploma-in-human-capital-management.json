@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16685,
-    "per_year": 4109,
-    "notes": "Local: RM24,000.00; International: RM56,635.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 56635,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM56,635. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0006001/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "THREE (3) Credits at SPM level; OR PTPL Certificate in Business Management with a Pass in all subjects; OR Equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Human Capital Management",
   "program_name_zh": "Human Capital Management文凭",
   "field_ar": "إدارة الأعمال",

@@ -6,24 +6,33 @@
     "program_name": "Doctor of Philosophy (PhD) in Architecture",
     "field": "Architecture",
     "slug": "doctor-of-philosophy-in-architecture",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 or TOEFL 95",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/phd-research/doctor-of-philosophy-in-architecture.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -32,24 +41,33 @@
     "program_name": "Doctor of Philosophy (PhD) in Science",
     "field": "Biosciences",
     "slug": "doctor-of-philosophy-in-science",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Jun",
+      "Oct",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 or TOEFL 95",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/phd-research/doctor-of-philosophy-in-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -58,24 +76,30 @@
     "program_name": "Doctor of Business Administration (DBA)",
     "field": "Business",
     "slug": "doctor-of-business-administration",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 99017,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 33006,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 26,057. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/postgraduate/taylors-fees-schedule-pg-doctor-of-business-administration-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/phd-coursework/doctor-of-business-administration.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -84,24 +108,33 @@
     "program_name": "Doctor of Philosophy (PhD) in Business",
     "field": "Business",
     "slug": "doctor-of-philosophy-in-business",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 (or equivalent English qualification)",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/phd-research/doctor-of-philosophy-in-business.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -110,24 +143,33 @@
     "program_name": "Doctor of Philosophy (PhD) In Food Studies",
     "field": "Culinary Arts",
     "slug": "doctor-of-philosophy-in-food-studies",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 or TOEFL 95",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/phd-research/doctor-of-philosophy-in-food-studies.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -136,24 +178,33 @@
     "program_name": "Doctor of Philosophy (PhD) in Media and Communication Studies",
     "field": "Media and Communication",
     "slug": "doctor-of-philosophy-in-media-and-communication-studies",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 or TOEFL 95",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/phd-research/doctor-of-philosophy-in-media-and-communication-studies.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -162,24 +213,33 @@
     "program_name": "Doctor of Philosophy (PhD) in Computer Science",
     "field": "Computer Science",
     "slug": "doctor-of-philosophy-in-computer-science",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 or TOEFL 95",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/phd-research/doctor-of-philosophy-in-computer-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -188,24 +248,33 @@
     "program_name": "Doctor of Philosophy In Design Management",
     "field": "Design",
     "slug": "doctor-of-philosophy-in-design-management",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 or TOEFL 95",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/design/phd-research/doctor-of-philosophy-in-design-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -214,24 +283,33 @@
     "program_name": "Doctor of Philosophy in Education",
     "field": "Education",
     "slug": "doctor-of-philosophy-in-education",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 or TOEFL 95",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/phd-research/doctor-of-philosophy-in-education.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -240,24 +318,33 @@
     "program_name": "Doctor of Philosophy in Engineering",
     "field": "Engineering",
     "slug": "doctor-of-philosophy-in-engineering",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/phd-research/doctor-of-philosophy-in-engineering.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -266,24 +353,33 @@
     "program_name": "Doctor of Philosophy In Hospitality & Tourism",
     "field": "Hospitality and Tourism",
     "slug": "doctor-of-philosophy-in-hospitality-and-tourism",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Jun",
+      "Oct",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 or TOEFL 95",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/phd-research/doctor-of-philosophy-in-hospitality-tourism.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -292,24 +388,33 @@
     "program_name": "Doctor of Philosophy in Law",
     "field": "Law",
     "slug": "doctor-of-philosophy-in-law",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Jun",
+      "Oct",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 74987,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 24996,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 19,733. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 7.0 (or equivalent English qualification)",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/phd-research/doctor-of-philosophy-in-law.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -318,24 +423,33 @@
     "program_name": "Doctor of Philosophy in Social Sciences",
     "field": "Liberal Arts",
     "slug": "doctor-of-philosophy-in-social-sciences",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Jun",
+      "Oct",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 or TOEFL 95",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/phd-research/doctor-of-philosophy-in-social-sciences.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -344,24 +458,31 @@
     "program_name": "Doctor of Philosophy in Pharmaceutical Sciences",
     "field": "Pharmacy",
     "slug": "doctor-of-philosophy-in-pharmaceutical-science",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Feb",
+      "Apr",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 240000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.5 or TOEFL 95",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/phd-research/doctor-of-philosophy-in-pharmaceutical-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -370,23 +491,32 @@
     "program_name": "Doctor of Philosophy in Medical Science",
     "field": "Medicine",
     "slug": "doctor-of-philosophy-in-medical-science",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 240000,
-      "international_total": null,
+      "international_total": 77648,
       "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+      "per_year_international": 25883,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Master degree with research experience"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/medicine/phd-research/doctor-of-philosophy-in-medical-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   }
 ]

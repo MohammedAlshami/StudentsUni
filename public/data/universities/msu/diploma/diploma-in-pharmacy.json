@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19187,
-    "per_year": 4133,
-    "notes": "Local: RM37,200.00; International: RM74,535.00 (per_year based on 3.0yr duration)"
+    "total": 74535,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM74,535. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0005258/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "At least THREE (3) Credits at SPM level including in Bahasa Malaysia, Mathematics, and one Science subject (Biology is preferred). PTPL Certificate or equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Pharmacy",
   "program_name_zh": "Pharmacy文凭",
   "field_ar": "الطب",

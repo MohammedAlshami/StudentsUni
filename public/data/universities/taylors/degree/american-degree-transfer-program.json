@@ -6,18 +6,18 @@
   "slug": "american-degree-transfer-program",
   "program_slug": "american-degree-transfer-program",
   "field": "Liberal Arts",
-  "duration": "3 years",
+  "duration": "4 years",
   "mode": "Full Time",
   "intakes": [
-    "Apr",
     "Feb",
+    "Jun",
     "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 4380,
-    "per_year": 1460,
-    "notes": "Fee data from StudyMalaysia."
+    "total": null,
+    "per_year": null,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake) lists four ADP tracks with different totals (with 6% SST and including refundable International Security Deposit RM3,000): Liberal Arts RM81,507 (USD 21,449), Business RM92,759 (USD 24,410), Engineering RM92,817 (USD 24,426), Computer Science RM92,876 (USD 24,441). Single total left null because the fee depends on the chosen track. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/undergraduate/american-degree-transfer-program/taylors-fees-schedule-ug-adp-usd.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -28,10 +28,15 @@
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/american-degree-transfer-program.html",
-    "https://www.studymalaysia.com/edu/taylor/courses/"
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/undergraduate/american-degree-transfer-program/taylors-fees-schedule-ug-adp-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "American Degree Transfer Program",
   "program_name_zh": "American Degree Transfer Program",
   "field_ar": "الفنون",

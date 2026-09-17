@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21114,
-    "per_year": 4466,
-    "notes": "Local: RM40,200.00; International: RM80,475.00 (per_year based on 3.0yr duration)"
+    "total": 80475,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM80,475. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0058669/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "SPM or Equivalent Qualifications: Pass SPM or its equivalent with at least FIVE (5) Credits: Compulsory: Bahasa Malaysia TWO (2) from Mathematics and Science subjects (Biology, Chemistry, General Science, or Applied Science) TWO (2) from any other subjects A Pass in English is required; preference for Credit GCE O-Level: At least FIVE (5) Credits: TWO (2) from Mathematics and Science (Biology, Physics, Chemistry, General Science) THREE (3) other subjects Pass in English required Health & Medical Certification: Medically certified fit by a registered practitioner recognized by MSU Must be free from: mental illness, physical/sensory disability, infectious diseases (e.g., HIV/AIDS, Hepatitis B/C), genetic disorders, epilepsy, substance abuse"
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Medical and Health Science",
   "program_name_zh": "Medical and Health Science文凭",
   "field_ar": "الطب",

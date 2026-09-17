@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 23984,
-    "per_year": 7705,
-    "notes": "Local: RM45,000.00; International: RM74,275.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 74275,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM74,275. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057159/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "SPM/SPMV: Three (3) Credits and a Pass in Art Education or Engineering Drawing UEC: Three (3) B’s IKM Certificate (MQF Level 3): 2.00 CGPA SKM (MQF Level 3) in a related field: One (1) SPM Credit Community College Certificate (MQF Level 3) in a related field: 2.00 CGPA Other MQF-Level-3 Certificates from Polytechnic or other recognised providers: 2.00 CGPA Other qualifications recognised as equivalent by MSU Senate or the Government of Malaysia."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Interior Design",
   "program_name_zh": "Interior Design文凭",
   "field_ar": "الفنون",

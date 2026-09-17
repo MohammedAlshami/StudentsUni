@@ -6,7 +6,7 @@
   "slug": "master-in-applied-computing",
   "program_slug": "master-in-applied-computing",
   "field": "Computer Science",
-  "duration": "1 year",
+  "duration": "2 years",
   "mode": "Full-time",
   "intakes": [
     "Apr",
@@ -17,9 +17,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 61105,
-    "per_year": 45777,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)"
+    "total": 68439,
+    "per_year": 34220,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 18,010. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-computer-science/postgraduate/taylors-fees-schedule-pg-master-of-applied-computing-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -41,10 +41,15 @@
       "url": "https://www.easyuni.my/malaysia/taylors-university-252/master-of-applied-computing-294773/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-computer-science/postgraduate/taylors-fees-schedule-pg-master-of-applied-computing-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Applied Computing (Coursework)",
   "program_name_zh": "Applied Computing (Coursework)硕士",
   "field_ar": "علوم الحاسوب",

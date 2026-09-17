@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 22800,
-    "per_year": 5700,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 86800,
+    "per_year": 21700,
+    "notes": "International tuition RM86,800 total (RM10,850/semester x 8 semesters, after discount); per_year derived from official duration. All-in payable RM111,965 incl. entrance/recurrent/mahallah/takaful/graduation, excludes SST. IIUM official section: KOE. Source: https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf (Sem 1 2024/25 onwards; PDF updated Mar 2026), accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,10 +27,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/what/course/IIUM/0055663/"
+    "https://www.studymalaysia.com/what/course/IIUM/0055663/",
+    "https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Engineering (Civil Engineering) (Hons)",
   "program_name_zh": "Engineering (Civil Engineering) (Hons)学士",
   "field_ar": "الهندسة",

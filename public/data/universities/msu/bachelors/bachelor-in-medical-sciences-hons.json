@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
+    "currency": "MYR",
     "total": 174350,
-    "per_year": 32800,
-    "notes": "Local: RM98,400.00; International: RM174,350.00 (per_year based on 3.0yr duration)"
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM174,350. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003088/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "STPM/Matriculation/Pre-University/Equivalent: GPA 2.33 in two of the following subjects: Biology, Physics/Mathematics, Chemistry; MUET Band 3 or IELTS 5.5/TOEFL 550 for foreign candidates. A-Level or Equivalent: Grade D in two of the following subjects: Biology, Physics/Mathematics, Chemistry; MUET Band 3 or IELTS 5.5/TOEFL 550 for foreign candidates. Diploma (related field): Minimum CGPA 2.75; CGPA below 2.75 must have at least 3 years of working experience in related field; MUET Band 3 or IELTS 5.5/TOEFL 550 for foreign candidates."
   },
   "accreditation": {
     "mqa_status": null,
@@ -46,7 +47,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medical Sciences (Hons)",
   "program_name_zh": "Medical Sciences (Hons)学士",
   "field_ar": "الطب",

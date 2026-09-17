@@ -4,7 +4,7 @@
   "level": "postgraduate",
   "program_name": "Doctor of Philosophy (Economics)",
   "field": "Economics & Management",
-  "duration": "3 years",
+  "duration": "6 Semesters",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 60000,
-    "per_year": 15000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 44910,
+    "per_year": 14970,
+    "notes": "International (UKMi) tuition per UKMShape fee schedule 2024/2025: RM44,910 total (incl. first-semester registration) for 6 semesters; per_year = total / 3 years (derived). Source: https://shape.ukm.my/storage/lampiran/struktur_yuran/FEP/pasca/strukturyuran_FEP_UKMi_pasca_F_int.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,10 +25,10 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.ukm.my/portal/postgraduate-programme/"
+    "https://shape.ukm.my/storage/lampiran/struktur_yuran/FEP/pasca/strukturyuran_FEP_UKMi_pasca_F_int.pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Economics)",
   "program_name_zh": "哲学博士 (Economics)",
   "field_ar": "الاقتصاد",

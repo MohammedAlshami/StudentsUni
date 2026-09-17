@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 20488,
-    "per_year": 3777,
-    "notes": "Local: RM44,100.00; International: RM91,490.00 (per_year based on 3.4166666666666665yr duration)"
+    "total": 91490,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM91,490. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0004676/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Pass STPM/A-Level or equivalent with at least a C (2.00 CGPA) in two (2) subjects; OR Pass STAM with Jayyid; OR Pass Matriculation/Foundation with at least 2.00 CGPA; OR Pass MSU Foundation Certificate with at least 2.00 CGPA; OR Pass UEC with at least a B in five (5) subjects; OR Diploma in a related field with at least 2.00 CGPA; OR Pass SAM scoring at least 65%-70%; OR Pass CPU scoring at least 80%; OR Any other qualifications recognized as equivalent."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Hospitality & Tourism Management (Hons)",
   "program_name_zh": "Hospitality & Tourism Management (Hons)学士",
   "field_ar": "إدارة الأعمال",

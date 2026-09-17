@@ -17,9 +17,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16980,
-    "per_year": 13380,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)"
+    "total": 18514,
+    "per_year": 18514,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 4,872. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/online-postgraduate-programme/taylors-fees-schedule-online-postgraduate-programme-usd.pdf (accessed 2026-09-18). per_year = total / 1yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/online-postgraduate-programme/taylors-fees-schedule-online-postgraduate-programme-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Postgraduate Certificate in Education (100% online)",
   "program_name_zh": "Postgraduate Certificate in Education (100% online)",
   "field_ar": "التربية والتعليم",

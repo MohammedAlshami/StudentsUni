@@ -13,12 +13,12 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 2350,
-    "per_year": 4700,
-    "notes": "Fee data from StudyMalaysia."
+    "total": null,
+    "per_year": null,
+    "notes": "UNIMAS official international postgraduate fee not published for this programme; not listed in UNIMAS official international postgraduate coursework or research fee schedules (current coursework list offers Master of Information Technology Management). Fee left unverified rather than estimated. Sources: https://web.archive.org/web/20250216091217/https://www.postgrad.unimas.my/fees-by-coursework, https://web.archive.org/web/20241111041842/https://www.postgrad.unimas.my/index.php/research-fees (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "english_requirement": "IELTS 4.5 or equivalent (MUET Band 3, TOEFL iBT 33, PTE 43, Cambridge 147)",
     "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": {
@@ -26,10 +26,13 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/edu/unimas/courses/"
+    "https://www.studymalaysia.com/edu/unimas/courses/",
+    "https://www.postgrad.unimas.my/fees-by-coursework",
+    "https://web.archive.org/web/20241111041842/https://www.postgrad.unimas.my/index.php/research-fees",
+    "https://web.archive.org/web/20250216091217/https://www.postgrad.unimas.my/fees-by-coursework"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Advanced Information Technology (MAIT)",
   "program_name_zh": "Advanced Information Technology (MAIT)硕士",
   "field_ar": "تقنية المعلومات",

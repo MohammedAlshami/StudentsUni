@@ -15,9 +15,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 112500,
-    "per_year": 37500,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 22419.0,
+    "per_year": 9063.0,
+    "notes": "Official UMT research programme international fee, Science category (Sem I 2023/2024 intake onwards): RM5,724.00 first semester + RM3,339.00 per subsequent semester; total for 3 years (6 semesters) = RM22,419.00; per_year (year 1) = RM9,063.00 (derived). Source: https://postgrad.umt.edu.my/postgraduate_fees/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -25,11 +25,10 @@
   },
   "accreditation": "MQA/FA6904",
   "sources": [
-    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255",
-    "https://www.studymalaysia.com/edu/umt/courses/"
+    "https://postgrad.umt.edu.my/postgraduate_fees/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Aquaculture)",
   "program_name_zh": "哲学博士 (Aquaculture)",
   "field_ar": "تربية المائيات",

@@ -14,7 +14,7 @@
     "currency": "MYR",
     "total": 60000,
     "per_year": 15000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "notes": "No UKM international (UKMi) fee schedule published for this programme in the UKMShape 2024/2025 fee structure (https://www.ukm.my/ukmshape/ukmshape-learning-fees/), so the previous figure is unverified. Standard public university fees (MQA regulated)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -28,7 +28,7 @@
     "https://www.ukm.my/portal/postgraduate-programme/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Postgraduate Diploma in Clinical Embryology",
   "program_name_zh": "Postgraduate Diploma in Clinical Embryology",
   "field_ar": "الطب",

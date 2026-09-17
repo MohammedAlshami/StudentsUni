@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 25670,
-    "per_year": 6066,
-    "notes": "Local: RM42,600.00; International: RM83,435.00 (per_year based on 3.0yr duration)"
+    "total": 83435,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM83,435. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003086/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "FIVE (5) credits at SPM level including English Language and Mathematics; AND THREE (3) Full Passes at STPM level including in Pengajian Am (General Studies); OR an equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Investment Management (Hons)",
   "program_name_zh": "Investment Management (Hons)学士",
   "field_ar": "إدارة الأعمال",

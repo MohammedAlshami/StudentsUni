@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 28000,
-    "per_year": 14000,
-    "notes": "Total programme fee"
+    "total": 31000,
+    "per_year": 15500,
+    "notes": "MMU official 2026 international fee schedule (June 2026); fees are before 6% SST. Source: https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -56,10 +56,15 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Information Technology",
   "program_name_zh": "Information Technology文凭",
   "field_ar": "تقنية المعلومات",

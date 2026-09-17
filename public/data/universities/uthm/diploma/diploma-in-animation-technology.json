@@ -6,30 +6,32 @@
   "program_slug": "diploma-in-animation-technology",
   "field": "Audio-visual Techniques & Media Production",
   "faculty": "Computer Science and Information Technology",
-  "duration": "5 Semesters",
+  "duration": "6 Semesters",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
-    "secondary": null
+    "secondary": "February/March"
   },
   "fees": {
     "currency": "MYR",
-    "total": 9750,
-    "per_year": 3900,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 15600,
+    "per_year": null,
+    "notes": "International total for the whole programme (6 semesters incl. special semester), excluding SST, personal bond and hostel (UTHM official 2026/27 fee schedule: https://bendahari.uthm.edu.my/index.php/perkhidmatan/yuran-pengajian, retrieved 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "english_requirement": "IELTS 5.0 or TOEFL iBT 65 or MUET Band 2",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UTHM/0057636/",
-    "https://www.studymalaysia.com/edu/uthm/courses/"
+    "https://www.studymalaysia.com/edu/uthm/courses/",
+    "https://bendahari.uthm.edu.my/index.php/perkhidmatan/yuran-pengajian",
+    "https://io.uthm.edu.my/admission/tuition-fees"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Animation Technology",
   "program_name_zh": "Animation Technology文凭",
   "field_ar": "الإعلام",

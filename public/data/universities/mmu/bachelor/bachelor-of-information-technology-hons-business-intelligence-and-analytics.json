@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 77250,
-    "per_year": 25750,
-    "notes": "Total programme fee"
+    "total": 85000,
+    "per_year": 28400,
+    "notes": "MMU official 2026 international fee schedule (June 2026); fees are before 6% SST. Source: https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -42,10 +42,15 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Information Technology (Honours) (Business Intelligence and Analytics)",
   "program_name_zh": "Information Technology (Honours) (Business Intelligence and Analytics)学士",
   "field_ar": "تقنية المعلومات",

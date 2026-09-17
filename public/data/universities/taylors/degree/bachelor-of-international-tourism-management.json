@@ -15,12 +15,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33391,
-    "per_year": 33391,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 149554,
+    "per_year": 49851,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,356. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-hospitality-tourism-and-events/undergraduate/taylors-fees-schedule-ug-hospitality-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
     "a_level": "2 Principals (C+) including relevant subjects",
     "ib": "24 points",
     "other_qualifications": "Equivalent pre-university qualification"
@@ -28,10 +28,15 @@
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/undergraduate/bachelor-of-international-tourism-management.html",
-    "https://www.studymalaysia.com/edu/taylor/courses/"
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-hospitality-tourism-and-events/undergraduate/taylors-fees-schedule-ug-hospitality-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس International Tourism Management (Honours)",
   "program_name_zh": "International Tourism Management (Honours)学士",
   "field_ar": "تقنية المعلومات",

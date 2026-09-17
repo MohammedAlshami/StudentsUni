@@ -14,14 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 18650,
-    "per_year": 15800,
-    "notes": "Local: RM15,800.00; International: RM28,205.00 (per_year based on 1.0yr duration)"
+    "total": 28205,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM28,205. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0006154/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
     "other_qualifications": "High school completion",
-    "general": "Pass SPM/SPMV with at least 5 credits; Pass O-Level with 5 credits from institution recognized by Malaysian Government; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by the Malaysian Government."
+    "general": "At least FIVE (5) Credits at SPM/SPMV/Ordinary Level; OR Equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -55,7 +55,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Business",
   "program_name_zh": "Business预科",
   "field_ar": "إدارة الأعمال",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 77250,
-    "per_year": 25750,
-    "notes": "Total programme fee"
+    "total": null,
+    "per_year": null,
+    "notes": "No international fee published in MMU's official 2026 international fee schedule (June 2026); contact MMU for current fee. Source: https://www.mmu.edu.my/fee-structure-international/"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -45,7 +45,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Hons) Bioinformatics",
   "program_name_zh": "Science (Hons) Bioinformatics学士",
   "field_ar": "علوم الحاسوب",

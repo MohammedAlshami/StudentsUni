@@ -6,21 +6,20 @@
   "slug": "bachelor-of-medicine-bachelor-of-surgery",
   "program_slug": "bachelor-of-medicine-bachelor-of-surgery",
   "field": "Medicine",
-  "duration": "3 years",
+  "duration": "5 years",
   "mode": "Full Time",
   "intakes": [
     "Apr",
-    "Feb",
     "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 118934,
-    "per_year": 118934,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 512760,
+    "per_year": 102552,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 134,937. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-medicine/undergraduate/taylors-fees-schedule-ug-medicine-usd.pdf (accessed 2026-09-18). per_year = total / 5yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
     "a_level": "2 Principals (C+) including relevant subjects",
     "ib": "24 points",
     "other_qualifications": "Equivalent pre-university qualification"
@@ -28,10 +27,15 @@
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/medicine/undergraduate/bachelor-of-medicine-bachelor-of-surgery.html",
-    "https://www.studymalaysia.com/edu/taylor/courses/"
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-medicine/undergraduate/taylors-fees-schedule-ug-medicine-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medicine, Bachelor of Surgery (MBBS)",
   "program_name_zh": "Medicine, Bachelor of Surgery (MBBS)学士",
   "field_ar": "الطب",

@@ -15,12 +15,13 @@
   "fees": {
     "currency": "MYR",
     "total": 56800,
-    "per_year": 18933,
-    "notes": "Total program fee from source"
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM56,800 (excludes 6% SST). Source: https://www.apu.edu.my/course/phd-in-DBA (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
-    "other_qualifications": "Master degree with research experience"
+    "other_qualifications": "Master degree with research experience",
+    "general": "Minimum Entry Requirement All Students Master’s degree in related fields, or its equivalent qualification as accepted by the Senate. Master’s degree in non-related fields as accepted by the Senate and with relevant working experience, subject to a rigorous internal assessment. Master’s degree in non-related fields as accepted by the Senate and without relevant working experience, subject to passing pre-requisite courses. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). Minimum English Requirements International Students IELTS : 6.0 For more information please click HERE"
   },
   "accreditation": "MQA",
   "sources": [
@@ -33,7 +34,7 @@
     }
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Business Administration (DBA)",
   "program_name_zh": "Business Administration (DBA)博士",
   "field_ar": "إدارة الأعمال",

@@ -219,13 +219,13 @@
   "sources": [
     "https://www.studymalaysia.com/edu/unimas/courses/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 39000,
     "international_total": null,
     "per_year_local": 13000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM6500/semester for public university (subsidized) (per_year based on 3yr duration)"
+    "per_year_international": 6420,
+    "notes": "International student fees (verified): no published total; RM6,420 per year. See individual programme files for sources. Main source: https://www.global.unimas.my/admission/undergraduate (accessed 2026-09-18)."
   }
 }

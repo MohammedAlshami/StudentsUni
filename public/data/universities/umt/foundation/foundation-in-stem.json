@@ -17,7 +17,7 @@
     "currency": "MYR",
     "total": 6000,
     "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "notes": "No official UMT international fee schedule published for diploma/foundation programmes (the 2025 international list covers bachelor degrees only: https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf); previous figure is UMT's local/subsidised rate, unverified. Standard public university fees (MQA regulated)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,8 +28,8 @@
     "https://umt.my/all-programs-at-umt/",
     "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255"
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس STEM",
   "program_name_zh": "STEM预科",
   "field_ar": "العلوم",

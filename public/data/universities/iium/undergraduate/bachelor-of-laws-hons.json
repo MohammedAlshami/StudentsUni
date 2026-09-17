@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 20400,
-    "per_year": 5100,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 67200,
+    "per_year": 16800,
+    "notes": "International tuition RM67,200 total (RM8,400/semester x 8 semesters, after discount); per_year derived from official duration. All-in payable RM90,865 incl. entrance/recurrent/mahallah/takaful/graduation, excludes SST. IIUM official section: AIKOL (Laws). Source: https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf (Sem 1 2024/25 onwards; PDF updated Mar 2026), accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS / TOEFL / IIUM English Placement Test",
@@ -27,10 +27,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/what/course/IIUM/0000711/"
+    "https://www.studymalaysia.com/what/course/IIUM/0000711/",
+    "https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Laws (Hons)",
   "program_name_zh": "Laws (Hons)学士",
   "field_ar": "القانون",

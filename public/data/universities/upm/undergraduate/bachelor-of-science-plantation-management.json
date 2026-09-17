@@ -9,13 +9,13 @@
   "mode": "Full-time",
   "intakes": {
     "main": "September",
-    "secondary": null
+    "secondary": "February"
   },
   "fees": {
     "currency": "MYR",
-    "total": 21600,
-    "per_year": 5400,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed in UPM's official international tuition fee schedule (Apr 2026); no published international fee. Source: https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -28,10 +28,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800"
+    "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800",
+    "https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "medium",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science in Plantation Management",
   "program_name_zh": "Science in Plantation Management学士",
   "field_ar": "الزراعة",

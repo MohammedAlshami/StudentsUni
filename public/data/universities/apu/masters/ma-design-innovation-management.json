@@ -14,13 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 38800,
-    "per_year": 13920,
-    "notes": "Total program fee from source"
+    "total": 42000,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM42,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-of-arts-innovation-management (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS : 6.0",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+    "general": "Bachelor’s degree Bachelor’s degree with a minimum CGPA of 2.50, or its equivalent qualification as accepted by the Senate. Bachelor’s degree with a CGPA of less than 2.50 can be accepted, subject to a minimum of 5 years working experience in the related fields. ⁠Any others Bachelor’s degree with a minimum CGPA of 2.50 as accepted by the Senate, subject to passing the interview/ portfolio stage along with all the required documentations and the pre-requisite courses. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -34,7 +35,7 @@
     }
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Arts in Design Innovation Management",
   "program_name_zh": "Arts in Design Innovation Management硕士",
   "field_ar": "التصميم",

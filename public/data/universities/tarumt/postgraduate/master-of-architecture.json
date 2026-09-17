@@ -8,14 +8,14 @@
   "duration": "2 years (FT) / 3 years (PT)",
   "mode": "Flexible",
   "intakes": [
-    "Jun",
-    "Nov"
+    "Feb",
+    "Jun"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 49000.0,
-    "per_year": 24500,
-    "notes": "From StudyMalaysia: RM28,400 (FT)"
+    "total": 49000,
+    "per_year": null,
+    "notes": "CPSR Postgraduate Fee Calendar 2026 (full-time international, inclusive of 6% SST): estimated total RM49,000. Source: https://cpsr.tarc.edu.my/programmes/programme-fees (updated June 2026; accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -34,10 +34,13 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://cpsr.tarc.edu.my/programmes/by-coursework/faculty-of-built-environment/master-of-architecture",
+    "https://cpsr.tarc.edu.my/programmes/programme-fees",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Architecture",
   "program_name_zh": "Architecture硕士",
   "field_ar": "العمارة",

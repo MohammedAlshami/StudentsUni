@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 18260,
-    "per_year": 18260,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 21260,
+    "per_year": null,
+    "notes": "UniMAP CGS official International Research Student Fee Structure (April 2023): grand total RM21,260 for 4 semesters (full-time), including tuition, service, registration fees and RM2,000 personal bond. Source: https://cgs.unimap.edu.my/v2/FEES/International%20APRIL%202023.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/what/course/UniMAP/0003609/",
-    "https://www.studymalaysia.com/edu/unimap/courses/"
+    "https://www.studymalaysia.com/edu/unimap/courses/",
+    "https://cgs.unimap.edu.my/index.php/en/programmes/fees-duration"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "M.Sc.(Bioprocess Engineering)",
   "program_name_zh": "M.Sc.(Bioprocess Engineering)",
   "field_ar": "الهندسة",

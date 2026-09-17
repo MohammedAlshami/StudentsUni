@@ -4,31 +4,32 @@
   "level": "diploma",
   "program_name": "Diploma in Interior Architecture",
   "field": "Interior Architecture",
-  "duration": "2.5 Years",
+  "duration": "2.5 years / 7 semesters (inclusive of 6-month Industry Experience)",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
     "Feb",
-    "Jun"
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 68880,
-    "per_year": 68880,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 74731,
+    "per_year": null,
+    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-interior-architecture), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "english_requirement": "IELTS 4.0 or TOEFL iBT 24",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0006018/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/"
+    "https://www.studymalaysia.com/edu/ucsi/courses/",
+    "https://www.ucsiuniversity.edu.my/programmes/diploma-interior-architecture"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Interior Architecture",
   "program_name_zh": "Interior Architecture文凭",
   "field_ar": "العمارة",

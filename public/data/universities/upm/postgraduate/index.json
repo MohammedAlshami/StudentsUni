@@ -34,9 +34,9 @@
   "fees": {
     "currency": "MYR",
     "local_total": 12000,
-    "international_total": null,
+    "international_total": 17600,
     "per_year_local": 8000,
     "per_year_international": null,
-    "notes": "Estimated ~RM4000/semester for public university (subsidized) (per_year based on 1.5yr duration)"
+    "notes": "Verified international fees from Universiti Putra Malaysia official 2026 sources: total from RM17,600 to RM43,600 across 5 programmes; values shown are the lowest totals in this level. Source: https://sgs.upm.edu.my/upload/dokumen/20260618021817DUAL_INTERNTIONAL_TUITION_FEE_2026_-_16.06.2026.pdf"
   }
 }

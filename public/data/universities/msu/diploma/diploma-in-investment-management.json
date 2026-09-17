@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17115,
-    "per_year": 3955,
-    "notes": "Local: RM23,100.00; International: RM57,695.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 57695,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,695. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0006022/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "FIVE (5) Credits at SPM level including in Bahasa Malaysia and Mathematics; OR an equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Investment Management",
   "program_name_zh": "Investment Management文凭",
   "field_ar": "إدارة الأعمال",

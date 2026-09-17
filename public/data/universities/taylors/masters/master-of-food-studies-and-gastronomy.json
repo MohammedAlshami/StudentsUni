@@ -16,9 +16,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 72924,
-    "per_year": 56480,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)"
+    "total": 78568,
+    "per_year": 78568,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,676. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/postgraduate/taylors-fees-schedule-pg-master-of-food-studies-and-gastronomies-usd.pdf (accessed 2026-09-18). per_year = total / 1yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -40,10 +40,15 @@
       "url": "https://www.easyuni.my/malaysia/taylors-university-252/master-of-food-studies-and-gastronomy-294607/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/postgraduate/taylors-fees-schedule-pg-master-of-food-studies-and-gastronomies-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Food Studies and Gastronomy",
   "program_name_zh": "Food Studies and Gastronomy硕士",
   "field_ar": "الفنون",

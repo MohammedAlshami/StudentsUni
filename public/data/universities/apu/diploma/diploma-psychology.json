@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 54200.0,
-    "per_year": 23800,
-    "notes": ""
+    "total": 54200,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM54,200 (excludes 6% SST). Source: https://www.apu.edu.my/course/diploma-in-psychology (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "english_requirement": "IELTS : 4.0 / TOEFL IBT : 1.5 / Pearson (PTE) : 36 / MUET : Band 3",
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "General Requirements SPM 3 Credits in at least 3 subjects at SPM level, with a minimum of a pass in Bahasa Malaysia, Sejarah (History), Mathematics and Biology/ Physics/ Chemistry/ General Science/ Applied Science; IGCSE/O-LEVELS 3 Credits (Grade C & above) in at least 3 subjects at IGCSE/O-Levels, with pass in Mathematics and Biology/ Physics/ Chemistry/ General Science/ Applied Science ; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC CERTIFICATE Pass relevant Certificate Programme or its equivalent; A qualification that APU accepts as equivalent to the above. Pass in Mathematics and Biology/ Physics/ Chemistry/ General Science/ Applied Science is required at SPM/IGCSE/O-Level or equivalent. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -29,7 +30,7 @@
     "https://www.studymalaysia.com/what/course/APU/0058858/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Psychology",
   "program_name_zh": "Psychology文凭",
   "field_ar": "علم النفس",

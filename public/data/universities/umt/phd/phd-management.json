@@ -15,9 +15,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 112500,
-    "per_year": 37500,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 18221.4,
+    "per_year": 6964.2,
+    "notes": "Official UMT research programme international fee, Social Science category (Sem I 2023/2024 intake onwards): RM4,149.90 first semester + RM2,814.30 per subsequent semester; total for 3 years (6 semesters) = RM18,221.40; per_year (year 1) = RM6,964.20 (derived). Source: https://postgrad.umt.edu.my/postgraduate_fees/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -25,11 +25,10 @@
   },
   "accreditation": "MQA/FA6897",
   "sources": [
-    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255",
-    "https://www.studymalaysia.com/edu/umt/courses/"
+    "https://postgrad.umt.edu.my/postgraduate_fees/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Management)",
   "program_name_zh": "哲学博士 (Management)",
   "field_ar": "إدارة",

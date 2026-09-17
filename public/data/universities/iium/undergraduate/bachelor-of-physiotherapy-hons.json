@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 84000,
-    "per_year": 21000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 64800,
+    "per_year": 16200,
+    "notes": "International tuition RM64,800 total (RM8,100/semester x 8 semesters, after discount); per_year derived from official duration. All-in payable RM92,365 incl. entrance/recurrent/mahallah/takaful/graduation, excludes SST. IIUM official section: KAHS. Source: https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf (Sem 1 2024/25 onwards; PDF updated Mar 2026), accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,10 +27,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/what/course/IIUM/0054708/"
+    "https://www.studymalaysia.com/what/course/IIUM/0054708/",
+    "https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Physiotherapy (Hons)",
   "program_name_zh": "Physiotherapy (Hons)学士",
   "field_ar": "الطب",

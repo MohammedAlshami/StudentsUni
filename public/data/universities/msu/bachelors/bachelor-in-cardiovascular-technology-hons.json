@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 41360,
-    "per_year": 7500,
-    "notes": "Local: RM120,000.00; International: RM187,760.00 (per_year based on 4.0yr duration)"
+    "total": 187760,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM187,760. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057135/ (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.0 or TOEFL 550 or equivalent",
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Pass STPM/Matriculation/A-Level/Pre-U with at least 2.50 CGPA in Biology/Physics and Chemistry AND pass SPM with five (5) credits including three (3) from Mathematics, Physics, Chemistry, and Biology; OR Diploma (MQF Level 4) in a related field with at least 2.75 CGPA from a recognized institution. CGPAs below 2.75 must be accompanied by at least 3 years (36 months) of working experience in the same field. International students: IELTS 6.0 or TOEFL 550 or equivalent"
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Cardiovascular Technology (Hons)",
   "program_name_zh": "Cardiovascular Technology (Hons)学士",
   "field_ar": "تقنية المعلومات",

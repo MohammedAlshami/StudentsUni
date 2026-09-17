@@ -17,7 +17,7 @@
     "currency": "MYR",
     "total": 20400,
     "per_year": 5100,
-    "notes": "Standard public university fees (MQA regulated)"
+    "notes": "No official UMT international fee published for this programme in the 2025 undergraduate international fee list (https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf); previous figure unverified. Standard public university fees (MQA regulated)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -30,8 +30,8 @@
     "https://umt.my/all-programs-at-umt/",
     "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Finance with Honours",
   "program_name_zh": "Finance with Honours学士",
   "field_ar": "التمويل",

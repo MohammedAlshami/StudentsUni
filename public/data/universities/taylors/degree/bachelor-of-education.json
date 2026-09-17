@@ -15,12 +15,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 41466,
-    "per_year": 28677,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 134328,
+    "per_year": 44776,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 35,349. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-education/undergraduate/taylors-fees-schedule-ug-education-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
     "a_level": "2 Principals (C+) including relevant subjects",
     "ib": "24 points",
     "other_qualifications": "Equivalent pre-university qualification"
@@ -43,10 +43,15 @@
       "url": "https://www.easyuni.my/malaysia/taylors-university-252/bachelor-of-education-honours-294779/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-education/undergraduate/taylors-fees-schedule-ug-education-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education (Honours)",
   "program_name_zh": "Education (Honours)学士",
   "field_ar": "التربية والتعليم",

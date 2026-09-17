@@ -7,17 +7,17 @@
   "program_slug": "mcs",
   "field": "Computer Science",
   "type": "coursework",
-  "duration": "40 months",
+  "duration": "3 Semesters",
   "mode": "full-time",
   "intakes": {
     "main": "September",
     "secondary": "February"
   },
   "fees": {
-    "currency": "MYR",
-    "total": 30000,
-    "per_year": 15000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": 4420.2,
+    "per_year": 2947,
+    "notes": "Official UMT postgraduate coursework international fee (Sem I 2025/2026): USD4,420.20 total for 3 semesters; per_year = total / 1.5 years (derived). Source: https://postgrad.umt.edu.my/wp-content/uploads/2025/08/YURAN-PENGAJIAN-PROGRAM-SARJANA-KERJA-KURSUS-SEM-I-2025.2026.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,11 +25,10 @@
   },
   "accreditation": "MQA/FA9118",
   "sources": [
-    "https://umt.my/all-programs-at-umt/",
-    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255"
+    "https://postgrad.umt.edu.my/wp-content/uploads/2025/08/YURAN-PENGAJIAN-PROGRAM-SARJANA-KERJA-KURSUS-SEM-I-2025.2026.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Computer Science",
   "program_name_zh": "Computer Science硕士",
   "field_ar": "علوم الحاسوب",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 18400,
-    "per_year": 6133,
-    "notes": ""
+    "total": 74700,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM74,700 (inclusive of 6% SST). Source: https://fcci.tarc.edu.my/programmes/bachelor-degree/broadcasting (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90",
@@ -45,10 +45,12 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://fcci.tarc.edu.my/programmes/bachelor-degree/broadcasting",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Communication (Honours) in Broadcasting",
   "program_name_zh": "Communication (Honours) in Broadcasting学士",
   "field_ar": "الاتصالات",

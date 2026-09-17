@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 99000,
-    "per_year": "RM33,000-RM40,000",
-    "notes": "Estimated based on typical MSU health science programme fees"
+    "currency": "MYR",
+    "total": 178060,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM178,060. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0005635/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Minimum FIVE (5) C including THREE (3) from Biology, Physics, Chemistry, or Mathematics at SPM/O-levels and at least a credit in English AND 2.50 CGPA at STPM level in the Science Stream; Minimum THREE (3) D at A-level including any THREE (3) from Biology, Physics, Chemistry, or Mathematics; Foundation in science with 2.50 CGPA including any THREE (3) from Biology, Physics, Chemistry, or Mathematics; Diploma in a science-based field with 2.75 CGPA."
   },
   "accreditation": {
     "mqa_status": null,
@@ -48,10 +49,11 @@
       "url": "https://www.easyuni.my/malaysia/management-science-university-msu-218/bachelor-of-optometry-hons-279256/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://studymalaysia.com/what/course/MSU/0005635/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Optometry (Hons)",
   "program_name_zh": "Optometry (Hons)学士",
   "field_ar": "الطب",

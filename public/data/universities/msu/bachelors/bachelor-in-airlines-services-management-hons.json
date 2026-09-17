@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 74460.0,
-    "per_year": 11571,
-    "notes": "Local: RM40,500.00; International: RM74,460.00 (per_year based on 3.5yr duration)"
+    "currency": "MYR",
+    "total": 74460,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM74,460. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0058662/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Entrance Qualification Approval Letter: JPT/BPP(U)1000-801/33/Jld.34(58), dated 5 March 2020 i. Meeting the minimum programme standards / professional body requirements / MQA recommendations in place at the time of the student intake; OR ii. Other qualifications deemed equivalent by the Government of Malaysia. Note: Any changes to programme standards / professional body requirements / MQA recommendations shall apply to later cohorts only."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Airlines Services Management (Hons)",
   "program_name_zh": "Airlines Services Management (Hons)学士",
   "field_ar": "إدارة الأعمال",

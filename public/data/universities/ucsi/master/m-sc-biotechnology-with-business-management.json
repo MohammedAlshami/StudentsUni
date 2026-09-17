@@ -7,15 +7,15 @@
   "duration": "1.5-2 Years",
   "mode": "Full-time/Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 51425,
-    "per_year": 51425,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 73787,
+    "per_year": null,
+    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-science-biotechnology-business-management), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 83,997."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,10 +24,11 @@
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0008900/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/"
+    "https://www.studymalaysia.com/edu/ucsi/courses/",
+    "https://www.ucsiuniversity.edu.my/programmes/master-science-biotechnology-business-management"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "M.Sc. (Biotechnology with Business Management)",
   "program_name_zh": "M.Sc. (Biotechnology with Business Management)",
   "field_ar": "إدارة الأعمال",

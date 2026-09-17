@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 15679,
-    "per_year": 3972,
-    "notes": "Local: RM23,200.00; International: RM54,265.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 54265,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM54,265. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0053639/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "Pass SPM with at least 3 credits including Bahasa Malaysia and English Language; Pass Certificate in Counselling and Guidance from institution recognised by MSU Senate; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
+    "general": "At least THREE (3) credits including in Bahasa Malaysia and English Language at SPM level; OR An equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +56,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Counselling and Guidance",
   "program_name_zh": "Counselling and Guidance文凭",
   "field_ar": "التربية والتعليم",

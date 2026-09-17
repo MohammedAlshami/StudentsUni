@@ -5,7 +5,7 @@
   "program_name": "Master of Technology Management",
   "program_slug": "master-technology-management",
   "field": "Computing & Technology",
-  "duration": "1+ years",
+  "duration": "1+ year",
   "mode": "Full-time / Part-time",
   "intakes": [
     "Sep",
@@ -14,13 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 38800,
-    "per_year": 23200,
-    "notes": " (per_year based on 1.5yr duration)"
+    "total": 42000,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM42,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/master-technology-management (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS : 6.0",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+    "general": "Bachelor’s degree Bachelor’s degree in related fields with a minimum CGPA of 2.50, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the Senate and with relevant working experience, subject to a rigorous internal assessment. ​Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the Senate and without relevant working experience, subject to passing pre-requisite courses. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -33,7 +34,7 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Technology Management",
   "program_name_zh": "Technology Management硕士",
   "field_ar": "Computing & Technology",

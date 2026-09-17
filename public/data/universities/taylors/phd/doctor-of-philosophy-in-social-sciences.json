@@ -17,9 +17,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 105000,
-    "per_year": 35000,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 77648,
+    "per_year": 25883,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,434. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -27,10 +27,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/phd-research/doctor-of-philosophy-in-social-sciences.html"
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/phd-research/doctor-of-philosophy-in-social-sciences.html",
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-phd-research-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.5,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Social Sciences",
   "program_name_zh": "哲学博士 in Social Sciences",
   "field_ar": "الفنون",

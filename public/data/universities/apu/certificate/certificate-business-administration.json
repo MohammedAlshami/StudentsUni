@@ -14,13 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22400.0,
-    "per_year": 19500,
-    "notes": ""
+    "total": 22400,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM22,400 (excludes 6% SST). Source: https://www.apu.edu.my/course/cert-in-business-administrative (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS : 4.0 / TOEFL IBT : 1.5 / Pearson (PTE) : 36 / MUET : Band 3",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+    "general": "General Requirements SPM 1 Credit at SPM level with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 1 Credits (Grade C & above) at IGCSE/O-Levels; UEC 1 Credit (Grade B & above) at UEC; A qualification that APIIT accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -28,7 +29,7 @@
     "https://www.studymalaysia.com/what/course/APU/0056892/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "APIIT - Certificate in Business Administration (CBA)",
   "program_name_zh": "APIIT - Certificate in Business Administration (CBA)",
   "field_ar": "إدارة الأعمال",

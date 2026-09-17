@@ -4,16 +4,16 @@
   "level": "diploma",
   "program_name": "Diploma in Architecture",
   "field": "Architecture & Building",
-  "duration": "3 years",
+  "duration": "2.5 years",
   "mode": "Full-time",
   "intakes": [
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 11700,
-    "per_year": 3900,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 50300,
+    "per_year": null,
+    "notes": "International total for all semesters (excluding hostel) from UTMSPACE official diploma page (https://space.utm.my/diploma/), retrieved 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,10 +26,11 @@
   },
   "sources": [
     "https://studymalaysia.com/edu/utm_space/",
-    "https://www.studymalaysia.com/edu/utm/courses/"
+    "https://www.studymalaysia.com/edu/utm/courses/",
+    "https://space.utm.my/diploma/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Architecture",
   "program_name_zh": "Architecture文凭",
   "field_ar": "العمارة",

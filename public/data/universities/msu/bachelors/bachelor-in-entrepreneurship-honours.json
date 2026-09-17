@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 98490.0,
-    "per_year": 15600,
-    "notes": "Local: RM54,600.00; International: RM98,490.00 (per_year based on 3.5yr duration)"
+    "currency": "MYR",
+    "total": 98490,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM98,490. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057140/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "A pass in STPM with at least Grade C (GP 2.0) in any 2 subjects*; A pass in STAM with at least grade of Jayyid; Matriculation or Foundation with at least CGPA of 2.00; A Diploma (Level 4, MQF) with at least CGPA of 2.00; An Advanced Diploma (Level 5, MQF) with at least CGPA of 2.00; A Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) subjected to HEP Senate/Academic Board's approval***; A Diploma Lanjutan Kemahiran Malaysia (DLKM) subjected to HEP Senate/ Academic Board's approval***; Note for (vi) & (vii): The HEPs are to conduct screening and provide necessary guidance specific to the discipline of the programme. Other equivalent qualifications recognised by the Malaysian Government. *Additional requirement: A pass in Mathematics and English at SPM level or equivalent qualifications (Refer to the Notes (*) below this table). For International Students: Achieve a minimum Band 3 in MUET OR equivalent to CEFR (Low B2)**. Notes: A pass in Mathematics and English at SPM level or equivalent qualifications (English subject requirement does not apply to international students since they are required to meet certain scores of international English examination and privileged with certain exemptions). Can be waived should any other higher qualifications contain Mathematics and English subjects with an equivalent/higher achievement. Malaysian students using English as the medium of instruction in their previous study or with at least Band 2 in MUET or equivalent can be exempted from a pass in English requirement. Those without a pass in Mathematics and/or English at SPM level or equivalent can be admitted but are required to attend special enhancement course(s). These special enhancement courses should be SPM equivalent, remedial in nature. Students must pass the Mathematics and English enhancement courses as a prerequisite to related core courses taught in English. ** Refer to Surat JPT GS 1000-630(41), 9th December 2019 - Syarat Kompetensi Bahasa Inggeris Kepada Pelajar Antarabangsa for equivalent English language assessments and score. *** For Public Universities: Refer to Surat JPT.S(BPKP)2000/400/04/01 Jld.5 (53), 20th November 2019 - Pindaan syarat kelayakan minimum (Syarat am) Diploma TVET (DKM, DLKM, DVM) sebagai syarat kelayakan masuk ke program Ijazah Sarjana Muda di Universiti Awam (UA). For Private Higher Educational Institutions: Refer to Surat JPT/GS 1000-606 Jld. 2(23), 21st April 2020 - Kemasukan Pelajar Lulusan Diploma Kemahiran Malaysia (DKM), Diploma Lanjutan Kemahiran Malaysia (DLKM) dan Diploma Vokasional Malaysia (DVM) ke Peringkat Sarjana Muda (Tahap 6 MQF) atau yang setara dengannya di Institusi Pendidikan Tinggi Swasta."
   },
   "accreditation": {
     "mqa_status": null,
@@ -46,7 +47,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Entrepreneurship (Honours)",
   "program_name_zh": "Entrepreneurship (Honours)学士",
   "field_ar": "إدارة الأعمال",

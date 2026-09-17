@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 108500.0,
-    "per_year": 33467,
-    "notes": "Fee based on BSc Psychology from StudyMalaysia"
+    "total": 108500,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/bachelor-of-science-psychology-cyberpsychology (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "english_requirement": "IELTS : 5.5 / TOEFL IBT : 3.5 / Pearson (PTE) : 51 / MUET : Band 4",
+    "a_level": "2 Passes in A-Level in any 2 subjects, a Credit in Mathematics and Science/ Chemistry/ Physics/ Biology, and a Pass in English at SPM/O-Level/IGCSE or its equivalent.",
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Direct Entry to Level 1 of the Degree STPM 2 Passes in STPM with a minimum Grade C (GP 2.0), a Credit in Mathematics and Science/ Chemistry/ Physics/ Biology, and a Pass in English at SPM Level or its equivalent. A-Level 2 Passes in A-Level in any 2 subjects, a Credit in Mathematics and Science/ Chemistry/ Physics/ Biology, and a Pass in English at SPM/O-Level/IGCSE or its equivalent. UEC 5 Grade B’s in UEC with a Credit in Mathematics and Science/ Chemistry/ Physics/ Biology, and a Pass in English at SPM/O-Level/IGCSE or its equivalent. Matriculation/ Foundation Passed Foundation programme (minimum CGPA of 2.0) with a Credit in Mathematics and Science/ Chemistry/ Physics/ Biology, and a Pass in English at SPM/O-Level/IGCSE or its equivalent. Entry to Level 2 of the Degree Diploma A Diploma and its equivalent with a minimum CGPA of 2.0 and a Credit in Mathematics and Science/Chemistry/Physics/Biology, and a Pass in English at SPM/O-Level/IGCSE or its equivalent. Diploma in Psychology with a minimum CGPA of 2.0. Note: Fulfilment of requirements for Credit Transfer is subject to approval by the APU Academic Board. Note: Students without a Credit in Mathematics AND/OR a Credit in Biology/ Physics/ Chemistry/ General Science/ Applied Science at SPM/ IGCSE level or equivalent can be admitted but are required to attend special enhancement course(s) as Pre-Requisite. Students must obtain CREDIT in the Mathematics and Science enhancement courses at APU as a Pre-Requisite to related core courses taught in English. The credit requirement at SPM/ IGCSE level can be waived should the grades obtained at the STPM/ A-Levels/ Diploma/ Matriculation/ Foundation level are equivalent/ higher. The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -31,7 +32,7 @@
     "https://www.studymalaysia.com/what/course/APU/0059082/"
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Honours) in Psychology with a specialism in Cyberpsychology",
   "program_name_zh": "Science (Honours) in Psychology with a specialism in Cyberpsychology学士",
   "field_ar": "علم النفس",

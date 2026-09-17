@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17094,
-    "per_year": 4109,
-    "notes": "Local: RM24,000.00; International: RM57,645.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 57645,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,645. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0005948/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "i. Pass SPM or equivalent with at least credits in THREE (3) subjects, including Mathematics and ONE (1) relevant science / technical / vocational subject AND a pass in English; OR ii. Pass STPM or equivalent with a pass in Mathematics, English and ONE (1) relevant science / technical / vocational subject at the SPM level; OR iii. Recognised Certificate in Engineering / Engineering Technology or equivalent; OR iv. Recognised related Vocational and Technical / Skills Certificate or equivalent with ONE (1) year of relevant work experience or a minimum of ONE (1) semester of a bridging programme. International students: TOEFL 500 or IELTS 5.0 or equivalent Note: This programme does not lead to recognition by the Board of Engineers Malaysia (BEM)."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Computer Engineering",
   "program_name_zh": "Computer Engineering文凭",
   "field_ar": "الهندسة",

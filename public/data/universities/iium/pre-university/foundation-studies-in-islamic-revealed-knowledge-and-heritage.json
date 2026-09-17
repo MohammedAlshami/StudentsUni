@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 6000,
-    "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 16510,
+    "per_year": null,
+    "notes": "International total RM16,510 for the full foundation programme via IIUM Academy (Gambang Arabic/IRK group, 33 credit hours); includes registration, recurrent and tuition; excludes SST and proficiency courses. per_year not stated by source. Source: https://academy.iium.edu.my/wp-content/uploads/2026/04/IFP-FEES-UPDATED.pdf (updated 13 Apr 2026), accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -25,10 +25,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/what/course/IIUM/0000830/"
+    "https://www.studymalaysia.com/what/course/IIUM/0000830/",
+    "https://academy.iium.edu.my/wp-content/uploads/2026/04/IFP-FEES-UPDATED.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Foundation Studies in Islamic Revealed Knowledge & Heritage",
   "program_name_zh": "Foundation Studies in Islamic Revealed Knowledge & Heritage",
   "field_ar": "الدراسات الإسلامية",

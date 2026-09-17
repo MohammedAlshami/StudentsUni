@@ -23,15 +23,19 @@
     "https://admission.utm.my/offered-allcourses-malaysian/",
     "https://studymalaysia.com/edu/utm_space/",
     "https://comp.utm.my/undergraduate/",
-    "https://admission.utm.my/malaysian-postgraduate-study/"
+    "https://admission.utm.my/malaysian-postgraduate-study/",
+    "https://admission.utm.my/programme-fees-ug-international/",
+    "https://admission.utm.my/fees-pg-inter/",
+    "https://space.utm.my/diploma/",
+    "https://space.utm.my/foundation/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 4200,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 1400,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    "notes": "International fees vary by programme and level. Undergraduate totals RM45,788-RM76,000 (official UG fee page: https://admission.utm.my/programme-fees-ug-international/); foundation RM16,950; diploma RM43,700-RM50,300; postgraduate varies by field. See individual programme files. Retrieved 2026-09-18."
   }
 }

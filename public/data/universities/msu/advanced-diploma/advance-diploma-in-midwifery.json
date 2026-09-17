@@ -13,15 +13,16 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 38395.0,
-    "per_year": 21500,
-    "notes": "Local: RM21,500.00; International: RM38,395.00 (per_year based on 1.0yr duration)"
+    "currency": "MYR",
+    "total": 38395,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM38,395. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057138/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "Possess Diploma in Nursing from a recognized institution by Malaysia Nursing Board (MNB). Registered with Malaysia Nursing Board (MNB). Possess current Annual Practicing Certificate (APC) for nurses from MNB. Minimum 2 years clinical working experience in nursing. Possess three (3) months experience in the related specialty. For international candidates: Registered with the Nursing Council of the country of origin, pass IELTS minimum score of 5.5 or TOEFL 515/215/80. Student must be certified medically fit by a registered medical practitioner."
   },
   "accreditation": {
     "mqa_status": null,
@@ -40,7 +41,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Advance Diploma in Midwifery",
   "program_name_zh": "Advance Diploma in Midwifery",
   "field_ar": "الطب",

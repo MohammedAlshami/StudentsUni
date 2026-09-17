@@ -5,7 +5,7 @@
   "program_name": "Bachelor in Biomedical Science (Honours)",
   "program_slug": "bachelor-in-biomedical-science-honours",
   "field": "Medicine & Healthcare",
-  "duration": "3 years",
+  "duration": "4 years",
   "mode": "Full-time Study",
   "intakes": [
     "Feb",
@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 84000,
-    "per_year": "RM28,000-RM33,000",
-    "notes": "Estimated based on typical MSU health science programme fees"
+    "currency": "MYR",
+    "total": 187990,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM187,990. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0058663/ (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.00 / TOEFL 550 or equivalent",
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Pass STPM/Matriculation/A-Level/Pre-University or equivalent, with at least a C (2.50 CGPA) in Biology/Physics and Chemistry, and Pass SPM with a Credit or equivalent in five (5) subjects including three (3) from among Biology, Physics, Mathematics, Chemistry, and English; OR Obtain a Diploma in a related field, with at least 2.75 CGPA, or if below 2.75 CGPA, must have at least 3 years (36 months) working experience in a relevant field; OR Other qualifications recognized as equivalent. English Requirement for International Students: IELTS 6.00 / TOEFL 550 or equivalent"
   },
   "accreditation": {
     "mqa_status": null,
@@ -43,10 +44,12 @@
       "url": "https://www.msu.edu.my",
       "publisher": "official",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.msu.edu.my/faculty-health-life-sciences/bachelor-biomedical-science.php",
+    "https://studymalaysia.com/what/course/MSU/0058663/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Biomedical Science (Honours)",
   "program_name_zh": "Biomedical Science (Honours)学士",
   "field_ar": "الطب",

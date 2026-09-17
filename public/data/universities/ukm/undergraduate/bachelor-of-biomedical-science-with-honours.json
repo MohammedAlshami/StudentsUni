@@ -4,7 +4,7 @@
   "level": "undergraduate",
   "program_name": "Bachelor of Biomedical Science with Honours",
   "field": "Health Science",
-  "duration": "5 years",
+  "duration": "8 Semesters",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 21600,
-    "per_year": 5400,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 97520,
+    "per_year": 24380,
+    "notes": "International (UKMi) tuition per UKMShape fee schedule 2024/2025: RM97,520 total (incl. first-semester registration) for 8 semesters; per_year = total / 4 years (derived). Source: https://shape.ukm.my/storage/lampiran/struktur_yuran/FSK/pra/strukturyuran_FSK_UKMi_pra_F_int_120242025.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,10 +27,10 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.ukm.my/portal/undergraduate-programmes/"
+    "https://shape.ukm.my/storage/lampiran/struktur_yuran/FSK/pra/strukturyuran_FSK_UKMi_pra_F_int_120242025.pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Biomedical Science with Honours",
   "program_name_zh": "Biomedical Science with Honours学士",
   "field_ar": "العلوم",

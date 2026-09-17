@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 105000,
-    "per_year": 35000,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 17250,
+    "per_year": 4500,
+    "notes": "MMU official 2026 international postgraduate fee schedule (June 2026): yearly RM4,500 plus modules and examination fee; fees are before 6% SST. Source: https://www.mmu.edu.my/wp-content/uploads/2026/06/2026-Pricing-30-JUNE-2026-UPDATE-PG-Fee-Structure-International-Update-21-04-2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -54,10 +54,15 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/2026-Pricing-30-JUNE-2026-UPDATE-PG-Fee-Structure-International-Update-21-04-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Ph.D.) Communication (By Research)",
   "program_name_zh": "哲学博士 (Ph.D.) Communication (By Research)",
   "field_ar": "الاتصالات",

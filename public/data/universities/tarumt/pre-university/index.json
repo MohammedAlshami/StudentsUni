@@ -14,7 +14,7 @@
       "intakes": null,
       "fees": {
         "local": "RM9,900.00",
-        "international": "RM18,100.00"
+        "international": "RM26,000.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -34,7 +34,7 @@
       "intakes": null,
       "fees": {
         "local": "RM10,200.00",
-        "international": "RM18,400.00"
+        "international": "RM26,600.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -54,7 +54,7 @@
       "intakes": null,
       "fees": {
         "local": "RM9,900.00",
-        "international": "RM18,100.00"
+        "international": "RM26,000.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -74,7 +74,7 @@
       "intakes": null,
       "fees": {
         "local": "RM10,200.00",
-        "international": "RM18,400.00"
+        "international": "RM26,600.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -88,14 +88,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 10200,
-    "international_total": 18400.0,
-    "per_year_local": 6800,
+    "local_total": 9900,
+    "international_total": 26000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "From StudyMalaysia: RM10,200.00 (per_year based on 1.5yr duration)"
+    "notes": "TAR UMT official 2026 fee schedules: international estimated totals RM26,000–26,600; Malaysian RM9,900–10,200. Per-programme figures in programme pages. Sources: TAR UMT programme pages, https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf, https://cpsr.tarc.edu.my/programmes/programme-fees (accessed 2026-09-18)."
   },
   "sources": [
-    "https://www.studymalaysia.com/edu/tarumt/courses/"
+    "https://www.studymalaysia.com/edu/tarumt/courses/",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf",
+    "https://cpsr.tarc.edu.my/programmes/programme-fees"
   ],
-  "last_updated": "2026-09-16"
+  "last_updated": "2026-09-18"
 }

@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17094,
-    "per_year": 5051,
-    "notes": "Local: RM29,500.00; International: RM57,665.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 57665,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,665. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057144/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "Pass SPM with a Credit in three (3) subjects MSU College Business Management Certificate (MQF Level 3) with a Pass in all subjects Equivalent Certificate (MQF Level 3) from Polytechnics or Public Universities (IPTAs) recognized by MSU Senate Unified Examination Certificate (UEC) with at least a Grade B in three (3) subjects Pass O-Level with at least a Grade C in three (3) subjects Sijil Kemahiran Malaysia (SKM) Level 3 in a related field and pass SPM with a Credit in at least one (1) subject Community College Certificate (MQF Level 3) in a relevant field and pass SPM with a Credit in at least one (1) subject STPM or equivalent with at least a Grade C (2.00 CGPA) in one (1) subject STAM with Maqbul Other qualifications recognized as equivalent by the Malaysian Government"
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Entrepreneurship",
   "program_name_zh": "Entrepreneurship文凭",
   "field_ar": "إدارة الأعمال",

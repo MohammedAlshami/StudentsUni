@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16945,
-    "per_year": 4109,
-    "notes": "Local: RM24,000.00; International: RM57,325.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 57325,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,325. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0059100/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "SPM with at least three (3) credits in any subjects, including Mathematics, or an equivalent qualification; or STPM with a minimum Grade C or Grade Point (GP) of 2.00 in one subject and a credit in Mathematics at SPM level or equivalent; or STAM with a minimum grade of Maqbul and a credit in Mathematics at SPM level or equivalent; or SKM Level 3 in a related field. Candidates without Mathematics may be admitted subject to a thorough assessment to determine whether their Mathematics competency is equivalent to SPM level; or A Certificate (Level 3, MQF) in a related field with a minimum CGPA of 2.00; or Other relevant and equivalent qualifications recognised by the Malaysian Government. Notes Candidates may be admitted if their admission qualification includes a Mathematics subject equivalent to Mathematics at SPM level. Candidates who have passed Mathematics at SPM level or equivalent but did not take Mathematics as part of their admission qualification must take and pass a reinforcement Mathematics subject equivalent to SPM level. The subject must be offered in the first semester or before enrolment with an unconditional offer. Candidates without a pass in Mathematics at SPM level or equivalent may be admitted but must take and pass the reinforcement Mathematics subject in the first semester or before enrolment with an unconditional offer. Candidates with a credit in a computing-related subject at SPM level or equivalent may be given preferential consideration."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Computer Forensic",
   "program_name_zh": "Computer Forensic文凭",
   "field_ar": "تقنية المعلومات",

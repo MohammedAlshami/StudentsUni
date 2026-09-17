@@ -4,7 +4,7 @@
   "level": "phd",
   "program_name": "Doctor of Philosophy (Laws)",
   "field": "Law",
-  "duration": "Flexible",
+  "duration": "3 years",
   "mode": "Flexible Full-time/Part-time",
   "intakes": [
     "Apr",
@@ -13,8 +13,8 @@
   "fees": {
     "currency": "MYR",
     "total": 19200,
-    "per_year": 2500,
-    "notes": "Total programme fee; by research (per_year based on 3yr duration)"
+    "per_year": 4500,
+    "notes": "MMU official 2026 international postgraduate fee schedule (June 2026): yearly RM4,500 plus modules and examination fee; fees are before 6% SST. Source: https://www.mmu.edu.my/wp-content/uploads/2026/06/2026-Pricing-30-JUNE-2026-UPDATE-PG-Fee-Structure-International-Update-21-04-2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -44,10 +44,15 @@
       "url": "https://www.easyuni.my/malaysia/multimedia-university-mmu-cyberjaya-225/phd-in-engineering-research-243664/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/2026-Pricing-30-JUNE-2026-UPDATE-PG-Fee-Structure-International-Update-21-04-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Laws)",
   "program_name_zh": "哲学博士 (Laws)",
   "field_ar": "القانون",

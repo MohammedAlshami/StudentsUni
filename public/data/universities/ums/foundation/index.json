@@ -33,6 +33,9 @@
     "international_total": null,
     "per_year_local": 1400,
     "per_year_international": null,
-    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 1yr duration)"
-  }
+    "notes": "International fee schedule public only for engineering programmes: RM4,233/semester (RM33,864 total for 8 semesters; all-in RM37,114 excl. hostel). Other programmes: not published, verify with UMS Bursar/CIGE."
+  },
+  "sources": [
+    "https://www.ums.edu.my/pppg/images/REQUIREMENT/FEES-INFORMATION-FOR-INTERNATIONAL-STUDENTS_ENGINEERING-PROGRAM.pdf"
+  ]
 }

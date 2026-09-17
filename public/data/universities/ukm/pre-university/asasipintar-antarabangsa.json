@@ -14,7 +14,7 @@
     "currency": "MYR",
     "total": 6000,
     "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "notes": "No UKM international (UKMi) fee schedule published for this programme in the UKMShape 2024/2025 fee structure (https://www.ukm.my/ukmshape/ukmshape-learning-fees/), so the previous figure is unverified. Standard public university fees (MQA regulated)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,7 +28,7 @@
     "https://www.ukm.my/permatapintar/asasipintar/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ASASIpintar Antarabangsa",
   "program_name_zh": "ASASIpintar Antarabangsa",
   "field_ar": "تقنية المعلومات",

@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 52600,
-    "per_year": 19680,
-    "notes": " (per_year based on 2.5yr duration)"
+    "total": 54200,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM54,200 (excludes 6% SST). Source: https://www.apu.edu.my/course/diploma-in-ict-data-informatics (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "english_requirement": "IELTS : 4.5 / TOEFL IBT : 2 / Pearson (PTE) : 43 / MUET : Band 3",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "SPM 3 Credits in at least 3 subjects at SPM level including Mathematics#, with a minimum of a pass in Bahasa Malaysia and Sejarah (History). Candidates with only a Pass in Maths in SPM will be required to complete and pass &#34;Mathematics and Statistics for Computing&#34; in their Semester 1 of Diploma. IGCSE/O-LEVELS 3 Credits (Grade C &amp; above) in at least 3 subjects at IGCSE/O-Levels including Mathematics#. Candidates with only a Pass in Maths in IGCSE/O-Level will be required to complete and pass &#34;Mathematics and Statistics for Computing&#34; in their Semester 1 of Diploma. UEC 3 Credits (Grade B &amp; above) in at least 3 subjects in UEC including Mathematics#. Candidates with only a Pass in Maths in UEC will be required to complete and pass &#34;Mathematics and Statistics for Computing&#34; in their Semester 1 of Diploma. Certificate Pass relevant Certificate Programme or its equivalent.   English Requirements IELTS: 4.5 TOEFL IBT: 33 Pearson (PTE): 43 MUET: Band 3"
+    "general": "General Requirements SPM 3 Credits in at least 3 subjects at SPM level including Mathematics#, with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 3 Credits (Grade C & above) in at least 3 subjects at IGCSE/O-LEVELS including Mathematics#; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC including Mathematics#; CERTIFICATE Pass relevant Certificate Programme or its equivalent; # Candidates with only a Pass in Maths in SPM/IGCSE/O-Levels or equivalent will be required to complete and pass “Mathematics and Statistics for Computing” in their Semester 1 of Diploma A qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -35,7 +35,7 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Information & Communication Technology with a specialism in Data Informatics",
   "program_name_zh": "Information & Communication Technology with a specialism in Data Informatics文凭",
   "field_ar": "Computing & Technology",

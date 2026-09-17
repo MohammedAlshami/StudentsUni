@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 450000,
-    "per_year": 37500,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 33575,
+    "per_year": 5596,
+    "notes": "UMPSA IPS official international fee (Doctor of Philosophy - Research Mode, conventional full-time): RM33,575 minimum per programme. Other methods (remote/fast-track RM36,140; industry RM48,050; publication RM33,840) differ. Source: https://ips.umpsa.edu.my/index.php/en/ips-offer/fees (accessed 2026-09-18). per_year = total / 6yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -26,10 +26,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/edu/ump/courses/",
-    "https://studymalaysia.com/what/course/UMP/0053998/"
+    "https://studymalaysia.com/what/course/UMP/0053998/",
+    "https://ips.umpsa.edu.my/index.php/en/ips-offer/fees"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "research_areas": "Advanced Material",
   "program_name_ar": "دكتوراه فلسفة (Advanced Material)",
   "program_name_zh": "哲学博士 (Advanced Material)",

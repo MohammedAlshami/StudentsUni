@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 108500.0,
-    "per_year": 34867,
-    "notes": ""
+    "total": 108500,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/bsc-hons-in-computer-science-data-analytics (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "english_requirement": "IELTS : 5.0 / TOEFL IBT : 2.5 / Pearson (PTE) : 47 / MUET : Band 3.5",
+    "a_level": "2 Passes (Grade A-D) in A-Level in Science stream with a Pass in Mathematics and one Science or ICT subject. OR 2 Passes (Grade A-D) in A-Level with a Credit in Additional Mathematics at SPM/ O-Level/ IGCSE or equivalent. OR 2 Passes (Grade A-D) in A-Level with a Credit in Mathematics and Science or ICT subjects at SPM/ O-Level/ IGCSE or equivalent. *Overseas qualification that are equivalent to 1",
+    "ib": null,
+    "other_qualifications": null,
+    "general": "General Requirements STPM 2 Passes in STPM in Science stream with minimum Grade C (GPA 2.0) in Mathematics and one Science or ICT Subject. OR 2 Passes in STPM with minimum Grade C (GP 2.0) in any subject with a credit in Additional Mathematics at SPM. OR 2 Passes in STPM with minimum Grade C (GP 2.0) in any subject with a credit in Mathematics and any one Science or ICT subjects at SPM. Note : Candidates need to do a Pre-Requisite module in Further Mathematics or equivalent in the first semester of Degree Programme. A-Level 2 Passes (Grade A-D) in A-Level in Science stream with a Pass in Mathematics and one Science or ICT subject. OR 2 Passes (Grade A-D) in A-Level with a Credit in Additional Mathematics at SPM/ O-Level/ IGCSE or equivalent. OR 2 Passes (Grade A-D) in A-Level with a Credit in Mathematics and Science or ICT subjects at SPM/ O-Level/ IGCSE or equivalent. *Overseas qualification that are equivalent to 12th Grade/A Level/HSC are accepted. Note : Candidates need to do a Pre-Requisite module in Further Mathematics or equivalent in the first semester of Degree Programme. UEC 5 Grade B Passes in UEC in any subject including Mathematics and one Science or ICT subject. 5 Grade B Passes in UEC in any subject including Additional Mathematics. 5 Grade B Passes in UEC in any subjects with Credit in Mathematics and Science or ICT Subject at SPM or equivalent. Note : Candidates need to do a Pre-Requisite module in Further Mathematics or equivalent in the first semester of Degree Programme. Foundation/ Matriculation A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 with a Credit in Additional Mathematics at SPM/IGCSE/O-Level or its equivalent. Note: The requirement for the Additional Mathematics can be exempted if the Matriculation or Foundation offers Mathematics module which is equivalent or higher requirement than the Additional Mathematics at SPM level. OR A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a Credit in Mathematics and Science or ICT subject at SPM/IGCSE/O-Level or its equivalent. Note : Candidates need to do a Pre-Requisite module in Further Mathematics or equivalent in the first semester of Degree Programme. ICT Related Diplomas Diploma with a minimum CGPA of 2.75. Note: Student with CGPA above 2.0 and below 2.5 may be accepted using rigorous assessment conducted by APU and subject to the approval of the Academic Board. Note: Students who do not have a Credit in Additional Mathematics in SPM/O-Level/IGCSE but have an acceptable achievement in Mathematics related subjects during the Foundation which may be equivalent to SPM/O-Level/IGCSE Additional Mathematics, can be accepted into Degree Programmes. Students can be given preferential entry for ICT related subject in SPM/O-Level/ IGCSE. Any qualification that APU accepts as equivalent to the above. The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -30,7 +31,7 @@
     "https://www.studymalaysia.com/what/course/APU/0056387/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Honours) in Computer Science with a specialism in Data Analytics",
   "program_name_zh": "Science (Honours) in Computer Science with a specialism in Data Analytics学士",
   "field_ar": "Computing & Technology",

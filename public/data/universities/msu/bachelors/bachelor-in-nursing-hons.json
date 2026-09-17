@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 177970.0,
-    "per_year": 24250,
-    "notes": "Local: RM97,000.00; International: RM177,970.00 (per_year based on 4.0yr duration)"
+    "currency": "MYR",
+    "total": 177970,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM177,970. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0053638/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Pass Sijil Tinggi Persekolahan Malaysia (STPM) or equivalent with minimum CGPA 2.5; OR Pass 'A' level minimum Grade C in three (3) other subjects. Pass matriculation/Foundation, with minimum CGPA 2.5. Pass any Diploma with minimum CGPA 2.5 (No credit transfer) equivalent MQF Level 4. Pass Diploma in Nursing from a recognized institution by MNB with minimum two (2) years clinical working experience. (Credit transfer allowed) All candidates must possess at least one (1) credit in Science/Biology/Chemistry/Physics/Applied Science at SPM or equivalent, and in Mathematics (Elementary or Additional or Modern) at SPM or equivalent. MUET with minimum of Band 3 / IELTS with a minimum of 5.5 / TOEFL with a minimum score of 515 / 215 / 80. Credit in English (SPM) required."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Nursing (Hons)",
   "program_name_zh": "Nursing (Hons)学士",
   "field_ar": "الطب",

@@ -8,13 +8,14 @@
   "duration": "2 years",
   "mode": "Full-time",
   "intakes": [
-    "Jun"
+    "Jun",
+    "Nov"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 15400,
-    "per_year": 6160,
-    "notes": ""
+    "total": 44000,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM44,000 (inclusive of 6% SST). Source: https://fafb.tarc.edu.my/programmes/diploma/human-resource-management (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -49,10 +50,12 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/diploma-in-human-resource-management-289328/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://fafb.tarc.edu.my/programmes/diploma/human-resource-management",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Human Resource Management",
   "program_name_zh": "Human Resource Management文凭",
   "field_ar": "إدارة الأعمال",

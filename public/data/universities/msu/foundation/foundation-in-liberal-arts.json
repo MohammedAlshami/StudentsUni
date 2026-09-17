@@ -13,14 +13,15 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 28825.0,
-    "per_year": 16500,
-    "notes": "Local: RM16,500.00; International: RM28,825.00 (per_year based on 1.0yr duration)"
+    "currency": "MYR",
+    "total": 28825,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM28,825. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0058474/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+    "other_qualifications": "High school completion",
+    "general": "A minimum of FIVE (5) Credits at SPM/SPMV level including Bahasa Melayu and English OR other qualifications recognized as equivalent by the Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,
@@ -39,7 +40,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Liberal Arts",
   "program_name_zh": "Liberal Arts预科",
   "field_ar": "الفنون",

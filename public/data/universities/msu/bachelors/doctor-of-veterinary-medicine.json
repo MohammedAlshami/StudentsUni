@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 370000,
-    "per_year": 74000,
-    "notes": "Local: RM370,000.00 (per_year based on 5.0yr duration)"
+    "currency": "MYR",
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: programme is not listed with an international fee on StudyMalaysia and MSU official pages publish Malaysian fees only. Source: https://www.msu.edu.my (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "STPM / Matriculation / Asasi Minimum CGPA 3.0 Minimum Grade B in the following subjects: Biology, Physics or Chemistry, Mathematics A Level (and equivalent) Minimum CGPA 3.0 Minimum Grade B in the following subjects: Biology, Physics or Chemistry, Mathematics Diploma Minimum CGPA 3.5 Minimum Grade B in the following (or equivalent): Diploma in a suitable field (e.g., Diploma in Animal Husbandry and Health) recognised by the Malaysian government, Malaysian Qualifications Agency and recommended by MSU Senate. CGPA and relevant work experience (for applicants whose diploma CGPA is below 3.5): Work Experience 3–4 years: Minimum CGPA 3.0 Work Experience 5–9 years: Minimum CGPA 2.7 Work Experience >10 years: Minimum CGPA 2.5 SPM / O Level Minimum Grade B at SPM level (or equivalent) for English and Mathematics Minimum Grade B at O level (or equivalent) for English and Mathematics, and minimum Grade B for any three (3) other subjects. English Proficiency Malaysian student: MUET (min. Band 3) or MSU English Proficiency Test. International student: MUET (min. Band 3) or MSU English Proficiency Test (or equivalent). TOEFL iBT 79, IELTS 5.5 (or equivalent) are acceptable equivalents. All applicants: Pass Veterinary Entrance Test (VET) interview"
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Veterinary Medicine",
   "program_name_zh": "Veterinary Medicine博士",
   "field_ar": "الطب",

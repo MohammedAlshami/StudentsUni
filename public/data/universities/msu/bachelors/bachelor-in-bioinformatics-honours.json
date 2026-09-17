@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 25200,
-    "per_year": 4866,
-    "notes": "Fees not available (per_year based on 3.0yr duration)"
+    "total": 94430,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM94,430. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0005631/ (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 5.0 / MUET Band 3 or equivalent",
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "i. Pass STPM with a minimum of Grade C (GPA 2.00) in any two (2) subjects, or its equivalent; and possess SPM with three (3) credits in Mathematics, one science subject and one any other subject, or its equivalent; OR ii. Pass STAM with a minimum grade of Jayyid, or its equivalent; and possess SPM with three (3) credits in Mathematics, one science subject and one any other subject, or its equivalent; OR iii. Matriculation/Foundation with a minimum CGPA of 2.00, or its equivalent, and possess SPM with three (3) credits in Mathematics, one science subject and one any other subject, or its equivalent; OR iv. A Diploma (Level 4, MQF) in a related field with a minimum CGPA of 2.00, or its equivalent. Note: The credit requirement at SPM level for candidates in categories (i), (ii), and (iii) can be waived if higher-level qualifications are met. English Requirement for International Students: IELTS 5.0 / MUET Band 3 or equivalent"
   },
   "accreditation": {
     "mqa_status": null,
@@ -46,7 +47,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Bioinformatics (Honours)",
   "program_name_zh": "Bioinformatics (Honours)学士",
   "field_ar": "General",

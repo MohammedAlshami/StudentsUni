@@ -14,21 +14,23 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 29200.0,
-    "per_year": 27500,
-    "notes": ""
+    "total": 29200,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM29,200. APU course page does not publish a fee table for this programme. Source: https://studymalaysia.com/what/course/APU/0005481/ (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+    "english_requirement": "IELTS : 4.0 / TOEFL IBT : 1.5 / Pearson (PTE) : 36 / MUET : Band 3",
+    "other_qualifications": "High school completion",
+    "general": "Engineering SPM 5 Credits in at least 5 subjects at SPM level including a Credit in Mathematics and Physics OR Chemistry OR Technical Science with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 5 Credits (Grade C & above) in at least 5 subjects including Mathematics and Physics OR Chemistry OR Technical Science at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC including Mathematics and Physics OR Chemistry OR Technical Science; Any qualification that APU accepts as equivalent to the above. Note: Engineering Degree Programmes require a Credit in Mathematics and Physics or Chemistry or Technical Science at SPM/IGCSE/O-Level or equivalent. The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/foundation-programme-engineering",
-    "https://www.studymalaysia.com/what/course/APU/0005481/"
+    "https://www.studymalaysia.com/what/course/APU/0005481/",
+    "https://studymalaysia.com/what/course/APU/0005481/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Foundation Programme (Engineering Route)",
   "program_name_zh": "Foundation Programme (Engineering Route)",
   "field_ar": "الهندسة",

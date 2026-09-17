@@ -7,17 +7,17 @@
   "program_slug": "bsc-data-analytics",
   "field": "Data Science",
   "faculty": "Faculty of Computer Science and Mathematics",
-  "duration": "3 years",
+  "duration": "7 Semesters",
   "mode": "full-time",
   "intakes": {
     "main": "September",
     "secondary": null
   },
   "fees": {
-    "currency": "MYR",
-    "total": 21600,
-    "per_year": 5400,
-    "notes": "Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": 7140,
+    "per_year": 2040,
+    "notes": "Official UMT undergraduate international fee (USD1,020/semester; 7 semesters): total = USD1,020 x 7 semesters, per_year = USD1,020 x 2 semesters (derived). Excludes hostel and non-recurrent fees. Source: https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,12 +27,10 @@
   },
   "accreditation": "MQA/FA6461003",
   "sources": [
-    "https://umt.my/all-programs-at-umt/",
-    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG",
-    "https://www.studymalaysia.com/edu/umt/courses/"
+    "https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Data Analytics) with Honours",
   "program_name_zh": "Science (Data Analytics) with Honours学士",
   "field_ar": "علوم البيانات",

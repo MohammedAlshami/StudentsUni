@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
+    "currency": "MYR",
     "total": 89950,
-    "per_year": 10750,
-    "notes": "Local: RM43,000.00; International: RM89,950.00 (per_year based on 4.0yr duration)"
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM89,950. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0053640/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "i. Pass STPM or equivalent with at least: Grade C in 3 subjects including General Studies/General Papers; OR Grade C in 2 subjects including General Studies/General Papers and Grade D in 2 other subjects ii. Pass A-Level with at least Grade C (CGPA 2.00) in 2 subjects and credits in Mathematics and Science and pass in English at SPM level; OR iii. Pass South Australian Matriculation (SAM) with minimum 65–75%; OR iv. Pass Canadian Pre-University (CPU) with minimum 80%; OR v. Pass STAM (Jayyid level); OR vi. Pass UEC with Grade B in 5 subjects; OR vii. Pass Matriculation/Foundation with minimum CGPA of 2.00; OR viii. Diploma in a related field with minimum CGPA of 2.00; OR ix. Any other equivalent qualification recognised by MSU Senate"
   },
   "accreditation": {
     "mqa_status": null,
@@ -46,7 +47,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Counselling and Guidance (Hons)",
   "program_name_zh": "Counselling and Guidance (Hons)学士",
   "field_ar": "التربية والتعليم",

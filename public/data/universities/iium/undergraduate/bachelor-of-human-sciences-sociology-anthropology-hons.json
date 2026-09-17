@@ -4,7 +4,7 @@
   "level": "undergraduate",
   "program_name": "Bachelor of Human Sciences (Sociology & Anthropology) (Hons)",
   "field": "Social Sciences",
-  "duration": "8 Semesters",
+  "duration": "6 Semesters (3 years)",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 21600,
-    "per_year": 5400,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 36000,
+    "per_year": 12000,
+    "notes": "International tuition RM36,000 total (RM6,000/semester x 6 semesters, after discount); per_year derived from official duration. All-in payable RM54,265 incl. entrance/recurrent/mahallah/takaful/graduation, excludes SST. IIUM official section: AHAS KIRKHS-SOCA (3-year). Source: https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf (Sem 1 2024/25 onwards; PDF updated Mar 2026), accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,10 +27,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/what/course/IIUM/0000800/"
+    "https://www.studymalaysia.com/what/course/IIUM/0000800/",
+    "https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Human Sciences (Sociology & Anthropology) (Hons)",
   "program_name_zh": "Human Sciences (Sociology & Anthropology) (Hons)学士",
   "field_ar": "العلوم",

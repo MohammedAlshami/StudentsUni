@@ -13,17 +13,18 @@
     "phd"
   ],
   "total_programs": 62,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes.html",
-    "https://university.taylors.edu.my/en.html"
+    "https://university.taylors.edu.my/en.html",
+    "https://university.taylors.edu.my/en/study/scholarships-and-financial-aid/fees-schedules.html"
   ],
   "fees": {
     "currency": "MYR",
     "local_total": 105000,
-    "international_total": null,
+    "international_total": 18514,
     "per_year_local": 35000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    "per_year_international": 16709,
+    "notes": "Verified international student fees: published programme totals RM18,514-RM512,760; published per-year figures RM16,709-RM102,552 (MYR, before any separate service tax where noted). Some programmes have no published international fee (null). See individual programme files. Sources: https://university.taylors.edu.my/en/study/scholarships-and-financial-aid/fees-schedules.html (accessed 2026-09-18)."
   }
 }

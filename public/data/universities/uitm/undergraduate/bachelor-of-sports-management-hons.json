@@ -14,7 +14,7 @@
     "currency": "MYR",
     "total": 16200,
     "per_year": 5400,
-    "notes": "Standard public university fees (MQA regulated)"
+    "notes": "Unverified international fee: UiTM's official International Postgraduate Education guide (https://ipsis.uitm.edu.my/images/Admission/BROCHURE_INTERNATIONAL_2024.pdf, ed. 2024) prices postgraduate awards only (USD3,000-13,000 per programme); StudyMalaysia lists only local fees (RM200/sem) for UiTM. Diploma/undergraduate places at UiTM are restricted to Bumiputera (Malaysian) candidates, so no international fee is published for this programme. The figure shown is an unverified local/subsidised estimate."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,10 +27,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/edu/uitm/courses/"
+    "https://www.studymalaysia.com/edu/uitm/courses/",
+    "https://ipsis.uitm.edu.my/images/Admission/BROCHURE_INTERNATIONAL_2024.pdf"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Sports Management (Hons)",
   "program_name_zh": "Sports Management (Hons)学士",
   "field_ar": "علوم الرياضة",

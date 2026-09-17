@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 9176,
-    "per_year": 18352,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 19600,
+    "per_year": null,
+    "notes": "UPM SGS official international research fees (reviewed 16 June 2026): Medical cluster, RM19,600 for maximum 2 years and RM28,700 for maximum 3 years. 6% SST applies from 1 June 2026. Source: https://sgs.upm.edu.my/upload/dokumen/20260618021817DUAL_INTERNTIONAL_TUITION_FEE_2026_-_16.06.2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -26,10 +26,11 @@
   },
   "sources": [
     "https://www.upm.edu.my/kemasukan/program/pascasiswazah-76276",
-    "https://www.studymalaysia.com/edu/upm/courses/"
+    "https://www.studymalaysia.com/edu/upm/courses/",
+    "https://sgs.upm.edu.my/upload/dokumen/20260618021817DUAL_INTERNTIONAL_TUITION_FEE_2026_-_16.06.2026.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Veterinary Science (M.V.Sc.)",
   "program_name_zh": "Veterinary Science (M.V.Sc.)博士",
   "field_ar": "Research",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 14280,
-    "per_year": 5712,
-    "notes": ""
+    "total": 49200,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM49,200 (inclusive of 6% SST). Source: https://fobe.tarc.edu.my/programmes/diploma/diploma-in-quantity-surveying (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -50,10 +50,12 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/diploma-in-quantity-surveying-289376/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://fobe.tarc.edu.my/programmes/diploma/diploma-in-quantity-surveying",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Quantity Surveying",
   "program_name_zh": "Quantity Surveying文凭",
   "field_ar": "العمارة",

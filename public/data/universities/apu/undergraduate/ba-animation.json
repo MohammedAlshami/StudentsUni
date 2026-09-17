@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 108500.0,
-    "per_year": 34867,
-    "notes": ""
+    "total": 108500,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/bachelor-of-arts-animation (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "english_requirement": "IELTS : 5.5 / TOEFL IBT : 3.5 / Pearson (PTE) : 51 / MUET : Band 4",
+    "a_level": "2 Passes (Grade A-D) in A-Level.",
+    "ib": null,
+    "other_qualifications": null,
+    "general": "General Requirements Direct Entry to Level 1 of the Degree STPM A Pass in STPM with a minimum Grade C (GP 2.00) in any 2 subjects. A-Level 2 Passes (Grade A-D) in A-Level. UEC 5 Grade B’s in UEC. Matriculation/ Foundation A Pass in Matriculation or Foundation studies with minimum CGPA of 2.00. Note : Pass an Interview OR submission of Design Portfolio as required . Entry to Level 2 of the Degree Related Diploma A Diploma (Level 4, MQF) with a minimum CGPA of 2.00, or its equivalent. A pass in DKM / DLKM / DVM with a minimum CGPA of 2.50 subjected to HEP Senate/ Academic Board’s approval. Equivalent qualification and / or experience which is recognised by the Senate / institution. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -30,7 +31,7 @@
     "https://www.studymalaysia.com/what/course/APU/0056670/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Arts (Honours) in Animation",
   "program_name_zh": "Arts (Honours) in Animation学士",
   "field_ar": "التصميم",

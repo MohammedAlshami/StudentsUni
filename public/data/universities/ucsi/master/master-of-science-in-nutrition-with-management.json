@@ -4,18 +4,18 @@
   "level": "master",
   "program_name": "Master of Science in Nutrition with Management",
   "field": "Nutrition with Management",
-  "duration": "1-2 Years",
+  "duration": "Minimum 1 year – Full time study / Minimum 2 years – Part time study",
   "mode": "Full-time/Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 53475,
-    "per_year": 53475,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 76866,
+    "per_year": null,
+    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/msc-nutrition-management), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 86,621."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,10 +24,11 @@
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057297/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/"
+    "https://www.studymalaysia.com/edu/ucsi/courses/",
+    "https://www.ucsiuniversity.edu.my/programmes/msc-nutrition-management"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Nutrition with Management",
   "program_name_zh": "Science in Nutrition with Management硕士",
   "field_ar": "تقنية المعلومات",

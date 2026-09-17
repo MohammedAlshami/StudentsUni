@@ -8,14 +8,14 @@
   "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
-    "Jun",
-    "Nov"
+    "Jan",
+    "Jun"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 65200.0,
-    "per_year": 12500,
-    "notes": ""
+    "total": 74600,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM74,600 (inclusive of 6% SST). Source: https://foas.tarc.edu.my/programmes/bachelor-degree/rsp-sports-coaching-and-performance-analysis (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -35,10 +35,12 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://foas.tarc.edu.my/programmes/bachelor-degree/rsp-sports-coaching-and-performance-analysis",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Honours) Sports Coaching and Performance Analysis",
   "program_name_zh": "Science (Honours) Sports Coaching and Performance Analysis学士",
   "field_ar": "العلوم",

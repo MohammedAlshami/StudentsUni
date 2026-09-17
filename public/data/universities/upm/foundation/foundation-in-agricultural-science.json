@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 6000,
-    "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 24500,
+    "per_year": 24500,
+    "notes": "UPM official international tuition fee schedule (Apr 2026): RM12,250/semester, RM24,500 total (1 year); per year = RM24,500 (two semesters). Source: https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -25,10 +25,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.upm.edu.my/kemasukan/program/pengajian_asasi-76278"
+    "https://www.upm.edu.my/kemasukan/program/pengajian_asasi-76278",
+    "https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Agricultural Science",
   "program_name_zh": "Agricultural Science预科",
   "field_ar": "الزراعة",

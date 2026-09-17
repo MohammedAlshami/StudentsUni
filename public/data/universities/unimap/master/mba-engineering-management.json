@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 16800,
-    "per_year": 16800,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 23840,
+    "per_year": null,
+    "notes": "UniMAP CGS official international fee structure for MBA (Engineering Management) (coursework): international full-time grand total RM23,840 (3 semesters). Source: https://cgs.unimap.edu.my/v2/FEES/MC34%20%E2%80%93%20MBA%20(ENGINEERING%20MANAGEMENT).pdf and https://cgs.unimap.edu.my/index.php/en/programmes/fees-duration"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/what/course/UniMAP/0054447/",
-    "https://www.studymalaysia.com/edu/unimap/courses/"
+    "https://www.studymalaysia.com/edu/unimap/courses/",
+    "https://cgs.unimap.edu.my/index.php/en/programmes/fees-duration"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration (Engineering Management)",
   "program_name_zh": "Business Administration (Engineering Management)硕士",
   "field_ar": "إدارة الأعمال",

@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33785,
-    "per_year": 6950,
-    "notes": "Local: RM81,130.00; International: RM137,900.00 (per_year based on 3.4166666666666665yr duration)"
+    "total": 137900,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM137,900. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0056492/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Pass STPM/Matriculation/A-Level/Pre-University or equivalent with at least 2.50 CGPA in Biology/Physics and Chemistry AND pass SPM or equivalent with a Credit in five (5) subjects including three (3) from Biology, Physics, Mathematics, Chemistry, and English; OR Obtain a related Diploma (MQF Level 4) with at least 2.75 CGPA from a recognized institution (CGPAs below 2.75 may be supported by at least 3 years / 36 months of related work experience). Equivalent international qualifications will be subject to MSU Senate approval. International students must also score at least 6.0 in IELTS or 550 in TOEFL or equivalent."
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Health Science Management (Honours)",
   "program_name_zh": "Health Science Management (Honours)学士",
   "field_ar": "إدارة الأعمال",

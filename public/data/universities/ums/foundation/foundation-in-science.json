@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 620,
-    "per_year": 620,
-    "notes": "RM620/semester for local students per StudyMalaysia."
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published by UMS for this programme (only local-student rates are public). Previous value was a local fee. RM620/semester for local students per StudyMalaysia. Verify with UMS Bursar/CIGE. Source: https://www.ums.edu.my/pppg/images/REQUIREMENT/FEES-INFORMATION-FOR-INTERNATIONAL-STUDENTS_ENGINEERING-PROGRAM.pdf (international schedule covers engineering only), accessed 2026-09-18."
   },
   "requirements": {
     "previous_education": "SPM with at least 5 credits including Bahasa Melayu and passed History. Minimum Grade B+ in Mathematics and Grade C+ in 3 of Physics/Chemistry/Biology. Grade C in Additional Mathematics. Bumiputera only."
@@ -28,10 +28,15 @@
       "url": "https://studymalaysia.com/what/course/UMS/0009726/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.ums.edu.my/pppg/images/REQUIREMENT/FEES-INFORMATION-FOR-INTERNATIONAL-STUDENTS_ENGINEERING-PROGRAM.pdf",
+      "publisher": "Universiti Malaysia Sabah",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Science",
   "program_name_zh": "Science预科",
   "field_ar": "تقنية المعلومات",

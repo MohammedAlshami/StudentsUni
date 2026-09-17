@@ -193,8 +193,8 @@
       "mode": "Full-time",
       "intakes": null,
       "fees": {
-        "local": null,
-        "international": null
+        "local": "RM104,600.00",
+        "international": "RM108,500.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -352,8 +352,8 @@
       "mode": "Full-time",
       "intakes": null,
       "fees": {
-        "local": "RM99,800.00",
-        "international": "RM104,600.00"
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -912,8 +912,8 @@
       "mode": "Full-time",
       "intakes": null,
       "fees": {
-        "local": null,
-        "international": null
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -931,8 +931,8 @@
       "mode": "Full-time",
       "intakes": null,
       "fees": {
-        "local": null,
-        "international": null
+        "local": "RM100,400.00",
+        "international": "RM108,500.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -1030,8 +1030,8 @@
       "mode": "Full-time",
       "intakes": null,
       "fees": {
-        "local": "RM116,000.00",
-        "international": "RM128,000.00"
+        "local": "RM118,400.00",
+        "international": "RM137,200.00"
       },
       "requirements": null,
       "accreditation": "MQA, Board of Engineers Malaysia (BEM)",
@@ -1145,16 +1145,17 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 26799,
-    "international_total": 28400.0,
-    "per_year_local": 8933,
+    "local_total": 98000,
+    "international_total": 108500,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "From StudyMalaysia: RM26,800.00 (per_year based on 3yr duration)"
+    "notes": "APU official course pages: international tuition totals RM108,500–RM137,200; Malaysian RM98,000–RM118,400. Individual programme pages carry exact per-programme figures. Sources: https://www.apu.edu.my/fees and APU course pages (accessed 2026-09-18)."
   },
   "sources": [
-    "https://www.studymalaysia.com/edu/apu/courses/"
+    "https://www.studymalaysia.com/edu/apu/courses/",
+    "https://www.apu.edu.my/fees"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "requirements": {
     "malaysian": {
       "spm": "3-5 Credits (C) including relevant subjects",

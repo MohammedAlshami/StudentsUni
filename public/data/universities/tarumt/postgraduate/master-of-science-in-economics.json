@@ -14,8 +14,8 @@
   "fees": {
     "currency": "MYR",
     "total": 24600,
-    "per_year": 5400,
-    "notes": " (per_year based on 2.0yr duration)"
+    "per_year": null,
+    "notes": "CPSR Postgraduate Fee Calendar 2026 (full-time international, inclusive of 6% SST): estimated total RM24,600. Source: https://cpsr.tarc.edu.my/programmes/programme-fees (updated June 2026; accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -38,10 +38,13 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/master-of-science-in-economics-research-294980/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://cpsr.tarc.edu.my/programmes/by-research/faculty-of-accountancy-finance-and-business/master-of-science-in-economics",
+    "https://cpsr.tarc.edu.my/programmes/programme-fees",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Economics",
   "program_name_zh": "Science in Economics硕士",
   "field_ar": "إدارة الأعمال",

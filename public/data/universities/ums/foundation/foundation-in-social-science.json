@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 3000,
-    "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published by UMS for this programme (only local-student rates are public). Previous value was a local fee. Standard public university fees (MQA regulated) Verify with UMS Bursar/CIGE. Source: https://www.ums.edu.my/pppg/images/REQUIREMENT/FEES-INFORMATION-FOR-INTERNATIONAL-STUDENTS_ENGINEERING-PROGRAM.pdf (international schedule covers engineering only), accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -29,10 +29,15 @@
       "url": "https://studymalaysia.com/what/course/UMS/0058915/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.ums.edu.my/pppg/images/REQUIREMENT/FEES-INFORMATION-FOR-INTERNATIONAL-STUDENTS_ENGINEERING-PROGRAM.pdf",
+      "publisher": "Universiti Malaysia Sabah",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Social Science",
   "program_name_zh": "Social Science预科",
   "field_ar": "تقنية المعلومات",

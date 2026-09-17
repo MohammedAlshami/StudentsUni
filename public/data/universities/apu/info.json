@@ -31,15 +31,16 @@
   ],
   "sources": [
     "https://www.apu.edu.my",
-    "https://www.studymalaysia.com/edu/apu/courses/"
+    "https://www.studymalaysia.com/edu/apu/courses/",
+    "https://www.apu.edu.my/fees"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 105000,
-    "international_total": null,
-    "per_year_local": 35000,
+    "local_total": 19500,
+    "international_total": 21200,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "APU official course pages (international student fees; excludes 6% SST). Totals range from RM21,200 (Foundation in Computing ODL) to RM137,200 (engineering bachelors); Malaysian from RM19,500. Per-programme figures are on each programme page. Source: https://www.apu.edu.my/fees and APU course pages (accessed 2026-09-18)."
   }
 }

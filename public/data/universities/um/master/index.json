@@ -561,6 +561,9 @@
     "international_total": null,
     "per_year_local": 8000,
     "per_year_international": null,
-    "notes": "Estimated ~RM4000/semester for public university (subsidized) (per_year based on 1.5yr duration)"
-  }
+    "notes": "International tuition varies by programme (RM59,400-RM673,200 total) per the official UM International Booklet 2025/26. See individual programme files."
+  },
+  "sources": [
+    "https://study.um.edu.my/doc/booklets/International%20Booklet%20-%20Updated%2015%20Dec%202025.pdf"
+  ]
 }

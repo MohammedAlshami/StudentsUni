@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 95300.0,
-    "per_year": 15600,
-    "notes": "Local: RM54,600.00; International: RM95,300.00 (per_year based on 3.5yr duration)"
+    "currency": "MYR",
+    "total": 95300,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM95,300. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/msu/0057142/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Pass STPM / A-Level with full passes in at least two (2) subjects; OR Pass UEC with at least Grade B in five (5) subjects including Mathematics and English; OR Pass South Australian Matriculation (SAM) with a minimum score of 65–70%; OR Pass Foundation in Science or Engineering from recognised institutions; OR Pass Matriculation Certificate from the Ministry of Education Malaysia or equivalent; OR Pass Diploma from IKM / Community College / Polytechnic / other recognised IPT in related field (MQF Level 4); OR Other qualifications recognised as equivalent by the Government of Malaysia."
   },
   "accreditation": {
     "mqa_status": null,
@@ -38,10 +39,11 @@
       "url": "https://studymalaysia.com/edu/msu/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14T00:00:00+08:00"
-    }
+    },
+    "https://studymalaysia.com/what/course/msu/0057142/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Logistic Management (Hons)",
   "program_name_zh": "Logistic Management (Hons)学士",
   "field_ar": "إدارة الأعمال",

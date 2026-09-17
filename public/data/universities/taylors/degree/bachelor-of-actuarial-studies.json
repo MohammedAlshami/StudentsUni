@@ -15,12 +15,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 42870,
-    "per_year": 28677,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 144517,
+    "per_year": 48172,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 38,031. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "english_requirement": "MUET Band 3 / CEFR Low B2 Pre (or equivalent English qualification)",
     "a_level": "2 Principals (C+) including relevant subjects",
     "ib": "24 points",
     "other_qualifications": "Equivalent pre-university qualification"
@@ -38,10 +38,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Actuarial Studies (Honours)",
   "program_name_zh": "Actuarial Studies (Honours)学士",
   "field_ar": "إدارة الأعمال",

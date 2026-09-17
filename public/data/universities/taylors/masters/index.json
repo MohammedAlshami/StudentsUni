@@ -6,24 +6,30 @@
     "program_name": "Master of Architecture",
     "field": "Architecture",
     "slug": "master-of-architecture",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 81610,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 40805,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 21,476. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-architecture-building-and-design/postgraduate/taylors-fees-schedule-pg-master-of-achitecture-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/master-coursework/master-of-architecture.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -32,24 +38,33 @@
     "program_name": "Master of Science in Virtual Design and Construction",
     "field": "Architecture",
     "slug": "master-of-science-in-virtual-design-and-construction",
-    "duration": null,
+    "duration": "1 year",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Nov",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 66323,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 66323,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 17,453. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-architecture-building-and-design/postgraduate/taylors-fees-schedule-pg-master-of-science-in-virtual-design-construction-usd.pdf (accessed 2026-09-18). per_year = total / 1yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/master-coursework/master-of-science-in-virtual-design-and-construction.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -58,24 +73,33 @@
     "program_name": "Master of Science",
     "field": "Biosciences",
     "slug": "master-of-science",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 57018,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 28509,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/master-research/master-of-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -84,24 +108,33 @@
     "program_name": "Master of Business Administration",
     "field": "Business",
     "slug": "master-of-business-administration",
-    "duration": null,
+    "duration": "1 year",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Nov",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 75057,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 75057,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 19,752. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/postgraduate/taylors-fees-schedule-pg-master-of-business-administration-and-master-of-management-usd.pdf (accessed 2026-09-18). per_year = total / 1yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-coursework/master-of-business-administration.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -110,24 +143,33 @@
     "program_name": "Master of Management",
     "field": "Business",
     "slug": "master-of-management",
-    "duration": null,
+    "duration": "1 year",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Nov",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 75057,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 75057,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 19,752. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/postgraduate/taylors-fees-schedule-pg-master-of-business-administration-and-master-of-management-usd.pdf (accessed 2026-09-18). per_year = total / 1yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-coursework/master-of-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -136,24 +178,33 @@
     "program_name": "Master of Business Administration (100% Online)",
     "field": "Business",
     "slug": "master-of-business-administration-online",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Online",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Nov",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 45671,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 22836,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 12,019. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/online-postgraduate-programme/taylors-fees-schedule-online-postgraduate-programme-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-online/master-of-business-administration-online.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -162,24 +213,33 @@
     "program_name": "Master of Management (100% Online)",
     "field": "Business",
     "slug": "master-of-management-online",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Online",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Jun",
+      "Nov",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 45671,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 22836,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 12,019. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/online-postgraduate-programme/taylors-fees-schedule-online-postgraduate-programme-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-online/master-of-management-online.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -188,24 +248,32 @@
     "program_name": "Master of Food Studies and Gastronomy",
     "field": "Culinary Arts",
     "slug": "master-of-food-studies-and-gastronomy",
-    "duration": null,
+    "duration": "1 year",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Nov",
+      "Jun"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 78568,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 78568,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,676. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/postgraduate/taylors-fees-schedule-pg-master-of-food-studies-and-gastronomies-usd.pdf (accessed 2026-09-18). per_year = total / 1yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/master-coursework/master-of-food-studies-and-gastronomy.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -214,24 +282,33 @@
     "program_name": "Master of Food Studies",
     "field": "Culinary Arts",
     "slug": "master-of-food-studies",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 57018,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 28509,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/master-research/master-of-food-studies.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -240,24 +317,33 @@
     "program_name": "Master of Communication",
     "field": "Media and Communication",
     "slug": "master-of-communication",
-    "duration": null,
+    "duration": "1.5 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Nov",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 66993,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 44662,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 17,630. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-media-and-communication/postgraduate/taylors-fees-schedule-pg-master-of-communication-usd.pdf (accessed 2026-09-18). per_year = total / 1.5yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/master-coursework/master-of-communication.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -266,24 +352,33 @@
     "program_name": "Master in Applied Computing (Coursework)",
     "field": "Computer Science",
     "slug": "master-in-applied-computing",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Nov",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 68439,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 34220,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 18,010. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-computer-science/postgraduate/taylors-fees-schedule-pg-master-of-applied-computing-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/master-coursework/master-in-applied-computing.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -292,24 +387,33 @@
     "program_name": "Master of Computer Science",
     "field": "Computer Science",
     "slug": "master-of-computer-science",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 57018,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 28509,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/master-research/master-of-computer-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -318,24 +422,33 @@
     "program_name": "Master in Applied Computing (100% Online)",
     "field": "Computer Science",
     "slug": "master-in-applied-computing-online",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Online",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Nov",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 35072,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 17536,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 9,230. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/online-postgraduate-programme/taylors-fees-schedule-online-postgraduate-programme-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/master-online/master-in-applied-computing-online.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -344,24 +457,33 @@
     "program_name": "Master of Design",
     "field": "Design",
     "slug": "master-of-design",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 57018,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 28509,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/design/master-research/master-of-design.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -370,24 +492,32 @@
     "program_name": "Master of Teaching and Learning",
     "field": "Education",
     "slug": "master-of-teaching-and-learning",
-    "duration": null,
+    "duration": "1.5 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Nov",
+      "Jun"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 63177,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 42118,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 16,625. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-education/postgraduate/taylors-fees-schedule-pg-master-of-teaching-and-learning-usd.pdf (accessed 2026-09-18). per_year = total / 1.5yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-coursework/master-of-teaching-and-learning.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -396,24 +526,33 @@
     "program_name": "Master of Education",
     "field": "Education",
     "slug": "master-of-education",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 57018,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 28509,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-research/master-of-education.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -422,24 +561,33 @@
     "program_name": "Postgraduate Certificate in Education (100% online)",
     "field": "Education",
     "slug": "postgraduate-certificate-in-education-online",
-    "duration": null,
+    "duration": "1 year",
     "mode": "Online",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Nov",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 18514,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 18514,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 4,872. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/online-postgraduate-programme/taylors-fees-schedule-online-postgraduate-programme-usd.pdf (accessed 2026-09-18). per_year = total / 1yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-online/postgraduate-certificate-in-education-online.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -448,24 +596,33 @@
     "program_name": "Master of Teaching and Learning (100% online)",
     "field": "Education",
     "slug": "master-of-teaching-and-learning-online",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Online",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Nov",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 33418,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 16709,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 8,794. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/online-postgraduate-programme/taylors-fees-schedule-online-postgraduate-programme-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-online/master-of-teaching-and-learning-online.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -474,24 +631,33 @@
     "program_name": "Master of Science in Engineering",
     "field": "Engineering",
     "slug": "master-of-science-in-engineering",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Oct",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 57018,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 28509,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/master-research/master-of-science-in-engineering.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -500,24 +666,33 @@
     "program_name": "Master of Global Hospitality Management (100% Online)",
     "field": "Hospitality and Tourism",
     "slug": "master-of-global-hospitality-management",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Online",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Jun",
+      "Nov",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 45671,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 22836,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 12,019. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/online-postgraduate-programme/taylors-fees-schedule-online-postgraduate-programme-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/master-online/master-of-global-hospitality-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -526,24 +701,33 @@
     "program_name": "Master of International Hospitality Management",
     "field": "Hospitality and Tourism",
     "slug": "master-of-international-hospitality-management",
-    "duration": null,
+    "duration": "1.5 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Jun",
+      "Nov",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 79416,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 52944,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,899. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-hospitality-tourism-and-events/postgraduate/taylors-fees-schedule-pg-master-of-international-hospitality-management-usd.pdf (accessed 2026-09-18). per_year = total / 1.5yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/master-coursework/master-of-international-hospitality-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -552,24 +736,33 @@
     "program_name": "Master of Science in Tourism",
     "field": "Hospitality and Tourism",
     "slug": "master-of-science-in-tourism",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Feb",
+      "Apr",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 57018,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 19006,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/master-research/master-of-science-in-tourism.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -578,24 +771,33 @@
     "program_name": "Master of Laws in Healthcare and Medical Law",
     "field": "Law",
     "slug": "master-of-laws-in-healthcare-and-medical-law",
-    "duration": null,
+    "duration": "1.5 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Jun",
+      "Nov",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 120000,
-      "international_total": null,
+      "international_total": 77097,
       "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.5yr duration)"
+      "per_year_international": 51398,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,289. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-law-and-governance/postgraduate/taylors-fees-schedule-pg-master-of-law-and-master-of-laws-in-healthcare-and-medical-law-usd.pdf (accessed 2026-09-18). per_year = total / 1.5yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/master-coursework/master-of-laws-in-healthcare-and-medical-law.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -604,24 +806,33 @@
     "program_name": "Master of Laws",
     "field": "Law",
     "slug": "master-of-laws",
-    "duration": null,
+    "duration": "1.5 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Jun",
+      "Nov",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 77508,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 51672,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,397. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-law-and-governance/postgraduate/taylors-fees-schedule-pg-master-of-law-and-master-of-laws-in-healthcare-and-medical-law-usd.pdf (accessed 2026-09-18). per_year = total / 1.5yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/master-coursework/master-of-laws.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -630,24 +841,30 @@
     "program_name": "Master of Counselling",
     "field": "Liberal Arts",
     "slug": "master-of-counselling",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 73198,
       "per_year_local": 30000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "per_year_international": 24399,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 19,263. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/postgraduate/taylors-fees-schedule-pg-master-of-counselling-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/master-coursework/master-of-counselling.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -658,22 +875,28 @@
     "slug": "master-of-clinical-psychology",
     "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 45000,
-      "international_total": null,
+      "international_total": 86787,
       "per_year_local": 22500,
-      "per_year_international": null,
-      "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 2.0yr duration)"
+      "per_year_international": 43394,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 22,839. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/postgraduate/taylors-fees-schedule-pg-master-of-clinical-psychology-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/master-coursework/master-of-clinical-psychology.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -682,24 +905,33 @@
     "program_name": "Master of Philosophy in Pharmaceutical Sciences",
     "field": "Pharmacy",
     "slug": "master-of-philosophy-in-pharmaceutical-science",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Feb",
+      "Apr",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 120000,
-      "international_total": null,
+      "international_total": 57018,
       "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.5yr duration)"
+      "per_year_international": 19006,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/master-research/master-of-philosophy-in-pharmaceutical-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -708,24 +940,33 @@
     "program_name": "Master of Philosophy in Pharmacy",
     "field": "Pharmacy",
     "slug": "master-of-philosophy-in-pharmacy",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Feb",
+      "Apr",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 120000,
-      "international_total": null,
+      "international_total": 57018,
       "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.5yr duration)"
+      "per_year_international": 19006,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/master-research/master-of-philosophy-in-pharmacy.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -734,23 +975,32 @@
     "program_name": "Master of Science in Medical Science",
     "field": "Medicine",
     "slug": "master-of-science-in-medical-science",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Feb",
+      "Apr",
+      "Jun",
+      "Sep",
+      "Oct"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 120000,
-      "international_total": null,
+      "international_total": 57018,
       "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.5yr duration)"
+      "per_year_international": 19006,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 15,005. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/postgraduate-general/taylors-fees-schedule-pg-master-research-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+      "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/medicine/master-research/master-of-science-in-medical-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   }
 ]

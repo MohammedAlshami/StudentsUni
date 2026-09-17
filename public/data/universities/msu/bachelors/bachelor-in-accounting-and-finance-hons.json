@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21250,
-    "per_year": 3412,
-    "notes": "Local: RM54,600.00; International: RM106,790.00 (per_year based on 4.0yr duration)"
+    "total": 106790,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM106,790. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0058472/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Malaysian University English Test (MUET): Band 2 i. A pass in STPM or its equivalent, with a minimum Grade C+ (GP 2.33) in any two subjects, and credits in Mathematics and a pass in English at SPM level; OR ii. A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Jayyid (Good), and credits in Mathematics and a pass in English at SPM level; OR iii. A diploma in accounting or related field, or its equivalent with a minimum CGPA of 2.50, and credits in Mathematics and a pass in English at SPM level; OR iv. Matriculation/Foundation qualification or its equivalent with a minimum CGPA of 2.50, and credits in Mathematics and a pass in English at SPM level."
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Accounting and Finance (Hons)",
   "program_name_zh": "Accounting and Finance (Hons)学士",
   "field_ar": "إدارة الأعمال",

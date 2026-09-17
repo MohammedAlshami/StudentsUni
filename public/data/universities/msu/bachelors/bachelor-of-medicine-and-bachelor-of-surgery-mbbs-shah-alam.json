@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 570475.0,
-    "per_year": 74000,
-    "notes": "Local: RM370,000.00; International: RM570,475.00 (per_year based on 5.0yr duration)"
+    "currency": "MYR",
+    "total": 570475,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM570,475. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003089/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "SPM: Five (5) Bs in Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and another subject. GCE O-Level: Five (5) Bs in Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and another subject. UEC: Minimum B4 in three (3) subjects: Biology, Chemistry, Physics or Mathematics, Additional Mathematics. STPM: Grades BBB, ABC, or AAC or CGPA 3.0 in three (3) subjects: Biology, Chemistry, Physics or Mathematics. A-Level: Grades BBB, ABC, or AAC in three (3) subjects: Biology, Chemistry, Physics or Mathematics. Matriculation/Foundation: CGPA 3.0 in Biology, Chemistry, Physics or Mathematics. Other qualifications: Recognised by MSU Senate. English Proficiency: MUET Band 3 (local), IELTS 5.5 / TOEFL 550 (international)."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medicine and Bachelor of Surgery (MBBS), Shah Alam",
   "program_name_zh": "Medicine and Bachelor of Surgery (MBBS), Shah Alam学士",
   "field_ar": "General",

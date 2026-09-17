@@ -8,13 +8,13 @@
   "mode": "Full-time",
   "intakes": {
     "main": "September",
-    "secondary": null
+    "secondary": "February"
   },
   "fees": {
     "currency": "MYR",
-    "total": 9176,
-    "per_year": 18352,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 520000,
+    "per_year": 104000,
+    "notes": "UPM official international tuition fee schedule (Apr 2026): RM52,000/semester, RM520,000 total (5 years); per year = RM104,000 (two semesters). Source: https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -28,10 +28,11 @@
   },
   "sources": [
     "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800",
-    "https://www.studymalaysia.com/edu/upm/courses/"
+    "https://www.studymalaysia.com/edu/upm/courses/",
+    "https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Medicine",
   "program_name_zh": "Medicine博士",
   "field_ar": "الطب",

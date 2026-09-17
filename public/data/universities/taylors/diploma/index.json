@@ -6,24 +6,31 @@
     "program_name": "Diploma in Hotel Management",
     "field": "Hospitality",
     "slug": "diploma-in-hotel-management",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Aug"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 55000,
-      "international_total": null,
+      "international_total": 79602,
       "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "per_year_international": 39801,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,948. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/undergraduate/taylors-fees-schedule-ug-tci-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 4.0 (or equivalent English qualification)",
+      "a_level": "1 Principal",
+      "other_qualifications": "High school completion"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/diploma-in-hotel-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -32,24 +39,31 @@
     "program_name": "Diploma in Culinary Arts",
     "field": "Culinary Arts",
     "slug": "diploma-in-culinary-arts",
-    "duration": null,
+    "duration": "2 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Aug"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 55000,
-      "international_total": null,
+      "international_total": 87425,
       "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "per_year_international": 43712,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 23,007. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/undergraduate/taylors-fees-schedule-ug-tci-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 4.0 (or equivalent English qualification)",
+      "a_level": "1 Principal",
+      "other_qualifications": "High school completion"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/diploma-in-culinary-arts.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -58,23 +72,30 @@
     "program_name": "Advanced Diploma in Patisserie and Gastronomic Cuisine",
     "field": "Culinary Arts",
     "slug": "advanced-diploma-in-patisserie-and-gastronomic-cuisine",
-    "duration": null,
+    "duration": "1 year",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Aug"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 55000,
-      "international_total": null,
+      "international_total": 55341,
       "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "per_year_international": 55341,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 14,563. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/undergraduate/taylors-fees-schedule-ug-tci-usd.pdf (accessed 2026-09-18). per_year = total / 1yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "1 Principal",
+      "other_qualifications": "High school completion"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/advanced-diploma-in-patisserie-and-gastronomic-cuisine.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   }
 ]

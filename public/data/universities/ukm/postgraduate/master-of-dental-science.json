@@ -4,7 +4,7 @@
   "level": "postgraduate",
   "program_name": "Master of Dental Science",
   "field": "Dentistry",
-  "duration": "1.5 years",
+  "duration": "4 Semesters",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 60000,
-    "per_year": 15000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 33570,
+    "per_year": 16785,
+    "notes": "International (UKMi) tuition per UKMShape fee schedule 2024/2025: RM33,570 total (incl. first-semester registration) for 4 semesters; per_year = total / 2 years (derived). Source: https://shape.ukm.my/storage/lampiran/struktur_yuran/FGG/pasca/strukturyuran_FGG_UKMi_pasca_F_int.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,10 +25,10 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.ukm.my/portal/postgraduate-programme/"
+    "https://shape.ukm.my/storage/lampiran/struktur_yuran/FGG/pasca/strukturyuran_FGG_UKMi_pasca_F_int.pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Dental Science",
   "program_name_zh": "Dental Science硕士",
   "field_ar": "طب الأسنان",

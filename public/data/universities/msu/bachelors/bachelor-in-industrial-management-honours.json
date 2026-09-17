@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 20235,
-    "per_year": 4266,
-    "notes": "Local: RM38,400.00; International: RM78,995.00 (per_year based on 3.0yr duration)"
+    "total": 78995,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM78,995. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0004678/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "TWO (2) Full Passes or 2.00 CGPA at STPM level including in Pengajian Am (General Studies); OR TWO (2) A-levels; OR MSU Diploma in a relevant field and with minimum 2.00 CGPA; OR Equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Industrial Management (Honours)",
   "program_name_zh": "Industrial Management (Honours)学士",
   "field_ar": "إدارة الأعمال",

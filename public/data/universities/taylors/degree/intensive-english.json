@@ -6,18 +6,17 @@
   "slug": "intensive-english",
   "program_slug": "intensive-english",
   "field": "Languages",
-  "duration": "3 years",
+  "duration": "3 months per level",
   "mode": "Full Time",
   "intakes": [
-    "Apr",
-    "Feb",
+    "May",
     "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 105000,
-    "per_year": 35000,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 25531,
+    "per_year": null,
+    "notes": "Taylor's official 2026 international fee schedule (May 2026 intake); total inclusive of 6% SST, published USD equivalent USD 6,719. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-general-studies-and-languages/taylors-fees-schedule-ug-intensive-english-usd.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -27,10 +26,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://university.taylors.edu.my/en/study/explore-all-programmes/general-studies-and-languages/undergraduate/intensive-english.html"
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/general-studies-and-languages/undergraduate/intensive-english.html",
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-general-studies-and-languages/taylors-fees-schedule-ug-intensive-english-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.5,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Intensive English",
   "program_name_zh": "Intensive English",
   "field_ar": "Languages",

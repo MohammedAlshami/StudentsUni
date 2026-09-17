@@ -6,24 +6,33 @@
     "program_name": "Bachelor of Science (Honours) in Architecture",
     "field": "Architecture",
     "slug": "bachelor-of-science-in-architecture",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 166611,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 55537,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 43,845. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-architecture-building-and-design/undergraduate/taylors-fees-schedule-ug-architecture-building-and-design-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/undergraduate/bachelor-of-science-in-architecture.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -32,24 +41,33 @@
     "program_name": "Bachelor of Arts (Honours) in Interior Architecture",
     "field": "Architecture",
     "slug": "bachelor-of-art-in-interior-architecture",
-    "duration": null,
+    "duration": "3.5 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 161002,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 46001,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 42,369. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-architecture-building-and-design/undergraduate/taylors-fees-schedule-ug-architecture-building-and-design-usd.pdf (accessed 2026-09-18). per_year = total / 3.5yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/undergraduate/bachelor-of-art-in-interior-architecture.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -58,24 +76,33 @@
     "program_name": "Bachelor of Quantity Surveying (Honours)",
     "field": "Architecture",
     "slug": "bachelor-of-quantity-surveying",
-    "duration": null,
+    "duration": "3.5 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 133984,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 38281,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 35,259. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-architecture-building-and-design/undergraduate/taylors-fees-schedule-ug-architecture-building-and-design-usd.pdf (accessed 2026-09-18). per_year = total / 3.5yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/undergraduate/bachelor-of-quantity-surveying.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -84,24 +111,33 @@
     "program_name": "Bachelor of Science (Honours) in Sustainable Digital Construction Management",
     "field": "Architecture",
     "slug": "bachelor-of-science-honours-in-sustainable-digital-construction-management",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 133756,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 44585,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 35,199. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-architecture-building-and-design/undergraduate/taylors-fees-schedule-ug-architecture-building-and-design-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/undergraduate/bachelor-of-science-honours-in-sustainable-digital-construction-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -110,24 +146,33 @@
     "program_name": "Bachelor of Biomedical Science (Honours)",
     "field": "Biosciences",
     "slug": "bachelor-of-biomedical-science",
-    "duration": null,
+    "duration": "3.5 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 240000,
-      "international_total": null,
+      "international_total": 171669,
       "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+      "per_year_international": 49048,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 45,176. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-biosciences/undergraduate/taylors-fees-schedule-ug-biosciences-usd.pdf (accessed 2026-09-18). per_year = total / 3.5yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-biomedical-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -136,24 +181,33 @@
     "program_name": "Bachelor of Food Science (Honours)",
     "field": "Biosciences",
     "slug": "bachelor-of-food-science",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 152187,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50729,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 40,049. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-biosciences/undergraduate/taylors-fees-schedule-ug-biosciences-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-food-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -162,24 +216,33 @@
     "program_name": "Bachelor of Biotechnology (Honours)",
     "field": "Biosciences",
     "slug": "bachelor-of-biotechnology",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 152187,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50729,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 40,049. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-biosciences/undergraduate/taylors-fees-schedule-ug-biosciences-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-biotechnology.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -188,24 +251,33 @@
     "program_name": "Bachelor of Applied Health Sciences (Honours)",
     "field": "Biosciences",
     "slug": "bachelor-of-applied-health-sciences",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Feb",
+      "Apr",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 164093,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 54698,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 43,182. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-biosciences/undergraduate/taylors-fees-schedule-ug-biosciences-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/biosciences/undergraduate/bachelor-of-applied-health-sciences.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -217,28 +289,30 @@
     "duration": "3 years",
     "mode": "Full Time",
     "intakes": [
-      "February",
-      "April",
-      "September"
+      "Apr",
+      "Sep",
+      "Feb"
     ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 160773,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
+      "per_year_international": 53591,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 42,309. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
     "requirements": {
-      "spm": "5 credits including Mathematics and English",
-      "pre_u": "Varies by pathway (min CGPA 2.0 for Foundation, min DD for A Level, min ATAR 60 for AUSMAT)"
+      "english_requirement": "MUET Band 3 / CEFR Low B2 Pre (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
     },
     "accreditation": "KPT/JPS (R2/345/6/0561) (A 9964) 07/26",
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-business.html"
     ],
-    "confidence": 0.9,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -247,24 +321,33 @@
     "program_name": "Bachelor of Business (Honours) in International Business and Marketing",
     "field": "Business",
     "slug": "bachelor-of-business-in-international-business-and-marketing",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 160773,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 53591,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 42,309. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "MUET Band 3 / CEFR Low B2 Pre (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-business-in-international-business-and-marketing.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -273,24 +356,33 @@
     "program_name": "Bachelor of Accounting (Finance) (Honours)",
     "field": "Business",
     "slug": "bachelor-of-accounting-and-finance",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 149439,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 49813,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,326. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "26 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-accounting-and-finance.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -299,24 +391,33 @@
     "program_name": "Bachelor of Banking and Finance (Honours)",
     "field": "Business",
     "slug": "bachelor-of-banking-and-finance",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 149439,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 49813,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,326. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "26 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-banking-and-finance.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -325,24 +426,33 @@
     "program_name": "Bachelor of Finance and Economics (Honours)",
     "field": "Business",
     "slug": "bachelor-of-finance-and-economics",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 149439,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 49813,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,326. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "26 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-finance-and-economics.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -351,24 +461,33 @@
     "program_name": "Bachelor of Actuarial Studies (Honours)",
     "field": "Business",
     "slug": "bachelor-of-actuarial-studies",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 144517,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 48172,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 38,031. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "MUET Band 3 / CEFR Low B2 Pre (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-actuarial-studies.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -377,24 +496,33 @@
     "program_name": "Bachelor of Entrepreneurship (Honours) in Team Entrepreneurship",
     "field": "Business",
     "slug": "bachelor-of-entrepreneurship-in-team-enterpreneurship",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 140510,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 46837,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 36,976. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 or TOEFL 80",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-entrepreneurship-in-team-enterpreneurship.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -403,24 +531,33 @@
     "program_name": "Bachelor of Accounting with Fintech (Honours)",
     "field": "Business",
     "slug": "bachelor-of-accounting-fintech",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 149566,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 49855,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,360. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "26 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/business/undergraduate/bachelor-of-accounting-fintech.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -429,24 +566,33 @@
     "program_name": "Bachelor of Patisserie Arts (Honours)",
     "field": "Culinary Arts",
     "slug": "bachelor-of-patisserie-arts",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 142799,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 47600,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 37,579. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/undergraduate/taylors-fees-schedule-ug-tci-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/bachelor-of-patisserie-arts.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -455,24 +601,33 @@
     "program_name": "Bachelor of Science (Honours) in Culinology",
     "field": "Culinary Arts",
     "slug": "bachelor-of-science-in-culinology",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 156995,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 52332,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 41,314. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/undergraduate/taylors-fees-schedule-ug-tci-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/bachelor-of-science-culinology.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -481,24 +636,33 @@
     "program_name": "Bachelor of Culinary Management (Honours)",
     "field": "Culinary Arts",
     "slug": "bachelor-of-culinary-management",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 149554,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 49851,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,356. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/undergraduate/taylors-fees-schedule-ug-tci-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/taylors-culinary-institute/undergraduate/bachelor-of-culinary-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -507,24 +671,33 @@
     "program_name": "Bachelor of Mass Communication (Honours) in Advertising and Brand Management",
     "field": "Media and Communication",
     "slug": "bachelor-of-mass-communication-in-advertising-and-brand-management",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 151042,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50347,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,748. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-media-and-communication/undergraduate/taylors-fees-schedule-ug-media-and-communication-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication-in-advertising-and-brand-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -533,24 +706,33 @@
     "program_name": "Bachelor of Mass Communication (Honours) (Digital Media Production)",
     "field": "Media and Communication",
     "slug": "bachelor-of-mass-communication-digital-media-production",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 151042,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50347,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,748. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-media-and-communication/undergraduate/taylors-fees-schedule-ug-media-and-communication-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication-digital-media-production.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -559,24 +741,33 @@
     "program_name": "Bachelor of Mass Communication (Honours)",
     "field": "Media and Communication",
     "slug": "bachelor-of-mass-communication",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 151042,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50347,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,748. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-media-and-communication/undergraduate/taylors-fees-schedule-ug-media-and-communication-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -585,24 +776,33 @@
     "program_name": "Bachelor of Mass Communication (Honours) in Public Relations and Event Management",
     "field": "Media and Communication",
     "slug": "bachelor-of-mass-communication-in-public-relations-and-event-management",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 151042,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50347,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,748. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-media-and-communication/undergraduate/taylors-fees-schedule-ug-media-and-communication-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication-in-public-relation-and-event-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -611,24 +811,33 @@
     "program_name": "Bachelor of Mass Communication (Honours) in Public Relations and Marketing",
     "field": "Media and Communication",
     "slug": "bachelor-of-mass-communication-in-public-relations-and-marketing",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 151042,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50347,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,748. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-media-and-communication/undergraduate/taylors-fees-schedule-ug-media-and-communication-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/undergraduate/bachelor-of-mass-communication-in-public-relations-and-marketing.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -640,28 +849,30 @@
     "duration": "3 years",
     "mode": "Full Time",
     "intakes": [
-      "February",
-      "April",
-      "September"
+      "Apr",
+      "Sep",
+      "Feb"
     ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 152187,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
+      "per_year_international": 50729,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 40,049. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-computer-science/undergraduate/taylors-fees-schedule-ug-computer-science-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
     "requirements": {
-      "spm": "5 credits including Additional Mathematics",
-      "pre_u": "Varies by pathway (min CGPA 2.0 for Foundation, min DD for A Level, min ATAR 55 for AUSMAT)"
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "A Level: pass with minimum DD (or equivalent)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
     },
     "accreditation": "KPT/JPS (R2/0613/6/0149) (MQA/FA2541) 03/28",
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/undergraduate/bachelor-of-computer-science.html"
     ],
-    "confidence": 0.9,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -670,24 +881,33 @@
     "program_name": "Bachelor of Software Engineering (Honours)",
     "field": "Computer Science",
     "slug": "bachelor-of-software-engineering",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 152187,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50729,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 40,049. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-computer-science/undergraduate/taylors-fees-schedule-ug-computer-science-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "A Level: pass with minimum DD (or equivalent)",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/undergraduate/bachelor-of-software-engineering.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -696,24 +916,33 @@
     "program_name": "Bachelor of Information Technology (Honours)",
     "field": "Computer Science",
     "slug": "bachelor-of-information-technology",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 152187,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50729,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 40,049. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-computer-science/undergraduate/taylors-fees-schedule-ug-computer-science-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/undergraduate/bachelor-of-information-technology.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -722,24 +951,33 @@
     "program_name": "Bachelor in Interactive Spatial Design (Honours)",
     "field": "Design",
     "slug": "bachelor-in-interactive-spatial-design",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 145890,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 48630,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 38,392. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/the-design-school-at-taylors/undergraduate/taylors-fees-schedule-ug-design-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 or TOEFL 80",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/design/undergraduate/bachelor-in-interactive-spatial-design.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -748,24 +986,33 @@
     "program_name": "Bachelor of Fashion Design Technology (Honours)",
     "field": "Design",
     "slug": "bachelor-of-fashion-design-technology",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 145422,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 48474,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 38,269. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/the-design-school-at-taylors/undergraduate/taylors-fees-schedule-ug-design-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/design/undergraduate/bachelor-of-fashion-design-technology.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -774,24 +1021,33 @@
     "program_name": "Bachelor of Design (Honours) In Creative Media",
     "field": "Design",
     "slug": "bachelor-of-design-in-creative-media",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 152187,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50729,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 40,049. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/the-design-school-at-taylors/undergraduate/taylors-fees-schedule-ug-design-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 or TOEFL 80",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/design/undergraduate/bachelor-of-design-in-creative-media.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -800,24 +1056,33 @@
     "program_name": "Bachelor of Education (Honours)",
     "field": "Education",
     "slug": "bachelor-of-education",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 134328,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 44776,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 35,349. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-education/undergraduate/taylors-fees-schedule-ug-education-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/education/undergraduate/bachelor-of-education.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -826,24 +1091,33 @@
     "program_name": "Bachelor of Chemical Engineering (Honours)",
     "field": "Engineering",
     "slug": "bachelor-of-chemical-engineering",
-    "duration": null,
+    "duration": "4 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 204934,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 51234,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 53,930. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-engineering/undergraduate/taylors-fees-schedule-ug-engineering-usd.pdf (accessed 2026-09-18). per_year = total / 4yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/undergraduate/bachelor-of-chemical-engineering.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -852,24 +1126,33 @@
     "program_name": "Bachelor of Electrical and Electronic Engineering With Honours",
     "field": "Engineering",
     "slug": "bachelor-of-electrical-and-electronic-engineering",
-    "duration": null,
+    "duration": "4 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 204934,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 51234,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 53,930. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-engineering/undergraduate/taylors-fees-schedule-ug-engineering-usd.pdf (accessed 2026-09-18). per_year = total / 4yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/undergraduate/bachelor-of-electrical-and-electronic-engineering.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -878,24 +1161,33 @@
     "program_name": "Bachelor of Mechanical Engineering With Honours",
     "field": "Engineering",
     "slug": "bachelor-of-mechanical-engineering",
-    "duration": null,
+    "duration": "4 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 204934,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 51234,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 53,930. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-engineering/undergraduate/taylors-fees-schedule-ug-engineering-usd.pdf (accessed 2026-09-18). per_year = total / 4yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/undergraduate/bachelor-of-mechanical-engineering.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -904,24 +1196,33 @@
     "program_name": "Bachelor of Mechatronics Engineering with Honours",
     "field": "Engineering",
     "slug": "bachelor-of-mechatronics-engineering",
-    "duration": null,
+    "duration": "4 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Feb",
+      "Apr",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 204934,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 51234,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 53,930. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-engineering/undergraduate/taylors-fees-schedule-ug-engineering-usd.pdf (accessed 2026-09-18). per_year = total / 4yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/engineering/undergraduate/bachelor-of-mechatronics-engineering.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -930,24 +1231,33 @@
     "program_name": "Bachelor of International Hospitality Management (Honours)",
     "field": "Hospitality and Tourism",
     "slug": "bachelor-of-international-hospitality-management",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 149554,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 49851,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,356. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-hospitality-tourism-and-events/undergraduate/taylors-fees-schedule-ug-hospitality-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/undergraduate/bachelor-of-international-hospitality-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -956,24 +1266,33 @@
     "program_name": "Bachelor of International Events Management (Honours)",
     "field": "Hospitality and Tourism",
     "slug": "bachelor-of-international-events-management",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 149554,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 49851,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,356. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-hospitality-tourism-and-events/undergraduate/taylors-fees-schedule-ug-hospitality-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/undergraduate/bachelor-of-international-events-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -982,24 +1301,33 @@
     "program_name": "Bachelor of International Tourism Management (Honours)",
     "field": "Hospitality and Tourism",
     "slug": "bachelor-of-international-tourism-management",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 149554,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 49851,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,356. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-hospitality-tourism-and-events/undergraduate/taylors-fees-schedule-ug-hospitality-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/undergraduate/bachelor-of-international-tourism-management.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -1008,24 +1336,33 @@
     "program_name": "Bachelor of Laws (Honours)",
     "field": "Law",
     "slug": "bachelor-of-laws",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep",
+      "Feb"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 163062,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 54354,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 42,911. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-law-and-governance/undergraduate/taylors-fees-schedule-ug-law-and-governance-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/undergraduate/bachelor-of-laws.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -1034,24 +1371,33 @@
     "program_name": "Bachelor in Philosophy, Politics, and Economics (Honours)",
     "field": "Law",
     "slug": "bachelor-in-philosophy-politics-and-economics",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 150012,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 50004,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,477. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-law-and-governance/undergraduate/taylors-fees-schedule-ug-law-and-governance-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/undergraduate/bachelor-in-philosophy-politics-and-economics.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -1060,24 +1406,33 @@
     "program_name": "American Degree Transfer Program",
     "field": "Liberal Arts",
     "slug": "american-degree-transfer-program",
-    "duration": null,
+    "duration": "4 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Feb",
+      "Jun",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
       "international_total": null,
       "per_year_local": 35000,
       "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake) lists four ADP tracks with different totals (with 6% SST and including refundable International Security Deposit RM3,000): Liberal Arts RM81,507 (USD 21,449), Business RM92,759 (USD 24,410), Engineering RM92,817 (USD 24,426), Computer Science RM92,876 (USD 24,441). Single total left null because the fee depends on the chosen track. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/undergraduate/american-degree-transfer-program/taylors-fees-schedule-ug-adp-usd.pdf (accessed 2026-09-18)."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 or TOEFL 80",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/american-degree-transfer-program.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -1086,24 +1441,33 @@
     "program_name": "Bachelor of Performing Arts (Honours)",
     "field": "Liberal Arts",
     "slug": "bachelor-of-performing-arts",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 134213,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 44738,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 35,319. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/undergraduate/liberal-arts/taylors-fees-schedule-ug-liberal-arts-and-sciences-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/bachelor-of-performing-arts.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -1112,24 +1476,33 @@
     "program_name": "Bachelor of Psychology (Honours)",
     "field": "Liberal Arts",
     "slug": "bachelor-of-psychology",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 140166,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 46722,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 36,886. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/undergraduate/liberal-arts/taylors-fees-schedule-ug-liberal-arts-and-sciences-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/bachelor-of-psychology.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -1138,24 +1511,33 @@
     "program_name": "Bachelor of Social Science (Honours) in International Relations",
     "field": "Liberal Arts",
     "slug": "bachelor-of-social-science-in-international-relations",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Feb",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 137304,
       "per_year_local": 35000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "per_year_international": 45768,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 36,133. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/undergraduate/liberal-arts/taylors-fees-schedule-ug-liberal-arts-and-sciences-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/bachelor-of-social-science-in-international-relations.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -1164,24 +1546,32 @@
     "program_name": "Intensive English",
     "field": "Languages",
     "slug": "intensive-english",
-    "duration": null,
+    "duration": "3 months per level",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "May",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 105000,
-      "international_total": null,
+      "international_total": 25531,
       "per_year_local": 35000,
       "per_year_international": null,
-      "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "Taylor's official 2026 international fee schedule (May 2026 intake); total inclusive of 6% SST, published USD equivalent USD 6,719. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-general-studies-and-languages/taylors-fees-schedule-ug-intensive-english-usd.pdf (accessed 2026-09-18)."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 or TOEFL 80",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/general-studies-and-languages/undergraduate/intensive-english.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -1190,24 +1580,32 @@
     "program_name": "Bachelor of Pharmacy (Honours)",
     "field": "Pharmacy",
     "slug": "bachelor-of-pharmacy",
-    "duration": null,
+    "duration": "4 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 240000,
-      "international_total": null,
+      "international_total": 234682,
       "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+      "per_year_international": 58670,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 61,758. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-pharmacy/undergraduate/taylors-fees-schedule-ug-pharmacy-usd.pdf (accessed 2026-09-18). per_year = total / 4yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/undergraduate/bachelor-of-pharmacy.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -1216,24 +1614,32 @@
     "program_name": "Bachelor of Pharmaceutical Science (Honours)",
     "field": "Pharmacy",
     "slug": "bachelor-of-pharmaceutical-science",
-    "duration": null,
+    "duration": "3 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 240000,
-      "international_total": null,
+      "international_total": 146348,
       "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+      "per_year_international": 48783,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 38,513. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-pharmacy/undergraduate/taylors-fees-schedule-ug-pharmacy-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/pharmacy/undergraduate/bachelor-of-pharmaceutical-science.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Taylor's University",
@@ -1242,23 +1648,31 @@
     "program_name": "Bachelor of Medicine, Bachelor of Surgery (MBBS)",
     "field": "Medicine",
     "slug": "bachelor-of-medicine-bachelor-of-surgery",
-    "duration": null,
+    "duration": "5 years",
     "mode": "Full Time",
-    "intakes": null,
+    "intakes": [
+      "Apr",
+      "Sep"
+    ],
     "fees": {
       "currency": "MYR",
       "local_total": 240000,
-      "international_total": null,
+      "international_total": 512760,
       "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+      "per_year_international": 102552,
+      "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 134,937. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-medicine/undergraduate/taylors-fees-schedule-ug-medicine-usd.pdf (accessed 2026-09-18). per_year = total / 5yr nominal duration."
     },
-    "requirements": null,
+    "requirements": {
+      "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
+      "a_level": "2 Principals (C+) including relevant subjects",
+      "ib": "24 points",
+      "other_qualifications": "Equivalent pre-university qualification"
+    },
     "accreditation": null,
     "sources": [
       "https://university.taylors.edu.my/en/study/explore-all-programmes/medicine/undergraduate/bachelor-of-medicine-bachelor-of-surgery.html"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   }
 ]

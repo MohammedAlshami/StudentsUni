@@ -13,12 +13,12 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 2350,
-    "per_year": 4700,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 19000,
+    "per_year": 19000,
+    "notes": "UNIMAS official International Foundation in Science / Foundation in Computing fee (non-Malaysian): RM11,375 (Semester 1) + RM7,625 (Semester 2) = RM19,000 total, including refundable personal bond RM2,500. Source: https://www.pppu.unimas.my/courses-list/program-komersial/international-foundation (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "english_requirement": "IELTS 5.5 or equivalent (MUET Band 4, TOEFL iBT 46, PTE 51, Cambridge 160)",
     "other_qualifications": "High school completion"
   },
   "accreditation": {
@@ -26,10 +26,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/edu/unimas/courses/"
+    "https://www.studymalaysia.com/edu/unimas/courses/",
+    "https://www.pppu.unimas.my/courses-list/program-komersial/international-foundation"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Computing",
   "program_name_zh": "Computing预科",
   "field_ar": "تقنية المعلومات",

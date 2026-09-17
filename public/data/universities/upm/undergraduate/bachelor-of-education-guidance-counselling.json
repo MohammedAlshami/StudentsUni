@@ -5,17 +5,17 @@
   "program_name": "Bachelor of Education in Guidance and Counselling with Honours",
   "program_slug": "bachelor-of-education-guidance-counselling",
   "field": "Education",
-  "duration": "3 years",
+  "duration": "4 years",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
-    "secondary": null
+    "secondary": "February"
   },
   "fees": {
     "currency": "MYR",
-    "total": 21600,
-    "per_year": 5400,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 72000,
+    "per_year": 18000,
+    "notes": "UPM official international tuition fee schedule (Apr 2026): RM9,000/semester, RM72,000 total (4 years); per year = RM18,000 (two semesters). Source: https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -28,10 +28,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800"
+    "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800",
+    "https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education in Guidance and Counselling with Honours",
   "program_name_zh": "Education in Guidance and Counselling with Honours学士",
   "field_ar": "التربية والتعليم",

@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21062,
-    "per_year": 4737,
-    "notes": "Local: RM55,300.00; International: RM93,420.00 (per_year based on 3.4166666666666665yr duration)"
+    "total": 93420,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM93,420. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0053642/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "TWO (2) Full Passes at STPM/A level; OR An MSU Diploma in a related field; OR An MSU Foundation Certificate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Beauty and Hair Management (Hons)",
   "program_name_zh": "Beauty and Hair Management (Hons)学士",
   "field_ar": "إدارة الأعمال",

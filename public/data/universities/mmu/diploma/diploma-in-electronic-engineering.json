@@ -4,7 +4,7 @@
   "level": "diploma",
   "program_name": "Diploma in Electronic Engineering",
   "field": "Engineering",
-  "duration": "2 Years",
+  "duration": "2 years 9 months",
   "mode": "Full-time",
   "intakes": [
     "Aug",
@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30850,
-    "per_year": 11218,
-    "notes": "Total programme fee; 2 years 9 months"
+    "total": 34000,
+    "per_year": 12400,
+    "notes": "MMU official 2026 international fee schedule (June 2026); fees are before 6% SST. Source: https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -41,10 +41,15 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Electronic Engineering",
   "program_name_zh": "Electronic Engineering文凭",
   "field_ar": "الهندسة",

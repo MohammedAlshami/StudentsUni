@@ -16,9 +16,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 37123,
-    "per_year": 11968,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 63177,
+    "per_year": 42118,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 16,625. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-education/postgraduate/taylors-fees-schedule-pg-master-of-teaching-and-learning-usd.pdf (accessed 2026-09-18). per_year = total / 1.5yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -42,10 +42,15 @@
       "url": "https://www.easyuni.my/malaysia/taylors-university-252/master-of-teaching-learning-293113/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-education/postgraduate/taylors-fees-schedule-pg-master-of-teaching-and-learning-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Teaching and Learning",
   "program_name_zh": "Teaching and Learning硕士",
   "field_ar": "التربية والتعليم",

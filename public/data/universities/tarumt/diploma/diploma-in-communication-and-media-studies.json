@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 7280,
-    "per_year": 3640,
-    "notes": ""
+    "total": null,
+    "per_year": null,
+    "notes": "TAR UMT 2026 International Student Fees Guide lists Faculty of Communication and Creative Industries Diploma estimated total international fees RM45,300–46,400 (inclusive of 6% SST); exact programme fee is not published on the programme page. Source: https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf (updated April 2026; accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -50,10 +50,12 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/diploma-in-communication-and-media-studies-292886/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://fcci.tarc.edu.my/programmes/diploma/diploma-in-communication-and-media-studies",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Communication and Media Studies",
   "program_name_zh": "Communication and Media Studies文凭",
   "field_ar": "الاتصالات",

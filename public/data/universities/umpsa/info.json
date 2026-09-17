@@ -20,15 +20,17 @@
   },
   "sources": [
     "https://www.umpsa.edu.my",
-    "https://www.studymalaysia.com/edu/ump/courses/"
+    "https://www.studymalaysia.com/edu/ump/courses/",
+    "https://bendahari.umpsa.edu.my/index.php/en/component/sppagebuilder/?view=page&id=249",
+    "https://ips.umpsa.edu.my/index.php/en/ips-offer/fees"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 4200,
-    "international_total": null,
+    "international_total": 22360,
     "per_year_local": 1400,
-    "per_year_international": null,
-    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    "per_year_international": 3727,
+    "notes": "Verified international student fees: published programme totals RM22,360-RM174,000; published per-year figures RM3,727-RM43,500 (MYR, before any separate service tax where noted). Some programmes have no published international fee (null). See individual programme files. Sources: https://bendahari.umpsa.edu.my/index.php/en/component/sppagebuilder/?view=page&id=249; https://ips.umpsa.edu.my/index.php/en/ips-offer/fees (accessed 2026-09-18)."
   }
 }

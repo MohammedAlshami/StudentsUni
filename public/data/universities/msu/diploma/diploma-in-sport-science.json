@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17094,
-    "per_year": 4965,
-    "notes": "Local: RM29,000.00; International: RM58,325.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 58325,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM58,325. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0056491/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "Passed SPM and obtained THREE (3) Credits including BM, Mathematics, and Science; Obtained Sijil Kemahiran MARA (SKM) plus ONE (1) Credit at SPM; Sijil Politeknik and at least 2.0 CGPA; Sijil Institut Kemahiran Mara (IKM) and at least 2.0 CGPA; Sijil Sains Kesihatan PTPL and at least 2.0 CGPA. International Students: International students with equivalent qualifications approved by MSU Senate must also pass IELTS and score at least 5.5; OR TOEFL and score at least 550; OR O-Level English Language (equivalent to SPM 1119 English)."
+    "general": "Passed SPM/equivalent, with Credit in Malay, English, Mathematics, one Science subject (Biology / Physics / Chemistry / General Science / Applied Science), and one (1) other subject; OR GCE O-Level or equivalent, with Grade C in English, Mathematics, one (1) Science subject (Biology / Physics / Chemistry / General Science / Applied Science), and two (2) other subjects; OR Passed Certificate (MQF Level 3) related to Health Sciences, with 2.75 CGPA; OR Polytechnic Certificate (MQF Level 3) in related fields, with 2.00 CGPA; OR Passed Sijil Kemahiran Malaysia (SKM) Level 3 in related fields, and passed SPM with one (1) Credit; OR Passed MARA Skills Institute Certificate (MQF Level 3) in related fields, with 2.00 CGPA; OR Passed Unified Examination Certificate (UEC) with Grade B in three (3) subjects; OR Other qualifications recognized as equivalent by the Government of Malaysia."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +56,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Sport Science",
   "program_name_zh": "Sport Science文凭",
   "field_ar": "General",

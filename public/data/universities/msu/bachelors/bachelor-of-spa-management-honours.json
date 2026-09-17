@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 86810.0,
-    "per_year": 15000,
-    "notes": "Local: RM45,000.00; International: RM86,810.00 (per_year based on 3.0yr duration)"
+    "currency": "MYR",
+    "total": 86810,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM86,810. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0054119/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Credit in Bahasa Malaysia II at SPM level; THREE (3) C’s at STPM level including Pengajian Am (General Studies) or TWO (2) C’s including Pengajian Am (General Studies) plus TWO (2) D’s; OR THREE (3) A-levels; OR an MSU Foundation Certificate; OR MSU/PTPL Diploma; OR an equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Spa Management (Honours)",
   "program_name_zh": "Spa Management (Honours)学士",
   "field_ar": "إدارة الأعمال",

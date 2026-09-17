@@ -4,7 +4,7 @@
   "level": "bachelor",
   "program_name": "Bachelor of Management (Hons.) Marketing Management (ODL)",
   "field": "Management",
-  "duration": "5 Years",
+  "duration": "5 years",
   "mode": "Full-time",
   "intakes": [
     "Aug",
@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 37750,
-    "per_year": 7550,
-    "notes": "Total programme fee; ODL mode; 5-year programme"
+    "total": 42000,
+    "per_year": 8400,
+    "notes": "MMU official 2026 international fee schedule (June 2026): ODL mode; fees are before 6% SST. Source: https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -47,10 +47,15 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Management (Hons.) Marketing Management (ODL)",
   "program_name_zh": "Management (Hons.) Marketing Management (ODL)学士",
   "field_ar": "إدارة",

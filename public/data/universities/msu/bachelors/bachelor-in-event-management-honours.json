@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
+    "currency": "MYR",
     "total": 84230,
-    "per_year": 13500,
-    "notes": "Local: RM40,500.00; International: RM84,230.00 (per_year based on 3.0yr duration)"
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM84,230. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003082/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Credit in Bahasa Melayu and Pass in General Science or Additional Science or Biology/Chemistry/Physics at SPM level; AND Two (2) Cs or CGPA 2.00 at STPM level including Pengajian Am / General Studies; OR Three (3) A-levels; OR MSU Foundation Certificate; OR MSU Diploma in relevant field with minimum CGPA 2.00; OR Equivalent qualification recognized by MSU Senate"
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Event Management (Honours)",
   "program_name_zh": "Event Management (Honours)学士",
   "field_ar": "إدارة الأعمال",

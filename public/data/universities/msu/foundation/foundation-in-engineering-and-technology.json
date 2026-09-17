@@ -14,14 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 18650,
-    "per_year": 15800,
-    "notes": "Local: RM15,800.00; International: RM29,705.00 (per_year based on 1.0yr duration)"
+    "total": 29705,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM29,705. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0006179/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
     "other_qualifications": "High school completion",
-    "general": "FIVE (5) Credits at SPM level including in Bahasa Malaysia, Mathematics, and one Science subject."
+    "general": "Pass SPM/SPMV with at least credit in 5 subjects; or Pass UEC with at least a B grade in 3 subjects; or Pass O-Level with at least a C grade in 5 subjects; or Any other equivalent qualifications."
   },
   "accreditation": {
     "mqa_status": null,
@@ -55,7 +55,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Engineering and Technology",
   "program_name_zh": "Engineering and Technology预科",
   "field_ar": "الهندسة",

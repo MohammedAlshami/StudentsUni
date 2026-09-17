@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 95390.0,
-    "per_year": 19000,
-    "notes": "Local: RM57,000.00; International: RM95,390.00 (per_year based on 3.0yr duration)"
+    "currency": "MYR",
+    "total": 95390,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM95,390. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0059097/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "ENTRANCE QUALIFICATION BASED ON PROGRAM STANDARD (MUAMALAT AND ISLAMIC FINANCE): A recognised Certificate in Matriculation or Foundation with a minimum CGPA of 2.0 and a pass in Mathematics at SPM level or its equivalent; OR A pass in STPM with TWO full passes with a minimum CGPA of 2.0 or its equivalent and a pass in Mathematics at SPM level or its equivalent; OR A pass in STAM with a minimum grade of Jayyid and a pass in Mathematics at SPM level or its equivalent; OR A Diploma (Level 4, MQF) in MIF or related fields with a minimum CGPA of 2.5 or equivalent; (Candidates with CGPA below 2.5 but above 2.0 may be admitted subject to an internal assessment process) OR Any other Diploma (Level 4, MQF) with a minimum CGPA of 2.5; OR Other relevant equivalent qualifications recognised by Malaysian Government. Note: The pass in Mathematics at SPM level for candidate (i), (ii) and (iii) can be waived should the qualification contains Mathematics with equivalent / higher achievement. Students is required to undergo Arabic language enhancement course at the beginning of the programme except to candidate with a pass in Arabic language at STPM/ STAM/ Matriculation/ Foundation/ Diploma or equivalent/ higher. Students must pass the Arabic enhancement course as a prerequisite to related core courses. However, this still allows students to take both core and non-core courses that do not require Arabic language enhancement course. Credit for Arabic language enhancement course is additional to the programme and can be considered for the graduating credit."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Takaful (Honours)",
   "program_name_zh": "Takaful (Honours)学士",
   "field_ar": "إدارة الأعمال",

@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 19299,
-    "per_year": 12866,
-    "notes": "From StudyMalaysia: 19300/course (per_year based on 1.5yr duration)"
+    "total": 34550,
+    "per_year": 23033,
+    "notes": "UMPSA IPS official international fee (Master - Coursework Mode): RM34,550 total for 3 semesters full-time. Source: https://ips.umpsa.edu.my/index.php/en/ips-offer/fees (accessed 2026-09-18). per_year = total / 1.5yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
   "sources": [
     "https://www.studymalaysia.com/edu/ump/courses/",
     "https://studymalaysia.com/what/course/UMP/0054004/",
-    "https://www.studymalaysia.com/edu/umpsa/courses/"
+    "https://www.studymalaysia.com/edu/umpsa/courses/",
+    "https://ips.umpsa.edu.my/index.php/en/ips-offer/fees"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "research_areas": "Business Administration",
   "program_name_ar": "ماجستير Business Administration",
   "program_name_zh": "Business Administration硕士",

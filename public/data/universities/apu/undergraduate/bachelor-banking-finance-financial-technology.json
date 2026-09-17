@@ -14,16 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 104600,
-    "per_year": 32200,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": 108500,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/bachelor-of-banking-finance-financial-technology (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification",
-    "general": "Direct Entry to Level 1 of the Degree STPM 2 Passes in STPM with a minimum Grade C+ (GP 2.33) and a Credit in Mathematics and a Pass in English at SPM Level or its equivalent. A-Level 2 Passes (Grade A-D) in A-Level in any 2 subjects, and a Credit in Mathematics and a Pass in English at SPM/O-Level/IGCSE or its equivalent. UEC 5 Grade B’s in any subjects in UEC including Mathematics with a Pass in English. Matriculation/Foundation Passed Foundation programme (minimum CGPA of 2.5) with a Credit in Mathematics and a Pass in English at SPM/O-Level/IGCSE or equivalent. Entry to Level 2 of the Accounting, Banking or Finance Degree Diploma in Accounting Passed Diploma with minimum CGPA of 2.5 and a Credit in Mathematics at SPM/O-Level/IGCSE level. Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the &#34;Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent)&#34; published by Malaysian Qualifications Agency (MQA). English Requirements International Students IELTS: 6.0 TOEFL IBT: 60 Pearson (PTE): 59 MUET: Band 4"
+    "english_requirement": "IELTS : 6.0 / TOEFL IBT : 4 / Pearson (PTE) : 59 / MUET : Band 4",
+    "a_level": "2 Passes (Grade A-D) in A-Level in any 2 subjects, and a Credit in Mathematics and a Pass in English at SPM/O-Level/ IGCSE or its equivalent.",
+    "ib": null,
+    "other_qualifications": null,
+    "general": "General Requirements Direct Entry to Level 1 of the Degree STPM 2 Passes in STPM with a minimum Grade C+ (GP 2.33) and a Credit in Mathematics and a Pass in English at SPM Level or its equivalent. A-Level 2 Passes (Grade A-D) in A-Level in any 2 subjects, and a Credit in Mathematics and a Pass in English at SPM/O-Level/ IGCSE or its equivalent. UEC 5 Grade B's in any subjects in UEC including Mathematics with a Pass in English. Matriculation/ Foundation Passed Foundation programme (minimum CGPA of 2.5) with a Credit in Mathematics and a Pass in English at SPM/O-Level/IGCSE or equivalent. Entry to Level 2 of the Accounting, Banking or Finance Degree: Diploma in Accounting Passed Diploma with minimum CGPA of 2.5 and a Credit in Mathematics at SPM/O-Level/IGCSE level. Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -36,7 +36,7 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Banking and Finance (Hons) with a specialism in Financial Technology",
   "program_name_zh": "Banking and Finance (Hons) with a specialism in Financial Technology学士",
   "field_ar": "التمويل",

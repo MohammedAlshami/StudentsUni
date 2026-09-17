@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16089,
-    "per_year": 4452,
-    "notes": "Local: RM26,000.00; International: RM55,275.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 55275,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM55,275. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057160/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "SPM/SPMV: At least THREE (3) Credits AND a Pass in Mathematics or Additional Mathematics UEC: At least THREE (3) B’s AND a Pass in Mathematics or Additional Mathematics O-level: At least THREE (3) C’s AND a Pass in Mathematics or Additional Mathematics Certificate in related discipline: 2.00 CGPA AND an SPM Pass in Mathematics or Additional Mathematics SKM (Level 3) in related discipline: ONE (1) SPM Credit AND a Pass in Mathematics or Additional Mathematics STPM or equivalent: C (2.00 CGPA) in any subject AND an SPM Pass in Mathematics or Additional Mathematics STAM: Maqbul AND an SPM Pass in Mathematics or Additional Mathematics Other qualifications recognized as equivalent by the Government of Malaysia"
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Information Management",
   "program_name_zh": "Information Management文凭",
   "field_ar": "إدارة الأعمال",

@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16983,
-    "per_year": 4794,
-    "notes": "Local: RM28,000.00; International: RM57,375.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 57375,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,375. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0055274/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "THREE (3) Credits at SPM level; OR PTPL Certificate with 2.00 CGPA in a related field; OR Equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Beauty Management",
   "program_name_zh": "Beauty Management文凭",
   "field_ar": "إدارة الأعمال",

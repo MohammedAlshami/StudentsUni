@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 26814,
-    "per_year": 5000,
-    "notes": "Local: RM86,800.00 (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: programme is not listed with an international fee on StudyMalaysia and MSU official pages publish Malaysian fees only. Source: https://www.msu.edu.my (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Applicants with STPM with a minimum of Grade C (GP 2.00) in any two (2) subjects, or its equivalent; Applicants with STAM with a minimum grade of Jayyid or its equivalent; Applicants with Matriculation/Foundation with a minimum CGPA of 2.00 or its equivalent; Applicants with a Diploma (Level 4, MQF) with a minimum CGPA of 2.00 or its equivalent; Adult learners with working experience with related APEL-A certification."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Culinary Management (Honours)",
   "program_name_zh": "Culinary Management (Honours)学士",
   "field_ar": "إدارة الأعمال",

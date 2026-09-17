@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 95390.0,
-    "per_year": 16285,
-    "notes": "Local: RM57,000.00; International: RM95,390.00 (per_year based on 3.5yr duration)"
+    "currency": "MYR",
+    "total": 95390,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM95,390. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0056486/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Certificate in Matriculation or Foundation with a minimum CGPA of 2.0 and a pass in Mathematics at SPM level or equivalent; OR STPM with TWO full passes with a minimum CGPA of 2.0 and a pass in Mathematics at SPM level or equivalent; OR STAM with a minimum grade of Jayyid and a pass in Mathematics at SPM level or equivalent; OR Diploma (MQF Level 4) in MIF or related fields with a minimum CGPA of 2.5 or equivalent (CGPAs below 2.5 but above 2.0 may be admitted subject to internal assessment); OR Any other Diploma (MQF Level 4) with a minimum CGPA of 2.5; OR Other relevant equivalent qualifications recognised by the Malaysian Government. Notes: Pass in Mathematics at SPM may be waived if the qualification contains Mathematics with equivalent or higher achievement. Arabic enhancement course required unless a pass in Arabic at STPM/STAM/Matriculation/Foundation/Diploma or equivalent is presented. Passing Arabic enhancement is prerequisite for core courses requiring it. Arabic enhancement course credits are additional and may be counted towards graduation."
   },
   "accreditation": {
     "mqa_status": null,
@@ -46,7 +47,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Islamic Banking (Honours)",
   "program_name_zh": "Islamic Banking (Honours)学士",
   "field_ar": "إدارة الأعمال",

@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16524,
-    "per_year": 3840,
-    "notes": "Local: RM24,000.00; International: RM57,685.00 (per_year based on 2.5yr duration)"
+    "total": 57685,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,685. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0058665/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "THREE (3) Credits at SPM/SPMV level including in Mathematics OR a PTPL Certificate in Computer Science or Electrical &amp; Electronic Engineering OR an equivalent qualification recognized by MSU Senate. "
+    "general": "At least THREE (3) Credits at SPM/SPMV level including in Mathematics; OR PTPL Certificate in Computer Science or Electrical & Electronic Engineering; OR Equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +56,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Computer Science",
   "program_name_zh": "Computer Science文凭",
   "field_ar": "تقنية المعلومات",

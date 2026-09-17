@@ -7,17 +7,17 @@
   "program_slug": "bcounselling",
   "field": "Counselling",
   "faculty": "Faculty of Business, Economics and Social Development",
-  "duration": "3 years",
+  "duration": "8 Semesters",
   "mode": "full-time",
   "intakes": {
     "main": "September",
     "secondary": null
   },
   "fees": {
-    "currency": "MYR",
-    "total": 20400,
-    "per_year": 5100,
-    "notes": "Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": 7360,
+    "per_year": 1840,
+    "notes": "Official UMT undergraduate international fee (USD920/semester; 8 semesters): total = USD920 x 8 semesters, per_year = USD920 x 2 semesters (derived). Excludes hostel and non-recurrent fees. Source: https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,11 +27,10 @@
   },
   "accreditation": "MQA/FA6762001",
   "sources": [
-    "https://umt.my/all-programs-at-umt/",
-    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
+    "https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Counselling with Honours",
   "program_name_zh": "Counselling with Honours学士",
   "field_ar": "Counselling",

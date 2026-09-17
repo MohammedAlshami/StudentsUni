@@ -4,21 +4,21 @@
   "level": "bachelor",
   "program_name": "Bachelor of (Hons) Mechanical Engineering",
   "field": "Mechanical Engineering",
-  "duration": "3 Years",
+  "duration": "4 Years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 115715,
-    "per_year": 115715,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 136593,
+    "per_year": null,
+    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-mechanical-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 140,186."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.0",
     "a_level": "2 Principals (C+) including relevant subjects",
     "ib": "24 points",
     "other_qualifications": "Equivalent pre-university qualification"
@@ -26,10 +26,11 @@
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0005366/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/"
+    "https://www.studymalaysia.com/edu/ucsi/courses/",
+    "https://www.ucsiuniversity.edu.my/programmes/bachelor-mechanical-engineering-honours"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس (Hons) Mechanical Engineering",
   "program_name_zh": "(Hons) Mechanical Engineering学士",
   "field_ar": "الهندسة الميكانيكية",

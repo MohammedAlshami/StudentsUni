@@ -10,25 +10,27 @@
   "mode": "Full-time",
   "intakes": {
     "main": "September",
-    "secondary": "February"
+    "secondary": "February/March"
   },
   "fees": {
     "currency": "MYR",
-    "total": 112500,
-    "per_year": 37500,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 39020,
+    "per_year": null,
+    "notes": "International total for the whole programme excluding SST and personal bond (UTHM official 2026/27 postgraduate fee schedule, programme code PWZ, research (6 semesters): https://bendahari.uthm.edu.my/index.php/perkhidmatan/yuran-pengajian, retrieved 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "english_requirement": "IELTS 5.0 or TOEFL 500 (PBT) or MUET Band 3",
     "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
   "research_areas": "Physics, Mathematics and Statistics, Biology and Chemistry",
   "sources": [
-    "https://www.studymalaysia.com/what/course/UTHM/0053952/"
+    "https://www.studymalaysia.com/what/course/UTHM/0053952/",
+    "https://bendahari.uthm.edu.my/index.php/perkhidmatan/yuran-pengajian",
+    "https://io.uthm.edu.my/admission/tuition-fees"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Ph.D in Science",
   "program_name_zh": "Ph.D in Science",
   "field_ar": "العلوم",

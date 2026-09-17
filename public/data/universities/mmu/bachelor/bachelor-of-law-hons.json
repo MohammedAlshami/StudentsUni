@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 75000,
-    "per_year": 18750,
-    "notes": "Total programme fee; 4-year programme; law not listed for international on website"
+    "total": null,
+    "per_year": null,
+    "notes": "No international fee published in MMU's official 2026 international fee schedule (June 2026); contact MMU for current fee. Source: https://www.mmu.edu.my/fee-structure-international/"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -45,7 +45,7 @@
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Law (Hons)",
   "program_name_zh": "Law (Hons)学士",
   "field_ar": "القانون",

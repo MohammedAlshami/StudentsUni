@@ -15,12 +15,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 28677,
-    "per_year": 28677,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 140166,
+    "per_year": 46722,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 36,886. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/undergraduate/liberal-arts/taylors-fees-schedule-ug-liberal-arts-and-sciences-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
     "a_level": "2 Principals (C+) including relevant subjects",
     "ib": "24 points",
     "other_qualifications": "Equivalent pre-university qualification"
@@ -28,10 +28,15 @@
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/undergraduate/bachelor-of-psychology.html",
-    "https://www.studymalaysia.com/edu/taylor/courses/"
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/undergraduate/liberal-arts/taylors-fees-schedule-ug-liberal-arts-and-sciences-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Psychology (Honours)",
   "program_name_zh": "Psychology (Honours)学士",
   "field_ar": "الفنون",

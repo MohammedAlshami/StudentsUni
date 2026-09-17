@@ -14,10 +14,10 @@
     "secondary": "February"
   },
   "fees": {
-    "currency": "MYR",
-    "total": 30000,
-    "per_year": 15000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": 2840.8,
+    "per_year": null,
+    "notes": "Official UMT postgraduate coursework international fee (Sem I 2025/2026): USD2,840.80 total for 1 semesters. Source: https://postgrad.umt.edu.my/wp-content/uploads/2025/08/YURAN-PENGAJIAN-PROGRAM-SARJANA-KERJA-KURSUS-SEM-I-2025.2026.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,11 +25,10 @@
   },
   "accreditation": null,
   "sources": [
-    "https://umt.my/all-programs-at-umt/",
-    "https://www.studymalaysia.com/edu/umt/courses/"
+    "https://postgrad.umt.edu.my/wp-content/uploads/2025/08/YURAN-PENGAJIAN-PROGRAM-SARJANA-KERJA-KURSUS-SEM-I-2025.2026.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Postgraduate Certificate in Maritime Studies",
   "program_name_zh": "Postgraduate Certificate in Maritime Studies",
   "field_ar": "تقنية المعلومات",

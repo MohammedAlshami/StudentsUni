@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 108500.0,
-    "per_year": 34067,
-    "notes": ""
+    "total": 108500,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/bsc-interactive-media-immersive-technology-vr-ar (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "english_requirement": "IELTS : 5.5 / TOEFL IBT : 3.5 / Pearson (PTE) : 51 / MUET : Band 4",
+    "a_level": "2 Passes (Grade A-D) in A-Level. Pass an interview or a portfolio review. *Overseas qualification that are equivalent to 12th Grade/A-Level/HSC are accepted.",
+    "ib": null,
+    "other_qualifications": null,
+    "general": "General Requirements STPM 2 Passes in STPM with minimum Grade C (GP 2.0) in any subject. Pass an interview or a portfolio review. A-Level 2 Passes (Grade A-D) in A-Level. Pass an interview or a portfolio review. *Overseas qualification that are equivalent to 12th Grade/A-Level/HSC are accepted. UEC 5 Grade B Passes in UEC in any subjects. Pass an interview or a portfolio review. Foundation/ Matriculation A pass in Matriculation or Foundation studies with minimum CGPA of 2.0. Pass an interview or a portfolio review. ICT Related Platforms Diploma with a minimum CGPA of 2.0. Pass an interview or a portfolio review. Note: Students who do not have a Credit in Additional Mathematics in SPM/ O-Level/IGCSE but have an acceptable achievement in Mathematics related subjects during the Foundation which may be equivalent to SPM/O-Level/IGCSE Additional Mathematics, can be accepted into Degree Programmes. Students can be given preferential entry for ICT related subject in SPM/ O-Level/ IGCSE. Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -30,7 +31,7 @@
     "https://www.studymalaysia.com/what/course/APU/0056894/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Interactive Media and Immersive Technology (Honours) with a specialism in VR/AR",
   "program_name_zh": "Interactive Media and Immersive Technology (Honours) with a specialism in VR/AR学士",
   "field_ar": "التصميم",

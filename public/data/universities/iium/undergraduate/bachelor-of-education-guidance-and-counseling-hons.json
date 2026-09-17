@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 21600,
-    "per_year": 5400,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 54400,
+    "per_year": 13600,
+    "notes": "International tuition RM54,400 total (RM6,800/semester x 8 semesters, after discount); per_year derived from official duration. All-in payable RM78,065 incl. entrance/recurrent/mahallah/takaful/graduation, excludes SST. IIUM official section: KOED. Source: https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf (Sem 1 2024/25 onwards; PDF updated Mar 2026), accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,10 +27,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/what/course/IIUM/0008354/"
+    "https://www.studymalaysia.com/what/course/IIUM/0008354/",
+    "https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education (Guidance And Counseling) (Hons)",
   "program_name_zh": "Education (Guidance And Counseling) (Hons)学士",
   "field_ar": "التربية والتعليم",

@@ -8,15 +8,15 @@
   "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
-    "Feb",
+    "Jan",
     "Jun",
     "Nov"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19500,
-    "per_year": 6500,
-    "notes": ""
+    "total": 73100,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM73,100 (inclusive of 6% SST). Source: https://fssh.tarc.edu.my/programmes/bachelor-degree/bachelor-of-early-childhood-education-honours (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -46,10 +46,12 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://fssh.tarc.edu.my/programmes/bachelor-degree/bachelor-of-early-childhood-education-honours",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Early Childhood Education (Honours)",
   "program_name_zh": "Early Childhood Education (Honours)学士",
   "field_ar": "التربية والتعليم",

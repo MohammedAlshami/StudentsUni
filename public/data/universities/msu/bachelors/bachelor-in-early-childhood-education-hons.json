@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22820,
-    "per_year": 4666,
-    "notes": "Local: RM42,000.00; International: RM86,810.00 (per_year based on 3.0yr duration)"
+    "total": 86810,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM86,810. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003080/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Pass STPM or equivalent with at least Grade C (CGPA 2.0) in 2 subjects; OR Pass STAM (level Jayyid); OR Pass UEC with at least Grade B in 5 subjects; OR Pass Matriculation/Foundation with at least CGPA of 2.00 from 4.00; OR Minimum pass of 3 subjects in A-Level (GCE); OR Minimum score of 65-75% for The South Australian Matriculation (AUSMAT); OR Minimum score of 80% for Canadian Pre-University Programmes (CPU); OR Diploma in related field with a minimum CGPA of 2.00; OR Any other qualifications recognized as equivalent. English Requirements (International Students): TOEFL score of 500 or IELTS score of 5.0 or equivalent."
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Early Childhood Education (Hons)",
   "program_name_zh": "Early Childhood Education (Hons)学士",
   "field_ar": "التربية والتعليم",

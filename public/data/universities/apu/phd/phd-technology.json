@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 46800,
-    "per_year": 15600,
-    "notes": "Total program fee from source"
+    "total": 50800,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM50,800 (excludes 6% SST). Source: https://www.apu.edu.my/course/phd-in-technology (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -34,7 +34,7 @@
     }
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة",
   "program_name_zh": "哲学博士",
   "field_ar": "Computing & Technology",

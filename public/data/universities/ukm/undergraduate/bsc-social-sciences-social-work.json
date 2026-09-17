@@ -4,7 +4,7 @@
   "level": "undergraduate",
   "program_name": "Bachelor of Social Sciences with Honours (Social Work)",
   "field": "Social Science & Humanities",
-  "duration": "3 years",
+  "duration": "7 Semesters",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 21600,
-    "per_year": 5400,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 59920,
+    "per_year": 17120,
+    "notes": "International (UKMi) tuition per UKMShape fee schedule 2024/2025: RM59,920 total (incl. first-semester registration) for 7 semesters; per_year = total / 3.5 years (derived). Source: https://shape.ukm.my/storage/lampiran/struktur_yuran/FSSK/pra/strukturyuran_FSSK_UKMi_pra_F_int.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,10 +27,10 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.ukm.my/portal/undergraduate-programmes/"
+    "https://shape.ukm.my/storage/lampiran/struktur_yuran/FSSK/pra/strukturyuran_FSSK_UKMi_pra_F_int.pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Social Sciences with Honours (Social Work)",
   "program_name_zh": "Social Sciences with Honours (Social Work)学士",
   "field_ar": "العلوم",

@@ -58,13 +58,13 @@
     "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255",
     "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 4200,
     "international_total": null,
     "per_year_local": 1400,
     "per_year_international": null,
-    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    "notes": "International fees are programme-specific; see each programme's verified international fee and the official fee schedule at https://postgrad.umt.edu.my/postgraduate_fees/ (accessed 2026-09-18)."
   }
 }

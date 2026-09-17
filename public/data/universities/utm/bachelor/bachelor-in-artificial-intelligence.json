@@ -11,12 +11,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19200,
-    "per_year": 4800,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 54788,
+    "per_year": null,
+    "notes": "International total tuition from UTM official fee page (https://admission.utm.my/programme-fees-ug-international/), retrieved 2026-09-18. Category: Artificial Intelligence. Tuition only; excludes accommodation, registration and service fees. With 3 short semesters: RM58,508."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.5 or TOEFL iBT 46 (MUET Band 4)",
     "a_level": "2 Principals (C+)",
     "ib": "24 points",
     "other_qualifications": "Equivalent qualification"
@@ -27,10 +27,11 @@
   },
   "sources": [
     "https://admission.utm.my/offered-allcourses-malaysian/",
-    "https://fai.utm.my/bachelor-in-artificial-intelligence-with-honours/"
+    "https://fai.utm.my/bachelor-in-artificial-intelligence-with-honours/",
+    "https://admission.utm.my/programme-fees-ug-international/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Artificial Intelligence with Honours",
   "program_name_zh": "Artificial Intelligence with Honours学士",
   "field_ar": "تقنية المعلومات",

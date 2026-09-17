@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 93920.0,
-    "per_year": 16800,
-    "notes": "Local: RM50,400.00; International: RM93,920.00 (per_year based on 3.0yr duration)"
+    "currency": "MYR",
+    "total": 93920,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM93,920. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0058473/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GPA 2.00) in any two (2) subjects or its equivalent; A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Jayyid; A Diploma (Level 4, MQF) with a minimum CGPA of 2.00 or its equivalent; Matriculation/Foundation with a minimum CGPA of 2.00 or its equivalent. A credit in the relevant language at SPM level or its equivalent for those who intend to major in Bahasa Melayu, Arabic, Chinese or Tamil. For language programmes other than Bahasa Melayu, Arabic, Chinese or Tamil, the minimum credit in English at SPM or its equivalent is required. International students are required to achieve a minimum score of 5.0 in IELTS OR Band 3 of MUET OR its equivalent."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Translation and Interpreting (Honours)",
   "program_name_zh": "Translation and Interpreting (Honours)学士",
   "field_ar": "العلوم",

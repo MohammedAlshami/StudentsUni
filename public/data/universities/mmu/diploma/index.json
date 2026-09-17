@@ -99,9 +99,9 @@
   "fees": {
     "currency": "MYR",
     "local_total": 55000,
-    "international_total": null,
+    "international_total": 29000,
     "per_year_local": 22000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
+    "per_year_international": 12400,
+    "notes": "Verified international fees from Multimedia University official 2026 sources: total from RM29,000 to RM35,000 across 13 programmes; values shown are the lowest totals in this level. Source: https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf"
   }
 }

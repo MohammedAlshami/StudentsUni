@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16089,
-    "per_year": 4058,
-    "notes": "Local: RM23,700.00; International: RM55,215.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 55215,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM55,215. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0005977/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "Pass SPM or its equivalent with at least credits in THREE (3) subjects, including Mathematics and ONE (1) relevant science / technical / vocational subject AND a pass in English; Pass STPM or equivalent with a pass in Mathematics, English and ONE (1) relevant science / technical / vocational subject at SPM level; Recognised Certificate in Engineering / Engineering Technology or its equivalent; Recognised related Vocational and Technical / Skills Certificate or its equivalent with ONE (1) year of relevant work experience or a minimum of ONE (1) semester of a bridging programme. English Requirements for International Students: TOEFL score of 500 OR IELTS score of 5.0 OR equivalent. Students not meeting the requirement must undergo English proficiency courses as assessed by the institution."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Electrical and Electronic Engineering",
   "program_name_zh": "Electrical and Electronic Engineering文凭",
   "field_ar": "الهندسة",

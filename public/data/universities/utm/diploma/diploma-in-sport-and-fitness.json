@@ -4,16 +4,16 @@
   "level": "diploma",
   "program_name": "Diploma in Sport and Fitness",
   "field": "Personal Services",
-  "duration": "3 years",
+  "duration": "2.5 years",
   "mode": "Full-time",
   "intakes": [
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 11700,
-    "per_year": 3900,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 44200,
+    "per_year": null,
+    "notes": "International total for all semesters (excluding hostel) from UTMSPACE official diploma page (https://space.utm.my/diploma/), retrieved 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -25,10 +25,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://studymalaysia.com/edu/utm_space/"
+    "https://studymalaysia.com/edu/utm_space/",
+    "https://space.utm.my/diploma/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Sport and Fitness",
   "program_name_zh": "Sport and Fitness文凭",
   "field_ar": "Personal Services",

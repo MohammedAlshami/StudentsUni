@@ -13,15 +13,16 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 60925.0,
-    "per_year": 11800,
-    "notes": "Local: RM29,500.00; International: RM60,925.00 (per_year based on 2.5yr duration)"
+    "currency": "MYR",
+    "total": 60925,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM60,925. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0006025/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "You need THREE (3) Credits at SPM-level OR THREE (3) Cs at O-level OR a Level-3 KKM Certificate OR any qualification deemed equivalent by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -45,7 +46,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Logistics Management",
   "program_name_zh": "Logistics Management文凭",
   "field_ar": "إدارة الأعمال",

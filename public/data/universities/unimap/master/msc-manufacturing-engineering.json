@@ -5,7 +5,7 @@
   "program_name": "M.Sc.(Manufacturing Engineering)",
   "slug": "msc-manufacturing-engineering",
   "field": "Engineering",
-  "duration": "1 Year",
+  "duration": "FT: 1-3 Yrs; PT: 2-5 Yrs",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 5500,
-    "per_year": 11000,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 14020,
+    "per_year": null,
+    "notes": "UniMAP CGS official international fee structure for M.Sc. (Manufacturing Systems Engineering) (mixed mode): international full-time grand total RM14,020. Source: https://cgs.unimap.edu.my/v2/FEES/MM13-%20MASTER%20OF%20SCIENCE%20(MANUFACTURING%20SYSTEMS%20ENGINEERING).pdf and https://cgs.unimap.edu.my/index.php/en/programmes/fees-duration"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/what/course/UniMAP/0003718/",
-    "https://www.studymalaysia.com/edu/unimap/courses/"
+    "https://www.studymalaysia.com/edu/unimap/courses/",
+    "https://cgs.unimap.edu.my/index.php/en/programmes/fees-duration"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "M.Sc.(Manufacturing Engineering)",
   "program_name_zh": "M.Sc.(Manufacturing Engineering)",
   "field_ar": "الهندسة",

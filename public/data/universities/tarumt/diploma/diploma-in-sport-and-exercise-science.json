@@ -8,15 +8,15 @@
   "duration": "2 years",
   "mode": "Full-time",
   "intakes": [
-    "Feb",
+    "Jan",
     "Jun",
     "Nov"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16800,
-    "per_year": 6720,
-    "notes": ""
+    "total": 45000,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM45,000 (inclusive of 6% SST). Source: https://foas.tarc.edu.my/programmes/diploma/dse-sport-and-exercise-science (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -51,10 +51,12 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/diploma-in-sport-and-exercise-science-289411/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://foas.tarc.edu.my/programmes/diploma/dse-sport-and-exercise-science",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Sport and Exercise Science",
   "program_name_zh": "Sport and Exercise Science文凭",
   "field_ar": "العلوم",

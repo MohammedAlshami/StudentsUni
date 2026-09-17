@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21705,
-    "per_year": 4333,
-    "notes": "Local: RM39,000.00; International: RM83,405.00 (per_year based on 3.0yr duration)"
+    "total": 83405,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM83,405. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0004677/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Credit in Bahasa Melayu and a Pass in General Science or Additional Science or Biology/Chemistry/Physics at SPM level AND TWO (2) C’s or 2.00 CGPA at STPM level including in Pengajian Am / Kertas Am (General Studies / General Paper); OR THREE (3) A-levels; OR MSU Foundation Certificate; OR MSU Diploma in a relevant field with minimum 2.00 CGPA; OR Equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Human Capital Management (Honours)",
   "program_name_zh": "Human Capital Management (Honours)学士",
   "field_ar": "إدارة الأعمال",

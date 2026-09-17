@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 86225.0,
-    "per_year": 14000,
-    "notes": "Local: RM42,000.00; International: RM86,225.00 (per_year based on 3.0yr duration)"
+    "currency": "MYR",
+    "total": 86225,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM86,225. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003087/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "You will need a Credit in Bahasa Melayu and Mathematics at SPM level and 2.00 CGPA or TWO (2) C’s at STPM level including in Pengajian Am / Kertas Am (General Studies / General Paper); OR THREE (3) A-levels; OR an MSU Foundation Certificate from MSU; OR an MSU Diploma in a relevant field and with minimum 2.00 CGPA; OR an equivalent qualification recognized by MSU Senate. Bachelor (Hons) in Law and Commerce (BLC) is a three-year career-focused industry-developed programme by the Department of Business Management and Law at MSU’s Faculty of Business Management and Professional Studies (FBMP)."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Law and Commerce (Honours)",
   "program_name_zh": "Law and Commerce (Honours)学士",
   "field_ar": "القانون",

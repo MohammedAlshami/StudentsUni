@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 20297,
-    "per_year": 6506,
-    "notes": "Local: RM38,000.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: programme is not listed with an international fee on StudyMalaysia and MSU official pages publish Malaysian fees only. Source: https://www.msu.edu.my (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "A pass in SPM with at least credit in any 3 subjects, or any equivalent qualification. A pass in Sijil Tinggi Persekolahan Malaysia (STPM), with a minimum of Grade C (GP 2.0) in any subject, or any equivalent qualification. A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul. A pass in SKM Level 3 in a related field, and a pass in SPM with a minimum of 1 credit in any subject. Any qualifications equivalent to Certificate (Level 3, Malaysian Qualifications Framework, MQF). All prospective students must audition by performing two contrasting pieces on their primary instrument or voice, demonstrating aural skills, sight-reading ability, and participating in a brief interview."
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Music",
   "program_name_zh": "Music文凭",
   "field_ar": "الفنون",

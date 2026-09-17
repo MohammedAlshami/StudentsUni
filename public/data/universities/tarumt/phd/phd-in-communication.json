@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30500.0,
-    "per_year": 10167,
-    "notes": "From StudyMalaysia: RM13,600 (FT)   RM14,500 (PT)"
+    "total": 30500,
+    "per_year": null,
+    "notes": "CPSR Postgraduate Fee Calendar 2026 (full-time international, inclusive of 6% SST): estimated total RM30,500. Source: https://cpsr.tarc.edu.my/programmes/programme-fees (updated June 2026; accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -34,10 +34,13 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://cpsr.tarc.edu.my/programmes/by-research/faculty-of-communication-and-creative-industries/doctor-of-philosophy-in-communication",
+    "https://cpsr.tarc.edu.my/programmes/programme-fees",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Communication",
   "program_name_zh": "哲学博士 in Communication",
   "field_ar": "الاتصالات",

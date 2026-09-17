@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19200,
-    "per_year": 3062,
-    "notes": "Local: RM49,000.00; International: RM98,380.00 (per_year based on 4.0yr duration)"
+    "total": 98380,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM98,380. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003074/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Language Requirement: Malaysian University English Test (MUET) Band 2 i. Pass STPM or equivalent with minimum Grade C (CGPA 2.0) in Mathematics and one relevant Science subject; OR ii. Recognised Diploma in Engineering / Engineering Technology or its equivalent with minimum CGPA of 2.0; OR iii. Recognised related Vocational and Technical/Skills Diploma with minimum CGPA of 2.0. International Students: TOEFL 500 or IELTS 5.0 or equivalent"
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Engineering (Hons)",
   "program_name_zh": "Computer Engineering (Hons)学士",
   "field_ar": "الهندسة",

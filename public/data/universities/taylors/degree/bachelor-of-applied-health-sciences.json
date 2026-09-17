@@ -9,17 +9,18 @@
   "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
+    "Feb",
     "Apr",
     "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 50862,
-    "per_year": 14715,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)"
+    "total": 164093,
+    "per_year": 54698,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 43,182. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-biosciences/undergraduate/taylors-fees-schedule-ug-biosciences-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.5 (or equivalent English qualification)",
     "a_level": "2 Principals (C+) including relevant subjects",
     "ib": "24 points",
     "other_qualifications": "Equivalent pre-university qualification"
@@ -35,10 +36,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-biosciences/undergraduate/taylors-fees-schedule-ug-biosciences-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Applied Health Sciences (Honours)",
   "program_name_zh": "Applied Health Sciences (Honours)学士",
   "field_ar": "العلوم",

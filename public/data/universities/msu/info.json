@@ -6,7 +6,7 @@
   "state": "Selangor",
   "website": "https://www.msu.edu.my",
   "studymalaysia_url": "https://studymalaysia.com/edu/msu/courses/",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "sources": [
     {
       "url": "https://studymalaysia.com/edu/msu/courses/",
@@ -21,10 +21,10 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 66000,
-    "international_total": null,
-    "per_year_local": 22000,
+    "local_total": 15800,
+    "international_total": 28205,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "MSU official programme pages publish Malaysian fees only; international fees below are from StudyMalaysia course pages (accessed 2026-09-18), cross-checked where possible against MSU official pages. International totals range from RM28,205 (foundation) to RM608,110 (Bachelor in Dental Surgery); Malaysian from RM15,800. Fees may change; confirm with MSU."
   }
 }

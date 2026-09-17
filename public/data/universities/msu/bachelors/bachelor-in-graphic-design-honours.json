@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21490,
-    "per_year": 5000,
-    "notes": "Local: RM45,000.00; International: RM82,820.00 (per_year based on 3.0yr duration)"
+    "total": 82820,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM82,820. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0004675/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "STPM/A-level with at least a C (CGPA 2.00) in two (2) subjects; OR STAM with at least Jayyid; OR Matriculation/Foundation/Diploma (MQF Level 4) with at least CGPA 2.00; OR UEC with at least Grade B in five (5) subjects; OR SAM with at least 65%-70%; OR CPU with at least 80% aggregate; OR Other qualifications recognized by the Government of Malaysia. Pass interview and drawing test by MSU (except for History and Design programmes); MUET Band 3."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Graphic Design (Honours)",
   "program_name_zh": "Graphic Design (Honours)学士",
   "field_ar": "الفنون",

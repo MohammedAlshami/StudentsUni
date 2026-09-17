@@ -15,14 +15,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 46398,
-    "per_year": 33257,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 149439,
+    "per_year": 49813,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 39,326. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
     "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
+    "ib": "26 points",
     "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": null,
@@ -43,10 +43,15 @@
       "url": "https://www.easyuni.my/malaysia/taylors-university-252/bachelor-of-banking-finance-hons-294706/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/undergraduate/taylors-fees-schedule-ug-business-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Banking and Finance (Honours)",
   "program_name_zh": "Banking and Finance (Honours)学士",
   "field_ar": "إدارة الأعمال",

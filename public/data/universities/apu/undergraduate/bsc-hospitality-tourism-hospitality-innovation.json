@@ -15,15 +15,15 @@
   "fees": {
     "currency": "MYR",
     "total": 108500,
-    "per_year": 33466,
-    "notes": " (per_year based on 3.0yr duration)"
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/bachelor-science-hospitality-tourism-specialism-hospitality-innovation (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification",
-    "general": "For Direct Entry into Year 1 STPM: Minimum 2 passes with Grade C (GP 2.0) A-Levels: Minimum 2 passes (Grades A–D) UEC: Minimum 5 Grade Bs Matriculation/Foundation: Pass with a minimum CGPA of 2.0 For Direct Entry into Year 2 Diploma: Successful completion of APU Diploma, or Completion of a Diploma from a recognised institution with academic credits equivalent to Year 1 of an Honours Degree (subject to APU Academic Board approval) English Language Requirements IELTS: Band 5.0 MUET: Band 3.5"
+    "english_requirement": "IELTS : 5.0 / TOEFL IBT : 2.5 / Pearson (PTE) : 47 / MUET : Band 3.5",
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Direct Entry to Level 1 of the Degree STPM 2 Passes in STPM with a minimum Grade C (GP 2.0). A-LEVEL 2 Passes (Grade A-D) in A-Level. UEC 5 Grade B’s in UEC. Matriculation/ Foundation Passed Foundation programme (minimum CGPA of 2.0). Entry to Level 2 of the Degree Diploma Successful completion of the APU Diploma or Successful completion of studies in another recognised institute with academic credits equivalent to Level 1 of an Honours Degree (Subject to the approval of the APU Academic Board) Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -36,7 +36,7 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Honours) in Hospitality and Tourism with a specialism in Hospitality Innovation",
   "program_name_zh": "Science (Honours) in Hospitality and Tourism with a specialism in Hospitality Innovation学士",
   "field_ar": "تقنية المعلومات",

@@ -14,13 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 29800.0,
-    "per_year": 13750,
-    "notes": ""
+    "total": 32000,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM32,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/master-philosophy-immersive-technologies-video-game-studies (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS : 6.0",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+    "general": "Bachelor’s degree Bachelor’s degree in related fields with a minimum CGPA of 2.50, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a minimum of 5 years working experience in the relevant fields and rigorous internal assessment. Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 and with 5 years relevant working experience. Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 or without relevant working experience, subject to passing pre-requisite courses. Pass an interview, submission of portfolio and research proposal through rigorous internal assessment determined by APU as required. (Bachelor’s Degree must be in an area of Science and Technology related to Computing) Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -28,7 +29,7 @@
     "https://www.studymalaysia.com/what/course/APU/0058863/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Philosophy in Immersive Technologies and Video Game Studies",
   "program_name_zh": "Philosophy in Immersive Technologies and Video Game Studies硕士",
   "field_ar": "Games Development",

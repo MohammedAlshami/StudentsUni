@@ -13,12 +13,12 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 2350,
-    "per_year": 4700,
-    "notes": "Fee data from StudyMalaysia."
+    "total": null,
+    "per_year": 5820,
+    "notes": "UNIMAS official international postgraduate research fee (by research, full-time): RM5,820/year for the Sciences and Technology (FRST/FMHS/FCSIT/FCSHD/IBEC/IHCM/ISITI) cluster. Non-recurring RM1,280 applies. Source: UNIMAS official international research fee table (archived official page): https://web.archive.org/web/20241111041842/https://www.postgrad.unimas.my/index.php/research-fees (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "english_requirement": "IELTS 4.5 or equivalent (MUET Band 3, TOEFL iBT 33, PTE 43, Cambridge 147)",
     "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": {
@@ -26,10 +26,12 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/edu/unimas/courses/"
+    "https://www.studymalaysia.com/edu/unimas/courses/",
+    "https://www.unimas.my/postgraduate-financial",
+    "https://web.archive.org/web/20241111041842/https://www.postgrad.unimas.my/index.php/research-fees"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "M.Sc./Ph.D. in Aquatic Pollution",
   "program_name_zh": "M.Sc./Ph.D. in Aquatic Pollution",
   "field_ar": "العلوم",

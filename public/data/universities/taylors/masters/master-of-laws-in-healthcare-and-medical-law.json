@@ -6,7 +6,7 @@
   "slug": "master-of-laws-in-healthcare-and-medical-law",
   "program_slug": "master-of-laws-in-healthcare-and-medical-law",
   "field": "Law",
-  "duration": "3 years",
+  "duration": "1.5 years",
   "mode": "Full Time",
   "intakes": [
     "Apr",
@@ -17,21 +17,26 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17649,
-    "per_year": 17649,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 77097,
+    "per_year": 51398,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 20,289. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-law-and-governance/postgraduate/taylors-fees-schedule-pg-master-of-law-and-master-of-laws-in-healthcare-and-medical-law-usd.pdf (accessed 2026-09-18). per_year = total / 1.5yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
     "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": null,
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/master-coursework/master-of-laws-in-healthcare-and-medical-law.html",
-    "https://www.studymalaysia.com/edu/taylor/courses/"
+    "https://www.studymalaysia.com/edu/taylor/courses/",
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-law-and-governance/postgraduate/taylors-fees-schedule-pg-master-of-law-and-master-of-laws-in-healthcare-and-medical-law-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Laws in Healthcare and Medical Law",
   "program_name_zh": "Laws in Healthcare and Medical Law硕士",
   "field_ar": "القانون",

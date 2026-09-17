@@ -4,31 +4,32 @@
   "level": "diploma",
   "program_name": "Diploma in Music Performance",
   "field": "Music Performance",
-  "duration": "2.5 Years",
+  "duration": "2.5 years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 72280,
-    "per_year": 72280,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 101093,
+    "per_year": null,
+    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-music-performance), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "english_requirement": "IELTS 4.0 or TOEFL iBT 30-31",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057286/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/"
+    "https://www.studymalaysia.com/edu/ucsi/courses/",
+    "https://www.ucsiuniversity.edu.my/programmes/diploma-music-performance"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Music Performance",
   "program_name_zh": "Music Performance文凭",
   "field_ar": "الموسيقى",

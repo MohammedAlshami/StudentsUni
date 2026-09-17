@@ -13,8 +13,8 @@
       "mode": "Full-time / Part-time",
       "intakes": null,
       "fees": {
-        "local": null,
-        "international": null
+        "local": "RM50,800.00",
+        "international": "RM50,800.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -32,8 +32,8 @@
       "mode": "Full-time / Part-time",
       "intakes": null,
       "fees": {
-        "local": null,
-        "international": null
+        "local": "RM50,800.00",
+        "international": "RM50,800.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -51,8 +51,8 @@
       "mode": "Full-time / Part-time",
       "intakes": null,
       "fees": {
-        "local": null,
-        "international": null
+        "local": "RM50,800.00",
+        "international": "RM50,800.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -70,8 +70,8 @@
       "mode": "Full-time / Part-time",
       "intakes": null,
       "fees": {
-        "local": null,
-        "international": null
+        "local": "RM50,800.00",
+        "international": "RM50,800.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -89,8 +89,8 @@
       "mode": "Full-time / Part-time",
       "intakes": null,
       "fees": {
-        "local": null,
-        "international": null
+        "local": "RM50,800.00",
+        "international": "RM50,800.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -108,8 +108,8 @@
       "mode": "Full-time / Part-time",
       "intakes": null,
       "fees": {
-        "local": null,
-        "international": null
+        "local": "RM56,800.00",
+        "international": "RM56,800.00"
       },
       "requirements": null,
       "accreditation": "MQA",
@@ -122,14 +122,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 26799,
-    "international_total": 28400.0,
-    "per_year_local": 8933,
+    "local_total": 50800,
+    "international_total": 50800,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "From StudyMalaysia: RM26,800.00 (per_year based on 3yr duration)"
+    "notes": "APU official course pages: international tuition totals RM50,800–RM56,800; Malaysian RM50,800–RM56,800. Individual programme pages carry exact per-programme figures. Sources: https://www.apu.edu.my/fees and APU course pages (accessed 2026-09-18)."
   },
   "sources": [
-    "https://www.studymalaysia.com/edu/apu/courses/"
+    "https://www.studymalaysia.com/edu/apu/courses/",
+    "https://www.apu.edu.my/fees"
   ],
-  "last_updated": "2026-09-16"
+  "last_updated": "2026-09-18"
 }

@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 6000,
-    "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "No international fee separately published for this foundation programme in the IIUM Academy international fee schedule; verify with IIUM Academy. Source: https://academy.iium.edu.my/wp-content/uploads/2026/04/IFP-FEES-UPDATED.pdf (updated 13 Apr 2026), accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -25,10 +25,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/what/course/IIUM/0000458/"
+    "https://www.studymalaysia.com/what/course/IIUM/0000458/",
+    "https://academy.iium.edu.my/wp-content/uploads/2026/04/IFP-FEES-UPDATED.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Foundation Studies in Engineering and Computer Science",
   "program_name_zh": "Foundation Studies in Engineering and Computer Science",
   "field_ar": "الهندسة",

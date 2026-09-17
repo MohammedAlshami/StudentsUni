@@ -14,12 +14,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 39568,
-    "per_year": 19366,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 87425,
+    "per_year": 43712,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 23,007. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/undergraduate/taylors-fees-schedule-ug-tci-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "english_requirement": "IELTS 4.0 (or equivalent English qualification)",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
@@ -36,10 +36,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/undergraduate/taylors-fees-schedule-ug-tci-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Culinary Arts",
   "program_name_zh": "Culinary Arts文凭",
   "field_ar": "الفنون",

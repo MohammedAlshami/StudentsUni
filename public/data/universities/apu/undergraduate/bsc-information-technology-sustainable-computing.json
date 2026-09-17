@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 108500.0,
-    "per_year": 34867,
-    "notes": ""
+    "total": 108500,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/bachelor-information-technology-sustainable-computing (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "english_requirement": "IELTS : 5.0 / TOEFL IBT : 2.5 / Pearson (PTE) : 47 / MUET : Band 3.5",
+    "a_level": "2 Passes (Grade A-D) in A-Level and with a Credit in Mathematics at SPM/IGCSE or equivalent.",
+    "ib": null,
+    "other_qualifications": null,
+    "general": "General Requirements STPM 2 Passes in STPM with minimum Grade C (GP 2.0) in any subject with a Credit in Mathematics at SPM. Note : Candidates who have obtained a Pass in Mathematics , but do not have a Credit Pass in Mathematics at SPM/IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. A-Level 2 Passes (Grade A-D) in A-Level and with a Credit in Mathematics at SPM/IGCSE or equivalent. Note : Candidates who have obtained a Pass in Mathematics , but do not have a Credit Pass in Mathematics at SPM/ IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. *Overseas qualification that are equivalent to 12th Grade/A Level/HSC are accepted. UEC 5 Grade B Passes in UEC in any subjects including Mathematics. Note : Candidates who have obtained a Pass in Mathematics , but do not have a Credit Pass in Mathematics at SPM/ IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. Foundation/ Matriculation A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 with a Credit in Mathematics at SPM/ IGCSE/ O-Level or its equivalent. Note : Candidates who have obtained a Pass in Mathematics , but do not have a Credit Pass in Mathematics at SPM/ IGCSE or equivalent, need to take a Pre-Requisite Mathematics module prior or at the beginning of the study. ICT Related Diplomas Diploma in Computing related areas with a minimum CGPA of 2.50 and fulfilment of requirements for Credit Transfer is subject to approval by the APU Academic Board. Note : Student with CGPA above 2.0 and below 2.5 may be accepted using rigorous assessment conducted by APU and subject to the approval of the Academic Board. Note: Students who do not have a Credit in Additional Mathematics in SPM/ O-Level/IGCSE but have an acceptable achievement in Mathematics related subjects during the Foundation which may be equivalent to SPM/O-Level/IGCSE Additional Mathematics, can be accepted into Degree Programmes. Students can be given preferential entry for ICT related subject in SPM/ O-Level/ IGCSE. Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -30,7 +31,7 @@
     "https://www.studymalaysia.com/what/course/APU/0058639/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Honours) in Information Technology with a specialism in Sustainable Computing",
   "program_name_zh": "Science (Honours) in Information Technology with a specialism in Sustainable Computing学士",
   "field_ar": "Computing & Technology",

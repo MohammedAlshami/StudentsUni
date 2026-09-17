@@ -11,7 +11,10 @@
       "field": "Architecture & Building",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Business",
@@ -19,7 +22,10 @@
       "field": "Business Management & Administration",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Communication",
@@ -27,7 +33,10 @@
       "field": "Communication & Broadcasting",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM13,600.00",
+        "international": "RM30,500.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Computer Science",
@@ -35,7 +44,10 @@
       "field": "Computing & IT",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Economics",
@@ -43,7 +55,10 @@
       "field": "Business Management & Administration",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Education",
@@ -51,7 +66,10 @@
       "field": "Education",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Engineering",
@@ -59,7 +77,10 @@
       "field": "Engineering & Engineering Trades",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM13,600.00",
+        "international": "RM30,500.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in English Studies",
@@ -67,7 +88,10 @@
       "field": "Social Sciences",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Finance",
@@ -75,7 +99,10 @@
       "field": "Accounting & Finance",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Food Science",
@@ -83,7 +110,10 @@
       "field": "Applied Sciences",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Life Sciences",
@@ -91,7 +121,10 @@
       "field": "Life Sciences",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Physical Science",
@@ -99,7 +132,10 @@
       "field": "Applied Sciences",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Psychology",
@@ -107,7 +143,10 @@
       "field": "Social Sciences",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     },
     {
       "program_name": "Doctor of Philosophy in Sports Science",
@@ -115,19 +154,24 @@
       "field": "Applied Sciences",
       "duration": "3-5 years",
       "mode": "Flexible",
-      "fees": null
+      "fees": {
+        "local": "RM15,200.00",
+        "international": "RM32,700.00"
+      }
     }
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 10200,
-    "international_total": 18400.0,
-    "per_year_local": 3400,
+    "local_total": 13600,
+    "international_total": 30500,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "From StudyMalaysia: RM10,200.00 (per_year based on 3yr duration)"
+    "notes": "TAR UMT official 2026 fee schedules: international estimated totals RM30,500–32,700; Malaysian RM13,600–15,200. Per-programme figures in programme pages. Sources: TAR UMT programme pages, https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf, https://cpsr.tarc.edu.my/programmes/programme-fees (accessed 2026-09-18)."
   },
   "sources": [
-    "https://www.studymalaysia.com/edu/tarumt/courses/"
+    "https://www.studymalaysia.com/edu/tarumt/courses/",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf",
+    "https://cpsr.tarc.edu.my/programmes/programme-fees"
   ],
-  "last_updated": "2026-09-16"
+  "last_updated": "2026-09-18"
 }

@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22820,
-    "per_year": 5233,
-    "notes": "Local: RM47,100.00; International: RM86,840.00 (per_year based on 3.0yr duration)"
+    "total": 86840,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM86,840. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0054117/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Pass STPM/ A Level with full pass in 2 subjects or equivalent with CGPA 2.00; or Pass UEC with at least Grade B in 5 subjects; or Pass recognised Matriculation/ Foundation with minimum CGPA 2.00; or Pass Diploma from any HEP with minimum CGPA 2.00; or Other equivalent qualifications recognised by the Malaysian Government. Pass in interview/ drawing test organised by MSU."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Fashion Design with Marketing (Hons)",
   "program_name_zh": "Fashion Design with Marketing (Hons)学士",
   "field_ar": "إدارة الأعمال",

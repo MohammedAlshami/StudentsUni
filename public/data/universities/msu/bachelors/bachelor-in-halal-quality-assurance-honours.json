@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 104260.0,
-    "per_year": 18000,
-    "notes": "Local: RM63,000.00; International: RM104,260.00 (per_year based on 3.5yr duration)"
+    "currency": "MYR",
+    "total": 104260,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM104,260. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057136/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "A pass in STPM with a minimum of Grade C (GP 2.00) in any two (2) subjects; A pass in STAM with a minimum grade of Jayyid; A Certificate in Matriculation or Foundation with a minimum CGPA of 2.00; A Diploma (Level 4, MQF) in the relevant fields with at least CGPA of 2.00; A Diploma Kemahiran Malaysia (DKM) / Diploma Lanjutan Kemahiran Malaysia (DLKM) / Diploma Vokasional Malaysia (DVM) subjected to HEP Senate / Academic Board’s approval; An Advanced Diploma (Level 5, MQF) in the relevant fields with at least CGPA of 2.00; Other relevant equivalent qualifications recognised by Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Halal Quality Assurance (Honours)",
   "program_name_zh": "Halal Quality Assurance (Honours)学士",
   "field_ar": "إدارة الأعمال",

@@ -13,12 +13,12 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 2350,
-    "per_year": 4700,
-    "notes": "Fee data from StudyMalaysia."
+    "total": null,
+    "per_year": null,
+    "notes": "No official international undergraduate tuition published for this faculty/programme in UNIMAS's international UG fee table (global.unimas.my); fee left unverified rather than estimated. Source: https://www.global.unimas.my/admission/undergraduate (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.5 or equivalent (MUET Band 4, TOEFL iBT 46, PTE 51, Cambridge 160)",
     "a_level": "2 Principals (C+)",
     "ib": "24 points",
     "other_qualifications": "Equivalent qualification"
@@ -28,10 +28,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/edu/unimas/courses/"
+    "https://www.studymalaysia.com/edu/unimas/courses/",
+    "https://www.global.unimas.my/admission/undergraduate"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Architecture) (Hons)",
   "program_name_zh": "Science (Architecture) (Hons)学士",
   "field_ar": "العمارة",

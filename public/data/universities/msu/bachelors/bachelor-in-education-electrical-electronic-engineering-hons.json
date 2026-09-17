@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 27720,
-    "per_year": 6533,
-    "notes": "Local: RM58,800.00; International: RM101,390.00 (per_year based on 3.0yr duration)"
+    "total": 101390,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM101,390. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0056500/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Passed STPM or equivalent, with at least a C in three (3) subjects including General Studies / General Paper, or a C in two (2) subjects including General Studies / General Paper plus a D in two (2) other subjects; AND passed SPM or equivalent, with Credit in Bahasa Melayu; OR Passed Matriculation/Foundation/equivalent, with at least 2.00 CGPA; OR Passed A-Level with at least a Pass in three (3) subjects; OR Passed The South Australian Matriculation (SAM) with a score of at least 65-75%; OR Passed Canadian Pre-University Programme (CPU) with a score of at least 80%; OR Passed Diploma (MQF Level 4) with at least 2.00 CGPA; OR Other qualifications recognized by the Government of Malaysia. [Published 2 November 2018]"
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education (Electrical & Electronic Engineering) (Hons)",
   "program_name_zh": "Education (Electrical & Electronic Engineering) (Hons)学士",
   "field_ar": "الهندسة",

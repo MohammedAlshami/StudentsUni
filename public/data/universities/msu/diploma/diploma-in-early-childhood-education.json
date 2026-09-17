@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16722,
-    "per_year": 3938,
-    "notes": "Local: RM23,000.00; International: RM56,785.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 56785,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM56,785. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0005963/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "i. Pass Sijil Pelajaran Malaysia (SPM)/Sijil Pelajaran Malaysia Vokasional (SPMV) with at least three (3) credits; or ii. Any other qualifications recognized as equivalent by the Malaysian Government. iii. Pass Unified Examination Certificate (UEC) with at least Grade B in three (3) subjects"
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Early Childhood Education",
   "program_name_zh": "Early Childhood Education文凭",
   "field_ar": "التربية والتعليم",

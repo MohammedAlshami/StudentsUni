@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22820,
-    "per_year": 4778,
-    "notes": "Local: RM43,000.00; International: RM86,750.00 (per_year based on 3.0yr duration)"
+    "total": 86750,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM86,750. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003090/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Credit in Mathematics at SPM level; AND At least a C (CGPA 2.0) in two (2) subjects at STPM level; OR Jayyid in STAM; OR 2.00 CGPA in Matriculation/Foundation; OR 2.50 CGPA for Diploma in Computer Science / Software Engineering / Information Technology / Information Systems / other equivalents; Diploma in Science and Technology or Business Studies with at least 2.50 CGPA may be accepted subject to rigorous internal assessment; CGPAs below 2.50 but above 2.00 may also be accepted subject to rigorous internal assessment; Credit in subjects related to computing at SPM or STPM preferred; UEC with at least a B in five (5) subjects including Mathematics."
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Information Technology (Mobile Wireless and Technology) (Honours)",
   "program_name_zh": "Information Technology (Mobile Wireless and Technology) (Honours)学士",
   "field_ar": "تقنية المعلومات",

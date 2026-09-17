@@ -4,30 +4,31 @@
   "level": "master",
   "program_name": "Master of Child Psychology",
   "field": "Child Psychology",
-  "duration": "1.5-3 Years",
+  "duration": "1.5 years",
   "mode": "Full-time/Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 53550,
-    "per_year": 53550,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 62670,
+    "per_year": null,
+    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-child-psychology), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 97,364."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "english_requirement": "IELTS 6 or TOEFL iBT 60",
     "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0057298/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/"
+    "https://www.studymalaysia.com/edu/ucsi/courses/",
+    "https://www.ucsiuniversity.edu.my/programmes/master-child-psychology"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Child Psychology",
   "program_name_zh": "Child Psychology硕士",
   "field_ar": "علم النفس",

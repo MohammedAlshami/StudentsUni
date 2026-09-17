@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22820,
-    "per_year": 4778,
-    "notes": "Local: RM43,000.00; International: RM86,750.00 (per_year based on 3.0yr duration)"
+    "total": 86750,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM86,750. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0004681/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Credit in Additional Mathematics at SPM/SPMV level. At least a C (CGPA 2.00) in two (2) subjects at STPM level; OR Jayyid in STAM; OR 2.0 CGPA in Matriculation/Foundation; OR Diploma in Computer Science / Software Engineering / Information Technology / Information Systems / equivalent from IKM, Community College, Polytechnic (MQF Level 4), or recognized HEP with at least 2.50 CGPA (below 2.50 but above 2.00 subject to rigorous internal assessment); OR Diploma in Science and Technology with at least 2.50 CGPA subject to rigorous internal assessment. Applicants without Additional Mathematics at SPM may present equivalent Diploma Mathematics subjects. Other acceptable qualifications include a Pass in THREE (3) subjects at A-Level including Additional Mathematics, and others recognized by the Government of Malaysia."
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Information Systems in Auditing (Hons)",
   "program_name_zh": "Information Systems in Auditing (Hons)学士",
   "field_ar": "General",

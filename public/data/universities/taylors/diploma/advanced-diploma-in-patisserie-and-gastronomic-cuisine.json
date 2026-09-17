@@ -14,12 +14,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 49494,
-    "per_year": 12597,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 55341,
+    "per_year": 55341,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 14,563. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/undergraduate/taylors-fees-schedule-ug-tci-usd.pdf (accessed 2026-09-18). per_year = total / 1yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "english_requirement": "IELTS 5.0 (or equivalent English qualification)",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
@@ -36,10 +36,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-culinary-institute/undergraduate/taylors-fees-schedule-ug-tci-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Advanced Diploma in Patisserie and Gastronomic Cuisine",
   "program_name_zh": "Advanced Diploma in Patisserie and Gastronomic Cuisine",
   "field_ar": "الفنون",

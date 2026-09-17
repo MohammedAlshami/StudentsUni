@@ -7,13 +7,14 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "September"
+    "July",
+    "January"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 6000,
-    "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 16950,
+    "per_year": null,
+    "notes": "International total (registration RM2,450 + two semesters at RM7,250 each) from UTMSPACE official foundation page (https://space.utm.my/foundation/), retrieved 2026-09-18. Excludes hostel."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -24,10 +25,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://studymalaysia.com/edu/utm_space/"
+    "https://studymalaysia.com/edu/utm_space/",
+    "https://space.utm.my/foundation/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Life Science",
   "program_name_zh": "Life Science预科",
   "field_ar": "العلوم",

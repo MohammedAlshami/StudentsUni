@@ -17,9 +17,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 15195,
-    "per_year": 4810,
-    "notes": "From EasyUni (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "City University Malaysia does not publish an international fee schedule; the latest fee structure is issued by the International Marketing Office on request. Previous value was an unverified estimate and has been removed. Source: https://city.edu.my/admission-scholarships/international-students/, accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://city.edu.my/admission-scholarships/international-students/",
+      "publisher": "City University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": 0.5,
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Architecture",
   "program_name_zh": "Architecture硕士",
   "field_ar": "العمارة",

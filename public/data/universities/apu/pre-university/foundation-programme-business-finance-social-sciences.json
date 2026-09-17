@@ -14,21 +14,23 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 28400.0,
-    "per_year": 26800,
-    "notes": ""
+    "total": 28400,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM28,400. APU course page does not publish a fee table for this programme. Source: https://studymalaysia.com/what/course/APU/0056886/ (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+    "english_requirement": "IELTS : 4.0 / TOEFL IBT : 1.5 / Pearson (PTE) : 36 / MUET : Band 3",
+    "other_qualifications": "High school completion",
+    "general": "Business, Management, Marketing, Digital Marketing & Tourism SPM 5 Credits in at least 5 subjects at SPM level with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 5 Credits (Grade C & above) in at least 5 subjects at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC. Hospitality & Tourism SPM 5 Credits in at least 5 subjects at SPM level with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 5 Credits (Grade C & above) in at least 5 subjects at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC. Media and International Relations SPM 5 Credits in at least 5 subjects at SPM level with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 5 Credits (Grade C & above) in at least 5 subjects at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC. Psychology SPM 5 Credits in at least 5 subjects at SPM level including Mathematics, Science OR Physics OR Chemistry OR Biology and a pass in English with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 5 Credits (Grade C & above) in at least 5 subjects including Mathematics, Science OR Physics OR Chemistry OR Biology and a pass in English at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC including Mathematics, Science OR Physics OR Chemistry OR Biology; Accounting, Banking, Finance & Actuarial SPM 5 Credits in at least 5 subjects at SPM level including Mathematics with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 5 Credits (Grade C & above) in at least 5 subjects at IGCSE/O-Levels including Mathematics; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC including Mathematics; A qualification that APU accepts as equivalent to the above. Note: Some Degree Programmes may require a Credit in Mathematics at SPM/IGCSE/O-Level or equivalent. The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA). International Students"
   },
   "accreditation": "MQA",
   "sources": [
     "https://www.apu.edu.my/course/foundation-programme",
-    "https://www.studymalaysia.com/what/course/APU/0056886/"
+    "https://www.studymalaysia.com/what/course/APU/0056886/",
+    "https://studymalaysia.com/what/course/APU/0056886/"
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Foundation Programme (Business, Finance & Social Sciences Route)",
   "program_name_zh": "Foundation Programme (Business, Finance & Social Sciences Route)",
   "field_ar": "إدارة الأعمال",

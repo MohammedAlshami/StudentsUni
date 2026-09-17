@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 1650,
-    "per_year": 550,
-    "notes": "RM550/semester for local students per StudyMalaysia."
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published by UMS for this programme (only local-student rates are public). Previous value was a local fee. RM550/semester for local students per StudyMalaysia. Verify with UMS Bursar/CIGE. Source: https://www.ums.edu.my/pppg/images/REQUIREMENT/FEES-INFORMATION-FOR-INTERNATIONAL-STUDENTS_ENGINEERING-PROGRAM.pdf (international schedule covers engineering only), accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -31,10 +31,15 @@
       "url": "https://studymalaysia.com/what/course/UMS/0000497/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.ums.edu.my/pppg/images/REQUIREMENT/FEES-INFORMATION-FOR-INTERNATIONAL-STUDENTS_ENGINEERING-PROGRAM.pdf",
+      "publisher": "Universiti Malaysia Sabah",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business (Financial Management & Banking) (Hons)",
   "program_name_zh": "Business (Financial Management & Banking) (Hons)学士",
   "field_ar": "إدارة الأعمال",

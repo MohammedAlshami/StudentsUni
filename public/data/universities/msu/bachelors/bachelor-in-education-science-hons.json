@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22820,
-    "per_year": 5566,
-    "notes": "Local: RM50,100.00; International: RM86,750.00 (per_year based on 3.0yr duration)"
+    "total": 86750,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM86,750. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0055268/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Passed SPM with Honors in Bahasa Malaysia; AND Passed STPM with a C (2.00 CGPA) in two (2) subjects; or a C in two (2) subjects including General Studies / General Paper and a D in two (2) other subjects; OR Passed STAM with Jayyid; OR Passed Basic Certificate / Foundation / Matriculation / Diploma in a related field with at least 2.00 CGPA from 4.00; OR Passed the MSU Diploma in Early Childhood Education with at least 2.00 CGPA; OR Passed A-Level with a Full Pass in three (3) subjects; OR Passed South Australian Matriculation (SAM) with a score of at least 65-70%; OR Passed Canadian Pre-University Program (CPU) with a score of at least 80%; OR Passed UEC with a B in five (5) subjects; OR Any other qualifications recognized as equivalent by the Government of Malaysia."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education (Science) (Hons)",
   "program_name_zh": "Education (Science) (Hons)学士",
   "field_ar": "التربية والتعليم",

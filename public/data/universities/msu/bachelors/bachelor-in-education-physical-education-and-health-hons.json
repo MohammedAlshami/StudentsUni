@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21365,
-    "per_year": 5100,
-    "notes": "Local: RM45,900.00; International: RM85,705.00 (per_year based on 3.0yr duration)"
+    "total": 85705,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM85,705. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0055283/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Pass STPM or equivalent with at least Gred C (CGPA 2.00) in any 2 (two) subjects; OR Pass STAM with at least Gred Jayyid; OR Diploma or equivalent with at least CGPA 2.00; OR Matriculation/ Foundation or equivalent with at least CGPA 2.00."
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education (Physical Education and Health) (Hons)",
   "program_name_zh": "Education (Physical Education and Health) (Hons)学士",
   "field_ar": "الطب",

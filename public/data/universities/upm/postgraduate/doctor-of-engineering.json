@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 60000,
-    "per_year": 15000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 43600,
+    "per_year": null,
+    "notes": "UPM SGS official international research fees (reviewed 16 June 2026), Science & Technology cluster (engineering): RM43,600 for maximum 4 years and RM54,200 for maximum 5 years. 6% SST applies from 1 June 2026. Source: https://sgs.upm.edu.my/upload/dokumen/20260618021817DUAL_INTERNTIONAL_TUITION_FEE_2026_-_16.06.2026.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,10 +25,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.upm.edu.my/kemasukan/program/pascasiswazah-76276"
+    "https://www.upm.edu.my/kemasukan/program/pascasiswazah-76276",
+    "https://sgs.upm.edu.my/upload/dokumen/20260618021817DUAL_INTERNTIONAL_TUITION_FEE_2026_-_16.06.2026.pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Engineering (DEng)",
   "program_name_zh": "Engineering (DEng)博士",
   "field_ar": "Research",

@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 4160,
-    "per_year": 1040,
-    "notes": "RM1,040/semester for local students per StudyMalaysia."
+    "total": 33864,
+    "per_year": 4233,
+    "notes": "International tuition RM4,233/semester x 8 semesters = RM33,864 total (per_year = RM4,233). All-in 4-year payment RM37,114 excluding hostel (incl. RM2,830 new-student registration, RM50 accreditation, RM20 society). Source: https://www.ums.edu.my/pppg/images/REQUIREMENT/FEES-INFORMATION-FOR-INTERNATIONAL-STUDENTS_ENGINEERING-PROGRAM.pdf, accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -31,10 +31,15 @@
       "url": "https://studymalaysia.com/what/course/UMS/0009729/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.ums.edu.my/pppg/images/REQUIREMENT/FEES-INFORMATION-FOR-INTERNATIONAL-STUDENTS_ENGINEERING-PROGRAM.pdf",
+      "publisher": "Universiti Malaysia Sabah",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Engineering (Chemical Engineering) (Hons)",
   "program_name_zh": "Engineering (Chemical Engineering) (Hons)学士",
   "field_ar": "الهندسة",

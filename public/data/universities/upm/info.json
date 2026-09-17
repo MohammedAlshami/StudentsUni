@@ -19,15 +19,17 @@
   "sources": [
     "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800",
     "https://www.upm.edu.my/kemasukan/program/pascasiswazah-76276",
-    "https://www.upm.edu.my/kemasukan/program/pengajian_asasi-76278"
+    "https://www.upm.edu.my/kemasukan/program/pengajian_asasi-76278",
+    "https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf",
+    "https://sgs.upm.edu.my/upload/dokumen/20260618021817DUAL_INTERNTIONAL_TUITION_FEE_2026_-_16.06.2026.pdf"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 4200,
-    "international_total": null,
+    "international_total": 17600,
     "per_year_local": 1400,
-    "per_year_international": null,
-    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    "per_year_international": 16000,
+    "notes": "Verified international tuition from Universiti Putra Malaysia official 2026 sources: total from RM17,600 to RM520,000 across 79 programmes; values shown are the lowest totals. Sources: https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf; https://sgs.upm.edu.my/upload/dokumen/20260618021817DUAL_INTERNTIONAL_TUITION_FEE_2026_-_16.06.2026.pdf"
   }
 }

@@ -6,29 +6,31 @@
   "program_slug": "master-in-real-estate-and-facilities-management",
   "field": "Business Management & Administration",
   "faculty": "Technology Management and Business",
-  "duration": "1 Year",
+  "duration": "2 Years (4 Semesters)",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
-    "secondary": "February"
+    "secondary": "February/March"
   },
   "fees": {
     "currency": "MYR",
-    "total": 887,
-    "per_year": 887,
-    "notes": "Fee: 3550/Course"
+    "total": 24550,
+    "per_year": null,
+    "notes": "International total for the whole programme excluding SST and personal bond (UTHM official 2026/27 postgraduate fee schedule, programme code KPF, Research (4 semesters): https://bendahari.uthm.edu.my/index.php/perkhidmatan/yuran-pengajian, retrieved 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+    "english_requirement": "IELTS 5.0 or TOEFL 500 (PBT) or MUET Band 3",
     "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
   },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UTHM/0004785/",
-    "https://www.studymalaysia.com/edu/uthm/courses/"
+    "https://www.studymalaysia.com/edu/uthm/courses/",
+    "https://bendahari.uthm.edu.my/index.php/perkhidmatan/yuran-pengajian",
+    "https://io.uthm.edu.my/admission/tuition-fees"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Real Estate and Facilities Management",
   "program_name_zh": "Real Estate and Facilities Management硕士",
   "field_ar": "إدارة الأعمال",

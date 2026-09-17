@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 18334,
-    "per_year": 6111,
-    "notes": ""
+    "total": 74600,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM74,600 (inclusive of 6% SST). Source: https://fafb.tarc.edu.my/programmes/bachelors-degree/human-resource-management (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -51,10 +51,12 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/bachelor-of-business-honours-in-human-resource-management-289338/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://fafb.tarc.edu.my/programmes/bachelors-degree/human-resource-management",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Human Resource Management (Honours)",
   "program_name_zh": "Human Resource Management (Honours)学士",
   "field_ar": "إدارة الأعمال",

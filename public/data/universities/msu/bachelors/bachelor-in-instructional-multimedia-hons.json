@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22395,
-    "per_year": 4778,
-    "notes": "Local: RM43,000.00; International: RM85,475.00 (per_year based on 3.0yr duration)"
+    "total": 85475,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM85,475. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003083/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "At least THREE (3) C’s at STPM level including Pengajian Am / Kertas Am (General Studies / General Paper); OR TWO (2) C’s including in Pengajian Am / Kertas Am (General Studies / General Paper) plus TWO (2) D’s, and a Credit each in Bahasa Malaysia or Bahasa Melayu (Silibus X) Bahasa Malaysia II and Mathematics; OR An MSU Foundation Certificate; OR An MSU or a PTPL Diploma; OR THREE (3) A-Levels; OR An equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -51,7 +52,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Instructional Multimedia (Hons)",
   "program_name_zh": "Instructional Multimedia (Hons)学士",
   "field_ar": "تقنية المعلومات",

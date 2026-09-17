@@ -14,14 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17094,
-    "per_year": 3955,
-    "notes": "Local: RM23,100.00; International: RM57,645.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 57645,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,645. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0006062/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "Pass SPM or its equivalent with 3 credits; OR Certificate from Polytechnic/private higher learning institution (IPTS) and other qualifications recognized by MSU Senate; OR Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; OR Other equivalent qualifications recognized by the Malaysian Government"
   },
   "accreditation": {
     "mqa_status": null,
@@ -50,7 +51,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Public Relations and Entertainment Management",
   "program_name_zh": "Public Relations and Entertainment Management文凭",
   "field_ar": "إدارة الأعمال",

@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 7210,
-    "per_year": 2060,
-    "notes": "Based on RM1,030/semester from StudyMalaysia (local)."
+    "total": 70600,
+    "per_year": 17650,
+    "notes": "International tuition RM70,600 total for the programme; per_year derived (RM17,650 = total / 4 years). Source: UM International Booklet 2025/26 (updated 15 Dec 2025), https://study.um.edu.my/doc/booklets/International%20Booklet%20-%20Updated%2015%20Dec%202025.pdf, accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -30,10 +30,15 @@
       "url": "https://studymalaysia.com/what/course/UM/0000314/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://study.um.edu.my/doc/booklets/International%20Booklet%20-%20Updated%2015%20Dec%202025.pdf",
+      "publisher": "Universiti Malaya",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Biotechnology)",
   "program_name_zh": "Science (Biotechnology)学士",
   "field_ar": "العلوم",

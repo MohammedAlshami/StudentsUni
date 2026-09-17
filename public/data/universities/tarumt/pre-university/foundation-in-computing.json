@@ -8,15 +8,15 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "Oct",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17000,
-    "per_year": 17000,
-    "notes": ""
+    "total": 26600,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM26,600 (inclusive of 6% SST). Source: https://cpus.tarc.edu.my/programmes/foundation-in-computing (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -51,10 +51,11 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/foundation-in-computing-292527/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Computing",
   "program_name_zh": "Computing预科",
   "field_ar": "Computing",

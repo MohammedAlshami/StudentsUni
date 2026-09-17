@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 181240.0,
-    "per_year": 22200,
-    "notes": "Local: RM111,000.00; International: RM181,240.00 (per_year based on 5.0yr duration)"
+    "currency": "MYR",
+    "total": 181240,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM181,240. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057850/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "At least 2.5 CGPA at STPM level in Science stream (for non-Science-stream STPM, 2.5 CGPA and a Credit in TWO (2) Science subjects at SPM level); A Full Pass in STPM Pengajian Am (General Studies) and TWO (2) other subjects, plus a Partial Pass in TWO (2) other subjects; TWO (2) Full Passes at A-level; An MSU Diploma in Traditional Chinese Medicine (also with at least 2.5 CGPA); Other equivalent qualifications in a related field and recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Traditional Chinese Medicine (Hons)",
   "program_name_zh": "Traditional Chinese Medicine (Hons)学士",
   "field_ar": "الطب",

@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 14315,
-    "per_year": 5726,
-    "notes": ""
+    "total": 46600,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM46,600 (inclusive of 6% SST). Source: https://fcci.tarc.edu.my/programmes/diploma/diploma-in-multimedia-design (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -49,10 +49,12 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/diploma-in-multimedia-design-289354/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://fcci.tarc.edu.my/programmes/diploma/diploma-in-multimedia-design",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Multimedia Design",
   "program_name_zh": "Multimedia Design文凭",
   "field_ar": "الفنون",

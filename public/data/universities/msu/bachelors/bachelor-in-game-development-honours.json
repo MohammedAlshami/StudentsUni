@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 79240,
-    "per_year": 19810,
-    "notes": "Local: RM79,240.00 (per_year based on 4.0yr duration)"
+    "currency": "MYR",
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: programme is not listed with an international fee on StudyMalaysia and MSU official pages publish Malaysian fees only. Source: https://www.msu.edu.my (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "International students must achieve at least Band 2 in MUET or 4.0 in IELTS or equivalent. Pass screening test (drawing test and portfolio review). Pass interview session by industry partners (for scholarship/job guarantee). Entry via TVET route MQF Level 4 or 5 TVET in a relevant field. Diploma Lanjutan Kemahiran Malaysia (Level 5). Diploma Kemahiran Malaysia (Level 4) or Diploma Vokasional Malaysia with minimum CGPA 2.50 or less and at least 2 years experience. Entry via academic route Diploma or equivalent from IPTA/ILKA/IPTS. STPM with at least Grade C (NGMP 2.00) in 2 subjects including General Studies/Pengajian Am. STAM (2019 and earlier) with Jayyid; or Matriculation/Foundation (2020 and earlier) with minimum CGPA 2.00. APEL A: Adult learners with work experience who passed the assessment."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Game Development (Honours)",
   "program_name_zh": "Game Development (Honours)学士",
   "field_ar": "General",

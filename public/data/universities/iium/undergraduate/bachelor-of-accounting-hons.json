@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 20400,
-    "per_year": 5100,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 48000,
+    "per_year": 12000,
+    "notes": "International tuition RM48,000 total (RM6,000/semester x 8 semesters, after discount); per_year derived from official duration. All-in payable RM71,665 incl. entrance/recurrent/mahallah/takaful/graduation, excludes SST. IIUM official section: KENMS. Source: https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf (Sem 1 2024/25 onwards; PDF updated Mar 2026), accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS / TOEFL / IIUM English Placement Test",
@@ -27,10 +27,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/what/course/IIUM/0000786/"
+    "https://www.studymalaysia.com/what/course/IIUM/0000786/",
+    "https://division.iium.edu.my/finance/wp-content/uploads/sites/6/2026/05/2.4.2-UG-International-After-Discount-Sem-1-2024-2025-1.7-Mar26.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Accounting (Hons)",
   "program_name_zh": "Accounting (Hons)学士",
   "field_ar": "المحاسبة",

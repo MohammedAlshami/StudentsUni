@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22537,
-    "per_year": 4677,
-    "notes": "Local: RM61,500.00; International: RM98,350.00 (per_year based on 3.4166666666666665yr duration)"
+    "total": 98350,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM98,350. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0057147/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "i. Passed Sijil Tinggi Persekolahan Malaysia (STPM) or equivalent with a minimum of Grade C (NGMP 2.00) in 2 subjects and a credit in English at SPM level or equivalent; OR ii. Passed Sijil Tinggi Agama Malaysia (STAM) with a minimum of Jayyid Grade and a credit in English at SPM level or equivalent; OR iii. Passed Diploma (Level 4, MQF) or equivalent with a minimum CGPA of 2.00 and a credit in English at SPM level or equivalent; OR iv. Passed Diploma (Level 4, MQF) in Media and Communication or equivalent; OR v. Passed Matriculation/Foundation or equivalent with a minimum CGPA of 2.00 and a credit in English at SPM level or equivalent; OR vi. Passed Unified Examination Certificate (UEC) with a minimum of Grade B in 5 subjects including English; OR vii. Other qualifications recognized as equivalent by the Malaysian Government. Note: The English requirement at SPM level may be waived if the prior qualification includes English with equivalent or higher achievement. International Students: TOEFL 500 or IELTS 5.0 or equivalent"
   },
   "accreditation": {
     "mqa_status": null,
@@ -46,7 +47,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Broadcasting (Hons)",
   "program_name_zh": "Broadcasting (Hons)学士",
   "field_ar": "الفنون",

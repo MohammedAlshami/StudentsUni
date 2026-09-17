@@ -14,13 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 29800,
-    "per_year": 13750,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": 32000,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM32,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-of-philosophy-management (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS : 6.0",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+    "general": "Bachelor’s degree Bachelor’s degree in related fields with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree with a minimum CGPA of 2.00 as accepted by the Senate and with minimum 5 years relevant working experience, subject to a rigorous internal assessment. Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the Senate and without relevant working experience, subject to passing pre-requisite courses Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -33,7 +34,7 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Philosophy in Management",
   "program_name_zh": "Philosophy in Management硕士",
   "field_ar": "إدارة الأعمال",

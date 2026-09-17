@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 18767,
-    "per_year": 6256,
-    "notes": ""
+    "total": 76000,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM76,000 (inclusive of 6% SST). Source: https://focs.tarc.edu.my/programmes/bachelor-degree/bachelor-in-computer-science-honours-interactive-software-technology (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -50,10 +50,12 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/bachelor-of-computer-science-honours-in-interactive-software-technology-292878/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://focs.tarc.edu.my/programmes/bachelor-degree/bachelor-in-computer-science-honours-interactive-software-technology",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Science (Honours) in Interactive Software Technology",
   "program_name_zh": "Computer Science (Honours) in Interactive Software Technology学士",
   "field_ar": "تقنية المعلومات",

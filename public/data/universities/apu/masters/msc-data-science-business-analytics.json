@@ -14,13 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 44800,
-    "per_year": 20400,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": 45800,
+    "per_year": null,
+    "notes": "APU official course page: total international tuition RM45,800 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-in-data-science-and-business-analytics (accessed 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS : 5.5",
+    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+    "general": "Bachelor’s degree Bachelor’s degree in Computing or related fields with a minimum CGPA of 2.50, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in Computing or related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the Senate and with relevant working experience, subject to a rigorous internal assessment. Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the Senate and without relevant working experience, subject to passing pre-requisite courses. Δ Fundamental skills in programming, database, mathematics and statistics would be an added advantage. *Applicants without a Computing-related Bachelor’s degree must pass the pre-requisite modules to continue with the Master’s Degree. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
   },
   "accreditation": "MQA",
   "sources": [
@@ -33,7 +34,7 @@
     }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير in Data Science and Business Analytics",
   "program_name_zh": "in Data Science and Business Analytics硕士",
   "field_ar": "Computing & Technology",

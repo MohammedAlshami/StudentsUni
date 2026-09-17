@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 22800,
-    "per_year": 5700,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 83795,
+    "per_year": 20949,
+    "notes": "UMPSA official international undergraduate fee schedule (2025/2026 intake onwards): total programme fee RM83,795 (Engineering/Engineering Technology). Tuition estimate for minimum duration; entrance fee RM1,155 and miscellaneous fees RM330/semester are charged separately. Source: https://bendahari.umpsa.edu.my/index.php/filelink/fileman-files/Students%20Finance%20Division/OPEN%20CHANNEL/10.%20PORTAL%20INTERNATIONAL%20UG_V2.pdf (accessed 2026-09-18). per_year = total / 4yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -29,10 +29,11 @@
   "sources": [
     "https://www.studymalaysia.com/edu/ump/courses/",
     "https://studymalaysia.com/what/course/UMP/0000300/",
-    "https://www.studymalaysia.com/edu/umpsa/courses/"
+    "https://www.studymalaysia.com/edu/umpsa/courses/",
+    "https://bendahari.umpsa.edu.my/index.php/filelink/fileman-files/Students%20Finance%20Division/OPEN%20CHANNEL/10.%20PORTAL%20INTERNATIONAL%20UG_V2.pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Mechanical Engineering (Hons)",
   "program_name_zh": "Mechanical Engineering (Hons)学士",
   "field_ar": "الهندسة",

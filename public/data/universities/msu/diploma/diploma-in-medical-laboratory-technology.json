@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21130,
-    "per_year": 4466,
-    "notes": "Local: RM40,200.00; International: RM80,485.00 (per_year based on 3.0yr duration)"
+    "total": 80485,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM80,485. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0006047/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "Pass SPM with 3 credits including Science and Mathematics; Health Science Certificate from PTPL; Polytechnic/ Public Higher Learning Institution Certificate or its equivalent recognised by MSU; ass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
+    "general": "SPM/V with five (5) Credits in: Bahasa Melayu, English, Mathematics, one (1) Science subject (Biology / Physics / Chemistry / General Science / Applied Science), and one (1) other subject; OR O-level with Grade C in: English, Mathematics, one (1) Science subject, and two (2) other subjects; OR Health Sciences Certificate (MQF Level 3) with 2.00 CGPA; OR SKM Level 3 in related fields and SPM with one (1) Credit; OR Community College Certificate (MQF Level 3) in related fields and SPM with one (1) Credit; OR Polytechnic Certificate (MQF Level 3) in related fields with 2.00 CGPA; OR MARA Skills Institute Certificate (MQF Level 3) in related fields with 2.00 CGPA; OR UEC with Grade B in three (3) subjects; OR Other qualifications recognized as equivalent by the Government of Malaysia."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +56,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Medical Laboratory Technology",
   "program_name_zh": "Medical Laboratory Technology文凭",
   "field_ar": "تقنية المعلومات",

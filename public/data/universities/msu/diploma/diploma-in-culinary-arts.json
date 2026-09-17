@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 13680,
-    "per_year": 3000,
-    "notes": "Local: RM27,000.00; International: RM57,355.00 (per_year based on 3.0yr duration)"
+    "total": 57355,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,355. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0008601/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "Pass SPM with 3 credits; Certificate from Polytechnic/higher learning institution; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government.  "
+    "general": "SPM or equivalent with minimum 3 credits; OR SPM with minimum 1 credit and SKM Level 3; OR Recognised certificate in related field (Level 3, MQF); OR Pass certificate (Level 3, MQF) from PTPL/Polytechnic/IKM in related field; OR Pass UEC with at least Grade B in 3 subjects; OR Pass O-Level with at least Grade C in 3 subjects; OR Pass SKM Level 3 in related field and pass SPM with at least 1 credit; OR Pass certificate from Kolej Komuniti (Level 3, MQF) in related field and pass SPM with at least 1 credit; OR Pass STPM or equivalent with at least Grade C (CGPA 2.00) in 1 subject; OR Pass STAM (Maqbul level); OR Any other equivalent qualification recognised by the Malaysian Government."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +56,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Culinary Arts",
   "program_name_zh": "Culinary Arts文凭",
   "field_ar": "الفنون",

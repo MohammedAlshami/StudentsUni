@@ -8,14 +8,15 @@
   "duration": "1 year (FT) / 2 years (PT)",
   "mode": "Flexible",
   "intakes": [
+    "Feb",
     "Jun",
-    "Nov"
+    "Oct"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33800.0,
-    "per_year": 16900,
-    "notes": "From StudyMalaysia: RM17,800 (FT) , RM18,700 (PT)"
+    "total": 33800,
+    "per_year": null,
+    "notes": "CPSR Postgraduate Fee Calendar 2026 (full-time international, inclusive of 6% SST): estimated total RM33,800. Source: https://cpsr.tarc.edu.my/programmes/programme-fees (updated June 2026; accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -34,10 +35,13 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://cpsr.tarc.edu.my/programmes/by-coursework/faculty-of-built-environment/master-of-science-in-construction-contract-management",
+    "https://cpsr.tarc.edu.my/programmes/programme-fees",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Construction Contract Management",
   "program_name_zh": "Science in Construction Contract Management硕士",
   "field_ar": "العمارة",

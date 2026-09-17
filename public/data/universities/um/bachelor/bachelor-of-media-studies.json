@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 6510,
-    "per_year": 1860,
-    "notes": "Based on RM930/semester from StudyMalaysia (local)."
+    "total": 68100,
+    "per_year": 19457,
+    "notes": "International tuition RM68,100 total for the programme; per_year derived (RM19,457 = total / 3.5 years). Source: UM International Booklet 2025/26 (updated 15 Dec 2025), https://study.um.edu.my/doc/booklets/International%20Booklet%20-%20Updated%2015%20Dec%202025.pdf, accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -30,10 +30,15 @@
       "url": "https://studymalaysia.com/what/course/UM/0000321/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://study.um.edu.my/doc/booklets/International%20Booklet%20-%20Updated%2015%20Dec%202025.pdf",
+      "publisher": "Universiti Malaya",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Media Studies",
   "program_name_zh": "Media Studies学士",
   "field_ar": "الاتصالات",

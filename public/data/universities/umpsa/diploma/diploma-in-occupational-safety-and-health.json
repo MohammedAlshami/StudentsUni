@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 11700,
-    "per_year": 3900,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 35005,
+    "per_year": 11668,
+    "notes": "UMPSA official international diploma fee schedule (2025/2026 intake onwards): total programme fee RM35,005 (Diploma Non-Engineering (Computer Science/Applied Science)). Tuition estimate for minimum duration; entrance fee RM1,155 and miscellaneous fees RM330/semester are charged separately. Source: https://bendahari.umpsa.edu.my/index.php/filelink/fileman-files/Students%20Finance%20Division/OPEN%20CHANNEL/10.%20PORTAL%20INTERNATIONAL%20UG_V2.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -27,10 +27,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/edu/ump/courses/",
-    "https://studymalaysia.com/what/course/UMP/0057703/"
+    "https://studymalaysia.com/what/course/UMP/0057703/",
+    "https://bendahari.umpsa.edu.my/index.php/filelink/fileman-files/Students%20Finance%20Division/OPEN%20CHANNEL/10.%20PORTAL%20INTERNATIONAL%20UG_V2.pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Occupational Safety and Health",
   "program_name_zh": "Occupational Safety and Health文凭",
   "field_ar": "الصحة",

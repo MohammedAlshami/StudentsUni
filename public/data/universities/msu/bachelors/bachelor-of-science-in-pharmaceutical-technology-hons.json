@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 138635.0,
-    "per_year": 23200,
-    "notes": "Local: RM81,200.00; International: RM138,635.00 (per_year based on 3.5yr duration)"
+    "currency": "MYR",
+    "total": 138635,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM138,635. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0056519/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "STPM / Matriculation / A-Level / Pre-University / Foundation C (2.50 CGPA) in Biology/Physics and Chemistry SPM or equivalent CREDIT or equivalent in five (5) subjects including three (3) from Biology, Physics, Mathematics, Chemistry, English Diploma (MQF Level 4) in a related field 2.50 CGPA; CGPA below 2.50 may be supported by at least two (2) years (24 months) working experience in a relevant field South Australia Matriculation (SAM) At least 65-70% of the aggregate or TER / UAI 75 Canadian Pre-University (CPU) At least 80% aggregate Unified Examination Certificate (UEC) Grade B in five (5) subjects Other qualifications recognized as equivalent by the Government of Malaysia."
   },
   "accreditation": {
     "mqa_status": null,
@@ -41,7 +42,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science in Pharmaceutical Technology (Hons)",
   "program_name_zh": "Science in Pharmaceutical Technology (Hons)学士",
   "field_ar": "تقنية المعلومات",

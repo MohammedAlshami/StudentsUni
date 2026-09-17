@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17225,
-    "per_year": 4306,
-    "notes": ""
+    "total": 83800,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM83,800 (inclusive of 6% SST). Source: https://fobe.tarc.edu.my/programmes/bachelors-degree/bachelor-of-quantity-surveying-honours (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -45,10 +45,12 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://fobe.tarc.edu.my/programmes/bachelors-degree/bachelor-of-quantity-surveying-honours",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Quantity Surveying (Honours)",
   "program_name_zh": "Quantity Surveying (Honours)学士",
   "field_ar": "العمارة",

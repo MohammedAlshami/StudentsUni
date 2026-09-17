@@ -7,17 +7,17 @@
   "program_slug": "mba",
   "field": "Business Administration",
   "type": "coursework",
-  "duration": "48 months",
+  "duration": "3 Semesters",
   "mode": "full-time",
   "intakes": {
     "main": "September",
     "secondary": "February"
   },
   "fees": {
-    "currency": "MYR",
-    "total": 15528,
-    "per_year": 3882,
-    "notes": "From StudyMalaysia: 15530/Course (per_year based on 4.0yr duration)"
+    "currency": "USD",
+    "total": 8204.4,
+    "per_year": 5470,
+    "notes": "Official UMT postgraduate coursework international fee (Sem I 2025/2026): USD8,204.40 total for 3 semesters; per_year = total / 1.5 years (derived). Source: https://postgrad.umt.edu.my/wp-content/uploads/2025/08/YURAN-PENGAJIAN-PROGRAM-SARJANA-KERJA-KURSUS-SEM-I-2025.2026.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,12 +25,10 @@
   },
   "accreditation": "MQA/FA0392",
   "sources": [
-    "https://umt.my/all-programs-at-umt/",
-    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255",
-    "https://www.studymalaysia.com/edu/umt/courses/"
+    "https://postgrad.umt.edu.my/wp-content/uploads/2025/08/YURAN-PENGAJIAN-PROGRAM-SARJANA-KERJA-KURSUS-SEM-I-2025.2026.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration",
   "program_name_zh": "Business Administration硕士",
   "field_ar": "إدارة الأعمال",

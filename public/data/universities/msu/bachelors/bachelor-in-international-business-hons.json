@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22665,
-    "per_year": 4733,
-    "notes": "Local: RM42,600.00; International: RM86,285.00 (per_year based on 3.0yr duration)"
+    "total": 86285,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM86,285. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0003085/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "Credit in Bahasa Melayu at SPM level AND at least TWO (2) C’s or 2.00 CGPA at STPM level including Pengajian Am (General Studies); OR THREE (3) A-levels; OR MSU Foundation Certificate; OR MSU Diploma in a relevant field with minimum 2.00 CGPA; OR equivalent qualification recognised by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس International Business (Hons)",
   "program_name_zh": "International Business (Hons)学士",
   "field_ar": "إدارة الأعمال",

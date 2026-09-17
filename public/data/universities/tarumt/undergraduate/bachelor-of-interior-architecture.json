@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19435,
-    "per_year": 6478,
-    "notes": ""
+    "total": 80900,
+    "per_year": null,
+    "notes": "TAR UMT official programme page: estimated total international fees RM80,900 (inclusive of 6% SST). Source: https://fobe.tarc.edu.my/programmes/bachelors-degree/bachelor-of-interior-architecture-honours (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -50,10 +50,12 @@
       "url": "https://www.easyuni.my/malaysia/tunku-abdul-rahman-university-of-management-and-technology-tar-umt-12993/bachelor-of-interior-architecture-honours-292910/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://fobe.tarc.edu.my/programmes/bachelors-degree/bachelor-of-interior-architecture-honours",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Interior Architecture (Honours)",
   "program_name_zh": "Interior Architecture (Honours)学士",
   "field_ar": "العمارة",

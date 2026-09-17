@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 15000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 22360,
+    "per_year": 7453,
+    "notes": "UMPSA IPS official international fee (Master of Science - Research Mode, conventional full-time): RM22,360 minimum per programme. Other methods (remote RM24,070 / industry) differ. Source: https://ips.umpsa.edu.my/index.php/en/ips-offer/fees (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -26,10 +26,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/edu/ump/courses/",
-    "https://studymalaysia.com/what/course/UMP/0003314/"
+    "https://studymalaysia.com/what/course/UMP/0003314/",
+    "https://ips.umpsa.edu.my/index.php/en/ips-offer/fees"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "research_areas": "Electrical Power",
   "program_name_ar": "ماجستير Engineering (Electrical)",
   "program_name_zh": "Engineering (Electrical)硕士",

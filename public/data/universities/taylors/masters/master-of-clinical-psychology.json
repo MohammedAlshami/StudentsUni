@@ -10,16 +10,13 @@
   "mode": "Full Time",
   "intakes": [
     "Apr",
-    "Feb",
-    "Jun",
-    "Nov",
     "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 22500,
-    "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": 86787,
+    "per_year": 43394,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 22,839. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/postgraduate/taylors-fees-schedule-pg-master-of-clinical-psychology-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +24,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/master-coursework/master-of-clinical-psychology.html"
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/master-coursework/master-of-clinical-psychology.html",
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/school-of-liberal-arts-and-sciences/postgraduate/taylors-fees-schedule-pg-master-of-clinical-psychology-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.5,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Clinical Psychology",
   "program_name_zh": "Clinical Psychology硕士",
   "field_ar": "الفنون",

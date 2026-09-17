@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17057,
-    "per_year": 4623,
-    "notes": "Local: RM27,000.00; International: RM57,535.00 (per_year based on 2.4166666666666665yr duration)"
+    "total": 57535,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,535. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0005996/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "Pass SPM/SPMV with 3 credits in any subject, preference given to students with credit in Maths and Science; Business Management Certificate from PTPL and pass all the subjects; Certificate from Polytechnic, IPTA and other qualification recognised by College Academic Board; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
+    "general": "A pass in SPM with a minimum of three (3) credits in any subject, or its equivalent; A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GP 2.00) in any subject, or its equivalent; A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul in any subject, or its equivalent; A pass in SKM level 3 in a related field; OR A Certificate (Level 3, MQF) in a related field or its equivalent."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +56,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Tourism Management",
   "program_name_zh": "Tourism Management文凭",
   "field_ar": "إدارة الأعمال",

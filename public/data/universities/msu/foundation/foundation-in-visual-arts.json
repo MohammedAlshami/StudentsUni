@@ -14,13 +14,14 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 20150,
-    "per_year": 18600,
-    "notes": "Local: RM18,600.00; International: RM28,245.00 (per_year based on 1.0yr duration)"
+    "total": 28245,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM28,245. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0058477/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+    "other_qualifications": "High school completion",
+    "general": "You need at least FIVE (5) Credits at SPM/SPMV level OR an equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -49,7 +50,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Visual Arts",
   "program_name_zh": "Visual Arts预科",
   "field_ar": "الفنون",

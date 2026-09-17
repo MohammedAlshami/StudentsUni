@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 6400,
-    "per_year": 1600,
-    "notes": "Fee data from StudyMalaysia."
+    "total": null,
+    "per_year": null,
+    "notes": "Not one of the international programmes listed on UniMAP's official admission portal (34 bachelor's programmes open to international applicants); no published international fee. Source: https://admission.unimap.edu.my/international.php"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -29,10 +29,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/what/course/UNIMAP/0058296/",
-    "https://www.studymalaysia.com/edu/unimap/courses/"
+    "https://www.studymalaysia.com/edu/unimap/courses/",
+    "https://admission.unimap.edu.my/international.php"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Technology in Industrial Electronic Automation (Hons)",
   "program_name_zh": "Technology in Industrial Electronic Automation (Hons)学士",
   "field_ar": "الهندسة",

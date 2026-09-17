@@ -58,15 +58,30 @@
       "url": "https://www.studymalaysia.com/edu/mmu/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://www.mmu.edu.my/wp-content/uploads/2026/06/2026-Pricing-30-JUNE-2026-UPDATE-PG-Fee-Structure-International-Update-21-04-2026.pdf",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://www.mmu.edu.my/fee-structure-international/",
+      "publisher": "Multimedia University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 105000,
-    "international_total": null,
+    "international_total": 6150,
     "per_year_local": 35000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    "per_year_international": 4500,
+    "notes": "Verified international tuition from Multimedia University official 2026 sources: total from RM6,150 to RM104,000 across 77 programmes; values shown are the lowest totals. Sources: https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf; https://www.mmu.edu.my/wp-content/uploads/2026/06/2026-Pricing-30-JUNE-2026-UPDATE-PG-Fee-Structure-International-Update-21-04-2026.pdf; https://www.mmu.edu.my/fee-structure-international/"
   }
 }

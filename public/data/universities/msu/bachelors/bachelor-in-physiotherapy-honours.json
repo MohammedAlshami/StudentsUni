@@ -13,10 +13,10 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 90000,
-    "per_year": "RM30,000-RM35,000",
-    "notes": "Estimated based on typical MSU health science programme fees"
+    "currency": "MYR",
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: programme is not listed with an international fee on StudyMalaysia and MSU official pages publish Malaysian fees only. Source: https://www.msu.edu.my (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -46,7 +46,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Physiotherapy (Honours)",
   "program_name_zh": "Physiotherapy (Honours)学士",
   "field_ar": "الطب",

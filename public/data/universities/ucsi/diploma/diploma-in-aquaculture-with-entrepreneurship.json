@@ -7,28 +7,29 @@
   "duration": "2 Years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 67039,
-    "per_year": 67039,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 85507,
+    "per_year": null,
+    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-aquaculture-entrepreneurship), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "english_requirement": "IELTS 5.0 or TOEFL iBT 35",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0055410/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/"
+    "https://www.studymalaysia.com/edu/ucsi/courses/",
+    "https://www.ucsiuniversity.edu.my/programmes/diploma-aquaculture-entrepreneurship"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Aquaculture with Entrepreneurship",
   "program_name_zh": "Aquaculture with Entrepreneurship文凭",
   "field_ar": "تقنية المعلومات",

@@ -17,9 +17,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 65999,
-    "per_year": 18857,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "City University Malaysia does not publish an international fee schedule; the latest fee structure is issued by the International Marketing Office on request. Previous value was an unverified estimate and has been removed. Source: https://city.edu.my/admission-scholarships/international-students/, accessed 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -29,10 +29,11 @@
   },
   "accreditation": "MQA",
   "sources": [
-    "https://www.city.edu.my"
+    "https://www.city.edu.my",
+    "https://city.edu.my/admission-scholarships/international-students/"
   ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "confidence": 0.5,
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Accountancy (Honours)",
   "program_name_zh": "Accountancy (Honours)学士",
   "field_ar": "المحاسبة",

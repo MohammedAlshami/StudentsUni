@@ -13,14 +13,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 25847,
-    "per_year": 5766,
-    "notes": "Local: RM51,900.00; International: RM94,535.00 (per_year based on 3.0yr duration)"
+    "total": 94535,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM94,535. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0008605/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "Credit in any THREE (3) subjects at SPM/SPMV level and a Pass in Science and Mathematics; Pass Certificate recognized by the Ministry of Health’s Department of Traditional & Contemporary Medicine (T&CM) plus one year working experience in a relevant field; PTPL Certificate in a relevant field; Other equivalent qualifications recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -49,7 +50,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Traditional Chinese Medicine",
   "program_name_zh": "Traditional Chinese Medicine文凭",
   "field_ar": "الطب",

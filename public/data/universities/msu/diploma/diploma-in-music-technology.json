@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 31860,
-    "per_year": 7633,
-    "notes": "Local: RM40,000.00; International: RM69,345.00 (per_year based on 3.0yr duration)"
+    "total": 69345,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM69,345. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0055276/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "THREE (3) Credits at SPM level; An equivalent qualification recognized by MSU Senate."
+    "general": "At least THREE (3) Credits at SPM level; OR an equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +56,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Music Technology",
   "program_name_zh": "Music Technology文凭",
   "field_ar": "تقنية المعلومات",

@@ -14,12 +14,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30538,
-    "per_year": 16491,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 99017,
+    "per_year": 33006,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 26,057. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/postgraduate/taylors-fees-schedule-pg-doctor-of-business-administration-usd.pdf (accessed 2026-09-18). per_year = total / 3yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 or TOEFL 95",
+    "english_requirement": "IELTS 6.0 (or equivalent English qualification)",
     "other_qualifications": "Master degree with research experience"
   },
   "accreditation": null,
@@ -35,10 +35,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/taylors-business-school/postgraduate/taylors-fees-schedule-pg-doctor-of-business-administration-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Business Administration (DBA)",
   "program_name_zh": "Business Administration (DBA)博士",
   "field_ar": "إدارة الأعمال",

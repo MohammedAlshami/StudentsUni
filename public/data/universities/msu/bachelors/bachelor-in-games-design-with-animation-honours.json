@@ -14,15 +14,16 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22820,
-    "per_year": 4666,
-    "notes": "Local: RM42,000.00; International: RM86,780.00 (per_year based on 3.0yr duration)"
+    "total": 86780,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM86,780. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0004674/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "THREE (3) C’s at STPM level including in Pengajian Am / Kertas Am (General Studies / General Paper) and a Credit each in Bahasa Malaysia or Bahasa Melayu Silibus X / Bahasa Malaysia II at SPM/SPMV level; OR an MSU or a PTPL Diploma in a relevant field; OR an MSU Foundation Certificate; OR an equivalent qualification recognized by MSU Senate."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +57,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Games Design with Animation (Honours)",
   "program_name_zh": "Games Design with Animation (Honours)学士",
   "field_ar": "الفنون",

@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 34920,
-    "per_year": 34920,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 35600,
+    "per_year": null,
+    "notes": "UniMAP CGS official International Research Student Fee Structure (April 2023): grand total RM35,600 for 6 semesters (full-time), including tuition, service, registration fees and RM2,000 personal bond. Source: https://cgs.unimap.edu.my/v2/FEES/International%20APRIL%202023.pdf"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -27,10 +27,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/what/course/UniMAP/0054435/",
-    "https://www.studymalaysia.com/edu/unimap/courses/"
+    "https://www.studymalaysia.com/edu/unimap/courses/",
+    "https://cgs.unimap.edu.my/v2/FEES/International%20APRIL%202023.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Ph.D.(Engineering Mathematics)",
   "program_name_zh": "Ph.D.(Engineering Mathematics)",
   "field_ar": "الهندسة",

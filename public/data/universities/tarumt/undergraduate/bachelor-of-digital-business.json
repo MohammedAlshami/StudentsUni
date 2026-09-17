@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 36900,
-    "per_year": 12300,
-    "notes": ""
+    "total": null,
+    "per_year": null,
+    "notes": "TAR UMT 2026 International Student Fees Guide lists Faculty of Accountancy, Finance and Business Bachelor Degree estimated total international fees RM73,500–76,600 (inclusive of 6% SST); exact programme fee is not published on the programme page. Source: https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf (updated April 2026; accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -35,10 +35,12 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://fafb.tarc.edu.my/programmes/bachelors-degree/digital-business",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": 0.85,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Digital Business (Honours)",
   "program_name_zh": "Digital Business (Honours)学士",
   "field_ar": "إدارة الأعمال",

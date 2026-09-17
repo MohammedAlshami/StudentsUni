@@ -14,15 +14,15 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21130,
-    "per_year": 4066,
-    "notes": "Local: RM36,600.00; International: RM80,445.00 (per_year based on 3.0yr duration)"
+    "total": 80445,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM80,445. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0008597/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
+    "a_level": null,
     "other_qualifications": "High school completion",
-    "general": "Pass SPM or its equivalent with 3 credits in any subjects including Biology, Chemistry and Mathematics; Health Science Certificate from PTPL with minimum 2.0 CGPA; Certificate in related field from IPTA with minimum CGPA of 2.0; Pass Unified Examination Certificate (UEC) with at least grade B in 3 subjects; Other equivalent qualification recognised by Malaysian Government."
+    "general": "SPM/equivalent: Five (5) credits including Malay, English, Mathematics, one Science subject (Biology / Physics / Chemistry / General Science / Applied Science), and one other subject. GCE O-Level/equivalent: Grade C in English, Mathematics, one Science subject, and two other subjects. MQF Level-3 Certificate (Health Sciences): Minimum CGPA 2.75. MQF Level-3 Polytechnic Certificate (related fields): Minimum CGPA 2.00. SKM Level-3 (related fields): SPM with one (1) Credit and consolidation programme where necessary. MARA Skills Institute Certificate (MQF Level-3): Minimum CGPA 2.00. UEC: Grade B in three (3) subjects. Other qualifications: Recognised as equivalent by the Government of Malaysia."
   },
   "accreditation": {
     "mqa_status": null,
@@ -56,7 +56,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Medical Sciences",
   "program_name_zh": "Medical Sciences文凭",
   "field_ar": "الطب",

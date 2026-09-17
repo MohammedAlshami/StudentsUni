@@ -13,16 +13,17 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 654475,
-    "per_year": 79000,
-    "notes": "Local: RM395,000.00 (per_year based on 5.0yr duration)"
+    "currency": "MYR",
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: programme is not listed with an international fee on StudyMalaysia and MSU official pages publish Malaysian fees only. Source: https://www.msu.edu.my (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "a_level": null,
+    "ib": null,
+    "other_qualifications": null,
+    "general": "All applicants from Matriculation, Foundation or Pre-Medical programmes, except those with a degree qualification, STPM or A-Level, shall have passed and attained a minimum of the following at School Certificate Level or equivalent: SPM: Five (5) Bs, one in each of the following subjects: Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and one other subject; or GCE O-Level: Five (5) Bs, one in each of the following subjects: Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and one other subject; or UEC: Minimum of B4 in each of three (3) subjects: Biology, Chemistry, and Physics or Mathematics or Additional Mathematics. All applicants shall have passed and attained a minimum of the following: A. At Higher School Certificate Level or equivalent STPM: Grades BBB, ABC or AAC, or CGPA 3.0 (out of 4.0), in three (3) subjects: Biology, Chemistry, and Physics or Mathematics. GCE A-Level: Grades BBB, ABC or AAC in three (3) subjects: Biology, Chemistry, and Physics or Mathematics. Matriculation / Foundation in Science / Pre-Medical Course: CGPA 3.0 (out of 4.0) in three (3) subjects: Biology, Chemistry, and Physics or Mathematics, provided that: No score for any subject is less than C (GPA 2.0); The course is not less than one (1) year and is completed at the same accredited institution; and The minimum entry qualification is five (5) Bs, one in each of the following subjects: Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and one other subject at School Certificate Level or equivalent. UEC: Minimum of B4 in each of five (5) subjects: Biology, Chemistry, Physics, Mathematics and Additional Mathematics. Monash University Foundation Year (MUFY) / University of New South Wales (UNSW) Foundation / Western Australia Curriculum Council / HSC Sydney Australia / Trinity College Foundation Studies / Australian Universities Foundation Programmes / South Australian Matriculation (SAM) / Victorian Certificate of Education, Australia, Year 12 / Australian Matriculation (AUSMAT): Aggregate or equivalent of B in three (3) subjects: Biology, Chemistry, and Physics or Mathematics; or an ATAR of 80%, provided that the subjects include Biology, Chemistry, and Physics or Mathematics. National Certificate of Educational Achievement (NCEA) Level 3 / New Zealand Bursary: Average of 80% in three (3) subjects: Biology, Chemistry, and Physics or Mathematics. Canadian Pre-University (CPU) / Canadian International Matriculation Programme (CIMP) / Canadian Grade 12/13 / Ontario Secondary School Diploma Grade 12: Average of 80% in three (3) subjects: Biology, Chemistry, and Physics or Mathematics. Indian Pre-University: Obtain an Eligibility Certificate from the National Medical Commission of India, pass the NEET examination, and attain an average of 70% in three (3) subjects: Biology, Chemistry, and Physics or Mathematics. International Baccalaureate (IB): Minimum overall score of 33 points, with two (2) science subjects—Biology and Chemistry—at Higher Level (HL), Mathematics at HL, and a minimum score of five (5) in each of Biology, Chemistry and Mathematics. *NEET – National Eligibility cum Entrance Test. **The NEET is required for Indian citizens who wish to work in India. ***Applicants who do not intend to work as medical practitioners in India must provide a signed letter of undertaking witnessed by a lawyer or Commissioner for Oaths. The letter must clearly state that they will not seek registration with the National Medical Commission of India. *The International Baccalaureate requirement is effective from January 2024. B. At Diploma Level Diploma in Health Sciences: CGPA 3.5 (out of 4.0), provided that: The course is not less than five (5) semesters or two and a half (2½) years; The course is completed at the same accredited institution; and At SPM, O-Level or equivalent, the applicant attained a minimum of: Two (2) Bs in any two of the following subjects: Biology, Chemistry or Physics; and Three (3) credits, one in each of the following subjects: English, Mathematics or Additional Mathematics, and one other subject. C. At Bachelor’s Degree Level Degree in Health, Pure or Applied Sciences: CGPA 3.0 (out of 4.0). Applicants shall be required to undergo an aptitude test, interview and/or university entrance examination. Graduates from a medical programme who seek employment in the public sector must fulfil the criteria set by the Public Services Commission of Malaysia (SPA). Clarification shall be sought from the Council in situations for which there are no provisions in this guideline. Applicants must fulfil the English proficiency requirement through MUET or its equivalent for local candidates, or IELTS/TOEFL for international candidates."
   },
   "accreditation": {
     "mqa_status": null,
@@ -46,7 +47,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medicine and Bachelor in Surgery (MBBS), India",
   "program_name_zh": "Medicine and Bachelor in Surgery (MBBS), India学士",
   "field_ar": "General",

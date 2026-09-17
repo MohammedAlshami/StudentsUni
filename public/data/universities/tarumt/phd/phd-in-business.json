@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22400.0,
-    "per_year": 7467,
-    "notes": "From StudyMalaysia: RM15,200 (FT) RM16,200 (PT)"
+    "total": 32700,
+    "per_year": null,
+    "notes": "CPSR Postgraduate Fee Calendar 2026 (full-time international, inclusive of 6% SST): estimated total RM32,700. Source: https://cpsr.tarc.edu.my/programmes/programme-fees (updated June 2026; accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -35,10 +35,13 @@
       "url": "https://www.tarc.edu.my/intfees/international-student-fees-guide-for-year-2026-intakes/",
       "publisher": "TAR UMT",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://cpsr.tarc.edu.my/programmes/by-research/faculty-of-accountancy-finance-and-business/doctor-of-philosophy-in-business",
+    "https://cpsr.tarc.edu.my/programmes/programme-fees",
+    "https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Business",
   "program_name_zh": "哲学博士 in Business",
   "field_ar": "إدارة الأعمال",

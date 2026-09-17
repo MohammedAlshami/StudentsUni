@@ -10,16 +10,16 @@
   "mode": "Full-time",
   "intakes": {
     "main": "September",
-    "secondary": null
+    "secondary": "February/March"
   },
   "fees": {
     "currency": "MYR",
-    "total": 22800,
-    "per_year": 5700,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 36100,
+    "per_year": null,
+    "notes": "International total for the whole programme excluding SST, personal bond and hostel (UTHM official 2026/27 fee schedule, programme code BDM: https://bendahari.uthm.edu.my/index.php/perkhidmatan/yuran-pengajian, retrieved 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.0 or TOEFL iBT 65 or MUET Band 2",
     "a_level": "2 Principals (C+)",
     "ib": "24 points",
     "other_qualifications": "Equivalent qualification"
@@ -27,10 +27,12 @@
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UTHM/0057639/",
-    "https://www.studymalaysia.com/edu/uthm/courses/"
+    "https://www.studymalaysia.com/edu/uthm/courses/",
+    "https://bendahari.uthm.edu.my/index.php/perkhidmatan/yuran-pengajian",
+    "https://io.uthm.edu.my/admission/tuition-fees"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Aeronautics Engineering Technology (Aeroplane Maintenance)(Hons)",
   "program_name_zh": "Aeronautics Engineering Technology (Aeroplane Maintenance)(Hons)学士",
   "field_ar": "الهندسة",

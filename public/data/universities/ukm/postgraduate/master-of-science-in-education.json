@@ -4,7 +4,7 @@
   "level": "postgraduate",
   "program_name": "Master of Science in Education",
   "field": "Education",
-  "duration": "1.5 years",
+  "duration": "2 Semesters",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 60000,
-    "per_year": 15000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 25910,
+    "per_year": 25910,
+    "notes": "International (UKMi) tuition per UKMShape fee schedule 2024/2025: RM25,910 total (incl. first-semester registration) for 2 semesters; per_year = total / 1 years (derived). mapped to the Faculty of Education Master (Full Research) rate; coursework Master of Education is priced separately. Source: https://shape.ukm.my/storage/lampiran/struktur_yuran/FPEND/pasca/strukturyuran_FPEND_UKMi_pasca_F_int.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,10 +25,10 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.ukm.my/portal/postgraduate-programme/"
+    "https://shape.ukm.my/storage/lampiran/struktur_yuran/FPEND/pasca/strukturyuran_FPEND_UKMi_pasca_F_int.pdf"
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Education",
   "program_name_zh": "Science in Education硕士",
   "field_ar": "التربية والتعليم",

@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 2700,
-    "per_year": 900,
-    "notes": "Fee data from StudyMalaysia."
+    "total": null,
+    "per_year": null,
+    "notes": "UniMAP's official international admission portal lists bachelor's programmes only; no published international fee for this diploma. Source: https://admission.unimap.edu.my/international.php"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,10 +28,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/what/course/UNIMAP/0058936/",
-    "https://www.studymalaysia.com/edu/unimap/courses/"
+    "https://www.studymalaysia.com/edu/unimap/courses/",
+    "https://admission.unimap.edu.my/international.php"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Mechanical Engineering Technology",
   "program_name_zh": "Mechanical Engineering Technology文凭",
   "field_ar": "الهندسة",

@@ -13,15 +13,16 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 57355.0,
-    "per_year": 11600,
-    "notes": "Local: RM29,000.00; International: RM57,355.00 (per_year based on 2.5yr duration)"
+    "currency": "MYR",
+    "total": 57355,
+    "per_year": null,
+    "notes": "StudyMalaysia course page: international fees RM57,355. MSU official programme pages publish Malaysian fees only; no official international fee schedule available. Source: https://studymalaysia.com/what/course/MSU/0055275/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "a_level": null,
+    "other_qualifications": "High school completion",
+    "general": "THREE (3) Credits at SPM level; OR PTPL Certificate; AND Pass MSU’s colour test and interview."
   },
   "accreditation": {
     "mqa_status": null,
@@ -40,7 +41,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Hairdressing",
   "program_name_zh": "Hairdressing文凭",
   "field_ar": "الفنون",

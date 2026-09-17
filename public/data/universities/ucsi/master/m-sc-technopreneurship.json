@@ -4,18 +4,18 @@
   "level": "master",
   "program_name": "M.Sc. Technopreneurship",
   "field": "Technopreneurship",
-  "duration": "1-3 Years",
+  "duration": "1 year (3 semesters) for full-time (minimum) / 3 years (9 semesters) for part-time (maximum)",
   "mode": "Full-time/Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 54575,
-    "per_year": 54575,
-    "notes": "Fee data from StudyMalaysia."
+    "total": 59453,
+    "per_year": null,
+    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/msc-technopreneurship), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 61,806."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,10 +24,11 @@
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/UCSI/0008896/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/"
+    "https://www.studymalaysia.com/edu/ucsi/courses/",
+    "https://www.ucsiuniversity.edu.my/programmes/msc-technopreneurship"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "M.Sc. Technopreneurship",
   "program_name_zh": "M.Sc. Technopreneurship",
   "field_ar": "Technopreneurship",

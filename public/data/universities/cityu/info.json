@@ -41,15 +41,16 @@
   ],
   "established": 1984,
   "sources": [
-    "https://www.city.edu.my"
+    "https://www.city.edu.my",
+    "https://city.edu.my/admission-scholarships/international-students/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 66000,
     "international_total": null,
     "per_year_local": 22000,
     "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "No public international fee schedule; latest fee structure is issued by the International Marketing Office on request. Estimates removed from programme files."
   }
 }

@@ -6,7 +6,7 @@
   "slug": "master-of-global-hospitality-management",
   "program_slug": "master-of-global-hospitality-management",
   "field": "Hospitality and Tourism",
-  "duration": "3 years",
+  "duration": "2 years",
   "mode": "Online",
   "intakes": [
     "Apr",
@@ -17,9 +17,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 45671,
+    "per_year": 22836,
+    "notes": "Taylor's official 2026 international fee schedule (September 2026 intake); total inclusive of 6% SST, published USD equivalent USD 12,019. Includes refundable International Security Deposit RM3,000. Source: https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/online-postgraduate-programme/taylors-fees-schedule-online-postgraduate-programme-usd.pdf (accessed 2026-09-18). per_year = total / 2yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/master-online/master-of-global-hospitality-management.html"
+    "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/master-online/master-of-global-hospitality-management.html",
+    {
+      "url": "https://university.taylors.edu.my/content/dam/taylorsrevamp/university/study/scholarships-and-financial-aid/fees-schedule/online-postgraduate-programme/taylors-fees-schedule-online-postgraduate-programme-usd.pdf",
+      "publisher": "Taylor's University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.5,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Global Hospitality Management (100% Online)",
   "program_name_zh": "Global Hospitality Management (100% Online)硕士",
   "field_ar": "تقنية المعلومات",

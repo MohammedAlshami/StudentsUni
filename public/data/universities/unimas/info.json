@@ -18,15 +18,17 @@
   "description": "Community-Driven University for a Sustainable World. Located in the heart of Borneo, UNIMAS is a prominent global player in empowering communities, nurturing creativity and pioneering innovation for a sustainable world.",
   "sources": [
     "https://www.unimas.my",
-    "https://www.studymalaysia.com/edu/unimas/courses/"
+    "https://www.studymalaysia.com/edu/unimas/courses/",
+    "https://www.global.unimas.my/admission/undergraduate",
+    "https://www.unimas.my/postgraduate-financial"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 4200,
-    "international_total": null,
+    "international_total": 19000,
     "per_year_local": 1400,
-    "per_year_international": null,
-    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    "per_year_international": 4620,
+    "notes": "Verified international student fees: published programme totals RM19,000-RM54,240; published per-year figures RM4,620-RM19,000 (MYR, before any separate service tax where noted). Some programmes have no published international fee (null). See individual programme files. Sources: https://www.global.unimas.my/admission/undergraduate; https://www.unimas.my/postgraduate-financial (accessed 2026-09-18)."
   }
 }
