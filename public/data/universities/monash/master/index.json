@@ -3,7 +3,7 @@
   "university_slug": "monash",
   "level": "master",
   "level_label": "Master's Degree",
-  "program_count": 11,
+  "program_count": 10,
   "programs": [
     {
       "slug": "master-of-communications-and-media-studies",
@@ -41,11 +41,6 @@
       "field": "Science"
     },
     {
-      "slug": "master-of-arts",
-      "name": "Master of Arts",
-      "field": "Arts & Social Sciences"
-    },
-    {
       "slug": "master-of-international-business",
       "name": "Master of International Business",
       "field": "Business"
@@ -63,10 +58,10 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 45000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 30000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "per_year_local": 48480,
+    "per_year_international": 54720,
+    "notes": "Monash Malaysia official 2026 fee schedule: master's-level international annual tuition RM54,720 (research); coursework full-course fees RM66,240-RM83,520. Lowest annual values shown. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   }
 }

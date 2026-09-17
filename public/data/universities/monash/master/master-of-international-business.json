@@ -4,42 +4,32 @@
   "level": "master",
   "program_name": "Master of International Business",
   "field": "Business",
-  "duration": "2 years",
+  "duration": "1-2 years (full-time) / 2-4 years (part-time)",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Feb"
+    "February",
+    "July"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 36000,
-    "per_year": "RM62,423 per course",
-    "notes": null
+    "total": 74160,
+    "per_year": null,
+    "notes": "Monash Malaysia official 2026 fee schedule (international, full course fee); Malaysian RM64,800. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Australian bachelor's degree (or equivalent) with minimum credit 57.5% average (2-year entry level); cognate degree with credit average (1.5 years); cognate honours degree with credit average (1 year)"
   },
   "accreditation": {
     "mqa_status": "Accredited",
     "mqa_ref": null
   },
   "sources": [
-    "https://www.monash.edu.my/study/postgraduate-and-research/business",
-    "https://www.studymalaysia.com/what/course/MONASH/0000891/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/postgraduate-and-research/business/master-international-business",
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير International Business",
   "program_name_zh": "International Business硕士",
   "field_ar": "إدارة الأعمال",

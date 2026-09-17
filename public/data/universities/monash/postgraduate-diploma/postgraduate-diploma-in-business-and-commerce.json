@@ -7,38 +7,28 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "Jul"
+    "July"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 46560,
-    "per_year": "RM40,386 per year",
-    "notes": null
+    "total": null,
+    "per_year": 48000,
+    "notes": "Monash Malaysia official 2026 fee schedule (international, per year); Malaysian RM42,240. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Australian undergraduate degree (or equivalent) with distinction (70%) average or above in 24 points of level three studies in a relevant business area, or a postgraduate degree in a relevant business area with minimum 60% average"
   },
   "accreditation": {
     "mqa_status": "Accredited",
     "mqa_ref": null
   },
   "sources": [
-    "https://www.monash.edu.my/study/postgraduate-and-research/business",
-    "https://www.studymalaysia.com/what/course/MONASH/0053629/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/postgraduate-and-research/business/diploma-business-commerce",
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Postgraduate Diploma in Business and Commerce",
   "program_name_zh": "Postgraduate Diploma in Business and Commerce",
   "field_ar": "إدارة الأعمال",

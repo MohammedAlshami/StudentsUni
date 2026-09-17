@@ -4,23 +4,22 @@
   "level": "bachelor",
   "program_name": "Bachelor of Medical Science (Honours)",
   "field": "Medicine & Health Sciences",
-  "duration": "1 year (Honours year)",
+  "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
     "February",
-    "July"
+    "July",
+    "November"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 50295,
-    "per_year": "RM50,295 per year",
-    "notes": null
+    "total": null,
+    "per_year": 60000,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM50,400/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Open to eligible medical graduates who have completed the undergraduate medical program at Monash University; graduates of other universities considered case-by-case"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -28,10 +27,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-medical-science-honours",
-    "https://www.studymalaysia.com/what/course/MONASH/0053619/"
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medical Science (Honours)",
   "program_name_zh": "Medical Science (Honours)学士",
   "field_ar": "الطب",

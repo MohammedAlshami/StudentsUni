@@ -7,19 +7,17 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "Feb"
+    "February"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 48480,
-    "per_year": "RM42,446 per year",
-    "notes": null
+    "total": null,
+    "per_year": 49920,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM43,200/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Completed Australian bachelor's degree (or equivalent) with minimum overall WAM 75; distinction average (75%) in 24 credit points at level three; interview and dissertation proposal required (WAM 70-75 may be considered)"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -27,20 +25,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/arts-social-sciences/bachelor-arts-honours",
-    "https://www.studymalaysia.com/what/course/MONASH/0054346/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Arts (Honours)",
   "program_name_zh": "Arts (Honours)学士",
   "field_ar": "العلوم",

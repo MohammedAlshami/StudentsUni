@@ -5,44 +5,41 @@
   "program_name": "Master of Science in Finance",
   "program_slug": "master-of-science-in-finance",
   "field": "Business",
-  "duration": "1-4 years",
+  "duration": "2 - 3 years (Full-time) / 3 - 4 years (Part-time)",
   "mode": "Flexible Full-time/Part-time",
   "intakes": [
     "January",
-    "July",
     "September"
   ],
   "fees": {
     "currency": "MYR",
     "total": 16800,
-    "per_year": 3700,
-    "notes": " (per_year based on 4.0yr duration)"
+    "per_year": 8400,
+    "notes": "International student tuition: RM16,800 total. Source: https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-finance-by-research/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Postgraduate Fee Structure (Dec 2024). per_year = total / 2yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.5/TOEFL 4.5/MUET 4.5/Linguaskill 176",
+    "other_qualifications": "A Bachelor's degree in the field or related fields with minimum CGPA 2.75; or CGPA 2.50-2.75 with 5 years relevant work experience and rigorous internal assessment; or equivalent qualification; or APEL-A certification from MQA."
   },
   "accreditation": {
-    "mqa_code": null,
-    "status": "Accredited by MQA"
+    "mqa_status": "MQA accredited",
+    "mqa_ref": "R2/0412/7/0001 (06/27) (MQA/FA1234)"
   },
   "structure_type": "By Research (Structure A)",
   "sources": [
-    "https://www.uniten.edu.my/programme/postgraduate/",
-    "https://www.studymalaysia.com/what/course/UNITEN/0054332/",
     {
-      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-15T00:00:00+08:00"
+      "url": "https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-finance-by-research/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
     },
     {
-      "url": "https://www.easyuni.my/malaysia/universiti-tenaga-nasional-uniten-272/msc-in-finance-by-research-274786/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/n3qjdeqf/uniten-fee-structure-international-pg.pdf",
+      "publisher": "UNITEN International Postgraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Finance",
   "program_name_zh": "Science in Finance硕士",
   "field_ar": "إدارة الأعمال",

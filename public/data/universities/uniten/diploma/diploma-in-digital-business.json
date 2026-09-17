@@ -5,38 +5,42 @@
   "program_name": "Diploma in Digital Business",
   "program_slug": "diploma-in-digital-business",
   "field": "Business",
-  "duration": "2.5 years",
+  "duration": "2 years (Full-time)",
   "mode": "Full-time",
   "intakes": [
     "January",
-    "July",
+    "June",
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 28800,
-    "per_year": 11520,
-    "notes": " (per_year based on 2.5yr duration)"
+    "total": 28900,
+    "per_year": 14450,
+    "notes": "International student tuition: RM28,900 total. Source: https://www.uniten.edu.my/programme/diploma/diploma-in-digital-business/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 2yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
     "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "other_qualifications": "Pass SPM/O-Level with minimum Grade C in any 3 subjects; or UEC with minimum 3 subjects Grade B6; or STPM with minimum Grade C (CGPA 2.00) in any subject; or STAM with minimum MAQBUL; or SKM Level 3 in a related field; international applicants require a High School Certificate with minimum 50% and Grade C in Mathematics and English."
   },
   "accreditation": {
-    "mqa_code": null,
-    "status": "Accredited by MQA"
+    "mqa_status": "MQA accredited",
+    "mqa_ref": "N/0414/4/0021 (08/27) (MQA/PSA16049)"
   },
   "sources": [
-    "https://www.uniten.edu.my/programme/diploma/",
     {
-      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-15T00:00:00+08:00"
+      "url": "https://www.uniten.edu.my/programme/diploma/diploma-in-digital-business/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Digital Business",
   "program_name_zh": "Digital Business文凭",
   "field_ar": "إدارة الأعمال",

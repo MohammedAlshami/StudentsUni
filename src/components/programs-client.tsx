@@ -6,6 +6,7 @@ import { useSearchParams } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { ChevronLeft, ChevronRight, GraduationCap, Landmark, Search, SlidersHorizontal, Wallet } from "lucide-react";
 import { wrap, Label } from "@/components/marketing-ui";
+import { formatUsdRange } from "@/lib/fees";
 import type { ProgramLevelGroup } from "@/lib/program-catalog";
 
 export type CanonicalProgramRow = {
@@ -14,8 +15,8 @@ export type CanonicalProgramRow = {
   field: string;
   levels: ProgramLevelGroup[];
   universityCount: number;
-  feeMin: number | null;
-  feeMax: number | null;
+  feePerYearMin: number | null;
+  feePerYearMax: number | null;
 };
 
 const LEVEL_FILTER_VALUES = ["all", "foundation", "diploma", "bachelor", "master", "phd"] as const;
@@ -43,11 +44,6 @@ function pageNumbers(current: number, total: number): (number | "…")[] {
     result.push(p);
   });
   return result;
-}
-
-function formatFee(value: number | null): string | null {
-  if (!value) return null;
-  return `MYR ${Math.round(value).toLocaleString()}`;
 }
 
 export default function ProgramsClient({ programs }: { programs: CanonicalProgramRow[] }) {
@@ -136,8 +132,7 @@ export default function ProgramsClient({ programs }: { programs: CanonicalProgra
       <div className={`${wrap} py-[52px]`}>
         <div className="grid grid-cols-1 gap-[26px] sm:grid-cols-2 lg:grid-cols-3">
           {pageItems.map((p) => {
-            const feeMin = formatFee(p.feeMin);
-            const feeMax = formatFee(p.feeMax);
+            const feeRange = formatUsdRange(p.feePerYearMin, p.feePerYearMax, "MYR");
             return (
               <Link
                 key={p.slug}
@@ -164,10 +159,10 @@ export default function ProgramsClient({ programs }: { programs: CanonicalProgra
                       </span>
                     ))}
                   </div>
-                  {(feeMin || feeMax) && (
+                  {feeRange && (
                     <p className="mt-auto flex items-center gap-[6px] pt-[16px] text-[13px] text-black/55">
                       <Wallet size={13} className="text-[#285b50]" />
-                      {feeMin === feeMax || !feeMax ? feeMin : `${feeMin} – ${feeMax}`}
+                      {feeRange}
                     </p>
                   )}
                 </div>

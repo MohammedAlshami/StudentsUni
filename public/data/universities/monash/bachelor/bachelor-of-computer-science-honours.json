@@ -4,24 +4,21 @@
   "level": "bachelor",
   "program_name": "Bachelor of Computer Science (Honours)",
   "field": "Computing & IT",
-  "duration": "1 year (Honours year)",
+  "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
     "February",
-    "July",
-    "October"
+    "July"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 46200,
-    "per_year": "RM46,200 per year",
-    "notes": null
+    "total": null,
+    "per_year": 54240,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM46,560/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Successful completion of a relevant Australian bachelor's degree (or equivalent) with an average of at least 70% overall"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -29,10 +26,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/information-technology/bachelor-of-computer-science-honours",
-    "https://www.studymalaysia.com/what/course/MONASH/0057179/"
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Science (Honours)",
   "program_name_zh": "Computer Science (Honours)学士",
   "field_ar": "تقنية المعلومات",

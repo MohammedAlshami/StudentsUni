@@ -5,33 +5,41 @@
   "program_name": "Foundation in Engineering",
   "program_slug": "foundation-in-engineering",
   "field": "Engineering",
-  "duration": "1 year",
+  "duration": "1 year (Full-time)",
   "mode": "Full-time",
   "intakes": [
     "January",
-    "July",
+    "June",
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 6000,
-    "per_year": 6000,
-    "notes": " (per_year based on 1.0yr duration)"
+    "total": 21800,
+    "per_year": 21800,
+    "notes": "International student tuition: RM21,800 total. Source: https://www.uniten.edu.my/programme/foundation/foundation-in-engineering/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 1yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+    "english_requirement": "Test of English Proficiency (TEP) or English Short Course (ESC) required if English requirement is not met (UNITEN).",
+    "other_qualifications": "Pass SPM/O-Level with minimum 5 credits (Grade C) including Mathematics/Additional Mathematics, Physics and English; or UEC with minimum 3 subjects Grade B6 including English, Mathematics/Advanced Mathematics and Physics."
   },
   "accreditation": {
-    "mqa_code": null,
-    "status": "Accredited by MQA"
+    "mqa_status": "MQA accredited",
+    "mqa_ref": "R3/0011/3/0230 (06/28) (MQA/A9167)"
   },
   "sources": [
-    "https://www.uniten.edu.my/programme/foundation/",
-    "https://www.studymalaysia.com/edu/uniten/courses/"
+    {
+      "url": "https://www.uniten.edu.my/programme/foundation/foundation-in-engineering/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Engineering",
   "program_name_zh": "Engineering预科",
   "field_ar": "الهندسة",

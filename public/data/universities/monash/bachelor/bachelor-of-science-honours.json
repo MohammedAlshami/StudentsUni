@@ -7,20 +7,18 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Feb"
+    "February",
+    "July"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 58560,
-    "per_year": "RM51,135 per year",
-    "notes": null
+    "total": null,
+    "per_year": 60480,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM51,360/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Completed requirements for the Bachelor of Science at Monash or equivalent; distinction average (70%) or above in 24 points of relevant level three studies"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -28,20 +26,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/science/bachelor-science-honours",
-    "https://www.studymalaysia.com/what/course/MONASH/0054345/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Honours)",
   "program_name_zh": "Science (Honours)学士",
   "field_ar": "العلوم",

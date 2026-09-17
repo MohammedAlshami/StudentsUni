@@ -43,10 +43,10 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 105000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 35000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    "per_year_local": 48480,
+    "per_year_international": 54720,
+    "notes": "Monash Malaysia official 2026 fee schedule: PhD international tuition RM54,720 per year; Malaysian RM48,480 per year. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   }
 }

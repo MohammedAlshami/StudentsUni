@@ -4,41 +4,31 @@
   "level": "master",
   "program_name": "Master of Communications and Media Studies",
   "field": "Arts & Social Sciences",
-  "duration": "1.5 years",
+  "duration": "1-1.5 years (full-time) / 2-3 years (part-time)",
   "mode": "Full-time",
   "intakes": [
-    "Feb"
+    "February"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 42720,
-    "per_year": "RM56,175 per course",
-    "notes": null
+    "total": 66240,
+    "per_year": null,
+    "notes": "Monash Malaysia official 2026 fee schedule (international, full course fee); Malaysian RM57,600. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Australian bachelor's degree (or equivalent) in a cognate discipline with at least credit (60%) average (1.5 years); honours degree in a cognate discipline with credit (60%) average (1 year); CV and employer reference required"
   },
   "accreditation": {
     "mqa_status": "Accredited",
     "mqa_ref": null
   },
   "sources": [
-    "https://www.monash.edu.my/study/postgraduate-and-research/arts-social-sciences",
-    "https://www.studymalaysia.com/what/course/MONASH/0053622/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/postgraduate-and-research/arts-social-sciences/master-communications-media-studies",
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Communications and Media Studies",
   "program_name_zh": "Communications and Media Studies硕士",
   "field_ar": "العلوم",

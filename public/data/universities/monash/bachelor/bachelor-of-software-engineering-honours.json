@@ -7,21 +7,21 @@
   "duration": "4 years",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Oct",
-    "Feb"
+    "February",
+    "July",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 62880,
-    "per_year": "RM54,915 per year",
-    "notes": null
+    "total": null,
+    "per_year": 64800,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM54,720/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "a_level": "GCE A Level aggregate 10",
+    "ib": "IB 30 points",
+    "other_qualifications": "Prerequisites: Mathematics (Australian Higher Year 12 equivalent) and at least one of Chemistry or Physics (Australian Year 12 equivalent)"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -29,20 +29,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/engineering/bachelor-of-software-engineering-honours",
-    "https://www.studymalaysia.com/what/course/MONASH/0056485/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Software Engineering (Honours)",
   "program_name_zh": "Software Engineering (Honours)学士",
   "field_ar": "الهندسة",

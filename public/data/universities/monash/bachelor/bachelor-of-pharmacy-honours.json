@@ -7,19 +7,19 @@
   "duration": "4 years",
   "mode": "Full-time",
   "intakes": [
-    "Feb"
+    "February"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 69120,
-    "per_year": "RM59,996 per year",
-    "notes": null
+    "total": null,
+    "per_year": 71040,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM60,480/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "a_level": "GCE A Level aggregate 12",
+    "ib": "IB 33 points",
+    "other_qualifications": "Prerequisites: Chemistry, Biology and Higher Level Mathematics (Australian Year 12 equivalent); declaration form, aptitude test/interview and Pharmacy Board of Malaysia requirements"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -27,20 +27,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/pharmacy/bachelor-pharmacy",
-    "https://www.studymalaysia.com/what/course/MONASH/0001569/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Pharmacy (Honours)",
   "program_name_zh": "Pharmacy (Honours)学士",
   "field_ar": "الصيدلة",

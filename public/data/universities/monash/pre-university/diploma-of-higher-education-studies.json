@@ -7,19 +7,19 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Oct",
-    "Feb"
+    "February",
+    "July",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 50400,
-    "per_year": 43680,
-    "notes": "Enquire for fees (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": 46080,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); non-science stream RM46,080/year, science stream RM51,840/year (Malaysian RM39,840/RM45,120). 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+    "english_requirement": "Monash minimum English language requirements apply (see official English requirements)",
+    "other_qualifications": "Completed pre-university or foundation qualification; specific subject requirements apply per stream (Science: one of Biology, Chemistry, Environmental Science, Geography, Physics, Psychology or Higher Level Mathematics; Business: Mathematics; IT: Higher Level Mathematics)"
   },
   "accreditation": {
     "mqa_status": "MQA",
@@ -27,19 +27,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/diploma-and-pathway/diploma-higher-education-studies",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Higher Education Studies",
   "program_name_zh": "Higher Education Studies文凭",
   "field_ar": "General Studies",

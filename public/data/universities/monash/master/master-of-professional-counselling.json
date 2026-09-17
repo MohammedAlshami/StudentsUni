@@ -4,42 +4,32 @@
   "level": "master",
   "program_name": "Master of Professional Counselling",
   "field": "Medicine & Health Sciences",
-  "duration": "2 years",
+  "duration": "2 years (full-time) / 4 years (part-time)",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Feb"
+    "February",
+    "July"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 40320,
-    "per_year": "RM76,545 per course",
-    "notes": null
+    "total": 83520,
+    "per_year": null,
+    "notes": "Monash Malaysia official 2026 fee schedule (international, full course fee); Malaysian RM72,960. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Australian bachelor's degree (or equivalent) with at least WAM 60; CV and two academic referee reports required"
   },
   "accreditation": {
     "mqa_status": "Accredited",
     "mqa_ref": null
   },
   "sources": [
-    "https://www.monash.edu.my/study/postgraduate-and-research/medicine-health-sciences",
-    "https://www.studymalaysia.com/what/course/MONASH/0053620/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/postgraduate-and-research/medicine-health-sciences/master-of-professional-counselling",
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Professional Counselling",
   "program_name_zh": "Professional Counselling硕士",
   "field_ar": "الطب",

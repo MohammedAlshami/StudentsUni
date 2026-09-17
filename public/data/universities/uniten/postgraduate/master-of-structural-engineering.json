@@ -5,39 +5,41 @@
   "program_name": "Master of Structural Engineering",
   "program_slug": "master-of-structural-engineering",
   "field": "Engineering",
-  "duration": "1-3 years (FT) / 2-4 years (PT)",
+  "duration": "1 - 3 years (Full-time) / 2 - 4 years (Part-time)",
   "mode": "Flexible Full-time/Part-time",
   "intakes": [
     "January",
-    "July",
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 27300,
-    "per_year": 9100,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": 30300,
+    "per_year": 15150,
+    "notes": "International student tuition: RM30,300 total. Source: https://www.uniten.edu.my/programme/postgraduate/master-in-structural-engineering-by-coursework-project/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Postgraduate Fee Structure (Dec 2024). per_year = total / 2yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 5.0/TOEFL 3.0/MUET 3.5/Linguaskill 154",
+    "other_qualifications": "A Bachelor's degree in the field or related fields with minimum CGPA 2.50; or CGPA 2.00-2.50 subject to rigorous internal assessment; or a non-related Bachelor's degree with minimum CGPA 2.00 subject to relevant work experience or prerequisite courses; or equivalent qualification recognised by the Malaysian Government; or APEL-A certification from MQA."
   },
   "accreditation": {
-    "mqa_code": null,
-    "status": "Accredited by MQA"
+    "mqa_status": "MQA accredited",
+    "mqa_ref": "R2/0716/7/0011 (02/31) (MQA/SWA07212)"
   },
   "structure_type": "Coursework & Project (Structure C)",
   "sources": [
-    "https://www.uniten.edu.my/programme/postgraduate/",
-    "https://www.studymalaysia.com/what/course/UNITEN/0056641/",
     {
-      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-15T00:00:00+08:00"
+      "url": "https://www.uniten.edu.my/programme/postgraduate/master-in-structural-engineering-by-coursework-project/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/n3qjdeqf/uniten-fee-structure-international-pg.pdf",
+      "publisher": "UNITEN International Postgraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Structural Engineering",
   "program_name_zh": "Structural Engineering硕士",
   "field_ar": "الهندسة",

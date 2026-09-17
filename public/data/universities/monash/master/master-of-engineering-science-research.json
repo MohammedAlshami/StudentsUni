@@ -4,42 +4,34 @@
   "level": "master",
   "program_name": "Master of Engineering Science (Research)",
   "field": "Engineering",
-  "duration": "2 years",
+  "duration": "2 years (full-time) / 4 years (part-time)",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Feb"
+    "15 January",
+    "1 May",
+    "15 July",
+    "15 October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 53280,
-    "per_year": "RM46,556 per year",
-    "notes": null
+    "total": null,
+    "per_year": 54720,
+    "notes": "Monash Malaysia official 2026 fee schedule (international, per year); Malaysian RM48,480. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Four-year Bachelor of Engineering or bachelor's degree of at least four years in a relevant discipline including a research thesis/project with minimum upper H2B (65%), or a master's degree with a significant research component"
   },
   "accreditation": {
     "mqa_status": "Accredited",
     "mqa_ref": null
   },
   "sources": [
-    "https://www.monash.edu.my/study/postgraduate-and-research/engineering",
-    "https://www.studymalaysia.com/what/course/MONASH/0001560/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/postgraduate-and-research/engineering/master-engineering-science-research",
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Engineering Science (Research)",
   "program_name_zh": "Engineering Science (Research)硕士",
   "field_ar": "الهندسة",

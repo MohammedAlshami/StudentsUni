@@ -32,23 +32,25 @@
   ],
   "program_counts": {
     "pre-university": 3,
-    "bachelor": 37,
-    "master": 11,
-    "postgraduate-diploma": 2,
+    "bachelor": 36,
+    "master": 10,
+    "postgraduate-diploma": 1,
     "phd": 7
   },
   "sources": [
     "https://www.monash.edu.my",
     "https://www.monash.edu.my/study",
-    "https://www.studymalaysia.com/edu/monash/courses/"
+    "https://www.studymalaysia.com/edu/monash/courses/",
+    "https://www.monash.edu.my/study/undergraduate/fees",
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 105000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 35000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    "per_year_local": 43200,
+    "per_year_international": 49920,
+    "notes": "Monash Malaysia official 2026 fee schedule: international annual tuition from RM40,320 (Diploma of Business) and RM49,920 (bachelor's) to RM138,720 (Medicine); research degrees RM54,720/year. Lowest bachelor's annual values shown. Sources: https://www.monash.edu.my/study/undergraduate/fees and https://www.monash.edu.my/study/postgraduate-and-research/fees"
   }
 }

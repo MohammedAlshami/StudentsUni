@@ -6,7 +6,7 @@ import { BadgeCheck, Calendar, Clock, GraduationCap, ShieldCheck, Wallet } from 
 import { wrap, Label, Pill } from "@/components/marketing-ui";
 import { normalizeProgramsList, loadProgramDetail, entrySlug } from "@/lib/university-detail";
 import { getCanonicalProgramForOffering } from "@/lib/program-catalog";
-import { getUniversityGallery, GENERIC_CAMPUS_PHOTOS } from "@/lib/university-images";
+import { getUniversityGallery } from "@/lib/university-images";
 import { routing } from "@/i18n/routing";
 
 const LEVEL_LABEL_KEYS: Record<string, string> = {
@@ -127,14 +127,18 @@ export default async function ProgramDetailPage({
   const hasReqs = Object.values(reqs).some(Boolean);
   const levelLabel = LEVEL_LABEL_KEYS[prog.level] ? tLevels(LEVEL_LABEL_KEYS[prog.level] as "foundation") : prog.level;
   const canonical = getCanonicalProgramForOffering(slug, level, program);
-  const headerImage = getUniversityGallery(slug)[0]?.url ?? GENERIC_CAMPUS_PHOTOS[0];
+  const headerImage = getUniversityGallery(slug)[0];
 
   return (
     <div className="bg-white font-sans text-[#242927]">
       {/* Header */}
       <div
-        className="bg-cover bg-center text-white"
-        style={{ backgroundImage: `linear-gradient(rgba(0,0,0,.78),rgba(0,0,0,.55)),url(${headerImage})` }}
+        className="bg-[#285b50] bg-cover bg-center text-white"
+        style={
+          headerImage
+            ? { backgroundImage: `linear-gradient(rgba(0,0,0,.78),rgba(0,0,0,.55)),url(${headerImage})` }
+            : undefined
+        }
       >
         <div className={`${wrap} py-[42px]`}>
           <div className="flex flex-wrap items-center gap-[6px] text-[12px] text-white/60">

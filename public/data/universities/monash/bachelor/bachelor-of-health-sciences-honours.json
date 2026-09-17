@@ -4,23 +4,20 @@
   "level": "bachelor",
   "program_name": "Bachelor of Health Sciences (Honours)",
   "field": "Medicine & Health Sciences",
-  "duration": "3 years",
+  "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "February",
-    "July"
+    "February"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 53280,
-    "per_year": 15680,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": 51360,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM44,160/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Completed Australian bachelor's degree in a health science or related discipline (or equivalent) with an average overall distinction grade (70%) or higher in the final year"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -28,14 +25,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-of-health-sciences-honours",
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Health Sciences (Honours)",
   "program_name_zh": "Health Sciences (Honours)学士",
   "field_ar": "الطب",

@@ -41,8 +41,8 @@
       "field": "Computing & IT"
     },
     {
-      "program_name": "Bachelor of Computer Science (Artificial Intelligence) (Hons)",
-      "program_slug": "bachelor-of-computer-science-artificial-intelligence-hons",
+      "program_name": "Bachelor in Computer Science (Artificial Intelligence) (Honours)",
+      "program_slug": "bachelor-in-computer-science-artificial-intelligence-honours",
       "field": "Computing & IT"
     },
     {
@@ -61,8 +61,8 @@
       "field": "Business"
     },
     {
-      "program_name": "Bachelor of Economics (Hons) in Energy",
-      "program_slug": "bachelor-of-economics-hons-in-energy",
+      "program_name": "Bachelor in Economics (Energy) (Honours)",
+      "program_slug": "bachelor-in-economics-energy-honours",
       "field": "Business"
     },
     {
@@ -76,27 +76,27 @@
       "field": "Business"
     }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "requirements": {
     "malaysian": {
-      "spm": "3-5 Credits (C) including relevant subjects",
-      "stpm": "2 Principals (C+)",
-      "foundation_matriculation": "CGPA 2.0-2.5",
-      "diploma_pathway": "Diploma in relevant field with CGPA 2.0"
+      "spm": "5 credits (Grade C) including relevant subjects (programme-dependent)",
+      "stpm": "Pass STPM with minimum Grade C (CGPA 2.00) in relevant subjects",
+      "foundation_matriculation": "CGPA 2.00-2.50 (programme-dependent)",
+      "diploma_pathway": "Diploma (Level 4, MQF) with CGPA 2.00-2.50 (programme-dependent)"
     },
     "international": {
-      "a_level": "2 Principals (C+)",
+      "a_level": "Grade C in 2 subjects (Grade D in Mathematics/Physics for Engineering)",
       "ib": "24 points",
-      "other_qualifications": "Equivalent qualification",
-      "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
+      "other_qualifications": "Equivalent qualification recognised by the Malaysian Government",
+      "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met"
     }
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 105000,
-    "international_total": null,
-    "per_year_local": 35000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    "local_total": 60000,
+    "international_total": 72600,
+    "per_year_local": 20000,
+    "per_year_international": 24200,
+    "notes": "Verified international tuition RM72,600-RM104,500 total (UNITEN official programme pages, 2026; International UG Fee Structure Dec 2024). Values shown are the lowest totals in this level."
   }
 }

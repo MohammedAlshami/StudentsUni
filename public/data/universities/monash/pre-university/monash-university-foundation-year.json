@@ -4,22 +4,22 @@
   "level": "pre-university",
   "program_name": "Monash University Foundation Year (MUFY)",
   "field": "Foundation Studies",
-  "duration": "1 year (3 semesters)",
+  "duration": "12 months (2 semesters; option to extend to 3 semesters)",
   "mode": "Full-time",
   "intakes": [
     "January",
-    "April",
+    "July",
     "August"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 43680,
-    "per_year": "RM43,680",
-    "notes": "Enquire for fees"
+    "total": null,
+    "per_year": null,
+    "notes": "Fees not published on monash.edu.my; official Monash College/Sunway College MUFY 2026 brochure: RM38,600-RM41,000 (Sunway College Kuala Lumpur) or RM27,000-RM29,400 (Sunway College Johor Bahru), excluding laboratory fees; international students pay an additional RM2,250 administrative fee plus 6% SST. Source: https://sunwaycollege.edu.my/programmes/pre-university-foundation/monash-university-foundation-year"
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+    "english_requirement": "IELTS 5.5 (no band less than 5.0) or SPM/O-Level English credit or equivalent",
+    "other_qualifications": "SPM/O-Level pass with minimum 5 credits including English, or UEC with minimum 3 Bs"
   },
   "accreditation": {
     "mqa_status": "MQA",
@@ -27,10 +27,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/diploma-and-pathway/mufy",
-    "https://eduadvisor.my/university/monash-university-malaysia"
+    "https://sunwaycollege.edu.my/programmes/pre-university-foundation/monash-university-foundation-year"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Monash University Foundation Year (MUFY)",
   "program_name_zh": "Monash University Foundation Year (MUFY)",
   "field_ar": "Foundation Studies",

@@ -7,20 +7,20 @@
   "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Oct",
-    "Feb"
+    "February",
+    "July",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 48480,
-    "per_year": "RM42,446 per year",
-    "notes": null
+    "total": null,
+    "per_year": 49920,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM43,200/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "a_level": "GCE A Level aggregate 7",
+    "ib": "IB 25 points",
     "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": {
@@ -29,20 +29,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/arts-social-sciences/bachelor-of-digital-media-and-communication",
-    "https://www.studymalaysia.com/what/course/MONASH/0057175/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Digital Media and Communication",
   "program_name_zh": "Digital Media and Communication学士",
   "field_ar": "العلوم",

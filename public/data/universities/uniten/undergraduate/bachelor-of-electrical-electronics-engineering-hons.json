@@ -1,39 +1,44 @@
 {
   "program_name": "Bachelor of Electrical and Electronic Engineering (Hons)",
   "field": "",
-  "duration": "4 years",
+  "duration": "4 years (Full-time)",
   "mode": "Onsite",
   "intakes": [
     "January",
-    "July",
+    "June",
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 98000,
-    "per_year": 23750,
-    "notes": " (per_year based on 4.0yr duration)"
+    "total": 104500,
+    "per_year": 26125,
+    "notes": "Legacy file name; maps to the official Bachelor of Electrical and Electronics Engineering (Hons). International student tuition: RM104,500 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-of-electrical-and-electronics-engineering-hons/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM98,000. per_year = total / 4yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
+    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+    "a_level": "2 subjects (Grade D) including Mathematics and Physics",
     "ib": "24 points",
-    "other_qualifications": "Equivalent qualification",
+    "other_qualifications": "STPM with minimum Grade C (CGPA 2.00) in Mathematics and Physics; or A-Level with minimum Grade D in Mathematics and Physics; or Matriculation with minimum CGPA 2.00; or Foundation in a related field with minimum CGPA 2.00; or Diploma in a related field with minimum CGPA 2.00.",
     "general": "STPM Pass *STPM with Grade C and CGPA 2.00 Math: C Physics: C Matriculation Pass *Matriculation with CGPA 2.00 Foundation Pass *Foundation in related field with minimum CGPA 2.00 A-Level Pass *A-Level Math: D Physics: D Diploma Pass *Diploma in related field with minimum CGPA 2.00 DVM / DLKM / DKM Pass DKM / DLKM / DVM with a minimum CGPA 2.00 AND Pass the Bridging Program offered by the College of Engineering Higher National Diploma (HND) Pass *HND with minimum CGPA 2.00 Unified Examination Certificate (UEC) Pass *UEC with minimum Grade B in 5 subjects including: Math: B Physics: B International Baccalaureate Programme (IB) Total Points at 24 in 6 subjects including Mathematics &amp; Physics Others South Australian Matriculation (SAM), Australian Matriculation (AUSMAT), South Australian Certificate Education (SACE), Western Australian Certificate Education (WACE), Overseas Preparatory Programme Pass in SAM/SACE/WACE/AUSMAT/Ontario SSD with 55% in Maths and any Physical Science subject Pass in Overseas Preparatory programme Pass in American Degree Transfer Programme (ADTP) with CGPA 2.00 in 2 years   ENGLISH REQUIREMENTS For Malaysian Students: Malaysian students may enrol without MUET. However, students are required to complete MUET during duration of study (before graduation). IELTS (5.0 and above) or TOEFL (500 and above) or TOEFL Internet Based Test (42 and above) is also accepted. MUET – Malaysia University English Test Achieve Band 1 and above For International Students: International students are required to have one of the English proficiency score stated below to enrol in UNITEN. Bachelor students who do not fulfill this English requirement are required to sit for the Intensive English Programme (IEP) and pass the requirement below before starting their Bachelor programme. MUET – Malaysia University English Test Achieve Band 3.5 and above OR IELTS – International English Language Testing System Achieve 5.0 and above OR TOEFL - Test of English as a Foreign Language Achieve 500 (TOEFL) or 42 (TOEFL Internet Based Test) and above  "
   },
   "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
+    "mqa_status": "MQA accredited; recognised by the Board of Engineers Malaysia (BEM) and accredited by the Engineering Accreditation Council (EAC) under the Washington Accord",
+    "mqa_ref": "R3/0713/6/0003 (06/33) (MQA/FA9204)"
   },
   "sources": [
     {
-      "url": "https://www.easyuni.my/malaysia/universiti-tenaga-nasional-uniten-272/bachelor-of-electrical-and-electronic-engineering-hons-27705/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
+      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-of-electrical-and-electronics-engineering-hons/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Electrical and Electronic Engineering (Hons)",
   "program_name_zh": "Electrical and Electronic Engineering (Hons)学士"
 }

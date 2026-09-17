@@ -35,13 +35,13 @@
     "https://www.uniten.edu.my/programme/",
     "https://www.studymalaysia.com/edu/uniten/courses/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 105000,
-    "international_total": null,
-    "per_year_local": 35000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    "local_total": 6000,
+    "international_total": 16800,
+    "per_year_local": 6000,
+    "per_year_international": 8400,
+    "notes": "Verified international tuition RM16,800-RM104,500 total across all levels (UNITEN official programme pages, 2026; official International Fee Structures Dec 2024). Values shown are the lowest totals."
   }
 }

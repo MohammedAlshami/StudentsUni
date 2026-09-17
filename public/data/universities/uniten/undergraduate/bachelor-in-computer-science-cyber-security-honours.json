@@ -5,39 +5,45 @@
   "program_name": "Bachelor in Computer Science (Cyber Security) (Honours)",
   "program_slug": "bachelor-in-computer-science-cyber-security-honours",
   "field": "Computer Science - Cyber Security",
-  "duration": "3 Years",
+  "duration": "3 years (Full-time)",
   "mode": "Full-time",
   "intakes": [
     "January",
-    "July",
+    "June",
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 75000,
-    "per_year": 25000,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": 82500,
+    "per_year": 27500,
+    "notes": "International student tuition: RM82,500 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-computer-science-cyber-security-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM78,000. per_year = total / 3yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
     "a_level": "2 Principals (C+)",
     "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "other_qualifications": "STPM (Science Stream) with minimum Grade C (CGPA 2.00) in Mathematics and one Science/ICT subject, or STPM (Art Stream) with Grade C in any 2 subjects plus Additional Mathematics; or Matriculation/Foundation in a related field with minimum CGPA 2.00 and Grade C in Additional Mathematics/Mathematics; or Diploma in Computing with minimum CGPA 2.50."
   },
-  "accreditation": "MQA",
+  "accreditation": {
+    "mqa_status": "MQA accredited",
+    "mqa_ref": "R/0613/6/0010 (09/27) (MQA/FA15826)"
+  },
   "college": "College of Computing & Informatics (CCI)",
   "articulation_pathway": "University of Sheffield",
   "sources": [
-    "https://www.uniten.edu.my/programme/undergraduate/",
-    "https://www.studymalaysia.com/what/course/UNITEN/0056638/",
     {
-      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-15T00:00:00+08:00"
+      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-computer-science-cyber-security-honours/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Science (Cyber Security) (Honours)",
   "program_name_zh": "Computer Science (Cyber Security) (Honours)学士",
   "field_ar": "علوم الحاسوب",

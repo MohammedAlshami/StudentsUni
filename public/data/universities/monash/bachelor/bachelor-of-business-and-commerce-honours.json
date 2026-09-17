@@ -7,19 +7,17 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "Jul"
+    "July"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 50400,
-    "per_year": "RM43,680 per year",
-    "notes": null
+    "total": null,
+    "per_year": 51840,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM44,160/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Australian undergraduate degree (or equivalent) with distinction (70%) average or above in 24 points of level three studies in a relevant business area"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -27,20 +25,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce-honours",
-    "https://www.studymalaysia.com/what/course/MONASH/0001587/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business and Commerce (Honours)",
   "program_name_zh": "Business and Commerce (Honours)学士",
   "field_ar": "إدارة الأعمال",

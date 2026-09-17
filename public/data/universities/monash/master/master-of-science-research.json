@@ -4,42 +4,34 @@
   "level": "master",
   "program_name": "Master of Science (Research)",
   "field": "Science",
-  "duration": "2 years",
+  "duration": "2 years (full-time) / 4 years (part-time)",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Feb"
+    "15 January",
+    "1 May",
+    "15 July",
+    "15 October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 53280,
-    "per_year": "RM46,556 per year",
-    "notes": null
+    "total": null,
+    "per_year": 54720,
+    "notes": "Monash Malaysia official 2026 fee schedule (international, per year); Malaysian RM48,480. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Bachelor's degree requiring at least four years of full-time study including a research component in the fourth year with upper H2B (65%) in an honours year, or a master's degree with a significant research component"
   },
   "accreditation": {
     "mqa_status": "Accredited",
     "mqa_ref": null
   },
   "sources": [
-    "https://www.monash.edu.my/study/postgraduate-and-research/science",
-    "https://www.studymalaysia.com/what/course/MONASH/0001559/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/postgraduate-and-research/science/master-science",
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science (Research)",
   "program_name_zh": "Science (Research)硕士",
   "field_ar": "العلوم",

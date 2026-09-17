@@ -519,7 +519,7 @@
     "offeredBy": "马来西亚共有 {count} 所大学开设",
     "aboutTitle": "课程简介",
     "compareTitle": "学费对比",
-    "feeNote": "费用为参考值,来自大学官方来源;申请前请向大学确认最新费用。",
+    "feeNote": "费用为参考值,来自大学官方来源。金额以美元显示,按约 1 美元 = 4.09 马来西亚林吉特从大学所用货币换算;申请前请向大学确认最新费用。",
     "metaDescription": "对比马来西亚 {count} 所大学的 {title} 课程——学费、学制、入学要求与开课时间。",
     "descriptionTemplate": "{title} 课程在马来西亚 {count} 所大学开设,涵盖 {levels} 等层次。你可以在下方比较各校的学费、学制、认证与入学要求。",
     "table": {
@@ -532,7 +532,8 @@
     },
     "stats": {
       "universities": "开设大学",
-      "feeRange": "学费范围",
+      "feePerYearRange": "每年学费范围",
+      "feeTotalRange": "总学费范围",
       "feeRangeNote": "参考学费最低至最高",
       "levels": "层次"
     },

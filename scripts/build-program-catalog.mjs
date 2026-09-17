@@ -227,7 +227,8 @@ const catalog = [];
 for (const [slug, group] of groups) {
   const unis = new Set(group.offerings.map((o) => o.university_slug));
   const levels = LEVEL_GROUP_ORDER.filter((g) => group.offerings.some((o) => o.level_group === g));
-  const fees = group.offerings.map((o) => o.feePerYear ?? o.feeTotal).filter((n) => typeof n === "number" && n > 0);
+  const perYearFees = group.offerings.map((o) => o.feePerYear).filter((n) => typeof n === "number" && n > 0);
+  const totalFees = group.offerings.map((o) => o.feeTotal).filter((n) => typeof n === "number" && n > 0);
   const field = [...group.fields.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] ?? "";
   catalog.push({
     slug,
@@ -236,8 +237,10 @@ for (const [slug, group] of groups) {
     levels,
     offerings: group.offerings,
     universityCount: unis.size,
-    feeMin: fees.length ? Math.min(...fees) : null,
-    feeMax: fees.length ? Math.max(...fees) : null,
+    feePerYearMin: perYearFees.length ? Math.min(...perYearFees) : null,
+    feePerYearMax: perYearFees.length ? Math.max(...perYearFees) : null,
+    feeTotalMin: totalFees.length ? Math.min(...totalFees) : null,
+    feeTotalMax: totalFees.length ? Math.max(...totalFees) : null,
   });
 }
 catalog.sort((a, b) => b.universityCount - a.universityCount || a.title.localeCompare(b.title));
@@ -249,5 +252,5 @@ console.log(`with >=2 universities: ${catalog.filter((p) => p.universityCount >=
 const bySlug = new Map(catalog.map((p) => [p.slug, p]));
 for (const s of ["cyber-security", "network", "computer-science", "software-engineering", "machine-learning", "artificial-intelligence", "business-administration", "biotechnology", "psychology"]) {
   const p = bySlug.get(s);
-  console.log(`  ${s}: ${p ? `${p.universityCount} unis, fee ${p.feeMin}-${p.feeMax}` : "MISSING"}`);
+  console.log(`  ${s}: ${p ? `${p.universityCount} unis, per-year ${p.feePerYearMin}-${p.feePerYearMax}, total ${p.feeTotalMin}-${p.feeTotalMax}` : "MISSING"}`);
 }

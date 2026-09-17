@@ -4,42 +4,32 @@
   "level": "master",
   "program_name": "Master of Business Information Systems",
   "field": "Computing & IT",
-  "duration": "2 years",
+  "duration": "1.5-2 years (full-time) / 3-4 years (part-time)",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Feb"
+    "February",
+    "July"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 36000,
-    "per_year": "RM62,475 per course",
-    "notes": null
+    "total": 74160,
+    "per_year": null,
+    "notes": "Monash Malaysia official 2026 fee schedule (international, full course fee); Malaysian RM64,080. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Australian bachelor's degree with minimum WAM 60 (2-year entry level); cognate information systems degree with WAM 60 (1.5-year entry level)"
   },
   "accreditation": {
     "mqa_status": "Accredited",
     "mqa_ref": null
   },
   "sources": [
-    "https://www.monash.edu.my/study/postgraduate-and-research/information-technology",
-    "https://www.studymalaysia.com/what/course/MONASH/0054366/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/postgraduate-and-research/information-technology/master-business-information-systems",
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Information Systems",
   "program_name_zh": "Business Information Systems硕士",
   "field_ar": "تقنية المعلومات",

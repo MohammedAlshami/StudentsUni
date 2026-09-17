@@ -1,39 +1,44 @@
 {
   "program_name": "Bachelor of Accounting (Hons)",
   "field": "",
-  "duration": "4 years",
+  "duration": "3 years (Full-time)",
   "mode": "Onsite",
   "intakes": [
     "January",
-    "July",
+    "June",
     "September"
   ],
   "fees": {
     "currency": "MYR",
     "total": 85000,
-    "per_year": 20500,
-    "notes": " (per_year based on 4.0yr duration)"
+    "per_year": 28333,
+    "notes": "Legacy file name; maps to the official Bachelor in Accounting (Honours). International student tuition: RM85,000 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-accounting-honours/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 3yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
+    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+    "a_level": "2 subjects (Grade C)",
     "ib": "24 points",
-    "other_qualifications": "Equivalent qualification",
+    "other_qualifications": "A-Level with minimum Grade C in any 2 subjects; or STPM with minimum Grade C+ (GP 2.33) in any 2 subjects; or Foundation/Matriculation in a related field with minimum CGPA 2.50; or Diploma in Accounting with minimum CGPA 2.50.",
     "general": "STPM Pass *STPM with a minimum Grade C+ (GP 2.33) in any 2 subjects Math (SPM): C BI (SPM): E A-LEVEL Pass *A-Level with minimum Grade C in any 2 subjects (CGPA 2.00) Math (SPM): C BI (SPM): E MATRICULATION Pass *Matriculation with a minimum CGPA 2.50 Math (SPM): C BI (SPM): E FOUNDATION Pass *Foundation in related field with minimum CGPA 2.50 Math (SPM): C BI (SPM): E STAM Pass with a minimum Grade of Jayyid Math (SPM): C BI (SPM): E DIPLOMA Pass Diploma in Accounting field (Level 4, MQF) or equivalent with a minimum CGPA of 2.50 Candidates with CGPA below 2.50 but more than 2.00 may be admitted subject to a thorough rigorous assessment Math (SPM): C BI (SPM): E *Note: Rigorous assessment can be done through interviews, portfolios, written tests, or any form of assessment DVM/DLKM/DKM Pass DVM/DLKM/DKM in Accounting field with a minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval Math (SPM): C BI (SPM): E *Note: Please refer to additional information Unified Examination Certificate (UEC) Pass *UEC with a minimum of Grade B in FIVE (5) subjects including: Math: B 4 Any subject: B English: E International Baccalaureate Diploma Programme (IB) Pass with a minimum of 24 points in 6 subjects OTHERS South Australian Matriculation (SAM), Australian Matriculation (AUSMAT), South Australian Certificate Education (SACE), Western Australian Certificate Education (WACE), Overseas Preparatory Programme Pass with a minimum of Grade C 60% ATAR Rank in any of the following subjects: Math: C Economy: C *Note: Other relevant and equivalent qualifications recognized by the Malaysian Government   ENGLISH REQUIREMENTS For Malaysian Students: Students have taken MUET before enrolling and scored at least Band 2. IELTS (5.0 and above) or TOEFL (500 and above) or TOEFL Internet-Based Test (42 and above) is also accepted. MUET – Malaysia University English Test Achieve Band 2 and above For International Students: International students are required to have one of the English proficiency scores stated below to enrol in UNITEN. Bachelor students who do not fulfil this English requirement are required to sit for the Intensive English Programme (IEP) and pass the requirements below before starting their Bachelor programme. MUET – Malaysia University English Test Achieve Band 3.5 and above   IELTS – International English Language Testing System Achieve 5.5 and above   TOEFL - Test of English as a Foreign Language Achieve 550 (TOEFL) or 46 (TOEFL Internet Based Test) and above"
   },
   "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
+    "mqa_status": "MQA accredited",
+    "mqa_ref": "N/0411/6/0038 (12/28) (MQA/PSA17297) / R2/0411/6/0005 (01/27) (MQA/A5894)"
   },
   "sources": [
     {
-      "url": "https://www.easyuni.my/malaysia/universiti-tenaga-nasional-uniten-272/bachelor-of-accounting-hons-27716/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
+      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-accounting-honours/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Accounting (Hons)",
   "program_name_zh": "Accounting (Hons)学士"
 }

@@ -4,21 +4,21 @@
   "level": "master",
   "program_name": "Master of Pharmaceutical Science",
   "field": "Pharmacy",
-  "duration": "2 years",
+  "duration": "1-2 years (full-time)",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Feb"
+    "February",
+    "July"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 53280,
-    "per_year": 23520,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": 54720,
+    "notes": "Monash Malaysia official 2026 fee schedule (international, per year); Malaysian RM48,480. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Entry level 1 (2 years): bachelor's degree in pharmacy, science, biomedical science or engineering with at least credit (60%) average; entry level 2 (1.5 years): bachelor's degree in pharmaceutical science with credit average; entry level 3 (1 year): honours degree in pharmaceutical science with distinction (70%) average"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -26,19 +26,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/postgraduate-and-research/pharmacy/master-of-pharmaceutical-science",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Pharmaceutical Science",
   "program_name_zh": "Pharmaceutical Science硕士",
   "field_ar": "الصيدلة",

@@ -519,7 +519,7 @@
     "offeredBy": "Offered by {count} universities in Malaysia",
     "aboutTitle": "About this programme",
     "compareTitle": "Compare tuition fees",
-    "feeNote": "Fees are indicative and taken from official university sources; confirm current fees with the university before applying.",
+    "feeNote": "Fees are indicative and taken from official university sources. Amounts are shown in USD, converted from the university's currency at approximately 1 USD = 4.09 MYR; confirm current fees with the university before applying.",
     "metaDescription": "Compare {title} programmes at {count} universities in Malaysia — tuition fees, duration, entry requirements, and intakes.",
     "descriptionTemplate": "{title} programmes are offered at {count} universities in Malaysia across {levels} levels. Compare tuition fees, duration, accreditation, and entry requirements for every option below.",
     "table": {
@@ -532,7 +532,8 @@
     },
     "stats": {
       "universities": "Universities",
-      "feeRange": "Fee range",
+      "feePerYearRange": "Per-year fee range",
+      "feeTotalRange": "Total fee range",
       "feeRangeNote": "Lowest to highest indicative fee",
       "levels": "Levels"
     },

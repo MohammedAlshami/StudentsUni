@@ -4,32 +4,34 @@
   "level": "phd",
   "program_name": "Doctor of Philosophy (Information Technology)",
   "field": "Computing & IT",
-  "duration": "3-4 years (FT) / 6-8 years (PT)",
+  "duration": "3-4 years (full-time) / 6-8 years (part-time)",
   "mode": "Full-time / Part-time",
   "intakes": [
-    "February",
-    "July"
+    "15 January",
+    "1 May",
+    "15 July",
+    "15 October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 139668,
-    "per_year": "RM46,556 per year",
-    "notes": null
+    "total": null,
+    "per_year": 54720,
+    "notes": "Monash Malaysia official 2026 fee schedule (international, per year); Malaysian RM48,480. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 or TOEFL 95",
-    "other_qualifications": "Master degree with research experience"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Bachelor's degree requiring at least four years of full-time study in a relevant field including a research component in the fourth year (honours), or a master's degree with a significant research component; qualifications deemed equivalent by the Graduate Research Committee"
   },
   "accreditation": {
     "mqa_status": "Accredited",
     "mqa_ref": null
   },
   "sources": [
-    "https://www.monash.edu.my/study/postgraduate-and-research/information-technology",
-    "https://www.studymalaysia.com/what/course/MONASH/0054367/"
+    "https://www.monash.edu.my/study/postgraduate-and-research/information-technology/phd",
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Information Technology)",
   "program_name_zh": "哲学博士 (Information Technology)",
   "field_ar": "تقنية المعلومات",

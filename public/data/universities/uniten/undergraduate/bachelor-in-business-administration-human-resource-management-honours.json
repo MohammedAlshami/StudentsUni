@@ -5,34 +5,45 @@
   "program_name": "Bachelor in Business Administration (Human Resource Management) (Honours)",
   "program_slug": "bachelor-in-business-administration-human-resource-management-honours",
   "field": "Business Administration - Human Resource Management",
-  "duration": "3 Years",
+  "duration": "3 years (Full-time)",
   "mode": "Full-time",
   "intakes": [
     "January",
-    "July",
+    "June",
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 75000,
-    "per_year": "RM25,000-RM30,000",
-    "notes": "Estimated based on typical UNITEN business programme fees"
+    "total": 72600,
+    "per_year": 24200,
+    "notes": "International student tuition: RM72,600 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-business-administration-human-resource-management-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM69,000. per_year = total / 3yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
+    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+    "a_level": "2 subjects (Grade C)",
     "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "other_qualifications": "A-Level with minimum Grade C in any 2 subjects; or STPM with minimum Grade C (CGPA 2.00) in any 2 subjects; or Foundation/Matriculation with minimum CGPA 2.00; or Diploma (Level 4, MQF) or Advanced Diploma (Level 5, MQF) with minimum CGPA 2.00."
   },
-  "accreditation": "MQA",
+  "accreditation": {
+    "mqa_status": "MQA accredited",
+    "mqa_ref": "N/0414/6/0231 (04/29) (MQA/PSA17492) / R3/0414/6/0022 (03/28) (MQA/A7013)"
+  },
   "college": "UNITEN Business School (UBS)",
   "campus": "KSHAS",
   "sources": [
-    "https://www.uniten.edu.my/programme/undergraduate/",
-    "https://www.uniten.edu.my/programme/undergraduate/"
+    {
+      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-business-administration-human-resource-management-honours/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Administration (Human Resource Management) (Honours)",
   "program_name_zh": "Business Administration (Human Resource Management) (Honours)学士",
   "field_ar": "إدارة الأعمال",

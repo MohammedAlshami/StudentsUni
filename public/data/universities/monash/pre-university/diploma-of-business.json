@@ -4,22 +4,22 @@
   "level": "pre-university",
   "program_name": "Diploma of Business",
   "field": "Business",
-  "duration": "2 years",
+  "duration": "2 years (full-time)",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Oct",
-    "Feb"
+    "February",
+    "July",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 39360,
-    "per_year": 17040,
-    "notes": "Enquire for fees (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": 40320,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM35,040/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+    "english_requirement": "IELTS 5.5 (no band less than 5.0) or TOEFL iBT 46 or PTE 47",
+    "other_qualifications": "SPM/O-Level or equivalent; credit in Mathematics (Australian Year 11 equivalent)"
   },
   "accreditation": {
     "mqa_status": "MQA",
@@ -27,19 +27,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/diploma-and-pathway/diploma-of-business",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Business",
   "program_name_zh": "Business文凭",
   "field_ar": "إدارة الأعمال",

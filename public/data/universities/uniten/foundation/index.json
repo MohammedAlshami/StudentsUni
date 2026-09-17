@@ -31,13 +31,13 @@
       "field": "Business"
     }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 22000,
-    "international_total": null,
-    "per_year_local": 22000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1yr duration)"
+    "local_total": 6000,
+    "international_total": 19800,
+    "per_year_local": 6000,
+    "per_year_international": 19800,
+    "notes": "Verified international tuition RM19,800-RM21,800 total (UNITEN official programme pages, 2026; International UG Fee Structure Dec 2024). Values shown are the lowest totals in this level."
   }
 }

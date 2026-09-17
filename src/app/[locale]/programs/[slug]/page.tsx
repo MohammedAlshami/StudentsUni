@@ -6,7 +6,7 @@ import { Link } from "@/i18n/navigation";
 import { wrap, Label, Heading, Pill } from "@/components/marketing-ui";
 import { ProgramOfferingsTable } from "@/components/program-offerings-table";
 import { getCanonicalProgram, sortOfferings, type ProgramLevelGroup } from "@/lib/program-catalog";
-import { GENERIC_CAMPUS_PHOTOS } from "@/lib/university-images";
+import { formatUsdRange } from "@/lib/fees";
 
 const LEVEL_KEYS: Record<ProgramLevelGroup, string> = {
   foundation: "foundation",
@@ -18,17 +18,6 @@ const LEVEL_KEYS: Record<ProgramLevelGroup, string> = {
   language: "language",
   other: "other",
 };
-
-function heroImage(slug: string): string {
-  let h = 0;
-  for (let i = 0; i < slug.length; i++) h = (h * 31 + slug.charCodeAt(i)) >>> 0;
-  return GENERIC_CAMPUS_PHOTOS[h % GENERIC_CAMPUS_PHOTOS.length];
-}
-
-function formatFee(value: number | null, currency: string): string | null {
-  if (!value) return null;
-  return `${currency} ${Math.round(value).toLocaleString()}`;
-}
 
 export async function generateMetadata({
   params,
@@ -68,20 +57,13 @@ export default async function CanonicalProgramPage({
     : t("descriptionTemplate", { title: program.title, count: program.universityCount, levels: levelsText });
 
   const feeCurrency = offerings.find((o) => o.feeTotal || o.feePerYear)?.currency ?? "MYR";
-  const feeRange =
-    program.feeMin && program.feeMax
-      ? program.feeMin === program.feeMax
-        ? formatFee(program.feeMin, feeCurrency)
-        : `${formatFee(program.feeMin, feeCurrency)} – ${formatFee(program.feeMax, feeCurrency)}`
-      : null;
+  const perYearRange = formatUsdRange(program.feePerYearMin, program.feePerYearMax, feeCurrency);
+  const totalRange = formatUsdRange(program.feeTotalMin, program.feeTotalMax, feeCurrency);
 
   return (
     <div className="bg-white font-sans text-[#242927]">
       {/* Hero */}
-      <div
-        className="flex h-[520px] items-end bg-cover bg-center pb-[52px] text-white"
-        style={{ backgroundImage: `linear-gradient(rgba(0,0,0,.72),rgba(0,0,0,.45)),url(${heroImage(program.slug)})` }}
-      >
+      <div className="flex h-[520px] items-end bg-[#285b50] pb-[52px] text-white">
         <div className={wrap}>
           <div className="flex flex-wrap items-center gap-[6px] text-[12px] text-white/60">
             <Link href="/programs" className="hover:underline">
@@ -126,13 +108,25 @@ export default async function CanonicalProgramPage({
             </p>
             <p className="mt-[8px] text-[25px] font-bold">{program.universityCount}</p>
           </div>
-          {feeRange && (
+          {(perYearRange || totalRange) && (
             <div className="border border-black/10 bg-[#f5efeb] p-[21px]">
-              <p className="flex items-center gap-[6px] text-[12px] font-bold uppercase tracking-[.08em] text-black/50">
-                <Wallet size={14} /> {t("stats.feeRange")}
-              </p>
-              <p className="mt-[8px] text-[17px] font-bold">{feeRange}</p>
-              <p className="mt-[4px] text-[12px] text-black/50">{t("stats.feeRangeNote")}</p>
+              {perYearRange && (
+                <>
+                  <p className="flex items-center gap-[6px] text-[12px] font-bold uppercase tracking-[.08em] text-black/50">
+                    <Wallet size={14} /> {t("stats.feePerYearRange")}
+                  </p>
+                  <p className="mt-[8px] text-[17px] font-bold">{perYearRange}</p>
+                  <p className="mt-[4px] text-[12px] text-black/50">{t("stats.feeRangeNote")}</p>
+                </>
+              )}
+              {totalRange && (
+                <p className={`flex items-baseline justify-between gap-[8px] ${perYearRange ? "mt-[10px] border-t border-black/10 pt-[8px]" : ""}`}>
+                  <span className="text-[12px] font-bold uppercase tracking-[.08em] text-black/50">
+                    {t("stats.feeTotalRange")}
+                  </span>
+                  <span className="text-[15px] font-bold">{totalRange}</span>
+                </p>
+              )}
             </div>
           )}
           <div className="border border-black/10 bg-[#f5efeb] p-[21px]">

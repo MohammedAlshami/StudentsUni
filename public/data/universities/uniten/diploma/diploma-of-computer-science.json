@@ -5,44 +5,42 @@
   "program_name": "Diploma of Computer Science",
   "program_slug": "diploma-of-computer-science",
   "field": "Computing & IT",
-  "duration": "2.5 years",
+  "duration": "2.5 years (Full-time)",
   "mode": "Full-time",
   "intakes": [
     "January",
-    "July",
+    "June",
     "September"
   ],
   "fees": {
     "currency": "MYR",
     "total": 32800,
-    "per_year": 11920,
-    "notes": " (per_year based on 2.5yr duration)"
+    "per_year": 13120,
+    "notes": "Legacy file name; maps to the official Diploma in Computer Science. International student tuition: RM32,800 total. Source: https://www.uniten.edu.my/programme/diploma/diploma-in-computer-science/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 2.5yr nominal duration."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
     "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "other_qualifications": "Pass SPM/O-Level with minimum 3 credits (Grade C) including Mathematics; or UEC with minimum Grade B6 in 4 subjects including Advanced Mathematics; or STAM with minimum MAQBUL and Mathematics SPM (Grade C); or STPM with minimum Grade C (CGPA 2.00) in one subject and Mathematics SPM (Grade C); or Certificate Level 3 (MQF) in a related field with minimum CGPA 2.00."
   },
   "accreditation": {
-    "mqa_code": null,
-    "status": "Accredited by MQA"
+    "mqa_status": "MQA accredited",
+    "mqa_ref": "R3/0613/4/0005 (03/32) (MQA/FA0941)"
   },
   "sources": [
-    "https://www.uniten.edu.my/programme/diploma/",
-    "https://www.studymalaysia.com/what/course/UNITEN/0054320/",
     {
-      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-15T00:00:00+08:00"
+      "url": "https://www.uniten.edu.my/programme/diploma/diploma-in-computer-science/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
     },
     {
-      "url": "https://www.easyuni.my/malaysia/universiti-tenaga-nasional-uniten-272/diploma-in-computer-science-257524/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Computer Science",
   "program_name_zh": "Computer Science文凭",
   "field_ar": "تقنية المعلومات",

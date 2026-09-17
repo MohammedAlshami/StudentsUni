@@ -5,45 +5,43 @@
   "program_name": "Bachelor of Mechanical Engineering (Hons)",
   "program_slug": "bachelor-of-mechanical-engineering-hons",
   "field": "Engineering",
-  "duration": "4 years",
+  "duration": "4 years (Full-time)",
   "mode": "Full-time",
   "intakes": [
     "January",
-    "July",
+    "June",
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 98000,
-    "per_year": 23750,
-    "notes": " (per_year based on 4.0yr duration)"
+    "total": 104500,
+    "per_year": 26125,
+    "notes": "International student tuition: RM104,500 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-of-mechanical-engineering-hons/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM98,000. per_year = total / 4yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
+    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+    "a_level": "2 subjects (Grade D) including Mathematics and Physics",
     "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "other_qualifications": "STPM with minimum Grade C (CGPA 2.00) in Mathematics and Physics; or A-Level with minimum Grade D in Mathematics and Physics; or Matriculation with minimum CGPA 2.00; or Foundation in a related field with minimum CGPA 2.00; or Diploma in a related field with minimum CGPA 2.00."
   },
   "accreditation": {
-    "mqa_code": null,
-    "status": "Accredited by MQA and Engineers Australia (Washington Accord)"
+    "mqa_status": "MQA accredited; recognised by the Board of Engineers Malaysia (BEM) and accredited by the Engineering Accreditation Council (EAC) under the Washington Accord",
+    "mqa_ref": "R3/0714/6/0003 (06/33) (MQA/FA9202)"
   },
   "sources": [
-    "https://www.uniten.edu.my/programme/undergraduate/",
-    "https://www.studymalaysia.com/what/course/UNITEN/0005857/",
     {
-      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-15T00:00:00+08:00"
+      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-of-mechanical-engineering-hons/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
     },
     {
-      "url": "https://www.easyuni.my/malaysia/universiti-tenaga-nasional-uniten-272/bachelor-of-mechanical-engineering-hons-27709/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Mechanical Engineering (Hons)",
   "program_name_zh": "Mechanical Engineering (Hons)学士",
   "field_ar": "الهندسة",

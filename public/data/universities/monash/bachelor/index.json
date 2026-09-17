@@ -3,7 +3,7 @@
   "university_slug": "monash",
   "level": "bachelor",
   "level_label": "Bachelor's Degree",
-  "program_count": 37,
+  "program_count": 36,
   "programs": [
     {
       "slug": "bachelor-of-arts-and-social-sciences",
@@ -136,18 +136,13 @@
       "field": "Medicine & Health Sciences"
     },
     {
-      "slug": "bachelor-of-psychological-science",
-      "name": "Bachelor of Psychological Science",
-      "field": "Medicine & Health Sciences"
-    },
-    {
       "slug": "bachelor-of-psychological-science-and-business",
-      "name": "Bachelor of Psychological Science and Business",
+      "name": "Bachelor of Psychology and Business",
       "field": "Medicine & Health Sciences"
     },
     {
       "slug": "bachelor-of-psychological-science-honours",
-      "name": "Bachelor of Psychological Science (Honours)",
+      "name": "Bachelor of Psychology (Honours)",
       "field": "Medicine & Health Sciences"
     },
     {
@@ -193,10 +188,10 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 105000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 35000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    "per_year_local": 43200,
+    "per_year_international": 49920,
+    "notes": "Monash Malaysia official 2026 fee schedule: international undergraduate annual tuition from RM49,920 (arts) to RM138,720 (Medicine); Malaysian from RM43,200. Lowest annual values shown. Source: https://www.monash.edu.my/study/undergraduate/fees"
   }
 }

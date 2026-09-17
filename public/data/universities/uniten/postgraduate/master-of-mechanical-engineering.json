@@ -5,44 +5,41 @@
   "program_name": "Master of Mechanical Engineering",
   "program_slug": "master-of-mechanical-engineering",
   "field": "Engineering",
-  "duration": "2-3 years (FT) / 3-4 years (PT)",
+  "duration": "2 - 3 years (Full-time) / 3 - 4 years (Part-time)",
   "mode": "Flexible Full-time/Part-time",
   "intakes": [
     "January",
-    "July",
     "September"
   ],
   "fees": {
     "currency": "MYR",
     "total": 16800,
-    "per_year": 4933,
-    "notes": " (per_year based on 3.0yr duration)"
+    "per_year": 8400,
+    "notes": "Maps to the official Master of Science in Mechanical Engineering (By Research). International student tuition: RM16,800 total. Source: https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-mechanical-engineering-by-research/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Postgraduate Fee Structure (Dec 2024). per_year = total / 2yr nominal duration."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 5.0/TOEFL 3.0/MUET 3.5/Linguaskill 154",
+    "other_qualifications": "A Bachelor's degree in the field or related fields with minimum CGPA 2.75; or CGPA 2.50-2.75 subject to rigorous internal assessment; or CGPA 2.00-2.50 with 5 years relevant work experience and rigorous internal assessment; or prerequisite courses for non-related fields; or APEL-A certification from MQA."
   },
   "accreditation": {
-    "mqa_code": null,
-    "status": "Accredited by MQA"
+    "mqa_status": "MQA accredited",
+    "mqa_ref": "R3/0710/7/0034 (04/29) (MQA/A9733)"
   },
   "structure_type": "By Research (Structure A)",
   "sources": [
-    "https://www.uniten.edu.my/programme/postgraduate/",
-    "https://www.studymalaysia.com/what/course/UNITEN/0006299/",
     {
-      "url": "https://www.studymalaysia.com/edu/uniten/courses/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-15T00:00:00+08:00"
+      "url": "https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-mechanical-engineering-by-research/",
+      "publisher": "UNITEN",
+      "fetched_at": "2026-09-18"
     },
     {
-      "url": "https://www.easyuni.my/malaysia/universiti-tenaga-nasional-uniten-272/msc-in-mechanical-engineering-274787/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
+      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/n3qjdeqf/uniten-fee-structure-international-pg.pdf",
+      "publisher": "UNITEN International Postgraduate Fee Structure (Dec 2024)",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "verified",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Mechanical Engineering",
   "program_name_zh": "Mechanical Engineering硕士",
   "field_ar": "الهندسة",

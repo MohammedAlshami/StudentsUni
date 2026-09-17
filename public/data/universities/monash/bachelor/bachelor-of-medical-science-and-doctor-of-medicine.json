@@ -7,19 +7,19 @@
   "duration": "5 years",
   "mode": "Full-time",
   "intakes": [
-    "Feb"
+    "February"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 134880,
-    "per_year": "RM117,600 per year",
-    "notes": null
+    "total": null,
+    "per_year": 138720,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM117,600/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 7.0 (Listening 6.5, Reading 6.5, Writing 6.5, Speaking 6.5) or TOEFL iBT 94 or PTE 65",
+    "a_level": "GCE A Level aggregate 14",
+    "ib": "IB 36 points",
+    "other_qualifications": "Satisfactory completion of an appropriate pre-university course with Chemistry at Year 12; ISAT minimum 159; Malaysian Medical Council requirements; multiple mini-interviews"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -27,20 +27,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-medical-science-doctor-medicine",
-    "https://www.studymalaysia.com/what/course/MONASH/0057181/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medical Science and Doctor of Medicine",
   "program_name_zh": "Medical Science and Doctor of Medicine学士",
   "field_ar": "الطب",

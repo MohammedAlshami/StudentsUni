@@ -87,7 +87,6 @@ export default async function UniversityDetailPage({
   const image = getUniversityImage(slug);
   const coverPhoto = UNIVERSITY_PHOTOS[slug] ?? null;
   const gallery = getUniversityGallery(slug);
-  const hasSpecificGallery = gallery.some((g) => g.specific);
 
   const levels = detectLevels(slug);
   const levelPrograms = getProgramsByLevel(displayName, slug, levels);
@@ -233,21 +232,29 @@ export default async function UniversityDetailPage({
       </div>
 
       {/* Gallery */}
-      <div className={`${wrap} pb-[42px]`}>
-        <Label>{t("gallery")}</Label>
-        <div className="grid grid-cols-2 gap-[10px] md:grid-cols-[1.45fr_1fr] md:grid-rows-2">
-          <img
-            src={gallery[0].url}
-            alt={displayName}
-            className="row-span-2 h-[220px] w-full object-cover md:h-full"
-          />
-          <img src={gallery[1].url} alt={displayName} className="h-[105px] w-full object-cover md:h-full" />
-          <img src={gallery[2].url} alt={displayName} className="h-[105px] w-full object-cover md:h-full" />
+      {gallery.length > 0 && (
+        <div className={`${wrap} pb-[42px]`}>
+          <Label>{t("gallery")}</Label>
+          {gallery.length >= 3 ? (
+            <div className="grid grid-cols-2 gap-[10px] md:grid-cols-[1.45fr_1fr] md:grid-rows-2">
+              <img
+                src={gallery[0]}
+                alt={displayName}
+                className="row-span-2 h-[220px] w-full object-cover md:h-full"
+              />
+              <img src={gallery[1]} alt={displayName} className="h-[105px] w-full object-cover md:h-full" />
+              <img src={gallery[2]} alt={displayName} className="h-[105px] w-full object-cover md:h-full" />
+            </div>
+          ) : (
+            <div className={`grid gap-[10px] ${gallery.length === 2 ? "grid-cols-2" : "grid-cols-1"}`}>
+              {gallery.map((url) => (
+                <img key={url} src={url} alt={displayName} className="h-[220px] w-full object-cover" />
+              ))}
+            </div>
+          )}
+          <p className="mt-[10px] text-[11px] text-black/40">{t("galleryCaptionSpecific")}</p>
         </div>
-        <p className="mt-[10px] text-[11px] text-black/40">
-          {hasSpecificGallery ? t("galleryCaptionSpecific") : t("galleryCaptionGeneric")}
-        </p>
-      </div>
+      )}
 
       {/* Programs by Level */}
       <div className={`${wrap} pb-[52px]`}>
@@ -261,8 +268,12 @@ export default async function UniversityDetailPage({
           <div className="mx-auto mb-[21px] grid h-[52px] w-[52px] place-items-center rounded-full border-[3px] border-[#285b50] text-[#285b50]">
             <ArrowUpRight size={25} className="rtl:rotate-90" />
           </div>
-          <div className="grid h-[270px] grid-cols-[130px_1fr_130px] items-center bg-white text-center md:grid-cols-[237px_1fr_231px]">
-            <Pic src={gallery[0].url} className="h-[270px] w-full" />
+          <div
+            className={`grid h-[270px] items-center bg-white text-center ${
+              gallery.length >= 2 ? "grid-cols-[130px_1fr_130px] md:grid-cols-[237px_1fr_231px]" : "grid-cols-1"
+            }`}
+          >
+            {gallery.length >= 2 && <Pic src={gallery[0]} className="h-[270px] w-full" />}
             <div>
               <Label>{tCommon("freeConsultation")}</Label>
               <Heading className="text-[29px] md:text-[36px]">
@@ -274,7 +285,9 @@ export default async function UniversityDetailPage({
                 <Pill>{tCommon("talkToUs")}</Pill>
               </div>
             </div>
-            <Pic src={gallery[gallery.length > 2 ? 2 : 1].url} className="h-[270px] w-full" />
+            {gallery.length >= 2 && (
+              <Pic src={gallery[gallery.length > 2 ? 2 : 1]} className="h-[270px] w-full" />
+            )}
           </div>
         </div>
       </div>

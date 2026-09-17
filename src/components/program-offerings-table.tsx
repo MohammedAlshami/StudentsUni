@@ -5,6 +5,7 @@ import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { getUniversityImage } from "@/lib/university-images";
+import { formatUsd } from "@/lib/fees";
 import type { ProgramLevelGroup, ProgramOffering } from "@/lib/program-catalog";
 
 const LEVEL_KEYS: Record<ProgramLevelGroup, string> = {
@@ -19,11 +20,6 @@ const LEVEL_KEYS: Record<ProgramLevelGroup, string> = {
 };
 
 const PAGE_SIZE = 10;
-
-function formatFee(value: number | null, currency: string): string {
-  if (!value) return "—";
-  return `${currency} ${Math.round(value).toLocaleString()}`;
-}
 
 function pageNumbers(current: number, total: number): (number | "…")[] {
   if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1);
@@ -85,8 +81,8 @@ export function ProgramOfferingsTable({ offerings }: { offerings: ProgramOfferin
                     {tLevels(LEVEL_KEYS[o.level_group] as "foundation")}
                   </td>
                   <td className="py-[12px] pe-[16px] text-black/60">{o.duration ?? "—"}</td>
-                  <td className="py-[12px] pe-[16px] font-semibold">{formatFee(o.feeTotal, o.currency)}</td>
-                  <td className="py-[12px] font-semibold">{formatFee(o.feePerYear, o.currency)}</td>
+                  <td className="py-[12px] pe-[16px] font-semibold">{formatUsd(o.feeTotal, o.currency) ?? "—"}</td>
+                  <td className="py-[12px] font-semibold">{formatUsd(o.feePerYear, o.currency) ?? "—"}</td>
                 </tr>
               );
             })}

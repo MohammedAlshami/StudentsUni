@@ -4,22 +4,24 @@
   "level": "bachelor",
   "program_name": "Bachelor of Psychology",
   "field": "Medicine & Health Sciences",
-  "duration": "1 year",
+  "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
-    "Feb"
+    "February",
+    "July",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 49920,
-    "per_year": "RM42,315 per year",
-    "notes": null
+    "total": null,
+    "per_year": 49920,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM43,200/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "a_level": "GCE A Level aggregate 8",
+    "ib": "IB 26 points",
+    "other_qualifications": "Prerequisites: Credit average in Mathematics (Australian Year 11 equivalent) or Pass in Mathematics (Australian Year 12 equivalent); Credit average in one of Biology, Chemistry, Physics, General Science or Applied Science"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -27,19 +29,10 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-of-psychology",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    }
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Psychology",
   "program_name_zh": "Psychology学士",
   "field_ar": "الطب",

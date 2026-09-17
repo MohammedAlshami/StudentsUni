@@ -2,26 +2,22 @@
   "university": "Monash University Malaysia",
   "university_slug": "monash",
   "level": "bachelor",
-  "program_name": "Bachelor of Psychological Science (Honours)",
+  "program_name": "Bachelor of Psychology (Honours)",
   "field": "Medicine & Health Sciences",
-  "duration": "1 year (Honours year)",
+  "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "February",
-    "July",
-    "October"
+    "February"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 43575,
-    "per_year": "RM43,575 per year",
-    "notes": null
+    "total": null,
+    "per_year": 51360,
+    "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM44,160/year. 6% service tax applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 (no band less than 6.0) or equivalent",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 6.5 (no band less than 6.0) or TOEFL iBT 79 or PTE 58",
+    "other_qualifications": "Bachelor's degree with a psychology major accredited by the Australian Psychology Accreditation Council (APAC), or equivalent; minimum distinction average (75%) in core psychology units at second and third-year level; suitable background in research methods"
   },
   "accreditation": {
     "mqa_status": "Accredited",
@@ -29,12 +25,12 @@
   },
   "sources": [
     "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-psychology-honours",
-    "https://www.studymalaysia.com/what/course/MONASH/0054350/"
+    "https://www.monash.edu.my/study/undergraduate/fees"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
-  "program_name_ar": "بكالوريوس Psychological Science (Honours)",
-  "program_name_zh": "Psychological Science (Honours)学士",
+  "last_updated": "2026-09-18",
+  "program_name_ar": "بكالوريوس Psychology (Honours)",
+  "program_name_zh": "Psychology (Honours)学士",
   "field_ar": "الطب",
   "field_zh": "医学"
 }

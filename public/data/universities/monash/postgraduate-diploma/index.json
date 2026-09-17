@@ -3,25 +3,20 @@
   "university_slug": "monash",
   "level": "postgraduate-diploma",
   "level_label": "Postgraduate Diploma",
-  "program_count": 2,
+  "program_count": 1,
   "programs": [
     {
       "slug": "postgraduate-diploma-in-business-and-commerce",
       "name": "Postgraduate Diploma in Business and Commerce",
       "field": "Business"
-    },
-    {
-      "slug": "postgraduate-diploma-in-biomedical-science",
-      "name": "Postgraduate Diploma in Biomedical Science",
-      "field": "Medicine & Health Sciences"
     }
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 22000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 22000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1yr duration)"
+    "per_year_local": 42240,
+    "per_year_international": 48000,
+    "notes": "Monash Malaysia official 2026 fee schedule: Postgraduate Diploma in Business and Commerce international tuition RM48,000 per year; Malaysian RM42,240 per year. Source: https://www.monash.edu.my/study/postgraduate-and-research/fees"
   }
 }

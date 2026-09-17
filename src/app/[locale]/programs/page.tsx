@@ -26,8 +26,8 @@ export default async function ProgramsPage({ params }: { params: Promise<{ local
     field: p.field,
     levels: p.levels,
     universityCount: p.universityCount,
-    feeMin: p.feeMin,
-    feeMax: p.feeMax,
+    feePerYearMin: p.feePerYearMin,
+    feePerYearMax: p.feePerYearMax,
   }));
   const universityCount = new Set(
     PROGRAM_CATALOG.flatMap((p) => p.offerings.map((o) => o.university_slug))

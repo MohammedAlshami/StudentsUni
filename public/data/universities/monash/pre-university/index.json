@@ -9,79 +9,93 @@
       "program_name": "Monash University Foundation Year (MUFY)",
       "program_slug": "monash-university-foundation-year",
       "field": "Foundation Studies",
-      "duration": "1 year (3 semesters)",
+      "duration": "12 months (2 semesters; option to extend to 3 semesters)",
       "mode": "Full-time",
       "intakes": [
         "January",
-        "April",
+        "July",
         "August"
       ],
       "fees": {
         "local": null,
         "international": null,
-        "notes": "Enquire for fees"
+        "notes": "Fees not published on monash.edu.my; official Monash College/Sunway College MUFY 2026 brochure: RM38,600-RM41,000 (Sunway College KL) or RM27,000-RM29,400 (Sunway College Johor Bahru), excluding lab fees; international students pay additional RM2,250 admin fee + 6% SST."
       },
-      "requirements": null,
+      "requirements": {
+        "english_requirement": "IELTS 5.5 (no band less than 5.0) or SPM/O-Level English credit or equivalent",
+        "other_qualifications": "SPM/O-Level pass with minimum 5 credits including English, or UEC with minimum 3 Bs"
+      },
       "accreditation": "MQA",
       "sources": [
-        "https://www.monash.edu.my/study/diploma-and-pathway/mufy"
+        "https://www.monash.edu.my/study/diploma-and-pathway/mufy",
+        "https://sunwaycollege.edu.my/programmes/pre-university-foundation/monash-university-foundation-year"
       ],
-      "confidence": "medium",
-      "last_updated": "2026-09-14"
+      "confidence": "high",
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Diploma of Business",
       "program_slug": "diploma-of-business",
       "field": "Business",
-      "duration": "1.5 years (3 semesters)",
+      "duration": "2 years (full-time)",
       "mode": "Full-time",
       "intakes": [
         "February",
-        "July"
+        "July",
+        "October"
       ],
       "fees": {
-        "local": null,
-        "international": null,
-        "notes": "Enquire for fees"
+        "local": 35040,
+        "international": 40320,
+        "notes": "Monash Malaysia official 2026 fee schedule (international annual tuition); Malaysian RM35,040/year. 6% SST applies to international students from 1 Jul 2025. Source: https://www.monash.edu.my/study/undergraduate/fees"
       },
-      "requirements": null,
+      "requirements": {
+        "english_requirement": "IELTS 5.5 (no band less than 5.0) or TOEFL iBT 46 or PTE 47",
+        "other_qualifications": "SPM/O-Level or equivalent; credit in Mathematics (Australian Year 11 equivalent)"
+      },
       "accreditation": "MQA",
       "sources": [
-        "https://www.monash.edu.my/study/diploma-and-pathway/diploma-of-business"
+        "https://www.monash.edu.my/study/diploma-and-pathway/diploma-of-business",
+        "https://www.monash.edu.my/study/undergraduate/fees"
       ],
-      "confidence": "medium",
-      "last_updated": "2026-09-14"
+      "confidence": "high",
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Diploma of Higher Education Studies",
       "program_slug": "diploma-of-higher-education-studies",
       "field": "General Studies",
-      "duration": "1.5 years (3 semesters)",
+      "duration": "1 year",
       "mode": "Full-time",
       "intakes": [
         "February",
-        "July"
+        "July",
+        "October"
       ],
       "fees": {
-        "local": null,
-        "international": null,
-        "notes": "Enquire for fees"
+        "local": 39840,
+        "international": 46080,
+        "notes": "Non-science stream international RM46,080/year; science stream RM51,840/year (Malaysian RM39,840/RM45,120). Monash Malaysia official 2026 fee schedule. Source: https://www.monash.edu.my/study/undergraduate/fees"
       },
-      "requirements": null,
+      "requirements": {
+        "english_requirement": "Monash minimum English language requirements apply (see official English requirements)",
+        "other_qualifications": "Completed pre-university or foundation qualification; specific subject requirements apply per stream"
+      },
       "accreditation": "MQA",
       "sources": [
-        "https://www.monash.edu.my/study/diploma-and-pathway/diploma-higher-education-studies"
+        "https://www.monash.edu.my/study/diploma-and-pathway/diploma-higher-education-studies",
+        "https://www.monash.edu.my/study/undergraduate/fees"
       ],
-      "confidence": "medium",
-      "last_updated": "2026-09-14"
+      "confidence": "high",
+      "last_updated": "2026-09-18"
     }
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 33000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 22000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "per_year_local": 35040,
+    "per_year_international": 40320,
+    "notes": "Monash Malaysia official 2026 fee schedule: Diploma of Business international RM40,320/year; Diploma of Higher Education Studies RM46,080-RM51,840/year. MUFY fees from Sunway College 2026 brochure. Lowest annual values shown. Source: https://www.monash.edu.my/study/undergraduate/fees"
   }
 }
