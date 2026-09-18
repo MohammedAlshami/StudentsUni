@@ -5,13 +5,13 @@
   "program_name": "Master in Artificial Intelligence (Open & Distance Learning – ODL)",
   "program_slug": "master-in-artificial-intelligence-odl",
   "field": "Computing & IT",
-  "duration": "Minimum 1 year (full-time), minimum 2 years (part-time)",
+  "duration": "1-3 years (full-time) / 2-5 years (part-time)",
   "mode": "Open and Distance Learning (ODL)",
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 25000,
     "per_year": null,
-    "notes": "Unverified: HELP University publishes only a Malaysian-student fee summary (2026 HELP University Programme Fees Summary, July 2026, 2026-09-18); no public international-student fee schedule exists. International applicants are directed to contact HELP. Previous third-party/estimated value removed."
+    "notes": "HELP University published international student programme fee: RM 25,000 (total programme fee, standard rate; excludes application fee, EMGS service charge, administration fee and 6% SST). Special Fee 2026 (International): RM 20,000. Source: https://university.help.edu.my/programme/master-in-artificial-intelligence-odl/, fetched 2026-09-18."
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0059085/",
@@ -20,12 +20,20 @@
       "url": "https://university.help.edu.my/brochures/",
       "publisher": "help",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://university.help.edu.my/programme/master-in-artificial-intelligence-odl/",
+      "publisher": "HELP University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
   "last_updated": "2026-09-18",
   "intakes": [
-    "Modular"
+    "Jan",
+    "Apr",
+    "Jul",
+    "Oct"
   ],
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",

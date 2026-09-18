@@ -3,30 +3,32 @@
     "slug": "doctor-of-philosophy-in-education",
     "program_name": "Doctor Of Philosophy In Education",
     "field": "Education",
-    "duration": "2 Years",
+    "duration": "3 - 8 Years",
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 33000,
+      "local_total": 16200,
+      "international_total": 26400,
+      "per_year_local": 5400.0,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
-    }
+      "notes": "Official UNISEL international tuition fee for this programme: RM26,400 total programme fee. Source: https://unisel.edu.my/program-post/doctor-of-philosophy-in-education/ (accessed 2026-09-18). fees.per_year not set because the official duration is a range. Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "phd-in-management",
     "program_name": "PhD in Management",
     "field": "Business",
-    "duration": "2 Years",
+    "duration": "3 - 8 Years",
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 33000,
+      "local_total": 16200,
+      "international_total": 39000,
+      "per_year_local": 5400.0,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
-    }
+      "notes": "Official UNISEL international tuition fee for this programme: RM39,000 total programme fee. Source: https://unisel.edu.my/program-post/phd-in-management/ (accessed 2026-09-18). fees.per_year not set because the official duration is a range. Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   }
 ]

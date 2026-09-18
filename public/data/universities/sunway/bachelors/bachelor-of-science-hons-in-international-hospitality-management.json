@@ -15,9 +15,9 @@
   ],
   "fees": {
     "currency": "USD",
-    "total": null,
+    "total": 28569,
     "per_year": 9523,
-    "notes": "Official estimated annual international course fee (Year 2026): USD 9,523 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
+    "notes": "Official Sunway University international student annual fee (Year 2026): USD 9,523, published on the programme page and payable in RM equivalent at the prevailing exchange rate. Total (USD 28,569) derived as annual fee x 3 years. Source: https://sunwayuniversity.edu.my/school-of-hospitality-and-tourism-management/courses/bachelor-of-science-honours-international-hospitality-management, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",

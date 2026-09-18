@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: not listed in the official fee table; checked official fee schedule https://www.umwales.edu.my/admissions/fees/ on 2026-09-18. Previous third-party/estimated value removed."
+    "total": 68900,
+    "per_year": 22966.67,
+    "notes": "International tuition per the official programme page: RM68,900 total single award (optional dual award +RM19,080). 3-year programme, so per_year = 68,900 / 3 (derived). Source: https://www.umwales.edu.my/portfolios/bachelor-of-business-administration-hons-in-islamic-finance/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -35,7 +35,8 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.umwales.edu.my/portfolios/bachelor-of-business-administration-hons-in-islamic-finance/"
   ],
   "confidence": "high",
   "last_updated": "2026-09-18",

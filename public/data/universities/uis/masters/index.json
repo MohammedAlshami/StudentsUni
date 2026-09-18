@@ -6,24 +6,24 @@
     "program_name": "Master of Business Administration",
     "field": "Business",
     "slug": "master-of-business-administration",
-    "duration": null,
+    "duration": "1 year 2 months (full-time)",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 33000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "local_total": 12330,
+      "international_total": 15370,
+      "per_year_local": 12330.0,
+      "per_year_international": 13174.29,
+      "notes": "Official UIS international fee for Ijazah Sarjana Pentadbiran Perniagaan (Muamalah) (Masters of Business Administration (Muamalah)) (programme code mg01), last published on study.uis.edu.my (capture 20240709202853): RM15,370 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/mg01, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240709202853/https://study.uis.edu.my/mg01."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -32,24 +32,24 @@
     "program_name": "Master of Education",
     "field": "Education",
     "slug": "master-of-education",
-    "duration": null,
+    "duration": "2 years (full-time)",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 33000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "local_total": 9370,
+      "international_total": 14440,
+      "per_year_local": 4685.0,
+      "per_year_international": 7220.0,
+      "notes": "Official UIS international fee for Ijazah Sarjana Pendidikan (Pendidikan Islam) (Masters of Education (Islamic Education)) (programme code mt15), last published on study.uis.edu.my (capture 20250122142920): RM14,440 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/mt15, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20250122142920/https://study.uis.edu.my/mt15."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -58,24 +58,24 @@
     "program_name": "Master of Islamic Studies",
     "field": "Islamic Studies",
     "slug": "master-of-islamic-studies",
-    "duration": null,
+    "duration": "1 year 6 months (full-time)",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 33000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "local_total": 13810,
+      "international_total": 17200,
+      "per_year_local": 13810.0,
+      "per_year_international": 11466.67,
+      "notes": "Official UIS international fee for Ijazah Sarjana Syariah (Pengurusan) (Master of Syariah (Management)) (programme code mg02), last published on study.uis.edu.my (capture 20240706183653): RM17,200 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/mg02, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240706183653/https://study.uis.edu.my/mg02."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -84,24 +84,24 @@
     "program_name": "Master of Computer Science",
     "field": "Computer Science",
     "slug": "master-of-computer-science",
-    "duration": null,
+    "duration": "2-4 years (full-time)",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 33000,
-      "international_total": null,
-      "per_year_local": 22000,
+      "local_total": 8510,
+      "international_total": 15460,
+      "per_year_local": 4255.0,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "notes": "Official UIS international fee for Sarjana Sains Teknologi Maklumat (Masters of Science in Information Technology) (programme code mt23), last published on study.uis.edu.my (capture 20250219104549): RM15,460 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/mt23, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year not set because the official duration is a range. Source: https://web.archive.org/web/20250219104549/https://study.uis.edu.my/mt23."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -110,16 +110,16 @@
     "program_name": "Master of Halal Management",
     "field": "Business",
     "slug": "master-of-halal-management",
-    "duration": null,
+    "duration": "3 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 33000,
+      "local_total": null,
       "international_total": null,
-      "per_year_local": 22000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "notes": "No international fee published: no Master of Halal Management appears in UIS's official postgraduate programme lists - coursework (https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus) or research (https://study.uis.edu.my/peringkat-ijazah-sarjana-penyelidikan) - accessed 2026-09-18. Fee left null because no official international fee is published."
     },
     "requirements": null,
     "accreditation": null,
@@ -127,7 +127,7 @@
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-penyelidikan"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -136,23 +136,23 @@
     "program_name": "Master of Communication",
     "field": "Media",
     "slug": "master-of-communication",
-    "duration": null,
+    "duration": "2 years (full-time)",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 33000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "local_total": 9880,
+      "international_total": 11950,
+      "per_year_local": 4940.0,
+      "per_year_international": 5975.0,
+      "notes": "Official UIS international fee for Ijazah Sarjana Komunikasi (Master in Communication) (programme code mt14), last published on study.uis.edu.my (capture 20241208084143): RM11,950 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/mt14, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20241208084143/https://study.uis.edu.my/mt14."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-penyelidikan"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   }
 ]

@@ -6,24 +6,24 @@
     "program_name": "Diploma in Islamic Studies",
     "field": "Islamic Studies",
     "slug": "diploma-in-islamic-studies",
-    "duration": null,
+    "duration": "2.5 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 40000,
-      "international_total": null,
-      "per_year_local": 16000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "local_total": 21445,
+      "international_total": 26345,
+      "per_year_local": 8578.0,
+      "per_year_international": 10538.0,
+      "notes": "Official UIS international fee for Diploma Pengajian Syariah (Diploma in Syariah Studies) (programme code is12), last published on study.uis.edu.my (capture 20240706192727): RM26,345 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/is12, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240706192727/https://study.uis.edu.my/is12."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-diploma"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -32,24 +32,24 @@
     "program_name": "Diploma in Accounting",
     "field": "Business",
     "slug": "diploma-in-accounting",
-    "duration": null,
+    "duration": "3 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 40000,
-      "international_total": null,
-      "per_year_local": 16000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "local_total": 20158,
+      "international_total": 24588,
+      "per_year_local": 6719.33,
+      "per_year_international": 8196.0,
+      "notes": "Official UIS international fee for Diploma Perakaunan (Diploma in Accountancy) (programme code ms31), last published on study.uis.edu.my (capture 20240730031635): RM24,588 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/ms31, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240730031635/https://study.uis.edu.my/ms31."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-diploma"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -58,24 +58,24 @@
     "program_name": "Diploma in Business Administration",
     "field": "Business",
     "slug": "diploma-in-business-administration",
-    "duration": null,
+    "duration": "3 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 40000,
-      "international_total": null,
-      "per_year_local": 16000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "local_total": 20488,
+      "international_total": 24988,
+      "per_year_local": 6829.33,
+      "per_year_international": 8329.33,
+      "notes": "Official UIS international fee for Diploma Pengurusan Perniagaan (Diploma in Business Management) (programme code ms32), last published on study.uis.edu.my (capture 20240729122552): RM24,988 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/ms32, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240729122552/https://study.uis.edu.my/ms32."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-diploma"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -84,24 +84,24 @@
     "program_name": "Diploma in Computer Science",
     "field": "Computer Science",
     "slug": "diploma-in-computer-science",
-    "duration": null,
+    "duration": "2 years 3 months",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 40000,
-      "international_total": null,
-      "per_year_local": 16000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "local_total": 21208,
+      "international_total": 24508,
+      "per_year_local": 10604.0,
+      "per_year_international": 10892.44,
+      "notes": "Official UIS international fee for Diploma Sains Komputer (Diploma in Computer Science) (programme code ms39), last published on study.uis.edu.my (capture 20240805034809): RM24,508 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/ms39, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240805034809/https://study.uis.edu.my/ms39."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-diploma"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -110,16 +110,16 @@
     "program_name": "Diploma in Education",
     "field": "Education",
     "slug": "diploma-in-education",
-    "duration": null,
+    "duration": "3 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 40000,
+      "local_total": 21408,
       "international_total": null,
-      "per_year_local": 16000,
+      "per_year_local": 7136.0,
       "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "notes": "No international fee published: UIS offers ES52 Diploma in Teaching (TESL) and ES53 Diploma in Teaching (Islamic Education); the July 2024 official pages publish Malaysian fees only, with no international total, and the current pages say fee information will be updated soon (accessed 2026-09-18). Fee left null because no official international fee is published."
     },
     "requirements": null,
     "accreditation": null,
@@ -127,6 +127,6 @@
       "https://study.uis.edu.my/peringkat-diploma"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   }
 ]

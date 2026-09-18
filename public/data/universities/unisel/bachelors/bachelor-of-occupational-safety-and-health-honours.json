@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: no international-student fee schedule is published on unisel.edu.my (international admissions and programme pages checked 2026-09-18). Previous third-party/estimated value removed."
+    "total": 75786,
+    "per_year": 18946.5,
+    "notes": "Official UNISEL international tuition fee for this programme: RM75,786 total programme fee. Source: https://unisel.edu.my/program-post/bachelor-of-occupational-safety-and-health-honour/ (accessed 2026-09-18). fees.per_year = total / 4 years (official programme duration). Excludes registration and other non-tuition charges."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -30,7 +30,8 @@
       "url": "https://unisel.edu.my/admission-international-student/",
       "publisher": "unisel",
       "fetched_at": "2026-09-18"
-    }
+    },
+    "https://unisel.edu.my/program-post/bachelor-of-occupational-safety-and-health-honour/"
   ],
   "confidence": "medium",
   "last_updated": "2026-09-18",

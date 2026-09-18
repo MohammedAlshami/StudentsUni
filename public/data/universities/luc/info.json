@@ -17,7 +17,7 @@
     "https://www.lincoln.edu.my",
     "https://www.studymalaysia.com/edu/lincoln-university-college/courses/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_counts": {
     "foundation": 1,
     "diploma": 1,
@@ -27,10 +27,10 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 45000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 15000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "Lincoln University College does not publish tuition fees. Official programme pages/FAQ direct fee enquiries to admission@lincoln.edu.my (checked 2026-09-18). Checked lincoln.edu.my sitemap, WordPress media library (988 files) and Wayback archives (2014-2026): no official international fee schedule is published."
   }
 }

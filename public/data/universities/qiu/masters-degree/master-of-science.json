@@ -5,18 +5,19 @@
   "program_name": "Master of Science",
   "field": "Science",
   "slug": "master-of-science",
-  "duration": "Full-time: Minimum 2 years/Maximum 4 years; Part-time: Minimum 3 years/ Maximum 6 years",
+  "duration": "Full-time: Minimum 2 years/Maximum 4 years Part-time: Minimum 3 years/ Maximum 6 years",
   "mode": "Flexible Full-time/Part-time Mode",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "January",
+    "April",
+    "July",
+    "October"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 15333.75,
+    "per_year": 7666.88,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Third-party enrolment platform Uni Enrol lists the international total fee for this programme as USD 15,333.75 over 2 years (USD 7,666.88/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44666-master-of-science-by-research (accessed 2026-09-18)."
   },
   "requirements": null,
   "accreditation": null,
@@ -25,6 +26,11 @@
     {
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44666-master-of-science-by-research",
+      "publisher": "Uni Enrol",
       "fetched_at": "2026-09-18"
     }
   ],

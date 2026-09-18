@@ -4,17 +4,15 @@
   "duration": "3 years",
   "mode": "Onsite",
   "intakes": [
-    "Jul",
-    "Jun",
     "Mar",
-    "Oct",
-    "Sep"
+    "Jun/Jul",
+    "Sep/Oct"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 56400,
     "per_year": null,
-    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "Official IUKL (now KLUST) international fee schedule effective 26 Apr 2022, archived at https://web.archive.org/web/20220627135640id_/https://iukl.edu.my/iukl-application-forms/Undergraduate-International-fee-structure.pdf?v=20220513: tuition RM56,400 total for Technology (Hons) in Automotive (3 years, RM470/credit); approximate all-in programme fee RM68,520. Current KLUST site (checked 2026-09-18) no longer publishes programme fees ('Ask us')."
   },
   "requirements": {
     "general": "Any one of these: STPM: Minimum 2 Principal Passes. A-Level: Minimum 2 Principal Passes. UEC: Minimum 5 Bs (including Mathematics). Diploma / HND: Minimum CGPA of 2.00. Foundation / Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average of 60% or higher in 5 subjects (including Mathematics). CPU / CIMP: Average of 55% or higher in 6 subjects (including Mathematics). IB: 26 points or higher based on 6 subjects. IVQ Technician Diploma: Level 3 in Motor Vehicle Maintenance. DVM: Minimum CGPA of 2.50 (Required to take Remedial Courses during the first semester). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. ENGLISH LANGUAGE REQUIREMENT: IELTS - 5 TOEFL (PBT) - 500 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"

@@ -5,20 +5,18 @@
   "program_name": "Diploma in Information Technology",
   "field": "Computing & IT",
   "slug": "diploma-in-information-technology",
-  "duration": "3 years",
+  "duration": "2 Years 6 Months",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Mar",
+    "January",
     "May",
-    "Sep",
-    "Jan"
+    "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
+    "total": 28560.0,
+    "per_year": 11424.0,
+    "notes": "UNITAR's programme pages publish only the local-student tuition and state 'Price listed above is applicable to local students only' (checked 2026-09-18); it publishes no international fee schedule. EasyUni lists the foreign-student tuition for this programme as MYR 28,560, plus miscellaneous fees of MYR 12,440 (registration/visa/deposit). Source: https://www.easyuni.my/malaysia/unitar-international-university-11409/diploma-in-information-technology-294065/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -53,9 +51,14 @@
       "url": "https://www.unitar.my/programmes/",
       "publisher": "unitar",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/diploma-in-information-technology-294065/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
+  "confidence": "medium",
   "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Information Technology",
   "program_name_zh": "信息技术文凭",

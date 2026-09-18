@@ -4,17 +4,15 @@
   "duration": "3 years",
   "mode": "Onsite",
   "intakes": [
-    "Jul",
-    "Jun",
     "Mar",
-    "Oct",
-    "Sep"
+    "Jun",
+    "Oct"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 56120,
     "per_year": null,
-    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "Official IUKL (now KLUST) international fee schedule effective 26 Apr 2022, archived at https://web.archive.org/web/20220627135640id_/https://iukl.edu.my/iukl-application-forms/Undergraduate-International-fee-structure.pdf?v=20220513: tuition RM56,120 total for Science (Hons) in Economics and Finance (3 years, RM460/credit); approximate all-in programme fee RM68,240. Current KLUST site (checked 2026-09-18) no longer publishes programme fees ('Ask us')."
   },
   "requirements": {
     "general": "Any one of these: STPM: Minimum CGPA of 2.00, pass Mathematics and English in SPM. STAM: Minimum grade of jayyid, pass Mathematics and English in SPM. A-Level: Minimum 2 Principal Passes and pass Mathematics in O-Level. UEC: Minimum 5Bs (pass in Mathematics). Diploma / HND: Minimum CGPA of 2.00 including pass/50% and above in Mathematics. Foundation / Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average 50% including Mathematics. CPU / CIMP: Average of 50% including Mathematics. IB: 24 points or higher based on 6 subjects (minimum level 4 for each subject). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM.   ENGLISH LANGUAGE REQUIREMENTS: IELTS - 6 TOEFL (PBT) - 537 TOEFL (IBT) - 60 PTE - 59 MUET - BAND 4 Cambridge English - 169"

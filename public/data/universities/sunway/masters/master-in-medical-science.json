@@ -6,17 +6,16 @@
   "program_slug": "master-in-medical-science",
   "field": "Medicine & Healthcare",
   "faculty": null,
-  "duration": "2 Years",
+  "duration": "2 Years (full-time) / 3 Years (part-time)",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Jan"
+    "Rolling"
   ],
   "fees": {
     "currency": "USD",
     "total": null,
     "per_year": 12674,
-    "notes": "Official estimated annual international course fee (Year 2026): USD 12,674 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
+    "notes": "Official Sunway University international student annual fee (Year 2026): USD 12,674, published on the programme page and payable in RM equivalent at the prevailing exchange rate. Total not derived (full-time and part-time durations differ). Source: https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/master-medical-science, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -41,11 +40,6 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/msc-in-computer-science-252842/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/master-medical-science",
-      "publisher": "Sunway University",
-      "fetched_at": "2026-09-18"
     },
     {
       "url": "https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/master-medical-science",

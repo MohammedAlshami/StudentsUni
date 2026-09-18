@@ -5,14 +5,13 @@
   "mode": "Onsite",
   "intakes": [
     "Jun",
-    "Mar",
-    "Oct"
+    "Oct/Nov"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 39000,
     "per_year": null,
-    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "Official IUKL (now KLUST) international postgraduate fee schedule effective 6 May 2019, printed 15 Aug 2020, archived at https://web.archive.org/web/20210117085121id_/https://iukl.edu.my/iukl-application-forms/Postgraduate-International-Fee-Structure.pdf?v=2020909: tuition RM39,000 total (2 years, RM650/credit x 60 credits); approximate all-in RM46,800. Current KLUST site (checked 2026-09-18) does not publish programme fees."
   },
   "requirements": {
     "general": "Any one of these: Bachelor of Science in Architectural Studies from IUKL (equivalent to LAM Part 1) with a minimum CGPA of 2.70 and 6 months of industrial training in a related field. Bachelor’s Degree in a related field (equivalent to LAM Part 1) from a recognized institution with a CGPA of 2.70, 6 months of industrial training, and a portfolio review/interview by the admission panel. - Other equivalent qualifications recognized by the Government of Malaysia. English Language Requirements Local Applicants:  MUET Band 2 OR UEC English B4. International Applicants: minimum TOEFL 550 or IELTS 6.0 or Grade C in O-level English or have obtained a degree with English being the medium of instruction  "

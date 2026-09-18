@@ -5,7 +5,7 @@
   "program_name": "Bachelor of Information Technology (Informatics Media) (Hons)",
   "slug": "bachelor-of-information-technology-informatics-media",
   "field": "Computing & IT",
-  "duration": "8 Sem",
+  "duration": "3.5 years (7 semesters)",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Not listed in UniSZA official International Student Tuition Fees schedule (2022); international fee unverified. Source: https://www.unisza.edu.my/student-international/ (accessed 2026-09-18)"
+    "total": 48690,
+    "per_year": 13911.43,
+    "notes": "International tuition per UniSZA's International Student Tuition Fees schedule (2022, the schedule currently linked from the official international page): RM48,000 recurring + RM690 non-recurring = RM48,690 total for the programme listed there as 'ISM Sains Komputer (Informatik Media)' (now Bachelor of Information Technology (Informatics Media)). per_year = RM48,690 / 3.5 years (derived). Source: https://www.unisza.edu.my/wp-content/uploads/2022/Files/INT-INTERNATIONAL-STUDENT-TUITION-FEES-2022.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -26,9 +26,10 @@
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/unisza/courses/",
-    "https://www.unisza.edu.my/wp-content/uploads/2022/Files/INT-INTERNATIONAL-STUDENT-TUITION-FEES-2022.pdf"
+    "https://www.unisza.edu.my/wp-content/uploads/2022/Files/INT-INTERNATIONAL-STUDENT-TUITION-FEES-2022.pdf",
+    "https://www.unisza.edu.my/our-faculties/bachelor-of-information-technology-informatics-media-with-honours/"
   ],
-  "confidence": 0.8,
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Information Technology (Informatics Media) (Hons)",
   "program_name_zh": "信息技术学士（信息媒体）（荣誉）",

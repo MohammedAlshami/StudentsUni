@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 64210,
     "per_year": null,
-    "notes": "Official Linton University College website (https://www.linton.edu.my/ / https://www.luct.edu.my/) did not resolve (DNS NXDOMAIN) on 2026-09-18, so no official fee schedule could be verified. Wayback Machine archives contain no public fee schedule (portal login required). Fees left null rather than estimated. Checked 2026-09-18."
+    "notes": "Official Linton University College fee schedule effective 1 Feb 2014 (archived: https://web.archive.org/web/20141231060716id_/http://www.linton.edu.my/admission/financial-fees): 3-year degree tuition RM64,210 total (RM22,080 + RM21,065 + RM21,065); approximate all-in RM77,610 including external fee RM8,000 and miscellaneous charges RM5,400. Linton's domain no longer resolves (DNS NXDOMAIN, checked 2026-09-18) and no newer official fee schedule was found in Wayback archives (2015-2024)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",

@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 60000,
-    "per_year": 15000,
-    "notes": "No UKM international (UKMi) fee schedule published for this programme in the UKMShape 2024/2025 fee structure (https://www.ukm.my/ukmshape/ukmshape-learning-fees/), so the previous figure is unverified. Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: the programme is not listed in any UKMShape 2024/2025 international tuition schedule (all 116 UKMShape fee PDFs checked; the relevant faculty international schedules list only research-mode Master/PhD and selected executive programmes). Source: https://www.ukm.my/ukmshape/ukmshape-learning-fees/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",

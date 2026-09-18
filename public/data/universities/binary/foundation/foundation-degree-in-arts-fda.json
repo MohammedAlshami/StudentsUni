@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: binary.edu.my was not publicly accessible (Cloudflare bot protection) on 2026-09-18, so no official fee could be checked. Previous estimated value removed."
+    "total": 19500,
+    "per_year": 19500,
+    "notes": "Official Binary Business School international fee table (archived 25 Jan 2025: https://web.archive.org/web/20250125181117id_/https://binary.edu.my/bbs/): RM19,500 total for the 1-year foundation programme. Additional official charges: registration RM600/year, library RM200/year, international admin RM1,960, visa processing RM2,980."
   },
   "requirements": {
     "previous_education": "O Levels with minimum 5 credits"

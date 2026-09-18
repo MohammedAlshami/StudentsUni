@@ -1,20 +1,18 @@
 {
-  "program_name": "Bachelor of Computer Science (Hons)",
+  "program_name": "Bachelor of Science (Architectural Studies)",
   "field": "",
   "duration": "3 years",
   "mode": "Onsite",
   "intakes": [
-    "Jul",
-    "Jun",
     "Mar",
-    "Oct",
-    "Sep"
+    "Jun",
+    "Oct/Nov"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 73200,
     "per_year": null,
-    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "Official IUKL (now KLUST) international fee schedule effective 26 Apr 2022, archived at https://web.archive.org/web/20220627135640id_/https://iukl.edu.my/iukl-application-forms/Undergraduate-International-fee-structure.pdf?v=20220513: tuition RM73,200 total for Science (Architectural Studies) (3 years, RM600/credit); approximate all-in programme fee RM85,320. Current KLUST site (checked 2026-09-18) no longer publishes programme fees ('Ask us')."
   },
   "requirements": {
     "general": "Any one of these: STPM (Arts Stream): Mininimum Grade C (GP 2.00) in any two subjects and a Credit in Additional Math OR Math + one Science/Tech/Engineering subject (SPM/equivalent). STPM (Science Stream): Min. Grade C (GP 2.00) in Mathematics/Additional Mathematics and one Science/ICT subject. STAM: Minimum Grade Jayyid in any two subjects a Credit in Additional Math OR Math + one Science/Tech/Engineering subject (SPM/equivalent). Matriculation/Foundation: Min. CGPA 2.00 and a Credit in Additional Math OR Math + one Science/Tech/Engineering subject (SPM/equivalent). Any Diploma in Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75 and a Credit in Additional Math OR Math + one Science/Tech/Engineering subject (SPM/equivalent). Candidates with a CGPA below 2.75 but more than 2.50 can be admitted subject to a thorough rigorous assessment. Diploma in Computing fields (Level 4, MQF): CGPA Minimum 2.50 (some require Minimum 2.75 or additional assesment). Candidates with a CGPA below 2.50 but more than 2.00 may be admitted subject to a thorough internal evaluation process. Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in Computing fields: Minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval. Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing fields with a minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval. Other Equivalent Qualifications: Must include Math equivalent to Add. Math (or take reinforcement Math in the first semester). Note: Students must pass reinforcement Mathematics before core courses unless exempted. ENGLISH LANGUAGE REQUIREMENT: IELTS - 5.0 TOEFL (PBT) - 500 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3  Cambridge English - 154"
@@ -37,6 +35,6 @@
   ],
   "confidence": "medium",
   "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Computer Science (Hons)",
-  "program_name_zh": "计算机科学学士（荣誉学位）"
+  "program_name_ar": "بكالوريوس Science (Architectural Studies)",
+  "program_name_zh": "建筑学理学学士"
 }

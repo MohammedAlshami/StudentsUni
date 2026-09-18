@@ -4,18 +4,17 @@
   "program_name": "Diploma in Tahfiz Al Quran Wal Qiraat",
   "program_slug": "diploma-in-tahfiz-al-quran-wal-qiraat",
   "field": "Islamic Sciences",
-  "duration": "2.5-3 Years",
+  "duration": "3 Years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "June",
+    "July"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: UNIMEL programme brochures linked from the official programme list are image-only PDFs with no extractable fee text and no public HTML fee schedule exists (checked 2026-09-18). Previous estimated value removed."
+    "currency": "USD",
+    "total": 2537.5,
+    "per_year": 845.83,
+    "notes": "UNIMEL official international programme brochure for the June/July 2026 intake (image-based PDF; fee text OCR-extracted): full-time total programme fee USD 2,537.50. Excludes visa/EMGS and other non-tuition charges. Source: https://register.unimel.edu.my/temp/img/DIPLOMA%20IN%20TAHFIZ%20AL%20QURAN%20WAL%20QIRAAT.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,6 +27,11 @@
       "url": "https://unimel.edu.my/programme-list/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://register.unimel.edu.my/temp/img/DIPLOMA%20IN%20TAHFIZ%20AL%20QURAN%20WAL%20QIRAAT.pdf",
+      "publisher": "UNIMEL",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",

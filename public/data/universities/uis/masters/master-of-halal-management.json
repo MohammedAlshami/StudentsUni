@@ -16,7 +16,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "No tuition fee published on UIS official admissions site (study.uis.edu.my) or main site; international fee unverified. Checked https://study.uis.edu.my/ and https://www.uis.edu.my/ (accessed 2026-09-18)."
+    "notes": "No international fee published: no Master of Halal Management appears in UIS's official postgraduate programme lists - coursework (https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus) or research (https://study.uis.edu.my/peringkat-ijazah-sarjana-penyelidikan) - accessed 2026-09-18. Fee left null because no official international fee is published."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",

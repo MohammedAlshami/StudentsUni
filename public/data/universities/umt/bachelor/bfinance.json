@@ -14,10 +14,10 @@
     "secondary": null
   },
   "fees": {
-    "currency": "MYR",
-    "total": 20400,
-    "per_year": 5100,
-    "notes": "No official UMT international fee published for this programme in the 2025 undergraduate international fee list (https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf); previous figure unverified. Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": 7260,
+    "per_year": 2420,
+    "notes": "International tuition per UMT's official Undergraduate Programme Fees schedule (Jan 2026): USD 1,210 per semester for Bachelor of Finance with Honours; 6 semesters/3 years (official programme page), so total = USD 7,260 and per_year = USD 2,420 (derived). Sources: https://www.umt.edu.my/wp-content/uploads/2026/01/yuran-pengajian-undergrad.pdf, https://www.umt.edu.my/sarjana-muda-kewangan-dengan-kepujian-fpeps/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -28,9 +28,10 @@
   "accreditation": "MQA/FA6343001",
   "sources": [
     "https://umt.my/all-programs-at-umt/",
-    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
+    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG",
+    "https://www.umt.edu.my/wp-content/uploads/2026/01/yuran-pengajian-undergrad.pdf"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Finance with Honours",
   "program_name_zh": "金融学荣誉学士",

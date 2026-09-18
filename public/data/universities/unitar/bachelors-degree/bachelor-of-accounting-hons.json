@@ -5,18 +5,18 @@
   "program_name": "Bachelor of Accounting (Hons)",
   "field": "Accounting & Finance",
   "slug": "bachelor-of-accounting-hons",
-  "duration": "40 months",
+  "duration": "3 Years 6 Months",
   "mode": "Full-time",
   "intakes": [
+    "January",
     "May",
-    "Sep",
-    "Jan"
+    "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
+    "total": 60200.0,
+    "per_year": 17200.0,
+    "notes": "UNITAR's programme pages publish only the local-student tuition and state 'Price listed above is applicable to local students only' (checked 2026-09-18); it publishes no international fee schedule. EasyUni lists the foreign-student tuition for this programme as MYR 60,200, plus miscellaneous fees of MYR 13,150 (registration/visa/deposit). Source: https://www.easyuni.my/malaysia/unitar-international-university-11409/bachelor-of-accounting-hons-294040/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -46,9 +46,14 @@
       "url": "https://www.unitar.my/programmes/",
       "publisher": "unitar",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/bachelor-of-accounting-hons-294040/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
+  "confidence": "medium",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Accounting (Hons)",
   "program_name_zh": "会计学士（荣誉学位）",

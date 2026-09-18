@@ -9,9 +9,9 @@
   "mode": "Full-time Study",
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 39500,
     "per_year": null,
-    "notes": "Unverified: HELP University publishes only a Malaysian-student fee summary (2026 HELP University Programme Fees Summary, July 2026, 2026-09-18); no public international-student fee schedule exists. International applicants are directed to contact HELP. Previous third-party/estimated value removed."
+    "notes": "HELP University published international student programme fee: RM 39,500 (total programme fee, standard rate; excludes application fee, EMGS service charge, administration fee and 6% SST). Source: https://university.help.edu.my/programme/master-of-philosophy-psychology/, fetched 2026-09-18."
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0057366/",
@@ -20,12 +20,19 @@
       "url": "https://university.help.edu.my/brochures/",
       "publisher": "help",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://university.help.edu.my/programme/master-of-philosophy-psychology/",
+      "publisher": "HELP University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
   "last_updated": "2026-09-18",
   "intakes": [
-    "Modular"
+    "Jan",
+    "May-Aug",
+    "Oct-Dec"
   ],
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",

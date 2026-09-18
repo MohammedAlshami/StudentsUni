@@ -6,17 +6,16 @@
   "program_slug": "m-sc-in-computer-science-by-research",
   "field": "Computing & IT",
   "faculty": null,
-  "duration": "2 Years",
+  "duration": "2 Years (full-time) / 3 Years (part-time)",
   "mode": "Flexible Full-time/Part-time",
   "intakes": [
-    "Jan",
-    "Jul"
+    "Rolling"
   ],
   "fees": {
     "currency": "USD",
     "total": null,
     "per_year": 11674,
-    "notes": "Official estimated annual international course fee (Year 2026): USD 11,674 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
+    "notes": "Official Sunway University international student annual fee (Year 2026): USD 11,674, published on the programme page and payable in RM equivalent at the prevailing exchange rate. Total not derived (full-time and part-time durations differ). Source: https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/master-of-science-computer-science, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,11 +26,6 @@
   "sources": [
     "https://www.studymalaysia.com/what/course/SUNWAY/0057912/",
     "https://www.studymalaysia.com/edu/sunway/courses/",
-    {
-      "url": "https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/master-of-science-computer-science",
-      "publisher": "Sunway University",
-      "fetched_at": "2026-09-18"
-    },
     {
       "url": "https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/master-of-science-computer-science",
       "publisher": "Sunway University",

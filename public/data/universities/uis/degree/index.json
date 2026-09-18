@@ -6,24 +6,24 @@
     "program_name": "Bachelor of Islamic Studies",
     "field": "Islamic Studies",
     "slug": "bachelor-of-islamic-studies",
-    "duration": null,
+    "duration": "4 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "local_total": 48179,
+      "international_total": 51034,
+      "per_year_local": 12044.75,
+      "per_year_international": 12758.5,
+      "notes": "Official UIS international fee for Ijazah Sarjana Muda Pengajian Islam (Bahasa Arab dengan Multimedia) (Bachelor of Islamic Studies (Arabic Language with Multimedia) (Hons)) (programme code bi06), last published on study.uis.edu.my (capture 20240722192944): RM51,034 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/bi06, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240722192944/https://study.uis.edu.my/bi06."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -32,24 +32,24 @@
     "program_name": "Bachelor of Accounting",
     "field": "Business",
     "slug": "bachelor-of-accounting",
-    "duration": null,
+    "duration": "4 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "local_total": 50194,
+      "international_total": 57994,
+      "per_year_local": 12548.5,
+      "per_year_international": 14498.5,
+      "notes": "Official UIS international fee for Ijazah Sarjana Muda Perakaunan (Bachelor of Accounting (Honours)) (programme code bb04), last published on study.uis.edu.my (capture 20240722194758): RM57,994 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/bb04, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240722194758/https://study.uis.edu.my/bb04."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -58,24 +58,24 @@
     "program_name": "Bachelor of Business Administration",
     "field": "Business",
     "slug": "bachelor-of-business-administration",
-    "duration": null,
+    "duration": "3 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "local_total": 37301,
+      "international_total": 43201,
+      "per_year_local": 12433.67,
+      "per_year_international": 14400.33,
+      "notes": "Official UIS international fee for Ijazah Sarjana Muda Pentadbiran Perniagaan dengan E-Dagang (Bachelor of Business Administration (Hons)) (programme code bb01), last published on study.uis.edu.my (capture 20240722211012): RM43,201 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/bb01, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240722211012/https://study.uis.edu.my/bb01."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -84,24 +84,24 @@
     "program_name": "Bachelor of Computer Science",
     "field": "Computer Science",
     "slug": "bachelor-of-computer-science",
-    "duration": null,
+    "duration": "4 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "local_total": 43609,
+      "international_total": 49894,
+      "per_year_local": 10902.25,
+      "per_year_international": 12473.5,
+      "notes": "Official UIS international fee for Ijazah Sarjana Muda Teknologi Maklumat (Teknologi Rangkaian) (Bachelor in Information Technology (Hons) (Network Technology)) (programme code bt02), last published on study.uis.edu.my (capture 20240706122411): RM49,894 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/bt02, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240706122411/https://study.uis.edu.my/bt02."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -110,16 +110,16 @@
     "program_name": "Bachelor of Education",
     "field": "Education",
     "slug": "bachelor-of-education",
-    "duration": null,
+    "duration": "3 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
+      "local_total": 41859,
       "international_total": null,
-      "per_year_local": 22000,
+      "per_year_local": 10464.75,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "No international fee published for a generic Bachelor of Education: UIS offers BE01 Education (Hons) TESL with Multimedia, BE02 Islamic Education with Multimedia (Hons) and BE03 Education with Honors (Tahfiz & Al-Qiraat); the July 2024 official pages for BE01 and BE02 publish Malaysian fees only, with no international total, and the current pages say fee information will be updated soon (accessed 2026-09-18). Fee left null because no official international fee is published."
     },
     "requirements": null,
     "accreditation": null,
@@ -127,7 +127,7 @@
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -136,24 +136,24 @@
     "program_name": "Bachelor of Syariah",
     "field": "Islamic Studies",
     "slug": "bachelor-of-syariah",
-    "duration": null,
+    "duration": "4 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "local_total": 49599,
+      "international_total": 57104,
+      "per_year_local": 12399.75,
+      "per_year_international": 14276.0,
+      "notes": "Official UIS international fee for Ijazah Sarjana Muda Syariah dengan Muamalat (Bachelor of Syariah with Muamalat (Hons)) (programme code bs02), last published on study.uis.edu.my (capture 20240707041120): RM57,104 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/bs02, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240707041120/https://study.uis.edu.my/bs02."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -162,24 +162,24 @@
     "program_name": "Bachelor of Media and Communication",
     "field": "Media",
     "slug": "bachelor-of-media-and-communication",
-    "duration": null,
+    "duration": "3 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "local_total": 38428,
+      "international_total": 43438,
+      "per_year_local": 12809.33,
+      "per_year_international": 14479.33,
+      "notes": "Official UIS international fee for Ijazah Sarjana Muda Komunikasi (Penyiaran) (Bachelor of Communication (Broadcasting) (Hons)) (programme code bc02), last published on study.uis.edu.my (capture 20240722193249): RM43,438 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/bc02, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240722193249/https://study.uis.edu.my/bc02."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -188,23 +188,23 @@
     "program_name": "Bachelor of Science in Halal Management",
     "field": "Business",
     "slug": "bachelor-of-science-in-halal-management",
-    "duration": null,
+    "duration": "3 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "local_total": 45679,
+      "international_total": 50884,
+      "per_year_local": 15226.33,
+      "per_year_international": 16961.33,
+      "notes": "Official UIS international fee for Ijazah Sarjana Muda Pengurusan (Industri Halal) (Bachelor in Management (Halal Industry) (Hons)) (programme code bb08), last published on study.uis.edu.my (capture 20240722212546): RM50,884 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/bb08, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240722212546/https://study.uis.edu.my/bb08."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   }
 ]

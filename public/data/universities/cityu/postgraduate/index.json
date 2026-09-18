@@ -3,13 +3,13 @@
   "university_slug": "cityu",
   "level": "postgraduate",
   "level_label": "Postgraduate Studies",
-  "program_count": 23,
+  "program_count": 21,
   "programs": [
     {
       "program_name": "Master of Cyber Security",
       "program_slug": "master-of-cyber-security",
       "field": "Computing & Technology",
-      "duration": "2 years",
+      "duration": "1 year (min) / 2 years (max)",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -19,7 +19,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Architecture",
@@ -35,13 +35,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Architectural Project Management",
       "program_slug": "master-of-architectural-project-management",
       "field": "Architecture & Built Environment",
-      "duration": "2 years",
+      "duration": "1 year",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -51,13 +51,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Business Administration",
       "program_slug": "master-of-business-administration",
       "field": "Business & Management",
-      "duration": "2 years",
+      "duration": "1 year",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -67,7 +67,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Science in Business Administration",
@@ -83,13 +83,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Education",
       "program_slug": "master-of-education",
       "field": "Education",
-      "duration": "2 years",
+      "duration": "1 year",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -99,13 +99,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Accountancy",
       "program_slug": "master-of-accountancy",
       "field": "Accounting & Finance",
-      "duration": "2 years",
+      "duration": "1 year",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -115,13 +115,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Creative Industries and Communication",
       "program_slug": "master-of-creative-industries-communication",
       "field": "Communication & Media",
-      "duration": "2 years",
+      "duration": "1 year",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -131,7 +131,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Sport Studies",
@@ -147,13 +147,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Mechanical Engineering",
       "program_slug": "master-of-mechanical-engineering",
       "field": "Engineering",
-      "duration": "2 years",
+      "duration": "1 year",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -163,13 +163,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Information Technology",
       "program_slug": "master-of-information-technology",
       "field": "Computing & Technology",
-      "duration": "2 years",
+      "duration": "1 year",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -179,13 +179,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Artificial Intelligence",
       "program_slug": "master-of-artificial-intelligence",
       "field": "Computing & Technology",
-      "duration": "2 years",
+      "duration": "1 year",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -195,7 +195,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Philosophy in Built Environment",
@@ -211,7 +211,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Business Administration",
@@ -227,7 +227,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Philosophy (Business Administration)",
@@ -243,7 +243,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Philosophy in Design",
@@ -259,7 +259,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Philosophy in Performing Arts",
@@ -275,7 +275,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Philosophy in Education",
@@ -291,7 +291,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Education",
@@ -307,7 +307,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Philosophy in Sport Studies",
@@ -323,7 +323,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Philosophy in Information Technology",
@@ -339,7 +339,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     }
   ],
   "fees": {
@@ -348,9 +348,11 @@
     "international_total": null,
     "per_year_local": 22000,
     "per_year_international": null,
-    "notes": "No public international fee schedule; latest fee structure is issued by the International Marketing Office on request. Estimates removed from programme files."
+    "notes": "No public international fee schedule is published by City University Malaysia; the latest fee structure is issued by the International Marketing Office (imo@city.edu.my) on request. International totals are left null. Sources checked: https://city.edu.my/admission-scholarships/international-students/; https://city.edu.my/programmes/masters-phd/ (accessed 2026-09-18)."
   },
   "sources": [
-    "https://city.edu.my/admission-scholarships/international-students/"
-  ]
+    "https://city.edu.my/admission-scholarships/international-students/",
+    "https://city.edu.my/programmes/masters-phd/"
+  ],
+  "last_updated": "2026-09-18"
 }

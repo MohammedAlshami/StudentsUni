@@ -3,45 +3,48 @@
     "slug": "master-of-business-administration-mba",
     "program_name": "Master of Business Administration (MBA)",
     "field": "Business",
-    "duration": "1.5 Years",
+    "duration": "2 - 4 Years",
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 44000,
+      "local_total": 24750,
+      "international_total": 38250,
+      "per_year_local": 12375.0,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
-    }
+      "notes": "Official UNISEL international tuition fee for this programme: RM38,250 total programme fee. Source: https://unisel.edu.my/program-post/master-of-business-administration-mba/ (accessed 2026-09-18). fees.per_year not set because the official duration is a range. Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "master-of-education-discipline-management",
     "program_name": "Master Of Education (Discipline Management)",
     "field": "Education",
-    "duration": "2 Years",
+    "duration": "2 - 4 Years",
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 33000,
+      "local_total": 15200,
+      "international_total": 28000,
+      "per_year_local": 7600.0,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
-    }
+      "notes": "Official UNISEL international tuition fee for this programme: RM28,000 total programme fee. Source: https://unisel.edu.my/program-post/master-in-education-discipline-management/ (accessed 2026-09-18). fees.per_year not set because the official duration is a range. Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "master-of-management-by-research",
     "program_name": "Master of Management (By Research)",
     "field": "Business",
-    "duration": "2 Years",
+    "duration": "2 - 4 Years",
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 33000,
+      "local_total": 10800,
+      "international_total": 30000,
+      "per_year_local": 5400.0,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
-    }
+      "notes": "Official UNISEL international tuition fee for this programme: RM30,000 total programme fee. Source: https://unisel.edu.my/program-post/master-of-management/ (accessed 2026-09-18). fees.per_year not set because the official duration is a range. Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   }
 ]

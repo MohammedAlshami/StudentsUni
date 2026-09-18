@@ -8,15 +8,15 @@
   "duration": "Full-time: 3 years Part-time: 5 years",
   "mode": "Flexible Full-time/Part-time Mode",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "April",
+    "July",
+    "October"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 20522.69,
+    "per_year": 6840.9,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Third-party enrolment platform Uni Enrol lists the international total fee for this programme as USD 20,522.69 over 3 years (USD 6,840.90/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44642-bachelor-in-food-science-with-management-honours (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -30,6 +30,11 @@
     {
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44642-bachelor-in-food-science-with-management-honours",
+      "publisher": "Uni Enrol",
       "fetched_at": "2026-09-18"
     }
   ],

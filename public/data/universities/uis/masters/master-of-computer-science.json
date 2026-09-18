@@ -5,7 +5,7 @@
   "program_name": "Master of Computer Science",
   "field": "Computer Science",
   "slug": "master-of-computer-science",
-  "duration": "3 years",
+  "duration": "2-4 years (full-time)",
   "mode": null,
   "intakes": [
     "Sep",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 15460,
     "per_year": null,
-    "notes": "No tuition fee published on UIS official admissions site (study.uis.edu.my) or main site; international fee unverified. Checked https://study.uis.edu.my/ and https://www.uis.edu.my/ (accessed 2026-09-18)."
+    "notes": "Official UIS international fee for Sarjana Sains Teknologi Maklumat (Masters of Science in Information Technology) (programme code mt23), last published on study.uis.edu.my (capture 20250219104549): RM15,460 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/mt23, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year not set because the official duration is a range. Source: https://web.archive.org/web/20250219104549/https://study.uis.edu.my/mt23."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -26,9 +26,11 @@
   "sources": [
     "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus",
     "https://study.uis.edu.my/",
-    "https://www.uis.edu.my/"
+    "https://www.uis.edu.my/",
+    "https://study.uis.edu.my/mt23",
+    "https://web.archive.org/web/20250219104549/https://study.uis.edu.my/mt23"
   ],
-  "confidence": 0.5,
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Computer Science",
   "program_name_zh": "计算机科学硕士",

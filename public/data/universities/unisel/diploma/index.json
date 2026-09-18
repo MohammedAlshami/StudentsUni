@@ -7,12 +7,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 44925,
+      "international_total": 67165,
+      "per_year_local": 14975.0,
+      "per_year_international": 22388.33,
+      "notes": "Official UNISEL international tuition fee for this programme: RM67,165 total programme fee. Source: https://unisel.edu.my/program-post/diploma-nursing/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-medical-laboratory-technology",
@@ -22,27 +23,29 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 240000,
-      "international_total": null,
-      "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 36220,
+      "international_total": 56400,
+      "per_year_local": 12073.33,
+      "per_year_international": 18800.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM56,400 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-medical-laboratory-technology/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-sports-industry-management",
     "program_name": "Diploma in Sports Industry Management",
     "field": "Business",
-    "duration": "2 Years",
+    "duration": "3 Years",
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 33000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
-    }
+      "local_total": 19985,
+      "international_total": 36705,
+      "per_year_local": 6661.67,
+      "per_year_international": 12235.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM36,705 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-sports-industry-management/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-physiotherapy",
@@ -52,12 +55,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 39025,
+      "international_total": 58755,
+      "per_year_local": 13008.33,
+      "per_year_international": 19585.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM58,755 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-physiotherapy/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-photography-technology",
@@ -67,12 +71,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 19655,
+      "international_total": 28875,
+      "per_year_local": 6551.67,
+      "per_year_international": 9625.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM28,875 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-photography-technology/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-medical-imaging",
@@ -82,12 +87,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 240000,
-      "international_total": null,
-      "per_year_local": 80000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 38336,
+      "international_total": 58337,
+      "per_year_local": 12778.67,
+      "per_year_international": 19445.67,
+      "notes": "Official UNISEL international tuition fee for this programme: RM58,337 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-medical-imaging/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-accountancy",
@@ -97,27 +103,29 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 26400,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
-    }
+      "local_total": 19745,
+      "international_total": 38915,
+      "per_year_local": 7898.0,
+      "per_year_international": 15566.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM38,915 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-accountancy/ (accessed 2026-09-18). fees.per_year = total / 2.5 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-administrative-management",
     "program_name": "Diploma in Administrative Management",
     "field": "Business",
-    "duration": "3 Years",
+    "duration": "2.5 Years",
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 15970,
+      "international_total": 32670,
+      "per_year_local": 6388.0,
+      "per_year_international": 13068.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM32,670 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-administrative-management/ (accessed 2026-09-18). fees.per_year = total / 2.5 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-business-management",
@@ -127,12 +135,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 26400,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
-    }
+      "local_total": 19505,
+      "international_total": 37865,
+      "per_year_local": 7802.0,
+      "per_year_international": 15146.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM37,865 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-business-management/ (accessed 2026-09-18). fees.per_year = total / 2.5 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-environmental-health",
@@ -142,27 +151,29 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 37175,
+      "international_total": 57303,
+      "per_year_local": 12391.67,
+      "per_year_international": 19101.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM57,303 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-environmental-health/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-digital-graphic-design",
     "program_name": "Diploma In Digital Graphic Design",
     "field": "Design",
-    "duration": "2.5 Years",
+    "duration": "3 Years",
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 26400,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
-    }
+      "local_total": 16185,
+      "international_total": 25575,
+      "per_year_local": 5395.0,
+      "per_year_international": 8525.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM25,575 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-digital-graphic-design/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "diploma-in-communication-and-media",
@@ -172,11 +183,12 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 26400,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.5yr duration)"
-    }
+      "local_total": 21215,
+      "international_total": 26445,
+      "per_year_local": 8486.0,
+      "per_year_international": 10578.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM26,445 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-communication-media/ (accessed 2026-09-18). fees.per_year = total / 2.5 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   }
 ]

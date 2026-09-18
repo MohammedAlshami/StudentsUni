@@ -3,15 +3,15 @@
     "slug": "bachelor-of-technology-hons-in-construction-management",
     "program_name": "Bachelor of Technology (Hons) in Construction Management",
     "field": "Construction",
-    "duration": "5 Years",
+    "duration": "3 years (ODL full-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 27960,
+      "international_total": 27960,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
@@ -22,11 +22,11 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
+      "local_total": null,
       "international_total": null,
-      "per_year_local": 9000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "Programme no longer listed on WOU's official programme pages (checked 2026-09-18); archived pages and fee-schedule PDFs contain no verifiable fee. Fee remains null."
     }
   },
   {
@@ -37,131 +37,131 @@
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
+      "local_total": null,
       "international_total": null,
-      "per_year_local": 9000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "Programme no longer listed on WOU's official programme pages (checked 2026-09-18); archived pages and fee-schedule PDFs contain no verifiable fee. Fee remains null."
     }
   },
   {
     "slug": "bachelor-of-technology-hons-in-software-engineering",
     "program_name": "Bachelor of Technology (Hons) in Software Engineering",
     "field": "Computing",
-    "duration": "5 Years",
+    "duration": "3 years (full-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 39240,
+      "international_total": 39240,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
     "slug": "bachelor-of-technology-hons-in-electronics",
     "program_name": "Bachelor of Technology (Hons) in Electronics",
     "field": "Engineering",
-    "duration": "5 Years",
+    "duration": "3 years (ODL full-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 30996,
+      "international_total": 30996,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
     "slug": "bachelor-of-arts-hons-in-english-studies",
     "program_name": "Bachelor of Arts (Hons) in English Studies",
     "field": "English",
-    "duration": "5 Years",
+    "duration": "4 years 4 months (part-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 32500,
+      "international_total": 32500,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
     "slug": "bachelor-of-management-hons-with-psychology",
     "program_name": "Bachelor of Management (Hons) with Psychology",
     "field": "Business",
-    "duration": "5 Years",
+    "duration": "3 years (full-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 24000,
+      "international_total": 24000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
     "slug": "bachelor-of-education-hons-in-primary-education",
     "program_name": "Bachelor of Education (Hons) in Primary Education",
     "field": "Education",
-    "duration": "5 Years",
+    "duration": "3 years (full-time); 4 years 4 months (part-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 21600,
+      "international_total": 21600,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
     "slug": "bachelor-of-business-hons-in-sales-and-marketing",
     "program_name": "Bachelor of Business (Hons) in Sales and Marketing",
     "field": "Business",
-    "duration": "5 Years",
+    "duration": "3 years (full-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 24000,
+      "international_total": 24000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
     "slug": "bachelor-of-business-hons-in-management",
     "program_name": "Bachelor of Business (Hons) in Management",
     "field": "Business",
-    "duration": "3 Years",
+    "duration": "3 years (full-time)",
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
+      "local_total": 24000,
+      "international_total": 24000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
     "slug": "bachelor-of-business-hons-in-logistics-and-supply-chain-management",
     "program_name": "Bachelor of Business (Hons) in Logistics and Supply Chain Management",
     "field": "Logistics",
-    "duration": "5 Years",
+    "duration": "3 years (full-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 25200,
+      "international_total": 25200,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
@@ -172,11 +172,11 @@
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
+      "local_total": null,
       "international_total": null,
-      "per_year_local": 9000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "Programme no longer listed on WOU's official programme pages (checked 2026-09-18); archived pages and fee-schedule PDFs contain no verifiable fee. Fee remains null."
     }
   },
   {
@@ -187,41 +187,41 @@
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
+      "local_total": null,
       "international_total": null,
-      "per_year_local": 9000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "Programme no longer listed on WOU's official programme pages (checked 2026-09-18); archived pages and fee-schedule PDFs contain no verifiable fee. Fee remains null."
     }
   },
   {
     "slug": "bachelor-of-business-hons-in-banking-and-finance",
     "program_name": "Bachelor of Business (Hons) in Banking and Finance",
     "field": "Finance",
-    "duration": "5 Years",
+    "duration": "3 years (full-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 24000,
+      "international_total": 24000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
     "slug": "bachelor-of-business-hons-in-accounting",
     "program_name": "Bachelor of Business (Hons) in Accounting",
     "field": "Accounting",
-    "duration": "5 Years",
+    "duration": "3 years (full-time); 4 years 7 months (part-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 24000,
+      "international_total": 24000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   },
   {
@@ -232,11 +232,11 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
+      "local_total": null,
       "international_total": null,
-      "per_year_local": 9000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "Programme no longer listed on WOU's official programme pages (checked 2026-09-18); archived pages and fee-schedule PDFs contain no verifiable fee. Fee remains null."
     }
   },
   {
@@ -247,26 +247,26 @@
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
+      "local_total": null,
       "international_total": null,
-      "per_year_local": 9000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "Programme no longer listed on WOU's official programme pages (checked 2026-09-18); archived pages and fee-schedule PDFs contain no verifiable fee. Fee remains null."
     }
   },
   {
     "slug": "bachelor-of-arts-hons-in-psychology",
     "program_name": "Bachelor of Arts (Hons) in Psychology",
     "field": "Psychology",
-    "duration": "5 Years",
+    "duration": "3 years (full-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 9000,
+      "local_total": 22204,
+      "international_total": 22204,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   }
 ]

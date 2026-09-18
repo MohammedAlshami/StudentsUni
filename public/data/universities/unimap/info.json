@@ -33,9 +33,9 @@
   "fees": {
     "currency": "MYR",
     "local_total": 4200,
-    "international_total": 14020,
+    "international_total": 10560,
     "per_year_local": 1400,
-    "per_year_international": 5592.13,
-    "notes": "Verified international tuition from Universiti Malaysia Perlis official 2026 sources: total from RM14,020 to RM35,600 across 73 programmes; values shown are the lowest totals. Sources: https://admission.unimap.edu.my/international.php; https://cgs.unimap.edu.my/index.php/en/programmes/fees-duration; https://cgs.unimap.edu.my/v2/FEES/International%20APRIL%202023.pdf"
+    "per_year_international": 3520,
+    "notes": "Lowest published international tuition total: RM10,560 (3-year Business & Communication bachelor programme, recurring tuition only; Year 1 also carries a one-off RM5,380 registration & personal bond). Engineering & Technology bachelor programmes are RM18,080 over 4 years. Postgraduate international totals range from RM14,020 (CGS). Sources: https://www.unimap.edu.my/images/admission/TUITION_FEE_SCHEDULE_FOR_INTERNATIONAL_STUDENTS.pdf and https://cgs.unimap.edu.my/index.php/en/programmes/fees-duration (accessed 2026-09-18)."
   }
 }

@@ -9,9 +9,9 @@
   "mode": "Flexible Full-time/Part-time Mode",
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 49000,
     "per_year": null,
-    "notes": "Unverified: HELP University publishes only a Malaysian-student fee summary (2026 HELP University Programme Fees Summary, July 2026, 2026-09-18); no public international-student fee schedule exists. International applicants are directed to contact HELP. Previous third-party/estimated value removed."
+    "notes": "HELP University published international student programme fee: RM 49,000 (total programme fee, standard rate; excludes application fee, EMGS service charge, administration fee and 6% SST). Special Fee 2026 (International): RM 34,500. Source: https://university.help.edu.my/programme/master-of-corporate-governance/, fetched 2026-09-18."
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0056460/",
@@ -20,12 +20,17 @@
       "url": "https://university.help.edu.my/brochures/",
       "publisher": "help",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://university.help.edu.my/programme/master-of-corporate-governance/",
+      "publisher": "HELP University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
   "last_updated": "2026-09-18",
   "intakes": [
-    "Modular"
+    "Rolling"
   ],
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",

@@ -16,7 +16,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "No tuition fee published on UIS official admissions site (study.uis.edu.my) or main site; international fee unverified. Checked https://study.uis.edu.my/ and https://www.uis.edu.my/ (accessed 2026-09-18)."
+    "notes": "No international fee published: UIS offers ES52 Diploma in Teaching (TESL) (https://study.uis.edu.my/es52) and ES53 Diploma in Teaching (Islamic Education) (https://study.uis.edu.my/es53); the July 2024 official pages publish Malaysian fees only, with no international total, and the current pages say fee information will be updated soon (accessed 2026-09-18). International fee left null because no official figure is published."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -27,7 +27,12 @@
   "sources": [
     "https://study.uis.edu.my/peringkat-diploma",
     "https://study.uis.edu.my/",
-    "https://www.uis.edu.my/"
+    "https://www.uis.edu.my/",
+    "https://study.uis.edu.my/be01",
+    "https://study.uis.edu.my/be02",
+    "https://study.uis.edu.my/be03",
+    "https://study.uis.edu.my/es52",
+    "https://study.uis.edu.my/es53"
   ],
   "confidence": 0.5,
   "last_updated": "2026-09-18",

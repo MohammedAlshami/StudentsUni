@@ -5,18 +5,19 @@
   "program_name": "Doctor of Philosophy in Pharmaceutical Sciences",
   "field": "Medicine & Healthcare",
   "slug": "doctor-of-philosophy-in-pharmaceutical-sciences",
-  "duration": "Full-time - Minimum: 3 years, Maximum: 5 years; Part-time - Minimum: 4 years, Maximum: 7 years",
+  "duration": "Full-time – Minimum : 3 years, Maximum : 5 years | Part-time – Minimum : 4 years, Maximum: 7 years",
   "mode": "Flexible Full-time/Part-time Mode",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "January",
+    "April",
+    "July",
+    "October"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 20669.9,
+    "per_year": 6889.97,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Third-party enrolment platform Uni Enrol lists the international total fee for this programme as USD 20,669.90 over 3 years (USD 6,889.97/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44635-doctor-of-philosophy-in-pharmaceutical-sciences (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -28,6 +29,11 @@
     {
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44635-doctor-of-philosophy-in-pharmaceutical-sciences",
+      "publisher": "Uni Enrol",
       "fetched_at": "2026-09-18"
     }
   ],

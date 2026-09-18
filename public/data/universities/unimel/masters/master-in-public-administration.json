@@ -4,18 +4,16 @@
   "program_name": "Master in Public Administration",
   "program_slug": "master-in-public-administration",
   "field": "Social Sciences",
-  "duration": "1.5-2 Years",
+  "duration": "1 Year",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Rolling"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: UNIMEL programme brochures linked from the official programme list are image-only PDFs with no extractable fee text and no public HTML fee schedule exists (checked 2026-09-18). Previous estimated value removed."
+    "currency": "USD",
+    "total": 6048.77,
+    "per_year": 6048.77,
+    "notes": "UNIMEL official international programme brochure (rolling admission throughout the year) (image-based PDF; fee text OCR-extracted): full-time total programme fee USD 6,048.77. Excludes visa/EMGS and other non-tuition charges. Source: https://register.unimel.edu.my/temp/img/MASTER%20IN%20PUBLIC%20ADMINISTRATION.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,6 +25,11 @@
       "url": "https://unimel.edu.my/programme-list/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://register.unimel.edu.my/temp/img/MASTER%20IN%20PUBLIC%20ADMINISTRATION.pdf",
+      "publisher": "UNIMEL",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",

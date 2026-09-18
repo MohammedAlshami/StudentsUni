@@ -5,18 +5,18 @@
   "program_name": "Bachelor of Arts (Honours) Teaching of English as a Second Language",
   "field": "Education (Teacher Training & Education Sciences)",
   "slug": "bachelor-of-arts-honours-teaching-of-english-as-a-second-language",
-  "duration": "3 1/2 years | Full-time",
+  "duration": "3 and 1/2 years | Full-time",
   "mode": "Full-time Study",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "April",
+    "July",
+    "October"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 13536.63,
+    "per_year": 3867.61,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Third-party enrolment platform Uni Enrol lists the international total fee for this programme as USD 13,536.63 over 3.5 years (USD 3,867.61/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44659-bachelor-of-arts-hons-teaching-of-english-as-a-second-language (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -30,6 +30,11 @@
     {
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44659-bachelor-of-arts-hons-teaching-of-english-as-a-second-language",
+      "publisher": "Uni Enrol",
       "fetched_at": "2026-09-18"
     }
   ],

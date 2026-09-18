@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 9750,
-    "per_year": 3900,
-    "notes": "Unverified international fee: UiTM's official International Postgraduate Education guide (https://ipsis.uitm.edu.my/images/Admission/BROCHURE_INTERNATIONAL_2024.pdf, ed. 2024) prices postgraduate awards only (USD3,000-13,000 per programme); StudyMalaysia lists only local fees (RM200/sem) for UiTM. Diploma/undergraduate places at UiTM are restricted to Bumiputera (Malaysian) candidates, so no international fee is published for this programme. The figure shown is an unverified local/subsidised estimate."
+    "total": null,
+    "per_year": null,
+    "notes": "UiTM does not publish an international tuition fee for this programme, so fees.total and fees.per_year are null (no official international amount exists to quote). Undergraduate/diploma/foundation study at UiTM is restricted to Bumiputera Malaysians (UiTM Act 1976 s.1A; Federal Constitution Art.153; UiTM VC statement: https://www.freemalaysiatoday.com/category/nation/2024/05/16/uitm-says-committed-to-bumiputera-admission-policy) and international enrolment is postgraduate-only (Higher Education Minister's written reply, Dewan Rakyat: https://www.bharian.com.my/berita/nasional/2024/07/1273320/lebih-5000-pelajar-antarabangsa-diterima-di-uitm-sejak-2019 - 5,571 international students since 2019, all postgraduate); the limited international undergraduate intake was discontinued from 2024 (https://www.bharian.com.my/berita/nasional/2026/08/1604614/uitm-henti-pengambilan-pelajar-antarabangsa-ijazah-sarjana-muda). Sources checked 18 Sep 2026 (all list local rates only, or international rates for postgraduate programmes only): UiTM Bursar undergraduate fee structure https://bendahari.uitm.edu.my/index.php/component/content/article/37-pelajar/73-struktur-yuran-perdana; iCEPS part-time fee schedules https://apply-iceps.uitm.edu.my/index.php/fees-details; UiTM International Postgraduate Education Guide 2024 https://ipsis.uitm.edu.my/images/Admission/BROCHURE_INTERNATIONAL_2024.pdf; UiTM admission pages https://uitm.edu.my/en/admission/programmes/pre-graduate and https://uitm.edu.my/en/admission/programmes/pre-diploma; UiTM Global https://uitmglobal.uitm.edu.my/; faculty fee pages https://medicine.uitm.edu.my/ and https://dentistry.uitm.edu.my/; StudyMalaysia https://www.studymalaysia.com/edu/uitm/courses/."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",

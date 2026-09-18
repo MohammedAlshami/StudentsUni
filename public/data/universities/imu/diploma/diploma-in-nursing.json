@@ -4,16 +4,17 @@
   "level": "diploma",
   "program_name": "Diploma in Nursing",
   "field": "Nursing",
-  "duration": "4 years",
+  "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
-    "Sep"
+    "May & Sep (Subang Jaya)",
+    "Mar & Jul (Ayer Keroh)"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: official IMU programme page has no published fee table for this programme (checked 2026-09-18); previous estimate removed."
+    "total": 63250,
+    "per_year": 21083.33,
+    "notes": "IMU College (IMC), which delivers the programme, publishes a total 3-year fee of RM63,250 (includes registration, tuition, accommodation, uniforms and clinical-posting transport). IMC does not publish a separate international rate, so this single published programme fee is used; per_year = 63,250 / 3 (derived). Sources: https://www.imc.edu.my/diploma-in-nursing/, https://www.imu.edu.my/programmes/diploma-in-nursing/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -30,7 +31,8 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.imc.edu.my/diploma-in-nursing/"
   ],
   "confidence": "high",
   "last_updated": "2026-09-18",

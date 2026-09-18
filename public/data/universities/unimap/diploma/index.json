@@ -30,13 +30,13 @@
     }
   ],
   "total": 7,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 4200,
     "international_total": null,
     "per_year_local": 1400,
     "per_year_international": null,
-    "notes": "No international tuition fee published by Universiti Malaysia Perlis for this level (official international admission/2026 fee schedules). Source: https://admission.unimap.edu.my/international.php"
+    "notes": "No international tuition fee is published for UniMAP diploma programmes: they are not listed among the 34 international bachelor programmes on https://admission.unimap.edu.my/international.php (accessed 2026-09-18). Fee left null because no official international fee is published."
   }
 }

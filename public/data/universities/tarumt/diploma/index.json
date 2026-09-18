@@ -3,7 +3,7 @@
   "university_slug": "tarumt",
   "level": "diploma",
   "level_label": "Diploma",
-  "program_count": 48,
+  "program_count": 42,
   "programs": [
     {
       "program_name": "Diploma in Accounting",
@@ -31,7 +31,7 @@
       "program_name": "Diploma in Aquaculture",
       "program_slug": "diploma-in-aquaculture",
       "field": "Life Sciences",
-      "duration": "4 years (2yr MY + 2yr China)",
+      "duration": "2 years",
       "mode": "Full-time",
       "fees": {
         "local": "RM19,300.00",
@@ -474,7 +474,7 @@
     "international_total": 43700,
     "per_year_local": null,
     "per_year_international": null,
-    "notes": "TAR UMT official 2026 fee schedules: international estimated totals RM43,700–49,200; Malaysian RM18,900–21,800. Per-programme figures in programme pages. Sources: TAR UMT programme pages, https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf, https://cpsr.tarc.edu.my/programmes/programme-fees (accessed 2026-09-18)."
+    "notes": "TAR UMT official 2026 fee schedules: international published programme totals RM43,700–49,200; Malaysian RM18,900–21,800. Per-programme figures in programme pages. Sources: TAR UMT programme pages, https://www.tarc.edu.my/files/intfees/B43F31F9-DEDB-4E40-A6F0-259C5B08866E.pdf, https://cpsr.tarc.edu.my/programmes/programme-fees (accessed 2026-09-18)."
   },
   "sources": [
     "https://www.studymalaysia.com/edu/tarumt/courses/",

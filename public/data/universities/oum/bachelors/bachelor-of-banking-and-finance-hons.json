@@ -16,7 +16,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "Not listed in OUM official International Admission fee table as of 2026-09-18; no international fee verified (programme may not be offered to international learners). Previous figure was an unverified estimate/local fee."
+    "notes": "No international fee published: the programme page (https://www.oum.edu.my/programmes-offered-at-oum/undergraduate/bachelor-of-banking-and-finance/) returns 404 and the programme is not in OUM's current undergraduate programme list (https://www.oum.edu.my/programmes-offered-at-oum/undergraduate/, accessed 2026-09-18). International fee left null because no official international fee is published."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -48,7 +48,8 @@
       "url": "https://www.oum.edu.my/international-admission/",
       "publisher": "Open University Malaysia",
       "fetched_at": "2026-09-18"
-    }
+    },
+    "https://www.oum.edu.my/programmes-offered-at-oum/undergraduate/bachelor-of-banking-and-finance/"
   ],
   "confidence": "low",
   "last_updated": "2026-09-18",

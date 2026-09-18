@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No official programme page found (404) and no international fee published; fee unverified. Checked https://www.unikl.edu.my/ (accessed 2026-09-18)."
+    "total": 42900,
+    "per_year": 42900,
+    "notes": "International tuition per the official UniKL programme page: RM14,300 per semester, RM42,900 total for 3 semesters (1 year); excludes visa processing and SST. Source: https://www.unikl.edu.my/programme/foundation-in-science-and-technology-for-korean-university/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -27,7 +27,8 @@
   },
   "sources": [
     "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
-    "https://www.unikl.edu.my/programme/foundation-in-science-and-technology-korean-university-engineering/"
+    "https://www.unikl.edu.my/programme/foundation-in-science-and-technology-korean-university-engineering/",
+    "https://www.unikl.edu.my/programme/foundation-in-science-and-technology-for-korean-university/"
   ],
   "confidence": "high",
   "last_updated": "2026-09-18",

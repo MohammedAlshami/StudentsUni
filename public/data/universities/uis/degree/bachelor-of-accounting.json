@@ -5,7 +5,7 @@
   "program_name": "Bachelor of Accounting",
   "field": "Business",
   "slug": "bachelor-of-accounting",
-  "duration": "3 years",
+  "duration": "4 years",
   "mode": null,
   "intakes": [
     "Sep",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No tuition fee published on UIS official admissions site (study.uis.edu.my) or main site; international fee unverified. Checked https://study.uis.edu.my/ and https://www.uis.edu.my/ (accessed 2026-09-18)."
+    "total": 57994,
+    "per_year": 14498.5,
+    "notes": "Official UIS international fee for Ijazah Sarjana Muda Perakaunan (Bachelor of Accounting (Honours)) (programme code bb04), last published on study.uis.edu.my (capture 20240722194758): RM57,994 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/bb04, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240722194758/https://study.uis.edu.my/bb04."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -28,9 +28,11 @@
   "sources": [
     "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda",
     "https://study.uis.edu.my/",
-    "https://www.uis.edu.my/"
+    "https://www.uis.edu.my/",
+    "https://study.uis.edu.my/bb04",
+    "https://web.archive.org/web/20240722194758/https://study.uis.edu.my/bb04"
   ],
-  "confidence": 0.5,
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Accounting",
   "program_name_zh": "会计学学士",

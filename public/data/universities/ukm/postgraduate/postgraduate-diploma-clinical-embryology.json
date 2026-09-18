@@ -4,7 +4,7 @@
   "level": "postgraduate",
   "program_name": "Postgraduate Diploma in Clinical Embryology",
   "field": "Medicine",
-  "duration": "1.5 years",
+  "duration": "1 year (2 semesters)",
   "mode": "Full-time",
   "intakes": {
     "main": "September",
@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 60000,
-    "per_year": 15000,
-    "notes": "No UKM international (UKMi) fee schedule published for this programme in the UKMShape 2024/2025 fee structure (https://www.ukm.my/ukmshape/ukmshape-learning-fees/), so the previous figure is unverified. Standard public university fees (MQA regulated)"
+    "total": 42500,
+    "per_year": 42500,
+    "notes": "International (UKMi) tuition per the UKMShape 2024/2025 fee schedule: RM42,500 total for 2 full-time semesters (Year 1 Semester 1 RM21,500 + Semester 2 RM21,000) for the Postgraduate Diploma in Clinical Embryology, Faculty of Medicine executive programme. Source: https://shape.ukm.my/storage/lampiran/struktur_yuran/FPER/pasca/strukturyuran_FPER_Eksekutif_pasca_F_int_120242025.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,9 +25,10 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.ukm.my/portal/postgraduate-programme/"
+    "https://www.ukm.my/portal/postgraduate-programme/",
+    "https://shape.ukm.my/storage/lampiran/struktur_yuran/FPER/pasca/strukturyuran_FPER_Eksekutif_pasca_F_int_120242025.pdf"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "Postgraduate Diploma in Clinical Embryology",
   "program_name_zh": "临床胚胎学研究生文凭",

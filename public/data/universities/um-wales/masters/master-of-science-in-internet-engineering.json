@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: not listed in the official fee table; checked official fee schedule https://www.umwales.edu.my/admissions/fees/ on 2026-09-18. Previous third-party/estimated value removed."
+    "total": 41710,
+    "per_year": 27806.67,
+    "notes": "International tuition per the official programme page: MYR41,710 total (Malaysian students MYR31,908). Duration 1.5 years, so per_year = 41,710 / 1.5 (derived). Source: https://www.umwales.edu.my/courses/master-of-science-in-internet-engineering/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,9 +24,10 @@
   "accreditation": null,
   "sources": [
     "https://www.studymalaysia.com/edu/iumw/courses/",
-    "https://www.walesum.edu.my"
+    "https://www.walesum.edu.my",
+    "https://www.umwales.edu.my/courses/master-of-science-in-internet-engineering/"
   ],
-  "confidence": "medium",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "slug": "master-of-science-in-internet-engineering",
   "program_name_ar": "ماجستير Science in Internet Engineering",

@@ -5,11 +5,11 @@
     "field": "Arts",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
+      "local_total": null,
+      "international_total": 12600,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "International tuition from the official IUKL/KLUST international fee schedule (UG effective 26 Apr 2022; PG effective 6 May 2019, printed 15 Aug 2020); see the individual programme record for the archived source URL. KLUST's current site does not publish tuition fees (checked 2026-09-18). Local fees are not published."
     }
   },
   {
@@ -18,11 +18,11 @@
     "field": "Science",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
+      "local_total": null,
+      "international_total": 14700,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "International tuition from the official IUKL/KLUST international fee schedule (UG effective 26 Apr 2022; PG effective 6 May 2019, printed 15 Aug 2020); see the individual programme record for the archived source URL. KLUST's current site does not publish tuition fees (checked 2026-09-18). Local fees are not published."
     }
   }
 ]

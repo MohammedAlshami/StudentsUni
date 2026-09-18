@@ -14,7 +14,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "No official programme page found (404) and no international fee published; fee unverified. Checked https://www.unikl.edu.my/ (accessed 2026-09-18)."
+    "notes": "International fee not published: the official programme page lists only the local fee (RM53,753, inclusive of tuition, hostel and registration); no international rate is published. Source: https://www.unikl.edu.my/programme/foundation-in-engineering-for-french-universities-pre-france-engineering/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -27,7 +27,8 @@
   },
   "sources": [
     "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
-    "https://www.unikl.edu.my/programme/foundation-in-engineering-french-universities/"
+    "https://www.unikl.edu.my/programme/foundation-in-engineering-french-universities/",
+    "https://www.unikl.edu.my/programme/foundation-in-engineering-for-french-universities-pre-france-engineering/"
   ],
   "confidence": "high",
   "last_updated": "2026-09-18",

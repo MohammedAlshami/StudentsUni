@@ -5,7 +5,7 @@
   "program_name": "Master of Communication",
   "field": "Media",
   "slug": "master-of-communication",
-  "duration": "3 years",
+  "duration": "2 years (full-time)",
   "mode": null,
   "intakes": [
     "Sep",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No tuition fee published on UIS official admissions site (study.uis.edu.my) or main site; international fee unverified. Checked https://study.uis.edu.my/ and https://www.uis.edu.my/ (accessed 2026-09-18)."
+    "total": 11950,
+    "per_year": 5975.0,
+    "notes": "Official UIS international fee for Ijazah Sarjana Komunikasi (Master in Communication) (programme code mt14), last published on study.uis.edu.my (capture 20241208084143): RM11,950 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/mt14, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20241208084143/https://study.uis.edu.my/mt14."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -26,9 +26,11 @@
   "sources": [
     "https://study.uis.edu.my/peringkat-ijazah-sarjana-penyelidikan",
     "https://study.uis.edu.my/",
-    "https://www.uis.edu.my/"
+    "https://www.uis.edu.my/",
+    "https://study.uis.edu.my/mt14",
+    "https://web.archive.org/web/20241208084143/https://study.uis.edu.my/mt14"
   ],
-  "confidence": 0.5,
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Communication",
   "program_name_zh": "传播学硕士",

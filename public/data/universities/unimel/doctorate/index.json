@@ -4,12 +4,12 @@
     "name": "Doctor of Philosophy in Management",
     "field": "Business",
     "fees": {
-      "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
+      "currency": "USD",
+      "local_total": null,
+      "international_total": 8575.0,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "UNIMEL international totals are from the official international programme brochures for the June/July 2026 intake (USD; OCR-extracted from image PDFs; see programme files). UNIMEL does not publish local-student fees. Source: https://unimel.edu.my/programme-list/ (checked 2026-09-18)."
     }
   },
   {
@@ -17,12 +17,12 @@
     "name": "Doctor of Philosophy in Syariah",
     "field": "Islamic Sciences",
     "fees": {
-      "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
+      "currency": "USD",
+      "local_total": null,
+      "international_total": 8050.0,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "UNIMEL international totals are from the official international programme brochures for the June/July 2026 intake (USD; OCR-extracted from image PDFs; see programme files). UNIMEL does not publish local-student fees. Source: https://unimel.edu.my/programme-list/ (checked 2026-09-18)."
     }
   },
   {
@@ -30,12 +30,12 @@
     "name": "Doctor of Philosophy in Islamic Studies Dakwah",
     "field": "Islamic Sciences",
     "fees": {
-      "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
+      "currency": "USD",
+      "local_total": null,
+      "international_total": 8050.0,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "UNIMEL international totals are from the official international programme brochures for the June/July 2026 intake (USD; OCR-extracted from image PDFs; see programme files). UNIMEL does not publish local-student fees. Source: https://unimel.edu.my/programme-list/ (checked 2026-09-18)."
     }
   },
   {
@@ -43,12 +43,12 @@
     "name": "Doctor of Philosophy in Law",
     "field": "Law",
     "fees": {
-      "currency": "MYR",
-      "local_total": 66000,
+      "currency": "USD",
+      "local_total": null,
       "international_total": null,
-      "per_year_local": 22000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "UNIMEL international totals are from the official international programme brochures for the June/July 2026 intake (USD; OCR-extracted from image PDFs; see programme files). UNIMEL does not publish local-student fees. Source: https://unimel.edu.my/programme-list/ (checked 2026-09-18)."
     }
   },
   {
@@ -56,12 +56,12 @@
     "name": "Doctor of Philosophy in Nursing",
     "field": "Medicine and Health",
     "fees": {
-      "currency": "MYR",
-      "local_total": 240000,
+      "currency": "USD",
+      "local_total": null,
       "international_total": null,
-      "per_year_local": 80000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3yr duration)"
+      "notes": "UNIMEL international totals are from the official international programme brochures for the June/July 2026 intake (USD; OCR-extracted from image PDFs; see programme files). UNIMEL does not publish local-student fees. Source: https://unimel.edu.my/programme-list/ (checked 2026-09-18)."
     }
   },
   {
@@ -69,12 +69,12 @@
     "name": "Doctor of Philosophy in History",
     "field": "Social Sciences",
     "fees": {
-      "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
+      "currency": "USD",
+      "local_total": null,
+      "international_total": 8575.0,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "UNIMEL international totals are from the official international programme brochures for the June/July 2026 intake (USD; OCR-extracted from image PDFs; see programme files). UNIMEL does not publish local-student fees. Source: https://unimel.edu.my/programme-list/ (checked 2026-09-18)."
     }
   },
   {
@@ -82,12 +82,12 @@
     "name": "Doctor of Philosophy in Leadership and Education Management",
     "field": "Education",
     "fees": {
-      "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
+      "currency": "USD",
+      "local_total": null,
+      "international_total": 8575.0,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "UNIMEL international totals are from the official international programme brochures for the June/July 2026 intake (USD; OCR-extracted from image PDFs; see programme files). UNIMEL does not publish local-student fees. Source: https://unimel.edu.my/programme-list/ (checked 2026-09-18)."
     }
   }
 ]

@@ -7,17 +7,17 @@
   "program_slug": "foundation-in-stem",
   "field": "General Science",
   "faculty": "STEM Foundation Centre",
-  "duration": "1 year",
+  "duration": "1 year (3 semesters)",
   "mode": "full-time",
   "intakes": {
     "main": "September",
     "secondary": null
   },
   "fees": {
-    "currency": "MYR",
-    "total": 6000,
-    "per_year": 3000,
-    "notes": "No official UMT international fee schedule published for diploma/foundation programmes (the 2025 international list covers bachelor degrees only: https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf); previous figure is UMT's local/subsidised rate, unverified. Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": 12000,
+    "per_year": 12000,
+    "notes": "International tuition per UMT's official Undergraduate Programme Fees schedule (Jan 2026): the 'International STEM Foundation' stream is USD 4,000 per semester; the programme is 3 semesters/1 year, so total = USD 12,000 and per_year = USD 12,000. Source: https://www.umt.edu.my/wp-content/uploads/2026/01/yuran-pengajian-undergrad.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,9 +26,10 @@
   "accreditation": null,
   "sources": [
     "https://umt.my/all-programs-at-umt/",
-    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255"
+    "https://www2.mqa.gov.my/mqr/english/eiptaKPList_print.cfm?IDAkrIPTS=255",
+    "https://www.umt.edu.my/wp-content/uploads/2026/01/yuran-pengajian-undergrad.pdf"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس STEM",
   "program_name_zh": "STEM基础课程",

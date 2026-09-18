@@ -3,20 +3,21 @@
   "university_slug": "qiu",
   "level": "Accountancy Professional Qualification",
   "program_name": "Accounting & Finance",
-  "field": "3 years | Full-time; 6 years | Part-time",
+  "field": "Accounting & Finance",
   "slug": "accounting-finance",
-  "duration": "Flexible Full-time/Part-time Mode",
-  "mode": "Refer to University",
+  "duration": "3 years | Full-time 6 years | Part-time",
+  "mode": "Full-time / Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "January",
+    "April",
+    "July",
+    "September"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 6213.24,
+    "per_year": 2485.29,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). This record is mapped to QIU's ACCA Qualification, the university's accountancy professional qualification. Third-party enrolment platform Uni Enrol lists the international total fee as USD 6,213.24 over 2.5 years (USD 2,485.29/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44648-association-of-chartered-certified-accountants-acca (accessed 2026-09-18)."
   },
   "requirements": null,
   "accreditation": null,
@@ -25,12 +26,17 @@
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44648-association-of-chartered-certified-accountants-acca",
+      "publisher": "Uni Enrol",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
   "last_updated": "2026-09-18",
   "program_name_ar": "Accounting & Finance",
   "program_name_zh": "会计与金融",
-  "field_ar": "3 years | Full-time; 6 years | Part-time",
-  "field_zh": "3 years | Full-time; 6 years | Part-time"
+  "field_ar": "المحاسبة والمالية",
+  "field_zh": "会计与金融"
 }

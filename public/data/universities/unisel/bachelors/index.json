@@ -3,16 +3,17 @@
     "slug": "bachelor-in-medical-laboratory-science-honours",
     "program_name": "Bachelor in Medical Laboratory Science (Honours)",
     "field": "Healthcare",
-    "duration": "3 Years",
+    "duration": "4 years",
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 240000,
+      "local_total": null,
       "international_total": null,
-      "per_year_local": 80000,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
-    }
+      "notes": "No official international tuition fee is published: this programme is not in UNISEL's current bachelor programme list (https://unisel.edu.my/programmes/bachelor-programmes/, accessed 2026-09-18), and its former programme page is no longer available. The closest current programme is Bachelor of Biomedical Science (Honours) with an official international fee of RM78,245. International fee left null because no official international fee is published."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "bachelor-of-communication-hons-journalism",
@@ -22,12 +23,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 32685,
+      "international_total": 54540,
+      "per_year_local": 10895.0,
+      "per_year_international": 18180.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM54,540 total programme fee. Source: https://unisel.edu.my/program-post/bachelor-of-communication-honours-journalism/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "bachelor-of-occupational-safety-and-health-honours",
@@ -37,12 +39,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 16500,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
-    }
+      "local_total": 55750,
+      "international_total": 75786,
+      "per_year_local": 13937.5,
+      "per_year_international": 18946.5,
+      "notes": "Official UNISEL international tuition fee for this programme: RM75,786 total programme fee. Source: https://unisel.edu.my/program-post/bachelor-of-occupational-safety-and-health-honour/ (accessed 2026-09-18). fees.per_year = total / 4 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "bachelor-of-business-management-hons",
@@ -52,12 +55,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 24150,
+      "international_total": 47460,
+      "per_year_local": 8050.0,
+      "per_year_international": 15820.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM47,460 total programme fee. Source: https://unisel.edu.my/program-post/bachelor-of-business-management-hons/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "bachelor-of-accountancy-hons",
@@ -67,12 +71,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 16500,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
-    }
+      "local_total": 42840,
+      "international_total": 67860,
+      "per_year_local": 10710.0,
+      "per_year_international": 16965.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM67,860 total programme fee. Source: https://unisel.edu.my/program-post/bachelor-of-accountancy-hons/ (accessed 2026-09-18). fees.per_year = total / 4 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "bachelor-hons-in-digital-graphic-design",
@@ -82,12 +87,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 33540,
+      "international_total": 55560,
+      "per_year_local": 11180.0,
+      "per_year_international": 18520.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM55,560 total programme fee. Source: https://unisel.edu.my/program-post/bachelor-honours-digital-graphic-design/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "bachelor-of-finance-honours",
@@ -97,12 +103,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 24360,
+      "international_total": 47660,
+      "per_year_local": 8120.0,
+      "per_year_international": 15886.67,
+      "notes": "Official UNISEL international tuition fee for this programme: RM47,660 total programme fee. Source: https://unisel.edu.my/program-post/bachelor-of-finance-hons/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "bachelor-of-communication-honours-corporate-communication",
@@ -112,12 +119,13 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 31980,
+      "international_total": 50570,
+      "per_year_local": 10660.0,
+      "per_year_international": 16856.67,
+      "notes": "Official UNISEL international tuition fee for this programme: RM50,570 total programme fee. Source: https://unisel.edu.my/program-post/bachelor-of-communication-honours-corporate-communication/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   },
   {
     "slug": "bachelor-of-human-resource-management-honours",
@@ -127,11 +135,12 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
-    }
+      "local_total": 25505,
+      "international_total": 49360,
+      "per_year_local": 8501.67,
+      "per_year_international": 16453.33,
+      "notes": "Official UNISEL international tuition fee for this programme: RM49,360 total programme fee. Source: https://unisel.edu.my/program-post/bachelor-of-human-resources-management-hons/ (accessed 2026-09-18). fees.per_year = total / 3 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   }
 ]

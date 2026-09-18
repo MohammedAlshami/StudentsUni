@@ -5,7 +5,7 @@
   "program_name": "Bachelor of Education",
   "field": "Education",
   "slug": "bachelor-of-education",
-  "duration": "3 years",
+  "duration": "4 years",
   "mode": null,
   "intakes": [
     "Sep",
@@ -16,7 +16,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "No tuition fee published on UIS official admissions site (study.uis.edu.my) or main site; international fee unverified. Checked https://study.uis.edu.my/ and https://www.uis.edu.my/ (accessed 2026-09-18)."
+    "notes": "No international fee published for a generic Bachelor of Education: UIS offers BE01 Education (Hons) TESL with Multimedia (https://study.uis.edu.my/be01), BE02 Islamic Education with Multimedia (Hons) (https://study.uis.edu.my/be02) and BE03 Education with Honors (Tahfiz & Al-Qiraat) (https://study.uis.edu.my/be03); the July 2024 official pages for BE01 and BE02 publish Malaysian fees only, with no international total, and the current pages say fee information will be updated soon (accessed 2026-09-18). International fee left null because no official figure is published."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -28,7 +28,12 @@
   "sources": [
     "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda",
     "https://study.uis.edu.my/",
-    "https://www.uis.edu.my/"
+    "https://www.uis.edu.my/",
+    "https://study.uis.edu.my/be01",
+    "https://study.uis.edu.my/be02",
+    "https://study.uis.edu.my/be03",
+    "https://study.uis.edu.my/es52",
+    "https://study.uis.edu.my/es53"
   ],
   "confidence": 0.5,
   "last_updated": "2026-09-18",

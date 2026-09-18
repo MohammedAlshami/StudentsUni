@@ -6,24 +6,24 @@
     "program_name": "Doctor of Philosophy in Islamic Studies",
     "field": "Islamic Studies",
     "slug": "doctor-of-philosophy-in-islamic-studies",
-    "duration": null,
+    "duration": "3 years (full-time)",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 75000,
-      "international_total": null,
-      "per_year_local": 25000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+      "local_total": 12360,
+      "international_total": 18890,
+      "per_year_local": 4120.0,
+      "per_year_international": 6296.67,
+      "notes": "Official UIS international fee for Ijazah Doktor Falsafah Islamiyyat (Doctor of Philosophy in Islamiyyat) (programme code pi01), last published on study.uis.edu.my (capture 20240710095115): RM18,890 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/pi01, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240710095115/https://study.uis.edu.my/pi01."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-phd"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -32,24 +32,24 @@
     "program_name": "Doctor of Philosophy in Education",
     "field": "Education",
     "slug": "doctor-of-philosophy-in-education",
-    "duration": null,
+    "duration": "3 years (full-time)",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 75000,
-      "international_total": null,
-      "per_year_local": 25000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+      "local_total": 12360,
+      "international_total": 18890,
+      "per_year_local": 4120.0,
+      "per_year_international": 6296.67,
+      "notes": "Official UIS international fee for Ijazah Doktor Falsafah Pendidikan (Doctor of Philosophy in Education) (programme code pe01), last published on study.uis.edu.my (capture 20240711053307): RM18,890 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/pe01, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240711053307/https://study.uis.edu.my/pe01."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-phd"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -58,23 +58,23 @@
     "program_name": "Doctor of Philosophy in Business",
     "field": "Business",
     "slug": "doctor-of-philosophy-in-business",
-    "duration": null,
+    "duration": "3 years (full-time)",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 75000,
-      "international_total": null,
-      "per_year_local": 25000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+      "local_total": 12360,
+      "international_total": 18890,
+      "per_year_local": 4120.0,
+      "per_year_international": 6296.67,
+      "notes": "Official UIS international fee for Ijazah Doktor Falsafah Pengurusan (Doctor of Philosophy in Management) (programme code pb01), last published on study.uis.edu.my (capture 20240711070935): RM18,890 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/pb01, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240711070935/https://study.uis.edu.my/pb01."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-phd"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   }
 ]

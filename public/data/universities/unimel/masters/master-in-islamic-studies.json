@@ -4,18 +4,17 @@
   "program_name": "Master in Islamic Studies",
   "program_slug": "master-in-islamic-studies",
   "field": "Islamic Sciences",
-  "duration": "1.5-2 Years",
+  "duration": "1-2 Years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "June",
+    "July"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
+    "currency": "USD",
+    "total": 6181.0,
     "per_year": null,
-    "notes": "Unverified: UNIMEL programme brochures linked from the official programme list are image-only PDFs with no extractable fee text and no public HTML fee schedule exists (checked 2026-09-18). Previous estimated value removed."
+    "notes": "UNIMEL official international programme brochure for the June/July 2026 intake (image-based PDF; fee text OCR-extracted): full-time total programme fee USD 6,181.00; part-time total USD 6,250.00. Excludes visa/EMGS and other non-tuition charges. Source: https://register.unimel.edu.my/temp/img/MASTER%20IN%20ISLAMIC%20STUDIES%20COURSEWORK.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,6 +26,11 @@
       "url": "https://unimel.edu.my/programme-list/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://register.unimel.edu.my/temp/img/MASTER%20IN%20ISLAMIC%20STUDIES%20COURSEWORK.pdf",
+      "publisher": "UNIMEL",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",

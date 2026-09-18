@@ -8,17 +8,17 @@
   "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
-    "Feb",
-    "Oct",
     "Jan",
+    "Feb",
     "May",
-    "Aug"
+    "Aug",
+    "Oct"
   ],
   "fees": {
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "Unverified: HELP University publishes only a Malaysian-student fee summary (2026 HELP University Programme Fees Summary, July 2026, 2026-09-18); no public international-student fee schedule exists. International applicants are directed to contact HELP. Previous third-party/estimated value removed."
+    "notes": "HELP University does not publish an international student fee for this programme: the official programme page lists only the Malaysian-student indicative total fee (RM 85,800), and the 2026 HELP University Programme Fees Summary (v4, July 2026) is explicitly Malaysian-only. Sources checked on 2026-09-18: https://university.help.edu.my/programme/bachelor-of-business-psychology/; https://university.help.edu.my/admissions-study-awards/fee-schedule/ (page empty); https://university.help.edu.my/admissions-study-awards/international-student-admissions/; https://university.help.edu.my/brochures/ (2026 fees summary PDF). No international fee published."
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0059082/",
@@ -35,6 +35,11 @@
     {
       "url": "https://university.help.edu.my/brochures/",
       "publisher": "help",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://university.help.edu.my/programme/bachelor-of-business-psychology/",
+      "publisher": "HELP University",
       "fetched_at": "2026-09-18"
     }
   ],

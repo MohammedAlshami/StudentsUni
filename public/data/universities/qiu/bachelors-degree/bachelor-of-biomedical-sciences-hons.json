@@ -8,15 +8,15 @@
   "duration": "4 years | Full-time",
   "mode": "Full-time Study",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "April",
+    "July",
+    "October"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 21148.31,
+    "per_year": 5287.08,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Third-party enrolment platform Uni Enrol lists the international total fee for this programme as USD 21,148.31 over 4 years (USD 5,287.08/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44641-bachelor-of-biomedical-sciences-hons (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -30,6 +30,11 @@
     {
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44641-bachelor-of-biomedical-sciences-hons",
+      "publisher": "Uni Enrol",
       "fetched_at": "2026-09-18"
     }
   ],

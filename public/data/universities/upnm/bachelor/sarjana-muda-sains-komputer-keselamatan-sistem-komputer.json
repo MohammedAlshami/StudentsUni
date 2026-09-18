@@ -15,7 +15,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "No international (or public) tuition fee published on UPNM official pages; UPNM is a Malaysian Armed Forces university and fee information is not published online. International fee unverified. Checked https://upnm.edu.my/index.php/en/ and https://upnm.edu.my/index.php/bm/kemasukan/ (accessed 2026-09-18)."
+    "notes": "No international tuition fee is published by UPNM. Official sources checked 2026-09-18: international admission page (https://upnm.edu.my/index.php/en/admission-en/academic-program/international) covers visa/arrival only; undergraduate, foundation and postgraduate admission pages (https://upnm.edu.my/index.php/en/admission-en/academic-program/undergraduate, .../foundation-programme, .../postgraduate) publish no fee schedule; Bursar's Office page (https://upnm.edu.my/index.php/en/about-en/administration/bursar-s-office) lists no fees; archived BPA fee PDFs are for Malaysian students only (e.g. 2022/23 undergraduate fee schedule). The only published international fee structure is for postgraduate research (https://cgs.upnm.edu.my/index.php/postgraduate-study/127-fee-structure). International fee left null because no official international fee is published."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,7 +27,9 @@
   "faculty": "Fakulti Sains dan Teknologi Pertahanan",
   "sources": [
     "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pra-siswazah",
-    "https://www.studymalaysia.com/what/course/UPNM/0055029/"
+    "https://www.studymalaysia.com/what/course/UPNM/0055029/",
+    "https://upnm.edu.my/index.php/en/admission-en/academic-program/international",
+    "https://upnm.edu.my/index.php/en/about-en/administration/bursar-s-office"
   ],
   "confidence": "high",
   "last_updated": "2026-09-18",

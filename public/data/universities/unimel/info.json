@@ -29,11 +29,11 @@
     "doctorate": 7
   },
   "fees": {
-    "currency": "MYR",
+    "currency": "USD",
     "local_total": null,
     "international_total": null,
     "per_year_local": null,
     "per_year_international": null,
-    "notes": "No public international fee schedule; official programme brochures are image-only PDFs. See individual programme records."
+    "notes": "UNIMEL publishes international programme totals in its official international brochures for the June/July 2026 intake (image-based PDFs; fee text OCR-extracted), ranging from USD 1,907.50 to USD 23,552.50 depending on programme; three programmes (PhD Law, PhD Nursing, Master of Nursing) have no international brochure. Local-student fees are not published. See individual programme records. Source: https://unimel.edu.my/programme-list/ (checked 2026-09-18)."
   }
 }

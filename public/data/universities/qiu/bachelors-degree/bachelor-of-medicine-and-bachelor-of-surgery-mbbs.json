@@ -8,15 +8,13 @@
   "duration": "5 years | Full-time",
   "mode": "Full-time Study",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "October"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 89762.55,
+    "per_year": 17952.51,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Third-party enrolment platform Uni Enrol lists the international total fee for this programme as USD 89,762.55 over 5 years (USD 17,952.51/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44636-bachelor-of-medicine-bachelor-of-surgery-mbbs (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -30,6 +28,11 @@
     {
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44636-bachelor-of-medicine-bachelor-of-surgery-mbbs",
+      "publisher": "Uni Enrol",
       "fetched_at": "2026-09-18"
     }
   ],

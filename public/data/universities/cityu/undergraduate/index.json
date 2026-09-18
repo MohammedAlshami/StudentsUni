@@ -3,7 +3,7 @@
   "university_slug": "cityu",
   "level": "undergraduate",
   "level_label": "Bachelor's Degree Studies",
-  "program_count": 25,
+  "program_count": 24,
   "programs": [
     {
       "program_name": "Bachelor of Environmental Health (Hons)",
@@ -19,7 +19,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Biomedical Sciences (Hons)",
@@ -35,13 +35,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Occupational Safety and Health (Hons)",
       "program_slug": "bachelor-of-occupational-safety-health-hons",
       "field": "Occupational Health & Safety",
-      "duration": "3.5 years",
+      "duration": "4 years",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -51,7 +51,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Nursing (Hons)",
@@ -67,13 +67,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Science (Hons) (Architectural Design)",
       "program_slug": "bsc-architectural-design-hons",
       "field": "Architecture & Built Environment",
-      "duration": "3.5 years",
+      "duration": "3 years",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -83,13 +83,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Interior Design (Hons)",
       "program_slug": "bachelor-of-interior-design-hons",
       "field": "Design & Creative Media",
-      "duration": "3.5 years",
+      "duration": "3 years 6 months",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -99,7 +99,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Business Administration (BBA) (Honours)",
@@ -115,13 +115,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Engineering Management",
       "program_slug": "bachelor-of-engineering-management",
       "field": "Engineering",
-      "duration": "4 years",
+      "duration": "3 years",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -131,13 +131,13 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Accountancy (Honours)",
       "program_slug": "bachelor-of-accountancy-honours",
       "field": "Accounting & Finance",
-      "duration": "3.5 years",
+      "duration": "3 years 4 months",
       "mode": "Full-time",
       "intakes": null,
       "fees": null,
@@ -147,7 +147,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Science (Honours) (Accounting and Finance)",
@@ -163,7 +163,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Communication (Journalism)",
@@ -179,7 +179,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Mass Communication (Hons)",
@@ -195,7 +195,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor in Graphic Design (Hons)",
@@ -211,7 +211,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Communication (Hons) in Corporate Communication",
@@ -227,7 +227,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Multimedia (Hons)",
@@ -243,7 +243,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Fashion Design (Honours)",
@@ -259,7 +259,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) Honours",
@@ -275,7 +275,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Psychology (Honours)",
@@ -291,7 +291,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering with Honours",
@@ -307,7 +307,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Civil Engineering with Honours",
@@ -323,7 +323,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor in Hospitality Management (Honours)",
@@ -339,7 +339,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor in Software Engineering (Honours)",
@@ -355,7 +355,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Information Technology (Honours)",
@@ -371,7 +371,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Bachelor of Computer Science (Artificial Intelligence) (Honours)",
@@ -387,7 +387,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     }
   ],
   "fees": {
@@ -396,9 +396,11 @@
     "international_total": null,
     "per_year_local": 22000,
     "per_year_international": null,
-    "notes": "No public international fee schedule; latest fee structure is issued by the International Marketing Office on request. Estimates removed from programme files."
+    "notes": "No public international fee schedule is published by City University Malaysia; the latest fee structure is issued by the International Marketing Office (imo@city.edu.my) on request. International totals are left null. Sources checked: https://city.edu.my/admission-scholarships/international-students/; https://city.edu.my/programmes/bachelor/ (accessed 2026-09-18)."
   },
   "sources": [
-    "https://city.edu.my/admission-scholarships/international-students/"
-  ]
+    "https://city.edu.my/admission-scholarships/international-students/",
+    "https://city.edu.my/programmes/bachelor/"
+  ],
+  "last_updated": "2026-09-18"
 }

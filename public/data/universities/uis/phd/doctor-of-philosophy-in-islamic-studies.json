@@ -5,7 +5,7 @@
   "program_name": "Doctor of Philosophy in Islamic Studies",
   "field": "Islamic Studies",
   "slug": "doctor-of-philosophy-in-islamic-studies",
-  "duration": "3 years",
+  "duration": "3 years (full-time)",
   "mode": null,
   "intakes": [
     "Sep",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No tuition fee published on UIS official admissions site (study.uis.edu.my) or main site; international fee unverified. Checked https://study.uis.edu.my/ and https://www.uis.edu.my/ (accessed 2026-09-18)."
+    "total": 18890,
+    "per_year": 6296.67,
+    "notes": "Official UIS international fee for Ijazah Doktor Falsafah Islamiyyat (Doctor of Philosophy in Islamiyyat) (programme code pi01), last published on study.uis.edu.my (capture 20240710095115): RM18,890 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/pi01, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240710095115/https://study.uis.edu.my/pi01."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -26,9 +26,11 @@
   "sources": [
     "https://study.uis.edu.my/peringkat-phd",
     "https://study.uis.edu.my/",
-    "https://www.uis.edu.my/"
+    "https://www.uis.edu.my/",
+    "https://study.uis.edu.my/pi01",
+    "https://web.archive.org/web/20240710095115/https://study.uis.edu.my/pi01"
   ],
-  "confidence": 0.5,
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Islamic Studies",
   "program_name_zh": "伊斯兰研究哲学博士",

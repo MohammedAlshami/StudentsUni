@@ -12,10 +12,10 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 66000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 22000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "UNITAR publishes only local-student tuition on its programme pages ('Price listed above is applicable to local students only'); it publishes no international fee schedule. EasyUni/Uni Enrol list foreign-student tuition of about MYR 14,000-60,500 depending on programme; see individual programme files. Sources: https://www.unitar.my/programmes/, https://www.easyuni.my/malaysia/unitar-international-university-11409/courses/ (accessed 2026-09-18)."
   }
 }

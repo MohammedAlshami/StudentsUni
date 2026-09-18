@@ -4,7 +4,7 @@
   "level": "diploma",
   "program_name": "Diploma In Communication And Media",
   "field": "Communication",
-  "duration": "2.5 years",
+  "duration": "2.5 Years",
   "mode": "Full-time",
   "intakes": [
     "Apr",
@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: no international-student fee schedule is published on unisel.edu.my (international admissions and programme pages checked 2026-09-18). Previous third-party/estimated value removed."
+    "total": 26445,
+    "per_year": 10578.0,
+    "notes": "Official UNISEL international tuition fee for this programme: RM26,445 total programme fee. Source: https://unisel.edu.my/program-post/diploma-in-communication-media/ (accessed 2026-09-18). fees.per_year = total / 2.5 years (official programme duration). Excludes registration and other non-tuition charges."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -38,7 +38,8 @@
       "url": "https://unisel.edu.my/admission-international-student/",
       "publisher": "unisel",
       "fetched_at": "2026-09-18"
-    }
+    },
+    "https://unisel.edu.my/program-post/diploma-in-communication-media/"
   ],
   "confidence": "high",
   "last_updated": "2026-09-18",

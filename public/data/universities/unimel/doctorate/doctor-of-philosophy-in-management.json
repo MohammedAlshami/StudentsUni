@@ -7,15 +7,13 @@
   "duration": "3-5 Years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Rolling"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
+    "currency": "USD",
+    "total": 8575.0,
     "per_year": null,
-    "notes": "Unverified: UNIMEL programme brochures linked from the official programme list are image-only PDFs with no extractable fee text and no public HTML fee schedule exists (checked 2026-09-18). Previous estimated value removed."
+    "notes": "UNIMEL official international programme brochure (rolling admission throughout the year) (image-based PDF; fee text OCR-extracted): full-time total programme fee USD 8,575.00; part-time total USD 11,400.00. Excludes visa/EMGS and other non-tuition charges. Source: https://register.unimel.edu.my/temp/img/PHD%20MANAGEMENT.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -27,6 +25,11 @@
       "url": "https://unimel.edu.my/programme-list/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://register.unimel.edu.my/temp/img/PHD%20MANAGEMENT.pdf",
+      "publisher": "UNIMEL",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",

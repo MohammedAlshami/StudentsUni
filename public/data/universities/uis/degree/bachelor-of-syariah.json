@@ -5,7 +5,7 @@
   "program_name": "Bachelor of Syariah",
   "field": "Islamic Studies",
   "slug": "bachelor-of-syariah",
-  "duration": "3 years",
+  "duration": "4 years",
   "mode": null,
   "intakes": [
     "Sep",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No tuition fee published on UIS official admissions site (study.uis.edu.my) or main site; international fee unverified. Checked https://study.uis.edu.my/ and https://www.uis.edu.my/ (accessed 2026-09-18)."
+    "total": 57104,
+    "per_year": 14276.0,
+    "notes": "Official UIS international fee for Ijazah Sarjana Muda Syariah dengan Muamalat (Bachelor of Syariah with Muamalat (Hons)) (programme code bs02), last published on study.uis.edu.my (capture 20240707041120): RM57,104 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/bs02, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240707041120/https://study.uis.edu.my/bs02."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -28,9 +28,11 @@
   "sources": [
     "https://study.uis.edu.my/peringkat-ijazah-sarjana-muda",
     "https://study.uis.edu.my/",
-    "https://www.uis.edu.my/"
+    "https://www.uis.edu.my/",
+    "https://study.uis.edu.my/bs02",
+    "https://web.archive.org/web/20240707041120/https://study.uis.edu.my/bs02"
   ],
-  "confidence": 0.5,
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Syariah",
   "program_name_zh": "伊斯兰法学士",

@@ -4,17 +4,15 @@
   "duration": "2 years",
   "mode": "Onsite",
   "intakes": [
-    "Jul",
-    "Jun",
     "Mar",
-    "Oct",
-    "Sep"
+    "Jun/Jul",
+    "Sep/Oct"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 25200,
     "per_year": null,
-    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "Official IUKL (now KLUST) international fee schedule effective 26 Apr 2022, archived at https://web.archive.org/web/20220627135640id_/https://iukl.edu.my/iukl-application-forms/Undergraduate-International-fee-structure.pdf?v=20220513: tuition RM25,200 total for Diploma in Business Administration (2 years, RM280/credit); approximate all-in programme fee RM35,460. Current KLUST site (checked 2026-09-18) no longer publishes programme fees ('Ask us')."
   },
   "requirements": {
     "general": "Any one of these: SPM: Minimum 3Cs. O-Level: Minimum 3Cs. UEC: Minimum 3Bs. Certificate / SKM III: A pass in SKM Level III and a pass in SPM with a minimum of 1 credit in any subject. SAM / HSC / AUSMAT: (Kindly refer to the Faculty) STPM: Pass STPM with a minimum C (GP 2.0) in any subject. STAM: Pass STAM with a minimum grade of Maqbul. CPU / CIMP: (Kindly refer to the Faculty). Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM. ENGLISH LANGUAGE REQUIREMENT (INTERNATIONAL): IELTS - 5 TOEFL (PBT) - 410 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"

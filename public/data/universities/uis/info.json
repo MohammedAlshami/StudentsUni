@@ -29,14 +29,14 @@
       "note": "Study@UIS program listing"
     }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "notes": "Formerly known as Universiti Islam Selangor. Owned by MAIS.",
   "fees": {
     "currency": "MYR",
-    "local_total": 66000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 22000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "UIS last published per-programme international fees on study.uis.edu.my in July 2024 (all-inclusive totals covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D) and graduation; e.g. Foundation in Islamic Studies RM9,817, Bachelor of Accounting RM57,994). The current pages say fee information will be updated soon (accessed 2026-09-18). See individual programme records for amounts, sources and basis."
   }
 }

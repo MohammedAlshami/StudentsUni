@@ -5,18 +5,18 @@
   "program_name": "Master of Education (Educational Leadership & Management)",
   "field": "Education (Teacher Training & Education Sciences)",
   "slug": "master-of-education-educational-leadership-management",
-  "duration": "16 months",
+  "duration": "1 Year",
   "mode": "Full-time",
   "intakes": [
+    "January",
     "May",
-    "Sep",
-    "Jan"
+    "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
+    "total": 30320.0,
+    "per_year": 30320.0,
+    "notes": "UNITAR's programme pages publish only the local-student tuition and state 'Price listed above is applicable to local students only' (checked 2026-09-18); it publishes no international fee schedule. EasyUni lists the foreign-student tuition for this programme as MYR 30,320. Source: https://www.easyuni.my/malaysia/unitar-international-university-11409/master-of-education-educational-leadership-management-294081/ (accessed 2026-09-18)."
   },
   "requirements": {
     "general": "A Bachelor’s degree (Level 6, MQF) with a minimum CGPA of 2.50 or its equivalent as accepted by UNITAR Senate A Bachelor&#39;s degree or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to a minimum of five (5) years working experience in educationnternational students Candidates without a qualification in the related fields or working experience in the relevant fields must undergo appropriate prerequisite courses determined by the HEP and meet the minimum CGPA based on above requirements. English Language Requirements (International Students) Minimum score of 5.0 for IELTS  Minimum score of 40 for TOEFL iBT Or its equivalent  "
@@ -43,9 +43,14 @@
       "url": "https://www.unitar.my/programmes/",
       "publisher": "unitar",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/master-of-education-educational-leadership-management-294081/",
+      "publisher": "EasyUni",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
+  "confidence": "medium",
   "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Education (Educational Leadership & Management)",
   "program_name_zh": "教育硕士（教育领导与管理）",

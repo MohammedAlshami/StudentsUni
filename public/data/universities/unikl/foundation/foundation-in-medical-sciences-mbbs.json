@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No official programme page found (404) and no international fee published; fee unverified. Checked https://www.unikl.edu.my/ (accessed 2026-09-18)."
+    "total": 25000,
+    "per_year": 25000,
+    "notes": "International tuition per the official UniKL programme page: RM25,000 total for the 1-year Foundation in Medical Sciences (progression to MBBS or Bachelor of Pharmacy (Hons) is based on academic performance); excludes visa processing and SST. Source: https://www.unikl.edu.my/programme/foundation-in-medical-sciences/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -33,7 +33,8 @@
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
     },
-    "https://www.unikl.edu.my/programme/foundation-in-medical-sciences-mbbs/"
+    "https://www.unikl.edu.my/programme/foundation-in-medical-sciences-mbbs/",
+    "https://www.unikl.edu.my/programme/foundation-in-medical-sciences/"
   ],
   "confidence": "high",
   "last_updated": "2026-09-18",

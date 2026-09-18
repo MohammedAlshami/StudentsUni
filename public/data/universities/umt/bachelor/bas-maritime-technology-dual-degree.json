@@ -7,17 +7,17 @@
   "program_slug": "bas-maritime-technology-dual-degree",
   "field": "Maritime Technology",
   "faculty": "Faculty of Ocean Engineering Technology",
-  "duration": "3 years",
+  "duration": "4 years (3 years/6 semesters at UMT + 1 year/2 semesters at ITS)",
   "mode": "full-time",
   "intakes": {
     "main": "September",
     "secondary": null
   },
   "fees": {
-    "currency": "MYR",
-    "total": 22800,
-    "per_year": 5700,
-    "notes": "No official UMT international fee published for this programme in the 2025 undergraduate international fee list (https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf); previous figure unverified. Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": 6300,
+    "per_year": 2100,
+    "notes": "International tuition per UMT's official Undergraduate Programme Fees schedule (Jan 2026): USD 1,050 per semester for Bachelor of Applied Science (Maritime Technology) with Honours (Dual Degree). The UMT portion is 6 semesters/3 years (official programme page; a further 2 semesters/1 year is spent at Institut Teknologi Sepuluh Nopember and is not covered by the UMT schedule), so total shown = USD 6,300 for the UMT portion and per_year = USD 2,100 (derived). Sources: https://www.umt.edu.my/wp-content/uploads/2026/01/yuran-pengajian-undergrad.pdf, https://www.umt.edu.my/sarjana-muda-sains-gunaan-teknologi-maritim-dengan-kepujian-dual-degree-ftkk/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -29,9 +29,10 @@
   "sources": [
     "https://umt.my/all-programs-at-umt/",
     "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG",
-    "https://www.studymalaysia.com/edu/umt/courses/"
+    "https://www.studymalaysia.com/edu/umt/courses/",
+    "https://www.umt.edu.my/wp-content/uploads/2026/01/yuran-pengajian-undergrad.pdf"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Applied Science (Maritime Technology) with Honours (Dual Degree)",
   "program_name_zh": "应用科学（海事技术）荣誉学士（双学位）",

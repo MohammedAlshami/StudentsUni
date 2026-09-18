@@ -4,7 +4,7 @@
   "level": "masters",
   "program_name": "Master of Management (By Research)",
   "field": "Business",
-  "duration": "2 years",
+  "duration": "2 - 4 Years",
   "mode": "Full-time",
   "intakes": [
     "Jul",
@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 30000,
     "per_year": null,
-    "notes": "Unverified: no international-student fee schedule is published on unisel.edu.my (international admissions and programme pages checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "Official UNISEL international tuition fee for this programme: RM30,000 total programme fee. Source: https://unisel.edu.my/program-post/master-of-management/ (accessed 2026-09-18). fees.per_year not set because the official duration is a range. Excludes registration and other non-tuition charges."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -41,7 +41,8 @@
       "url": "https://unisel.edu.my/admission-international-student/",
       "publisher": "unisel",
       "fetched_at": "2026-09-18"
-    }
+    },
+    "https://unisel.edu.my/program-post/master-of-management/"
   ],
   "confidence": "high",
   "last_updated": "2026-09-18",

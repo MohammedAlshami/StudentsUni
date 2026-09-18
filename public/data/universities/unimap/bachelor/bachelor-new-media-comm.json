@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 16776.4,
-    "per_year": 5592.13,
-    "notes": "UniMAP official international programme page, estimated international fee: RM16,776.40 total programme fee (3 years); per year = total ÷ duration = RM5,592.13. Source: https://admission.unimap.edu.my/programme.php?id=UR6321001 and https://admission.unimap.edu.my/international.php"
+    "total": 10560,
+    "per_year": 3520,
+    "notes": "Official UniMAP international tuition fee schedule (TUITION_FEE_SCHEDULE_FOR_INTERNATIONAL_STUDENTS.pdf, published 09 Aug 2023, still linked from unimap.edu.my): Faculty of Business & Communication bachelor programmes are RM3,520/year recurring tuition over 3 years (RM10,560 total); Year 1 also carries a one-off RM5,380 registration & personal bond fee (Year 1 total RM8,900). fees.total = recurring tuition only; fees.per_year = official annual recurring tuition. The per-programme provisional international fee figure shown on admission.unimap.edu.my is the site's own placeholder, not the official schedule. Source: https://www.unimap.edu.my/images/admission/TUITION_FEE_SCHEDULE_FOR_INTERNATIONAL_STUDENTS.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -31,7 +31,8 @@
     "https://www.studymalaysia.com/what/course/UNIMAP/0055021/",
     "https://www.studymalaysia.com/edu/unimap/courses/",
     "https://admission.unimap.edu.my/international.php",
-    "https://admission.unimap.edu.my/programme.php?id=UR6321001"
+    "https://admission.unimap.edu.my/programme.php?id=UR6321001",
+    "https://www.unimap.edu.my/images/admission/TUITION_FEE_SCHEDULE_FOR_INTERNATIONAL_STUDENTS.pdf"
   ],
   "confidence": "high",
   "last_updated": "2026-09-18",

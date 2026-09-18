@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 6000,
-    "per_year": 3000,
-    "notes": "No UKM international (UKMi) fee schedule published for this programme in the UKMShape 2024/2025 fee structure (https://www.ukm.my/ukmshape/ukmshape-learning-fees/), so the previous figure is unverified. Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: UKMShape publishes no international (UKMi) tuition schedule for ASASIpintar pre-university programmes. Checked the UKMShape Learning Fees page and all 2024/2025 fee-structure PDFs (the only PERMATA schedule is for Malaysian students), the ASASIpintar programme pages, and the eSPEED application portal (application processing fee only). Sources: https://www.ukm.my/ukmshape/ukmshape-learning-fees/, https://www.ukm.my/permatapintar/asasipintar/, https://smp.ukm.my/espeed/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",

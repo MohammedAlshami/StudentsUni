@@ -9,15 +9,15 @@
   "mode": "Full-time",
   "study_type": "Full-time Study",
   "intakes": [
-    "Aug",
     "Jan",
-    "Jun"
+    "May",
+    "Aug"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 105000,
-    "per_year": 35000,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 85848,
+    "per_year": null,
+    "notes": "The programme is now offered as BSc (Hons) Computer Science major in Mobile Computing with Coventry University; the current official INTI page (https://newinti.edu.my/programme/bachelor-of-computer-science-hons-in-network-and-mobile-computing-coventry-uk/, checked 2026-09-18) lists the international approximate tuition as RM85,848. Fees are exclusive of SST; a 6% SST applies to international students' fees."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -33,7 +33,7 @@
     "https://studymalaysia.com/what/course/INTI/0009950/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Science (Hons) (Mobile Development) (Dual-Award Degree)",
   "program_name_zh": "计算机科学学士（荣誉）（移动开发）（双学位）",
   "field_ar": "تقنية المعلومات",

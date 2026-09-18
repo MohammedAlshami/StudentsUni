@@ -16,7 +16,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "Not listed in OUM official International Admission fee table as of 2026-09-18; no international fee verified (programme may not be offered to international learners). Previous figure was an unverified estimate/local fee."
+    "notes": "No international fee published: the programme page (https://www.oum.edu.my/programmes-offered-at-oum/postgraduate/master-of-counselling/) states \"This programme is not available for International intake\" and publishes Malaysian Learner Fees only; the programme is also absent from OUM's official International Admission programme table (https://www.oum.edu.my/international-admission/, 34 programmes listed, accessed 2026-09-18). International fee left null because no official international fee is published."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -41,7 +41,8 @@
       "url": "https://www.oum.edu.my/international-admission/",
       "publisher": "Open University Malaysia",
       "fetched_at": "2026-09-18"
-    }
+    },
+    "https://www.oum.edu.my/programmes-offered-at-oum/postgraduate/master-of-counselling/"
   ],
   "confidence": "low",
   "last_updated": "2026-09-18",

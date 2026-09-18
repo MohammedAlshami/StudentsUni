@@ -15,7 +15,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "No international (or public) tuition fee published on UPNM official pages; UPNM is a Malaysian Armed Forces university and fee information is not published online. International fee unverified. Checked https://upnm.edu.my/index.php/en/ and https://upnm.edu.my/index.php/bm/kemasukan/ (accessed 2026-09-18)."
+    "notes": "UPNM Centre for Graduate Studies official international postgraduate fee structure (approved by the 60th University Board, 28 Aug 2025): research-mode tuition per semester is faculty-dependent - Master RM2,400-RM7,200 and PhD RM3,000-RM8,010. Total payable per semester including service (RM450), health (RM50), insurance (RM50) and postgraduate development/activity (RM50): Master RM3,150-RM7,950 (first semester), RM3,000-RM7,800 (subsequent); PhD RM3,750-RM8,760 (first), RM3,600-RM8,610 (subsequent). A single total/per-year is not published because the programme is offered across faculties at different rates. Sources: https://cgs.upnm.edu.my/index.php/postgraduate-study/127-fee-structure and https://cgs.upnm.edu.my/images/Final_New_PG_FEE_-_KADAR_YURAN_BAHARU_PROG_PASCASISWAZAH_PPS_2025__KEMASKINI_29102025_to_RIFAD_Page_1.jpg (Page_1-Page_4) (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,7 +24,12 @@
   "accreditation": "MQA",
   "faculty": "Pusat Pengajian Siswazah",
   "sources": [
-    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pasca-siswazah"
+    "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pasca-siswazah",
+    "https://cgs.upnm.edu.my/index.php/postgraduate-study/127-fee-structure",
+    "https://cgs.upnm.edu.my/images/Final_New_PG_FEE_-_KADAR_YURAN_BAHARU_PROG_PASCASISWAZAH_PPS_2025__KEMASKINI_29102025_to_RIFAD_Page_1.jpg",
+    "https://cgs.upnm.edu.my/images/Final_New_PG_FEE_-_KADAR_YURAN_BAHARU_PROG_PASCASISWAZAH_PPS_2025__KEMASKINI_29102025_to_RIFAD_Page_2.jpg",
+    "https://cgs.upnm.edu.my/images/Final_New_PG_FEE_-_KADAR_YURAN_BAHARU_PROG_PASCASISWAZAH_PPS_2025__KEMASKINI_29102025_to_RIFAD_Page_3.jpg",
+    "https://cgs.upnm.edu.my/images/Final_New_PG_FEE_-_KADAR_YURAN_BAHARU_PROG_PASCASISWAZAH_PPS_2025__KEMASKINI_29102025_to_RIFAD_Page_4.jpg"
   ],
   "confidence": "medium",
   "last_updated": "2026-09-18",

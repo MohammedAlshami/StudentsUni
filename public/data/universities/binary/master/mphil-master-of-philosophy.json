@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: binary.edu.my was not publicly accessible (Cloudflare bot protection) on 2026-09-18, so no official fee could be checked. Previous estimated value removed."
+    "total": 54000,
+    "per_year": 27000,
+    "notes": "Official Binary Graduate School international fee table (archived 7 Dec 2025: https://web.archive.org/web/20251207195805id_/https://binary.edu.my/bgs/): RM27,000 per year x 2 years = RM54,000 tuition. Additional official charges: registration RM600/year, library RM200/year, international admin RM1,960, visa processing RM2,980 (Masters)."
   },
   "requirements": {
     "previous_education": "Recognised Bachelor's degree"

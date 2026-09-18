@@ -4,20 +4,18 @@
   "level": "bachelor",
   "program_name": "Bachelor of Mechanical Engineering with Honours",
   "field": "Engineering",
-  "duration": "2.5 years",
+  "duration": "4 years",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
     "Mar",
-    "Oct",
-    "Jun",
-    "Sep"
+    "Jun/Jul",
+    "Sep/Oct"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 67500,
     "per_year": null,
-    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "Official IUKL (now KLUST) international fee schedule effective 26 Apr 2022, archived at https://web.archive.org/web/20220627135640id_/https://iukl.edu.my/iukl-application-forms/Undergraduate-International-fee-structure.pdf?v=20220513: tuition RM67,500 total for Mechanical Engineering with Honours (4 years, RM500/credit); approximate all-in programme fee RM81,360. Current KLUST site (checked 2026-09-18) no longer publishes programme fees ('Ask us')."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",

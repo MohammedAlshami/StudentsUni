@@ -8,15 +8,15 @@
   "duration": "2.5 years",
   "mode": "Full-time",
   "intakes": [
+    "January",
     "May",
-    "Sep",
-    "Jan"
+    "September"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
+    "currency": "USD",
+    "total": 7384.73,
+    "per_year": 2953.89,
+    "notes": "UNITAR's programme pages publish only local-student tuition ('Price listed above is applicable to local students only', checked 2026-09-18); it publishes no international fee schedule. Third-party enrolment platform Uni Enrol lists the international total as USD 7,384.73 over 2.5 years. Source: https://unienrol.com/study-malaysia/unitar-international-university-unitar/45811-diploma-in-early-childhood-education (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -46,9 +46,14 @@
       "url": "https://www.unitar.my/programmes/",
       "publisher": "unitar",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/unitar-international-university-unitar/45811-diploma-in-early-childhood-education",
+      "publisher": "Uni Enrol",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
+  "confidence": "medium",
   "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Early Childhood Education",
   "program_name_zh": "幼儿教育文凭",

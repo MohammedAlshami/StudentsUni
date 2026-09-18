@@ -8,15 +8,15 @@
   "duration": "1 year",
   "mode": "Full-time Study",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "April",
+    "July",
+    "October"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 3201.69,
+    "per_year": 3201.69,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Third-party enrolment platform Uni Enrol lists the international total fee for this programme as USD 3,201.69 over 1 years (USD 3,201.69/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44674-acca-foundation-in-accountancy (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,6 +28,11 @@
     {
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44674-acca-foundation-in-accountancy",
+      "publisher": "Uni Enrol",
       "fetched_at": "2026-09-18"
     }
   ],

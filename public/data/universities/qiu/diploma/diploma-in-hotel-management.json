@@ -8,15 +8,15 @@
   "duration": "2.5 years | Full-time",
   "mode": "Full-time Study",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "April",
+    "July",
+    "October"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 7390.87,
+    "per_year": 2956.35,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Third-party enrolment platform Uni Enrol lists the international total fee for this programme as USD 7,390.87 over 2.5 years (USD 2,956.35/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44647-diploma-in-hotel-management (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -29,6 +29,11 @@
     {
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44647-diploma-in-hotel-management",
+      "publisher": "Uni Enrol",
       "fetched_at": "2026-09-18"
     }
   ],

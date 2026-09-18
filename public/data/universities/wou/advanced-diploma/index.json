@@ -3,15 +3,15 @@
     "slug": "post-graduate-diploma-in-education",
     "program_name": "Post Graduate Diploma in Education",
     "field": "Education",
-    "duration": "1.5 Years",
+    "duration": "1 year (full-time)",
     "mode": "Part-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 30000,
+      "local_total": 9900,
+      "international_total": 9900,
+      "per_year_local": null,
       "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "notes": "WOU official programme page publishes a single tuition fee (no separate international rate); see individual programme record for the source URL (checked 2026-09-18)."
     }
   }
 ]

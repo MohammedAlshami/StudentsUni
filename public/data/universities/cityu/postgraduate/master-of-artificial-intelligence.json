@@ -5,21 +5,18 @@
   "program_name": "Master of Artificial Intelligence",
   "program_slug": "master-of-artificial-intelligence",
   "field": "Computing & Technology",
-  "duration": "2 years",
+  "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
     "Feb",
-    "Jan",
     "Jun",
-    "May",
-    "Oct",
     "Sep"
   ],
   "fees": {
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "City University Malaysia does not publish an international fee schedule; the latest fee structure is issued by the International Marketing Office on request. Previous value was an unverified estimate and has been removed. Source: https://city.edu.my/admission-scholarships/international-students/, accessed 2026-09-18."
+    "notes": "City University Malaysia does not publish an international fee schedule: the official International Students page states the latest fee structure is available only from the International Marketing Office (imo@city.edu.my) or CityU representatives on request, and the official programme page and programme listing show no tuition fee. Sources checked: https://city.edu.my/admission-scholarships/international-students/; https://city.edu.my/master-of-artificial-intelligence/; https://city.edu.my/programmes/masters-phd/ (all accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -28,7 +25,9 @@
   "accreditation": "MQA",
   "sources": [
     "https://www.city.edu.my",
-    "https://city.edu.my/admission-scholarships/international-students/"
+    "https://city.edu.my/admission-scholarships/international-students/",
+    "https://city.edu.my/master-of-artificial-intelligence/",
+    "https://city.edu.my/programmes/masters-phd/"
   ],
   "confidence": 0.5,
   "last_updated": "2026-09-18",

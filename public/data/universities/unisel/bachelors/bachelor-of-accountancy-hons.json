@@ -4,7 +4,7 @@
   "level": "bachelors",
   "program_name": "Bachelor of Accountancy (Hons)",
   "field": "Accounting",
-  "duration": "4 years",
+  "duration": "4 Years",
   "mode": "Full-time",
   "intakes": [
     "Apr",
@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: no international-student fee schedule is published on unisel.edu.my (international admissions and programme pages checked 2026-09-18). Previous third-party/estimated value removed."
+    "total": 67860,
+    "per_year": 16965.0,
+    "notes": "Official UNISEL international tuition fee for this programme: RM67,860 total programme fee. Source: https://unisel.edu.my/program-post/bachelor-of-accountancy-hons/ (accessed 2026-09-18). fees.per_year = total / 4 years (official programme duration). Excludes registration and other non-tuition charges."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -39,7 +39,8 @@
       "url": "https://unisel.edu.my/admission-international-student/",
       "publisher": "unisel",
       "fetched_at": "2026-09-18"
-    }
+    },
+    "https://unisel.edu.my/program-post/bachelor-of-accountancy-hons/"
   ],
   "confidence": "high",
   "last_updated": "2026-09-18",

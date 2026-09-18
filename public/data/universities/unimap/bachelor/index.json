@@ -154,13 +154,13 @@
     }
   ],
   "total": 38,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 4200,
-    "international_total": 16776.4,
+    "international_total": 10560,
     "per_year_local": 1400,
-    "per_year_international": 5592.13,
-    "notes": "Verified international fees from Universiti Malaysia Perlis official 2026 sources: total from RM16,776.40 to RM24,747.60 across 32 programmes; values shown are the lowest totals in this level. Source: https://admission.unimap.edu.my/international.php"
+    "per_year_international": 3520,
+    "notes": "Official UniMAP international tuition fee schedule (TUITION_FEE_SCHEDULE_FOR_INTERNATIONAL_STUDENTS.pdf): recurring tuition is RM3,520/year for 3-year Faculty of Business & Communication programmes (RM10,560 total) and RM4,520/year for 4-year Faculty of Engineering & Technology programmes (RM18,080 total); Year 1 also carries a one-off RM5,380 registration & personal bond fee. Values shown are the lowest total in this level. Source: https://www.unimap.edu.my/images/admission/TUITION_FEE_SCHEDULE_FOR_INTERNATIONAL_STUDENTS.pdf (accessed 2026-09-18)."
   }
 }

@@ -4,20 +4,18 @@
   "level": "master",
   "program_name": "Master of Information Technology",
   "field": "Computing",
-  "duration": "2.5 years",
-  "mode": "Full-time",
+  "duration": "Full Time: 1.5-2 years / Part Time: 2-4 years",
+  "mode": "Full-time/Part-time",
   "intakes": [
-    "Jul",
     "Mar",
-    "Oct",
-    "Jun",
-    "Sep"
+    "Jun/Jul",
+    "Sep/Oct"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 27600,
     "per_year": null,
-    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "Official IUKL (now KLUST) international postgraduate fee schedule effective 6 May 2019, printed 15 Aug 2020, archived at https://web.archive.org/web/20210117085121id_/https://iukl.edu.my/iukl-application-forms/Postgraduate-International-Fee-Structure.pdf?v=2020909: tuition RM27,600 total (RM690/credit); approximate all-in RM35,400. Current KLUST site (checked 2026-09-18) does not publish programme fees."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",

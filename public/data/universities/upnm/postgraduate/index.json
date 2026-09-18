@@ -16,13 +16,13 @@
   "sources": [
     "https://www.upnm.edu.my/index.php/bm/kemasukan/program-pengajian/pasca-siswazah"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 12000,
     "international_total": null,
     "per_year_local": 8000,
     "per_year_international": null,
-    "notes": "Estimated ~RM4000/semester for public university (subsidized) (per_year based on 1.5yr duration)"
+    "notes": "UPNM Centre for Graduate Studies official international postgraduate fee structure (approved 28 Aug 2025): research-mode tuition per semester is faculty-dependent - Master RM2,400-RM7,200 and PhD RM3,000-RM8,010; total per semester including service/health/insurance/development fees is Master RM3,150-RM7,950 (first) and RM3,000-RM7,800 (subsequent), PhD RM3,750-RM8,760 (first) and RM3,600-RM8,610 (subsequent). A single figure is not published because rates differ by faculty. Source: https://cgs.upnm.edu.my/index.php/postgraduate-study/127-fee-structure (accessed 2026-09-18)."
   }
 }

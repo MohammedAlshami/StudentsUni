@@ -5,13 +5,13 @@
   "program_name": "Masters in Counselling",
   "program_slug": "masters-in-counselling",
   "field": "Social Sciences",
-  "duration": "Minimum 2 years (Full-Time), 3 years (Part-Time), Maximum 6 years",
+  "duration": "Minimum 2 years (full-time) / 3 years (part-time); maximum 6 years",
   "mode": "Flexible Full-time/Part-time Mode",
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 70350,
     "per_year": null,
-    "notes": "Unverified: HELP University publishes only a Malaysian-student fee summary (2026 HELP University Programme Fees Summary, July 2026, 2026-09-18); no public international-student fee schedule exists. International applicants are directed to contact HELP. Previous third-party/estimated value removed."
+    "notes": "HELP University published international student programme fee: RM 70,350 (total programme fee, standard rate; excludes application fee, EMGS service charge, administration fee and 6% SST). Source: https://university.help.edu.my/programme/masters-in-counselling/, fetched 2026-09-18."
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0006281/",
@@ -20,12 +20,17 @@
       "url": "https://university.help.edu.my/brochures/",
       "publisher": "help",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://university.help.edu.my/programme/masters-in-counselling/",
+      "publisher": "HELP University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
   "last_updated": "2026-09-18",
   "intakes": [
-    "Modular"
+    "Jan"
   ],
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",

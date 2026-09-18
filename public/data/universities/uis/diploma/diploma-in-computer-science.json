@@ -5,7 +5,7 @@
   "program_name": "Diploma in Computer Science",
   "field": "Computer Science",
   "slug": "diploma-in-computer-science",
-  "duration": "3 years",
+  "duration": "2 years 3 months",
   "mode": null,
   "intakes": [
     "Sep",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No tuition fee published on UIS official admissions site (study.uis.edu.my) or main site; international fee unverified. Checked https://study.uis.edu.my/ and https://www.uis.edu.my/ (accessed 2026-09-18)."
+    "total": 24508,
+    "per_year": 10892.44,
+    "notes": "Official UIS international fee for Diploma Sains Komputer (Diploma in Computer Science) (programme code ms39), last published on study.uis.edu.my (capture 20240805034809): RM24,508 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/ms39, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240805034809/https://study.uis.edu.my/ms39."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -27,9 +27,11 @@
   "sources": [
     "https://study.uis.edu.my/peringkat-diploma",
     "https://study.uis.edu.my/",
-    "https://www.uis.edu.my/"
+    "https://www.uis.edu.my/",
+    "https://study.uis.edu.my/ms39",
+    "https://web.archive.org/web/20240805034809/https://study.uis.edu.my/ms39"
   ],
-  "confidence": 0.5,
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Computer Science",
   "program_name_zh": "计算机科学文凭",

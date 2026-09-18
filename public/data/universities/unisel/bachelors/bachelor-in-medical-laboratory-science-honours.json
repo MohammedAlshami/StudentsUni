@@ -15,7 +15,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "Unverified: no international-student fee schedule is published on unisel.edu.my (international admissions and programme pages checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "No official international tuition fee is published: this programme is not in UNISEL's current bachelor programme list (https://unisel.edu.my/programmes/bachelor-programmes/, accessed 2026-09-18), and its former programme page is no longer available. The closest current programme is Bachelor of Biomedical Science (Honours) with an official international fee of RM78,245. International fee left null because no official international fee is published."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",

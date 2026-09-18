@@ -16,7 +16,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "Not listed in OUM official International Admission fee table as of 2026-09-18; no international fee verified (programme may not be offered to international learners). Previous figure was an unverified estimate/local fee."
+    "notes": "OUM's programme page (https://www.oum.edu.my/programmes-offered-at-oum/undergraduate/bachelor-of-digital-media-design-with-honours/) states \"This programme is not available for International intake\", although the same page also contains an \"International Learner Fees\" table (total RM29,417); the programme is absent from OUM's official International Admission programme table (https://www.oum.edu.my/international-admission/). Because the official page explicitly says it is not open to international intake, no fee is recorded (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90",
@@ -43,7 +43,8 @@
       "url": "https://www.oum.edu.my/international-admission/",
       "publisher": "Open University Malaysia",
       "fetched_at": "2026-09-18"
-    }
+    },
+    "https://www.oum.edu.my/programmes-offered-at-oum/undergraduate/bachelor-of-digital-media-design-with-honours/"
   ],
   "confidence": "low",
   "last_updated": "2026-09-18",

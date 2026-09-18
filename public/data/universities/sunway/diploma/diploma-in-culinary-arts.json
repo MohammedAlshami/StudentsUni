@@ -15,9 +15,9 @@
   ],
   "fees": {
     "currency": "USD",
-    "total": null,
+    "total": 16396,
     "per_year": 8198,
-    "notes": "Official estimated annual international course fee (Year 2026): USD 8,198 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
+    "notes": "Official Sunway University international student annual fee (Year 2026): USD 8,198, published on the programme page and payable in RM equivalent at the prevailing exchange rate. Total (USD 16,396) derived as annual fee x 2 years. Source: https://sunwayuniversity.edu.my/school-of-hospitality-and-tourism-management/courses/diploma-culinary-arts, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",

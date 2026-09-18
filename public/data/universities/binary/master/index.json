@@ -14,11 +14,11 @@
       "intakes": [],
       "fees": {
         "currency": "MYR",
-        "local_total": null,
-        "international_total": null,
-        "per_year_local": null,
-        "per_year_international": null,
-        "notes": "RM 16,000/year"
+        "local_total": 32000,
+        "international_total": 54000,
+        "per_year_local": 16000,
+        "per_year_international": 27000,
+        "notes": "Local RM16,000/year; international RM27,000/year (official BGS fee table, archived 7 Dec 2025)."
       },
       "requirements": {
         "malaysian": {
@@ -57,11 +57,11 @@
       "intakes": [],
       "fees": {
         "currency": "MYR",
-        "local_total": null,
-        "international_total": null,
-        "per_year_local": null,
-        "per_year_international": null,
-        "notes": "RM 16,000/year"
+        "local_total": 32000,
+        "international_total": 54000,
+        "per_year_local": 16000,
+        "per_year_international": 27000,
+        "notes": "Local RM16,000/year; international RM27,000/year (official BGS fee table, archived 7 Dec 2025)."
       },
       "requirements": {
         "malaysian": {
@@ -100,11 +100,11 @@
       "intakes": [],
       "fees": {
         "currency": "MYR",
-        "local_total": null,
-        "international_total": null,
-        "per_year_local": null,
-        "per_year_international": null,
-        "notes": "RM 16,000/year"
+        "local_total": 32000,
+        "international_total": 54000,
+        "per_year_local": 16000,
+        "per_year_international": 27000,
+        "notes": "Local RM16,000/year; international RM27,000/year (official BGS fee table, archived 7 Dec 2025)."
       },
       "requirements": {
         "malaysian": {
@@ -143,11 +143,11 @@
       "intakes": [],
       "fees": {
         "currency": "MYR",
-        "local_total": null,
-        "international_total": null,
-        "per_year_local": null,
-        "per_year_international": null,
-        "notes": "RM 16,000/year"
+        "local_total": 32000,
+        "international_total": 54000,
+        "per_year_local": 16000,
+        "per_year_international": 27000,
+        "notes": "Local RM16,000/year; international RM27,000/year (official BGS fee table, archived 7 Dec 2025)."
       },
       "requirements": {
         "malaysian": {
@@ -186,11 +186,11 @@
       "intakes": [],
       "fees": {
         "currency": "MYR",
-        "local_total": null,
-        "international_total": null,
-        "per_year_local": null,
-        "per_year_international": null,
-        "notes": "RM 16,000/year"
+        "local_total": 32000,
+        "international_total": 54000,
+        "per_year_local": 16000,
+        "per_year_international": 27000,
+        "notes": "Local RM16,000/year; international RM27,000/year (official BGS fee table, archived 7 Dec 2025)."
       },
       "requirements": {
         "malaysian": {
@@ -229,11 +229,11 @@
       "intakes": [],
       "fees": {
         "currency": "MYR",
-        "local_total": null,
-        "international_total": null,
-        "per_year_local": null,
-        "per_year_international": null,
-        "notes": "RM 16,000/year"
+        "local_total": 32000,
+        "international_total": 54000,
+        "per_year_local": 16000,
+        "per_year_international": 27000,
+        "notes": "Local RM16,000/year; international RM27,000/year (official BGS fee table, archived 7 Dec 2025)."
       },
       "requirements": {
         "malaysian": {
@@ -266,10 +266,10 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 33000,
-    "international_total": null,
-    "per_year_local": 22000,
-    "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "local_total": 32000,
+    "international_total": 54000,
+    "per_year_local": 16000,
+    "per_year_international": 27000,
+    "notes": "Official Binary Graduate School fee tables (archived 7 Dec 2025: https://web.archive.org/web/20251207195805id_/https://binary.edu.my/bgs/): Malaysian RM16,000/year (RM32,000 total); international RM27,000/year (RM54,000 total) for 2-year masters."
   }
 }

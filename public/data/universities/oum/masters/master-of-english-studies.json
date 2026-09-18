@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Not listed in OUM official International Admission fee table as of 2026-09-18; no international fee verified (programme may not be offered to international learners). Previous figure was an unverified estimate/local fee."
+    "total": 27930,
+    "per_year": 16758.0,
+    "notes": "Official OUM International Learner Fees for this programme: RM27,930 total (subject fees only; excludes one-off registration fee of RM4,150, processing and resource fees; 6% SST applies to international and Permanent Resident students from 1 July 2025; 60% of the semester fee is due before the semester starts and 40% before examination week). Source: https://www.oum.edu.my/programmes-offered-at-oum/postgraduate/master-of-english-studies/ (accessed 2026-09-18). per_year = total / 20 months x 12. Note: the programme is not listed in OUM's International Admission programme table (https://www.oum.edu.my/international-admission/)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -41,9 +41,10 @@
       "url": "https://www.oum.edu.my/international-admission/",
       "publisher": "Open University Malaysia",
       "fetched_at": "2026-09-18"
-    }
+    },
+    "https://www.oum.edu.my/programmes-offered-at-oum/postgraduate/master-of-english-studies/"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير English Studies",
   "program_name_zh": "English Studies硕士",

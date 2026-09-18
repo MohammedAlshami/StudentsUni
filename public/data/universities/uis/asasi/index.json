@@ -6,24 +6,24 @@
     "program_name": "Foundation in Islamic Studies",
     "field": "Islamic Studies",
     "slug": "foundation-in-islamic-studies",
-    "duration": null,
+    "duration": "1 year",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 16000,
-      "international_total": null,
-      "per_year_local": 16000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+      "local_total": 6217,
+      "international_total": 9817,
+      "per_year_local": 6217.0,
+      "per_year_international": 9817.0,
+      "notes": "Official UIS international fee for Asasi Pengajian Islam (Foundation in Islamic Studies) (programme code fa01), last published on study.uis.edu.my (capture 20240722203957): RM9,817 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/fa01, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240722203957/https://study.uis.edu.my/fa01."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-asasi"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -32,24 +32,24 @@
     "program_name": "Foundation in Management",
     "field": "Business",
     "slug": "foundation-in-management",
-    "duration": null,
+    "duration": "1 year",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 16000,
-      "international_total": null,
-      "per_year_local": 16000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+      "local_total": 6217,
+      "international_total": 9817,
+      "per_year_local": 6217.0,
+      "per_year_international": 9817.0,
+      "notes": "Official UIS international fee for Asasi Pengurusan (Foundation in Management) (programme code fa02), last published on study.uis.edu.my (capture 20240722210501): RM9,817 total, an all-inclusive package covering registration, facilities & welfare, tuition & assessment, accommodation (Dormitory D, full-time only) and graduation. UIS's current programme page (https://study.uis.edu.my/fa02, accessed 2026-09-18) says tuition fee information will be updated soon, so this is the latest officially published international figure. fees.per_year = total / official duration. Source: https://web.archive.org/web/20240722210501/https://study.uis.edu.my/fa02."
     },
     "requirements": null,
     "accreditation": null,
     "sources": [
       "https://study.uis.edu.my/peringkat-asasi"
     ],
-    "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "confidence": "high",
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Selangor Islamic University",
@@ -58,16 +58,16 @@
     "program_name": "Foundation in Science",
     "field": "Science",
     "slug": "foundation-in-science",
-    "duration": null,
+    "duration": "3 years",
     "mode": null,
     "intakes": null,
     "fees": {
       "currency": "MYR",
-      "local_total": 16000,
+      "local_total": 6617,
       "international_total": null,
-      "per_year_local": 16000,
+      "per_year_local": 2205.67,
       "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+      "notes": "No international fee published: UIS's official foundation programme list (https://study.uis.edu.my/peringkat-asasi, accessed 2026-09-18) offers Asasi Pengajian Islam (FA01), Asasi Pengurusan (FA02), Pengajian Asas Teknologi Maklumat (FA03), Asasi Bahasa Arab (FA04), Asasi Komunikasi (FA05) and Asasi Bahasa Inggeris (FA06); there is no Foundation in Science. The closest, FA03 Foundation in Information Technology, had an official 2024 international total of RM10,517. Fee left null because no official international fee is published."
     },
     "requirements": null,
     "accreditation": null,
@@ -75,6 +75,6 @@
       "https://study.uis.edu.my/peringkat-asasi"
     ],
     "confidence": 0.5,
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   }
 ]

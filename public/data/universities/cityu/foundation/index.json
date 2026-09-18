@@ -19,7 +19,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Foundation in Arts (Graphic Design & Multimedia)",
@@ -35,7 +35,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Foundation in Business",
@@ -51,7 +51,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Foundation in Arts (Built Environment)",
@@ -67,7 +67,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Foundation in Arts (Communication)",
@@ -83,7 +83,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Foundation in Arts (Fashion Design)",
@@ -99,7 +99,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Foundation in Arts (English)",
@@ -115,7 +115,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Foundation Studies in Science (Physical Science)",
@@ -131,7 +131,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Foundation in Information Technology",
@@ -147,7 +147,7 @@
         "https://www.city.edu.my"
       ],
       "confidence": 0.9,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     }
   ],
   "fees": {
@@ -156,9 +156,11 @@
     "international_total": null,
     "per_year_local": 16000,
     "per_year_international": null,
-    "notes": "No public international fee schedule; latest fee structure is issued by the International Marketing Office on request. Estimates removed from programme files."
+    "notes": "No public international fee schedule is published by City University Malaysia; the latest fee structure is issued by the International Marketing Office (imo@city.edu.my) on request. International totals are left null. Sources checked: https://city.edu.my/admission-scholarships/international-students/; https://city.edu.my/programmes/foundation/ (accessed 2026-09-18)."
   },
   "sources": [
-    "https://city.edu.my/admission-scholarships/international-students/"
-  ]
+    "https://city.edu.my/admission-scholarships/international-students/",
+    "https://city.edu.my/programmes/foundation/"
+  ],
+  "last_updated": "2026-09-18"
 }

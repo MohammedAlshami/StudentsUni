@@ -7,17 +7,17 @@
   "program_slug": "bet-energy-and-power",
   "field": "Electrical Engineering",
   "faculty": "Faculty of Ocean Engineering Technology",
-  "duration": "3 years",
+  "duration": "4 years (8 semesters)",
   "mode": "full-time",
   "intakes": {
     "main": "September",
     "secondary": null
   },
   "fees": {
-    "currency": "MYR",
-    "total": 22800,
-    "per_year": 5700,
-    "notes": "No official UMT international fee published for this programme in the 2025 undergraduate international fee list (https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf); previous figure unverified. Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": 9120,
+    "per_year": 2280,
+    "notes": "International tuition per UMT's official Undergraduate Programme Fees schedule (Jan 2026): USD 1,140 per semester for Bachelor of Electrical Technology (Energy and Power) with Honours; 8 semesters/4 years (official programme page), so total = USD 9,120 and per_year = USD 2,280 (derived). Sources: https://www.umt.edu.my/wp-content/uploads/2026/01/yuran-pengajian-undergrad.pdf, https://www.umt.edu.my/sarjana-muda-teknologi-elektrik-tenaga-kuasa-dengan-kepujian-ftkk/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -28,9 +28,10 @@
   "accreditation": "MQA/FA6522001",
   "sources": [
     "https://umt.my/all-programs-at-umt/",
-    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
+    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG",
+    "https://www.umt.edu.my/wp-content/uploads/2026/01/yuran-pengajian-undergrad.pdf"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Electrical Technology (Energy and Power) with Honours",
   "program_name_zh": "电气技术学士（能源与电力）荣誉学位",

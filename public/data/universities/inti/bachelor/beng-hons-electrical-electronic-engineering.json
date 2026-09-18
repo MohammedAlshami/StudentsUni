@@ -5,18 +5,19 @@
   "program_name": "B.Eng. (Hons) Electrical & Electronic Engineering",
   "program_slug": "beng-hons-electrical-electronic-engineering",
   "field": "Engineering & Engineering Trades",
-  "duration": "4 years",
+  "duration": "3 years",
   "mode": "Full-time",
   "study_type": "Full-time Study",
   "intakes": [
-    "Jul",
-    "Jan"
+    "Jan",
+    "Apr",
+    "Aug"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 72380,
     "per_year": null,
-    "notes": "Unverified: no official fee page found on newinti.edu.my for this programme as of 2026-09-18; previous third-party/estimated value removed."
+    "notes": "Official INTI programme page (3+0 B.Eng (Hons) Electrical & Electronic Engineering with Coventry University, archived 24 Aug 2019: https://web.archive.org/web/20190824110337id_/https://newinti.edu.my/programme/3-0-bachelor-of-engineering-hons-in-electrical-and-electronic-engineering-coventry-uk/) lists the international approximate tuition as RM72,380 (local RM68,915). The programme is no longer listed on newinti.edu.my (checked 2026-09-18); this is the last published official international fee."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",

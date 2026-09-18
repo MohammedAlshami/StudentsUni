@@ -5,18 +5,19 @@
   "program_name": "Master of Business Administration (2)",
   "field": "Business Management & Administration",
   "slug": "master-of-business-administration-2",
-  "duration": "Full time: 1 year (min); 4 years (max); Part time: 2.5 years (min); 5 years (max)",
+  "duration": "Full time: 1 year (min); 4 years (max) Part time: 2.5 years (min); 5 years (max)",
   "mode": "Flexible Full-time/Part-time Mode",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "January",
+    "April",
+    "July",
+    "October"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 12806.75,
+    "per_year": 12806.75,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Third-party enrolment platform Uni Enrol lists the international total fee for this programme as USD 12,806.75 over 1 years (USD 12,806.75/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44670-master-of-business-administration-odl (accessed 2026-09-18)."
   },
   "requirements": null,
   "accreditation": null,
@@ -25,6 +26,11 @@
     {
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44670-master-of-business-administration-odl",
+      "publisher": "Uni Enrol",
       "fetched_at": "2026-09-18"
     }
   ],

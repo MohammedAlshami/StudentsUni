@@ -5,13 +5,13 @@
   "program_name": "Polygraph Examiner's Course",
   "program_slug": "polygraph-examiners-course",
   "field": "Social Sciences",
-  "duration": "Four (4) Months (Classes on weekends and weekday evenings)",
+  "duration": "4 months (weekend and weekday evening classes)",
   "mode": "Part-time Study",
   "fees": {
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "Unverified: HELP University publishes only a Malaysian-student fee summary (2026 HELP University Programme Fees Summary, July 2026, 2026-09-18); no public international-student fee schedule exists. International applicants are directed to contact HELP. Previous third-party/estimated value removed."
+    "notes": "HELP University does not publish an international student fee for this programme: the official programme page lists only the Malaysian-student indicative total fee (RM 25,000), and the 2026 HELP University Programme Fees Summary (v4, July 2026) is explicitly Malaysian-only. Sources checked on 2026-09-18: https://university.help.edu.my/programme/polygraph-examiners-course/; https://university.help.edu.my/admissions-study-awards/fee-schedule/ (page empty); https://university.help.edu.my/admissions-study-awards/international-student-admissions/; https://university.help.edu.my/brochures/ (2026 fees summary PDF). No international fee published."
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0058744/",
@@ -20,16 +20,17 @@
       "url": "https://university.help.edu.my/brochures/",
       "publisher": "help",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://university.help.edu.my/programme/polygraph-examiners-course/",
+      "publisher": "HELP University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
   "last_updated": "2026-09-18",
   "intakes": [
-    "Aug",
-    "Feb",
-    "Jan",
-    "May",
-    "Sep"
+    "Rolling"
   ],
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",

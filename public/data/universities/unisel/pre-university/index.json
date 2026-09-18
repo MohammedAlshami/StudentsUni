@@ -7,11 +7,12 @@
     "mode": "Full-time",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 66000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
-    }
+      "local_total": 7320,
+      "international_total": 11520,
+      "per_year_local": 7320.0,
+      "per_year_international": 11520.0,
+      "notes": "Official UNISEL international tuition fee for this programme: RM11,520 total programme fee. Source: https://unisel.edu.my/program-post/foundation-in-management/ (accessed 2026-09-18). fees.per_year = total / 1 years (official programme duration). Excludes registration and other non-tuition charges."
+    },
+    "last_updated": "2026-09-18"
   }
 ]

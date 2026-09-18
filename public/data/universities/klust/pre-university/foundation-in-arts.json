@@ -7,16 +7,15 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Nov",
     "Mar",
-    "Jun"
+    "Jun/Jul",
+    "Nov"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
+    "total": 12600,
     "per_year": null,
-    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "Official IUKL (now KLUST) international fee schedule effective 26 Apr 2022, archived at https://web.archive.org/web/20220627135640id_/https://iukl.edu.my/iukl-application-forms/Undergraduate-International-fee-structure.pdf?v=20220513: tuition RM12,600 total for Foundation in Arts (1 year, RM4,200/semester; 1st semester RM12,240, subsequent RM4,440); approximate all-in programme fee RM21,120. Current KLUST site (checked 2026-09-18) no longer publishes programme fees ('Ask us')."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",

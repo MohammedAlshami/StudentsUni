@@ -8,17 +8,15 @@
   "duration": "3 Yrs (9 Sem)",
   "mode": "Flexible Full-time/Part-time Mode",
   "intakes": [
-    "Jan",
-    "Jul",
-    "Mar",
+    "January",
     "May",
-    "Sep"
+    "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
+    "total": 42620.0,
+    "per_year": 14206.67,
+    "notes": "UNITAR's programme pages publish only the local-student tuition and state 'Price listed above is applicable to local students only' (checked 2026-09-18); it publishes no international fee schedule. EasyUni lists the foreign-student tuition for this programme as MYR 42,620, plus miscellaneous fees of MYR 13,180 (registration/visa/deposit). Source: https://www.easyuni.my/malaysia/unitar-international-university-11409/phd-in-education-277321/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -35,6 +33,11 @@
     {
       "url": "https://www.unitar.my/programmes/",
       "publisher": "unitar",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/phd-in-education-277321/",
+      "publisher": "EasyUni",
       "fetched_at": "2026-09-18"
     }
   ],

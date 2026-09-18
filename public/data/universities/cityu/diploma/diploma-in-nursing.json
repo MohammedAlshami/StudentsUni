@@ -9,17 +9,14 @@
   "mode": "Full-time",
   "intakes": [
     "Feb",
-    "Oct",
     "Jun",
-    "May",
-    "Sep",
-    "Jan"
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "City University Malaysia does not publish an international fee schedule; the latest fee structure is issued by the International Marketing Office on request. Previous value was an unverified estimate and has been removed. Source: https://city.edu.my/admission-scholarships/international-students/, accessed 2026-09-18."
+    "notes": "City University Malaysia does not publish an international fee schedule: the official International Students page states the latest fee structure is available only from the International Marketing Office (imo@city.edu.my) or CityU representatives on request, and the official programme page and programme listing show no tuition fee. Sources checked: https://city.edu.my/admission-scholarships/international-students/; https://city.edu.my/diploma-in-nursing/; https://city.edu.my/programmes/diploma/ (all accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -42,7 +39,9 @@
       "url": "https://city.edu.my/admission-scholarships/international-students/",
       "publisher": "City University Malaysia",
       "fetched_at": "2026-09-18"
-    }
+    },
+    "https://city.edu.my/diploma-in-nursing/",
+    "https://city.edu.my/programmes/diploma/"
   ],
   "confidence": 0.5,
   "last_updated": "2026-09-18",

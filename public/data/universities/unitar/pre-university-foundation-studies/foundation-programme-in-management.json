@@ -8,15 +8,15 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
+    "January",
     "May",
-    "Sep",
-    "Jan"
+    "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
+    "total": 14000.0,
+    "per_year": 14000.0,
+    "notes": "UNITAR's programme pages publish only the local-student tuition and state 'Price listed above is applicable to local students only' (checked 2026-09-18); it publishes no international fee schedule. EasyUni lists the foreign-student tuition for this programme as MYR 14,000, plus miscellaneous fees of MYR 11,410 (registration/visa/deposit). Source: https://www.easyuni.my/malaysia/unitar-international-university-11409/foundation-in-management-264598/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -46,7 +46,7 @@
       "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
+  "confidence": "medium",
   "last_updated": "2026-09-18",
   "program_name_ar": "Foundation Programme in Management",
   "program_name_zh": "管理学基础课程",

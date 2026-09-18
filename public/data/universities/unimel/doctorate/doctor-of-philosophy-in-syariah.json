@@ -4,18 +4,16 @@
   "program_name": "Doctor of Philosophy in Syariah",
   "program_slug": "doctor-of-philosophy-in-syariah",
   "field": "Islamic Sciences",
-  "duration": "3-5 Years",
+  "duration": "2-4 Years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Rolling"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
+    "currency": "USD",
+    "total": 8050.0,
     "per_year": null,
-    "notes": "Unverified: UNIMEL programme brochures linked from the official programme list are image-only PDFs with no extractable fee text and no public HTML fee schedule exists (checked 2026-09-18). Previous estimated value removed."
+    "notes": "UNIMEL official international programme brochure (rolling admission throughout the year) (image-based PDF; fee text OCR-extracted): full-time total programme fee USD 8,050.00. Excludes visa/EMGS and other non-tuition charges. Source: https://register.unimel.edu.my/temp/img/PHD%20SHARIAH.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -27,6 +25,11 @@
       "url": "https://unimel.edu.my/programme-list/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://register.unimel.edu.my/temp/img/PHD%20SHARIAH.pdf",
+      "publisher": "UNIMEL",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",

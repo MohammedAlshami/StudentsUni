@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: binary.edu.my was not publicly accessible (Cloudflare bot protection) on 2026-09-18, so no official fee could be checked. Previous estimated value removed."
+    "total": 60000,
+    "per_year": 20000,
+    "notes": "Official Binary Graduate School international fee table (archived 7 Dec 2025: https://web.archive.org/web/20251207195805id_/https://binary.edu.my/bgs/): RM20,000 per year x 3 years = RM60,000 tuition for PhD/DBA. Additional official charges: registration RM600/year, library RM200/year, international admin RM1,960, visa processing RM3,980 (PhD/DBA), refundable personal bond RM750-1,550."
   },
   "requirements": {
     "previous_education": "Recognised Master's degree, IELTS 6.0"

@@ -15,7 +15,7 @@
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "Unverified: UNIMEL programme brochures linked from the official programme list are image-only PDFs with no extractable fee text and no public HTML fee schedule exists (checked 2026-09-18). Previous estimated value removed."
+    "notes": "No international fee published by UNIMEL for this programme: it has no international brochure in the official international programme list (https://unimel.edu.my/programme-list/, checked 2026-09-18), the relevant faculty/graduate-studies pages list no fees, there is no matching PDF in the official brochure directory (register.unimel.edu.my/temp/img/), and EasyUni has no UNIMEL programme listing. Previous estimate removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -29,7 +29,7 @@
       "fetched_at": "2026-09-15T00:00:00+08:00"
     }
   ],
-  "confidence": "high",
+  "confidence": "low",
   "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Law",
   "program_name_zh": "哲学博士 in Law",

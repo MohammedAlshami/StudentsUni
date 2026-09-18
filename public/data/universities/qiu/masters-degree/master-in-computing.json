@@ -5,18 +5,19 @@
   "program_name": "Master in Computing",
   "field": "Computing & IT",
   "slug": "master-in-computing",
-  "duration": "2-4 years | Full time; 3-6 years | Part time",
+  "duration": "2-4 years | Full time 3-6 years | Part time",
   "mode": "Flexible Full-time/Part-time Mode",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "January",
+    "April",
+    "July",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "notes": "No international fee published by QIU: the official programme page states fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18), QIU publishes no fee schedule, and this programme has no listing with international fees on Uni Enrol or EasyUni. Previous estimate removed."
   },
   "requirements": null,
   "accreditation": null,
@@ -28,7 +29,7 @@
       "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
+  "confidence": "low",
   "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Computing",
   "program_name_zh": "Computing硕士",

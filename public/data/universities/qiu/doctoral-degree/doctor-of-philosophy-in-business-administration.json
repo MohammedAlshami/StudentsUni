@@ -5,18 +5,19 @@
   "program_name": "Doctor of Philosophy in Business Administration",
   "field": "Business Management & Administration",
   "slug": "doctor-of-philosophy-in-business-administration",
-  "duration": "Full-time - Minimum: 3 years, Maximum: 5 years | Part-time - Minimum: 4 years, Maximum: 6 years",
+  "duration": "Full-time – Minimum : 3 years, Maximum : 5 years | Part-time – Minimum : 4 years, Maximum: 6 years",
   "mode": "Flexible Full-time/Part-time Mode",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "January",
+    "April",
+    "July",
+    "October"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
+    "currency": "USD",
+    "total": 17725.81,
+    "per_year": 5908.6,
+    "notes": "QIU does not publish programme fees on its own website; its programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Third-party enrolment platform Uni Enrol lists the international total fee for this programme as USD 17,725.81 over 3 years (USD 5,908.60/year). Source: https://unienrol.com/study-malaysia/quest-international-university-qiu/44661-phd-in-business-administration-by-research (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -28,6 +29,11 @@
     {
       "url": "https://qiu.edu.my/programmes/",
       "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://unienrol.com/study-malaysia/quest-international-university-qiu/44661-phd-in-business-administration-by-research",
+      "publisher": "Uni Enrol",
       "fetched_at": "2026-09-18"
     }
   ],

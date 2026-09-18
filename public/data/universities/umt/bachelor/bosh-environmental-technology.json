@@ -15,9 +15,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 19200,
-    "per_year": 4800,
-    "notes": "No official UMT international fee published for this programme in the 2025 undergraduate international fee list (https://akademik.umt.edu.my/wp-content/uploads/2025/02/2-PPPA-UG-LIST-PROGRAMMES-AND-FEES-FOR-INTERNATIONAL-STUDENTS.pdf); previous figure unverified. Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: the programme is not listed in UMT's official Undergraduate Programme Fees schedule (Jan 2026), the only current fee schedule published by UMT. Source: https://www.umt.edu.my/wp-content/uploads/2026/01/yuran-pengajian-undergrad.pdf (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -28,7 +28,8 @@
   "accreditation": "MQA/FA6862001",
   "sources": [
     "https://umt.my/all-programs-at-umt/",
-    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG"
+    "https://online.mohe.gov.my/epanduan/maklumatAgensi/UG",
+    "https://www.umt.edu.my/wp-content/uploads/2026/01/yuran-pengajian-undergrad.pdf"
   ],
   "confidence": "low",
   "last_updated": "2026-09-18",
