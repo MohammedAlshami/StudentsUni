@@ -11,10 +11,10 @@
     "September"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 150000,
-    "per_year": 37500,
-    "notes": "Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 2800,
+    "notes": "Official USM international research-mode tuition: USD 1,400/semester (full-time); per_year = 2 semesters. Total depends on completion time (min 4 semesters). Excludes one-off fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -34,10 +34,11 @@
       "url": "https://studymalaysia.com/edu/usm/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://admission.usm.my/index.php/postgraduate/fee-pg"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Ph.D. in Education",
   "program_name_zh": "Ph.D. in Education",
   "field_ar": "التربية والتعليم",

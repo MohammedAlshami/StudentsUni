@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "No single programme; official UTS international per-year fees https://uts.edu.my/tuitionfees (fetched 2026-09-18): Civil 22,830, Mechanical 22,455, Electrical 23,045 (RM/year, 4 years each). Values are programme-specific so no aggregate total is asserted."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -25,11 +25,16 @@
   },
   "accreditation": "MQA approved, EAC accredited",
   "sources": [
-    "https://en.wikipedia.org/wiki/University_of_Technology_Sarawak"
+    "https://en.wikipedia.org/wiki/University_of_Technology_Sarawak",
+    {
+      "url": "https://uts.edu.my/tuitionfees",
+      "publisher": "UTS",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "low",
   "notes": "UTS School of Engineering and Technology offers engineering programmes. Exact programme names not available from accessible sources.",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Engineering programmes (various disciplines)",
   "program_name_zh": "Engineering programmes (various disciplines)",
   "field_ar": "الهندسة",

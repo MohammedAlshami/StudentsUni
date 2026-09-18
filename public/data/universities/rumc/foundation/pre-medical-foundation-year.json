@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 39999,
-    "per_year": 53333,
-    "notes": ""
+    "total": 45000,
+    "per_year": null,
+    "notes": "International fee RM45,000 per official RUMC page https://www.rumc.edu.my/programmes/pre-medical-foundation-year/ and PDF https://www.rumc.edu.my/wp-content/uploads/2025/11/Fees-Schedule_PMFY_International.pdf (published 19 Nov 2025), fetched 2026-09-18. per_year not quoted (9-month programme)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -22,10 +22,15 @@
   },
   "accreditation": "R3/010/3/0099 (12/27) (MQA/A7144)",
   "sources": [
-    "https://www.rumc.edu.my/programmes/pre-medical-foundation-year/"
+    "https://www.rumc.edu.my/programmes/pre-medical-foundation-year/",
+    {
+      "url": "https://www.rumc.edu.my/fees/",
+      "publisher": "RUMC",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Pre-Medical Foundation Year",
   "program_name_zh": "Pre-Medical Foundation Year",
   "field_ar": "العلوم",

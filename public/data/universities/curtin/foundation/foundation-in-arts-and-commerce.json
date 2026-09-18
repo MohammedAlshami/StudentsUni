@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 25768,
-    "per_year": "RM25,768 per annum",
-    "notes": null
+    "total": 29700,
+    "per_year": 29700,
+    "notes": "Official Curtin Malaysia 2026 international fee: RM29,700/year (full-time 200 credits). Total = RM29,700 x 1 years (derived). Excludes 6% SST applicable to international students from 1 Jul 2025. Official Curtin Malaysia indicative course fees, 2026 intake (International column); page updated 12 Aug 2026. Source: https://curtin.edu.my/study/fee/course-fees/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -27,10 +27,11 @@
   },
   "sources": [
     "https://www.curtin.edu.my/study/foundation-studies/foundation-arts-commerce/",
-    "https://www.studymalaysia.com/what/course/CURTIN/0001474/"
+    "https://www.studymalaysia.com/what/course/CURTIN/0001474/",
+    "https://curtin.edu.my/study/fee/course-fees/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Arts & Commerce",
   "program_name_zh": "Arts & Commerce预科",
   "field_ar": "تقنية المعلومات",

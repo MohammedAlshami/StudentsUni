@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 9000,
-    "per_year": 3000,
-    "notes": "Per semester: MYR 1,029 local, MYR 1,500 international"
+    "total": 17958,
+    "per_year": null,
+    "notes": "Official UPSI international diploma fee: RM4,418 (Semester 1) + RM2,708 per subsequent semester, total RM17,958 for 6 semesters (includes RM2,000 refundable student bond). Official UPSI 'Kadar Yuran Pengajian Program Diploma' (2024) international-student column. Source: https://bhea.upsi.edu.my/wp-content/uploads/2024/07/kadar-yuran-UG-dan-subsidi-2024.pdf (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,10 +26,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/what/course/UPSI/0055040/",
-    "https://fmsp.upsi.edu.my/diploma-in-dance/"
+    "https://fmsp.upsi.edu.my/diploma-in-dance/",
+    "https://bhea.upsi.edu.my/wp-content/uploads/2024/07/kadar-yuran-UG-dan-subsidi-2024.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Dance",
   "program_name_zh": "Dance文凭",
   "field_ar": "الفنون",

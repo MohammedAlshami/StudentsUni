@@ -6,17 +6,18 @@
   "program_slug": "bachelor-of-arts-honours-in-interior-architecture",
   "field": "Architecture & Building",
   "faculty": null,
-  "duration": "3 years",
+  "duration": "3 Years, 6 Months",
   "mode": "Full-time",
   "intakes": [
+    "Jan",
     "Apr",
     "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 37950,
-    "per_year": 11900,
-    "notes": "Fee: FromRM81,800.00 (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 10291,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 10,291 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -44,10 +45,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/bachelor-of-arts-honours-in-architecture-294969/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-arts-and-social-sciences/courses/bachelor-of-arts-honours-interior-architecture",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Arts (Honours) in Interior Architecture",
   "program_name_zh": "Arts (Honours) in Interior Architecture学士",
   "field_ar": "العمارة",

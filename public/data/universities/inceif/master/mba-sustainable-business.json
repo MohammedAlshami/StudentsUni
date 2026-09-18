@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 44000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme"
+    "total": 46480,
+    "per_year": null,
+    "notes": "International total programme fee per official INCEIF programme page; includes 6% SST; EMGS/visa/personal bond extra. Source: https://inceif.edu.my/study-inceif-university/master-programmes/master-in-business-administration-sustainable-business-mba/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,15 @@
       "url": "https://eduswasta.my/university/inceif-university/",
       "publisher": "official",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://inceif.edu.my/study-inceif-university/master-programmes/master-in-business-administration-sustainable-business-mba/",
+      "publisher": "INCEIF University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير إدارة الأعمال",
   "program_name_zh": "工商管理硕士",
   "field_ar": "إدارة الأعمال",

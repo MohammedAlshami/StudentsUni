@@ -14,17 +14,22 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 44000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Cyberjaya College Central certificate programmes are available to domestic students only per official programme pages; no international fee published. Checked cyberjaya.edu.my (fetched 2026-09-18)"
   },
   "requirements": null,
   "accreditation": null,
   "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058788/"
+    "https://studymalaysia.com/what/course/CUCMS/0058788/",
+    {
+      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+      "publisher": "University of Cyberjaya",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "شهادة Visual Design",
   "program_name_zh": "Visual Design证书",
   "field_ar": "الفنون",

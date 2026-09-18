@@ -6,18 +6,18 @@
   "program_slug": "bachelor-of-science-hons-financial-analysis",
   "field": "Accounting & Finance",
   "faculty": null,
-  "duration": "3 years",
+  "duration": "3 Years",
   "mode": "Full-time",
   "intakes": [
+    "Jan",
     "Apr",
-    "Sep",
-    "Feb"
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 40257,
-    "per_year": 12669,
-    "notes": "Fee: FromRM78,550.00 (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 9733,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 9,733 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -45,10 +45,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/bsc-hons-financial-analysis-226375/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/sunway-business-school/courses/bachelor-of-science-honours-financial-analysis",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Hons) Financial Analysis",
   "program_name_zh": "Science (Hons) Financial Analysis学士",
   "field_ar": "المحاسبة",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 240000,
-    "per_year": 48000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 5.0yr duration)"
+    "total": 350000,
+    "per_year": null,
+    "notes": "Widad University College official international student tuition fees page (https://www.widad.edu.my/uc/international/tuition-fees), accessed 2026-09-18: MYR 350,000 total for international students."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -30,8 +30,8 @@
       "type": "official"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medicine and Bachelor of Surgery (MBBS)",
   "program_name_zh": "Medicine and Bachelor of Surgery (MBBS)学士",
   "field_ar": "الطب",

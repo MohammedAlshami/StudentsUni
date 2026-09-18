@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 50000,
-    "per_year": 14000,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": 52000,
+    "notes": "International annual tuition fee for the 2026 intake (fixed for programme duration); 6% SST applies to international students from 1 July 2025. Source: https://www.nottingham.edu.my/Applications/Fees/UG.aspx (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90",
@@ -33,10 +33,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.nottingham.edu.my/Applications/Fees/UG.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "bachelor-of-arts-hons-international-communication-studies",
   "program_name_ar": "بكالوريوس Arts (Hons) International Communication Studies",
   "program_name_zh": "Arts (Hons) International Communication Studies学士",

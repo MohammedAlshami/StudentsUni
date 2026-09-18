@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 40000,
-    "per_year": 20000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "No official fee published for this programme on MEDIU's official fee schedule (https://online.mediu.edu.my/applicantportal/Home/ProgramFeesCurrent, accessed 2026-09-18); previous estimate removed."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,7 +28,7 @@
     "https://www.mediu.edu.my"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Arabic Language",
   "program_name_zh": "Arabic Language文凭",
   "field_ar": "Languages",

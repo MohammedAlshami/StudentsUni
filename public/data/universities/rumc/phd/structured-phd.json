@@ -5,16 +5,16 @@
   "program_name": "Structured PhD",
   "field": "Medicine",
   "slug": "structured-phd",
-  "duration": "3-4 years",
+  "duration": "4 years",
   "mode": "Full Time",
   "intakes": [
     "September"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 240000,
-    "per_year": 60000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 4.0yr duration)"
+    "currency": "EUR",
+    "total": null,
+    "per_year": 6550,
+    "notes": "Annual international fee per official RUMC page https://www.rumc.edu.my/programmes/structured-ph-d/, fetched 2026-09-18: RCSI EUR 6,550/year or UCD EUR 6,945/year (plus EUR 45/year NUI fee for years 1-3). 4 years full-time / 5 years part-time. per_year shows the lower RCSI rate."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -23,10 +23,15 @@
   "accreditation": null,
   "sources": [
     "https://www.rumc.edu.my/programmes/structured-ph-d/",
-    "https://www.rumc.edu.my/admissions/fees/"
+    "https://www.rumc.edu.my/admissions/fees/",
+    {
+      "url": "https://www.rumc.edu.my/fees/",
+      "publisher": "RUMC",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Structured PhD",
   "program_name_zh": "Structured PhD",
   "field_ar": "الطب",

@@ -12,9 +12,12 @@
       "September"
     ],
     "fees": {
-      "local": "RM 6,500",
-      "local_total": 6500,
-      "per_year_local": 3250
+      "currency": "MYR",
+      "local_total": null,
+      "international_total": null,
+      "per_year_local": null,
+      "per_year_international": null,
+      "notes": "No matching programme detail file; fee not verified (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": {
@@ -26,7 +29,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "high",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Certificate in Business Studies",
@@ -41,9 +44,12 @@
       "September"
     ],
     "fees": {
-      "local": "RM 6,500",
-      "local_total": 6500,
-      "per_year_local": 3250
+      "currency": "MYR",
+      "local_total": null,
+      "international_total": null,
+      "per_year_local": null,
+      "per_year_international": null,
+      "notes": "No matching programme detail file; fee not verified (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": {
@@ -55,7 +61,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "high",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Certificate in Information Technology",
@@ -70,9 +76,12 @@
       "September"
     ],
     "fees": {
-      "local": "RM 6,500",
-      "local_total": 6500,
-      "per_year_local": 3250
+      "currency": "MYR",
+      "local_total": null,
+      "international_total": null,
+      "per_year_local": null,
+      "per_year_international": null,
+      "notes": "No matching programme detail file; fee not verified (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": null,
@@ -81,7 +90,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "medium",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Certificate in Early Childhood Education",
@@ -96,9 +105,12 @@
       "September"
     ],
     "fees": {
-      "local": "RM 6,500",
-      "local_total": 6500,
-      "per_year_local": 3250
+      "currency": "MYR",
+      "local_total": null,
+      "international_total": null,
+      "per_year_local": null,
+      "per_year_international": null,
+      "notes": "No matching programme detail file; fee not verified (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": null,
@@ -107,6 +119,6 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "medium",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   }
 ]

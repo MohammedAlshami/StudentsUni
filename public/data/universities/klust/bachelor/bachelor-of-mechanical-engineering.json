@@ -15,9 +15,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17628,
-    "per_year": 5230,
-    "notes": "From EasyUni (per_year based on 2.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -42,10 +42,15 @@
       "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/bachelor-of-mechanical-engineering-hons-271026/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://klust.edu.my/admissions/international-students/",
+      "publisher": "klust",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Mechanical Engineering with Honours",
   "program_name_zh": "Mechanical Engineering with Honours学士",
   "field_ar": "الهندسة",

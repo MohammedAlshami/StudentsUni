@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 11700,
-    "per_year": 3900,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "No official UTeM international fee schedule for diploma programmes found on the official Downloads/Fees page (as of 2026-09-18); previous figure was an unverified estimate. UTeM publishes international fee schedules for bachelor programmes only."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,8 +26,8 @@
   "sources": [
     "https://www.studymalaysia.com/what/course/UTEM/0001302/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Electrical Engineering",
   "program_name_zh": "Electrical Engineering文凭",
   "field_ar": "الهندسة",

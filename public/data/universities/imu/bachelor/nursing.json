@@ -9,9 +9,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 99000,
-    "per_year": 22000,
-    "notes": " (per_year based on 4.0yr duration)"
+    "total": 104000,
+    "per_year": 26000,
+    "notes": "International student tuition per official IMU programme page https://imu.edu.my/academics/undergraduate/nursing/, fetched 2026-09-18. Total RM104,000 (8 semesters, RM13,000/semester)."
   },
   "requirements": {
     "general": "  Examination Requirement  A-Levels: CCC and Pass SPM / equivalent with:   1) Credit in Bahasa Melayu; and   2) Credit in Mathematics (Elementary / Additional / Modern); and   3) Credit in 2 other subjects; and   4) Either 1 of the credits below: General Science / Biology / Chemistry / Physics / Applied Science   STPM: cGPA 2.50 and Pass SPM / equivalent with:   1) Credit in Bahasa Melayu; and   2) Credit in Mathematics (Elementary / Additional / Modern); and   3) Credit in 2 other subjects; and   4) Either 1 of the credits below: General Science / Biology / Chemistry / Physics / Applied Science   Unified Examination Certificate (UEC): B in 5 subjects and Pass SPM / equivalent with:   1) Credit in Bahasa Melayu; and   2) Credit in Mathematics (Elementary / Additional / Modern); and   3) Credit in 2 other subjects; and   4) Either 1 of the credits below: General Science / Biology / Chemistry / Physics / Applied Science   Ministry of Education Matriculation #: cGPA 2.50 and Pass SPM / equivalent with:   1) Credit in Bahasa Melayu; and   2) Credit in Mathematics (Elementary / Additional / Modern); and   3) Credit in 2 other subjects; and   4) Either 1 of the credits below: General Science / Biology / Chemistry / Physics / Applied Science   Foundation Studies #: IMU Foundation in Science / Foundation in Arts or equivalent cGPA 2.50 and Pass SPM / equivalent with:   1) Credit in Bahasa Melayu; and   2) Credit in Mathematics (Elementary / Additional / Modern); and   3) Credit in 2 other subjects; and   4) Either 1 of the credits below: General Science / Biology / Chemistry / Physics / Applied Science   Diploma: Diploma in Nursing or Diploma in related field – cGPA 2.50 (No credit transfer) / Diploma in Nursing – cGPA 2.50 from a recognised institution by Nursing Board Malaysia with minimum 2 years clinical working experience (credit transfer allowed) And Pass SPM / Equivalent With:   1) Credit in Bahasa Melayu; and   2) Credit in Mathematics (Elementary / Additional / Modern); and   3) Credit in 2 other subjects; and   4) Either 1 of the credits below: General Science / Biology / Chemistry / Physics / Applied Science   **International applicants need to be registered with the Nursing Council of the country of origin The minimum age requirement for entry into a medical programme is 18 years old during admissions. # The duration of this programme must be a minimum of 1 year in the same accredited institution and foundation in other disciplines are accepted. English Proficiency Requirements: MUET**: For Malaysian Student: Band score of 3; or   For International Student: –   IELTS** :  For Malaysian Student: Overall band score of 5.5; or   For International Student: Overall band score of 5.5; or   TOEFL**:   For Malaysian Student: Overall score of 215 (CBT) / 80 (iBT); or   For International Student: Overall score of 215 (CBT) / 80 (iBT); or   Cambridge English: Advanced (CAE)**:  For Malaysian Student: –   For International Student: Overall score of 162; or   Cambridge English: Proficiency (CPE)**:   For Malaysian Student: –   For International Student: Overall score of 162; or   Pearson Test of English (PTE)**: For Malaysian Student: –   For International Student: Overall score of 51; or   SPM** : For Malaysian Student: Credit (C) in English   For International Student: –     For International Students: Pass SPM / equivalent with 3 credits 1. Candidates are highly encouraged to possess basic proficiency in the local language (Bahasa Malaysia) 2. Credit in Mathematics (Elementary / Additional / Modern) 3. Either 1 of the credits below: ~General Science / Biology / Chemistry / Physics / Applied Science * Applications will be assessed on a case by case basis **Applicable to IMU local degree only."
@@ -25,10 +25,15 @@
       "url": "https://www.easyuni.my/malaysia/international-medical-university-imu-10211/bachelor-of-nursing-hons-243118/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://imu.edu.my/academics/undergraduate/nursing/",
+      "publisher": "IMU University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Nursing (Hons)",
   "program_name_zh": "Nursing (Hons)学士"
 }

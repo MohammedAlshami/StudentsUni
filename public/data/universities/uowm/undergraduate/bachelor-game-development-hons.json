@@ -8,15 +8,17 @@
   "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "January",
+    "April",
+    "June",
+    "September",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 32247,
-    "per_year": 9467,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)"
+    "total": 105710,
+    "per_year": null,
+    "notes": "International total programme fee per official UOW Malaysia programme page (excludes EMGS and SST). Source: https://www.uow.edu.my/programme/bachelor-of-game-development-hons/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -35,10 +37,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.uow.edu.my/programme/bachelor-of-game-development-hons/",
+      "publisher": "UOW Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Game Development (Honours)",
   "program_name_zh": "Game Development (Honours)学士",
   "field_ar": "تقنية المعلومات",

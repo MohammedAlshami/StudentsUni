@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 8148,
-    "per_year": 2037,
-    "notes": ""
+    "total": 8750,
+    "per_year": null,
+    "notes": "Master of Computing (by research): international total RM8,750 (tuition RM4,000 + registration/admin/convocation RM750 + resource RM1,200 + examination RM1,600 + refundable security deposit RM1,200). Excludes EMGS fee and insurance. Source: https://aiu.edu.my/postgraduate/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,10 +24,15 @@
   },
   "accreditation": "N/0610/7/0011 (6/26) MQA/PA 18676",
   "sources": [
-    "https://www.aiu.edu.my/postgraduate"
+    "https://www.aiu.edu.my/postgraduate",
+    {
+      "url": "https://aiu.edu.my/postgraduate/",
+      "publisher": "Albukhary International University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.95,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Computing",
   "program_name_zh": "Computing硕士",
   "field_ar": "Computing & Technology",

@@ -15,17 +15,18 @@
   "fees": {
     "currency": "MYR",
     "total": 38300,
-    "per_year": 19150,
-    "notes": "Total course fee for 2-year programme"
+    "per_year": null,
+    "notes": "Official Swinburne Sarawak 2026 international fee: RM38,300 total programme fee. Official Swinburne Sarawak 2026 indicative course fees (International students column). Source: https://www.swinburne.edu.my/study/admission/fees-3/ (checked 2026-09-18). Fees exclude SST where applicable."
   },
   "requirements": null,
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SWINBURNE/0001501/",
-    "https://www.swinburne.edu.my/?p=31477"
+    "https://www.swinburne.edu.my/?p=31477",
+    "https://www.swinburne.edu.my/study/admission/fees-3/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business (Research)",
   "program_name_zh": "Business (Research)硕士",
   "field_ar": "إدارة الأعمال",

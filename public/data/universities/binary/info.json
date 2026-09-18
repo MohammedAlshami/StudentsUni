@@ -38,14 +38,14 @@
       "note": "Uniklik does not list Binary University"
     }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "notes": "Private university in Selangor. Website returns 403 Forbidden on all URL variations. No program data could be retrieved from any source.",
   "fees": {
     "currency": "MYR",
-    "local_total": 66000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 22000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "binary.edu.my was not publicly accessible (Cloudflare) on 2026-09-18; no official fee could be verified. See individual programme records."
   }
 }

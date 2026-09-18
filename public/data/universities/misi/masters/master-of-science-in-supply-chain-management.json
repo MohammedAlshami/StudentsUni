@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 44000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 0.75yr duration)"
+    "total": 97750,
+    "per_year": null,
+    "notes": "Official MISI full-time MSCM programme cost: MYR 97,750 (50% scholarship available). No separate international rate published. Source: https://www.misi.edu.my/full-time-master/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,11 @@
       "url": "https://studymalaysia.com/edu/misi/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14T00:00:00+08:00"
-    }
+    },
+    "https://www.misi.edu.my/full-time-master/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Supply Chain Management",
   "program_name_zh": "Science in Supply Chain Management硕士",
   "field_ar": "Transport Services",

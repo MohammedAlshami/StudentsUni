@@ -6,18 +6,18 @@
   "program_slug": "master-of-arts-in-visual-communication-and-media-studies",
   "field": "Communication & Broadcasting",
   "faculty": null,
-  "duration": "1 year",
+  "duration": "1 Year",
   "mode": "Full-time",
   "intakes": [
-    "May",
-    "Sep",
-    "Jan"
+    "Feb",
+    "Apr",
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 51750,
-    "per_year": 46950,
-    "notes": "Fee: FromRM40,050.00 (per_year based on 1.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 12128,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 12,128 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -42,10 +42,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/ma-in-visual-communication-and-media-studies-243804/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-arts-and-social-sciences/courses/master-of-arts-visual-communication-and-media-studies",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Arts in Visual Communication and Media Studies",
   "program_name_zh": "Arts in Visual Communication and Media Studies硕士",
   "field_ar": "الاتصالات",

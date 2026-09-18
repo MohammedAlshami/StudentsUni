@@ -16,9 +16,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16234,
-    "per_year": 1244,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: MAHSA University does not publish international tuition fees on its public programme pages (fee sections are disabled) and mahsa.edu.my blocked automated access on 2026-09-18; fee schedule issued with offer."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -38,8 +38,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Computer Science",
   "program_name_zh": "Computer Science文凭",
   "field_ar": "Computing",

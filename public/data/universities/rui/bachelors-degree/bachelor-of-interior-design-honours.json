@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme"
+    "total": 115000,
+    "per_year": null,
+    "notes": "Raffles University official programme page (https://raffles-university.edu.my/programme/bachelor-of-interior-design-honours/), accessed 2026-09-18: international student total fee MYR 115,000 (application + admission + administration + indicative tuition); subject to 6% SST."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -33,8 +33,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Interior Design (Honours)",
   "program_name_zh": "Interior Design (Honours)学士",
   "field_ar": "الفنون",

@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 3000,
-    "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "Official UMK international undergraduate/foundation tuition is not published online (main site, Study@UMK and Centre for Postgraduate Studies publish local fee structures only; international postgraduate fees exist but not undergraduate). Fees on enquiry: umki@umk.edu.my. Source: https://study.umk.edu.my/ (checked 2026-09-18)."
   },
   "requirements": {
     "previous_education": "SPM with at least FIVE (5) credits including Bahasa Melayu and a Pass in Sejarah. Credit in Bahasa Melayu (Grade C) AND four (4) credits (Grade C) and one (1) Conditional Pass (Grade D) from: English, Mathematics, Additional Mathematics, Physics, Chemistry, Biology, Agriculture/Agricultural Science, Science/Additional Science, Geography, Creative Design, Basic Sustainability, Computer Science."
@@ -25,10 +25,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/what/course/UMK/0057718/",
-    "https://www.studymalaysia.com/edu/umk/courses/"
+    "https://www.studymalaysia.com/edu/umk/courses/",
+    "https://study.umk.edu.my/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Science",
   "program_name_zh": "Science预科",
   "field_ar": "تقنية المعلومات",

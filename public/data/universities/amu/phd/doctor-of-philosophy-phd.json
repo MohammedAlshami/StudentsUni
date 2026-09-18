@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 75000,
-    "per_year": 25000,
-    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 51300,
+    "per_year": null,
+    "notes": "AMU official international fee structure 2025. Doctor of Philosophy (PhD): from RM51,300 total (includes administration RM5,000 + resource fee RM1,250/semester + one-time fees; adjusted tuition from RM35,000). All fees exclude 6% SST (imposed on non-Malaysian citizens from 1 Sep 2025). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -31,10 +31,15 @@
       "url": "https://amu.edu.my/programmes/",
       "publisher": "Official Website",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf",
+      "publisher": "Asia Metropolitan University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (PhD)",
   "program_name_zh": "哲学博士 (PhD)",
   "field_ar": "general",

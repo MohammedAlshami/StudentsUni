@@ -9,15 +9,15 @@
   "mode": "Full-time",
   "study_type": "Full-time Study",
   "intakes": [
-    "Aug",
     "Jan",
-    "Jun"
+    "May",
+    "Aug"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 105000,
-    "per_year": 35000,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 85848,
+    "per_year": 28616,
+    "notes": "International student fee (published, exclusive of 6% SST) per official INTI programme page https://newinti.edu.my/programme/bachelor-of-computer-science-hons-in-network-security-coventry-uk/ (INTI International University), fetched 2026-09-18. per_year computed over 3.0yr."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -30,10 +30,15 @@
   "awarding_body": "Dual-award Degree",
   "faculty": "Computing & IT",
   "sources": [
-    "https://studymalaysia.com/what/course/INTI/0053908/"
+    "https://studymalaysia.com/what/course/INTI/0053908/",
+    {
+      "url": "https://newinti.edu.my/programme/bachelor-of-computer-science-hons-in-network-security-coventry-uk/",
+      "publisher": "INTI International University",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Science (Hons) (Network Security) (Dual-Award Degree)",
   "program_name_zh": "Computer Science (Hons) (Network Security) (Dual-Award Degree)学士",
   "field_ar": "تقنية المعلومات",

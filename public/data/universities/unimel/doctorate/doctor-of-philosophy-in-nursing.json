@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 240000,
-    "per_year": 48000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 5.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: UNIMEL programme brochures linked from the official programme list are image-only PDFs with no extractable fee text and no public HTML fee schedule exists (checked 2026-09-18). Previous estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -30,7 +30,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Nursing",
   "program_name_zh": "哲学博士 in Nursing",
   "field_ar": "الطب",

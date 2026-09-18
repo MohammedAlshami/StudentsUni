@@ -8,15 +8,15 @@
   "duration": "Refer to Univ.",
   "mode": "Open and Distance Learning (ODL)",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 27876,
-    "per_year": 9292,
-    "notes": "Local: 27,878 /Course (per_year based on 3yr duration)"
+    "currency": "MYR",
+    "total": 28616,
+    "per_year": null,
+    "notes": "OUM official International Admission fee table (2026): RM28,616 (PhD Arts 220) / RM28,742 (PhD Arts 310, new). Subject fees only; excludes registration fee and 6% SST for international learners. Source: https://www.oum.edu.my/international-admission/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -36,10 +36,15 @@
       "url": "https://studymalaysia.com/edu/oum/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.oum.edu.my/international-admission/",
+      "publisher": "Open University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Arts)",
   "program_name_zh": "哲学博士 (Arts)",
   "field_ar": "إدارة الأعمال",

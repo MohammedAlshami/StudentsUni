@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 29000,
-    "per_year": 7018,
-    "notes": " (per_year based on 4.0yr duration)"
+    "total": 124000,
+    "per_year": 31000,
+    "notes": "International tuition AY2026: RM31,000/year, RM124,000 total (4 years); excludes administrative fees and 6% SST. Source: https://www.xmu.edu.my/admissions/tuition-fees (last updated 27 Nov 2025; accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -36,10 +36,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.xmu.edu.my/admissions/tuition-fees",
+      "publisher": "Xiamen University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science in Marine Biotechnology (Honours)",
   "program_name_zh": "Science in Marine Biotechnology (Honours)学士",
   "field_ar": "العلوم",

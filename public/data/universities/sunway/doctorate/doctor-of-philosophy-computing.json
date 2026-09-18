@@ -6,17 +6,17 @@
   "program_slug": "doctor-of-philosophy-computing",
   "field": "Computing & IT",
   "faculty": null,
-  "duration": "3 years",
+  "duration": "3 Years",
   "mode": "Full-time",
   "intakes": [
     "Jul",
     "Jan"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 22577,
-    "per_year": 6775,
-    "notes": "Fee: FromRM49,680.00 (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 15547,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 15,547 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -36,10 +36,20 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/doctor-of-philosophy-computing",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/doctor-of-philosophy-computing",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Computing)",
   "program_name_zh": "哲学博士 (Computing)",
   "field_ar": "تقنية المعلومات",

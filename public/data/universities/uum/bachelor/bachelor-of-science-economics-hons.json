@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 20400,
-    "per_year": 5100,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "International undergraduate tuition not published on UUM official site (undergraduate and fees pages checked); only Malaysian rates and international postgraduate rates are published; set to null rather than estimate. Checked https://www.uum.edu.my/admissions/fees/postgraduate and https://www.uum.edu.my/admissions/application-guidelines/undergraduate-local (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "MUET Band 1.0 or equivalent"
@@ -33,10 +33,15 @@
       "url": "https://www.studymalaysia.com/what/course/UUM/0009759/",
       "publisher": "StudyMalaysia.com",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.uum.edu.my/admissions/fees/postgraduate",
+      "publisher": "Universiti Utara Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "partial",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science Economics with Honours",
   "program_name_zh": "Science Economics with Honours学士",
   "field_ar": "الاقتصاد",

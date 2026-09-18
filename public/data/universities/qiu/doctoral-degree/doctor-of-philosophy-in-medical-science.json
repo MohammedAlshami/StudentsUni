@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 240000,
-    "per_year": 80000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -24,10 +24,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://studymalaysia.com/what/course/QIU/0059076/"
+    "https://studymalaysia.com/what/course/QIU/0059076/",
+    {
+      "url": "https://qiu.edu.my/programmes/",
+      "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Medical Science",
   "program_name_zh": "哲学博士 in Medical Science",
   "field_ar": "الطب",

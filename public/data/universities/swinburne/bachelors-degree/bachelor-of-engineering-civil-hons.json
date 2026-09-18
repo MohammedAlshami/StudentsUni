@@ -16,7 +16,7 @@
     "currency": "MYR",
     "total": 154560,
     "per_year": 51520,
-    "notes": "Annual fee; total = annual x 3 years"
+    "notes": "Official Swinburne Sarawak 2026 international fee: RM51,520/year; total = RM51,520 x 3 years (derived, 3-year degree). Official Swinburne Sarawak 2026 indicative course fees (International students column). Source: https://www.swinburne.edu.my/study/admission/fees-3/ (checked 2026-09-18). Fees exclude SST where applicable."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -27,10 +27,11 @@
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SWINBURNE/0001546/",
-    "https://www.swinburne.edu.my/?p=31477"
+    "https://www.swinburne.edu.my/?p=31477",
+    "https://www.swinburne.edu.my/study/admission/fees-3/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Engineering (Civil) (Hons)",
   "program_name_zh": "Engineering (Civil) (Hons)学士",
   "field_ar": "الهندسة",

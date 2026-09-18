@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 41200,
+    "per_year": null,
+    "notes": "Official NEUC total fee RM41,200 (tuition + miscellaneous + application as per official schedule). No separate international rate published. Official NEUC 'Tuition Fees & Miscellaneous Fees' schedule. Total = tuition + miscellaneous + application fee as published; NEUC does not publish separate local/international rates. Source: https://www.newera.edu.my/enrolment.php?id=142 (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -33,10 +33,11 @@
       "url": "https://www.newera.edu.my/course_details.php?acalevel=1",
       "publisher": "official",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.newera.edu.my/enrolment.php?id=142"
   ],
-  "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education (Teaching Chinese As A Second Language) (Honours)",
   "program_name_zh": "Education (Teaching Chinese As A Second Language) (Honours)学士",
   "field_ar": "التربية والتعليم",

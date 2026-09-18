@@ -5,11 +5,9 @@
     "field": "Business",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": null,
+      "per_year": null,
+      "notes": "UPTM foundation programme pages do not publish fees. Checked 2026-09-18."
     }
   }
 ]

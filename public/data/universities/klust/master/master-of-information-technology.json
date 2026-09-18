@@ -15,9 +15,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17356,
-    "per_year": 4720,
-    "notes": "From EasyUni (per_year based on 2.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -39,10 +39,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://klust.edu.my/admissions/international-students/",
+      "publisher": "klust",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Information Technology",
   "program_name_zh": "Information Technology硕士",
   "field_ar": "Computing",

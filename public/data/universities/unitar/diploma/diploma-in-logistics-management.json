@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 13706,
-    "per_year": 3360,
-    "notes": " (per_year based on 2.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -41,10 +41,15 @@
       "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/diploma-in-logistics-management-online-294069/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.unitar.my/programmes/",
+      "publisher": "unitar",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Logistics Management",
   "program_name_zh": "Logistics Management文凭",
   "field_ar": "Transport Services",

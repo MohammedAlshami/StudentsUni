@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 48500,
+    "per_year": null,
+    "notes": "Southern University College official '2022 Programme Fees for International Students', revised 27/01/2022 (https://www.southern.edu.my/assets/2022-international-student-program-fees_27012022.pdf; retrieved via Internet Archive snapshot https://web.archive.org/web/20220204113525/https://www.southern.edu.my/assets/2022-international-student-program-fees_27012022.pdf), accessed 2026-09-18: international total MYR 48,500 (tuition & misc fees + other charges)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -28,8 +28,8 @@
   "sources": [
     "https://www.southern.edu.my/faculty-of-chinese-studies/"
   ],
-  "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Arts (Honours) Chinese Studies",
   "program_name_zh": "Arts (Honours) Chinese Studies学士",
   "field_ar": "Chinese Studies",

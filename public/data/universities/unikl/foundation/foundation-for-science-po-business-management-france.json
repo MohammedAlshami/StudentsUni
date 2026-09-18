@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "No official programme page found (404) and no international fee published; fee unverified. Checked https://www.unikl.edu.my/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,10 +26,11 @@
     "additional_codes": null
   },
   "sources": [
-    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf"
+    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
+    "https://www.unikl.edu.my/programme/foundation-for-science-po-business-management-france/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Foundation for Science Po and Business Management Schools in France (Pre France SPBM)",
   "program_name_zh": "Foundation for Science Po and Business Management Schools in France (Pre France SPBM)",
   "field_ar": "إدارة الأعمال",

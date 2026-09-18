@@ -8,15 +8,14 @@
   "duration": "3 years",
   "mode": "Full-time Study",
   "intakes": [
-    "Jul",
-    "Mar",
-    "Oct"
+    "April",
+    "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 15966,
-    "per_year": 5322,
-    "notes": "Estimated total fees (local) for full course duration"
+    "total": null,
+    "per_year": null,
+    "notes": "Diploma in Healthcare Management (Cyberjaya College Central) is open to international students but is not listed on UOC's official International Fees Structure; fee not published. Checked cyberjaya.edu.my international fees page (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -30,10 +29,15 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+      "publisher": "University of Cyberjaya",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Healthcare",
   "program_name_zh": "Healthcare文凭",
   "field_ar": "العلوم",

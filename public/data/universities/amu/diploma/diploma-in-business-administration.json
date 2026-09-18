@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21999,
-    "per_year": 7333,
-    "notes": "Estimated total fees (local) for full course duration"
+    "total": 33800,
+    "per_year": null,
+    "notes": "AMU official international fee structure 2025. Diploma in Business Administration: RM33,800 total (includes one-time fees RM6,300 + adjusted tuition RM27,500). All fees exclude 6% SST (imposed on non-Malaysian citizens from 1 Sep 2025). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -37,10 +37,15 @@
       "url": "https://studymalaysia.com/edu/amu/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf",
+      "publisher": "Asia Metropolitan University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Business Administration",
   "program_name_zh": "Business Administration文凭",
   "field_ar": "إدارة الأعمال",

@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 120000,
-    "per_year": 120000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.studymalaysia.com/what/course/AIMST/0056701/"
+    "https://www.studymalaysia.com/what/course/AIMST/0056701/",
+    "https://aimst.edu.my/international-students/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science (Pharmaceutical Chemistry)",
   "program_name_zh": "Science (Pharmaceutical Chemistry)硕士",
   "field_ar": "الصيدلة",

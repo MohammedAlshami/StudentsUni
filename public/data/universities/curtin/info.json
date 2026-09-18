@@ -47,15 +47,16 @@
     "https://www.curtin.edu.my/study/diploma/",
     "https://www.curtin.edu.my/study/undergraduate/",
     "https://www.curtin.edu.my/study/postgraduate/",
-    "https://www.studymalaysia.com/edu/curtin/courses/"
+    "https://www.studymalaysia.com/edu/curtin/courses/",
+    "https://curtin.edu.my/study/fee/course-fees/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 66000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 22000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "International 2026 indicative fees range RM29,500-RM51,200/year depending on level and discipline (Curtin Malaysia official course fee schedule, https://curtin.edu.my/study/fee/course-fees/, updated 12 Aug 2026, checked 2026-09-18); excludes 6% SST for international students."
   }
 }

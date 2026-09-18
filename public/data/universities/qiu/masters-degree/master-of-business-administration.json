@@ -14,17 +14,22 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21998,
-    "per_year": 21998,
-    "notes": "Estimated ~RM22000/year for typical private university programme"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": null,
   "accreditation": null,
   "sources": [
-    "https://studymalaysia.com/what/course/qiu/0058131/"
+    "https://studymalaysia.com/what/course/qiu/0058131/",
+    {
+      "url": "https://qiu.edu.my/programmes/",
+      "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration",
   "program_name_zh": "Business Administration硕士",
   "field_ar": "إدارة الأعمال",

@@ -5,18 +5,18 @@
   "program_name": "Master of Arts (Communication Management)",
   "program_slug": "master-arts-communication-management",
   "field": "Communication & Media",
-  "duration": "3 years",
+  "duration": "Min. 1 year 4 months (Full Time/Part Time)",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "January",
+    "June",
+    "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 26669,
-    "per_year": 7229,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)"
+    "total": 52350,
+    "per_year": null,
+    "notes": "International total programme fee per official UOW Malaysia programme page (excludes EMGS and SST). Source: https://www.uow.edu.my/programme/master-of-arts-communication-management/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -33,10 +33,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.uow.edu.my/programme/master-of-arts-communication-management/",
+      "publisher": "UOW Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Arts (Communication Management)",
   "program_name_zh": "Arts (Communication Management)硕士",
   "field_ar": "الاتصالات",

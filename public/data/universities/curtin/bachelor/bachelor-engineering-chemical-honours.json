@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 177376,
-    "per_year": "RM44,344 per annum",
-    "notes": null
+    "total": 204400,
+    "per_year": 51100,
+    "notes": "Official Curtin Malaysia 2026 international fee: RM51,100/year (full-time 200 credits). Total = RM51,100 x 4 years (derived). Excludes 6% SST applicable to international students from 1 Jul 2025. Official Curtin Malaysia indicative course fees, 2026 intake (International column); page updated 12 Aug 2026. Source: https://curtin.edu.my/study/fee/course-fees/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -29,10 +29,11 @@
   },
   "sources": [
     "https://curtin.edu.my/study/undergraduate/bachelor-engineering-chemical/",
-    "https://www.studymalaysia.com/edu/curtin/courses/"
+    "https://www.studymalaysia.com/edu/curtin/courses/",
+    "https://curtin.edu.my/study/fee/course-fees/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Engineering (Chemical Engineering) (Honours)",
   "program_name_zh": "Engineering (Chemical Engineering) (Honours)学士",
   "field_ar": "الهندسة",

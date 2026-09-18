@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: binary.edu.my was not publicly accessible (Cloudflare bot protection) on 2026-09-18, so no official fee could be checked. Previous estimated value removed."
   },
   "requirements": {
     "previous_education": "Recognised Bachelor's degree"
@@ -30,10 +30,15 @@
       "url": "https://web.archive.org/web/20240229194734/https://binary.edu.my/bgs/",
       "publisher": "official",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://binary.edu.my/",
+      "publisher": "binary",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير in Education Management",
   "program_name_zh": "in Education Management硕士",
   "field_ar": "التربية والتعليم",

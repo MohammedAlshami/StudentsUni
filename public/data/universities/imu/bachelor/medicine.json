@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 240000,
-    "per_year": 48000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 5.0yr duration)"
+    "total": 692680,
+    "per_year": 138536,
+    "notes": "International student tuition per official IMU programme page https://imu.edu.my/academics/undergraduate/medicine/, fetched 2026-09-18. Total RM692,680 (10 semesters, RM69,268/semester)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -27,10 +27,15 @@
     {
       "url": "https://www.imu.edu.my",
       "type": "official"
+    },
+    {
+      "url": "https://imu.edu.my/academics/undergraduate/medicine/",
+      "publisher": "IMU University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Medicine",
   "program_name_zh": "Medicine",
   "field_ar": "الطب",

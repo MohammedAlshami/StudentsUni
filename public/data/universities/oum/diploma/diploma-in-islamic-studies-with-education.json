@@ -8,15 +8,15 @@
   "duration": "3 Years & 4 Months - 10 semester",
   "mode": "Open and Distance Learning (ODL)",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 11250,
-    "per_year": 2250,
-    "notes": "Local: 11,250.00/Course (per_year based on 5.0yr duration)"
+    "currency": "MYR",
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed in OUM official International Admission fee table as of 2026-09-18; no international fee verified (programme may not be offered to international learners). Previous figure was an unverified estimate/local fee."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -37,10 +37,15 @@
       "url": "https://studymalaysia.com/edu/oum/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.oum.edu.my/international-admission/",
+      "publisher": "Open University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Islamic Studies with Education",
   "program_name_zh": "Islamic Studies with Education文凭",
   "field_ar": "التربية والتعليم",

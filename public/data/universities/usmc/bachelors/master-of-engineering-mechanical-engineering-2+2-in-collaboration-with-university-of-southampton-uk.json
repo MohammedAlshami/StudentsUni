@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": 62900,
+    "notes": "Official international student fee: RM62,900 per annum for Years 1-2 in Malaysia; Years 3-4 in the UK RM141,112 per annum (GBP24,800, rate 1 GBP = MYR5.69 as of 30 Sep 2025), after 20% transition bursary; 6% SST applies to international students. Source: https://www.southamptonmalaysia.edu.my/study-at-uosm/undergraduate/engineering/master-of-engineering-in-mechanical-engineering-22 (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -23,10 +23,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/usmc/courses/"
+    "https://www.studymalaysia.com/edu/usmc/courses/",
+    "https://www.southamptonmalaysia.edu.my/study-at-uosm/undergraduate/engineering/master-of-engineering-in-mechanical-engineering-22"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "master-of-engineering-mechanical-engineering-2+2-in-collaboration-with-university-of-southampton-uk",
   "program_name_ar": "ماجستير Engineering (Mechanical Engineering) 2+2 in collaboration with University of Southampton, UK",
   "program_name_zh": "Engineering (Mechanical Engineering) 2+2 in collaboration with University of Southampton, UK硕士",

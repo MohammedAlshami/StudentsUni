@@ -9,9 +9,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 126000,
-    "per_year": 38200,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": 130500,
+    "per_year": 43500,
+    "notes": "International student tuition per official IMU programme page https://imu.edu.my/academics/undergraduate/business-administration-with-healthcare-management/, fetched 2026-09-18. Total RM130,500 (5 long + 1 short + industrial training semesters)."
   },
   "requirements": {
     "malaysian": {
@@ -37,10 +37,15 @@
       "url": "https://www.easyuni.my/malaysia/international-medical-university-imu-10211/bba-with-healthcare-management-hons-294480/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://imu.edu.my/academics/undergraduate/business-administration-with-healthcare-management/",
+      "publisher": "IMU University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Administration with Healthcare Management (Hons)",
   "program_name_zh": "Business Administration with Healthcare Management (Hons)学士"
 }

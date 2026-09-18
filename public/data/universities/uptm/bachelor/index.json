@@ -5,11 +5,9 @@
     "field": "Business",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": 58450,
+      "per_year": null,
+      "notes": "Official UPTM international fee: RM58,450 total programme fee (maps to Bachelor of Accountancy). Official UPTM programme page fee tab (Local / International figures as published). Source: https://www.uptm.edu.my/ (checked 2026-09-18)."
     }
   },
   {
@@ -18,11 +16,9 @@
     "field": "Business",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": null,
+      "per_year": null,
+      "notes": "No Finance-major page is published on the current official UPTM site (official BBA general international fee is RM50,800). Checked 2026-09-18."
     }
   },
   {
@@ -31,11 +27,9 @@
     "field": "Business",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": null,
+      "per_year": null,
+      "notes": "Official Digital Marketing BBA page publishes only the local fee (RM46,520); the international fee is not stated. Checked 2026-09-18."
     }
   },
   {
@@ -44,11 +38,9 @@
     "field": "Business",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": 58450,
+      "per_year": null,
+      "notes": "Official UPTM international fee: RM58,450 total programme fee (maps to BBA (Hons) Human Resource Management). Official UPTM programme page fee tab (Local / International figures as published). Source: https://www.uptm.edu.my/ (checked 2026-09-18)."
     }
   },
   {
@@ -57,11 +49,9 @@
     "field": "Computing",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": null,
+      "per_year": null,
+      "notes": "Official Computer Science page publishes only the local fee (RM49,290); the international fee is marked 'subject to change' and not stated. Checked 2026-09-18."
     }
   },
   {
@@ -70,11 +60,9 @@
     "field": "Computing",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": 60750,
+      "per_year": null,
+      "notes": "Official UPTM international fee: RM60,750 total programme fee (maps to Bachelor of 3D Animation and Digital Media). Official UPTM programme page fee tab (Local / International figures as published). Source: https://www.uptm.edu.my/ (checked 2026-09-18)."
     }
   },
   {
@@ -83,11 +71,9 @@
     "field": "Education",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": null,
+      "per_year": null,
+      "notes": "No Early Childhood Education programme page is published on the current official UPTM site. Checked 2026-09-18."
     }
   },
   {
@@ -96,11 +82,9 @@
     "field": "Education",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": 52900,
+      "per_year": null,
+      "notes": "Official UPTM international fee: RM52,900 total programme fee (maps to Bachelor of Education (Hons) TESL). Official UPTM programme page fee tab (Local / International figures as published). Source: https://www.uptm.edu.my/ (checked 2026-09-18)."
     }
   },
   {
@@ -109,11 +93,9 @@
     "field": "Media",
     "fees": {
       "currency": "MYR",
-      "local_total": 45000,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": 57550,
+      "per_year": null,
+      "notes": "Official UPTM international fee: RM57,550 total programme fee (maps to Bachelor of Corporate Communication (Hons)). Official UPTM programme page fee tab (Local / International figures as published). Source: https://www.uptm.edu.my/ (checked 2026-09-18)."
     }
   }
 ]

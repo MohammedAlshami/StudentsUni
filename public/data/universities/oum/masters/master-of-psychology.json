@@ -8,15 +8,15 @@
   "duration": "Refer to Univ.",
   "mode": "Open and Distance Learning (ODL)",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 20580,
-    "per_year": 13720,
-    "notes": "Local: 20,580/Course (per_year based on 1.5yr duration)"
+    "currency": "MYR",
+    "total": 24682,
+    "per_year": null,
+    "notes": "OUM official International Admission fee table (2026): total RM24,682 (subject fees; excludes one-off registration fee of RM3,150 Diploma / RM3,650 Bachelor / RM4,150 Master / RM4,650 PhD-Doctorate, and excludes 6% SST imposed on international learners from 1 Jul 2025). Source: https://www.oum.edu.my/international-admission/ (international fee schedule), fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,15 @@
       "url": "https://studymalaysia.com/edu/oum/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.oum.edu.my/international-admission/",
+      "publisher": "Open University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Psychology",
   "program_name_zh": "Psychology硕士",
   "field_ar": "العلوم",

@@ -13,10 +13,10 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 71240.0,
-    "per_year": 12952,
-    "notes": "Local: 71240/Course; International: 71240/Course (per_year based on 5.5yr duration)"
+    "currency": "MYR",
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed in Nilai University official current fee structure (Malaysian & International Students) as of 2026-09-18; no international fee verified. Previous figure was an unverified estimate. (Nilai 2023 international brochure listed research masters at RM5,000 total and DBA at RM62,400.)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -40,8 +40,8 @@
       "fetched_at": "2026-09-14T00:00:00+08:00"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Mechanical Engineering (Hons)",
   "program_name_zh": "Mechanical Engineering (Hons)学士",
   "field_ar": "الهندسة",

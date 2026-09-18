@@ -5,18 +5,17 @@
   "program_name": "Diploma in 3D Animation",
   "field": "Arts & Design",
   "slug": "diploma-in-3d-animation",
-  "duration": "3D Animation\n\t\nDiploma in 3D Animation\n31 months",
+  "duration": "2 years 3 months",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Oct",
-    "Mar"
+    "April",
+    "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17884,
-    "per_year": 6409,
-    "notes": " (per_year based on 2.5833333333333335yr duration)"
+    "total": 46000,
+    "per_year": null,
+    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -35,10 +34,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+      "publisher": "University of Cyberjaya",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم 3D Animation",
   "program_name_zh": "3D Animation文凭",
   "field_ar": "الفنون",

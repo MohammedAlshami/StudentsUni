@@ -11,10 +11,10 @@
     "September"
   ],
   "fees": {
-    "currency": "MYR",
+    "currency": "USD",
     "total": 8000,
-    "per_year": 19200,
-    "notes": "Total fees from USM fee schedule (2025/2026). International fees in USD. (per_year based on 1.0yr duration)"
+    "per_year": null,
+    "notes": "Official USM international postgraduate tuition (total per programme): USD 8,000; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -29,10 +29,11 @@
       "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
       "publisher": "USM Admissions",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://admission.usm.my/index.php/postgraduate/fee-pg"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Data Science",
   "program_name_zh": "Data Science硕士",
   "field_ar": "Computing",

@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 29250,
-    "per_year": 14625,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "general": "Any one of these: SPM: Minimum 3Cs. O-Level: Minimum 3Cs. UEC: Minimum 3Bs. Certificate / SKM III: A pass in SKM Level III and a pass in SPM with a minimum of 1 credit in any subject. SAM / HSC / AUSMAT: (Kindly refer to the Faculty) STPM: Pass STPM with a minimum C (GP 2.0) in any subject. STAM: Pass STAM with a minimum grade of Maqbul. CPU / CIMP: (Kindly refer to the Faculty). Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM. ENGLISH LANGUAGE REQUIREMENT (INTERNATIONAL): IELTS - 5 TOEFL (PBT) - 410 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
@@ -28,10 +28,15 @@
       "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/diploma-in-business-administration-26995/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://klust.edu.my/admissions/international-students/",
+      "publisher": "klust",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Business Administration",
   "program_name_zh": "Business Administration文凭"
 }

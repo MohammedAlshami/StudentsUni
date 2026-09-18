@@ -486,10 +486,10 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 45000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 15000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "Official Linton website (linton.edu.my/luct.edu.my) did not resolve on 2026-09-18 and no public fee schedule is available (checked 2026-09-18)."
   }
 }

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 44520,
-    "per_year": 22146,
-    "notes": " (per_year based on 1.5yr duration)"
+    "total": 47191,
+    "per_year": 31461,
+    "notes": "International student total per official UM-Wales fee schedule https://www.umwales.edu.my/admissions/fees/, fetched 2026-09-18. per_year computed over 1.5yr."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -28,10 +28,15 @@
       "url": "https://www.easyuni.my/malaysia/university-of-malaya-wales-11602/msc-in-project-management-289300/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.umwales.edu.my/admissions/fees/",
+      "publisher": "UM-Wales",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "master-of-science-in-project-management",
   "program_name_ar": "ماجستير Science In Project Management",
   "program_name_zh": "Science In Project Management硕士",

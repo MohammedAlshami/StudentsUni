@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 37800,
-    "per_year": 27280,
-    "notes": "Local: 25200/Course; International: 25200/Course (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed in Nilai University official current fee structure (Malaysian & International Students) as of 2026-09-18; no international fee verified. Previous figure was an unverified estimate. (Nilai 2023 international brochure listed research masters at RM5,000 total and DBA at RM62,400.)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -53,8 +53,8 @@
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration (Banking & Finance) (ODL)",
   "program_name_zh": "Business Administration (Banking & Finance) (ODL)硕士",
   "field_ar": "إدارة الأعمال",

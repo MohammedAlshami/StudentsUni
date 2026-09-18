@@ -9,15 +9,15 @@
   "duration": "1-1.5 years",
   "mode": "Full-time",
   "intakes": [
+    "Jan",
     "Apr",
-    "Feb",
     "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 52700,
-    "per_year": 71000,
-    "notes": "Fee: USD30000 (Western Michigan University and University of Wisconsin Eau Claire),  USD41000 (Eastern Conneticut State University)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 7407,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 7,407 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -35,10 +35,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/american-degree-transfer-program-adtp-292341/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/school-of-american-education/courses/american-degree-transfer-program",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "American Degree Transfer Program (Arts) (Advanced Entry)",
   "program_name_zh": "American Degree Transfer Program (Arts) (Advanced Entry)",
   "field_ar": "الفنون",

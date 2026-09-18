@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed on UTP official international undergraduate tuition page (checked 2026-09-18); set to null rather than estimate. Source checked: https://www.utp.edu.my/Pages/Admission/Undergraduate/International/Tuition-fees.aspx"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -35,10 +35,15 @@
   ],
   "sources": [
     "https://www.utp.edu.my",
-    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx"
+    "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx",
+    {
+      "url": "https://www.utp.edu.my/Pages/Admission/Undergraduate/International/Tuition-fees.aspx",
+      "publisher": "Universiti Teknologi PETRONAS",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Materials Engineering with Honours",
   "program_name_zh": "Materials Engineering with Honours学士",
   "field_ar": "الهندسة",

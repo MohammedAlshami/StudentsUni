@@ -14,17 +14,18 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 66000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "UNIRAZAK does not publish programme fees: each programme page's 'Fee Structure' section refers students to an Education Counsellor (03-2730 7030) and the official brochures contain no fee figures. Fee therefore left null. Source: https://unirazak.edu.my/programmes/bachelor-of-accounting-honours/ (checked 2026-09-18)."
   },
   "requirements": null,
   "accreditation": null,
   "sources": [
-    "https://studymalaysia.com/what/course/UNIRAZAK/0055963/"
+    "https://studymalaysia.com/what/course/UNIRAZAK/0055963/",
+    "https://unirazak.edu.my/admission/international-students/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Strategic Human Resource Management",
   "program_name_zh": "Strategic Human Resource Management硕士",
   "field_ar": "إدارة الأعمال",

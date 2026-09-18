@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 53559,
-    "per_year": 17853,
-    "notes": ""
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: not listed in the official fee table; checked official fee schedule https://www.umwales.edu.my/admissions/fees/ on 2026-09-18. Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -28,7 +28,7 @@
     "https://www.studymalaysia.com/edu/iumw/courses/"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "bachelor-of-science-hons-in-biotechnology",
   "program_name_ar": "بكالوريوس Science (Hons) in Biotechnology",
   "program_name_zh": "Science (Hons) in Biotechnology学士",

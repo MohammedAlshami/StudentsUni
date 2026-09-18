@@ -6,18 +6,18 @@
   "program_slug": "bachelor-of-arts-hons-in-communication",
   "field": "Communication & Broadcasting",
   "faculty": null,
-  "duration": "3 years",
+  "duration": "3 Years",
   "mode": "Full-time",
   "intakes": [
+    "Jan",
     "Apr",
-    "Sep",
-    "Jan"
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 39227,
-    "per_year": 12325,
-    "notes": "Fee: FromRM71,680.00 (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 9477,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 9,477 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 80-90",
@@ -40,10 +40,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/ba-in-psychology-hons-with-asu-294464/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-arts-and-social-sciences/courses/ba-hons-communication",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Arts (Hons) in Communication",
   "program_name_zh": "Arts (Hons) in Communication学士",
   "field_ar": "الاتصالات",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 54000,
-    "per_year": 18000,
-    "notes": "Estimated ~RM18000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 50400,
+    "per_year": null,
+    "notes": "Total tuition per official Twintech international student management fee schedule. Source: https://newtwintech.edu.my/%e7%ae%a1%e7%90%86%e5%8a%9e%e6%b3%95%e8%a1%a8%e6%a0%bc/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -27,10 +27,15 @@
       "url": "https://newtwintech.edu.my/doctor-in-business-administration/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://newtwintech.edu.my/%e7%ae%a1%e7%90%86%e5%8a%9e%e6%b3%95%e8%a1%a8%e6%a0%bc/",
+      "publisher": "Twintech International University College of Technology",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Doctor in Business Administration",
   "program_name_zh": "Doctor in Business Administration",
   "field_ar": "إدارة الأعمال",

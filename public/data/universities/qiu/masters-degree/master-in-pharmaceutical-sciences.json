@@ -14,17 +14,22 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 240000,
-    "per_year": 120000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": null,
   "accreditation": null,
   "sources": [
-    "https://studymalaysia.com/what/course/QIU/0059070/"
+    "https://studymalaysia.com/what/course/QIU/0059070/",
+    {
+      "url": "https://qiu.edu.my/programmes/",
+      "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Pharmaceutical Sciences",
   "program_name_zh": "Pharmaceutical Sciences硕士",
   "field_ar": "الطب",

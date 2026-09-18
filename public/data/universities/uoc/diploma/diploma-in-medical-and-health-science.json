@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 23634,
-    "per_year": 5322,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": 71500,
+    "per_year": null,
+    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -40,10 +40,15 @@
       "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/diploma-in-medical-and-health-science-278780/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+      "publisher": "University of Cyberjaya",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Medical and Health Science",
   "program_name_zh": "Medical and Health Science文凭",
   "field_ar": "العلوم",

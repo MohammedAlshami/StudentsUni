@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 100000,
-    "per_year": 25000,
-    "notes": "Estimated ~RM25000/year for typical private university programme"
+    "total": 83050,
+    "per_year": null,
+    "notes": "International total programme fee per official INCEIF programme page; includes 6% SST; EMGS/visa/personal bond extra. Source: https://inceif.edu.my/study-inceif-university/phd-programmes/phd-in-islamic-finance-by-coursework-and-dissertation/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -36,10 +36,15 @@
       "url": "https://eduswasta.my/university/inceif-university/",
       "publisher": "official",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://inceif.edu.my/study-inceif-university/phd-programmes/phd-in-islamic-finance-by-coursework-and-dissertation/",
+      "publisher": "INCEIF University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة Finance",
   "program_name_zh": "哲学博士 Finance",
   "field_ar": "التمويل",

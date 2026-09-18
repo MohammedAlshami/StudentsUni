@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 37520,
-    "per_year": 22600,
-    "notes": "Fee: FromRM33,900.00 (per_year based on 1.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Programme not listed on Sunway University official course pages as of 2026-09-18; no international fee verified (programme may be discontinued or renamed)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -33,8 +33,8 @@
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "M.Sc in Information Systems",
   "program_name_zh": "M.Sc in Information Systems",
   "field_ar": "تقنية المعلومات",

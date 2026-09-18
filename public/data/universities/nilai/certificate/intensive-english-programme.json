@@ -13,10 +13,10 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 3200.0,
-    "per_year": 9600,
-    "notes": "Local: 3200/Level; International: 3200/Level (per_year based on 0.3333333333333333yr duration)"
+    "currency": "MYR",
+    "total": 9600,
+    "per_year": null,
+    "notes": "Nilai official fee structure: Intensive English Programme RM3,200 per level (3 levels = RM9,600 total; 4 months per level). Source: https://www.nilai.edu.my/sites/default/files/programme/fee-structure/Fee%20Structure%20%28%20Malaysian%20%26%20International%20Students%29.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,15 @@
       "url": "https://studymalaysia.com/edu/nilai/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.nilai.edu.my/sites/default/files/programme/fee-structure/Fee%20Structure%20%28%20Malaysian%20%26%20International%20Students%29.pdf",
+      "publisher": "Nilai University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Intensive English Programme",
   "program_name_zh": "Intensive English Programme",
   "field_ar": "Languages (National language & other languages)",

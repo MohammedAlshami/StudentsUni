@@ -4,18 +4,18 @@
   "level": "bachelors",
   "program_name": "Bachelor of Management (Hons) with Psychology",
   "field": "Business",
-  "duration": "5 Years",
+  "duration": "3 years (full-time)",
   "mode": "Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 9000,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 5.0yr duration)"
+    "total": 24000,
+    "per_year": null,
+    "notes": "WOU official programme page tuition fee: RM24,000 total (single published fee; WOU does not publish a separate international student fee schedule). Source: https://www.wou.edu.my/programmes/bachelor/psychology/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -25,10 +25,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/wou/courses/"
+    "https://www.studymalaysia.com/edu/wou/courses/",
+    {
+      "url": "https://www.wou.edu.my/programmes/bachelor/psychology/",
+      "publisher": "Wawasan Open University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "slug": "bachelor-of-management-hons-with-psychology",
   "program_name_ar": "بكالوريوس Management (Hons) with Psychology",
   "program_name_zh": "Management (Hons) with Psychology学士",

@@ -5,18 +5,18 @@
   "program_name": "Diploma in Screen Arts",
   "program_slug": "diploma-in-screen-arts",
   "field": "Art & Design",
-  "duration": "2.5 years",
+  "duration": "2 years 6 months",
   "mode": "Full Time",
   "intakes": [
-    "January",
-    "May",
-    "September"
+    "Feb",
+    "Jul",
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 30000,
-    "per_year": 12000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    "currency": "USD",
+    "total": 8500,
+    "per_year": null,
+    "notes": "UCSF official Programme Fee Information (International Student) 2023: Diploma in Screen Arts tuition USD 8,500 total. Additional one-off fees: application USD200, processing USD1,555; annual recurring visa renewal USD200, insurance USD155, resource fee USD400. International students pay in advance the equivalent of 30 credits annually. Source: https://www.ucsf.edu.my/wp-content/uploads/2023/08/UCSF-PROGRAMME-FEE-2023-INTERNATIONAL.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -25,10 +25,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.ucsf.edu.my/diploma"
+    "https://www.ucsf.edu.my/diploma",
+    {
+      "url": "https://www.ucsf.edu.my/wp-content/uploads/2023/08/UCSF-PROGRAMME-FEE-2023-INTERNATIONAL.pdf",
+      "publisher": "University College Sabah Foundation",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Screen Arts",
   "program_name_zh": "Screen Arts文凭",
   "field_ar": "التصميم",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 36736,
-    "per_year": "RM36,736 per annum",
-    "notes": null
+    "total": null,
+    "per_year": 42400,
+    "notes": "Official Curtin Malaysia 2026 international fee: RM42,400/year (research, full-time). Total not fixed (1-2 years). Excludes 6% SST applicable to international students from 1 Jul 2025. Official Curtin Malaysia indicative course fees, 2026 intake (International column); page updated 12 Aug 2026. Source: https://curtin.edu.my/study/fee/course-fees/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
   },
   "sources": [
     "https://curtin.edu.my/study/postgraduate/research-degrees/",
-    "https://www.studymalaysia.com/edu/curtin/courses/"
+    "https://www.studymalaysia.com/edu/curtin/courses/",
+    "https://curtin.edu.my/study/fee/course-fees/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Philosophy (Economics and Finance)",
   "program_name_zh": "Philosophy (Economics and Finance)硕士",
   "field_ar": "إدارة الأعمال",

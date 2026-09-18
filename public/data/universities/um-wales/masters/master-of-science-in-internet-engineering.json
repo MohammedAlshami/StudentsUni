@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 40000,
-    "per_year": "RM40,000-RM50,000",
-    "notes": "Typical engineering master's at UM Wales"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: not listed in the official fee table; checked official fee schedule https://www.umwales.edu.my/admissions/fees/ on 2026-09-18. Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,7 +27,7 @@
     "https://www.walesum.edu.my"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "master-of-science-in-internet-engineering",
   "program_name_ar": "ماجستير Science in Internet Engineering",
   "program_name_zh": "Science in Internet Engineering硕士",

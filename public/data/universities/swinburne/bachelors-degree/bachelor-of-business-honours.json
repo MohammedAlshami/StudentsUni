@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 110040,
-    "per_year": 36680,
-    "notes": "Annual fee; total = annual x 3 years"
+    "total": null,
+    "per_year": null,
+    "notes": "Bachelor of Business (Honours) is not listed on the official Swinburne Sarawak 2026 fee schedule, so no official international fee could be verified. Source: https://www.swinburne.edu.my/study/admission/fees-3/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -29,8 +29,8 @@
     "https://studymalaysia.com/what/course/SWINBURNE/0056005/",
     "https://www.swinburne.edu.my/?p=31477"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business (Honours)",
   "program_name_zh": "Business (Honours)学士",
   "field_ar": "إدارة الأعمال",

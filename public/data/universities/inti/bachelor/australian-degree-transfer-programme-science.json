@@ -5,19 +5,19 @@
   "program_name": "Australian Degree Transfer Programme (Science)",
   "program_slug": "australian-degree-transfer-programme-science",
   "field": "Science (Life Science/Physical Science/Applied Science)",
-  "duration": "2 years",
+  "duration": "3 years (6 semesters)",
   "mode": "Full-time",
   "study_type": "Full-time Study",
   "intakes": [
-    "Aug",
-    "Jun",
-    "Jan"
+    "Jan",
+    "May",
+    "Aug"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 28591,
-    "per_year": 14295,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": 57182,
+    "per_year": 19061,
+    "notes": "International student fee (published, exclusive of 6% SST) per official INTI programme page https://newinti.edu.my/programme/australian-degree-transfer-programme-science/ (INTI International University), fetched 2026-09-18. per_year computed over 3yr (6 semesters)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -39,10 +39,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://newinti.edu.my/programme/australian-degree-transfer-programme-science/",
+      "publisher": "INTI International University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Australian Degree Transfer Programme (Science)",
   "program_name_zh": "Australian Degree Transfer Programme (Science)",
   "field_ar": "العلوم",

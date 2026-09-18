@@ -4,21 +4,22 @@
   "level": "diploma",
   "program_name": "Diploma in Engineering Technology (Non-Destructive Testing)",
   "field": "Engineering Technology",
-  "duration": "4 years",
+  "duration": "2.6 years (5 semesters)",
   "mode": "Full Time",
   "intakes": [
-    "January",
-    "May",
+    "February",
+    "April",
+    "July",
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 7500,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": 40250.0,
+    "per_year": null,
+    "notes": "Official UC TATI international fees: RM890 registration + RM7,872.00 per semester x 5 semesters = RM40,250.00 total; intakes February/April/July/September. Official UC TATI programme prospectus PDF, international student fee column. Source: https://www.tatiuc.edu.my/ (assets/files), checked 2026-09-18."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "english_requirement": "IELTS 5.0 / TOEFL 500 / MUET Band 2 (official UC TATI prospectus)",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
@@ -30,7 +31,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Engineering Technology (Non-Destructive Testing)",
   "program_name_zh": "Engineering Technology (Non-Destructive Testing)文凭",
   "field_ar": "الهندسة",

@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 240000,
-    "per_year": 48000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 5.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -30,10 +30,11 @@
   },
   "sources": [
     "https://www.aimst.edu.my/academic/bachelor-of-dental-surgery/",
-    "https://www.studymalaysia.com/what/course/AIMST/0055048/"
+    "https://www.studymalaysia.com/what/course/AIMST/0055048/",
+    "https://aimst.edu.my/international-students/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Dental Surgery",
   "program_name_zh": "Dental Surgery学士",
   "field_ar": "طب الأسنان",

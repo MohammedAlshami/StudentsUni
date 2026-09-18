@@ -26,13 +26,13 @@
     "https://www.aiu.edu.my",
     "https://www.aiu.edu.my/postgraduate"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 66000,
     "international_total": null,
     "per_year_local": 22000,
     "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "Undergraduate study is fully funded by Albukhary Foundation scholarships for eligible students; international postgraduate fees verified from AIU official postgraduate page. See individual programme files. Last verified 2026-09-18."
   }
 }

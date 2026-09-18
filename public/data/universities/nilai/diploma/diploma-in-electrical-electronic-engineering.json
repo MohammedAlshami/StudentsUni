@@ -13,10 +13,10 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 33750.0,
-    "per_year": 9642,
-    "notes": "Local: 33750/Course; International: 33750/Course (per_year based on 3.5yr duration)"
+    "currency": "MYR",
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed in Nilai University official current fee structure (Malaysian & International Students) as of 2026-09-18; no international fee verified. Previous figure was an unverified estimate. (Nilai 2023 international brochure listed research masters at RM5,000 total and DBA at RM62,400.)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -39,8 +39,8 @@
       "fetched_at": "2026-09-14T00:00:00+08:00"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Electrical & Electronic Engineering",
   "program_name_zh": "Electrical & Electronic Engineering文凭",
   "field_ar": "الهندسة",

@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 9920,
-    "per_year": 2480,
-    "notes": "Per semester: MYR 829 local, MYR 1,240 international"
+    "total": null,
+    "per_year": null,
+    "notes": "Official UPSI undergraduate international fee schedule for bachelor's degrees is not published online (the BHEA fee PDF covers diploma programmes only; IPS schedule covers postgraduate only). Contact kemasukan.bhea@upsi.edu.my. Sources: https://www.upsi.edu.my/ and https://bhea.upsi.edu.my/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -29,8 +29,8 @@
     "https://www.studymalaysia.com/what/course/UPSI/0001095/",
     "https://fbk.upsi.edu.my/at06-bachelor-tesl/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education (Teaching English As a Second Language) (Hons)",
   "program_name_zh": "Education (Teaching English As a Second Language) (Hons)学士",
   "field_ar": "التربية والتعليم",

@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 75000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 5.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "No official fee published for this programme on MEDIU's official fee schedule (https://online.mediu.edu.my/applicantportal/Home/ProgramFeesCurrent, accessed 2026-09-18); previous estimate removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -28,7 +28,7 @@
     "https://en.wikipedia.org/wiki/Al-Madinah_International_University"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Islamic Studies",
   "program_name_zh": "哲学博士 in Islamic Studies",
   "field_ar": "العلوم",

@@ -6,18 +6,18 @@
   "program_slug": "bachelor-of-science-hons-in-actuarial-studies",
   "field": "Mathematics & Statistics",
   "faculty": "School of Mathematical Sciences",
-  "duration": "3 years",
+  "duration": "3 Years",
   "mode": "Full-time",
   "intakes": [
+    "Jan",
     "Apr",
-    "Sep",
-    "Feb"
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 38357,
-    "per_year": 12035,
-    "notes": "Fee: FromRM85,425.00 (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 9314,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 9,314 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -41,10 +41,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/school-of-mathematical-sciences/courses/bachelor-of-science-hons-actuarial-studies",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Hons) in Actuarial Studies",
   "program_name_zh": "Science (Hons) in Actuarial Studies学士",
   "field_ar": "Mathematics & Statistics",

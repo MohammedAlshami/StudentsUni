@@ -15,9 +15,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 91900,
-    "per_year": 28020,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: HELP University publishes only a Malaysian-student fee summary (2026 HELP University Programme Fees Summary, July 2026, 2026-09-18); no public international-student fee schedule exists. International applicants are directed to contact HELP. Previous third-party/estimated value removed."
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0005681/",
@@ -25,10 +25,15 @@
       "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-of-business-hons-in-hospitality-management-27881/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://university.help.edu.my/brochures/",
+      "publisher": "help",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
     "a_level": "2 Principals (C+) including relevant subjects",

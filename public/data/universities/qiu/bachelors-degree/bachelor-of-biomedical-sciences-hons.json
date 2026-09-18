@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 240000,
-    "per_year": 60000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -26,10 +26,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://studymalaysia.com/what/course/qiu/0057387/"
+    "https://studymalaysia.com/what/course/qiu/0057387/",
+    {
+      "url": "https://qiu.edu.my/programmes/",
+      "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Biomedical Sciences (Hons)",
   "program_name_zh": "Biomedical Sciences (Hons)学士",
   "field_ar": "العلوم",

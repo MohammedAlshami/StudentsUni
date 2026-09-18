@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: UNIMEL programme brochures linked from the official programme list are image-only PDFs with no extractable fee text and no public HTML fee schedule exists (checked 2026-09-18). Previous estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -32,7 +32,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Admin Marketing with Honour",
   "program_name_zh": "Business Admin Marketing with Honour学士",
   "field_ar": "إدارة الأعمال",

@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 20400,
-    "per_year": 5100,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 77910,
+    "per_year": null,
+    "notes": "UTeM official 2ao 2026 international Bachelor fee schedule for Technology Management/Technopreneurship programmes: RM77,910 total programme fee including 6% SST (RM73,500 before SST; 8 semesters). Source: UTeM official fee schedule (Jadual Yuran) at https://www.utem.edu.my/en/downloads/fees/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -25,10 +25,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/what/course/UTEM/0009763/"
+    "https://www.studymalaysia.com/what/course/UTEM/0009763/",
+    {
+      "url": "https://www.utem.edu.my/en/downloads/fees/",
+      "publisher": "Universiti Teknikal Malaysia Melaka",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Technology Management (High Technology Marketing) (Hons)",
   "program_name_zh": "Technology Management (High Technology Marketing) (Hons)学士",
   "field_ar": "إدارة الأعمال",

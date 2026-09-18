@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17532,
-    "per_year": 3672,
-    "notes": " (per_year based on 3.3333333333333335yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -41,10 +41,15 @@
       "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/bachelor-of-accounting-hons-online-294041/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.unitar.my/programmes/",
+      "publisher": "unitar",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Accounting (Hons)",
   "program_name_zh": "Accounting (Hons)学士",
   "field_ar": "المحاسبة",

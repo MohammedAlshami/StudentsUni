@@ -273,13 +273,13 @@
     "https://www.studymalaysia.com/edu/upsi/courses/",
     "https://www.upsi.edu.my/faculty/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 4200,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 1400,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 3yr duration)"
+    "notes": "International diploma fees RM17,958 total (6 semesters; Music RM19,766/7 semesters) per official UPSI 2024 fee schedule; international bachelor's fees are not published online (checked 2026-09-18)."
   }
 }

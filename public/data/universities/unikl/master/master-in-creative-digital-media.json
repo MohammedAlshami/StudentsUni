@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": 6180,
+    "notes": "Official international tuition: RM3,090/semester, RM6,180/year; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-in-creative-digital-media/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
       "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-miit-260/master-in-creative-digital-media-293798/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.unikl.edu.my/programme/master-in-creative-digital-media/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Creative Digital Media",
   "program_name_zh": "Creative Digital Media硕士",
   "field_ar": "الفنون",

@@ -9,15 +9,15 @@
   "mode": "Full-time",
   "study_type": "Full-time Study",
   "intakes": [
-    "Aug",
-    "Jun",
-    "Jan"
+    "Jan",
+    "May",
+    "Aug"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17049,
-    "per_year": 6819,
-    "notes": " (per_year based on 2.5yr duration)"
+    "total": 46890,
+    "per_year": 18756,
+    "notes": "International student fee (published, exclusive of 6% SST) per official INTI programme page https://newinti.edu.my/programme/diploma-in-mechanical-engineering/ (INTI International University), fetched 2026-09-18. per_year computed over 2.5yr."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -45,10 +45,15 @@
       "url": "https://www.easyuni.my/malaysia/inti-international-university-10208/diploma-in-civil-engineering-26908/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://newinti.edu.my/programme/diploma-in-mechanical-engineering/",
+      "publisher": "INTI International University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Mechanical Engineering",
   "program_name_zh": "Mechanical Engineering文凭",
   "field_ar": "الهندسة",

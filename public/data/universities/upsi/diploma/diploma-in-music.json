@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 10500,
-    "per_year": 3000,
-    "notes": "Per semester: MYR 1,079 local, MYR 1,500 international"
+    "total": 19766,
+    "per_year": null,
+    "notes": "Official UPSI international diploma (Music) fee schedule: Semester 1 RM4,518 and RM2,808 per subsequent semester; total for 7 semesters as published is RM19,766 (includes RM2,000 refundable student bond). Official UPSI 'Kadar Yuran Pengajian Program Diploma' (2024) international-student column. Source: https://bhea.upsi.edu.my/wp-content/uploads/2024/07/kadar-yuran-UG-dan-subsidi-2024.pdf (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,10 +26,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/what/course/UPSI/0008349/",
-    "https://fmsp.upsi.edu.my/diploma-in-music/"
+    "https://fmsp.upsi.edu.my/diploma-in-music/",
+    "https://bhea.upsi.edu.my/wp-content/uploads/2024/07/kadar-yuran-UG-dan-subsidi-2024.pdf"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Music",
   "program_name_zh": "Music文凭",
   "field_ar": "الفنون",

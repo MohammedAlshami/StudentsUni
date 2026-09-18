@@ -11,10 +11,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 16000,
-      "international_total": null,
+      "international_total": 17900,
       "per_year_local": 16000,
       "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM17,900 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -22,7 +22,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -36,10 +36,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 16000,
-      "international_total": null,
+      "international_total": 19800,
       "per_year_local": 16000,
       "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM19,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -47,7 +47,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -61,10 +61,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 40000,
-      "international_total": null,
+      "international_total": 35800,
       "per_year_local": 16000,
       "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM35,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -72,7 +72,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -86,10 +86,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 40000,
-      "international_total": null,
+      "international_total": 33800,
       "per_year_local": 16000,
       "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM33,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -97,7 +97,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -111,10 +111,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 40000,
-      "international_total": null,
+      "international_total": 48800,
       "per_year_local": 16000,
       "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM48,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -122,7 +122,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -136,10 +136,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 40000,
-      "international_total": null,
+      "international_total": 38800,
       "per_year_local": 16000,
       "per_year_international": null,
-      "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM38,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -147,7 +147,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -161,10 +161,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 66000,
-      "international_total": null,
+      "international_total": 74800,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM74,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -172,7 +172,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -186,10 +186,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 66000,
-      "international_total": null,
+      "international_total": 54800,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM54,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -197,7 +197,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -214,7 +214,7 @@
       "international_total": null,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "Not listed in AMU official 2025 international fee structure; no international fee verified. Source checked: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "Coming Soon",
@@ -222,7 +222,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-09-18",
     "notes": "Listed as 'Coming Soon' on official website"
   },
   {
@@ -237,10 +237,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 66000,
-      "international_total": null,
+      "international_total": 64800,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM64,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -248,7 +248,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -265,7 +265,7 @@
       "international_total": null,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "Not listed in AMU official 2025 international fee structure; no international fee verified. Source checked: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "Coming Soon",
@@ -273,7 +273,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-09-18",
     "notes": "Listed as 'Coming Soon' on official website"
   },
   {
@@ -288,10 +288,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 66000,
-      "international_total": null,
+      "international_total": 78800,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM78,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -299,7 +299,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -313,10 +313,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 33000,
-      "international_total": null,
+      "international_total": 30100,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM30,100 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -324,7 +324,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -338,10 +338,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 33000,
-      "international_total": null,
+      "international_total": 21800,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "notes": "AMU official 2025 international fee structure (MBA-ODL): RM21,800 total (includes one-time fees RM5,800 + adjusted tuition RM16,000; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -349,7 +349,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -363,10 +363,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 33000,
-      "international_total": null,
+      "international_total": 30100,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM30,100 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -374,7 +374,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -388,10 +388,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 33000,
-      "international_total": null,
+      "international_total": 39800,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM39,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -399,7 +399,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -413,10 +413,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 33000,
-      "international_total": null,
+      "international_total": 12800,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM12,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -424,7 +424,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -441,7 +441,7 @@
       "international_total": null,
       "per_year_local": 22000,
       "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+      "notes": "Not listed in AMU official 2025 international fee structure; no international fee verified. Source checked: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "Coming Soon",
@@ -449,7 +449,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-09-18",
     "notes": "Listed as 'Coming Soon' on official website"
   },
   {
@@ -464,10 +464,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 75000,
-      "international_total": null,
+      "international_total": 41800,
       "per_year_local": 25000,
       "per_year_international": null,
-      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "AMU official 2025 international fee structure (DBA): from RM41,800 total (includes one-time fees RM6,300 + adjusted tuition from RM35,500; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -475,7 +475,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -492,7 +492,7 @@
       "international_total": null,
       "per_year_local": 25000,
       "per_year_international": null,
-      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "Not listed in AMU official 2025 international fee structure; no international fee verified. Source checked: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "Coming Soon",
@@ -500,7 +500,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-09-18",
     "notes": "Listed as 'Coming Soon' on official website"
   },
   {
@@ -515,10 +515,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 75000,
-      "international_total": null,
+      "international_total": 51300,
       "per_year_local": 25000,
       "per_year_international": null,
-      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM51,300 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -526,7 +526,7 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "university": "Asia Metropolitan University",
@@ -540,10 +540,10 @@
     "fees": {
       "currency": "MYR",
       "local_total": 75000,
-      "international_total": null,
+      "international_total": 41800,
       "per_year_local": 25000,
       "per_year_international": null,
-      "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3yr duration)"
+      "notes": "AMU official 2025 international fee structure: RM41,800 total (includes one-time fees and adjusted tuition; excludes 6% SST). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
     },
     "requirements": null,
     "accreditation": "MQA approved",
@@ -551,6 +551,6 @@
       "https://amu.edu.my/programmes/"
     ],
     "confidence": "verified",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   }
 ]

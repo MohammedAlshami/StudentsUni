@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 65000,
-    "per_year": 7089,
-    "notes": "Estimated total fees (local) for full course duration"
+    "total": 90500,
+    "per_year": null,
+    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -36,10 +36,15 @@
       "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-in-occupational-safety-and-health-hons-278790/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+      "publisher": "University of Cyberjaya",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Occupational Safety And Health (Honours)",
   "program_name_zh": "Occupational Safety And Health (Honours)学士",
   "field_ar": "العلوم",

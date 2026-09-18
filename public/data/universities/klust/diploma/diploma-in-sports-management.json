@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 23850,
-    "per_year": 9540,
-    "notes": " (per_year based on 2.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "general": "Any one of these: SPM: Minimum 3Cs. O-Level: Minimum 3Cs (including a Science subject and pass in English). UEC: Minimum 3Bs (including a Science subject and pass in English). Certificate / SKM III: Minimum CGPA of 2.00 with a C in SPM. Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM. ENGLISH LANGUAGE REQUIREMENT (INTERNATIONAL):  IELTS - 5 TOEFL (PBT) - 410 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
@@ -28,10 +28,15 @@
       "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/diploma-in-sports-management-243206/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://klust.edu.my/admissions/international-students/",
+      "publisher": "klust",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Sports Management",
   "program_name_zh": "Sports Management文凭"
 }

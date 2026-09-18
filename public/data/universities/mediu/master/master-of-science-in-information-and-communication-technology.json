@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": 21980,
+    "per_year": null,
+    "notes": "MEDIU official programme fee schedule (https://online.mediu.edu.my/applicantportal/Home/ProgramFeesCurrent), effective Sep 2017 intake, accessed 2026-09-18: on-campus international full-time total MYR 21,980 (Structure B); online international/local total MYR 20,132; fees include visa fees and university bond (est. RM5,120 depending on citizenship)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -31,7 +31,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Information and Communication Technology",
   "program_name_zh": "Science in Information and Communication Technology硕士",
   "field_ar": "Computing",

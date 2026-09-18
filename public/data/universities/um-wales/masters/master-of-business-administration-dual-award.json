@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45889,
-    "per_year": 30593,
-    "notes": ""
+    "total": 69154.4,
+    "per_year": 46103,
+    "notes": "International student total per official UM-Wales fee schedule https://www.umwales.edu.my/admissions/fees/, fetched 2026-09-18. Includes the RM19,080 optional UK dual-award fee (single-award fee RM50,074.40). per_year computed over 1.5yr."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -23,10 +23,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/iumw/courses/"
+    "https://www.studymalaysia.com/edu/iumw/courses/",
+    {
+      "url": "https://www.umwales.edu.my/admissions/fees/",
+      "publisher": "UM-Wales",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "master-of-business-administration-dual-award",
   "program_name_ar": "ماجستير Business Administration (Dual Award)",
   "program_name_zh": "Business Administration (Dual Award)硕士",

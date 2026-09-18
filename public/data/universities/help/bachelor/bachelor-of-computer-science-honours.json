@@ -16,9 +16,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 29850,
-    "per_year": 9546,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: HELP University publishes only a Malaysian-student fee summary (2026 HELP University Programme Fees Summary, July 2026, 2026-09-18); no public international-student fee schedule exists. International applicants are directed to contact HELP. Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -45,10 +45,15 @@
       "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-of-computer-science-hons-226640/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://university.help.edu.my/brochures/",
+      "publisher": "help",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Science (Honours)",
   "program_name_zh": "Computer Science (Honours)学士",
   "field_ar": "تقنية المعلومات",

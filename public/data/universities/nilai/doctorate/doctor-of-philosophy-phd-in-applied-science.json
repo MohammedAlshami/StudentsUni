@@ -13,10 +13,10 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 3200.0,
-    "per_year": 640,
-    "notes": "Local: Short semester-RM3200, Long semester-RM6400; International: Short semester-RM3200, Long semester-RM6400 (per_year based on 5.0yr duration)"
+    "currency": "MYR",
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed in Nilai University official current fee structure (Malaysian & International Students) as of 2026-09-18; no international fee verified. Previous figure was an unverified estimate. (Nilai 2023 international brochure listed research masters at RM5,000 total and DBA at RM62,400.)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -38,8 +38,8 @@
       "fetched_at": "2026-09-14T00:00:00+08:00"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (PhD) in Applied Science",
   "program_name_zh": "哲学博士 (PhD) in Applied Science",
   "field_ar": "العلوم",

@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 24884,
-    "per_year": 6449,
-    "notes": "Local: 54000/Course; International: 54000/Course (per_year based on 3.0yr duration)"
+    "total": 60000,
+    "per_year": null,
+    "notes": "Nilai University official fee structure (Malaysian & International Students). International fee schedule: RM60,000 total (3 years). Source: https://www.nilai.edu.my/sites/default/files/programme/fee-structure/Fee%20Structure%20%28%20Malaysian%20%26%20International%20Students%29.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -54,10 +54,15 @@
       "url": "https://www.easyuni.my/malaysia/nilai-university-226/bachelor-of-business-administration-hons-in-management-226334/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.nilai.edu.my/sites/default/files/programme/fee-structure/Fee%20Structure%20%28%20Malaysian%20%26%20International%20Students%29.pdf",
+      "publisher": "Nilai University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Administration (Hons) in Management",
   "program_name_zh": "Business Administration (Hons) in Management学士",
   "field_ar": "إدارة الأعمال",

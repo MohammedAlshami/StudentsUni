@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 120000,
-    "per_year": 60000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": 11340,
+    "notes": "Official international tuition: RM5,670/semester, RM11,340/year; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-medical-science/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
       "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-medical-science-293795/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.unikl.edu.my/programme/master-of-medical-science/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Medical Science",
   "program_name_zh": "Medical Science硕士",
   "field_ar": "العلوم",

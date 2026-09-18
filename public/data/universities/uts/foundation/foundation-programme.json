@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 13000,
+    "per_year": 13000,
+    "notes": "International Foundation fee RM13,000/year per official UTS Tuition Fees page https://uts.edu.my/tuitionfees (For International Students > Foundation Programmes), fetched 2026-09-18. 1-year programme."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -23,11 +23,16 @@
   },
   "accreditation": "MQA approved",
   "sources": [
-    "https://en.wikipedia.org/wiki/University_of_Technology_Sarawak"
+    "https://en.wikipedia.org/wiki/University_of_Technology_Sarawak",
+    {
+      "url": "https://uts.edu.my/tuitionfees",
+      "publisher": "UTS",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "verified",
   "notes": "UTS offers a 1-year Foundation course; all Sarawakian students receive full scholarships for it.",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Foundation Programme",
   "program_name_zh": "Foundation Programme",
   "field_ar": "general",

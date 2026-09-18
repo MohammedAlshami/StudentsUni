@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 131490,
-    "per_year": 43830,
-    "notes": ""
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: programme not offered in the official 2026 undergraduate fee list (checked 2026-09-18); set to null rather than estimate. Source checked: https://www.nottingham.edu.my/Applications/Fees/UG.aspx / https://www.nottingham.edu.my/Applications/Fees/PG.aspx"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -28,10 +28,15 @@
       "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
       "publisher": "University of Nottingham Malaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.nottingham.edu.my/Applications/Fees/UG.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "bachelor-of-science-hons-software-engineering",
   "program_name_ar": "بكالوريوس Science (Hons) Software Engineering",
   "program_name_zh": "Science (Hons) Software Engineering学士",

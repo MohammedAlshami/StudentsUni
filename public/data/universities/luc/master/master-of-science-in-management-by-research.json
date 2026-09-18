@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 4000,
-    "per_year": 9000,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Lincoln University College does not publish tuition fees; the official programme page directs fee enquiries to admission@lincoln.edu.my. International fee unverified. Source: https://www.lincoln.edu.my/master-of-science-in-management/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -33,10 +33,11 @@
       "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/master-in-tourism-management-293915/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.lincoln.edu.my/master-of-science-in-management/"
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Management (By Research)",
   "program_name_zh": "Science in Management (By Research)硕士",
   "field_ar": "إدارة الأعمال",

@@ -14,7 +14,7 @@
     "currency": "MYR",
     "total": 33000,
     "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "notes": "International tuition AY2026: RM16,500/year, RM33,000 total (2 years); excludes administrative fees and 6% SST. Source: https://www.xmu.edu.my/admissions/tuition-fees (last updated 27 Nov 2025; accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -22,10 +22,15 @@
   },
   "accreditation": "MQA",
   "sources": [
-    "https://www.xmu.edu.my/postgraduate-programmes"
+    "https://www.xmu.edu.my/postgraduate-programmes",
+    {
+      "url": "https://www.xmu.edu.my/admissions/tuition-fees",
+      "publisher": "Xiamen University Malaysia",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.95,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Physics",
   "program_name_zh": "Science in Physics硕士",
   "field_ar": "العلوم",

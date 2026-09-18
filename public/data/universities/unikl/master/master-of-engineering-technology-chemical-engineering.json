@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": 6760,
+    "notes": "Official international tuition: RM3,380/semester, RM6,760/year; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-engineering-technology-chemical-engineering/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
       "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-engineering-technology-manufacturing-264855/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.unikl.edu.my/programme/master-of-engineering-technology-chemical-engineering/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Engineering Technology (Chemical Engineering)",
   "program_name_zh": "Engineering Technology (Chemical Engineering)硕士",
   "field_ar": "الهندسة",

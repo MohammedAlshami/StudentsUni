@@ -15,8 +15,8 @@
   "fees": {
     "currency": "MYR",
     "total": 29040,
-    "per_year": 29040,
-    "notes": "Total course fee for 1-year programme"
+    "per_year": null,
+    "notes": "Official Swinburne Sarawak 2026 international fee: RM29,040 total (Foundation Studies). Official Swinburne Sarawak 2026 indicative course fees (International students column). Source: https://www.swinburne.edu.my/study/admission/fees-3/ (checked 2026-09-18). Fees exclude SST where applicable."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -25,10 +25,11 @@
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SWINBURNE/0001534/",
-    "https://www.swinburne.edu.my/?p=31477"
+    "https://www.swinburne.edu.my/?p=31477",
+    "https://www.swinburne.edu.my/study/admission/fees-3/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Swinburne Foundation Studies (Information Technology/Multimedia)",
   "program_name_zh": "Swinburne Foundation Studies (Information Technology/Multimedia)",
   "field_ar": "تقنية المعلومات",

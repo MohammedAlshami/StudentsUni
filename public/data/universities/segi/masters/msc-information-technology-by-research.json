@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 36000,
-    "per_year": "RM18,000-RM25,000",
-    "notes": ""
+    "total": null,
+    "per_year": null,
+    "notes": "SEGi official website is inaccessible from this environment (Cloudflare bot protection) and no official fee schedule is publicly indexed; set to null rather than use stale aggregator data. Checked segi.edu.my (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -28,7 +28,7 @@
     "https://eduswasta.my/university/segi-university/"
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير (Information Technology) by Research",
   "program_name_zh": "(Information Technology) by Research硕士",
   "field_ar": "تقنية المعلومات",

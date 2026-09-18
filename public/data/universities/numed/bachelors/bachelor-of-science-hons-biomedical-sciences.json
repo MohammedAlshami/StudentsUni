@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 52900,
-    "per_year": 44100.0,
-    "notes": "RM40,240/Yr local, RM44,100/Yr international, for each of the three years of the programme (both NUMed Malaysia and Newcastle UK)"
+    "total": null,
+    "per_year": 58512,
+    "notes": "Official international tuition for 2026 entry: RM58,512/year (RM55,200 base + 6% SST RM3,312). Source: https://www.ncl.ac.uk/numed/students/finance/tuition-fees/ (accessed 2026-09-18); see also https://www.ncl.ac.uk/numed/study-with-us/international-students/courses-and-fees/."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -41,10 +41,12 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.ncl.ac.uk/numed/students/finance/tuition-fees/",
+    "https://www.ncl.ac.uk/numed/study-with-us/international-students/courses-and-fees/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Hons) Biomedical Sciences",
   "program_name_zh": "Science (Hons) Biomedical Sciences学士",
   "field_ar": "الطب",

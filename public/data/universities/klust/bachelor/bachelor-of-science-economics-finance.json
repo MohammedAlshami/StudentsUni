@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 62220,
-    "per_year": 19520,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "general": "Any one of these: STPM: Minimum CGPA of 2.00, pass Mathematics and English in SPM. STAM: Minimum grade of jayyid, pass Mathematics and English in SPM. A-Level: Minimum 2 Principal Passes and pass Mathematics in O-Level. UEC: Minimum 5Bs (pass in Mathematics). Diploma / HND: Minimum CGPA of 2.00 including pass/50% and above in Mathematics. Foundation / Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average 50% including Mathematics. CPU / CIMP: Average of 50% including Mathematics. IB: 24 points or higher based on 6 subjects (minimum level 4 for each subject). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM.   ENGLISH LANGUAGE REQUIREMENTS: IELTS - 6 TOEFL (PBT) - 537 TOEFL (IBT) - 60 PTE - 59 MUET - BAND 4 Cambridge English - 169"
@@ -28,10 +28,15 @@
       "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/bachelor-of-science-hons-in-economics-and-finance-293234/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://klust.edu.my/admissions/international-students/",
+      "publisher": "klust",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Hons) in Economics and Finance",
   "program_name_zh": "Science (Hons) in Economics and Finance学士"
 }

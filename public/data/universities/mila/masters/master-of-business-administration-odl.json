@@ -4,18 +4,20 @@
   "program_name": "Master of Business Administration (ODL)",
   "program_slug": "master-of-business-administration-odl",
   "field": "Business",
-  "duration": "1.5-2 Years",
+  "duration": "1.25 Years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "January",
+    "March",
+    "June",
+    "August",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": 23520,
+    "per_year": null,
+    "notes": "Official programme page tuition: RM23,520 (whole programme; nationality not separately stated). Source: https://mila.edu.my/programme/master-of-business-administration-odl/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +29,11 @@
       "url": "https://mila.edu.my/programmes/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
-    }
+    },
+    "https://mila.edu.my/programme/master-of-business-administration-odl/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration (ODL)",
   "program_name_zh": "Business Administration (ODL)硕士",
   "field_ar": "إدارة الأعمال",

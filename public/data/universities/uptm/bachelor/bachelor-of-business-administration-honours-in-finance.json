@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 11250,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "No Finance-major page is published on the current official UPTM site (official BBA general international fee is RM50,800). Source: https://www.uptm.edu.my/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -31,8 +31,8 @@
       "fetched_at": "2026-09-15T00:00:00+08:00"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Administration (Honours) in Finance",
   "program_name_zh": "Business Administration (Honours) in Finance学士",
   "field_ar": "إدارة الأعمال",

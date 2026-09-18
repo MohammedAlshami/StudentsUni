@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 11700,
-    "per_year": 3900,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "Diploma in Turath Islami Studies is not listed in the official UPSI 2024 international fee schedule, so no official international fee could be verified. Source: https://bhea.upsi.edu.my/wp-content/uploads/2024/07/kadar-yuran-UG-dan-subsidi-2024.pdf (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,8 +28,8 @@
     "https://www.studymalaysia.com/what/course/UPSI/0058877/",
     "https://fsk.upsi.edu.my/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Turath Islami Studies",
   "program_name_zh": "Turath Islami Studies文凭",
   "field_ar": "تقنية المعلومات",

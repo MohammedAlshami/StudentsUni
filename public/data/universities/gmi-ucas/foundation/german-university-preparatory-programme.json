@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 18000,
-    "per_year": 18000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 75200,
+    "per_year": null,
+    "notes": "GMI official Programme Guide May 2026, GAPP (International Students) fee structure (https://www.gmi.edu.my/wp-content/uploads/2026/05/PROGRAMME-GUIDE-May-2026-rev-02.pdf), accessed 2026-09-18: international total MYR 75,200 (course + miscellaneous fees) without hostel, MYR 78,800 with hostel; course fee alone MYR 65,100."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,8 +28,8 @@
       "type": "official"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "German University Preparatory Programme (GAPP)",
   "program_name_zh": "German University Preparatory Programme (GAPP)",
   "field_ar": "تقنية المعلومات",

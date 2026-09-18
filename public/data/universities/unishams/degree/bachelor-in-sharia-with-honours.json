@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 43890,
+    "per_year": null,
+    "notes": "UniSHAMS official 2024 international student fee structure for Bachelor of Syariah with Honours (https://unishams.edu.my/images/KULLIYAH/yuran-2024/UG/I-ismsy.pdf, retrieved via Internet Archive), accessed 2026-09-18: international total MYR 43,890 (registration, tuition, administration and applicable deposit/collateral/convocation; accommodation excluded and optional)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -28,8 +28,8 @@
   "sources": [
     "https://unishams.edu.my/component/content/article/bachelor-in-shariah-with-honours?catid=11"
   ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Sharia with Honours",
   "program_name_zh": "Sharia with Honours学士",
   "field_ar": "الدراسات الإسلامية",

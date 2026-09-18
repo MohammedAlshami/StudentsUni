@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 3000,
-    "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "Official UMK international undergraduate/foundation tuition is not published online (main site, Study@UMK and Centre for Postgraduate Studies publish local fee structures only; international postgraduate fees exist but not undergraduate). Fees on enquiry: umki@umk.edu.my. Source: https://study.umk.edu.my/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,10 +26,11 @@
   },
   "sources": [
     "https://www.studymalaysia.com/what/course/UMK/0058922/",
-    "https://www.studymalaysia.com/edu/umk/courses/"
+    "https://www.studymalaysia.com/edu/umk/courses/",
+    "https://study.umk.edu.my/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Social Science",
   "program_name_zh": "Social Science预科",
   "field_ar": "تقنية المعلومات",

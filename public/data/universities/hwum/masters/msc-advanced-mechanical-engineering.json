@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 53640,
-    "per_year": 47250,
-    "notes": " (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed in official HWUM 2026/27 international fee schedule (tuition-fees page / Fee-International.pdf); programme may be discontinued or renamed. No fee verified."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -31,10 +31,15 @@
       "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/msc-advanced-mechanical-engineering-294620/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
+      "publisher": "Heriot-Watt University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Advanced Mechanical Engineering",
   "program_name_zh": "Advanced Mechanical Engineering硕士"
 }

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 12000,
-    "per_year": 12000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 16800,
+    "per_year": null,
+    "notes": "Widad University College official international student tuition fees page (https://www.widad.edu.my/uc/international/tuition-fees), accessed 2026-09-18: MYR 16,800 total for international students."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,8 +28,8 @@
       "type": "official"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Science",
   "program_name_zh": "Science预科",
   "field_ar": "العلوم",

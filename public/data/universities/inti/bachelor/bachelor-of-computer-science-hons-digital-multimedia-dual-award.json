@@ -15,9 +15,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 44908,
-    "per_year": 10756,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: no official fee page found on newinti.edu.my for this programme as of 2026-09-18; previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -38,7 +38,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Science (Hons) (Digital Multimedia) (Dual-Award Degree)",
   "program_name_zh": "Computer Science (Hons) (Digital Multimedia) (Dual-Award Degree)学士",
   "field_ar": "الإعلام",

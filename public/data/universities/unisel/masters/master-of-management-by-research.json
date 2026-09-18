@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 10200,
-    "per_year": 2550,
-    "notes": "From EasyUni (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: no international-student fee schedule is published on unisel.edu.my (international admissions and programme pages checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,15 @@
       "url": "https://www.easyuni.my/malaysia/universiti-selangor-unisel-12328/master-of-management-by-research-294555/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://unisel.edu.my/admission-international-student/",
+      "publisher": "unisel",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "master-of-management-by-research",
   "program_name_ar": "ماجستير Management (By Research)",
   "program_name_zh": "Management (By Research)硕士",

@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 8800,
-    "per_year": 2200,
-    "notes": "Per semester: MYR 899 local, MYR 1,100 international"
+    "total": null,
+    "per_year": null,
+    "notes": "Official UPSI undergraduate international fee schedule for bachelor's degrees is not published online (the BHEA fee PDF covers diploma programmes only; IPS schedule covers postgraduate only). Contact kemasukan.bhea@upsi.edu.my. Sources: https://www.upsi.edu.my/ and https://bhea.upsi.edu.my/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -29,8 +29,8 @@
     "https://www.studymalaysia.com/what/course/UPSI/0000877/",
     "https://fsmt.upsi.edu.my/bachelor-of-education-science-with-honors-at16/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education (Science) (Hons)",
   "program_name_zh": "Education (Science) (Hons)学士",
   "field_ar": "التربية والتعليم",

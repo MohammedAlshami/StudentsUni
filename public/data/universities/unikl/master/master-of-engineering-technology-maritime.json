@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": null,
+    "per_year": 6220,
+    "notes": "Official international tuition: RM3,110/semester, RM6,220/year; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-engineering-technology-maritime/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -22,10 +22,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/"
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    "https://www.unikl.edu.my/programme/master-of-engineering-technology-maritime/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Engineering Technology (Maritime)",
   "program_name_zh": "Engineering Technology (Maritime)硕士",
   "field_ar": "الهندسة",

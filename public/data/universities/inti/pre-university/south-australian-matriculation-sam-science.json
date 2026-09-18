@@ -15,9 +15,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 33000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: no official fee page found on newinti.edu.my for this programme as of 2026-09-18; previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -31,7 +31,7 @@
     "https://studymalaysia.com/what/course/INTI/0009055/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "South Australian Matriculation (SAM) [Science]",
   "program_name_zh": "South Australian Matriculation (SAM) [Science]",
   "field_ar": "تقنية المعلومات",

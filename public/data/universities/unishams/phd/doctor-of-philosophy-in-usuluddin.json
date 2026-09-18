@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 75000,
-    "per_year": 25000,
-    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 17600,
+    "per_year": null,
+    "notes": "UniSHAMS official 2024 international student fee structure for PhD in Usuluddin (https://unishams.edu.my/images/KULLIYAH/yuran-2024/PG/I-phus.pdf, retrieved via Internet Archive), accessed 2026-09-18: international total MYR 17,600 (registration, tuition, administration and applicable deposit/collateral/convocation; accommodation excluded and optional)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -26,8 +26,8 @@
   "sources": [
     "https://unishams.edu.my/component/content/article/doctor-of-philosophy-in-usuluddin?catid=11"
   ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Usuluddin",
   "program_name_zh": "哲学博士 in Usuluddin",
   "field_ar": "الدراسات الإسلامية",

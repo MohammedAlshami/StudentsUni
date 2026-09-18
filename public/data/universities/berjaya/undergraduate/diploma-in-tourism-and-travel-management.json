@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 10000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: no international student fee is published on Berjaya University College's official programme pages (berjaya.edu.my/university, accessed 2026-09-18); fee details provided on enquiry."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -34,8 +34,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Tourism and Travel Management",
   "program_name_zh": "Tourism and Travel Management文凭",
   "field_ar": "السياحة",

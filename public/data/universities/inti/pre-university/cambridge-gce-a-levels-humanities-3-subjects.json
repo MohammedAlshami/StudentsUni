@@ -9,15 +9,14 @@
   "mode": "Full-time",
   "study_type": "Full-time Study",
   "intakes": [
-    "Aug",
     "Jan",
-    "Jun"
+    "Jul"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": 31500,
+    "per_year": 21000,
+    "notes": "International student fee (published, exclusive of 6% SST) per official INTI Cambridge A Level page https://newinti.edu.my/programme/cambridge-a-level-cal/ (INTI International College Subang), fetched 2026-09-18. per_year computed over 1.5yr."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,10 +27,15 @@
   "faculty": "Pre-University",
   "exam_body": "Cambridge Assessment International Education",
   "sources": [
-    "https://studymalaysia.com/what/course/INTI/0005188/"
+    "https://studymalaysia.com/what/course/INTI/0005188/",
+    {
+      "url": "https://newinti.edu.my/programme/cambridge-a-level-cal/",
+      "publisher": "INTI International University",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Cambridge GCE A Levels (Humanities) [3 Subjects]",
   "program_name_zh": "Cambridge GCE A Levels (Humanities) [3 Subjects]",
   "field_ar": "تقنية المعلومات",

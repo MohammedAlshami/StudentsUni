@@ -5,16 +5,16 @@
   "program_name": "Master in Semiconductor Technology",
   "program_slug": "master-semiconductor-technology",
   "field": "Engineering",
-  "duration": "2 years",
+  "duration": "1.5 years",
   "mode": "Full-time",
   "intakes": [
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": 45000,
+    "per_year": 30000,
+    "notes": "International tuition AY2026: RM30,000/year, RM45,000 total (1.5 years); excludes administrative fees and 6% SST. Source: https://www.xmu.edu.my/admissions/tuition-fees (last updated 27 Nov 2025; accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -22,10 +22,15 @@
   },
   "accreditation": "MQA",
   "sources": [
-    "https://www.xmu.edu.my/postgraduate-programmes"
+    "https://www.xmu.edu.my/postgraduate-programmes",
+    {
+      "url": "https://www.xmu.edu.my/admissions/tuition-fees",
+      "publisher": "Xiamen University Malaysia",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.95,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Semiconductor Technology",
   "program_name_zh": "Semiconductor Technology硕士",
   "field_ar": "الهندسة",

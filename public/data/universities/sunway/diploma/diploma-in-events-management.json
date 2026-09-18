@@ -6,18 +6,18 @@
   "program_slug": "diploma-in-events-management",
   "field": "Business Management & Administration",
   "faculty": null,
-  "duration": "2 years",
+  "duration": "2 Years",
   "mode": "Full-time",
   "intakes": [
+    "Feb",
     "Apr",
-    "Sep",
-    "Feb"
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 29920,
-    "per_year": 13835,
-    "notes": "Fee: FromRM38,200.00 (per_year based on 2.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 7058,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 7,058 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -44,10 +44,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/diploma-in-events-management-226386/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/school-of-hospitality-and-tourism-management/courses/diploma-events-management",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Events Management",
   "program_name_zh": "Events Management文凭",
   "field_ar": "إدارة الأعمال",

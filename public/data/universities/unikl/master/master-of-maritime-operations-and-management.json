@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme"
+    "total": 32250,
+    "per_year": null,
+    "notes": "Official international tuition: RM10,750/semester, RM32,250 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-maritime-operations-and-management/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -31,7 +31,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Maritime Operations and Management",
   "program_name_zh": "Maritime Operations and Management硕士",
   "field_ar": "تقنية المعلومات",

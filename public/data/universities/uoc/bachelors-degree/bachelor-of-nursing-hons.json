@@ -8,14 +8,14 @@
   "duration": "4 years",
   "mode": "Full-time",
   "intakes": [
-    "Oct",
-    "Mar"
+    "March",
+    "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 20175,
-    "per_year": 5910,
-    "notes": "Estimated total fees (local) for full course duration"
+    "total": 90600,
+    "per_year": null,
+    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -40,10 +40,15 @@
       "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+      "publisher": "University of Cyberjaya",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Nursing (Hons)",
   "program_name_zh": "Nursing (Hons)学士",
   "field_ar": "الطب",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 8116,
-    "per_year": 2560,
-    "notes": "From EasyUni (per_year based on 2.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Lincoln University College does not publish tuition fees; the official programme page directs fee enquiries to admission@lincoln.edu.my. International fee unverified. Source: https://www.lincoln.edu.my/diploma-in-business-administration/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -39,10 +39,11 @@
       "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/diploma-in-business-administration-odl-293913/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.lincoln.edu.my/diploma-in-business-administration/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Business Administration",
   "program_name_zh": "Business Administration文凭",
   "field_ar": "إدارة الأعمال",

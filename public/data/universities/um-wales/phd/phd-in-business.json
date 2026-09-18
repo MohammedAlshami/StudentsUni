@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 53710,
-    "per_year": 15156,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": 56933,
+    "per_year": 18978,
+    "notes": "International student total per official UM-Wales fee schedule https://www.umwales.edu.my/admissions/fees/, fetched 2026-09-18. per_year computed over 3.0yr."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -28,10 +28,15 @@
       "url": "https://www.easyuni.my/malaysia/university-of-malaya-wales-11602/doctor-of-philosophy-business-289304/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.umwales.edu.my/admissions/fees/",
+      "publisher": "UM-Wales",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "phd-in-business",
   "program_name_ar": "Ph.D in Business",
   "program_name_zh": "Ph.D in Business",

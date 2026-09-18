@@ -5,7 +5,7 @@
   "program_name": "Bachelor of Science (Hons) in Petroleum Geoscience",
   "slug": "petroleum-geoscience",
   "field": "Science",
-  "duration": "3.5 years",
+  "duration": "3 years 4 months",
   "mode": "full-time",
   "intakes": [
     "january",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 65999,
-    "per_year": 18857,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.5yr duration)"
+    "total": 142700,
+    "per_year": null,
+    "notes": "International total tuition for the entire programme per UTP official international undergraduate tuition page (excludes registration RM11,000 and EMGS ~RM3,500/year). Source: https://www.utp.edu.my/Pages/Admission/Undergraduate/International/Tuition-fees.aspx (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -37,10 +37,15 @@
     "https://www.utp.edu.my",
     "https://www.studymalaysia.com/edu/utp/courses/",
     "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx",
-    "https://www.utp.edu.my/Academic/Faculties/Faculty-of-Science-Management-Computing/Department-of-Geoscience/Programme.aspx"
+    "https://www.utp.edu.my/Academic/Faculties/Faculty-of-Science-Management-Computing/Department-of-Geoscience/Programme.aspx",
+    {
+      "url": "https://www.utp.edu.my/Pages/Admission/Undergraduate/International/Tuition-fees.aspx",
+      "publisher": "Universiti Teknologi PETRONAS",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Hons) in Petroleum Geoscience",
   "program_name_zh": "Science (Hons) in Petroleum Geoscience学士",
   "field_ar": "العلوم",

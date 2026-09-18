@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 42000,
-    "per_year": 14000,
-    "notes": ""
+    "total": null,
+    "per_year": 21900,
+    "notes": "UNIMY official fee structures page (https://www.unimy.edu.my/fee-structures/), accessed 2026-09-18: international student fee MYR 21,900 per year."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -27,8 +27,8 @@
   "sources": [
     "https://www.studymalaysia.com/edu/unimy/courses/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "slug": "bachelor-of-business-administration-management-information-systems-hons",
   "program_name_ar": "بكالوريوس Business Administration (Management Information Systems) (Hons)",
   "program_name_zh": "Business Administration (Management Information Systems) (Hons)学士",

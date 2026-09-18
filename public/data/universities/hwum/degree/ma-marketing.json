@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 128544,
-    "per_year": 36560,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed in official HWUM 2026/27 international fee schedule; closest listed programme is MA (Hons) International Business Management with Marketing (RM49,046.20/yr). Verify programme status. No fee verified."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -33,10 +33,15 @@
       "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/ma-hons-marketing-274681/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
+      "publisher": "Heriot-Watt University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير arketing",
   "program_name_zh": "arketing硕士"
 }

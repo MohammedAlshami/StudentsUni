@@ -12,17 +12,22 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 33000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": 21000,
+    "per_year": null,
+    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
   },
   "requirements": null,
   "accreditation": null,
   "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058807/"
+    "https://studymalaysia.com/what/course/CUCMS/0058807/",
+    {
+      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+      "publisher": "University of Cyberjaya",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration (Open & Distance Learning)",
   "program_name_zh": "Business Administration (Open & Distance Learning)硕士",
   "field_ar": "إدارة الأعمال",

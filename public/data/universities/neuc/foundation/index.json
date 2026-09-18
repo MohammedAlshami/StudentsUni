@@ -94,10 +94,10 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 12000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 12000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1yr duration)"
+    "notes": "NEUC publishes a single fee schedule (no local/international split): foundation RM11,700; diplomas RM23,200-RM38,000; bachelors RM39,700-RM48,500; masters RM12,200-RM18,200; PhD RM18,200-RM19,200. Source: https://www.newera.edu.my/enrolment.php?id=142 (checked 2026-09-18)."
   }
 }

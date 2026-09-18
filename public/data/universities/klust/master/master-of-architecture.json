@@ -10,9 +10,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 39000,
-    "per_year": 19500,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "general": "Any one of these: Bachelor of Science in Architectural Studies from IUKL (equivalent to LAM Part 1) with a minimum CGPA of 2.70 and 6 months of industrial training in a related field. Bachelor’s Degree in a related field (equivalent to LAM Part 1) from a recognized institution with a CGPA of 2.70, 6 months of industrial training, and a portfolio review/interview by the admission panel. - Other equivalent qualifications recognized by the Government of Malaysia. English Language Requirements Local Applicants:  MUET Band 2 OR UEC English B4. International Applicants: minimum TOEFL 550 or IELTS 6.0 or Grade C in O-level English or have obtained a degree with English being the medium of instruction  "
@@ -26,10 +26,15 @@
       "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/master-of-architecture-293232/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://klust.edu.my/admissions/international-students/",
+      "publisher": "klust",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Architecture",
   "program_name_zh": "Architecture硕士"
 }

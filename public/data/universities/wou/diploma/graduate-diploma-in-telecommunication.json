@@ -7,15 +7,15 @@
   "duration": "3 Years",
   "mode": "Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 10000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed on WOU official programme pages as of 2026-09-18; no verified fee (programme may be discontinued or not currently offered). Previous figure was an unverified estimate."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,8 +26,8 @@
   "sources": [
     "https://www.studymalaysia.com/edu/wou/courses/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "slug": "graduate-diploma-in-telecommunication",
   "program_name_ar": "Graduate Diploma in Telecommunication",
   "program_name_zh": "Graduate Diploma in Telecommunication",

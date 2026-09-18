@@ -12,10 +12,10 @@
     "Jun"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 45000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": 5750,
+    "per_year": null,
+    "notes": "International fee: US$5,750 total (3 years, 3 instalments); excludes SST/EMGS/visa fees. Source: https://globalnxt.edu.my/tuition-fees (updated 11 Nov 2025; accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -32,10 +32,15 @@
     {
       "url": "https://www.globalnxt.edu.my",
       "type": "official"
+    },
+    {
+      "url": "https://globalnxt.edu.my/tuition-fees",
+      "publisher": "GlobalNxt University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Management (Honours)",
   "program_name_zh": "Business Management (Honours)学士",
   "field_ar": "إدارة الأعمال",

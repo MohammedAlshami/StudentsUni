@@ -6,18 +6,18 @@
   "program_slug": "master-in-international-hospitality-management",
   "field": "Hospitality & Tourism",
   "faculty": null,
-  "duration": "1 year",
+  "duration": "1 Year",
   "mode": "Full-time",
   "intakes": [
+    "Feb",
     "Apr",
-    "Sep",
-    "Feb"
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 52150,
-    "per_year": 49900,
-    "notes": "Fee: FromRM45,000.00 (per_year based on 1.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 12128,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 12,128 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -42,10 +42,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/master-in-international-hospitality-management-293471/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/school-of-hospitality-and-tourism-management/courses/master-international-hospitality-management",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير International Hospitality Management",
   "program_name_zh": "International Hospitality Management硕士",
   "field_ar": "تقنية المعلومات",

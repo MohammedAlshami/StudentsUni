@@ -8,15 +8,15 @@
   "duration": "2 Yrs",
   "mode": "Open and Distance Learning (ODL)",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 22120,
-    "per_year": 11060,
-    "notes": "Local: 22,120/Course (per_year based on 2.0yr duration)"
+    "currency": "MYR",
+    "total": 26560,
+    "per_year": null,
+    "notes": "OUM official International Admission fee table (2026): total RM26,560 (subject fees; excludes one-off registration fee of RM3,150 Diploma / RM3,650 Bachelor / RM4,150 Master / RM4,650 PhD-Doctorate, and excludes 6% SST imposed on international learners from 1 Jul 2025). Source: https://www.oum.edu.my/international-admission/ (international fee schedule), fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,15 @@
       "url": "https://studymalaysia.com/edu/oum/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.oum.edu.my/international-admission/",
+      "publisher": "Open University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Project Management",
   "program_name_zh": "Project Management硕士",
   "field_ar": "إدارة الأعمال",

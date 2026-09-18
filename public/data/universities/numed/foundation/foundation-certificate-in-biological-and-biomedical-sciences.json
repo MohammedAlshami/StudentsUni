@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33787,
-    "per_year": 27580,
-    "notes": "RM26,000 for the 12 month programme (per_year based on 1.0yr duration)"
+    "total": 37371.36,
+    "per_year": null,
+    "notes": "Official international tuition for 2026 entry: RM37,371.36 for the full 1-year programme (RM35,256 base + 6% SST RM2,115.36). Source: https://www.ncl.ac.uk/numed/students/finance/tuition-fees/ (accessed 2026-09-18); see also https://www.ncl.ac.uk/numed/study-with-us/international-students/courses-and-fees/."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -51,10 +51,12 @@
       "url": "https://www.easyuni.my/malaysia/newcastle-university-medicine-malaysia-numed-malaysia-10227/foundation-in-biological-and-biomedical-sciences-279729/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.ncl.ac.uk/numed/students/finance/tuition-fees/",
+    "https://www.ncl.ac.uk/numed/study-with-us/international-students/courses-and-fees/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Foundation Certificate in Biological and Biomedical Sciences",
   "program_name_zh": "Foundation Certificate in Biological and Biomedical Sciences",
   "field_ar": "تقنية المعلومات",

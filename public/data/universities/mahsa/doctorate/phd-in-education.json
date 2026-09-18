@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 20084,
-    "per_year": 3844,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: MAHSA University does not publish international tuition fees on its public programme pages (fee sections are disabled) and mahsa.edu.my blocked automated access on 2026-09-18; fee schedule issued with offer."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -34,8 +34,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة",
   "program_name_zh": "哲学博士",
   "field_ar": "التربية والتعليم",

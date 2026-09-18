@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "First City University College does not publish programme fees on its official website (admissions/programme pages and brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://firstcity.edu.my/admissions/"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,7 +28,7 @@
     "https://www.firstcity.edu.my/programmes"
   ],
   "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Mass Communication",
   "program_name_zh": "Mass Communication文凭",
   "field_ar": "الاتصالات",

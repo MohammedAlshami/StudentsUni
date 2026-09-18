@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -28,10 +28,11 @@
   },
   "sources": [
     "https://www.aimst.edu.my/academic/master-of-science-in-management/",
-    "https://www.studymalaysia.com/what/course/AIMST/0005513/"
+    "https://www.studymalaysia.com/what/course/AIMST/0005513/",
+    "https://aimst.edu.my/international-students/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Management",
   "program_name_zh": "Science in Management硕士",
   "field_ar": "إدارة",

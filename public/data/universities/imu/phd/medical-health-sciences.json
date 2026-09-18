@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 11800,
-    "per_year": 3250,
-    "notes": "From EasyUni (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "International student tuition per official IMU programme page https://imu.edu.my/academics/postgraduates/medical-and-health-sciences-msc-phd/, fetched 2026-09-18. International: MSc RM22,600 total (RM11,300/semester) plus RM2,100 exam fee; PhD RM88,800 total (RM14,800/semester) plus RM2,600 exam fee. Combined MSc/PhD record, so no single total asserted."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -34,10 +34,15 @@
       "url": "https://www.easyuni.my/malaysia/international-medical-university-imu-10211/phd-medical-health-sciences-243120/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://imu.edu.my/academics/postgraduates/medical-and-health-sciences-msc-phd/",
+      "publisher": "IMU University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Medical & Health Sciences (MSc/PhD)",
   "program_name_zh": "Medical & Health Sciences (MSc/PhD)",
   "field_ar": "العلوم",

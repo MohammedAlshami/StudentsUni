@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 17000,
+    "per_year": null,
+    "notes": "Official international tuition: RM8,500/semester, RM17,000 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/foundation-in-business/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -33,10 +33,11 @@
       "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/foundation-in-business-274644/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.unikl.edu.my/programme/foundation-in-business/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Business",
   "program_name_zh": "Business预科",
   "field_ar": "إدارة الأعمال",

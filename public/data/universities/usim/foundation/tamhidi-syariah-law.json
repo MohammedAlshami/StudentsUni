@@ -14,9 +14,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 3000,
-    "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 17360,
+    "per_year": null,
+    "notes": "USIM Tamhidi Pre-University official international fee structure 2026/2027: RM8,680 tuition & accommodation per semester x 2 semesters = RM17,360, plus one-off registration fee RM1,220 (1st semester only). Source: USIM Tamhidi International Admission Guide 2026/2027 (https://flip.usim.edu.my/admission/tamhidi/international-admission-guide-2026-2027/), fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -35,10 +35,15 @@
   ],
   "sources": [
     "https://www.studymalaysia.com/what/course/USIM/0001258/",
-    "https://admission.usim.edu.my/tamhidi/"
+    "https://admission.usim.edu.my/tamhidi/",
+    {
+      "url": "https://flip.usim.edu.my/admission/tamhidi/international-admission-guide-2026-2027/",
+      "publisher": "USIM",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Tamhidi (Foundation Studies) for Syariah & Law",
   "program_name_zh": "Tamhidi (Foundation Studies) for Syariah & Law",
   "field_ar": "القانون",

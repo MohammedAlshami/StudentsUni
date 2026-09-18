@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: binary.edu.my was not publicly accessible (Cloudflare bot protection) on 2026-09-18, so no official fee could be checked. Previous estimated value removed."
   },
   "requirements": {
     "previous_education": "O Levels with minimum 5 credits"
@@ -30,10 +30,15 @@
       "url": "https://web.archive.org/web/20231209170826/https://binary.edu.my/bbs/",
       "publisher": "official",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://binary.edu.my/",
+      "publisher": "binary",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Foundation Degree in Arts (FDA)",
   "program_name_zh": "Foundation Degree in Arts (FDA)",
   "field_ar": "general",

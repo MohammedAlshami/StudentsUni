@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 28000,
-    "per_year": 14000,
-    "notes": ""
+    "total": 35000,
+    "per_year": 17500,
+    "notes": "International fee RM35,000 per official RUMC fees page https://www.rumc.edu.my/fees/ and programme page https://www.rumc.edu.my/programmes/master-of-science-in-occupational-therapy/, fetched 2026-09-18. per_year computed over 2yr programme duration."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -22,10 +22,15 @@
   },
   "accreditation": "N/0915/7/0009 (MOA/PA 18398) (06/30)",
   "sources": [
-    "https://www.rumc.edu.my/programmes/master-of-science-in-occupational-therapy/"
+    "https://www.rumc.edu.my/programmes/master-of-science-in-occupational-therapy/",
+    {
+      "url": "https://www.rumc.edu.my/fees/",
+      "publisher": "RUMC",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Occupational Therapy",
   "program_name_zh": "Science in Occupational Therapy硕士",
   "field_ar": "العلاج الوظيفي",

@@ -9,16 +9,21 @@
   "mode": "Open and Distance Learning (ODL)",
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 45000,
-    "notes": "Estimated ~RM30000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: HELP University publishes only a Malaysian-student fee summary (2026 HELP University Programme Fees Summary, July 2026, 2026-09-18); no public international-student fee schedule exists. International applicants are directed to contact HELP. Previous third-party/estimated value removed."
   },
   "sources": [
     "https://studymalaysia.com/what/course/HELP/0059085/",
-    "https://www.help.edu.my"
+    "https://www.help.edu.my",
+    {
+      "url": "https://university.help.edu.my/brochures/",
+      "publisher": "help",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "intakes": [
     "Modular"
   ],

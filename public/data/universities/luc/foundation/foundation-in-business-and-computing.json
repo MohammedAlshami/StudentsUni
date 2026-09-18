@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 12000,
-    "per_year": 12000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Lincoln University College does not publish tuition fees; the official programme page directs fee enquiries to admission@lincoln.edu.my. International fee unverified. Source: https://www.lincoln.edu.my/foundation-in-business-and-computing/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -23,10 +23,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.lincoln.edu.my/school-of-business-management/"
+    "https://www.lincoln.edu.my/school-of-business-management/",
+    "https://www.lincoln.edu.my/foundation-in-business-and-computing/"
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Business and Computing",
   "program_name_zh": "Business and Computing预科",
   "field_ar": "إدارة الأعمال",

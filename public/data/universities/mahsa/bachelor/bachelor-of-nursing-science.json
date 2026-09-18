@@ -9,9 +9,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 83300,
-    "per_year": 22542,
-    "notes": " (per_year based on 3.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: MAHSA University does not publish international tuition fees on its public programme pages (fee sections are disabled) and mahsa.edu.my blocked automated access on 2026-09-18; fee schedule issued with offer."
   },
   "requirements": {
     "general": "Any one of these: Pass Matriculation/Pre-University/STPM or equivalent with minimum GPA 2.33 in TWO of the following subjects: Biology, Physics/Mathematics &amp; Chemistry Pass A-level or equivalent with minimum Grade D in TWO of the following subjects; Biology, Physics/Mathematics &amp; Chemistry Pass Diploma (Level 4 MQF) with minimum CGPA of 2.75 in related field Pass Diploma (Level 4 MQF) with CGPA less than 2.75 in related field and a minimum of 3 years working experience in the related field Other recognized qualification of equivalence English Proficiency Requirements: Local Students: MUET Band 3/IELTS (5.5)/TOEFL (550) International students: TOEFL (550)/IELTS (5.5) or equivalent"
@@ -27,8 +27,8 @@
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Sport Science (Honours)",
   "program_name_zh": "Sport Science (Honours)学士"
 }

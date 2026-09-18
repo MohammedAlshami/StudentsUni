@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19000,
-    "per_year": 19000,
-    "notes": ""
+    "total": null,
+    "per_year": null,
+    "notes": "International foundation fee RM38,000 per semester (2025) per official UNM foundation fee page; programme has 2-3 semesters depending on pathway, per-year total not published. Source: https://www.nottingham.edu.my/Applications/Fees/FD.aspx (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,10 +26,15 @@
       "url": "https://www.nottingham.edu.my/Study/fixed-tuition-fees/index.aspx",
       "publisher": "University of Nottingham Malaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.nottingham.edu.my/Applications/Fees/FD.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "foundation-in-business-and-management",
   "program_name_ar": "تأسيس Business & Management",
   "program_name_zh": "Business & Management预科",

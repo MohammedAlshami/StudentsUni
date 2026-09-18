@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": 29640,
+    "per_year": null,
+    "notes": "Official international tuition: RM29,640 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-quality-engineering-and-management/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -22,10 +22,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/"
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    "https://www.unikl.edu.my/programme/master-of-quality-engineering-and-management/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Quality Engineering and Management",
   "program_name_zh": "Quality Engineering and Management硕士",
   "field_ar": "الهندسة",

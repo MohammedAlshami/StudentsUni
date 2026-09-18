@@ -5,7 +5,7 @@
   "program_name": "Doctor of Philosophy (Education)",
   "program_slug": "doctor-of-philosophy-education",
   "field": "education",
-  "duration": "3 years",
+  "duration": "3-6 years",
   "mode": "Full-time",
   "intakes": [
     "January",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 54000,
-    "per_year": 18000,
-    "notes": "Estimated ~RM18000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 19200,
+    "per_year": null,
+    "notes": "Official NEUC total fee RM19,200 (tuition + miscellaneous + application as per official schedule). No separate international rate published. Official NEUC 'Tuition Fees & Miscellaneous Fees' schedule. Total = tuition + miscellaneous + application fee as published; NEUC does not publish separate local/international rates. Source: https://www.newera.edu.my/enrolment.php?id=142 (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -31,10 +31,11 @@
       "url": "https://www.newera.edu.my/gs.php",
       "publisher": "official",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.newera.edu.my/enrolment.php?id=142"
   ],
-  "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Education)",
   "program_name_zh": "哲学博士 (Education)",
   "field_ar": "التربية والتعليم",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22998,
-    "per_year": 7666,
-    "notes": ""
+    "total": null,
+    "per_year": 16000,
+    "notes": "UNIMY official fee structures page (https://www.unimy.edu.my/fee-structures/), accessed 2026-09-18: international student fee MYR 16,000 per year."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,8 +26,8 @@
   "sources": [
     "https://www.studymalaysia.com/edu/unimy/courses/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "slug": "diploma-in-information-technology",
   "program_name_ar": "دبلوم Information Technology",
   "program_name_zh": "Information Technology文凭",

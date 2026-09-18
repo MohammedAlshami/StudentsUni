@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 11362,
-    "per_year": 6000,
-    "notes": "From EasyUni (per_year based on 2.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Lincoln University College does not publish tuition fees; the official programme page directs fee enquiries to admission@lincoln.edu.my. International fee unverified. Source: https://www.lincoln.edu.my/bachelor-of-business-administration-in-airline-and-airport-management/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -34,10 +34,11 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.lincoln.edu.my/bachelor-of-business-administration-in-airline-and-airport-management/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Administration in Airline and Airport Management",
   "program_name_zh": "Business Administration in Airline and Airport Management学士",
   "field_ar": "إدارة الأعمال",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 27667,
-    "per_year": 8089,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": 68900,
+    "per_year": 22967,
+    "notes": "International student total per official UM-Wales fee schedule https://www.umwales.edu.my/admissions/fees/, fetched 2026-09-18. per_year computed over 3.0yr."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -35,10 +35,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.umwales.edu.my/admissions/fees/",
+      "publisher": "UM-Wales",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "bachelor-of-business-administration-hons-in-human-resource-management",
   "program_name_ar": "بكالوريوس Business Administration (Hons) in Human Resource Management",
   "program_name_zh": "Business Administration (Hons) in Human Resource Management学士",

@@ -8,15 +8,16 @@
   "duration": "1 year",
   "mode": "Onsite",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Jul",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33360,
-    "per_year": 27132,
-    "notes": " (per_year based on 1.0yr duration)"
+    "total": 39718.2,
+    "per_year": 39718.2,
+    "notes": "Foundation total RM39,718.20 (3 semesters). Official 2026/27 international fee incl. 6% SST. Source: https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees and Fee-International.pdf (as of Jan 2026), fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -32,10 +33,15 @@
       "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/foundation-in-science-269980/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
+      "publisher": "Heriot-Watt University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Science",
   "program_name_zh": "Science预科"
 }

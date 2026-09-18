@@ -8,15 +8,14 @@
   "duration": "4 years",
   "mode": "Onsite",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 216000,
-    "per_year": 45000,
-    "notes": " (per_year based on 4.0yr duration)"
+    "total": 238118.4,
+    "per_year": 59529.6,
+    "notes": "RM59,529.60/year; RM238,118.40 total (4 years). Official 2026/27 international fee incl. 6% SST. Source: https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees and Fee-International.pdf (as of Jan 2026), fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -33,10 +32,15 @@
       "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/meng-hons-civil-engineering-273721/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
+      "publisher": "Heriot-Watt University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "MEng (Hons) Civil Engineering",
   "program_name_zh": "MEng (Hons) Civil Engineering"
 }

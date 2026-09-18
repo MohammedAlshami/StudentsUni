@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 9471,
-    "per_year": 4166,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Lincoln University College does not publish tuition fees; the official programme page directs fee enquiries to admission@lincoln.edu.my. International fee unverified. Source: https://www.lincoln.edu.my/bachelor-hons-in-business-administration/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -40,10 +40,11 @@
       "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/bachelor-hons-in-business-administration-293902/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.lincoln.edu.my/bachelor-hons-in-business-administration/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Bachelor (Hons) in Business Administration",
   "program_name_zh": "Bachelor (Hons) in Business Administration",
   "field_ar": "إدارة الأعمال",

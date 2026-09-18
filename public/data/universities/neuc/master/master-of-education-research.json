@@ -5,7 +5,7 @@
   "program_name": "Master of Education (Research)",
   "program_slug": "master-of-education-research",
   "field": "education",
-  "duration": "1.5 years",
+  "duration": "2-4 years",
   "mode": "Full-time",
   "intakes": [
     "January",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 24000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": 12200,
+    "per_year": null,
+    "notes": "Official NEUC total fee RM12,200 (tuition + miscellaneous + application as per official schedule). No separate international rate published. Official NEUC 'Tuition Fees & Miscellaneous Fees' schedule. Total = tuition + miscellaneous + application fee as published; NEUC does not publish separate local/international rates. Source: https://www.newera.edu.my/enrolment.php?id=142 (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -31,10 +31,11 @@
       "url": "https://www.newera.edu.my/gs.php",
       "publisher": "official",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.newera.edu.my/enrolment.php?id=142"
   ],
-  "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Education (Research)",
   "program_name_zh": "Education (Research)硕士",
   "field_ar": "التربية والتعليم",

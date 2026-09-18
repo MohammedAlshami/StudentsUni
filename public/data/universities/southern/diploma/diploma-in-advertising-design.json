@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 12000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    "total": 40500,
+    "per_year": null,
+    "notes": "Southern University College official '2022 Programme Fees for International Students', revised 27/01/2022 (https://www.southern.edu.my/assets/2022-international-student-program-fees_27012022.pdf; retrieved via Internet Archive snapshot https://web.archive.org/web/20220204113525/https://www.southern.edu.my/assets/2022-international-student-program-fees_27012022.pdf), accessed 2026-09-18: international total MYR 40,500 (tuition & misc fees + other charges)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -27,8 +27,8 @@
   "sources": [
     "https://www.southern.edu.my/faculty-of-art-design/"
   ],
-  "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Advertising Design",
   "program_name_zh": "Advertising Design文凭",
   "field_ar": "التصميم",

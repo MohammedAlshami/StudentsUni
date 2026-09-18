@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": null,
+    "per_year": 6720,
+    "notes": "Official international tuition: RM3,360/semester, RM6,720/year; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-information-technology/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -26,7 +26,7 @@
     "https://www.unikl.edu.my/programme/master-of-information-technology/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Information Technology",
   "program_name_zh": "Information Technology硕士",
   "field_ar": "تقنية المعلومات",

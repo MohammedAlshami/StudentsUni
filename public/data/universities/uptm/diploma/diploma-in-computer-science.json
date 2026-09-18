@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 12000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    "total": 22000,
+    "per_year": null,
+    "notes": "Official UPTM international fee: RM22,000 total programme fee. Official UPTM programme page fee tab (Local / International figures as published). Source: https://www.uptm.edu.my/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,10 +28,11 @@
       "url": "https://www.uptm.edu.my/index.php/academics/programmes/diploma-programmes",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
-    }
+    },
+    "https://www.uptm.edu.my/index.php/academics/programmes/degree-programmes"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Computer Science",
   "program_name_zh": "Computer Science文凭",
   "field_ar": "Computing",

@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 11000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 6.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: QIU does not publish programme fees; official programme pages state fees/funding are by enquiry (https://qiu.edu.my/programmes/, checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -24,10 +24,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://studymalaysia.com/what/course/QIU/0059073/"
+    "https://studymalaysia.com/what/course/QIU/0059073/",
+    {
+      "url": "https://qiu.edu.my/programmes/",
+      "publisher": "qiu",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Computing",
   "program_name_zh": "哲学博士 in Computing",
   "field_ar": "تقنية المعلومات",

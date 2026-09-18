@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 58250,
-    "per_year": 14000,
-    "notes": "From EasyUni (per_year based on 4.0yr duration)"
+    "total": 240000,
+    "per_year": 60000,
+    "notes": "International student tuition per official IMU programme page https://imu.edu.my/academics/undergraduate/pharmacy/, fetched 2026-09-18. Total RM240,000 (8 semesters, RM30,000/semester)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -38,10 +38,15 @@
       "url": "https://www.easyuni.my/malaysia/international-medical-university-imu-10211/bachelor-of-pharmacy-hons-243114/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://imu.edu.my/academics/undergraduate/pharmacy/",
+      "publisher": "IMU University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Pharmacy",
   "program_name_zh": "Pharmacy",
   "field_ar": "الصيدلة",

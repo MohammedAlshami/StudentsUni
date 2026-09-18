@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 75000,
-    "per_year": 25000,
-    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": 5500,
+    "notes": "Official international tuition: RM2,750/semester, RM5,500/year; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/doctor-of-philosophy-information-technology/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -26,7 +26,7 @@
     "https://www.unikl.edu.my/programme/doctor-of-philosophy-information-technology/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Information Technology)",
   "program_name_zh": "哲学博士 (Information Technology)",
   "field_ar": "تقنية المعلومات",

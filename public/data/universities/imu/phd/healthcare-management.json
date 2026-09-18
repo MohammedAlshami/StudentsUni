@@ -8,9 +8,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 84300,
-    "per_year": 14400,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": 88800,
+    "per_year": 29600,
+    "notes": "International student tuition per official IMU programme page https://imu.edu.my/academics/postgraduates/healthcare-management/, fetched 2026-09-18. Total RM88,800 (RM14,800/semester)."
   },
   "requirements": {
     "general": "Academic Requirements: Master’s Degree in relevant field that accepted by the University’s Senate; or Other qualifications equivalent to a Master’s degree accepted by the University’s Senate; or First Class Honour Degree in a relevant field that is accepted by the University’s Senate (direct entry). English Proficiency Requirements: For International Students IELTS : Band score 6.0; or TOEFL (iBT): Overall score of 60; or Cambridge English : Advanced (CAE) : Overall score of 169; or Cambridge English : Proficiency (CPE) : Overall score of 169; or Cambridge Linguaskill : Overall score of 169; or Pearson Test of English (PTE) : Overall score of 59; The following categories of students are exempted from the above requirements: International students from countries in which English is the first language. International students who graduated from any Malaysian or other institutions where the curriculum is delivered in English."
@@ -24,10 +24,15 @@
       "url": "https://www.easyuni.my/malaysia/international-medical-university-imu-10211/phd-in-healthcare-management-294106/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://imu.edu.my/academics/postgraduates/healthcare-management/",
+      "publisher": "IMU University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة Management",
   "program_name_zh": "哲学博士 Management"
 }

@@ -14,8 +14,8 @@
   "fees": {
     "currency": "MYR",
     "total": 59000,
-    "per_year": "RM29,500",
-    "notes": null
+    "per_year": 29500,
+    "notes": "Official Curtin Malaysia 2026 international fee: RM29,500/year (full-time 200 credits). Total = RM29,500 x 2 years (derived). Excludes 6% SST applicable to international students from 1 Jul 2025. Official Curtin Malaysia indicative course fees, 2026 intake (International column); page updated 12 Aug 2026. Source: https://curtin.edu.my/study/fee/course-fees/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,10 +28,11 @@
   },
   "sources": [
     "https://www.curtin.edu.my/study/diploma/diploma-commerce/",
-    "https://curtin.edu.my/study/fees-and-scholarships/course-fees/"
+    "https://curtin.edu.my/study/fees-and-scholarships/course-fees/",
+    "https://curtin.edu.my/study/fee/course-fees/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Commerce",
   "program_name_zh": "Commerce文凭",
   "field_ar": "إدارة الأعمال",

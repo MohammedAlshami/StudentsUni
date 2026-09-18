@@ -19,13 +19,13 @@
   "sources": [
     "https://www.studymalaysia.com/edu/umk/courses/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 1400,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 1400,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM700/semester for public university (subsidized) (per_year based on 1yr duration)"
+    "notes": "Official UMK international undergraduate/foundation tuition is not published online; local 2022/2023 schedule lists RM77/credit hour (typically RM9,240 total). Enquiries: umki@umk.edu.my (checked 2026-09-18)."
   }
 }

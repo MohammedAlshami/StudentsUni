@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme"
+    "total": 39000,
+    "per_year": null,
+    "notes": "Raffles University official programme page (https://raffles-university.edu.my/programme/foundation-in-business/), accessed 2026-09-18: international student total fee MYR 39,000 (application + admission + administration + indicative tuition); subject to 6% SST."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -31,8 +31,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Business",
   "program_name_zh": "Business预科",
   "field_ar": "إدارة الأعمال",

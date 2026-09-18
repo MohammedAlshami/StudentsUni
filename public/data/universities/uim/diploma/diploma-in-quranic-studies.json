@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 39999,
-    "per_year": 13333,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: no international student fee is published on Islamic University of Malaysia's official pages (uim.edu.my/v5, accessed 2026-09-18); fee details provided on enquiry."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -29,8 +29,8 @@
       "fetched_at": "2026-09-15T00:00:00+08:00"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Quranic Studies",
   "program_name_zh": "Quranic Studies文凭",
   "field_ar": "العلوم",

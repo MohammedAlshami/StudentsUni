@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 22998,
-    "per_year": 7666,
-    "notes": ""
+    "total": null,
+    "per_year": null,
+    "notes": "Programme not listed on UNIMY's official fee structures page (https://www.unimy.edu.my/fee-structures/, accessed 2026-09-18); previous estimate removed."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,8 +26,8 @@
   "sources": [
     "https://www.studymalaysia.com/edu/unimy/courses/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "slug": "diploma-in-information-systems-business-computing",
   "program_name_ar": "دبلوم Information Systems (Business Computing)",
   "program_name_zh": "Information Systems (Business Computing)文凭",

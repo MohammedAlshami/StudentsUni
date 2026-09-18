@@ -6,18 +6,18 @@
   "program_slug": "bachelor-of-arts-honours-music-performance",
   "field": "Arts & Design",
   "faculty": null,
-  "duration": "3 years",
+  "duration": "3 Years",
   "mode": "Full-time",
   "intakes": [
+    "Jan",
     "Apr",
-    "Sep",
-    "Jan"
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 40884,
-    "per_year": 12878,
-    "notes": "Fee: FromRM83,700.00 (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 9477,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 9,477 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -39,10 +39,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-arts-and-social-sciences/courses/bachelor-of-arts-honours-music-performance",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Arts (Honours) Music Performance",
   "program_name_zh": "Arts (Honours) Music Performance学士",
   "field_ar": "الفنون",

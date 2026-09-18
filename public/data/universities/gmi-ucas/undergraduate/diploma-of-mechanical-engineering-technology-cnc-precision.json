@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 36000,
-    "per_year": 12000,
-    "notes": "Estimated ~RM12000/year for typical private university programme"
+    "total": 57350,
+    "per_year": null,
+    "notes": "GMI official Programme Guide May 2026, International Diploma fee structure (https://www.gmi.edu.my/wp-content/uploads/2026/05/PROGRAMME-GUIDE-May-2026-rev-02.pdf), accessed 2026-09-18: international total course fee (tuition + misc) MYR 57,350 without hostel, MYR 62,750 with hostel (tuition only MYR 54,000); application processing fee RM500 payable on application."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -30,7 +30,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Mechanical Engineering Technology (CNC Precision)",
   "program_name_zh": "Mechanical Engineering Technology (CNC Precision)文凭",
   "field_ar": "الهندسة الميكانيكية",

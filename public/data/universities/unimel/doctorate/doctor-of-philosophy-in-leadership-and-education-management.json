@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 75000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 5.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: UNIMEL programme brochures linked from the official programme list are image-only PDFs with no extractable fee text and no public HTML fee schedule exists (checked 2026-09-18). Previous estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -30,7 +30,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Leadership and Education Management",
   "program_name_zh": "哲学博士 in Leadership and Education Management",
   "field_ar": "التربية والتعليم",

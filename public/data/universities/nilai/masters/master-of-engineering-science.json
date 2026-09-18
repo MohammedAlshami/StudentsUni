@@ -13,10 +13,10 @@
     "Nov"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 1600.0,
-    "per_year": 533,
-    "notes": "Local: Short semester-RM1600, Long semester-RM3200; International: Short semester-RM1600, Long semester-RM3200 (per_year based on 3.0yr duration)"
+    "currency": "MYR",
+    "total": 5000,
+    "per_year": null,
+    "notes": "Nilai 2023 official international fee structure. Not in Nilai current fee structure; Nilai 2023 official international fee structure (scanned brochure) lists Master of Engineering Science (research) at RM5,000 total (RM1,600/short semester, RM3,200/long semester). Source: https://www.nilai.edu.my/sites/default/files/e-brochure/FEE%20SRUCTURE%20%26%20SCHOLARSHIP%20INTERNATIONAL.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,15 @@
       "url": "https://studymalaysia.com/edu/nilai/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.nilai.edu.my/sites/default/files/e-brochure/FEE%20SRUCTURE%20%26%20SCHOLARSHIP%20INTERNATIONAL.pdf",
+      "publisher": "Nilai University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "medium",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Engineering Science",
   "program_name_zh": "Engineering Science硕士",
   "field_ar": "الهندسة",

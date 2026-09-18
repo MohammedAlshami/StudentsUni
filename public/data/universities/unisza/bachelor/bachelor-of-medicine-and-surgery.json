@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 105000,
-    "per_year": 21000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 371690,
+    "per_year": null,
+    "notes": "Official international tuition fee (whole programme): RM371,690 (recurring RM371,000 + non-recurring RM690); excludes co-curriculum, hostel and industrial-training charges. per_year not stated in source. Source: https://www.unisza.edu.my/wp-content/uploads/2022/Files/INT-INTERNATIONAL-STUDENT-TUITION-FEES-2022.pdf (linked from https://www.unisza.edu.my/student-international/; accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -25,10 +25,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/unisza/courses/"
+    "https://www.studymalaysia.com/edu/unisza/courses/",
+    "https://www.unisza.edu.my/wp-content/uploads/2022/Files/INT-INTERNATIONAL-STUDENT-TUITION-FEES-2022.pdf"
   ],
-  "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medicine and Surgery",
   "program_name_zh": "Medicine and Surgery学士",
   "field_ar": "الطب",

@@ -9,9 +9,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 50000,
-    "per_year": 44000,
-    "notes": " (per_year based on 1.0yr duration)"
+    "total": 54400,
+    "per_year": 54400,
+    "notes": "International student tuition per official IMU programme page https://imu.edu.my/academics/postgraduates/molecular-medicine-msc/, fetched 2026-09-18. Conventional international total RM54,400; ODL variant is RM43,600."
   },
   "requirements": {
     "malaysian": {
@@ -37,10 +37,15 @@
       "url": "https://www.easyuni.my/malaysia/international-medical-university-imu-10211/msc-in-molecular-medicine-243116/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://imu.edu.my/academics/postgraduates/molecular-medicine-msc/",
+      "publisher": "IMU University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير in Molecular Medicine",
   "program_name_zh": "in Molecular Medicine硕士"
 }

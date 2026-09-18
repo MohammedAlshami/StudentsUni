@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 54000,
-    "per_year": 18000,
-    "notes": "Estimated ~RM18000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Lincoln University College does not publish tuition fees; the official programme page directs fee enquiries to admission@lincoln.edu.my. International fee unverified. Source: https://www.lincoln.edu.my/doctor-of-philosophy-in-industrial-management-by-research/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -23,10 +23,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.lincoln.edu.my/school-of-business-management/"
+    "https://www.lincoln.edu.my/school-of-business-management/",
+    "https://www.lincoln.edu.my/doctor-of-philosophy-in-industrial-management-by-research/"
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Industrial Management (By Research)",
   "program_name_zh": "哲学博士 in Industrial Management (By Research)",
   "field_ar": "إدارة الأعمال",

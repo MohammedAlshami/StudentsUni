@@ -4,7 +4,7 @@
   "level": "master",
   "program_name": "Master of Business Administration",
   "field": "Business Administration",
-  "duration": "1.5 years",
+  "duration": "1 year",
   "mode": "ODL",
   "intakes": [
     "Sep",
@@ -12,10 +12,10 @@
     "Jun"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 24000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "currency": "USD",
+    "total": 4950,
+    "per_year": null,
+    "notes": "International fee: US$4,950 total (1 year, 2 instalments); excludes SST/EMGS/visa fees. Source: https://globalnxt.edu.my/tuition-fees (updated 11 Nov 2025; accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -30,10 +30,15 @@
     {
       "url": "https://www.globalnxt.edu.my",
       "type": "official"
+    },
+    {
+      "url": "https://globalnxt.edu.my/tuition-fees",
+      "publisher": "GlobalNxt University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration",
   "program_name_zh": "Business Administration硕士",
   "field_ar": "إدارة الأعمال",

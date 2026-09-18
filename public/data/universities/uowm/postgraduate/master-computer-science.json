@@ -5,18 +5,18 @@
   "program_name": "Master in Computer Science",
   "program_slug": "master-computer-science",
   "field": "Computing & IT",
-  "duration": "2 years",
+  "duration": "2-4 years (Full-Time) / 3-6 years (Part-Time)",
   "mode": "Full-time",
   "intakes": [
-    "Feb",
-    "Jun",
-    "Sep"
+    "January",
+    "June",
+    "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": 46900,
+    "per_year": null,
+    "notes": "International total programme fee per official UOW Malaysia programme page (excludes EMGS and SST). Source: https://www.uow.edu.my/programme/master-in-computer-science/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,10 +24,15 @@
   },
   "accreditation": "MQA",
   "sources": [
-    "https://www.uow.edu.my/programmes"
+    "https://www.uow.edu.my/programmes",
+    {
+      "url": "https://www.uow.edu.my/programme/master-in-computer-science/",
+      "publisher": "UOW Malaysia",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Computer Science",
   "program_name_zh": "Computer Science硕士",
   "field_ar": "تقنية المعلومات",

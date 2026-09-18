@@ -5,18 +5,20 @@
   "program_name": "Diploma in Mass Communication",
   "program_slug": "diploma-mass-communication",
   "field": "Communication & Media",
-  "duration": "2 years",
+  "duration": "2 years 4 months",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Feb",
-    "Jun"
+    "January",
+    "April",
+    "June",
+    "September",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 29285,
-    "per_year": 11952,
-    "notes": "From EasyUni (per_year based on 2.0yr duration)"
+    "total": 56250,
+    "per_year": null,
+    "notes": "International total programme fee per official UOW Malaysia programme page (excludes EMGS and SST). Source: https://www.uow.edu.my/programme/diploma-in-mass-communication/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -34,10 +36,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.uow.edu.my/programme/diploma-in-mass-communication/",
+      "publisher": "UOW Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Mass Communication",
   "program_name_zh": "Mass Communication文凭",
   "field_ar": "الاتصالات",

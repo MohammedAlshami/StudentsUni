@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 52000,
-    "per_year": 46000,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)"
+    "total": 54400,
+    "per_year": 54400,
+    "notes": "International student tuition per official IMU programme page https://imu.edu.my/academics/postgraduates/public-health-msc/, fetched 2026-09-18. Conventional international total RM54,400; ODL variant is RM41,180."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -35,10 +35,15 @@
       "url": "https://www.easyuni.my/malaysia/international-medical-university-imu-10211/msc-in-public-health-243128/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://imu.edu.my/academics/postgraduates/public-health-msc/",
+      "publisher": "IMU University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Public Health (MSc)",
   "program_name_zh": "Public Health (MSc)",
   "field_ar": "العلوم",

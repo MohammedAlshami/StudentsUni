@@ -7,15 +7,15 @@
   "duration": "1 Year",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "March",
+    "August",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 25000,
+    "per_year": null,
+    "notes": "Official programme page: RM25,000 international (RM24,000 Malaysian). Source: https://mila.edu.my/programme/foundation-in-science/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -27,10 +27,11 @@
       "url": "https://mila.edu.my/programmes/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
-    }
+    },
+    "https://mila.edu.my/programme/foundation-in-science/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Science",
   "program_name_zh": "Science预科",
   "field_ar": "العلوم",

@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 40500,
-    "per_year": 18000,
-    "notes": "From EasyUni (per_year based on 2.0yr duration)"
+    "total": 87000,
+    "per_year": 43500,
+    "notes": "International student tuition per official IMU programme page https://imu.edu.my/academics/postgraduates/clinical-psychology-master/, fetched 2026-09-18. Total RM87,000 (60 credit hours at RM1,450/credit)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -29,10 +29,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://imu.edu.my/academics/postgraduates/clinical-psychology-master/",
+      "publisher": "IMU University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Clinical Psychology (Master)",
   "program_name_zh": "Clinical Psychology (Master)",
   "field_ar": "علم النفس",

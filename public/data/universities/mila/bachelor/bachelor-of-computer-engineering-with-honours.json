@@ -4,18 +4,17 @@
   "program_name": "Bachelor of Computer Engineering with Honours",
   "program_slug": "bachelor-of-computer-engineering-with-honours",
   "field": "Engineering",
-  "duration": "3-4 Years",
+  "duration": "4 Years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "March",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": 100200,
+    "per_year": null,
+    "notes": "Official programme page tuition: RM100,200 (whole programme; nationality not separately stated). Source: https://mila.edu.my/programme/bachelor-of-computer-engineering-with-honours/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -29,10 +28,11 @@
       "url": "https://mila.edu.my/programmes/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
-    }
+    },
+    "https://mila.edu.my/programme/bachelor-of-computer-engineering-with-honours/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Computer Engineering with Honours",
   "program_name_zh": "Computer Engineering with Honours学士",
   "field_ar": "الهندسة",

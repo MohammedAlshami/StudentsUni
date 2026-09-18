@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": 30210,
+    "per_year": null,
+    "notes": "Official international tuition: total tuition fee on-time graduation RM30,210; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-electrical-engineering/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -22,10 +22,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/"
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    "https://www.unikl.edu.my/programme/master-of-electrical-engineering/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Electrical Engineering",
   "program_name_zh": "Electrical Engineering硕士",
   "field_ar": "الهندسة",

@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 199998,
-    "per_year": 66666,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,10 +28,11 @@
     "mqa_ref": null
   },
   "sources": [
-    "https://www.aimst.edu.my/academic/diploma-in-medical-and-health-science-medical-assistant/"
+    "https://www.aimst.edu.my/academic/diploma-in-medical-and-health-science-medical-assistant/",
+    "https://aimst.edu.my/international-students/"
   ],
   "confidence": "low",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Medical and Health Science (Medical Assistant)",
   "program_name_zh": "Medical and Health Science (Medical Assistant)文凭",
   "field_ar": "العلوم",

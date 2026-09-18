@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 75000,
-    "per_year": 25000,
-    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": 9438,
+    "notes": "Official international tuition: RM4,719/semester, RM9,438/year; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/doctor-of-philosophy-in-islamic-finance/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -22,10 +22,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/"
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    "https://www.unikl.edu.my/programme/doctor-of-philosophy-in-islamic-finance/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Islamic Finance",
   "program_name_zh": "哲学博士 in Islamic Finance",
   "field_ar": "إدارة الأعمال",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 11250,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": 57550,
+    "per_year": null,
+    "notes": "Official UPTM international fee: RM57,550 total programme fee (maps to Bachelor of Corporate Communication (Hons)). Official UPTM programme page fee tab (Local / International figures as published). Source: https://www.uptm.edu.my/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -29,10 +29,11 @@
       "url": "https://www.uptm.edu.my/index.php/academics/programmes/degree-programmes",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
-    }
+    },
+    "https://www.uptm.edu.my/index.php/academics/programmes/degree-programmes"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Corporate Communication (Honours)",
   "program_name_zh": "Corporate Communication (Honours)学士",
   "field_ar": "الإعلام",

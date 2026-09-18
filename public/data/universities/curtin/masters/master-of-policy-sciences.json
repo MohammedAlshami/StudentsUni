@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 11138,
-    "per_year": "RM5,569 per unit",
-    "notes": null
+    "total": null,
+    "per_year": null,
+    "notes": "Programme is not listed on the official Curtin Malaysia 2026 course fee schedule, so no official international fee could be verified. Source: https://curtin.edu.my/study/fee/course-fees/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -29,8 +29,8 @@
     "https://curtin.edu.my/study/postgraduate/",
     "https://www.studymalaysia.com/edu/curtin/courses/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Policy Sciences",
   "program_name_zh": "Policy Sciences硕士",
   "field_ar": "تقنية المعلومات",

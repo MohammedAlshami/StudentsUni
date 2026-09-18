@@ -11,10 +11,10 @@
     "September"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 22800,
-    "per_year": 5700,
-    "notes": "Standard public university fees (MQA regulated)"
+    "currency": "USD",
+    "total": 15000,
+    "per_year": 3750,
+    "notes": "Official USM international undergraduate tuition: USD 15,000 total programme (USD 1,875/semester incl. welfare; USD 1,325 registration one-off). per_year derived from official total over 4.0-year duration. Source: https://admission.usm.my/images/data/antarbangsa.csv (accessed 2026-09-18); see also https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -26,9 +26,12 @@
     "mqa_status": "Full Accreditation",
     "mqa_ref": null
   },
-  "sources": [],
-  "confidence": "low",
-  "last_updated": "2026-09-16",
+  "sources": [
+    "https://admission.usm.my/images/data/antarbangsa.csv",
+    "https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027"
+  ],
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Engineering (Software) with honours",
   "program_name_zh": "Engineering (Software) with honours学士",
   "field_ar": "الهندسة",

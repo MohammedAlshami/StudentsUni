@@ -8,15 +8,14 @@
   "duration": "1 year",
   "mode": "Onsite",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 53640,
-    "per_year": 47250,
-    "notes": " (per_year based on 1.0yr duration)"
+    "total": 63875.6,
+    "per_year": 63875.6,
+    "notes": "RM63,875.60 total (1 year). Official 2026/27 international fee incl. 6% SST. Source: https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees and Fee-International.pdf (as of Jan 2026), fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -31,10 +30,15 @@
       "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/msc-international-business-management-with-marketing-268024/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
+      "publisher": "Heriot-Watt University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير International Business Management with Marketing",
   "program_name_zh": "International Business Management with Marketing硕士"
 }

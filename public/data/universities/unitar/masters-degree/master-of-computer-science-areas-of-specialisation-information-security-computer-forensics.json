@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21980,
-    "per_year": 21980,
-    "notes": "Estimated total fees (local) for full course duration"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
   },
   "requirements": null,
   "accreditation": null,
@@ -26,10 +26,15 @@
       "url": "https://studymalaysia.com/edu/unitar/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.unitar.my/programmes/",
+      "publisher": "unitar",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Computer Science (Areas of specialisation: Information Security/Computer Forensics)",
   "program_name_zh": "Computer Science (Areas of specialisation: Information Security/Computer Forensics)硕士",
   "field_ar": "تقنية المعلومات",

@@ -5,11 +5,9 @@
     "field": "Transport and Logistics",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": 58000,
+      "per_year": null,
+      "notes": "Official MISI international fee: MYR 58,000 total programme fee (3 years / 8 semesters). Source: programme page on https://www.misi.edu.my/degree/ (checked 2026-09-18)."
     }
   },
   {
@@ -18,11 +16,9 @@
     "field": "Business",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": 50800,
+      "per_year": null,
+      "notes": "Official MISI international fee: MYR 50,800 total programme fee (3 years / 8 semesters). Source: programme page on https://www.misi.edu.my/degree/ (checked 2026-09-18)."
     }
   },
   {
@@ -31,11 +27,9 @@
     "field": "Business",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": 58000,
+      "per_year": null,
+      "notes": "Official MISI international fee: MYR 58,000 total programme fee (3 years / 8 semesters). Source: programme page on https://www.misi.edu.my/degree/ (checked 2026-09-18)."
     }
   },
   {
@@ -44,11 +38,9 @@
     "field": "Business",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": 58000,
+      "per_year": null,
+      "notes": "Official MISI international fee: MYR 58,000 total programme fee (3 years / 8 semesters). Source: programme page on https://www.misi.edu.my/degree/ (checked 2026-09-18)."
     }
   },
   {
@@ -57,11 +49,9 @@
     "field": "Business",
     "fees": {
       "currency": "MYR",
-      "local_total": 66000,
-      "international_total": null,
-      "per_year_local": 22000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
+      "total": 59600,
+      "per_year": null,
+      "notes": "Official MISI international fee: MYR 59,600 total programme fee (3 years / 8 semesters). Source: programme page on https://www.misi.edu.my/degree/ (checked 2026-09-18)."
     }
   }
 ]

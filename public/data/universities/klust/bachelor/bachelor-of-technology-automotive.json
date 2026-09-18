@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 64800,
-    "per_year": 20200,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "general": "Any one of these: STPM: Minimum 2 Principal Passes. A-Level: Minimum 2 Principal Passes. UEC: Minimum 5 Bs (including Mathematics). Diploma / HND: Minimum CGPA of 2.00. Foundation / Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average of 60% or higher in 5 subjects (including Mathematics). CPU / CIMP: Average of 55% or higher in 6 subjects (including Mathematics). IB: 26 points or higher based on 6 subjects. IVQ Technician Diploma: Level 3 in Motor Vehicle Maintenance. DVM: Minimum CGPA of 2.50 (Required to take Remedial Courses during the first semester). Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. ENGLISH LANGUAGE REQUIREMENT: IELTS - 5 TOEFL (PBT) - 500 TOEFL (IBT) - 42 PTE - 47 MUET - BAND 3 Cambridge English - 154"
@@ -28,10 +28,15 @@
       "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/bachelor-of-technology-hons-in-automotive-226766/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://klust.edu.my/admissions/international-students/",
+      "publisher": "klust",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Technology (Hons) in Automotive",
   "program_name_zh": "Technology (Hons) in Automotive学士"
 }

@@ -4,21 +4,22 @@
   "level": "bachelor",
   "program_name": "Bachelor of Digital Graphic Design (Honours)",
   "field": "Graphic Design",
-  "duration": "3 years",
+  "duration": "3.6 years (7 semesters)",
   "mode": "Full Time",
   "intakes": [
-    "January",
-    "May",
+    "February",
+    "April",
+    "July",
     "September"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 48470.01,
+    "per_year": null,
+    "notes": "Official UC TATI international fees: RM790 registration + RM6,811.43 per semester x 7 semesters = RM48,470.01 total; intakes February/April/July/September. Official UC TATI programme prospectus PDF, international student fee column. Source: https://www.tatiuc.edu.my/ (assets/files), checked 2026-09-18."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
+    "english_requirement": "IELTS 5.0 / TOEFL 500 / MUET Band 2 / PTE 47 (official UC TATI prospectus)",
     "a_level": "2 Principals (C+) including relevant subjects",
     "ib": "24 points",
     "other_qualifications": "Equivalent pre-university qualification"
@@ -31,7 +32,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Digital Graphic Design (Honours)",
   "program_name_zh": "Digital Graphic Design (Honours)学士",
   "field_ar": "التصميم الجرافيكي",

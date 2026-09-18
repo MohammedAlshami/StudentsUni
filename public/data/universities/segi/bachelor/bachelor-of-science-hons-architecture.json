@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 34850,
-    "per_year": 9444,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "SEGi official website is inaccessible from this environment (Cloudflare bot protection) and no official fee schedule is publicly indexed; set to null rather than use stale aggregator data. Checked segi.edu.my (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -39,7 +39,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Hons) Architecture",
   "program_name_zh": "Science (Hons) Architecture学士",
   "field_ar": "العمارة",

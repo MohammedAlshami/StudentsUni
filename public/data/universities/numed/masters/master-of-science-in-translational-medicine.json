@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 120000,
-    "per_year": 60000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "No international tuition fee published on official NUMed fees pages (programme not listed). Sources checked: https://www.ncl.ac.uk/numed/students/finance/tuition-fees/ and https://www.ncl.ac.uk/numed/study-with-us/international-students/courses-and-fees/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,10 +25,12 @@
       "url": "https://www.numed.edu.my",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
-    }
+    },
+    "https://www.ncl.ac.uk/numed/students/finance/tuition-fees/",
+    "https://www.ncl.ac.uk/numed/study-with-us/international-students/courses-and-fees/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Translational Medicine",
   "program_name_zh": "Science in Translational Medicine硕士",
   "field_ar": "الطب",

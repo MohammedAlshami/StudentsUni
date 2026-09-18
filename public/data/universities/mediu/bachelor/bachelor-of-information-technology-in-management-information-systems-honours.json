@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": 52420,
+    "per_year": null,
+    "notes": "MEDIU official programme fee schedule (https://online.mediu.edu.my/applicantportal/Home/ProgramFeesCurrent), effective Sep 2017 intake, accessed 2026-09-18: on-campus international full-time total MYR 52,420 (Bachelor Technology in Management Information System); online international/local total MYR 36,650; fees include visa fees and university bond (est. RM5,120 depending on citizenship)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -33,7 +33,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Information Technology in Management Information Systems (Honours)",
   "program_name_zh": "Information Technology in Management Information Systems (Honours)学士",
   "field_ar": "Computing",

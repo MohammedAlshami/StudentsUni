@@ -8,15 +8,15 @@
   "duration": "1 year",
   "mode": "Onsite",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 62100,
-    "per_year": 58050,
-    "notes": " (per_year based on 1.0yr duration)"
+    "total": 73935,
+    "per_year": 73935,
+    "notes": "RM73,935 total (1 year). Official 2026/27 international fee incl. 6% SST. Source: https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees and Fee-International.pdf (as of Jan 2026), fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -31,10 +31,15 @@
       "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/mba-268099/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
+      "publisher": "Heriot-Watt University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration",
   "program_name_zh": "Business Administration硕士"
 }

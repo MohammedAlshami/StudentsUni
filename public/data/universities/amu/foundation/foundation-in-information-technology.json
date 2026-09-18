@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 19800,
+    "per_year": null,
+    "notes": "AMU official international fee structure 2025. Foundation in Information Technology: RM19,800 total (includes one-time fees RM6,300 + adjusted tuition RM13,500). All fees exclude 6% SST (imposed on non-Malaysian citizens from 1 Sep 2025). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -31,10 +31,15 @@
       "url": "https://amu.edu.my/programmes/",
       "publisher": "Official Website",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf",
+      "publisher": "Asia Metropolitan University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Information Technology",
   "program_name_zh": "Information Technology预科",
   "field_ar": "ict",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 26500,
-    "per_year": 10325,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": 53000,
+    "per_year": 26500,
+    "notes": "International tuition AY2026: RM26,500/year, RM53,000 total (2 years); excludes administrative fees and 6% SST. Source: https://www.xmu.edu.my/admissions/tuition-fees (last updated 27 Nov 2025; accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -33,10 +33,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.xmu.edu.my/admissions/tuition-fees",
+      "publisher": "Xiamen University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Economics in Finance",
   "program_name_zh": "Economics in Finance硕士",
   "field_ar": "إدارة الأعمال",

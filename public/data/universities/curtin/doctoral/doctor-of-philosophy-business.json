@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 133368,
-    "per_year": "RM44,456 per annum",
-    "notes": null
+    "total": null,
+    "per_year": 51200,
+    "notes": "Official Curtin Malaysia 2026 international fee: RM51,200/year (Doctor of Philosophy by research, full-time). Total not fixed (3-4 years). Excludes 6% SST applicable to international students from 1 Jul 2025. Official Curtin Malaysia indicative course fees, 2026 intake (International column); page updated 12 Aug 2026. Source: https://curtin.edu.my/study/fee/course-fees/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -27,10 +27,11 @@
   },
   "sources": [
     "https://curtin.edu.my/study/postgraduate/research-degrees/",
-    "https://www.studymalaysia.com/edu/curtin/courses/"
+    "https://www.studymalaysia.com/edu/curtin/courses/",
+    "https://curtin.edu.my/study/fee/course-fees/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Business)",
   "program_name_zh": "哲学博士 (Business)",
   "field_ar": "إدارة الأعمال",

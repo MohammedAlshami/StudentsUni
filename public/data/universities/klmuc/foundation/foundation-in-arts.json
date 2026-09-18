@@ -15,9 +15,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 8500,
-    "per_year": 4250,
-    "notes": ""
+    "total": null,
+    "per_year": null,
+    "notes": "Official UNITAR University College Kuala Lumpur (KLMUC) programme listing publishes only 'Local Student' total tuition fees (bachelor's RM30,000-RM48,000; diplomas RM15,000-RM26,154; foundation RM8,000; master's RM12,000-RM25,320; PhD RM29,000-RM39,000). International fees are not published, so left null. Source: https://www.unitar.my/uuckl/programmes/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -25,10 +25,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.unitar.my/programmes/"
+    "https://www.unitar.my/programmes/",
+    "https://www.unitar.my/uuckl/programmes/"
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Arts",
   "program_name_zh": "Arts预科",
   "field_ar": "الفنون",

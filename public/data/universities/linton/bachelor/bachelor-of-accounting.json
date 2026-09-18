@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 71250,
-    "per_year": "RM17,500-RM30,000",
-    "notes": "Indicative range based on EduSwasta 2026"
+    "total": null,
+    "per_year": null,
+    "notes": "Official Linton University College website (https://www.linton.edu.my/ / https://www.luct.edu.my/) did not resolve (DNS NXDOMAIN) on 2026-09-18, so no official fee schedule could be verified. Wayback Machine archives contain no public fee schedule (portal login required). Fees left null rather than estimated. Checked 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -40,8 +40,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "partial",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Accounting",
   "program_name_zh": "Accounting学士",
   "field_ar": "المحاسبة",

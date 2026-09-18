@@ -12,9 +12,12 @@
       "September"
     ],
     "fees": {
-      "local": "RM 22,500",
-      "local_total": 22500,
-      "per_year_local": 5625
+      "currency": "MYR",
+      "local_total": null,
+      "international_total": null,
+      "per_year_local": null,
+      "per_year_international": null,
+      "notes": "No matching programme detail file; fee not verified (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": null,
@@ -23,7 +26,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "medium",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Diploma in Early Childhood Education",
@@ -38,9 +41,12 @@
       "September"
     ],
     "fees": {
-      "local": "RM 22,500",
-      "local_total": 22500,
-      "per_year_local": 5625
+      "currency": "MYR",
+      "local_total": null,
+      "international_total": null,
+      "per_year_local": null,
+      "per_year_international": null,
+      "notes": "No matching programme detail file; fee not verified (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": null,
@@ -49,7 +55,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "medium",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Diploma in Human Resource Management",
@@ -64,9 +70,12 @@
       "September"
     ],
     "fees": {
-      "local": "RM 22,500",
-      "local_total": 22500,
-      "per_year_local": 5625
+      "currency": "MYR",
+      "local_total": null,
+      "international_total": null,
+      "per_year_local": null,
+      "per_year_international": null,
+      "notes": "No matching programme detail file; fee not verified (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": null,
@@ -75,7 +84,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "medium",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Diploma in Logistics and Supply Chain Management",
@@ -90,9 +99,12 @@
       "September"
     ],
     "fees": {
-      "local": "RM 22,500",
-      "local_total": 22500,
-      "per_year_local": 5625
+      "currency": "MYR",
+      "local_total": null,
+      "international_total": null,
+      "per_year_local": null,
+      "per_year_international": null,
+      "notes": "No matching programme detail file; fee not verified (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": null,
@@ -101,6 +113,6 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "medium",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   }
 ]

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 10000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Diploma in Opticianry fee not published on official Twintech pages (checked 2026-09-18); set to null rather than estimate. Source checked: https://newtwintech.edu.my/%e7%ae%a1%e7%90%86%e5%8a%9e%e6%b3%95%e8%a1%a8%e6%a0%bc/"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,10 +28,15 @@
       "url": "https://newtwintech.edu.my/diploma-in-opticanry/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://newtwintech.edu.my/%e7%ae%a1%e7%90%86%e5%8a%9e%e6%b3%95%e8%a1%a8%e6%a0%bc/",
+      "publisher": "Twintech International University College of Technology",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Opticanry",
   "program_name_zh": "Opticanry文凭",
   "field_ar": "العلوم",

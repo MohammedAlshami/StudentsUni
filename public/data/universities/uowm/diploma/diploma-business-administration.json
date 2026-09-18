@@ -8,15 +8,17 @@
   "duration": "2 years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "January",
+    "April",
+    "June",
+    "September",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 27390,
-    "per_year": 10560,
-    "notes": "From EasyUni (per_year based on 2.0yr duration)"
+    "total": 59900,
+    "per_year": null,
+    "notes": "International total programme fee per official UOW Malaysia programme page (excludes EMGS and SST). Source: https://www.uow.edu.my/programme/diploma-in-business-administration/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -34,10 +36,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.uow.edu.my/programme/diploma-in-business-administration/",
+      "publisher": "UOW Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Business Administration",
   "program_name_zh": "Business Administration文凭",
   "field_ar": "إدارة الأعمال",

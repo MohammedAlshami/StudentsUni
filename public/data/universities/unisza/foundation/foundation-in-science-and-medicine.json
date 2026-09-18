@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 3000,
-    "per_year": 3000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed in UniSZA official International Student Tuition Fees schedule (2022); international fee unverified. Source: https://www.unisza.edu.my/student-international/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -23,10 +23,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/unisza/courses/"
+    "https://www.studymalaysia.com/edu/unisza/courses/",
+    "https://www.unisza.edu.my/wp-content/uploads/2022/Files/INT-INTERNATIONAL-STUDENT-TUITION-FEES-2022.pdf"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Science and Medicine",
   "program_name_zh": "Science and Medicine预科",
   "field_ar": "الطب",

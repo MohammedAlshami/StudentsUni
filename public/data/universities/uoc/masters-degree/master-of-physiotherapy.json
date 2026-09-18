@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 18867,
-    "per_year": 16844,
-    "notes": " (per_year based on 1.5yr duration)"
+    "total": 32800,
+    "per_year": null,
+    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
   },
   "requirements": {
     "general": "Any of these: A bachelor’s degree or equivalent in a related field (Bachelor&#39;s Degree Level): A bachelor’s degree or equivalent with minimum CGPA of 2.50 in Physiotherapy or related field, recognised by the Malaysian government, and accepted by the University. A bachelor’s degree or equivalent in a related field (Bachelor&#39;s Degree Level): A bachelor’s degree or equivalent in Physiotherapy or related field with a CGPA of less than 2.50 and a minimum of 5 years working experience in the related field. Other relevant or equivalent qualification (Certificate): Candidates without qualifications in the related fields or working experience in the relevant fields must undergo an appropriate prerequisite course determined by the University and meet the minimum CGPA based on the requirements mentioned above. Other relevant or equivalent qualifications recognised by the Malaysian government and accepted by the University. English Proficiency (For International Students): Minimum TOEFL score of 500 (pBT) / 80 (iBT) or IELTS score of 6.0 or other equivalent qualifications."
@@ -37,10 +37,15 @@
       "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/master-of-physiotherapy-294589/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+      "publisher": "University of Cyberjaya",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Physiotherapy",
   "program_name_zh": "Physiotherapy硕士",
   "field_ar": "الطب",

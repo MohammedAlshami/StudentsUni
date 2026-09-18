@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19167,
-    "per_year": 4483,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
   },
   "requirements": {
     "general": "A Bachelor’s Degree (Level 6, MQF) in the field or related field with a minimum CGPA of 2.50 or its equivalent as accepted by UNITAR Senate; OR A Bachelor&#39;s degree in the field or related fields or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to rigorous internal assessment Candidates without a qualification in the related fields or working experience (minimum 5 years) in the relevant fields must undergo appropriate prerequisite courses determined by the HEP and meet the minimum CGPA based on (i) to (ii). English Language Requirements (International Students) Minimum score of 6.0 for IELTS; OR Minimum score of 60 for TOEFL or Its equivalent."
@@ -38,10 +38,15 @@
       "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/master-of-business-administration-online-294079/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.unitar.my/programmes/",
+      "publisher": "unitar",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration (MBA)",
   "program_name_zh": "Business Administration (MBA)硕士",
   "field_ar": "إدارة الأعمال",

@@ -8,13 +8,13 @@
   "address": "Wisma CL, 5, Jalan Sri Semantan 1, Off Jalan Semantan, Bukit Damansara, 50490 Kuala Lumpur",
   "tel": "+603-2716 2000",
   "email": "marketing@help.edu.my",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 105000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 35000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "No public international-student fee schedule; HELP publishes a Malaysian-student-only fee summary (2026 HELP University Programme Fees Summary, July 2026). See individual programme records."
   }
 }

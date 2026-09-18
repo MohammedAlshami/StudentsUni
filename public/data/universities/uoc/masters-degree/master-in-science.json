@@ -15,9 +15,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 20250,
-    "per_year": 9925,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": 46500,
+    "per_year": null,
+    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
   },
   "requirements": {
     "general": "Any of these: A Bachelor’s degree in a relevant field (Bachelor&#39;s Degree Level): Bachelor’s degree in a relevant field with a minimum CGPA of 2.75 or equivalent; OR A Bachelor’s degree in a relevant field with a minimum CGPA of 2.50 and less than 2.75 may be accepted subject to rigorous internal assessment; OR A Bachelor’s degree in a relevant field with a CGPA less than 2.50, but with a minimum 5 years of relevant work experience may be accepted subject to internal assessment; OR Others: Other equivalent qualifications recognized by the Malaysian Government and acceptable by the University. English Proficiency (For International Students): Minimum TOEFL score of 550 (pBT) or 80 (iBT) or IELTS score of 6.0."
@@ -39,10 +39,15 @@
       "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/master-in-science-278791/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+      "publisher": "University of Cyberjaya",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science",
   "program_name_zh": "Science硕士",
   "field_ar": "العلوم",

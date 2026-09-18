@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "AeU does not publish a public programme fee schedule (website and 2026 programme brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://aeu.edu.my/study/brochure/"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -34,7 +34,7 @@
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "International Foundation Programme (IFP)",
   "program_name_zh": "International Foundation Programme (IFP)",
   "field_ar": "general",

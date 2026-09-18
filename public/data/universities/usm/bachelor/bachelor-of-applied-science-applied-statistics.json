@@ -11,10 +11,10 @@
     "September"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 5280,
-    "per_year": 1320,
-    "notes": "RM 660/Sem (8 semesters)"
+    "currency": "USD",
+    "total": 13750,
+    "per_year": 3438,
+    "notes": "Official USM international undergraduate tuition: USD 13,750 total programme (USD 1,718.75/semester incl. welfare; USD 1,325 registration one-off). per_year derived from official total over 4.0-year duration. Source: https://admission.usm.my/images/data/antarbangsa.csv (accessed 2026-09-18); see also https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -31,10 +31,12 @@
       "url": "https://studymalaysia.com/edu/usm/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://admission.usm.my/images/data/antarbangsa.csv",
+    "https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Applied Science (Applied Statistics)(Hons)",
   "program_name_zh": "Applied Science (Applied Statistics)(Hons)学士",
   "field_ar": "العلوم",

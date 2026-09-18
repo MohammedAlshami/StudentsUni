@@ -7,13 +7,16 @@
   "website": "http://www.swinburne.edu.my",
   "studymalaysia_url": "https://studymalaysia.com/edu/swinburne/courses/",
   "total_programs": 32,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 105000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 35000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+    "notes": "International 2026 indicative fees: Foundation RM29,040 total; Bachelor degrees RM36,680-RM52,360/year; Masters RM38,300-RM58,720 total; PhD RM43,480 total (official fees page https://www.swinburne.edu.my/study/admission/fees-3/, checked 2026-09-18); excludes SST where applicable."
+  },
+  "sources": [
+    "https://www.swinburne.edu.my/study/admission/fees-3/"
+  ]
 }

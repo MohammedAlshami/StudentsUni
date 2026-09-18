@@ -30,15 +30,17 @@
   "sources": [
     "https://www.aimst.edu.my",
     "https://www.aimst.edu.my/academic",
-    "https://www.studymalaysia.com/edu/aimst/courses/"
+    "https://www.studymalaysia.com/edu/aimst/courses/",
+    "https://aimst.edu.my/international-students/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 66000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 22000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+    "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
+  },
+  "confidence": "low"
 }

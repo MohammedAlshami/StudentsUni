@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 51000,
-    "per_year": 16200,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "general": "STPM:  Minimum 2 Principal Passes and a credit in SPM English. A-level: Minimum 2 Principal Passes and a credit in O-Level English. UEC: Minimum 5Bs (including English). Diploma / HND: Minimum CGPA of 2.00. Foundation / Matriculation: Minimum CGPA of 2.00. SAM / HSC / AUSMAT: TER/UAI: Average 60% or higher in 5 subjects. CPU / CIMP: Average of 60% or higher in 6 subjects. IB: 26 points or higher based on 6 subjects. Other Qualifications: As recognised by the Senate of IUKL as equivalent to STPM. Note: The credit requirement of English at SPM level can be waived should the grade obtained at STPM/STAM level or its equivalent is higher. ENGLISH LANGUAGE REQUIREMENTS: IELTS - 6 TOEFL (PBT) - 537 TOEFL (IBT) - 60 PTE - 59 MUET - BAND 4 Cambridge English - 169"
@@ -28,10 +28,15 @@
       "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/ba-hons-in-teaching-english-to-speakers-of-other-languages-tesol-271031/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://klust.edu.my/admissions/international-students/",
+      "publisher": "klust",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Arts (Hons) in Teaching English to Speakers of Other Languages (TESOL)",
   "program_name_zh": "Arts (Hons) in Teaching English to Speakers of Other Languages (TESOL)学士"
 }

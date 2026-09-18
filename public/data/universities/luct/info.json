@@ -25,13 +25,13 @@
     "https://limkokwing.net/malaysia/academic/courses/",
     "https://en.wikipedia.org/wiki/Limkokwing_University_of_Creative_Technology"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 45000,
     "international_total": null,
     "per_year_local": 15000,
     "per_year_international": null,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "Limkokwing University official website was unreachable (HTTP 522) as of 2026-09-18; no official international fees could be verified. See individual programme files."
   }
 }

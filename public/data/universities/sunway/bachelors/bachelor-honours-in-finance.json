@@ -6,16 +6,18 @@
   "program_slug": "bachelor-honours-in-finance",
   "field": "Accounting & Finance",
   "faculty": null,
-  "duration": "4 years",
+  "duration": "3 Years",
   "mode": "Full-time",
   "intakes": [
-    "Oct"
+    "Jan",
+    "Apr",
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 24615,
-    "per_year": 5591,
-    "notes": "Fee: FromRM89,430.00 (per_year based on 4.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 9733,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 9,733 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -43,10 +45,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/bachelor-honours-in-finance-293463/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/sunway-business-school/courses/bachelor-honours-finance",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Bachelor (Honours) in Finance",
   "program_name_zh": "Bachelor (Honours) in Finance",
   "field_ar": "المحاسبة",

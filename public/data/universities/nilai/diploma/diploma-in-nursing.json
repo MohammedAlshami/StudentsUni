@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 20128,
-    "per_year": 5530,
-    "notes": "Local: 45675/Course; International: 45675/Course (per_year based on 3.0yr duration)"
+    "total": 45732,
+    "per_year": null,
+    "notes": "Nilai University official fee structure (Malaysian & International Students). International fee schedule: RM45,732 total. Source: https://www.nilai.edu.my/sites/default/files/programme/fee-structure/Fee%20Structure%20%28%20Malaysian%20%26%20International%20Students%29.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -47,10 +47,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.nilai.edu.my/sites/default/files/programme/fee-structure/Fee%20Structure%20%28%20Malaysian%20%26%20International%20Students%29.pdf",
+      "publisher": "Nilai University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Nursing",
   "program_name_zh": "Nursing文凭",
   "field_ar": "الطب",

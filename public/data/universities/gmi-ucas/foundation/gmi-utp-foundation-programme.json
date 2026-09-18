@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 18000,
-    "per_year": 18000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 26975,
+    "per_year": null,
+    "notes": "GMI official GUFP international fee structure (https://www.gmi.edu.my/wp-content/uploads/2025/11/Fee-Structure-GUFP.pdf), accessed 2026-09-18: international total MYR 26,975 (course + miscellaneous fees) without hostel, MYR 29,375 with hostel; course fee alone MYR 24,075."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -28,8 +28,8 @@
       "type": "official"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "GMI-UTP Foundation Programme (GUFP)",
   "program_name_zh": "GMI-UTP Foundation Programme (GUFP)",
   "field_ar": "تقنية المعلومات",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Lincoln University College does not publish tuition fees; the official programme page directs fee enquiries to admission@lincoln.edu.my. International fee unverified. Source: https://www.lincoln.edu.my/bachelor-of-business-entrepreneurship/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -25,10 +25,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.lincoln.edu.my/school-of-business-management/"
+    "https://www.lincoln.edu.my/school-of-business-management/",
+    "https://www.lincoln.edu.my/bachelor-of-business-entrepreneurship/"
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Entrepreneurship",
   "program_name_zh": "Business Entrepreneurship学士",
   "field_ar": "إدارة الأعمال",

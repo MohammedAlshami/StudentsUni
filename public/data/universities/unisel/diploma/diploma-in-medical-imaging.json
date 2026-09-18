@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 199998,
-    "per_year": 66666,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: no international-student fee schedule is published on unisel.edu.my (international admissions and programme pages checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -24,10 +24,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/unisel/courses/"
+    "https://www.studymalaysia.com/edu/unisel/courses/",
+    {
+      "url": "https://unisel.edu.my/admission-international-student/",
+      "publisher": "unisel",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "diploma-in-medical-imaging",
   "program_name_ar": "دبلوم Medical Imaging",
   "program_name_zh": "Medical Imaging文凭",

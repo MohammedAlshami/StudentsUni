@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 11160,
-    "per_year": 3720,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "No international (or public) tuition fee published on UPNM official pages; UPNM is a Malaysian Armed Forces university and fee information is not published online. International fee unverified. Checked https://upnm.edu.my/index.php/en/ and https://upnm.edu.my/index.php/bm/kemasukan/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -30,7 +30,7 @@
     "https://www.studymalaysia.com/what/course/UPNM/0054776/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Sarjana Muda Teknologi Maritim",
   "program_name_zh": "Sarjana Muda Teknologi Maritim",
   "field_ar": "الهندسة",

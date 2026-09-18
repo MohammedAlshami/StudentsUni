@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 120000,
-    "per_year": 80000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.5yr duration)"
+    "total": 20800,
+    "per_year": null,
+    "notes": "Official international tuition: RM10,400/semester, RM20,800 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-engineering-technology-in-biomedical-engineering/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -22,10 +22,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/"
+    "https://www.unikl.edu.my/postgraduate-admission/",
+    "https://www.unikl.edu.my/programme/master-of-engineering-technology-in-biomedical-engineering/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Engineering Technology in Biomedical Engineering",
   "program_name_zh": "Engineering Technology in Biomedical Engineering硕士",
   "field_ar": "الهندسة",

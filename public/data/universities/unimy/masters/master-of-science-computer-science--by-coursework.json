@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 24000,
-    "per_year": 12000,
-    "notes": ""
+    "total": null,
+    "per_year": null,
+    "notes": "Programme not listed on UNIMY's official fee structures page (https://www.unimy.edu.my/fee-structures/, accessed 2026-09-18); previous estimate removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,8 +25,8 @@
   "sources": [
     "https://www.studymalaysia.com/edu/unimy/courses/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "slug": "master-of-science-computer-science--by-coursework",
   "program_name_ar": "ماجستير Science (Computer Science) - By Coursework",
   "program_name_zh": "Science (Computer Science) - By Coursework硕士",

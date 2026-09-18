@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 26800,
-    "per_year": 9000,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": 110400,
+    "per_year": null,
+    "notes": "Official international tuition: RM110,400 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-science-water-and-hydropower-engineering/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -32,10 +32,11 @@
       "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-science-pharmacy-293797/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.unikl.edu.my/programme/master-of-science-water-and-hydropower-engineering/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science (Water and Hydropower Engineering)",
   "program_name_zh": "Science (Water and Hydropower Engineering)硕士",
   "field_ar": "الهندسة",

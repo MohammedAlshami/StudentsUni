@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 6632,
-    "per_year": 1658,
-    "notes": "Per semester: MYR 829 local"
+    "total": null,
+    "per_year": null,
+    "notes": "Official UPSI undergraduate international fee schedule for bachelor's degrees is not published online (the BHEA fee PDF covers diploma programmes only; IPS schedule covers postgraduate only). Contact kemasukan.bhea@upsi.edu.my. Sources: https://www.upsi.edu.my/ and https://bhea.upsi.edu.my/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -29,8 +29,8 @@
     "https://www.studymalaysia.com/what/course/UPSI/0001082/",
     "https://fbk.upsi.edu.my/at01-bachelor-malay-literature/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education (Malay Literature) (Hons)",
   "program_name_zh": "Education (Malay Literature) (Hons)学士",
   "field_ar": "التربية والتعليم",

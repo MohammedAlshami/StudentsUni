@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 7500,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": 32000,
+    "per_year": null,
+    "notes": "Widad University College official international student tuition fees page (https://www.widad.edu.my/uc/international/tuition-fees), accessed 2026-09-18: MYR 32,000 total for international students."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -29,8 +29,8 @@
       "type": "official"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Architecture",
   "program_name_zh": "Architecture文凭",
   "field_ar": "العمارة",

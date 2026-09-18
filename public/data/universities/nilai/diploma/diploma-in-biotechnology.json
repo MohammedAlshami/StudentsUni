@@ -13,10 +13,10 @@
     "Sep"
   ],
   "fees": {
-    "currency": "RM",
-    "total": 34200.0,
-    "per_year": 9771,
-    "notes": "Local: 34200/Course; International: 34200/Course (per_year based on 3.5yr duration)"
+    "currency": "MYR",
+    "total": 34200,
+    "per_year": null,
+    "notes": "Nilai University official fee structure (Malaysian & International Students). International fee schedule: RM34,200 total. Source: https://www.nilai.edu.my/sites/default/files/programme/fee-structure/Fee%20Structure%20%28%20Malaysian%20%26%20International%20Students%29.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -37,10 +37,15 @@
       "url": "https://studymalaysia.com/edu/nilai/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://www.nilai.edu.my/sites/default/files/programme/fee-structure/Fee%20Structure%20%28%20Malaysian%20%26%20International%20Students%29.pdf",
+      "publisher": "Nilai University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Biotechnology",
   "program_name_zh": "Biotechnology文凭",
   "field_ar": "تقنية المعلومات",

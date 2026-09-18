@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 93000,
-    "per_year": 31000,
-    "notes": ""
+    "total": 102000,
+    "per_year": 34000,
+    "notes": "International fee RM102,000 for 3 years per official RUMC programme page https://www.rumc.edu.my/programmes/medical-informatics/ and fees page https://www.rumc.edu.my/fees/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -25,10 +25,15 @@
   },
   "accreditation": "N/0688/6/0001 (01/29) (MQA/PA16934)",
   "sources": [
-    "https://www.rumc.edu.my/programmes/medical-informatics/"
+    "https://www.rumc.edu.my/programmes/medical-informatics/",
+    {
+      "url": "https://www.rumc.edu.my/fees/",
+      "publisher": "RUMC",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science in Medical Informatics",
   "program_name_zh": "Science in Medical Informatics学士",
   "field_ar": "الصحة",

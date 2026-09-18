@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": 18632,
+    "per_year": null,
+    "notes": "MEDIU official programme fee schedule (https://online.mediu.edu.my/applicantportal/Home/ProgramFeesCurrent), effective Sep 2017 intake, accessed 2026-09-18: on-campus international full-time total MYR 18,632 (Structure A); online international/local total MYR 17,122; fees include visa fees and university bond (est. RM5,120 depending on citizenship)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -31,7 +31,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Fiqh (By Research)",
   "program_name_zh": "Fiqh (By Research)硕士",
   "field_ar": "العلوم",

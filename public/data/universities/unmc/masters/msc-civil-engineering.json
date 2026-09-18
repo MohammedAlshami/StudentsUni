@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 65000,
-    "per_year": 13750,
-    "notes": " (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": 58000,
+    "notes": "International annual tuition fee for the 2026 intake (fixed for programme duration); 6% SST applies to international students from 1 July 2025. Source: https://www.nottingham.edu.my/Applications/Fees/PG.aspx (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -26,10 +26,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.nottingham.edu.my/Applications/Fees/PG.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "msc-civil-engineering",
   "program_name_ar": "M.Sc. (Civil Engineering)",
   "program_name_zh": "M.Sc. (Civil Engineering)",

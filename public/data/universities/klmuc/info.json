@@ -27,15 +27,17 @@
       "url": "https://www.unitar.my/programmes/",
       "type": "official",
       "note": "UNITAR programmes page - KLMUC programmes listed under UNITAR University College Kuala Lumpur"
-    }
+    },
+    "https://www.unitar.my/uuckl/programmes/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 45000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 15000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+    "notes": "Official UNITAR University College Kuala Lumpur (KLMUC) programme listing publishes only 'Local Student' total tuition fees (bachelor's RM30,000-RM48,000; diplomas RM15,000-RM26,154; foundation RM8,000; master's RM12,000-RM25,320; PhD RM29,000-RM39,000). International fees are not published, so left null. Source: https://www.unitar.my/uuckl/programmes/ (checked 2026-09-18)."
+  },
+  "confidence": "low"
 }

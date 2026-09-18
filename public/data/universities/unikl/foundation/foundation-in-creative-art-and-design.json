@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 9000,
+    "per_year": null,
+    "notes": "Official international tuition: RM9,000 (subject to terms and conditions); excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/foundation-in-creative-art-and-design/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -33,10 +33,11 @@
       "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/foundation-in-creative-art-design-293677/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.unikl.edu.my/programme/foundation-in-creative-art-and-design/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Creative Art and Design",
   "program_name_zh": "Creative Art and Design预科",
   "field_ar": "الفنون",

@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19523,
-    "per_year": 8156,
-    "notes": " (per_year based on 1.3333333333333333yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: UNITAR programme pages state 'Price listed above is applicable to local students only' and no public international fee schedule was found (checked 2026-09-18). Previous local/estimated value removed."
   },
   "requirements": {
     "general": "Programme Entry Requirements You must meet the following requirements in order to be considered for entry to the UNITAR Master’s Programme: i. A bachelor’s Degree (Level 6, MQF) with a minimum CGPA of 2.50 or its equivalent as accepted by UNITAR Senate; OR ii. A bachelor’s degree or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to a minimum of five (5) years working experience in education Candidates without a qualification in the related fields or working experience in the relevant fields must undergo appropriate prerequisite courses determined by the HEP and meet the minimum CGPA based on (i) to (ii). Language Requirements for International students Minimum score of 5.0 for IELTS, OR Minimum score of 40 for TOEFL iBT OR its equivalent"
@@ -38,10 +38,15 @@
       "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/master-of-education-educational-leadership-management-294081/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.unitar.my/programmes/",
+      "publisher": "unitar",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Education (Early Childhood Education)",
   "program_name_zh": "Education (Early Childhood Education)硕士",
   "field_ar": "التربية والتعليم",

@@ -5,19 +5,19 @@
   "program_name": "Australian Degree Transfer Programme (Commerce)",
   "program_slug": "australian-degree-transfer-programme-commerce",
   "field": "Business Management & Administration",
-  "duration": "1 year",
+  "duration": "1-2 years",
   "mode": "Full-time",
   "study_type": "Full-time Study",
   "intakes": [
-    "Aug",
-    "Jun",
-    "Jan"
+    "Jan",
+    "May",
+    "Aug"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 48417,
-    "per_year": 48417,
-    "notes": " (per_year based on 1.0yr duration)"
+    "total": 53262,
+    "per_year": null,
+    "notes": "International student fee (published, exclusive of 6% SST) per official INTI programme page https://newinti.edu.my/programme/australian-degree-transfer-programme-commerce/ (INTI International University), fetched 2026-09-18. Official duration is 1-2 years; per_year not asserted."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -45,10 +45,15 @@
       "url": "https://www.easyuni.my/malaysia/inti-international-university-10208/australian-degree-transfer-programme-science-243696/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://newinti.edu.my/programme/australian-degree-transfer-programme-commerce/",
+      "publisher": "INTI International University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Australian Degree Transfer Programme (Commerce)",
   "program_name_zh": "Australian Degree Transfer Programme (Commerce)",
   "field_ar": "إدارة الأعمال",

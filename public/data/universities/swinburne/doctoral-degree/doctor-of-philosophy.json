@@ -15,8 +15,8 @@
   "fees": {
     "currency": "MYR",
     "total": 43480,
-    "per_year": 10870,
-    "notes": "Total course fee for 4-year programme"
+    "per_year": null,
+    "notes": "Official Swinburne Sarawak 2026 international fee: RM43,480 total programme fee (PhD). Official Swinburne Sarawak 2026 indicative course fees (International students column). Source: https://www.swinburne.edu.my/study/admission/fees-3/ (checked 2026-09-18). Fees exclude SST where applicable."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -25,10 +25,11 @@
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SWINBURNE/0056008/",
-    "https://www.swinburne.edu.my/?p=31477"
+    "https://www.swinburne.edu.my/?p=31477",
+    "https://www.swinburne.edu.my/study/admission/fees-3/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة",
   "program_name_zh": "哲学博士",
   "field_ar": "العلوم",

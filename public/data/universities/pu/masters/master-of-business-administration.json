@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 35309,
-    "per_year": 25000,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: no official international student fee is published on Perdana University's website (perdanauniversity.edu.my programme/admission pages checked via archive and live, accessed 2026-09-18); fees are provided on enquiry/offer only."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -34,8 +34,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration",
   "program_name_zh": "Business Administration硕士",
   "field_ar": "إدارة الأعمال",

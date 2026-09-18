@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 20650,
-    "per_year": 17050,
-    "notes": "Local: 25200/Course; International: 25200/Course (per_year based on 1.0yr duration)"
+    "total": 29610,
+    "per_year": null,
+    "notes": "Nilai University official fee structure (Malaysian & International Students). International/current fee schedule: RM29,610 total (2 years). Source: https://www.nilai.edu.my/sites/default/files/programme/fee-structure/Fee%20Structure%20%28%20Malaysian%20%26%20International%20Students%29.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -51,10 +51,15 @@
       "url": "https://www.easyuni.my/malaysia/nilai-university-226/master-of-business-administration-mba-banking-finance-226340/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.nilai.edu.my/sites/default/files/programme/fee-structure/Fee%20Structure%20%28%20Malaysian%20%26%20International%20Students%29.pdf",
+      "publisher": "Nilai University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration (Banking & Finance)",
   "program_name_zh": "Business Administration (Banking & Finance)硕士",
   "field_ar": "إدارة الأعمال",

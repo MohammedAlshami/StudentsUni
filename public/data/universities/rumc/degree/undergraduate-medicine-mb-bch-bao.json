@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 620000,
-    "per_year": 124000,
-    "notes": ""
+    "total": 740000,
+    "per_year": 148000,
+    "notes": "Official RUMC programme page states international fee RM740,000 (Malaysian RM620,000) https://www.rumc.edu.my/programmes/undergraduate-medicine/, fetched 2026-09-18; detailed schedule is paid in EUR/MYR and the July 2024 international fee PDF totals EUR 155,000. per_year computed over 5yr."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -24,10 +24,15 @@
   },
   "accreditation": "R3/721/6/0009 (06/28) (MQA/FA4397)",
   "sources": [
-    "https://www.rumc.edu.my/programmes/undergraduate-medicine/"
+    "https://www.rumc.edu.my/programmes/undergraduate-medicine/",
+    {
+      "url": "https://www.rumc.edu.my/fees/",
+      "publisher": "RUMC",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Undergraduate Medicine (MB BCh BAO)",
   "program_name_zh": "Undergraduate Medicine (MB BCh BAO)",
   "field_ar": "الطب",

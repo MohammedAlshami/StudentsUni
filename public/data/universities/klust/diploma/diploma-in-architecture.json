@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 47000,
-    "per_year": 18800,
-    "notes": " (per_year based on 2.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: KLUST programme pages state 'Looking for fee information? Ask us' and only a processing fee is published for international applicants (checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "general": "Any one of these: SPM / SPMV: Minimum 3Cs (including Mathematics) and pass in English and Drawing subject. O-Level: Minimum 3Cs (including Mathematics) and pass in English and Drawing subject.  UEC: Minimum 3Bs (including Mathematics). Certificate (Polytechnic): Minimum CGPA of 2.50 with 2Cs (including Mathematics) and a pass in SPM English. Certificate (KKM): Minimum CGPA of 2.75 with 2Cs (including Mathematics) and a pass in SPM English. Certificate/SKM III: Minimum CGPA of 2.00 with a C in SPM, pass in Mathematics and Drawing test by IUKL. SAM / HSC / AUSMAT: TER/UAI: average of 50% or higher in 5 subjects (including Drawing and English). CPU / CIMP: Average of 50% or higher in 6 subjects (including Drawing, English). Other Qualifications: As recognised by the Senate of IUKL as equivalent to SPM. Additional Drawing Test / Portfolio: Needed if without pass in Art subject in SPM or without Drawing subject in SPM. ENGLISH LANGUAGE REQUIREMENTS (INTERNATIONAL): IELTS - 4 TOEFL (PBT) - 397 TOEFL (IBT) - 30 PTE - 63T MUET - BAND 2 Cambridge English - 140"
@@ -28,10 +28,15 @@
       "url": "https://www.easyuni.my/malaysia/kuala-lumpur-university-of-science-and-infrastructure-klust-209/diploma-in-architecture-226793/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://klust.edu.my/admissions/international-students/",
+      "publisher": "klust",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Architecture",
   "program_name_zh": "Architecture文凭"
 }

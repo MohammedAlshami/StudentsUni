@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed in AMU official 2025 international fee structure as of 2026-09-18; no international fee verified (ODL variant not in the published international schedule). Previous figure was an unverified estimate."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -35,8 +35,8 @@
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Administration (ODL)",
   "program_name_zh": "Business Administration (ODL)学士",
   "field_ar": "إدارة الأعمال",

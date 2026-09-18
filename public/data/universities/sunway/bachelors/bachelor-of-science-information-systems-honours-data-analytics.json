@@ -6,17 +6,18 @@
   "program_slug": "bachelor-of-science-information-systems-honours-data-analytics",
   "field": "Computing & IT",
   "faculty": null,
-  "duration": "2 years",
+  "duration": "3 Years",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Jan"
+    "Jan",
+    "Apr",
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 25060,
-    "per_year": 11405,
-    "notes": "Fee: FromRM81,680.00 (per_year based on 2.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 10058,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 10,058 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -44,10 +45,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/bachelor-of-information-systems-hons-data-analytics-292349/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/bachelor-of-information-systems-honours-data",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science Information Systems (Honours)(Data Analytics)",
   "program_name_zh": "Science Information Systems (Honours)(Data Analytics)学士",
   "field_ar": "تقنية المعلومات",

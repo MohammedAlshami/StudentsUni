@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30350,
-    "per_year": 15175,
-    "notes": ""
+    "total": 30950,
+    "per_year": null,
+    "notes": "Master in Social Business: international total RM30,950 (tuition RM25,800 + registration/admin/convocation RM750 + resource RM3,200 + refundable security deposit RM1,200). Excludes EMGS fee and insurance. Source: https://aiu.edu.my/postgraduate/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,10 +24,15 @@
   },
   "accreditation": "N/0419/7/0001 (12/27) MQA/PA 15825",
   "sources": [
-    "https://www.aiu.edu.my/postgraduate"
+    "https://www.aiu.edu.my/postgraduate",
+    {
+      "url": "https://aiu.edu.my/postgraduate/",
+      "publisher": "Albukhary International University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.95,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Social Business",
   "program_name_zh": "Social Business硕士",
   "field_ar": "إدارة الأعمال",

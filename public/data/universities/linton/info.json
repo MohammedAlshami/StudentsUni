@@ -26,14 +26,15 @@
       "note": "Lists programme areas: engineering, quantity surveying, architecture, construction management, IT, computer science, business, accounting, art/design, nursing. 200+ MOHE approved courses."
     }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "notes": "Linton University College. Part of KTG Education Group. Website inaccessible at time of collection. Program data reconstructed from Wikipedia and Wayback Machine cached homepage. Specializes in engineering, construction management, IT, business, architecture, visual arts, nursing. Partners with Leeds Beckett University and Bolton University (UK). Affiliated institutes: ITP, IISM, Jati. 30,000+ graduates in 75 countries. Located in Mantin, Negeri Sembilan.",
   "fees": {
     "currency": "MYR",
-    "local_total": 45000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 15000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+    "notes": "Official Linton University College website (https://www.linton.edu.my/ / https://www.luct.edu.my/) did not resolve (DNS NXDOMAIN) on 2026-09-18, so no official fee schedule could be verified. Wayback Machine archives contain no public fee schedule (portal login required). Fees left null rather than estimated. Checked 2026-09-18."
+  },
+  "confidence": "low"
 }

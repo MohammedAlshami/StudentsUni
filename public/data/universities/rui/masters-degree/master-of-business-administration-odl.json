@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 21999,
-    "per_year": 21999,
-    "notes": "Estimated ~RM22000/year for typical private university programme"
+    "total": 46000,
+    "per_year": null,
+    "notes": "Raffles University official programme page (https://raffles-university.edu.my/programme/master-of-business-administration-odl/), accessed 2026-09-18: international student total fee MYR 46,000 (application + admission + administration + indicative tuition); subject to 6% SST."
   },
   "requirements": null,
   "accreditation": null,
@@ -28,8 +28,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration (ODL)",
   "program_name_zh": "Business Administration (ODL)硕士",
   "field_ar": "إدارة الأعمال",

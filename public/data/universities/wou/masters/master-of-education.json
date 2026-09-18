@@ -4,18 +4,18 @@
   "level": "masters",
   "program_name": "Master of Education",
   "field": "Education",
-  "duration": "2 Years",
+  "duration": "1 year 8 months to 3 years (full-time)",
   "mode": "Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 24000,
-    "per_year": 12000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": 21000,
+    "per_year": null,
+    "notes": "WOU official programme page tuition fee: RM21,000 total (single published fee; WOU does not publish a separate international student fee schedule). Source: https://www.wou.edu.my/programmes/master/master-education/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -23,10 +23,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/wou/courses/"
+    "https://www.studymalaysia.com/edu/wou/courses/",
+    {
+      "url": "https://www.wou.edu.my/programmes/master/master-education/",
+      "publisher": "Wawasan Open University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "slug": "master-of-education",
   "program_name_ar": "ماجستير Education",
   "program_name_zh": "Education硕士",

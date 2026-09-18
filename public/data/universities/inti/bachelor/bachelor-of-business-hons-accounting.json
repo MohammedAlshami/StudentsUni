@@ -9,15 +9,15 @@
   "mode": "Full-time",
   "study_type": "Full-time Study",
   "intakes": [
-    "Aug",
-    "Jun",
-    "Jan"
+    "Jan",
+    "May",
+    "Aug"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 25285,
-    "per_year": 8428,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": 83449,
+    "per_year": 27816,
+    "notes": "International student fee (published, exclusive of 6% SST) per official INTI programme page https://newinti.edu.my/programme/bachelor-of-business-hons-in-accounting/ (INTI International University), fetched 2026-09-18. per_year computed over 3.0yr."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -45,10 +45,15 @@
       "url": "https://www.easyuni.my/malaysia/inti-international-university-10208/bachelor-of-business-hons-in-accounting-249804/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://newinti.edu.my/programme/bachelor-of-business-hons-in-accounting/",
+      "publisher": "INTI International University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business (Hons) Accounting",
   "program_name_zh": "Business (Hons) Accounting学士",
   "field_ar": "المحاسبة",

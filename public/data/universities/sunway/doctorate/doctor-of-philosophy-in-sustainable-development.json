@@ -6,17 +6,17 @@
   "program_slug": "doctor-of-philosophy-in-sustainable-development",
   "field": "Social Sciences",
   "faculty": null,
-  "duration": "Full time: Min 3 years, Max 6 years / Part time: Min 4 years, Max 8 years",
+  "duration": "3 Years",
   "mode": "Flexible Full-time/Part-time",
   "intakes": [
     "Jan",
     "Jul"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 49680,
-    "per_year": 16560,
-    "notes": "Fee: FromRM49,680.00 (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 15547,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 15,547 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -26,10 +26,15 @@
   "awarding_country": "Malaysia",
   "sources": [
     "https://www.studymalaysia.com/what/course/SUNWAY/0057915/",
-    "https://www.studymalaysia.com/edu/sunway/courses/"
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://sunwayuniversity.edu.my/jsc/courses/doctor-of-philosophy-sustainable-development",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Sustainable Development",
   "program_name_zh": "哲学博士 in Sustainable Development",
   "field_ar": "العلوم",

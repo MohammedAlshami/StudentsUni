@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 0,
-    "per_year": "Full scholarship",
-    "notes": "Fully funded by Albukhary Foundation - tuition, accommodation, meals, stipend covered"
+    "total": null,
+    "per_year": null,
+    "notes": "Undergraduate tuition, accommodation, meals and stipend are fully funded by the Albukhary Foundation for eligible scholarship recipients (international applicants aged 17-20 with household income below USD300/month; see https://aiu.edu.my/scholarship/). No self-funded tuition fee is published. Postgraduate students are not eligible for AIU scholarships. Fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -27,10 +27,15 @@
   "accreditation": "MQA",
   "sources": [
     "https://www.aiu.edu.my/academics",
-    "https://www.aiu.edu.my/academics"
+    "https://www.aiu.edu.my/academics",
+    {
+      "url": "https://aiu.edu.my/scholarship/",
+      "publisher": "Albukhary International University",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Politics and International Relations (Honours)",
   "program_name_zh": "Politics and International Relations (Honours)学士",
   "field_ar": "العلوم",

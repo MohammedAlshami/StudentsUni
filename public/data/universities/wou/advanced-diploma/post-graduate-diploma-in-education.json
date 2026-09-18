@@ -4,18 +4,18 @@
   "level": "advanced-diploma",
   "program_name": "Post Graduate Diploma in Education",
   "field": "Education",
-  "duration": "1.5 Years",
+  "duration": "1 year (full-time)",
   "mode": "Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 12000,
-    "per_year": 8000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": 9900,
+    "per_year": null,
+    "notes": "WOU official programme page tuition fee: RM9,900 total (single published fee; WOU does not publish a separate international student fee schedule). Source: https://www.wou.edu.my/programmes/master/pgd-education/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -24,10 +24,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/wou/courses/"
+    "https://www.studymalaysia.com/edu/wou/courses/",
+    {
+      "url": "https://www.wou.edu.my/programmes/master/pgd-education/",
+      "publisher": "Wawasan Open University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "slug": "post-graduate-diploma-in-education",
   "program_name_ar": "Post Graduate Diploma in Education",
   "program_name_zh": "Post Graduate Diploma in Education",

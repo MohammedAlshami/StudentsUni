@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 8000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme"
+    "total": 5050,
+    "per_year": null,
+    "notes": "International total programme fee per official INCEIF programme page; includes 6% SST; EMGS/visa/personal bond extra. Source: https://inceif.edu.my/study-inceif-university/certificate-programmes/professional-certificate-in-islamic-finance-pcif/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,15 @@
       "url": "https://eduswasta.my/university/inceif-university/",
       "publisher": "official",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://inceif.edu.my/study-inceif-university/certificate-programmes/professional-certificate-in-islamic-finance-pcif/",
+      "publisher": "INCEIF University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Professional Certificate in Islamic Finance (eMIF)",
   "program_name_zh": "Professional Certificate in Islamic Finance (eMIF)",
   "field_ar": "التمويل",

@@ -8,15 +8,14 @@
   "duration": "3 years",
   "mode": "Onsite",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 128544,
-    "per_year": 36560,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": 153021.6,
+    "per_year": 51007.2,
+    "notes": "RM51,007.20/year; RM153,021.60 total (3 years). Official 2026/27 international fee incl. 6% SST. Source: https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees and Fee-International.pdf (as of Jan 2026), fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -33,10 +32,15 @@
       "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/ma-hons-international-business-management-281803/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
+      "publisher": "Heriot-Watt University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Hons) International Business Management",
   "program_name_zh": "Hons) International Business Management硕士"
 }

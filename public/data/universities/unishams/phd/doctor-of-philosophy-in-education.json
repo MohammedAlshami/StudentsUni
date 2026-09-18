@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 75000,
-    "per_year": 25000,
-    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "No international fee structure published for this programme in UniSHAMS' official 2024 fee schedule (https://unishams.edu.my/images/KULLIYAH/yuran-2024/, accessed 2026-09-18); previous estimate removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -26,8 +26,8 @@
   "sources": [
     "https://unishams.edu.my/component/content/article/doctor-of-philosophy-in-education?catid=11"
   ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Education",
   "program_name_zh": "哲学博士 in Education",
   "field_ar": "التربية والتعليم",

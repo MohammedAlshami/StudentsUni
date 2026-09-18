@@ -11,10 +11,10 @@
     "September"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 9000,
-    "per_year": 1800,
-    "notes": "RM 900/Sem (10 semesters)"
+    "currency": "USD",
+    "total": 137500,
+    "per_year": 27500,
+    "notes": "Official USM international undergraduate tuition: USD 137,500 total programme (USD 13,750/semester incl. welfare; USD 1,325 registration one-off). per_year derived from official total over 5.0-year duration. Source: https://admission.usm.my/images/data/antarbangsa.csv (accessed 2026-09-18); see also https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -31,10 +31,12 @@
       "url": "https://studymalaysia.com/edu/usm/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://admission.usm.my/images/data/antarbangsa.csv",
+    "https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Medicine",
   "program_name_zh": "Medicine博士",
   "field_ar": "الطب",

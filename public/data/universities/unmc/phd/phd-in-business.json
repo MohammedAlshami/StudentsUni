@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 159760,
-    "per_year": 39940,
-    "notes": ""
+    "total": null,
+    "per_year": 58000,
+    "notes": "International annual tuition fee for the 2026 intake (fixed for programme duration); 6% SST applies to international students from 1 July 2025. Source: https://www.nottingham.edu.my/Applications/Fees/PG.aspx (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -31,10 +31,15 @@
       "url": "https://www.easyuni.my/malaysia/university-of-nottingham-malaysia-9990/phd-in-business-226157/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.nottingham.edu.my/Applications/Fees/PG.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "phd-in-business",
   "program_name_ar": "Ph.D in Business",
   "program_name_zh": "Ph.D in Business",

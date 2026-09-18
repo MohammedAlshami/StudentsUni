@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 126825,
-    "per_year": 18631,
-    "notes": "From EasyUni (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: no official international student fee is published on Perdana University's website (perdanauniversity.edu.my programme/admission pages checked via archive and live, accessed 2026-09-18); fees are provided on enquiry/offer only."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -32,8 +32,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Medicine (MD)",
   "program_name_zh": "Medicine (MD)博士",
   "field_ar": "الطب",

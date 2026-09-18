@@ -6,17 +6,17 @@
   "program_slug": "diploma-in-nursing",
   "field": "Medicine & Healthcare",
   "faculty": null,
-  "duration": "3 years",
+  "duration": "3 Years",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
+    "Jun",
     "Oct"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 16900,
-    "per_year": 6561,
-    "notes": "Fee: FromRM37,800.00 (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 5105,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 5,105 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -43,10 +43,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-college-ipoh-168/diploma-in-accounting-dacc-294960/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/diploma-nursing",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Nursing",
   "program_name_zh": "Nursing文凭",
   "field_ar": "الطب",

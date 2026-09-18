@@ -9,15 +9,15 @@
   "mode": "Full-time",
   "study_type": "Flexible Full-time/Part-time Mode",
   "intakes": [
-    "Aug",
-    "Jun",
-    "Jan"
+    "Jan",
+    "May",
+    "Aug"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19132,
-    "per_year": 9566,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": 42080,
+    "per_year": 21040,
+    "notes": "International student fee (published, exclusive of 6% SST) per official INTI programme page https://newinti.edu.my/programme/diploma-in-accounting/ (INTI International University), fetched 2026-09-18. per_year computed over 2.0yr."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -39,10 +39,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://newinti.edu.my/programme/diploma-in-accounting/",
+      "publisher": "INTI International University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Accounting",
   "program_name_zh": "Accounting文凭",
   "field_ar": "المحاسبة",

@@ -9,14 +9,14 @@
   "duration": "0.5 years",
   "mode": "Full-time",
   "intakes": [
-    "Dec",
-    "Jun"
+    "Jan",
+    "Jul"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 17600,
-    "per_year": 32950,
-    "notes": "Fee: FromRM12,375.00 (per_year based on 0.5yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 3689,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 3,689 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -36,10 +36,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/post-basic-intensive-care-nursing",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Post Basic Certificate in Intensive Care Nursing",
   "program_name_zh": "Post Basic Certificate in Intensive Care Nursing",
   "field_ar": "الطب",

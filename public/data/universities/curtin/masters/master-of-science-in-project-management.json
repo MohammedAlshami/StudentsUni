@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 4481,
-    "per_year": "RM4,481 per unit",
-    "notes": null
+    "total": null,
+    "per_year": null,
+    "notes": "Official Curtin Malaysia 2026 international fee: RM5,100 per unit (25 credit points); total depends on units taken, not published as a fixed total. Excludes 6% SST applicable to international students from 1 Jul 2025. Official Curtin Malaysia indicative course fees, 2026 intake (International column); page updated 12 Aug 2026. Source: https://curtin.edu.my/study/fee/course-fees/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
   },
   "sources": [
     "https://curtin.edu.my/study/postgraduate/project-management/",
-    "https://www.studymalaysia.com/edu/curtin/courses/"
+    "https://www.studymalaysia.com/edu/curtin/courses/",
+    "https://curtin.edu.my/study/fee/course-fees/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Project Management",
   "program_name_zh": "Science in Project Management硕士",
   "field_ar": "إدارة الأعمال",

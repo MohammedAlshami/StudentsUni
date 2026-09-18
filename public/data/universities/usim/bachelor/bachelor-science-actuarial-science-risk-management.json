@@ -14,9 +14,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 21600,
-    "per_year": 5400,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": 36060,
+    "per_year": null,
+    "notes": "USIM official international undergraduate fee schedule: total tuition RM36,060.00 for the whole programme. Source: https://admission.usim.edu.my/undergraduate-programme-fees-international/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -35,10 +35,15 @@
   "career_prospects": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/USIM/0008860/",
-    "https://admission.usim.edu.my/undergraduate-studies/"
+    "https://admission.usim.edu.my/undergraduate-studies/",
+    {
+      "url": "https://admission.usim.edu.my/undergraduate-programme-fees-international/",
+      "publisher": "USIM",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Science (Actuarial Science & Risk Management) (Hons)",
   "program_name_zh": "Science (Actuarial Science & Risk Management) (Hons)学士",
   "field_ar": "Mathematics & Statistics",

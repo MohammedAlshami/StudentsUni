@@ -8,15 +8,17 @@
   "duration": "2.5 years",
   "mode": "Full-time",
   "intakes": [
-    "Feb",
-    "Jun",
-    "Sep"
+    "January",
+    "April",
+    "June",
+    "September",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 40000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    "total": 53130,
+    "per_year": null,
+    "notes": "International total programme fee per official UOW Malaysia programme page (excludes EMGS and SST). Source: https://www.uow.edu.my/programme/diploma-in-information-technology-bk/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -25,10 +27,15 @@
   },
   "accreditation": "MQA",
   "sources": [
-    "https://www.uow.edu.my/programmes"
+    "https://www.uow.edu.my/programmes",
+    {
+      "url": "https://www.uow.edu.my/programme/diploma-in-information-technology-bk/",
+      "publisher": "UOW Malaysia",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Information Technology",
   "program_name_zh": "Information Technology文凭",
   "field_ar": "تقنية المعلومات",

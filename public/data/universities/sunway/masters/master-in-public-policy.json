@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 47320,
-    "per_year": 47320,
-    "notes": "Fee: FromRM47,320.00 (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Programme not listed on Sunway University official course pages as of 2026-09-18; no international fee verified (programme may be discontinued or renamed)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -28,8 +28,8 @@
     "https://www.studymalaysia.com/what/course/sunway/0056981/",
     "https://www.studymalaysia.com/edu/sunway/courses/"
   ],
-  "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Public Policy",
   "program_name_zh": "Public Policy硕士",
   "field_ar": "العلوم",

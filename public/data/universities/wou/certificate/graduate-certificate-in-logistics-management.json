@@ -7,15 +7,15 @@
   "duration": "1.5 Years",
   "mode": "Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 12000,
-    "per_year": 8000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed on WOU official programme pages as of 2026-09-18; no verified fee (programme may be discontinued or not currently offered). Previous figure was an unverified estimate."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,8 +25,8 @@
   "sources": [
     "https://www.studymalaysia.com/edu/wou/courses/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "slug": "graduate-certificate-in-logistics-management",
   "program_name_ar": "Graduate Certificate in Logistics Management",
   "program_name_zh": "Graduate Certificate in Logistics Management",

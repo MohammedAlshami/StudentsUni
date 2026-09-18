@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 80000,
-    "per_year": 80000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.0yr duration)"
+    "total": 21500,
+    "per_year": null,
+    "notes": "Southern University College official '2022 Programme Fees for International Students', revised 27/01/2022 (https://www.southern.edu.my/assets/2022-international-student-program-fees_27012022.pdf; retrieved via Internet Archive snapshot https://web.archive.org/web/20220204113525/https://www.southern.edu.my/assets/2022-international-student-program-fees_27012022.pdf), accessed 2026-09-18: international total MYR 21,500 (tuition & misc fees + other charges)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,8 +26,8 @@
   "sources": [
     "https://www.southern.edu.my/faculty-of-chinese-medicine/"
   ],
-  "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Traditional Chinese Medicine",
   "program_name_zh": "Traditional Chinese Medicine预科",
   "field_ar": "الطب",

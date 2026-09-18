@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 11075,
-    "per_year": 4112,
-    "notes": "From EasyUni (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: no official international student fee is published on Perdana University's website (perdanauniversity.edu.my programme/admission pages checked via archive and live, accessed 2026-09-18); fees are provided on enquiry/offer only."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -35,8 +35,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Logistics and Supply Chain Management",
   "program_name_zh": "Logistics and Supply Chain Management文凭",
   "field_ar": "إدارة الأعمال",

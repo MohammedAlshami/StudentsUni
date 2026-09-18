@@ -16,9 +16,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 11529,
-    "per_year": 4849,
-    "notes": " (per_year based on 2.3333333333333335yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: HELP University publishes only a Malaysian-student fee summary (2026 HELP University Programme Fees Summary, July 2026, 2026-09-18); no public international-student fee schedule exists. International applicants are directed to contact HELP. Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -44,10 +44,15 @@
       "url": "https://www.easyuni.my/malaysia/help-university-19/diploma-in-early-childhood-education-274260/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://university.help.edu.my/brochures/",
+      "publisher": "help",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Early Childhood Education",
   "program_name_zh": "Early Childhood Education文凭",
   "field_ar": "التربية والتعليم",

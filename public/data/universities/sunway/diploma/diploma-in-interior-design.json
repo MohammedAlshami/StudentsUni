@@ -6,18 +6,18 @@
   "program_slug": "diploma-in-interior-design",
   "field": "Architecture & Building",
   "faculty": null,
-  "duration": "27 months",
+  "duration": "2 years, 3 months",
   "mode": "Full-time",
   "intakes": [
+    "Jan",
     "Apr",
-    "Sep",
-    "Feb"
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 29123,
-    "per_year": 11832,
-    "notes": "Fee: FromRM46,900.00 (per_year based on 2.25yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 7442,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 7,442 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -44,10 +44,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-college-13116/diploma-in-fashion-design-technology-293531/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-arts-and-social-sciences/courses/diploma-interior-design",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Interior Design",
   "program_name_zh": "Interior Design文凭",
   "field_ar": "العمارة",

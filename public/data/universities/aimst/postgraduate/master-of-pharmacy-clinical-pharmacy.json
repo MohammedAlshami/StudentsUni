@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 120000,
-    "per_year": 120000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 1.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -28,10 +28,11 @@
   },
   "sources": [
     "https://www.aimst.edu.my/academic/master-of-pharmacy-clinical-pharmacy/",
-    "https://www.studymalaysia.com/what/course/AIMST/0006060/"
+    "https://www.studymalaysia.com/what/course/AIMST/0006060/",
+    "https://aimst.edu.my/international-students/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Pharmacy (Clinical Pharmacy)",
   "program_name_zh": "Pharmacy (Clinical Pharmacy)硕士",
   "field_ar": "الصيدلة",

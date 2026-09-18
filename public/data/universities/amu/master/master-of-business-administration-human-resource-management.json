@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": 30100,
+    "per_year": null,
+    "notes": "AMU official international fee structure 2025. MBA (Human Resource Management): RM30,100 total (includes one-time fees RM6,300 + adjusted tuition RM23,800). All fees exclude 6% SST (imposed on non-Malaysian citizens from 1 Sep 2025). Source: https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -31,10 +31,15 @@
       "url": "https://amu.edu.my/programmes/",
       "publisher": "Official Website",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://amu.edu.my/wp-content/uploads/2025/09/Tuition-Fee-Structure-AMU-2025-INTERNATIONAL.pdf",
+      "publisher": "Asia Metropolitan University",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration (Human Resource Management)",
   "program_name_zh": "Business Administration (Human Resource Management)硕士",
   "field_ar": "إدارة",

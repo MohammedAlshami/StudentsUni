@@ -9,9 +9,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 441450,
-    "per_year": 72980,
-    "notes": " (per_year based on 5.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: MAHSA University does not publish international tuition fees on its public programme pages (fee sections are disabled) and mahsa.edu.my blocked automated access on 2026-09-18; fee schedule issued with offer."
   },
   "requirements": {
     "general": "STPM/A-Levels: Grades BBB, ABC or AAC in 3 subjects (Biology &amp; Chemistry &amp; Physics/Mathematics) Matriculation/Foundation in Science/Pre-Medical Course (not less than 1 year): CGPA 3.0 (out of 4.0) in 3 subjects (Biology &amp; Chemistry &amp; Physics/Mathematics); and 5 B’s in Biology &amp; Chemistry &amp; Physics &amp; Mathematics/Additional Mathematics &amp; 1 other subject at SPM/O-Level/equivalent UEC: Minimum B4 each in 5 subjects (Chemistry, Biology, Physics, Mathematics &amp; Additional Mathematics) Monash University Foundation Pre-University Program (MUFY)/ University of New South Wales (UNSW) Foundation/ Western Australia Curriculum Council/ HSC Sydney Australia/ Trinity College Foundation Studies/ Australian Universities Foundation Programmes/ South Australian Matriculation (SAM)/ Victorian Certificate of Education, Australia Year 12/ Australian Matriculation (AUSMAT): Average of 80% or the equivalent of B in any 3 subjects (Biology &amp; Chemistry &amp; Physics or Mathematics) or 80% ATAR provided the subjects include Biology &amp; Chemistry &amp; Physics or Mathematics National Certificate of Educational Achievement (NCEA) Level 3/ New Zealand Bursary/ Canadian Pre-University (CPU)/ Canadian International Matriculation Programme (CIMP/ Canadian Grade 12/13)/ Ontario Secondary School Diploma Grade 12:  Average of 80% in any 3 subjects (Biology, Chemistry, Physics or Mathematics) Indian Pre-University: Average of 70% in any 3 subjects (Biology, Chemistry, Physics or Mathematics) International Baccalaureate (IB): 30 points with a minimum of 2 Science subjects/ Mathematics at Higher Level (HL) &amp; 1 Science subject at Standard Level (SL) &amp; minimum score of 4 each in Biology, Chemistry &amp; Physics/Mathematics Diploma in Health Sciences (minimum 5 semesters/2.5 years): CGPA 3.5 (out of 4.0) &amp; 2B’s each in Biology/Chemistry/Physics; and 3 credits each in English &amp; Mathematics/Add Maths &amp; 1 other subject at SPM/O-level/equivalent Degree in Health/Pure/Applied Sciences: CGPA 3.0 (5-year medical programme) Degree in Arts/Humanities: CGPA 3.5 (5-year medical programme) Credit in Bahasa Malaysia is required for entry into government service (for Local Candidates) English Proficiency Requirements: ​​​​​​​Band 4 in MUET (Local Candidates) Band 6 in IELTS or 550 in TOEFL (International Candidates) *Entry requirements to the MBBS programme are determined by the Malaysian Medical Council."
@@ -27,8 +27,8 @@
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medicine and Bachelor of Surgery (MBBS)",
   "program_name_zh": "Medicine and Bachelor of Surgery (MBBS)学士"
 }

@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 31500,
+    "per_year": null,
+    "notes": "International total tuition for the entire programme per UTP official international undergraduate tuition page (excludes registration RM11,000 and EMGS ~RM3,500/year). Source: https://www.utp.edu.my/Pages/Admission/Undergraduate/International/Tuition-fees.aspx (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -37,10 +37,15 @@
   ],
   "sources": [
     "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx",
-    "https://unienrol.com/study-malaysia/universiti-teknologi-petronas-utp/courses/all"
+    "https://unienrol.com/study-malaysia/universiti-teknologi-petronas-utp/courses/all",
+    {
+      "url": "https://www.utp.edu.my/Pages/Admission/Undergraduate/International/Tuition-fees.aspx",
+      "publisher": "Universiti Teknologi PETRONAS",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Engineering & Science",
   "program_name_zh": "Engineering & Science预科",
   "field_ar": "الهندسة",

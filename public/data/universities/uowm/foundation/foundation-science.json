@@ -8,15 +8,17 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "Feb",
-    "Jun",
-    "Sep"
+    "January",
+    "April",
+    "June",
+    "September",
+    "October"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 31850,
+    "per_year": null,
+    "notes": "International total programme fee per official UOW Malaysia programme page (excludes EMGS and SST). Source: https://www.uow.edu.my/programme/foundation-in-science/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -24,10 +26,15 @@
   },
   "accreditation": "MQA",
   "sources": [
-    "https://www.uow.edu.my/programmes"
+    "https://www.uow.edu.my/programmes",
+    {
+      "url": "https://www.uow.edu.my/programme/foundation-in-science/",
+      "publisher": "UOW Malaysia",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Science",
   "program_name_zh": "Science预科",
   "field_ar": "العلوم",

@@ -5,7 +5,7 @@
   "program_name": "Bachelor of Medicine & Bachelor of Surgery",
   "field": "Medicine",
   "slug": "bachelor-of-medicine-bachelor-of-surgery",
-  "duration": "3 years",
+  "duration": "5 years",
   "mode": null,
   "intakes": [
     "Sep",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 240000,
-    "per_year": 80000,
-    "notes": "Estimated ~RM80,000/year for private university medical programme (per_year based on 3.0yr duration)"
+    "total": 305260,
+    "per_year": null,
+    "notes": "UniSHAMS official 2024 international student fee structure for MBBS (https://unishams.edu.my/images/KULLIYAH/yuran-2024/UG/I-mbbs.pdf, retrieved via Internet Archive), accessed 2026-09-18: international total MYR 305,260 (registration, tuition, administration and applicable deposit/collateral/convocation; accommodation excluded and optional)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -28,8 +28,8 @@
   "sources": [
     "https://unishams.edu.my/component/content/article/bachelor-of-medicine-bachelor-of-surgery?catid=11"
   ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medicine & Bachelor of Surgery",
   "program_name_zh": "Medicine & Bachelor of Surgery学士",
   "field_ar": "الطب",

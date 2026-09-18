@@ -11,10 +11,10 @@
     "September"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 4080,
-    "per_year": 1020,
-    "notes": "RM 510/Sem (8 semesters)"
+    "currency": "USD",
+    "total": 15000,
+    "per_year": 3750,
+    "notes": "Official USM international undergraduate tuition: USD 15,000 total programme (USD 1,875/semester incl. welfare; USD 1,325 registration one-off). per_year derived from official total over 4.0-year duration. Source: https://admission.usm.my/images/data/antarbangsa.csv (accessed 2026-09-18); see also https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -31,10 +31,12 @@
       "url": "https://studymalaysia.com/edu/usm/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://admission.usm.my/images/data/antarbangsa.csv",
+    "https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Economics(Hons)",
   "program_name_zh": "Economics(Hons)学士",
   "field_ar": "إدارة الأعمال",

@@ -4,18 +4,18 @@
   "level": "masters",
   "program_name": "Master of Business Administration in Construction Management",
   "field": "Business",
-  "duration": "2.5 Years",
+  "duration": "1-2 years (ODL full-time)",
   "mode": "Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
     "total": 24000,
-    "per_year": 9600,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    "per_year": null,
+    "notes": "WOU official programme page tuition fee: RM24,000 total (single published fee; WOU does not publish a separate international student fee schedule). Source: https://www.wou.edu.my/programmes/master/mba-construction-management/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -23,10 +23,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/wou/courses/"
+    "https://www.studymalaysia.com/edu/wou/courses/",
+    {
+      "url": "https://www.wou.edu.my/programmes/master/mba-construction-management/",
+      "publisher": "Wawasan Open University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "slug": "master-of-business-administration-in-construction-management",
   "program_name_ar": "ماجستير Business Administration in Construction Management",
   "program_name_zh": "Business Administration in Construction Management硕士",

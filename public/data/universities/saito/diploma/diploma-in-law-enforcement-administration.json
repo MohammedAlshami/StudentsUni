@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 12000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 2.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Saito University College does not publish a public fee schedule; the official application form states fees are shown in the programme intake price list (not available online) and are subject to annual revision. No official international fee verified; previous figure was an unverified generic estimate. Fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -27,8 +27,8 @@
   "sources": [
     "https://www.saito.edu.my/our-programmes/diploma"
   ],
-  "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Law Enforcement Administration",
   "program_name_zh": "Law Enforcement Administration文凭",
   "field_ar": "القانون",

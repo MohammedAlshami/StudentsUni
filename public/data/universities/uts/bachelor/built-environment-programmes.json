@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "No single programme; official UTS international per-year fees https://uts.edu.my/tuitionfees (fetched 2026-09-18): BSc Architecture 28,220 (3yr), BSc Quantity Surveying 20,114 (3.5yr); Interior Design and Property & Construction Management are not listed for international students. No aggregate total asserted."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -25,11 +25,16 @@
   },
   "accreditation": "MQA approved",
   "sources": [
-    "https://en.wikipedia.org/wiki/University_of_Technology_Sarawak"
+    "https://en.wikipedia.org/wiki/University_of_Technology_Sarawak",
+    {
+      "url": "https://uts.edu.my/tuitionfees",
+      "publisher": "UTS",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "low",
   "notes": "UTS School of Built Environment offers related programmes. PAQS affiliated. Exact programme names not available from accessible sources.",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Built Environment programmes",
   "program_name_zh": "Built Environment programmes",
   "field_ar": "built-environment",

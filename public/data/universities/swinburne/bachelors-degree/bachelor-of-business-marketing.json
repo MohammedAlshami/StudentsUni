@@ -16,7 +16,7 @@
     "currency": "MYR",
     "total": 110040,
     "per_year": 36680,
-    "notes": "Annual fee; total = annual x 3 years"
+    "notes": "Official Swinburne Sarawak 2026 international fee: RM36,680/year; total = RM36,680 x 3 years (derived, 3-year degree). Official Swinburne Sarawak 2026 indicative course fees (International students column). Source: https://www.swinburne.edu.my/study/admission/fees-3/ (checked 2026-09-18). Fees exclude SST where applicable."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -27,10 +27,11 @@
   "accreditation": null,
   "sources": [
     "https://studymalaysia.com/what/course/SWINBURNE/0001528/",
-    "https://www.swinburne.edu.my/?p=31477"
+    "https://www.swinburne.edu.my/?p=31477",
+    "https://www.swinburne.edu.my/study/admission/fees-3/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business (Marketing)",
   "program_name_zh": "Business (Marketing)学士",
   "field_ar": "إدارة الأعمال",

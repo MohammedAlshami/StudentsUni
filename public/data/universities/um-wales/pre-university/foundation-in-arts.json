@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16361,
-    "per_year": 11727,
-    "notes": " (per_year based on 1.0yr duration)"
+    "total": 19451,
+    "per_year": 19451,
+    "notes": "International student total per official UM-Wales fee schedule https://www.umwales.edu.my/admissions/fees/, fetched 2026-09-18. per_year computed over 1.0yr."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -39,10 +39,15 @@
       "url": "https://www.easyuni.my/malaysia/university-of-malaya-wales-11602/foundation-in-arts-270006/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.umwales.edu.my/admissions/fees/",
+      "publisher": "UM-Wales",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "foundation-in-arts",
   "program_name_ar": "تأسيس Arts",
   "program_name_zh": "Arts预科",

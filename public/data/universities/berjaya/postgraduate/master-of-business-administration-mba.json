@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 24000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: no international student fee is published on Berjaya University College's official programme pages (berjaya.edu.my/university, accessed 2026-09-18); fee details provided on enquiry."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -33,8 +33,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration (MBA)",
   "program_name_zh": "Business Administration (MBA)硕士",
   "field_ar": "إدارة الأعمال",

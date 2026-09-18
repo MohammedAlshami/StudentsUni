@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 56000,
-    "per_year": 16666,
-    "notes": " (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published: programme not separately listed in the official 2026 postgraduate fee list (checked 2026-09-18); set to null rather than estimate. Source checked: https://www.nottingham.edu.my/Applications/Fees/UG.aspx / https://www.nottingham.edu.my/Applications/Fees/PG.aspx"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.nottingham.edu.my/Applications/Fees/PG.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "msc-business-and-management",
   "program_name_ar": "M.Sc. Business and Management",
   "program_name_zh": "M.Sc. Business and Management",

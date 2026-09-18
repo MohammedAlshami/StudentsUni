@@ -5,7 +5,7 @@
   "program_name": "Master of Science in Mathematics and Applied Mathematics",
   "program_slug": "master-science-mathematics-applied-mathematics",
   "field": "Science",
-  "duration": "3 years",
+  "duration": "2 years",
   "mode": "Full-time",
   "intakes": [
     "Apr",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 26000,
-    "per_year": 8366,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)"
+    "total": 28600,
+    "per_year": 14300,
+    "notes": "International tuition AY2026: RM14,300/year, RM28,600 total (2 years); excludes administrative fees and 6% SST. Source: https://www.xmu.edu.my/admissions/tuition-fees (last updated 27 Nov 2025; accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -33,10 +33,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.xmu.edu.my/admissions/tuition-fees",
+      "publisher": "Xiamen University Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Mathematics and Applied Mathematics",
   "program_name_zh": "Science in Mathematics and Applied Mathematics硕士",
   "field_ar": "العلوم",

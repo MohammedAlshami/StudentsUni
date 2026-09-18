@@ -6,17 +6,18 @@
   "program_slug": "master-in-sustainable-development-management",
   "field": "Social Sciences",
   "faculty": null,
-  "duration": "3 years",
+  "duration": "minimum 1 Year",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
-    "Jan"
+    "Jan",
+    "Mar",
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 22577,
-    "per_year": 6775,
-    "notes": "Fee: FromRM47,320.00 (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 13384,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 13,384 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -41,10 +42,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/master-in-sustainable-development-management-293474/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/jsc/courses/master-sustainable-development-management-0",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Sustainable Development Management",
   "program_name_zh": "Sustainable Development Management硕士",
   "field_ar": "العلوم",

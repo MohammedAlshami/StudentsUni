@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33750,
-    "per_year": "RM15,000-RM18,750",
-    "notes": "Indicative range based on EduSwasta 2026"
+    "total": null,
+    "per_year": null,
+    "notes": "Official Linton University College website (https://www.linton.edu.my/ / https://www.luct.edu.my/) did not resolve (DNS NXDOMAIN) on 2026-09-18, so no official fee schedule could be verified. Wayback Machine archives contain no public fee schedule (portal login required). Fees left null rather than estimated. Checked 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -39,8 +39,8 @@
       "fetched_at": "2026-09-15"
     }
   ],
-  "confidence": "partial",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Information Technology",
   "program_name_zh": "Information Technology文凭",
   "field_ar": "ict",

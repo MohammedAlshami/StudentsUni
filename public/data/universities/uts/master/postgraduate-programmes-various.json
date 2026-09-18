@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "No single programme; official UTS international total fees https://uts.edu.my/tuitionfees (fetched 2026-09-18): Master of Architecture 43,330; MBA 30,000; Master of Project Management 30,000; MSc Business Management 18,000; Master of Engineering 19,500. No aggregate total asserted."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -23,11 +23,16 @@
   },
   "accreditation": "MQA approved",
   "sources": [
-    "https://en.wikipedia.org/wiki/University_of_Technology_Sarawak"
+    "https://en.wikipedia.org/wiki/University_of_Technology_Sarawak",
+    {
+      "url": "https://uts.edu.my/tuitionfees",
+      "publisher": "UTS",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "low",
   "notes": "UTS School of Postgraduate Studies offers Master's and PhD programmes. 50% scholarship for Sarawakian postgraduates. Exact programme names not available from accessible sources.",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Postgraduate programmes (various)",
   "program_name_zh": "Postgraduate programmes (various)",
   "field_ar": "general",

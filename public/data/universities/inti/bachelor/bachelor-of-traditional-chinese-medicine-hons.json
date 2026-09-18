@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 27565,
-    "per_year": 5513,
-    "notes": " (per_year based on 5.0yr duration)"
+    "total": 144702,
+    "per_year": 28940,
+    "notes": "International student fee (published, exclusive of 6% SST) per official INTI programme page https://newinti.edu.my/programme/bachelor-of-traditional-chinese-medicine-hons/ (INTI International University), fetched 2026-09-18. per_year computed over 5.0yr."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -44,10 +44,15 @@
       "url": "https://www.easyuni.my/malaysia/inti-international-university-10208/bachelor-of-traditional-chinese-medicine-hons-294286/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://newinti.edu.my/programme/bachelor-of-traditional-chinese-medicine-hons/",
+      "publisher": "INTI International University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Traditional Chinese Medicine (Hons)",
   "program_name_zh": "Traditional Chinese Medicine (Hons)学士",
   "field_ar": "الطب",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 17000,
-    "per_year": 8500,
-    "notes": ""
+    "total": 22900,
+    "per_year": null,
+    "notes": "UNIMY official fee structures page (https://www.unimy.edu.my/fee-structures/), accessed 2026-09-18: international student fee MYR 22,900 (total programme fee)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -25,8 +25,8 @@
   "sources": [
     "https://www.studymalaysia.com/edu/unimy/courses/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "slug": "master-in-computing--by-research",
   "program_name_ar": "ماجستير Computing - By Research",
   "program_name_zh": "Computing - By Research硕士",

@@ -12,10 +12,10 @@
     "Jun"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 45000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": null,
+    "notes": "Fee not published on the official GlobalNxt Tuition and Fees page or programme page (checked https://globalnxt.edu.my/tuition-fees, accessed 2026-09-18); international fee unverified."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -32,10 +32,11 @@
     {
       "url": "https://www.globalnxt.edu.my",
       "type": "official"
-    }
+    },
+    "https://globalnxt.edu.my/tuition-fees"
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Criminal Justice (Honours)",
   "program_name_zh": "Criminal Justice (Honours)学士",
   "field_ar": "Criminal Justice",

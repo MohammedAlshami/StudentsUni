@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 30000,
-    "notes": ""
+    "total": 35000,
+    "per_year": 35000,
+    "notes": "International fee RM35,000 per official RUMC page https://www.rumc.edu.my/programmes/foundation-in-science/ and international fee schedule PDF https://www.rumc.edu.my/wp-content/uploads/2025/11/Fees-Schedule_FIS_International.pdf (published 19 Nov 2025), fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -23,10 +23,15 @@
   },
   "accreditation": "R/010/3/0491 (12/27) (MQA/FA9105)",
   "sources": [
-    "https://www.rumc.edu.my/programmes/foundation-in-science/"
+    "https://www.rumc.edu.my/programmes/foundation-in-science/",
+    {
+      "url": "https://www.rumc.edu.my/fees/",
+      "publisher": "RUMC",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Science",
   "program_name_zh": "Science预科",
   "field_ar": "العلوم",

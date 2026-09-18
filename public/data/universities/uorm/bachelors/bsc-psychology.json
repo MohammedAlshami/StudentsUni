@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 36900,
-    "per_year": 12300,
-    "notes": ""
+    "total": null,
+    "per_year": 48000,
+    "notes": "International tuition RM48,000 per year; 6% SST applies to international students (effective 1 July 2025). Source: https://www.reading.edu.my/admissions/tuition-fees/fee-structure (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -25,10 +25,15 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/reading/courses/"
+    "https://www.studymalaysia.com/edu/reading/courses/",
+    {
+      "url": "https://www.reading.edu.my/admissions/tuition-fees/fee-structure",
+      "publisher": "University of Reading Malaysia",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "bsc-psychology",
   "program_name_ar": "بكالوريوس Psychology",
   "program_name_zh": "Psychology学士",

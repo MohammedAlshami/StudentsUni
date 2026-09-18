@@ -17,13 +17,13 @@
   "sources": [
     "https://www.studymalaysia.com/edu/wou/courses/"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
     "local_total": 45000,
     "international_total": null,
     "per_year_local": 15000,
     "per_year_international": null,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "WOU publishes a single tuition fee per programme (no separate international schedule); verified from official programme pages. See individual programme files. Last verified 2026-09-18."
   }
 }

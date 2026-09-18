@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 48534,
-    "per_year": 20044,
-    "notes": "From EasyUni (per_year based on 1.5yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Previous estimate removed: no official international student fee is published on Perdana University's website (perdanauniversity.edu.my programme/admission pages checked via archive and live, accessed 2026-09-18); fees are provided on enquiry/offer only."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -37,8 +37,8 @@
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Ageing and Health",
   "program_name_zh": "Science in Ageing and Health硕士",
   "field_ar": "الطب",

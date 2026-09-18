@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 65000,
-    "per_year": 13750,
-    "notes": " (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": 67000,
+    "notes": "International annual tuition fee for the 2026 intake (fixed for programme duration); 6% SST applies to international students from 1 July 2025. Source: https://www.nottingham.edu.my/Applications/Fees/UG.aspx (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -28,10 +28,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.nottingham.edu.my/Applications/Fees/UG.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "bachelor-of-engineering-hons-mechatronic-engineering",
   "program_name_ar": "بكالوريوس Engineering (Hons) Mechatronic Engineering",
   "program_name_zh": "Engineering (Hons) Mechatronic Engineering学士",

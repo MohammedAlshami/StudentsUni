@@ -6,20 +6,20 @@
   "program_slug": "master-of-marketing",
   "field": "Marketing & Sales",
   "faculty": null,
-  "duration": "1 year",
+  "duration": "1 Year",
   "mode": "Full-time",
   "intakes": [
-    "Jul",
+    "Jan",
     "Mar",
     "May",
-    "Sep",
-    "Jan"
+    "Jul",
+    "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 54390,
-    "per_year": 52140,
-    "notes": "Fee: FromRM55,200.00 (per_year based on 1.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 14277,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 14,277 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -44,10 +44,15 @@
       "url": "https://www.easyuni.my/malaysia/sunway-university-250/master-of-marketing-226400/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/sunway-business-school/courses/master-of-marketing",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Marketing",
   "program_name_zh": "Marketing硕士",
   "field_ar": "التسويق",

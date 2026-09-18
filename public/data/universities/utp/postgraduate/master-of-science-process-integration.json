@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 33000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 38600,
+    "per_year": null,
+    "notes": "International total tuition per UTP official international postgraduate fee page (international on-boarding fee RM5,200 extra). Source: https://www.utp.edu.my/Pages/Admission/Postgraduate/International-Applicants/Tuition-fees.aspx (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,15 @@
   "career_prospect": null,
   "sources": [
     "https://www.studymalaysia.com/edu/utp/courses/",
-    "https://www.utp.edu.my"
+    "https://www.utp.edu.my",
+    {
+      "url": "https://www.utp.edu.my/Pages/Admission/Postgraduate/International-Applicants/Tuition-fees.aspx",
+      "publisher": "Universiti Teknologi PETRONAS",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science (MSc) in Process Integration",
   "program_name_zh": "Science (MSc) in Process Integration硕士",
   "field_ar": "الهندسة",

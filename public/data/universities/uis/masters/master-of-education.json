@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 11000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "No tuition fee published on UIS official admissions site (study.uis.edu.my) or main site; international fee unverified. Checked https://study.uis.edu.my/ and https://www.uis.edu.my/ (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,10 +24,12 @@
   },
   "accreditation": null,
   "sources": [
-    "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus"
+    "https://study.uis.edu.my/peringkat-ijazah-sarjana-kerja-kursus",
+    "https://study.uis.edu.my/",
+    "https://www.uis.edu.my/"
   ],
   "confidence": 0.5,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Education",
   "program_name_zh": "Education硕士",
   "field_ar": "التربية والتعليم",

@@ -5,19 +5,19 @@
   "program_name": "American Degree Transfer Program (Applied Science)",
   "program_slug": "american-degree-transfer-program-applied-science",
   "field": "Science (Life Science/Physical Science/Applied Science)",
-  "duration": "2 Years (Malaysia) + 2 Years (USA/Canada)",
+  "duration": "1+3 / 1.5+2.5 / 2+2 years",
   "mode": "Full-time",
   "study_type": "Full-time Study",
   "intakes": [
-    "Aug",
     "Jan",
-    "Jun"
+    "May",
+    "Aug"
   ],
   "fees": {
     "currency": "MYR",
-    "total": 105000,
-    "per_year": 52500,
-    "notes": "Estimated ~RM35000/year for typical private university programme (per_year based on 2.0yr duration)"
+    "total": 48820,
+    "per_year": null,
+    "notes": "International student fee (published, exclusive of 6% SST) per official INTI programme page https://newinti.edu.my/programme/health-applied-sciences-american-university/ (INTI International College Subang), fetched 2026-09-18. Fee covers the INTI phase of the American Degree Transfer Program; total US/Canada phase fees are not included, so per_year not asserted."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -30,10 +30,15 @@
   "major_options": "Actuarial Science, Biosciences, Engineering, Health & Applied Sciences, etc.",
   "faculty": "American Degree Transfer Program",
   "sources": [
-    "https://studymalaysia.com/what/course/INTI/0009949/"
+    "https://studymalaysia.com/what/course/INTI/0009949/",
+    {
+      "url": "https://newinti.edu.my/programme/health-applied-sciences-american-university/",
+      "publisher": "INTI International University",
+      "fetched_at": "2026-09-18"
+    }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "American Degree Transfer Program (Applied Science)",
   "program_name_zh": "American Degree Transfer Program (Applied Science)",
   "field_ar": "العلوم",

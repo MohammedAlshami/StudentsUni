@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 139920,
-    "per_year": 105000.0,
-    "notes": "RM95,000/Yr local, RM105,000/Yr international, for each of the five years of the programme"
+    "total": null,
+    "per_year": 139920,
+    "notes": "Official international tuition for 2026 entry: RM139,920/year (RM132,000 base + 6% SST RM7,920). Source: https://www.ncl.ac.uk/numed/students/finance/tuition-fees/ (accessed 2026-09-18); see also https://www.ncl.ac.uk/numed/study-with-us/international-students/courses-and-fees/."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -46,10 +46,12 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.ncl.ac.uk/numed/students/finance/tuition-fees/",
+    "https://www.ncl.ac.uk/numed/study-with-us/international-students/courses-and-fees/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Medicine and Bachelor of Surgery (MBBS)",
   "program_name_zh": "Medicine and Bachelor of Surgery (MBBS)学士",
   "field_ar": "الطب",

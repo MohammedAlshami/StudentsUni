@@ -6,16 +6,16 @@
   "program_slug": "post-graduate-diploma-in-primary-care-for-elderly",
   "field": "Medicine & Healthcare",
   "faculty": null,
-  "duration": "1 year",
+  "duration": "1 Year",
   "mode": "Full-time",
   "intakes": [
     "Jan"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 28450,
-    "per_year": 26200,
-    "notes": "Fee: FromRM20,000.00 (per_year based on 1.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 6384,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 6,384 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -35,10 +35,20 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/postgraduate-diploma-primary-care-elderly",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/postgraduate-diploma-primary-care-elderly",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Post Graduate Diploma in Primary Care for Elderly",
   "program_name_zh": "Post Graduate Diploma in Primary Care for Elderly",
   "field_ar": "الطب",

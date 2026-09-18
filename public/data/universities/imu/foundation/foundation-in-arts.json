@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30900,
-    "per_year": 30900,
-    "notes": "From EasyUni (per_year based on 1.0yr duration)"
+    "total": 32400,
+    "per_year": 32400,
+    "notes": "International student tuition per official IMU programme page https://imu.edu.my/academics/pre-university/foundation-in-arts/, fetched 2026-09-18. Official page publishes total tuition RM32,400 (RM10,800/semester); the tuition table does not have a separate international column."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -30,10 +30,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://imu.edu.my/academics/pre-university/foundation-in-arts/",
+      "publisher": "IMU University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Arts",
   "program_name_zh": "Arts预科",
   "field_ar": "الفنون",

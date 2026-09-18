@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 11250,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": 86957,
+    "per_year": null,
+    "notes": "GMI official Programme Guide May 2026, Bachelor's Degree (International Students) fee structure (https://www.gmi.edu.my/wp-content/uploads/2026/05/PROGRAMME-GUIDE-May-2026-rev-02.pdf), accessed 2026-09-18: international total course fee (tuition + misc) MYR 86,957 over 8 semesters; hostel excluded."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -30,8 +30,8 @@
       "type": "official"
     }
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "Bachelor Electrical Engineering Technology (BELT)",
   "program_name_zh": "Bachelor Electrical Engineering Technology (BELT)",
   "field_ar": "الهندسة الكهربائية",

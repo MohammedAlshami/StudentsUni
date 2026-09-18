@@ -11,10 +11,10 @@
     "September"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 25410,
-    "per_year": 11293,
-    "notes": "RM 385 x 44 Units. From USM fee schedule. (per_year based on 1.5yr duration)"
+    "currency": "USD",
+    "total": 9600,
+    "per_year": null,
+    "notes": "Official USM international postgraduate tuition (total per programme): USD 9,600; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -34,10 +34,11 @@
       "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
       "publisher": "USM Admissions",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://admission.usm.my/index.php/postgraduate/fee-pg"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Business Administration (MBA)",
   "program_name_zh": "Business Administration (MBA)硕士",
   "field_ar": "إدارة الأعمال",

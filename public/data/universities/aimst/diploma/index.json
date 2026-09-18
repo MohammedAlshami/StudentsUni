@@ -360,10 +360,10 @@
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 40000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 16000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 2.5yr duration)"
+    "notes": "AIMST does not publish tuition fees on its official website; fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   }
 }

@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 16000,
-    "per_year": 16000,
-    "notes": "Estimated ~RM16000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 7055,
+    "per_year": null,
+    "notes": "UniSHAMS official 2024 international student fee structure for Foundation in Management (https://unishams.edu.my/images/KULLIYAH/yuran-2024/1.ASASI/I-asp.pdf, retrieved via Internet Archive), accessed 2026-09-18: international total MYR 7,055 (registration, tuition, administration and applicable deposit/collateral/convocation; accommodation excluded and optional)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -26,8 +26,8 @@
   "sources": [
     "https://unishams.edu.my/component/content/article/foundation-in-management?catid=11"
   ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "تأسيس Management",
   "program_name_zh": "Management预科",
   "field_ar": "إدارة الأعمال",

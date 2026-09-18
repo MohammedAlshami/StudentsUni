@@ -13,12 +13,12 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 10000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "International fee not published on the official UC TATI programme prospectus page for this programme (only local fees in the general flyer). Contact igs@uctati.edu.my. Source: https://www.tatiuc.edu.my/ (checked 2026-09-18). Checked 2026-09-18."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "english_requirement": "IELTS 5.0 / TOEFL 500 / MUET Band 2 (official UC TATI prospectus)",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
@@ -29,8 +29,8 @@
       "type": "official"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Industrial Automation Technology",
   "program_name_zh": "Industrial Automation Technology文凭",
   "field_ar": "Industrial Automation",

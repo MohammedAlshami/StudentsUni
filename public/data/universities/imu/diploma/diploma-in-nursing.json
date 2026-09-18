@@ -11,9 +11,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 24750,
-    "per_year": 5500,
-    "notes": "From EasyUni (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: official IMU programme page has no published fee table for this programme (checked 2026-09-18); previous estimate removed."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -33,7 +33,7 @@
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Nursing",
   "program_name_zh": "Nursing文凭",
   "field_ar": "التمريض",

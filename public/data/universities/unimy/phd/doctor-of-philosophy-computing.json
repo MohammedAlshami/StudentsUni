@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 27000,
-    "per_year": 9000,
-    "notes": ""
+    "total": 34900,
+    "per_year": null,
+    "notes": "UNIMY official fee structures page (https://www.unimy.edu.my/fee-structures/), accessed 2026-09-18: international student fee MYR 34,900 (total programme fee)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -25,8 +25,8 @@
   "sources": [
     "https://www.studymalaysia.com/edu/unimy/courses/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "slug": "doctor-of-philosophy-computing",
   "program_name_ar": "دكتوراه فلسفة (Computing)",
   "program_name_zh": "哲学博士 (Computing)",

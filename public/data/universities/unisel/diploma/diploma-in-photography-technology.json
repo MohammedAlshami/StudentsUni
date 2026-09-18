@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 9511,
-    "per_year": 2180,
-    "notes": "From EasyUni (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: no international-student fee schedule is published on unisel.edu.my (international admissions and programme pages checked 2026-09-18). Previous third-party/estimated value removed."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -39,10 +39,15 @@
       "url": "https://www.easyuni.my/malaysia/universiti-selangor-unisel-12328/diploma-in-information-technology-294137/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://unisel.edu.my/admission-international-student/",
+      "publisher": "unisel",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "diploma-in-photography-technology",
   "program_name_ar": "دبلوم Photography Technology",
   "program_name_zh": "Photography Technology文凭",

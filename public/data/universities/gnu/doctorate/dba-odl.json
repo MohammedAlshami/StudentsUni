@@ -4,7 +4,7 @@
   "level": "doctorate",
   "program_name": "Doctor of Business Administration",
   "field": "Business Administration",
-  "duration": "3 years",
+  "duration": "2 years",
   "mode": "ODL",
   "intakes": [
     "Sep",
@@ -12,10 +12,10 @@
     "Jun"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 54000,
-    "per_year": 18000,
-    "notes": "Estimated ~RM18000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "currency": "USD",
+    "total": 6850,
+    "per_year": null,
+    "notes": "International fee: US$6,850 total (2 years, 2 instalments); excludes SST/EMGS/visa fees. Source: https://globalnxt.edu.my/tuition-fees (updated 11 Nov 2025; accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -30,10 +30,15 @@
     {
       "url": "https://www.globalnxt.edu.my",
       "type": "official"
+    },
+    {
+      "url": "https://globalnxt.edu.my/tuition-fees",
+      "publisher": "GlobalNxt University",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Business Administration",
   "program_name_zh": "Business Administration博士",
   "field_ar": "إدارة الأعمال",

@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 16500,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 4.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Unverified: not listed in the international-student table of the official UTS tuition page (only in the local table); checked official page https://uts.edu.my/tuitionfees on 2026-09-18. Previous estimate removed."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -29,7 +29,7 @@
   ],
   "confidence": "verified",
   "notes": "Offered at UTS Laila Taib Mukah Campus, launched 2025.",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Marine Engineering Technology (Hons)",
   "program_name_zh": "Marine Engineering Technology (Hons)学士",
   "field_ar": "الهندسة",

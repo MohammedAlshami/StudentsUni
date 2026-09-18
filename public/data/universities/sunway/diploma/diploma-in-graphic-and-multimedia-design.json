@@ -15,9 +15,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 29123,
-    "per_year": 11832,
-    "notes": "Fee: FromRM46,900.00 (per_year based on 2.25yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Programme not listed on Sunway University official course pages as of 2026-09-18; no international fee verified (programme may be discontinued or renamed)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -46,8 +46,8 @@
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "high",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Graphic and Multimedia Design",
   "program_name_zh": "Graphic and Multimedia Design文凭",
   "field_ar": "الفنون",

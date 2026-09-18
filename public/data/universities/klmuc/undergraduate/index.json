@@ -14,11 +14,9 @@
     ],
     "fees": {
       "currency": "MYR",
-      "local_total": 67500,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme"
+      "total": null,
+      "per_year": null,
+      "notes": "Official UNITAR University College Kuala Lumpur (KLMUC) programme listing publishes only 'Local Student' total tuition fees (bachelor's RM30,000-RM48,000; diplomas RM15,000-RM26,154; foundation RM8,000; master's RM12,000-RM25,320; PhD RM29,000-RM39,000). International fees are not published, so left null. Source: https://www.unitar.my/uuckl/programmes/ (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": {
@@ -29,7 +27,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "high",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Bachelor in Accounting and Finance",
@@ -46,11 +44,9 @@
     ],
     "fees": {
       "currency": "MYR",
-      "local_total": 67500,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme"
+      "total": null,
+      "per_year": null,
+      "notes": "Official UNITAR University College Kuala Lumpur (KLMUC) programme listing publishes only 'Local Student' total tuition fees (bachelor's RM30,000-RM48,000; diplomas RM15,000-RM26,154; foundation RM8,000; master's RM12,000-RM25,320; PhD RM29,000-RM39,000). International fees are not published, so left null. Source: https://www.unitar.my/uuckl/programmes/ (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": {
@@ -62,7 +58,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "high",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Bachelor in Human Resource Management (Honours)",
@@ -78,11 +74,9 @@
     ],
     "fees": {
       "currency": "MYR",
-      "local_total": 67500,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme"
+      "total": null,
+      "per_year": null,
+      "notes": "Official UNITAR University College Kuala Lumpur (KLMUC) programme listing publishes only 'Local Student' total tuition fees (bachelor's RM30,000-RM48,000; diplomas RM15,000-RM26,154; foundation RM8,000; master's RM12,000-RM25,320; PhD RM29,000-RM39,000). International fees are not published, so left null. Source: https://www.unitar.my/uuckl/programmes/ (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": {
@@ -94,7 +88,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "high",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Bachelor in Business Management (Honours)",
@@ -110,11 +104,9 @@
     ],
     "fees": {
       "currency": "MYR",
-      "local_total": 67500,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme"
+      "total": null,
+      "per_year": null,
+      "notes": "Official UNITAR University College Kuala Lumpur (KLMUC) programme listing publishes only 'Local Student' total tuition fees (bachelor's RM30,000-RM48,000; diplomas RM15,000-RM26,154; foundation RM8,000; master's RM12,000-RM25,320; PhD RM29,000-RM39,000). International fees are not published, so left null. Source: https://www.unitar.my/uuckl/programmes/ (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": {
@@ -126,7 +118,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "high",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Bachelor of Education (Hons)",
@@ -142,11 +134,9 @@
     ],
     "fees": {
       "currency": "MYR",
-      "local_total": 67500,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme"
+      "total": null,
+      "per_year": null,
+      "notes": "Official UNITAR University College Kuala Lumpur (KLMUC) programme listing publishes only 'Local Student' total tuition fees (bachelor's RM30,000-RM48,000; diplomas RM15,000-RM26,154; foundation RM8,000; master's RM12,000-RM25,320; PhD RM29,000-RM39,000). International fees are not published, so left null. Source: https://www.unitar.my/uuckl/programmes/ (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": {
@@ -158,7 +148,7 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "high",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   },
   {
     "program_name": "Bachelor of Education (Early Childhood Education) (Hons)",
@@ -174,11 +164,9 @@
     ],
     "fees": {
       "currency": "MYR",
-      "local_total": 67500,
-      "international_total": null,
-      "per_year_local": 15000,
-      "per_year_international": null,
-      "notes": "Estimated ~RM15000/year for typical private university programme"
+      "total": null,
+      "per_year": null,
+      "notes": "Official UNITAR University College Kuala Lumpur (KLMUC) programme listing publishes only 'Local Student' total tuition fees (bachelor's RM30,000-RM48,000; diplomas RM15,000-RM26,154; foundation RM8,000; master's RM12,000-RM25,320; PhD RM29,000-RM39,000). International fees are not published, so left null. Source: https://www.unitar.my/uuckl/programmes/ (checked 2026-09-18)."
     },
     "requirements": null,
     "accreditation": {
@@ -190,6 +178,6 @@
       "https://www.unitar.my/programmes/"
     ],
     "confidence": "high",
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-18"
   }
 ]

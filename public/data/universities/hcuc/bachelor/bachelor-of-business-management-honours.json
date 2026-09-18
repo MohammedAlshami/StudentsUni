@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 20604,
+    "per_year": null,
+    "notes": "Official programme page lists \"From RM20,604\" (nationality not specified; no separate international fee published). Source: https://www.hcu.edu.my/b-business-management-hons (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -33,10 +33,11 @@
       "url": "https://www.hcu.edu.my/business-and-management",
       "publisher": "official",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.hcu.edu.my/b-business-management-hons"
   ],
   "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Management (Honours)",
   "program_name_zh": "Business Management (Honours)学士",
   "field_ar": "إدارة الأعمال",

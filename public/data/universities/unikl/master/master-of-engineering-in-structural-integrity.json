@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme"
+    "total": 28600,
+    "per_year": null,
+    "notes": "Official international tuition: RM28,600 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-engineering-in-structural-integrity/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
       "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-engineering-in-structural-integrity-293780/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.unikl.edu.my/programme/master-of-engineering-in-structural-integrity/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Engineering in Structural Integrity",
   "program_name_zh": "Engineering in Structural Integrity硕士",
   "field_ar": "الهندسة",

@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 33000,
-    "per_year": 33000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.0yr duration)"
+    "total": 50040,
+    "per_year": null,
+    "notes": "Official international tuition: RM25,020/semester, RM50,040 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-science-in-public-health/ (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -27,10 +27,11 @@
       "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-science-in-public-health-293773/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://www.unikl.edu.my/programme/master-of-science-in-public-health/"
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science in Public Health",
   "program_name_zh": "Science in Public Health硕士",
   "field_ar": "العلوم",

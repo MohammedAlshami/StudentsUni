@@ -13,9 +13,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 45000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Limkokwing University official website (limkokwing.edu.my) was unreachable (HTTP 522) as of 2026-09-18 and no official international fee schedule is accessible online; fee unverified. Previous figure was an unverified generic estimate."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -28,8 +28,8 @@
     "https://limkokwing.net/malaysia/academic/courses/",
     "https://www.limkokwing.edu.my"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Arts (Honours) in Fashion Design",
   "program_name_zh": "Arts (Honours) in Fashion Design学士",
   "field_ar": "الفنون",

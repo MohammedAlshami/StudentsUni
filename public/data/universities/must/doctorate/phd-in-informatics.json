@@ -12,10 +12,10 @@
     "Jun"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 75000,
-    "per_year": 15000,
-    "notes": "Estimated ~RM25000/year for typical private university programme (per_year based on 5.0yr duration)"
+    "currency": "USD",
+    "total": 11000,
+    "per_year": null,
+    "notes": "International tuition USD 2,000/semester for 5 semesters + USD 1,000 final semester = USD 11,000; admission fees extra (registration USD 80, resource USD 140, visa USD 800, security bond varies). Source: https://must.edu.my/center-for-postgraduate-studies_school-of-computing-artificial-intelligence/ (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
@@ -27,10 +27,15 @@
       "url": "https://must.edu.my/programmes_explore-our-programmes/",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://must.edu.my/center-for-postgraduate-studies_school-of-computing-artificial-intelligence/",
+      "publisher": "Malaysia University of Science and Technology",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة",
   "program_name_zh": "哲学博士",
   "field_ar": "Computing",

@@ -9,15 +9,15 @@
   "duration": "2 years",
   "mode": "Full-time",
   "intakes": [
+    "Jan",
     "Apr",
-    "Feb",
     "Sep"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 41700,
-    "per_year": 20850,
-    "notes": "Fee: FromRM41,700.00 (per_year based on 2.0yr duration)"
+    "currency": "USD",
+    "total": null,
+    "per_year": 7407,
+    "notes": "Official estimated annual international course fee (Year 2026): USD 7,407 (payable in RM equivalent at the prevailing exchange rate). Source: Sunway University official course page, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -29,10 +29,15 @@
   "awarding_country": null,
   "sources": [
     "https://www.studymalaysia.com/what/course/SUNWAY/0009946/",
-    "https://www.studymalaysia.com/edu/sunway/courses/"
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://sunwayuniversity.edu.my/school-of-american-education/courses/american-degree-transfer-program",
+      "publisher": "Sunway University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "American Degree Transfer Programme (Science / Engineering)",
   "program_name_zh": "American Degree Transfer Programme (Science / Engineering)",
   "field_ar": "العلوم",

@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 66000,
-    "per_year": 22000,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "UNIRAZAK does not publish programme fees: each programme page's 'Fee Structure' section refers students to an Education Counsellor (03-2730 7030) and the official brochures contain no fee figures. Fee therefore left null. Source: https://unirazak.edu.my/programmes/bachelor-of-accounting-honours/ (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
@@ -26,10 +26,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://studymalaysia.com/what/course/UNIRAZAK/0055956/"
+    "https://studymalaysia.com/what/course/UNIRAZAK/0055956/",
+    "https://unirazak.edu.my/admission/international-students/"
   ],
-  "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Administration (Islamic Financial Planning) (Hons)",
   "program_name_zh": "Business Administration (Islamic Financial Planning) (Hons)学士",
   "field_ar": "المحاسبة",

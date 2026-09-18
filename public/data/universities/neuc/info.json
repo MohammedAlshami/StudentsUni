@@ -50,16 +50,17 @@
       "url": "https://en.wikipedia.org/wiki/New_Era_University_College",
       "type": "wikipedia",
       "note": "Faculties and history; established 1997, university college 2017"
-    }
+    },
+    "https://www.newera.edu.my/enrolment.php?id=142"
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "notes": "Private non-profit. 6 faculties: FAME, FICT, FASS, FMCA, Education, Health/Safety/Security/Environment. Also has Graduate School, Institute of International Education, Institute of Ageing. DKU040(B). LCCI RTC, Cisco Networking Academy. Founded 1997, university college 2017. MAPCU affiliated. 42 programs verified from official website with MQA codes.",
   "fees": {
     "currency": "MYR",
-    "local_total": 45000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 15000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "NEUC publishes a single fee schedule with no local/international distinction: foundation RM11,700 total; diplomas RM23,200-RM38,000 total; bachelors RM39,700-RM48,500 total; masters RM12,200-RM18,200; PhD RM18,200-RM19,200 (official Tuition Fees page https://www.newera.edu.my/enrolment.php?id=142, checked 2026-09-18)."
   }
 }

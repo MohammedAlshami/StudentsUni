@@ -5,7 +5,7 @@
   "program_name": "Diploma in Business Administration",
   "program_slug": "diploma-in-business-administration",
   "field": "business",
-  "duration": "3 years",
+  "duration": "2 years",
   "mode": "Full-time",
   "intakes": [
     "January",
@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 10000,
-    "notes": "Estimated ~RM12000/year for typical private university programme (per_year based on 3.0yr duration)"
+    "total": 25700,
+    "per_year": null,
+    "notes": "Official NEUC total fee RM25,700 (tuition + miscellaneous + application as per official schedule). No separate international rate published. Official NEUC 'Tuition Fees & Miscellaneous Fees' schedule. Total = tuition + miscellaneous + application fee as published; NEUC does not publish separate local/international rates. Source: https://www.newera.edu.my/enrolment.php?id=142 (checked 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
@@ -32,10 +32,11 @@
       "url": "https://www.newera.edu.my/course_details.php?acalevel=3",
       "publisher": "official",
       "fetched_at": "2026-09-15"
-    }
+    },
+    "https://www.newera.edu.my/enrolment.php?id=142"
   ],
-  "confidence": "verified",
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Business Administration",
   "program_name_zh": "Business Administration文凭",
   "field_ar": "إدارة الأعمال",

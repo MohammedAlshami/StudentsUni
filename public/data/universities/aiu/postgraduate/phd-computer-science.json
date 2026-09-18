@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 19146,
-    "per_year": 3191,
-    "notes": ""
+    "total": 19750,
+    "per_year": null,
+    "notes": "Doctor of Philosophy in Computer Science: international total RM19,750 (tuition RM12,000 + registration/admin/convocation RM750 + resource RM1,800 + examination RM4,000 + refundable security deposit RM1,200). Excludes EMGS fee and insurance. Source: https://aiu.edu.my/postgraduate/, fetched 2026-09-18."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -24,10 +24,15 @@
   },
   "accreditation": "N/0613/8/0015 (04/33) MQA/PA 18689",
   "sources": [
-    "https://www.aiu.edu.my/postgraduate"
+    "https://www.aiu.edu.my/postgraduate",
+    {
+      "url": "https://aiu.edu.my/postgraduate/",
+      "publisher": "Albukhary International University",
+      "fetched_at": "2026-09-18"
+    }
   ],
-  "confidence": 0.95,
-  "last_updated": "2026-09-16",
+  "confidence": "high",
+  "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة in Computer Science",
   "program_name_zh": "哲学博士 in Computer Science",
   "field_ar": "Computing & Technology",

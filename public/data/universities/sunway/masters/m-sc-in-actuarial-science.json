@@ -14,9 +14,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 36880,
-    "per_year": 18440,
-    "notes": "Fee: FromRM36,880.00 (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": null,
+    "notes": "Not listed on Sunway University official course pages as of 2026-09-18. Closest current programme: Master of Science in Actuarial Analytics (USD 11,788/year international, Jan/May/Sep intakes). No exact fee verified for this programme."
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -28,8 +28,8 @@
     "https://www.studymalaysia.com/what/course/SUNWAY/0056972/",
     "https://www.studymalaysia.com/edu/sunway/courses/"
   ],
-  "confidence": 0.7,
-  "last_updated": "2026-09-16",
+  "confidence": "low",
+  "last_updated": "2026-09-18",
   "program_name_ar": "M.Sc in Actuarial Science",
   "program_name_zh": "M.Sc in Actuarial Science",
   "field_ar": "Mathematics & Statistics",

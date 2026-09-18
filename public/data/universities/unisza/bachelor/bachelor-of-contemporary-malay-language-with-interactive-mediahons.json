@@ -13,9 +13,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 19200,
-    "per_year": 4800,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "Listed with no international fee (dash) in UniSZA official International Student Tuition Fees schedule (2022) - programme appears not open to international students. Source: https://www.unisza.edu.my/wp-content/uploads/2022/Files/INT-INTERNATIONAL-STUDENT-TUITION-FEES-2022.pdf (accessed 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -25,10 +25,11 @@
   },
   "accreditation": null,
   "sources": [
-    "https://www.studymalaysia.com/edu/unisza/courses/"
+    "https://www.studymalaysia.com/edu/unisza/courses/",
+    "https://www.unisza.edu.my/wp-content/uploads/2022/Files/INT-INTERNATIONAL-STUDENT-TUITION-FEES-2022.pdf"
   ],
   "confidence": 0.8,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Contemporary Malay Language with Interactive Media(Hons)",
   "program_name_zh": "Contemporary Malay Language with Interactive Media(Hons)学士",
   "field_ar": "Languages",

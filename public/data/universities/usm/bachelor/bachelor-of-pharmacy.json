@@ -11,10 +11,10 @@
     "September"
   ],
   "fees": {
-    "currency": "MYR",
-    "total": 6800,
-    "per_year": 1700,
-    "notes": "RM 850/Sem (8 semesters)"
+    "currency": "USD",
+    "total": null,
+    "per_year": null,
+    "notes": "No international tuition published for this programme in USM official international undergraduate fee schedule (antarbangsa.csv) or fee pages; may not be open to international students. Checked https://admission.usm.my/images/data/antarbangsa.csv and https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027 (accessed 2026-09-18)."
   },
   "requirements": {
     "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
@@ -31,10 +31,12 @@
       "url": "https://studymalaysia.com/edu/usm/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-14"
-    }
+    },
+    "https://admission.usm.my/images/data/antarbangsa.csv",
+    "https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027"
   ],
   "confidence": "medium",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Pharmacy(Hons)",
   "program_name_zh": "Pharmacy(Hons)学士",
   "field_ar": "الطب",

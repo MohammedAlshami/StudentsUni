@@ -6,7 +6,7 @@
   "state": "Kuala Lumpur",
   "website": "https://www.uptm.edu.my",
   "studymalaysia_url": null,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "sources": [
     {
       "url": "https://www.uptm.edu.my/index.php/academics/programmes/diploma-programmes",
@@ -30,10 +30,10 @@
   },
   "fees": {
     "currency": "MYR",
-    "local_total": 45000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 15000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM15000/year for typical private university programme (per_year based on 3yr duration)"
+    "notes": "Official international fees where published: bachelor's RM50,800-RM60,750 total; diplomas RM22,000-RM28,810; master's RM24,670-RM28,850. Several programmes publish no international fee. Source: https://www.uptm.edu.my/ programme pages (checked 2026-09-18)."
   }
 }

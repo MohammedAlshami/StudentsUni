@@ -12,9 +12,9 @@
   ],
   "fees": {
     "currency": "MYR",
-    "total": 74000,
-    "per_year": 30750,
-    "notes": " (per_year based on 2.0yr duration)"
+    "total": null,
+    "per_year": 75000,
+    "notes": "International annual tuition fee for the 2026 intake (fixed for programme duration); official 2026 fee table lists this as the Executive MBA (EMBA); 6% SST applies to international students from 1 July 2025. Source: https://www.nottingham.edu.my/Applications/Fees/PG.aspx (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -32,10 +32,15 @@
       "url": "https://www.easyuni.com/",
       "publisher": "EasyUni",
       "fetched_at": "2026-09-15"
+    },
+    {
+      "url": "https://www.nottingham.edu.my/Applications/Fees/PG.aspx",
+      "publisher": "University of Nottingham Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "slug": "mba-master-of-business-administration",
   "program_name_ar": "M.B.A. (Master of Business Administration)",
   "program_name_zh": "M.B.A. (Master of Business Administration)",

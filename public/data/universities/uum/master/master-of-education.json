@@ -12,9 +12,9 @@
   },
   "fees": {
     "currency": "MYR",
-    "total": 30000,
-    "per_year": 15000,
-    "notes": "Standard public university fees (MQA regulated)"
+    "total": null,
+    "per_year": null,
+    "notes": "International fees: registration RM750, management RM2,000, medical RM200; 6% service tax applies to international student fees from 1 Sep 2025. Coursework RM550/credit hour + dissertation RM4,650/semester + viva RM1,600. Source: https://www.uum.edu.my/admissions/fees/postgraduate (fetched 2026-09-18)"
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
@@ -29,10 +29,15 @@
       "url": "https://www.uum.edu.my/admissions/application-guidelines/postgraduate",
       "publisher": "UUM Admissions",
       "fetched_at": "2026-09-14"
+    },
+    {
+      "url": "https://www.uum.edu.my/admissions/fees/postgraduate",
+      "publisher": "Universiti Utara Malaysia",
+      "fetched_at": "2026-09-18"
     }
   ],
   "confidence": "partial",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Education",
   "program_name_zh": "Education硕士",
   "field_ar": "التربية والتعليم",
