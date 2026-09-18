@@ -156,6 +156,21 @@ function parseFee(v) {
   return null;
 }
 
+function sanitizeFees(currency, feeTotal, feePerYear, notes = "") {
+  let t = feeTotal;
+  let py = feePerYear;
+  if (/unverified|estimated/i.test(String(notes))) {
+    t = null;
+    py = null;
+  }
+  if (["MYR", "RM"].includes((currency || "").toUpperCase())) {
+    if (py && t && py * 6 < t) py = null;
+    if (py && py < 2000) py = null;
+    if (t && t < 2000) t = null;
+  }
+  return [t, py];
+}
+
 function offeringFrom(raw, uniSlug, university, level) {
   const programSlug = entrySlug(raw);
   if (!programSlug) return null;
@@ -180,6 +195,8 @@ function offeringFrom(raw, uniSlug, university, level) {
     feePerYear = parseFee(fees.per_year) ?? parseFee(fees.per_year_international);
     duration = raw.duration ?? null;
   }
+  const feeNotes = (detail?.fees?.notes ?? raw?.fees?.notes ?? "").toString();
+  const [safeTotal, safePerYear] = sanitizeFees(currency, feeTotal, feePerYear, feeNotes);
   return {
     university,
     university_slug: uniSlug,
@@ -188,8 +205,8 @@ function offeringFrom(raw, uniSlug, university, level) {
     program_slug: programSlug,
     name,
     duration,
-    feeTotal,
-    feePerYear,
+    feeTotal: safeTotal,
+    feePerYear: safePerYear,
     currency,
     mqaStatus,
   };

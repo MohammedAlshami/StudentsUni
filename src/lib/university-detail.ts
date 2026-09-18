@@ -127,13 +127,17 @@ export function entryField(raw: string | Record<string, unknown>): string {
 }
 
 function normalizeFees(fees: Record<string, unknown>): NormalizedProgramDetail["fees"] {
+  const notes = (fees.notes as string) || "";
+  if (/unverified|estimated/i.test(notes)) {
+    return { currency: (fees.currency as string) || "MYR", total: null, per_year: null, notes };
+  }
   const total = parseFeeValue(fees.total) ?? parseFeeValue(fees.international_total);
   const perYear = parseFeeValue(fees.per_year) ?? parseFeeValue(fees.per_year_international);
   return {
     currency: (fees.currency as string) || "MYR",
     total,
     per_year: perYear,
-    notes: (fees.notes as string) || "",
+    notes,
   };
 }
 
