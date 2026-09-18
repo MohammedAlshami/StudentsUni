@@ -5,6 +5,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { ArrowUpRight, BadgeCheck, GraduationCap, Layers, MapPin, Wallet } from "lucide-react";
 import { wrap, Pic, Label, Heading, Pill, institutionTypeLabel } from "@/components/marketing-ui";
 import { getUniversityImage, getUniversityGallery, UNIVERSITY_PHOTOS } from "@/lib/university-images";
+import { formatUsdRange } from "@/lib/fees";
 import { getUniversityStats } from "@/lib/university-stats";
 import { detectLevels, getProgramsByLevel } from "@/lib/university-detail";
 import { UniversityProgramsExplorer } from "@/components/university-programs-explorer";
@@ -95,9 +96,7 @@ export default async function UniversityDetailPage({
   const typeLabel = institutionTypeLabel(tCommon, info.type);
 
   const feeRangeText = stats.feeRange
-    ? stats.feeRange.min === stats.feeRange.max
-      ? `${stats.feeRange.currency} ${stats.feeRange.min.toLocaleString()}`
-      : `${stats.feeRange.currency} ${stats.feeRange.min.toLocaleString()} – ${stats.feeRange.max.toLocaleString()}`
+    ? formatUsdRange(stats.feeRange.min, stats.feeRange.max, stats.feeRange.currency)
     : null;
 
   const levelList =

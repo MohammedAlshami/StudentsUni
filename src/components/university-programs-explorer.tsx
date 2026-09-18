@@ -5,6 +5,7 @@ import { Link } from "@/i18n/navigation";
 import { useTranslations, useLocale } from "next-intl";
 import { ChevronLeft, ChevronRight, Clock, Wallet } from "lucide-react";
 import type { LevelPrograms } from "@/lib/university-detail";
+import { formatUsd } from "@/lib/fees";
 
 const LEVEL_LABEL_KEYS: Record<string, string> = {
   foundation: "foundation",
@@ -25,8 +26,10 @@ const LEVEL_LABEL_KEYS: Record<string, string> = {
 const PAGE_SIZE = 12;
 
 function formatFee(fee: number | null, feePerYear: number | null, currency: string): string | null {
-  if (fee) return `${currency} ${fee.toLocaleString()}`;
-  if (feePerYear) return `${currency} ${feePerYear.toLocaleString()}/yr`;
+  const total = formatUsd(fee, currency);
+  if (total) return total;
+  const perYear = formatUsd(feePerYear, currency);
+  if (perYear) return `${perYear}/yr`;
   return null;
 }
 

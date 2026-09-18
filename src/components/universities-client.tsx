@@ -7,6 +7,7 @@ import { useTranslations, useLocale } from "next-intl";
 import { ChevronLeft, ChevronRight, GraduationCap, Landmark, MapPin, Search, SlidersHorizontal, Wallet } from "lucide-react";
 import { wrap, Label, institutionTypeLabel } from "@/components/marketing-ui";
 import { getUniversityImage } from "@/lib/university-images";
+import { formatUsdRange } from "@/lib/fees";
 import type { UniversityStats } from "@/lib/university-stats";
 
 type Institution = {
@@ -33,8 +34,7 @@ const PAGE_SIZE = 15;
 function formatFeeRange(stats?: UniversityStats): string | null {
   if (!stats?.feeRange) return null;
   const { min, max, currency } = stats.feeRange;
-  const fmt = (n: number) => `${currency} ${Math.round(n).toLocaleString()}`;
-  return min === max ? fmt(min) : `${fmt(min)} – ${fmt(max)}`;
+  return formatUsdRange(min, max, currency);
 }
 
 function UniversityMark({ slug, name, abbr }: { slug: string; name: string; abbr: string }) {

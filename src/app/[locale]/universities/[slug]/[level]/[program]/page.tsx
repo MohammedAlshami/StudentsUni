@@ -7,6 +7,7 @@ import { wrap, Label, Pill } from "@/components/marketing-ui";
 import { normalizeProgramsList, loadProgramDetail, entrySlug } from "@/lib/university-detail";
 import { getCanonicalProgramForOffering } from "@/lib/program-catalog";
 import { getUniversityGallery } from "@/lib/university-images";
+import { formatUsd } from "@/lib/fees";
 import { routing } from "@/i18n/routing";
 
 const LEVEL_LABEL_KEYS: Record<string, string> = {
@@ -205,11 +206,11 @@ export default async function ProgramDetailPage({
             <div className="mt-[10px]">
               <Fact
                 label={t("totalFee")}
-                value={fee.total ? `${fee.currency} ${fee.total.toLocaleString()}` : null}
+                value={formatUsd(fee.total, fee.currency)}
               />
               <Fact
                 label={t("perYear")}
-                value={fee.per_year ? `${fee.currency} ${fee.per_year.toLocaleString()}` : null}
+                value={formatUsd(fee.per_year, fee.currency)}
               />
               {fee.notes && <p className="mt-[10px] text-[12px] italic text-black/50">{fee.notes}</p>}
               {!hasFees && (
