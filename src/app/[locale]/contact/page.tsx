@@ -45,6 +45,20 @@ export default function ContactPage() {
               <form
                 onSubmit={(e) => {
                   e.preventDefault();
+                  const data = new FormData(e.currentTarget);
+                  const get = (k: string) => String(data.get(k) ?? "").trim();
+                  const lines = [
+                    `Name: ${get("fullName")}`,
+                    `Email: ${get("email")}`,
+                    `Phone: ${get("phone")}`,
+                    `I am a: ${get("iAmA")}`,
+                    `Level of study: ${get("level")}`,
+                    "",
+                    get("message"),
+                  ];
+                  const subject = encodeURIComponent(`Website enquiry from ${get("fullName") || "a student"}`);
+                  const body = encodeURIComponent(lines.join("\n"));
+                  window.location.href = `mailto:info@arabicera.com?subject=${subject}&body=${body}`;
                   setSubmitted(true);
                 }}
                 className="mt-[16px] space-y-[16px]"
@@ -52,21 +66,21 @@ export default function ContactPage() {
                 <div className="grid grid-cols-1 gap-[16px] sm:grid-cols-2">
                   <div>
                     <label className={labelClass}>{t("form.fullName")}</label>
-                    <input type="text" required className={inputClass} placeholder={t("form.fullNamePlaceholder")} />
+                    <input type="text" name="fullName" required className={inputClass} placeholder={t("form.fullNamePlaceholder")} />
                   </div>
                   <div>
                     <label className={labelClass}>{t("form.email")}</label>
-                    <input type="email" required className={inputClass} placeholder="you@email.com" />
+                    <input type="email" name="email" required className={inputClass} placeholder="you@email.com" />
                   </div>
                 </div>
                 <div className="grid grid-cols-1 gap-[16px] sm:grid-cols-2">
                   <div>
                     <label className={labelClass}>{t("form.phone")}</label>
-                    <input type="tel" className={inputClass} />
+                    <input type="tel" name="phone" className={inputClass} />
                   </div>
                   <div>
                     <label className={labelClass}>{t("form.iAmA")}</label>
-                    <select className={inputClass}>
+                    <select name="iAmA" className={inputClass}>
                       <option>{t("form.options.student")}</option>
                       <option>{t("form.options.parent")}</option>
                       <option>{t("form.options.other")}</option>
@@ -75,7 +89,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <label className={labelClass}>{t("form.levelOfStudy")}</label>
-                  <select className={inputClass}>
+                  <select name="level" className={inputClass}>
                     <option>{t("form.levels.foundation")}</option>
                     <option>{t("form.levels.diploma")}</option>
                     <option>{t("form.levels.bachelor")}</option>
@@ -86,6 +100,7 @@ export default function ContactPage() {
                 <div>
                   <label className={labelClass}>{t("form.message")}</label>
                   <textarea
+                    name="message"
                     rows={4}
                     className={`${inputClass} resize-none`}
                     placeholder={t("form.messagePlaceholder")}

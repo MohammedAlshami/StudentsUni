@@ -46,8 +46,46 @@ export function ProgramOfferingsTable({ offerings }: { offerings: ProgramOfferin
 
   return (
     <div>
-      <div className="mt-[16px] overflow-x-auto">
-        <table className="w-full min-w-[749px] border-collapse text-[14px]">
+      {/* Mobile cards */}
+      <div className="mt-[16px] space-y-[10px] md:hidden">
+        {pageItems.map((o) => {
+          const image = getUniversityImage(o.university_slug);
+          return (
+            <div key={`${o.university_slug}-${o.level}-${o.program_slug}`} className="border border-black/10 p-[16px]">
+              <Link
+                href={`/universities/${o.university_slug}/${o.level}/${o.program_slug}`}
+                className="flex items-center gap-[10px] text-[14px] font-semibold hover:underline"
+              >
+                {image && (
+                  <img
+                    src={image.url}
+                    alt=""
+                    className="h-[26px] w-[26px] shrink-0 rounded-full border border-black/10 bg-white object-contain"
+                  />
+                )}
+                <span>{o.university}</span>
+              </Link>
+              <p className="mt-[8px] text-[12px] text-black/55">
+                {tLevels(LEVEL_KEYS[o.level_group] as "foundation")} · {o.duration ?? "—"}
+              </p>
+              <div className="mt-[8px] flex flex-wrap gap-x-[16px] gap-y-[4px] text-[13px]">
+                <span>
+                  <span className="text-black/50">{t("table.totalFee")}: </span>
+                  <b>{formatUsd(o.feeTotal, o.currency)}</b>
+                </span>
+                <span>
+                  <span className="text-black/50">{t("table.perYear")}: </span>
+                  <b>{formatUsd(o.feePerYear, o.currency)}</b>
+                </span>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      {/* Desktop table */}
+      <div className="mt-[16px] hidden overflow-x-auto md:block">
+        <table className="w-full border-collapse text-[14px]">
           <thead>
             <tr className="border-b border-black/15 text-start text-[12px] font-bold uppercase tracking-[.06em] text-black/50">
               <th className="py-[10px] pe-[16px] text-start">{t("table.university")}</th>
@@ -81,8 +119,8 @@ export function ProgramOfferingsTable({ offerings }: { offerings: ProgramOfferin
                     {tLevels(LEVEL_KEYS[o.level_group] as "foundation")}
                   </td>
                   <td className="py-[12px] pe-[16px] text-black/60">{o.duration ?? "—"}</td>
-                  <td className="py-[12px] pe-[16px] font-semibold">{formatUsd(o.feeTotal, o.currency) ?? "—"}</td>
-                  <td className="py-[12px] font-semibold">{formatUsd(o.feePerYear, o.currency) ?? "—"}</td>
+                  <td className="py-[12px] pe-[16px] font-semibold">{formatUsd(o.feeTotal, o.currency)}</td>
+                  <td className="py-[12px] font-semibold">{formatUsd(o.feePerYear, o.currency)}</td>
                 </tr>
               );
             })}

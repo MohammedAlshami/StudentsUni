@@ -3,23 +3,23 @@
     "universities": "大学",
     "programs": "课程",
     "blog": "博客",
-    "howWeHelp": "我们如何提供帮助",
+    "howWeHelp": "我们如何帮助",
     "about": "关于我们"
   },
   "footer": {
-    "newsletterHeading": "获取马来西亚留学最新资讯",
-    "emailPlaceholder": "您的电子邮箱",
+    "newsletterHeading": "获取马来西亚留学资讯",
+    "emailPlaceholder": "您的电子邮箱地址",
     "subscribe": "订阅",
-    "quote": "正确的指导能让大学申请变成充满信心的一步。",
-    "counsellors": "Arabic Era 顾问团队",
-    "counsellorsSubtext": "从查询到注册全程陪伴",
+    "quote": "正确的指引能让大学申请成为自信迈出的下一步。",
+    "counsellors": "Arabic Era 升学顾问",
+    "counsellorsSubtext": "从择校到注册，全程陪伴",
     "contact": "联系我们",
-    "copyright": "版权所有 © ARABIC ERA — 2026"
+    "copyright": "COPYRIGHT © ARABIC ERA — 2026"
   },
   "common": {
     "talkToUs": "联系我们",
     "freeConsultation": "免费咨询",
-    "dataComingSoon": "数据整理中",
+    "dataComingSoon": "数据即将上线",
     "viewProgrammes": "查看课程",
     "previousPage": "上一页",
     "nextPage": "下一页",
@@ -31,76 +31,76 @@
   },
   "home": {
     "hero": {
-      "titleLine1": "在马来西亚大学",
-      "titleLine2": "找到属于你的位置。",
-      "subtitle": "比较课程、查看入学要求,并获得从申请到注册的免费指导。",
+      "titleLine1": "在马来西亚",
+      "titleLine2": "大学找到属于你的位置。",
+      "subtitle": "对比课程、查看入学要求，并获取从申请到注册的免费指导。",
       "searchPlaceholder": "搜索大学或课程",
       "searchButton": "搜索",
-      "marquee": "通往马来西亚高等教育之路。"
+      "marquee": "通往马来西亚高等教育的升学之路。"
     },
     "featured": {
       "label": "精选大学",
-      "titleLine1": "近距离了解",
+      "titleLine1": "深入了解",
       "titleLine2": "学生们的热门选择。",
-      "cta": "查看所有大学"
+      "cta": "全部大学"
     },
     "howWeHelp": {
-      "label": "我们如何提供帮助",
-      "titleLine1": "从搜索到注册",
-      "titleLine2": "只需三步。",
-      "subtitle": "我们以清晰的指导、直接的比较和专属的申请支持,简化你在马来西亚的留学之路。",
+      "label": "我们如何帮助",
+      "titleLine1": "三步完成",
+      "titleLine2": "从择校到注册。",
+      "subtitle": "我们以清晰的指引、直观的对比和专属的申请支持，简化您在马来西亚的留学之旅。",
       "cta": "预约免费咨询",
       "stepPrefix": "步骤",
       "steps": [
         {
-          "title": "搜索并比较",
-          "desc": "浏览 96 所大学和 4,000 多个课程,真实费用与入学要求一目了然。",
-          "action": "浏览院校库"
+          "title": "搜索与对比",
+          "desc": "浏览96所大学和4,000+门课程，真实学费与入学要求一目了然。",
+          "action": "探索院校目录"
         },
         {
-          "title": "获得匹配推荐",
-          "desc": "与顾问沟通你的成绩、预算和目标,获得真正适合你的课程清单。",
-          "action": "获取推荐清单"
+          "title": "精准匹配",
+          "desc": "与顾问沟通您的成绩、预算和目标，获取真正适合您的候选名单。",
+          "action": "获取候选名单"
         },
         {
-          "title": "全程支持申请",
-          "desc": "我们免费协助文件准备、截止日期跟进和申请本身,从筛选到注册全程陪伴。",
+          "title": "协助申请",
+          "desc": "我们免费协助准备材料、跟进截止日期并完成申请，从候选名单到全程注册。",
           "action": "开始申请"
         }
       ],
-      "calloutTitle": "需要个性化指导?",
-      "calloutBody": "我们的大学招生团队可为你提供一对一协助。",
-      "calloutCta": "咨询顾问"
+      "calloutTitle": "需要个性化指导？",
+      "calloutBody": "我们的大学招生团队提供一对一专属协助。",
+      "calloutCta": "与顾问在线沟通"
     },
     "partner": {
       "label": "您的马来西亚留学伙伴",
-      "title": "合适的大学始于正确的指导。",
-      "desc": "凭借可信的课程信息和经验丰富的教育顾问,我们让大学注册流程更加清晰。",
-      "stat1": "所马来西亚大学可供探索",
-      "stat2": "个课程与升学途径已收录",
-      "tag1": "多元大学选择",
+      "title": "选对大学，始于正确的指引。",
+      "desc": "我们以可靠的课程信息和经验丰富的升学顾问，让大学注册流程更加清晰透明。",
+      "stat1": "所马来西亚大学供您探索",
+      "stat2": "门课程与升学途径已收录",
+      "tag1": "多元院校选择",
       "tag2": "值得信赖的指导",
-      "tag3": "以学生为先的支持"
+      "tag3": "以学生为本的支持"
     },
     "fields": {
-      "label": "按专业领域浏览",
-      "titleLine1": "为你的下一步",
-      "titleLine2": "找到合适的课程。",
-      "cta": "浏览所有课程",
-      "programmesSuffix": "个课程",
+      "label": "按领域浏览",
+      "titleLine1": "找到适合您的课程",
+      "titleLine2": "迈向你的下一步。",
+      "cta": "浏览全部课程",
+      "programmesSuffix": "课程",
       "categories": {
         "business": "商业与管理",
-        "science": "理科",
+        "science": "理学",
         "engineering": "工程学",
-        "comput": "计算机与信息技术",
+        "comput": "电脑与资讯科技",
         "medic": "医学与健康科学",
         "education": "教育学",
         "design": "艺术与设计",
         "law": "法律",
         "account": "会计与金融",
         "psycholog": "心理学",
-        "architect": "建筑与建造",
-        "hospitality": "酒店与旅游",
+        "architect": "建筑与营造",
+        "hospitality": "酒店与旅游管理",
         "communicat": "传播与媒体",
         "islamic": "伊斯兰研究",
         "health": "健康科学",
@@ -108,57 +108,57 @@
       }
     },
     "why": {
-      "label": "为什么选择我们?",
-      "title": "直接明了的指导,而非推销。",
-      "desc": "我们直接从各大学官方渠道整理课程数据,让你无需在 96 个不同网站间搜寻,即可比较费用、入学要求和认证情况,还能获得从申请到注册的免费个性化指导。",
-      "bullet1": "96 所大学,一站式比较",
-      "bullet2": "免费咨询,无隐藏费用"
+      "label": "为何选择我们？",
+      "title": "简洁明了的指引，而非推销话术。",
+      "desc": "我们直接从各大学官方来源汇总课程资料，让你无需翻阅96所不同的网站，即可比较学费、入学要求与认证资讯；更可获得从申请到注册的免费个人化指导。",
+      "bullet1": "96所大学，一站比较",
+      "bullet2": "免费咨询，无隐藏收费"
     },
     "stories": {
-      "label": "学生故事",
-      "titleLine1": "自信的选择",
+      "label": "学生分享",
+      "titleLine1": "做出自信的选择",
       "titleLine2": "始于值得信赖的",
       "titleLine3": "支持。",
-      "quoteLabel": "更清晰的前行之路",
-      "quote": "Arabic Era 让我轻松比较各种选择,清楚了解每项申请要求。我的顾问在每一步都陪伴着我,直到我完成注册。",
+      "quoteLabel": "更清晰的前路",
+      "quote": "Arabic Era 让我轻松比较各种选择，并了解每项申请要求。我的升学顾问在我完成注册的每一步都陪伴在旁。",
       "author": "Aina R.",
-      "role": "本科申请者"
+      "role": "大学部申请者"
     },
     "cta": {
       "label": "免费咨询",
-      "titleLine1": "你的马来西亚大学之旅",
-      "titleLine2": "从这里开始。"
+      "titleLine1": "你的马来西亚大学",
+      "titleLine2": "旅程由此展开。"
     },
     "blog": {
-      "label": "来自博客",
-      "titleLine1": "助你自信决策的",
-      "titleLine2": "实用指南。",
-      "cta": "查看所有文章",
-      "readTime": "阅读需 {min} 分钟"
+      "label": "博客精选",
+      "titleLine1": "实用指南助你",
+      "titleLine2": "自信做决定。",
+      "cta": "全部文章",
+      "readTime": "阅读约 {min} 分钟"
     },
     "faq": {
       "label": "寻找答案",
-      "titleLine1": "在你旅程的每一步,",
-      "titleLine2": "为你解答疑问。",
-      "stat1Label": "所大学已完成比较",
+      "titleLine1": "你的疑问，",
+      "titleLine2": "每一步都有解答。",
+      "stat1Label": "所比较的大学",
       "stat2Value": "免费",
-      "stat2Label": "始终提供指导",
+      "stat2Label": "指导，永远",
       "items": [
         {
-          "q": "Arabic Era 真的是免费的吗?",
-          "a": "是的。浏览大学、比较课程以及获得我们顾问的咨询服务,对学生完全免费。我们与各大学合作,不向学生收取任何指导费用。"
+          "q": "使用 Arabic Era 真的免费吗？",
+          "a": "是的。浏览大学资讯、比较课程，以及向我们的顾问咨询，对学生来说都是完全免费的。我们与大学合作，不向学生收取任何指导费用。"
         },
         {
-          "q": "你们的费用和入学要求数据有多准确、多及时?",
-          "a": "我们从各大学官方渠道和权威教育平台整理课程数据,并尽可能进行交叉核实。费用和要求每年都会变动,因此我们始终建议在申请前直接与大学确认最终数据。"
+          "q": "你们的学费和入学要求数据有多准确、多及时？",
+          "a": "我们从各大学官方来源及认可的教育门户网站汇总课程资料，并在可行范围内进行交叉核对。由于学费和要求每年都可能变动，我们建议你在申请前直接向大学确认最终数字。"
         },
         {
-          "q": "除了比较信息,你们是否也协助实际申请?",
-          "a": "是的。除了浏览信息外,我们的顾问还会协助筛选课程、准备材料以及提交申请。预约一次免费咨询,我们将全程为你讲解。"
+          "q": "你们除了帮忙比较，也会协助实际申请吗？",
+          "a": "是的。除了浏览比较，我们的顾问还会协助筛选志愿、准备文件及提交申请。预约一次免费咨询，我们会全程带你了解。"
         },
         {
-          "q": "你们只收录公立大学,还是也包括私立院校?",
-          "a": "两者都有。我们的目录涵盖马来西亚各地的公立大学、私立大学以及私立大学学院,让你可以在同一个平台上进行全面比较。"
+          "q": "你们只涵盖公立大学，还是也包括私立大学？",
+          "a": "两者都有。我们的目录涵盖马来西亚的公立大学、私立大学及私立大学学院，让你一站比较所有选择。"
         }
       ]
     }
@@ -168,44 +168,44 @@
       "label": "关于我们",
       "titleLine1": "帮助学生找到",
       "titleLine2": "最适合自己的选择。",
-      "subtitle": "我们帮助学生在马来西亚找到并入读合适的大学——免费、透明,并始终以学生为先。"
+      "subtitle": "我们帮助学生寻找并入读马来西亚适合的大学——免费、透明、以学生为本。"
     },
     "story": {
       "label": "我们的故事",
-      "title": "一个平台,涵盖所有选择。",
-      "p1": "Arabic Era 的创立初衷,是为了简化马来西亚学生的大学搜索与申请流程。我们发现,寻找一个合适的课程——包括准确的费用、要求和认证信息——原本不该如此困难。",
-      "p2": "我们的平台整合了来自各大学官方渠道和权威教育平台的数据,为学生提供一个统一的平台来比较选择、做出明智决定。",
-      "p3": "除了网站服务,我们还提供免费咨询服务,指导学生完成申请与注册流程。"
+      "title": "汇聚所有选择的一站式平台。",
+      "p1": "Arabic Era 的创立，旨在简化马来西亚学生的大学搜索与申请流程。我们发现，要找到合适的课程——并获取准确的学费、入学要求及认证信息——往往比想象中困难得多。",
+      "p2": "我们的平台汇集了各大学官方来源及认可教育门户的数据，让学生能够在一个地方比较各种选择，做出明智的决定。",
+      "p3": "除了网站服务，我们还提供免费咨询，全程指导学生完成申请与入学手续。"
     },
     "mission": {
-      "label": "我们的初心",
+      "label": "我们的动力",
       "title": "我们的使命",
       "items": [
         {
           "title": "透明",
-          "desc": "关于费用、要求和认证的准确、可溯源数据。"
+          "desc": "学费、入学要求及认证信息均准确有据可查。"
         },
         {
           "title": "普惠",
-          "desc": "为每一位学生提供免费的工具与咨询服务。"
+          "desc": "为每一位学生提供免费工具与咨询服务。"
         },
         {
-          "title": "指导",
-          "desc": "从初次咨询到正式注册的全程个性化支持。"
+          "title": "陪伴",
+          "desc": "从首次咨询到正式入学，提供一对一专属支持。"
         }
       ]
     },
     "team": {
-      "label": "认识我们的团队",
-      "title": "我们的顾问",
+      "label": "认识团队",
+      "title": "我们的升学顾问",
       "members": [
         {
           "name": "顾问 1",
-          "role": "高级教育顾问"
+          "role": "高级升学顾问"
         },
         {
           "name": "顾问 2",
-          "role": "大学关系经理"
+          "role": "大学合作经理"
         },
         {
           "name": "顾问 3",
@@ -214,91 +214,91 @@
       ]
     },
     "timeline": {
-      "label": "自 2020 年起",
+      "label": "始于 2020",
       "title": "我们的历程",
       "milestones": [
         {
           "year": "2020",
-          "event": "正式成立"
+          "event": "平台成立"
         },
         {
           "year": "2021",
-          "event": "帮助首批 100 名学生"
+          "event": "累计帮助首批 100 名学生"
         },
         {
           "year": "2023",
-          "event": "与 30 多所大学建立合作"
+          "event": "与 30 余所大学建立合作"
         },
         {
           "year": "2025",
-          "event": "拓展至 96 所大学信息收录"
+          "event": "大学名录扩展至 96 所"
         }
       ]
     },
     "cta": {
       "label": "联系我们",
-      "titleLine1": "有兴趣与我们",
-      "titleLine2": "合作吗?",
+      "titleLine1": "想要与",
+      "titleLine2": "我们合作？",
       "button": "联系我们"
     }
   },
   "services": {
     "header": {
       "title": "我们的服务",
-      "subtitle": "为你在马来西亚的求学之路提供全程支持。所有服务对学生完全免费。"
+      "subtitle": "为您在马来西亚的升学之路提供全程支持。所有服务对学生免费开放。"
     },
     "items": [
       {
         "title": "免费咨询",
-        "description": "与我们的教育顾问深入交流,探讨你的选择。我们会根据你的资历、预算和职业目标,帮你了解有哪些可行方案。",
+        "description": "与我们的升学顾问面对面交流，探讨您的升学选择。我们会根据您的学历背景、预算及职业目标，帮您梳理可行的方向。",
         "steps": [
-          "预约咨询",
-          "讨论你的目标",
-          "获得个性化建议"
+          "预约咨询时间",
+          "沟通您的目标",
+          "获取专属推荐方案"
         ]
       },
       {
-        "title": "大学选择",
-        "description": "我们帮助你筛选出与自身条件匹配的大学和课程,综合考虑入学要求、费用、地理位置和就业前景等因素。",
+        "title": "择校选科",
+        "description": "我们帮您筛选与自身条件匹配的大学及课程，综合考量入学要求、学费、地理位置及就业前景等因素。",
         "steps": [
-          "提供你的资历信息",
-          "获得课程清单",
-          "并列比较各项选择"
+          "提供您的学历资料",
+          "接收候选名单",
+          "并排比较各项选择"
         ]
       },
       {
         "title": "申请协助",
-        "description": "从填写表格到准备材料,我们全程指导你完成整个申请流程,确保不遗漏任何环节。",
+        "description": "从填写表格到准备文件，我们全程指导您完成整个申请流程，确保无一遗漏。",
         "steps": [
           "准备申请材料",
           "填写申请表格",
-          "提交并跟踪进度"
+          "提交并跟进进度"
         ]
       },
       {
         "title": "签证指导",
-        "description": "签证要求可能令人困惑。我们为国际学生提供最新的学生签证申请指导。",
+        "description": "签证要求繁杂多变，我们为国际学生提供最新、最准确的学生签证申请指导。",
         "steps": [
           "了解签证要求",
-          "准备相关文件",
-          "自信递交申请"
+          "准备签证文件",
+          "安心递交申请"
         ]
       },
       {
         "title": "行前说明会",
-        "description": "出发前,我们会为你讲解住宿、银行、交通以及适应马来西亚学生生活等方方面面。",
+        "description": "出发之前，我们将为您详细介绍住宿安排、银行开户、交通出行及在马来西亚的校园生活，助您做好充分准备。",
         "steps": [
           "参加行前说明会",
-          "领取行前清单",
-          "做好充分准备抵达"
+          "领取准备清单",
+          "从容抵达马来西亚"
         ]
       },
       {
-        "title": "抵达后支持",
-        "description": "落地后我们依然在你身边。在马来西亚生活的最初几周若遇到任何问题,随时联系我们寻求帮助。",
+        "title": "抵马后支持服务",
+        "description": "您落地后，我们的服务不会就此结束。抵马初期的几周里，遇到任何问题都可随时联系我们寻求帮助。",
         "steps": [
-          "协调机场接机",
-          "校园适应指引",
+          "机场接机安排",
+          "校园适应指南",
           "持续跟进支持"
         ]
       }
@@ -308,126 +308,126 @@
       "steps": [
         {
           "title": "联系我们",
-          "desc": "通过 WhatsApp、表单或电话联系我们。"
+          "desc": "通过WhatsApp、在线表格或电话与我们取得联系。"
         },
         {
-          "title": "免费咨询",
-          "desc": "我们与你讨论目标和可行方案。"
+          "title": "咨询评估",
+          "desc": "我们与您探讨升学目标与可选方案。"
         },
         {
-          "title": "提交申请",
-          "desc": "我们协助你申请心仪的大学。"
+          "title": "递交申请",
+          "desc": "我们协助您向心仪大学提交申请。"
         },
         {
-          "title": "完成注册",
-          "desc": "获得录取,开启你的求学之旅。"
+          "title": "正式入学",
+          "desc": "获得录取，开启您的留学之旅。"
         }
       ]
     },
     "cta": {
-      "text": "准备好开始了吗?",
+      "text": "准备好开始了吗？",
       "button": "预约免费咨询"
     }
   },
   "contact": {
     "hero": {
       "label": "联系我们",
-      "titleLine1": "让我们一起找到",
-      "titleLine2": "你的下一步。",
-      "subtitle": "免费咨询、申请协助,以及真诚的建议——欢迎以任何你方便的方式联系我们。"
+      "titleLine1": "让我们一同寻找",
+      "titleLine2": "您的下一步。",
+      "subtitle": "免费咨询、申请协助与真诚建议——选择最适合您的方式与我们取得联系。"
     },
     "form": {
-      "label": "发送消息",
-      "thankYouTitle": "谢谢你!",
-      "thankYouBody": "我们已收到你的消息,将在 24 小时内回复你。",
+      "label": "发送留言",
+      "thankYouTitle": "感谢您的留言！",
+      "thankYouBody": "我们已收到您的信息，将在24小时内回复您。",
       "fullName": "姓名",
-      "fullNamePlaceholder": "你的姓名",
+      "fullNamePlaceholder": "请输入您的姓名",
       "email": "电子邮箱",
-      "phone": "电话(WhatsApp)",
-      "iAmA": "我的身份是",
+      "phone": "电话（WhatsApp）",
+      "iAmA": "我是",
       "options": {
         "student": "意向学生",
-        "parent": "家长 / 监护人",
+        "parent": "家长/监护人",
         "other": "其他"
       },
-      "levelOfStudy": "报读阶段",
+      "levelOfStudy": "升学层次",
       "levels": {
-        "foundation": "预科",
+        "foundation": "大学预科",
         "diploma": "文凭课程",
         "bachelor": "学士学位",
         "master": "硕士学位",
         "phd": "博士学位"
       },
       "message": "留言内容",
-      "messagePlaceholder": "请告诉我们你的留学目标、心仪的大学或任何问题……",
-      "send": "发送消息"
+      "messagePlaceholder": "请告诉我们您的升学目标、心仪院校或任何疑问……",
+      "send": "发送留言"
     },
     "info": {
       "whatsapp": "WhatsApp",
-      "whatsappSub": "联系我们最快捷的方式",
+      "whatsappSub": "最快捷的联系方式",
       "email": "电子邮箱",
-      "office": "办公地点",
-      "officeLocation": "马来西亚,吉隆坡",
+      "office": "办公地址",
+      "officeLocation": "马来西亚吉隆坡",
       "officeSub": "仅接受预约到访",
       "hours": "办公时间",
-      "hoursLine1": "周一至周五:上午 9:00 – 下午 6:00",
-      "hoursLine2": "周六:上午 10:00 – 下午 2:00"
+      "hoursLine1": "周一至周五：上午9:00 – 下午6:00",
+      "hoursLine2": "周六：上午10:00 – 下午2:00"
     }
   },
   "blogPage": {
     "hero": {
       "label": "Arabic Era 博客",
-      "titleLine1": "为你的下一个",
-      "titleLine2": "重要决定提供指南。",
-      "subtitle": "{count} 篇关于费用、申请、奖学金以及如何选择合适道路的实用指南——专为探索马来西亚高等教育的学生撰写。"
+      "titleLine1": "为您的重要抉择",
+      "titleLine2": "提供实用指南。",
+      "subtitle": "{count}篇真实实用的指南，涵盖费用、申请、奖学金及选校攻略——专为赴马升学的学生而写。"
     },
     "cta": {
       "titleLine1": "还有",
-      "titleLine2": "疑问吗?",
-      "body": "联系 Arabic Era 顾问,获得符合你成绩、预算和目标的专属指导。"
+      "titleLine2": "疑问？",
+      "body": "与Arabic Era升学顾问一对一咨询，根据您的成绩、预算和目标量身定制升学方案。"
     },
-    "articleNotFound": "未找到该文章",
+    "articleNotFound": "文章未找到",
     "backToBlog": "返回博客",
-    "allArticles": "所有文章"
+    "allArticles": "全部文章"
   },
   "programsPage": {
     "hero": {
       "label": "浏览课程",
-      "titleLine1": "找到适合你未来的",
-      "titleLine2": "课程。",
-      "subtitle": "{universities} 所马来西亚大学,共 {count} 个课程,从预科到博士层次一应俱全。"
+      "titleLine1": "寻找适合您的课程",
+      "titleLine2": "成就未来理想。",
+      "subtitle": "{count}个课程，涵盖马来西亚{universities}所大学，从基础课程到博士学位。"
     },
     "cta": {
       "titleLine1": "不确定哪个",
-      "titleLine2": "课程适合你?",
-      "body": "联系 Arabic Era 顾问,获得符合你成绩、预算和目标的课程推荐清单。"
+      "titleLine2": "课程适合您？",
+      "body": "联系Arabic Era升学顾问，根据您的成绩、预算和目标获取精选推荐名单。"
     }
   },
   "universitiesPage": {
     "hero": {
-      "label": "浏览马来西亚",
-      "titleLine1": "找到符合你目标的",
-      "titleLine2": "大学。",
-      "subtitle": "{count} 所公立与私立大学,课程、入学要求与费用信息一站式呈现。"
+      "label": "探索马来西亚",
+      "titleLine1": "寻找适合您的大学",
+      "titleLine2": "实现升学目标。",
+      "subtitle": "{count}所公立与私立大学，课程信息、入学要求及学费一览无遗。"
     },
     "cta": {
       "titleLine1": "不确定哪所",
-      "titleLine2": "大学适合你?",
-      "body": "联系 Arabic Era 顾问,获得符合你成绩、预算和目标的大学推荐清单。"
+      "titleLine2": "大学适合您？",
+      "body": "联系Arabic Era升学顾问，根据您的成绩、预算和目标获取精选推荐名单。"
     }
   },
   "filters": {
     "searchFilter": "搜索与筛选",
-    "matchCount": "{filtered} / {total} 项匹配",
-    "showingUniversities": "显示第 {from}–{to} 项,共 {total} 所大学",
-    "showingProgrammes": "显示第 {from}–{to} 项,共 {total} 个课程",
+    "matchCount": "共{total}项，符合{filtered}项",
+    "showingUniversities": "显示第{from}–{to}项，共{total}所大学",
+    "showingProgrammes": "显示第{from}–{to}项，共{total}个课程",
     "programmesSuffix": "个课程",
-    "searchPlaceholderUniversities": "按名称或缩写搜索……",
-    "searchPlaceholderProgrammes": "按课程、大学或专业领域搜索……",
+    "searchPlaceholderUniversities": "按名称或缩写搜索...",
+    "searchPlaceholderProgrammes": "按课程、大学或领域搜索...",
     "noResultsUniversities": "没有符合搜索条件的大学。",
     "noResultsProgrammes": "没有符合搜索条件的课程。",
     "noResultsArticles": "没有符合搜索条件的文章。",
-    "showingArticles": "显示第 {from}–{to} 项,共 {total} 篇文章",
+    "showingArticles": "显示第{from}–{to}篇，共{total}篇文章",
     "typeFilters": {
       "all": "全部",
       "public": "公立",
@@ -436,20 +436,20 @@
     },
     "levelFilters": {
       "all": "全部",
-      "foundation": "预科",
-      "diploma": "文凭",
-      "bachelor": "学士",
-      "master": "硕士",
-      "phd": "博士"
+      "foundation": "基础课程",
+      "diploma": "文凭课程",
+      "bachelor": "学士学位",
+      "master": "硕士学位",
+      "phd": "博士学位"
     },
-    "searchPlaceholderArticles": "搜索文章……"
+    "searchPlaceholderArticles": "搜索文章..."
   },
   "levels": {
-    "foundation": "预科",
-    "pre-university": "大学预备课程",
-    "pre-university-foundation-studies": "大学预备 / 预科课程",
+    "foundation": "基础课程",
+    "pre-university": "大学先修班",
+    "pre-university-foundation-studies": "大学先修班 / 基础课程",
     "diploma": "文凭课程",
-    "advanced-diploma": "高级文凭课程",
+    "advanced-diploma": "高级文凭",
     "bachelor": "学士学位",
     "bachelors-degree": "学士学位",
     "degree": "学士学位",
@@ -459,107 +459,107 @@
     "masters": "硕士学位",
     "postgraduate": "研究生课程",
     "phd": "博士学位",
-    "doctoral-degree": "博士 / 博士研究学位",
+    "doctoral-degree": "博士学位",
     "certificate": "证书课程",
     "language": "语言课程",
     "other": "其他"
   },
   "universityDetail": {
-    "programmes": "课程数量",
-    "studyLevels": "学习阶段",
-    "feeRangeSample": "费用区间(样本)",
+    "programmes": "课程",
+    "studyLevels": "修读层次",
+    "feeRangeSample": "学费范围（参考）",
     "institutionType": "院校类型",
     "about": "简介",
-    "aboutText": "{name} 是一所{type}{stateClause}。我们收录了{programmesClause},涵盖 {levelCount, plural, other {# 个学习阶段}}{levelList}。",
-    "aboutBasedIn": ",位于马来西亚{state}",
-    "aboutInMalaysia": ",位于马来西亚",
-    "aboutProgrammesCount": "{count} 个课程",
+    "aboutText": "{name}是一所{type}{stateClause}。我们收录了该校{programmesClause}，涵盖{levelCount, plural, one {#个修读层次} other {#个修读层次}}{levelList}。",
+    "aboutBasedIn": "位于马来西亚{state}",
+    "aboutInMalaysia": "位于马来西亚",
+    "aboutProgrammesCount": "{count} 门课程",
     "aboutProgrammesFallback": "课程",
-    "visitWebsite": "访问官方网站",
-    "visitWebsiteSuffix": "了解招生与校园详情。",
-    "sourcesNote": "课程与费用数据整理自 {count, plural, other {# 个来源}}(包括大学官方网站,如可获取)。以上数据仅供参考——申请前请务必与大学直接确认。",
-    "gallery": "校园相册",
-    "galleryCaptionSpecific": "校园照片来自维基共享资源。",
-    "galleryCaptionGeneric": "示意性学生生活照片——非该校园实拍。",
-    "readyToApplyTo": "准备好申请",
-    "programDataCollecting": "课程数据整理中,请稍后查看。",
-    "feeInfoPending": "费用信息待更新",
-    "pageOf": "第 {page} 页,共 {total} 页"
+    "visitWebsite": "访问官方网站：",
+    "visitWebsiteSuffix": "，获取招生及校园详情。",
+    "sourcesNote": "课程及学费数据整理自 {count, plural, one {# 个来源} other {# 个来源}}，包括大学官方网站（如有）。所列金额仅供参考，申请前请务必向大学核实。",
+    "gallery": "校园图集",
+    "galleryCaptionSpecific": "校园照片来自 Wikimedia Commons。",
+    "galleryCaptionGeneric": "学生生活示意图片——非本校特定场景。",
+    "readyToApplyTo": "准备申请",
+    "programDataCollecting": "课程数据收集中，请稍后再来查看。",
+    "feeInfoPending": "学费信息待更新",
+    "pageOf": "第 {page} 页，共 {total} 页"
   },
   "programDetail": {
     "fees": "学费",
     "totalFee": "课程总费用",
     "perYear": "每年",
-    "feeComingSoon": "费用信息整理中。",
+    "feeComingSoon": "学费信息收集中。",
     "entryRequirements": "入学要求",
     "englishRequirement": "英语要求",
-    "aLevels": "A-Level 课程",
-    "ib": "国际文凭(IB)",
-    "otherQualifications": "其他资历",
+    "aLevels": "A-Levels",
+    "ib": "IB",
+    "otherQualifications": "其他学历",
     "previousEducation": "前置学历",
-    "foundation": "预科课程",
-    "diplomaPathway": "文凭升学途径",
-    "notYetAvailable": "暂无相关信息。",
-    "accreditation": "认证情况",
+    "foundation": "大学预科",
+    "diplomaPathway": "文凭衔接途径",
+    "notYetAvailable": "暂不可用。",
+    "accreditation": "认证",
     "unknown": "未知",
     "dataConfidence": "数据可信度",
-    "needHelpApplying": "需要申请协助吗?",
-    "needHelpBody": "我们提供免费咨询与申请协助,从课程筛选到完成注册全程支持。",
+    "needHelpApplying": "申请需要帮助？",
+    "needHelpBody": "我们提供免费咨询与申请协助服务，从选校到注册全程陪伴。",
     "contactUs": "联系我们",
-    "intakes": "开课时间",
+    "intakes": "开学时间",
     "applyThroughUs": "通过我们申请",
-    "backToUniversity": "返回大学页面",
+    "backToUniversity": "返回大学主页",
     "programNotFound": "未找到该课程",
     "universityNotFound": "未找到该大学",
     "backToUniversities": "返回大学列表",
-    "compareAll": "对比开设 {title} 的 {count} 所大学"
+    "compareAll": "对比全部 {count} 所开设 {title} 的大学"
   },
   "programPage": {
-    "backToPrograms": "所有课程",
-    "offeredBy": "马来西亚共有 {count} 所大学开设",
-    "aboutTitle": "课程简介",
-    "compareTitle": "学费对比",
-    "feeNote": "费用为参考值,来自大学官方来源。金额以美元显示,按约 1 美元 = 4.09 马来西亚林吉特从大学所用货币换算;申请前请向大学确认最新费用。",
-    "metaDescription": "对比马来西亚 {count} 所大学的 {title} 课程——学费、学制、入学要求与开课时间。",
-    "descriptionTemplate": "{title} 课程在马来西亚 {count} 所大学开设,涵盖 {levels} 等层次。你可以在下方比较各校的学费、学制、认证与入学要求。",
+    "backToPrograms": "全部课程",
+    "offeredBy": "马来西亚 {count} 所大学开设",
+    "aboutTitle": "关于本课程",
+    "compareTitle": "对比学费",
+    "feeNote": "学费为参考金额，取自各大学官方来源。金额以 USD 显示，按约 1 USD = 4.09 MYR 从大学原币种换算；申请前请向大学确认最新学费。",
+    "metaDescription": "对比马来西亚 {count} 所大学的 {title} 课程——学费、学制、入学要求及开学时间。",
+    "descriptionTemplate": "马来西亚共有 {count} 所大学开设 {title} 课程，涵盖 {levels} 层次。下方可对比各选项的学费、学制、认证及入学要求。",
     "table": {
       "university": "大学",
       "level": "层次",
       "duration": "学制",
-      "totalFee": "总学费",
-      "perYear": "每年学费",
+      "totalFee": "总费用",
+      "perYear": "每年",
       "accreditation": "MQA"
     },
     "stats": {
-      "universities": "开设大学",
-      "feePerYearRange": "每年学费范围",
-      "feeTotalRange": "总学费范围",
-      "feeRangeNote": "参考学费最低至最高",
+      "universities": "大学数量",
+      "feePerYearRange": "每年学费区间",
+      "feeTotalRange": "总费用区间",
+      "feeRangeNote": "最低至最高参考学费",
       "levels": "层次"
     },
-    "needHelp": "需要选校帮助?",
-    "needHelpBody": "与顾问免费沟通,结合你的成绩、预算和职业目标比较这些课程。",
+    "needHelp": "选校需要帮助？",
+    "needHelpBody": "与升学顾问一对一沟通，根据您的成绩、预算及职业目标对比这些课程——完全免费。",
     "descriptions": {
-      "business-administration": "工商管理研究组织的运作方式:战略、运营、市场营销、财务与人员管理。它是马来西亚覆盖面最广的学位之一,可通向管理、银行、咨询和创业等职业方向。",
-      "accounting": "会计学教授财务报告、审计、税务和商法,是考取 ACCA、CPA、CIMA 等专业资格的标准路径。",
-      "computer-science": "计算机科学是研究算法、软件与计算系统的学科,课程涵盖编程、数据结构、数据库和网络,并可专攻人工智能、网络安全等方向。",
-      "information-technology": "信息技术侧重在真实组织中应用计算系统——网络、数据库、云基础设施与 IT 运维,而非计算理论本身。",
-      "software-engineering": "软件工程将工程原则应用于软件的构建与维护,涵盖需求、设计、开发、测试和交付的完整生命周期。",
-      "cyber-security": "网络安全培养保护系统与数据的人才,涵盖网络防御、道德黑客、密码学、数字取证与安全治理。",
-      "artificial-intelligence": "人工智能涵盖机器学习、神经网络、自然语言处理与机器人技术,以及这些技术在产品与研究中的应用。",
-      "education": "教育课程培养教师与培训者,将教学法与儿童发展同课堂实践和教学实习相结合。",
-      "business": "通用商科课程提供市场营销、财务、管理与运营的广泛基础,学生可日后选择专攻方向。",
-      "mechanical-engineering": "机械工程涉及机械、材料与能源——从设计与热力学到制造、自动化与机器人。",
-      "management": "管理学聚焦于领导团队与组织:战略、组织行为、运营与决策。",
-      "communication": "传播学课程涵盖媒体、新闻、公共关系与数字内容,兼顾理论与实践制作技能。",
-      "psychology": "心理学研究心智与行为,涵盖发展、认知、社会与临床心理学,可通往心理咨询与人力资源等方向。",
-      "nursing": "护理学通过患者护理、解剖学、药理学与社区健康的临床培训,培养注册护士。",
-      "finance": "金融学涵盖金融市场、投资、公司金融与风险管理,通常包含扎实的量化与分析训练。",
-      "civil-engineering": "土木工程负责基础设施的设计与建造——建筑、道路、桥梁与水务系统,以力学和材料学为基础。",
-      "law": "法律课程涵盖宪法、合同法、刑法与商法,为法律执业、企业法务与合规职业做准备。",
-      "architecture": "建筑学将设计工作室与建筑技术、历史和环境设计相结合,通向职业建筑实践。",
-      "pharmacy": "药学涵盖药物科学、药理学与患者护理,毕业生可进入医院、社区药房与制药行业。",
-      "tourism-management": "旅游与酒店管理涵盖酒店与会展运营、旅行服务和目的地营销。"
+      "business-administration": "工商管理涵盖企业运营的方方面面——战略、运营、营销、财务及人力资源。它是马来西亚涉猎最广的学位之一，毕业后可从事管理、银行、咨询及创业等领域。",
+      "accounting": "会计学教授财务报告、审计、税务与商法，是通往ACCA、CPA及CIMA等专业资格的标准途径。",
+      "computer-science": "计算机科学研究算法、软件与计算系统。课程涵盖编程、数据结构、数据库与网络，并提供人工智能及网络安全等专业方向。",
+      "information-technology": "信息技术侧重于将计算系统应用于实际机构——包括网络、数据库、云基础设施及IT运维——而非计算理论本身。",
+      "software-engineering": "软件工程运用工程原理，在完整生命周期内构建和维护软件：需求分析、设计、开发、测试与交付。",
+      "cyber-security": "网络安全培养毕业生保护系统与数据的能力，涵盖网络防御、道德黑客、密码学、数字取证及安全治理。",
+      "artificial-intelligence": "人工智能涵盖机器学习、神经网络、自然语言处理及机器人技术，以及这些技术在产品和研究中的应用。",
+      "education": "教育学课程培养教师与培训师，融合教学法、儿童发展与课堂实践，并设有督导教学实习。",
+      "business": "普通商科学位提供市场营销、金融、管理及运营等领域的广泛基础，学生可在后期选择专业方向。",
+      "mechanical-engineering": "机械工程涉及机械、材料与能源——从设计、热力学到制造、自动化及机器人技术。",
+      "management": "管理学学位侧重于领导团队与组织：涵盖战略、组织行为学、运营及决策制定。",
+      "communication": "传播学课程涵盖媒体、新闻、公共关系及数字内容，将理论与实务制作技能相结合。",
+      "psychology": "心理学研究心智与行为，涵盖发展心理学、认知心理学、社会心理学及临床心理学，并可通往辅导与人力资源领域。",
+      "nursing": "护理学通过病患护理、解剖学、药理学及社区卫生等临床培训，培养注册护士。",
+      "finance": "金融学涵盖金融市场、投资学、公司金融及风险管理，通常配有扎实的定量与分析训练。",
+      "civil-engineering": "土木工程设计与建造基础设施——包括建筑、道路、桥梁及供水系统——具有扎实的力学与材料基础。",
+      "law": "法学课程涵盖宪法、合同法、刑法及商法，为毕业生从事法律实务、企业及合规工作做好准备。",
+      "architecture": "建筑学结合设计工作室实践与建筑技术、历史及环境设计，通往专业建筑实践之路。",
+      "pharmacy": "药剂学涵盖药物科学、药理学及病患护理，为毕业生进入医院、社区药房及制药行业做好准备。",
+      "tourism-management": "旅游与酒店管理涵盖酒店及会展运营、旅游服务及目的地营销。"
     }
   }
 }

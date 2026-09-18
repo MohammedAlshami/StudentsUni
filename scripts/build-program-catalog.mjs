@@ -9,7 +9,7 @@ const OUT = path.join(root, "src/lib/program-catalog.data.json");
 
 const NOISE = new Set([
   "hons", "honours", "with", "by", "coursework", "research", "mixed", "mode",
-  "programme", "program", "the", "executive", "graduate", "and",
+  "programme", "program", "the", "executive", "graduate", "and", "year", "years", "online",
 ]);
 
 const DEGREE_WORDS = new Set([
@@ -73,7 +73,8 @@ function tokenize(s) {
     .replace(/[^a-z0-9\s-]/g, " ")
     .split(/\s+/)
     .map((t) => t.replace(/^-+|-+$/g, ""))
-    .filter((t) => t && !NOISE.has(t));
+    .filter((t) => t && !NOISE.has(t))
+    .filter((t) => !/^\d+$/.test(t) && !/^\d+[a-z]$/.test(t));
 }
 
 function coreFromTokens(toks) {
@@ -168,15 +169,15 @@ function offeringFrom(raw, uniSlug, university, level) {
   if (detail && typeof detail === "object") {
     const fees = detail.fees || {};
     currency = fees.currency || "MYR";
-    feeTotal = parseFee(fees.total) ?? parseFee(fees.international_total) ?? parseFee(fees.local_total);
-    feePerYear = parseFee(fees.per_year) ?? parseFee(fees.per_year_international) ?? parseFee(fees.per_year_local);
+    feeTotal = parseFee(fees.total) ?? parseFee(fees.international_total);
+    feePerYear = parseFee(fees.per_year) ?? parseFee(fees.per_year_international);
     duration = detail.duration ?? null;
     mqaStatus = detail.accreditation?.mqa_status ?? null;
   } else if (raw && typeof raw === "object") {
     const fees = raw.fees || {};
     currency = fees.currency || "MYR";
-    feeTotal = parseFee(fees.total) ?? parseFee(fees.international_total) ?? parseFee(fees.local_total);
-    feePerYear = parseFee(fees.per_year) ?? parseFee(fees.per_year_international) ?? parseFee(fees.per_year_local);
+    feeTotal = parseFee(fees.total) ?? parseFee(fees.international_total);
+    feePerYear = parseFee(fees.per_year) ?? parseFee(fees.per_year_international);
     duration = raw.duration ?? null;
   }
   return {
