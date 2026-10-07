@@ -109,6 +109,7 @@
     },
     "englishInstitutes": {
       "label": "English language institutes",
+      "category": "English Language Centre",
       "titleLine1": "Start with the right",
       "titleLine2": "English level.",
       "subtitle": "Compare accredited English centres in Malaysia — course lengths, weekly hours and starting fees — before you book your place.",
@@ -170,6 +171,21 @@
         }
       ]
     }
+  },
+  "languageCentrePage": {
+    "students": "students",
+    "courses": "courses",
+    "visitWebsite": "Visit website",
+    "about": "About this centre",
+    "coursesTitle": "Courses & fees",
+    "course": "Course",
+    "duration": "Duration",
+    "feeMyr": "Fee (MYR)",
+    "feeUsd": "Fee (USD)",
+    "feesNote": "Fees are indicative and may vary — contact the centre for current pricing.",
+    "offersTitle": "Current offers",
+    "included": "Fees include",
+    "notIncluded": "Not included"
   },
   "about": {
     "hero": {

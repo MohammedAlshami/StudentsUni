@@ -109,6 +109,7 @@
     },
     "englishInstitutes": {
       "label": "英语语言学院",
+      "category": "英语语言中心",
       "titleLine1": "从正确的",
       "titleLine2": "英语水平开始。",
       "subtitle": "在预订学位之前，比较马来西亚的英语中心 — 课程时长、每周课时与起始费用。",
@@ -170,6 +171,21 @@
         }
       ]
     }
+  },
+  "languageCentrePage": {
+    "students": "名学生",
+    "courses": "门课程",
+    "visitWebsite": "访问网站",
+    "about": "关于该中心",
+    "coursesTitle": "课程与费用",
+    "course": "课程",
+    "duration": "时长",
+    "feeMyr": "费用（马币）",
+    "feeUsd": "费用（美元）",
+    "feesNote": "费用仅供参考，可能有所变动。请联系中心获取最新价格。",
+    "offersTitle": "当前优惠",
+    "included": "费用包含",
+    "notIncluded": "不包含"
   },
   "about": {
     "hero": {
