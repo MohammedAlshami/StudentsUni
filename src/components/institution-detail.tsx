@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 import { Link } from "@/i18n/navigation";
-import { ArrowUpRight, type LucideIcon } from "lucide-react";
+import { ArrowLeft, ArrowUpRight, Globe, type LucideIcon } from "lucide-react";
 import { wrap, Pic, Label, Heading, Pill } from "@/components/marketing-ui";
 
 /**
@@ -104,8 +104,11 @@ export function InstitutionDetail(props: InstitutionDetailProps) {
         }
       >
         <div className={`${wrap} pt-[155px] pb-[86px]`}>
-          <Link href={backHref} className="text-[13px] text-white/60 hover:underline">
-            <span className="inline-block rtl:-scale-x-100">&larr;</span> {backLabel}
+          <Link
+            href={backHref}
+            className="inline-flex items-center gap-[6px] text-[15px] text-white/70 hover:text-white hover:underline"
+          >
+            <ArrowLeft size={16} className="rtl:rotate-180" /> {backLabel}
           </Link>
           <div className="mt-[26px] flex flex-col gap-[26px] md:flex-row md:items-center">
             <div className="flex h-[104px] w-[104px] shrink-0 items-center justify-center overflow-hidden rounded-full bg-white">
@@ -130,7 +133,7 @@ export function InstitutionDetail(props: InstitutionDetailProps) {
                 {abbr && <span className="ms-[11px] text-[18px] font-normal text-white/50">({abbr})</span>}
               </h1>
               {meta.length > 0 && (
-                <div className="mt-[16px] flex flex-wrap items-center gap-[21px] text-[14px] text-white/70">
+                <div className="mt-[16px] flex flex-wrap items-center gap-[21px] text-[15px] text-white/70">
                   {meta.map((item, i) =>
                     item.href ? (
                       <a
@@ -138,9 +141,9 @@ export function InstitutionDetail(props: InstitutionDetailProps) {
                         href={item.href}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="underline hover:text-white"
+                        className="inline-flex items-center gap-[6px] underline hover:text-white"
                       >
-                        {item.text}
+                        <Globe size={14} /> {item.text}
                       </a>
                     ) : (
                       <span key={i} className="flex items-center gap-[6px]">

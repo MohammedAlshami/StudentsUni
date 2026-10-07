@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import { Link } from "@/i18n/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { BadgeCheck, GraduationCap, Layers, MapPin, Wallet } from "lucide-react";
+import { ArrowLeft, BadgeCheck, GraduationCap, Layers, MapPin, Wallet } from "lucide-react";
 import { getUniversityImage, getUniversityGallery, UNIVERSITY_PHOTOS } from "@/lib/university-images";
 import { formatUsdRange } from "@/lib/fees";
 import { getUniversityStats } from "@/lib/university-stats";
@@ -59,8 +59,8 @@ export default async function UniversityDetailPage({
     return (
       <div className="bg-white py-[83px] text-center font-sans text-[#242927]">
         <h1 className="text-[21px] font-bold">{tProgram("universityNotFound")}</h1>
-        <Link href="/universities" className="mt-[16px] inline-block text-[14px] underline">
-          <span className="inline-block rtl:-scale-x-100">&larr;</span> {tProgram("backToUniversities")}
+        <Link href="/universities" className="mt-[16px] inline-flex items-center gap-[6px] text-[15px] underline">
+          <ArrowLeft size={15} className="rtl:rotate-180" /> {tProgram("backToUniversities")}
         </Link>
       </div>
     );

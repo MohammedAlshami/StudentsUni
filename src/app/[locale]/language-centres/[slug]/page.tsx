@@ -1,6 +1,6 @@
 import { Link } from "@/i18n/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { BadgeCheck, GraduationCap, MapPin, Users, Wallet } from "lucide-react";
+import { ArrowLeft, BadgeCheck, GraduationCap, MapPin, Users, Wallet } from "lucide-react";
 import { getLanguageCentreImage } from "@/lib/language-centre-images";
 import {
   formatCentreFee as money,
@@ -33,8 +33,8 @@ export default async function LanguageCentrePage({
     return (
       <div className="bg-white py-[83px] text-center font-sans text-[#242927]">
         <h1 className="text-[21px] font-bold">{t("notFound")}</h1>
-        <Link href="/language-centres" className="mt-[16px] inline-block text-[14px] underline">
-          <span className="inline-block rtl:-scale-x-100">&larr;</span> {t("backToList")}
+        <Link href="/language-centres" className="mt-[16px] inline-flex items-center gap-[6px] text-[15px] underline">
+          <ArrowLeft size={15} className="rtl:rotate-180" /> {t("backToList")}
         </Link>
       </div>
     );
