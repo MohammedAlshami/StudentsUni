@@ -110,6 +110,37 @@ function parseFeeValue(v: unknown): number | null {
   return null;
 }
 
+// The scraped files are inconsistent about scalar shape: `duration` shows up as
+// a string, an array, or an object like { full_time, part_time }. A raw cast
+// lets the object reach React, which fails the build while prerendering.
+function toStringList(value: unknown): string[] {
+  if (Array.isArray(value)) {
+    return value.filter((v): v is string => typeof v === "string" && v.trim().length > 0);
+  }
+  if (typeof value === "string") return value.trim() ? [value] : [];
+  if (value && typeof value === "object") {
+    return Object.values(value as Record<string, unknown>).filter(
+      (v): v is string => typeof v === "string" && v.trim().length > 0
+    );
+  }
+  return [];
+}
+
+function toDisplayString(value: unknown): string | null {
+  if (typeof value === "string") return value.trim() || null;
+  if (Array.isArray(value) || (value && typeof value === "object")) {
+    const record = (Array.isArray(value) ? {} : value) as Record<string, unknown>;
+    // Prefer the full-time track when both study modes are published.
+    for (const key of ["full_time", "fulltime", "full", "main"]) {
+      const v = record[key];
+      if (typeof v === "string" && v.trim()) return v;
+    }
+    const parts = toStringList(value);
+    return parts.length ? parts.join(", ") : null;
+  }
+  return null;
+}
+
 export function normalizeProgramsList(index: unknown): Array<string | Record<string, unknown>> {
   if (Array.isArray(index)) return index;
   if (index && typeof index === "object") {
@@ -226,9 +257,9 @@ export function loadProgramDetail(
       field: (fileDetail.field as string) || entryField(raw),
       field_ar: (fileDetail.field_ar as string) || undefined,
       field_zh: (fileDetail.field_zh as string) || undefined,
-      duration: (fileDetail.duration as string) ?? null,
-      mode: (fileDetail.mode as string) ?? null,
-      intakes: Array.isArray(fileDetail.intakes) ? (fileDetail.intakes as string[]) : [],
+      duration: toDisplayString(fileDetail.duration),
+      mode: toDisplayString(fileDetail.mode),
+      intakes: toStringList(fileDetail.intakes),
       fees: normalizeFees(fees),
       requirements: normalizeRequirements(requirements),
       accreditation: {
@@ -257,9 +288,9 @@ export function loadProgramDetail(
         level,
         program_name: fallbackName,
         field: entryField(raw),
-        duration: (raw.duration as string) ?? null,
-        mode: (raw.mode as string) ?? null,
-        intakes: Array.isArray(raw.intakes) ? (raw.intakes as string[]) : [],
+        duration: toDisplayString(raw.duration),
+        mode: toDisplayString(raw.mode),
+        intakes: toStringList(raw.intakes),
         fees: normalizeFees(inlineFees ?? {}),
         requirements: normalizeRequirements(
           typeof raw.requirements === "object" && raw.requirements !== null
