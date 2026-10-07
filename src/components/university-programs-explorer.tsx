@@ -107,6 +107,22 @@ export function UniversityProgramsExplorer({
     [filtered, currentPage]
   );
 
+  // Windowed page list — a 100-programme university would otherwise render a
+  // long row of numbered buttons. Keeps first/last/current ±1 with "…" gaps.
+  const pageItems = useMemo<Array<number | "gap">>(() => {
+    if (totalPages <= 7) return Array.from({ length: totalPages }, (_, i) => i + 1);
+    const wanted = new Set<number>([1, totalPages, currentPage - 1, currentPage, currentPage + 1]);
+    const sorted = [...wanted].filter((n) => n >= 1 && n <= totalPages).sort((a, b) => a - b);
+    const items: Array<number | "gap"> = [];
+    let previous = 0;
+    for (const n of sorted) {
+      if (previous && n - previous > 1) items.push("gap");
+      items.push(n);
+      previous = n;
+    }
+    return items;
+  }, [totalPages, currentPage]);
+
   // Reset paging whenever the query/filters change (done in the handlers below
   // rather than in an effect, to avoid a cascading render).
 
@@ -174,8 +190,7 @@ export function UniversityProgramsExplorer({
       {/* Header + level pills */}
       <div className="flex flex-col gap-[16px] lg:flex-row lg:items-end lg:justify-between">
         <div>
-          <p className="text-[12px] font-bold uppercase tracking-[.12em] text-black/45">{t("label")}</p>
-          <h2 className="mt-[6px] text-[24px] font-bold tracking-[-.03em] text-[#242927] md:text-[28px]">
+          <h2 className="text-[24px] font-bold tracking-[-.03em] text-[#242927] md:text-[28px]">
             {t("title")}
           </h2>
         </div>
@@ -299,7 +314,7 @@ export function UniversityProgramsExplorer({
                   <div>
                     <div className="relative aspect-[16/10] w-full overflow-hidden border-b border-black/8 bg-[#f5efeb]">
                       <img
-                        src={getProgramImage(p.field, 600)}
+                        src={getProgramImage(p.field, p.name, 600)}
                         alt=""
                         aria-hidden="true"
                         loading="lazy"
@@ -367,21 +382,28 @@ export function UniversityProgramsExplorer({
                 >
                   <ChevronLeft size={16} />
                 </button>
-                {Array.from({ length: totalPages }, (_, i) => i + 1).map((n) => (
-                  <button
-                    key={n}
-                    type="button"
-                    onClick={() => setCurrentPage(n)}
-                    className="h-[32px] w-[32px] rounded-[8px] text-[12px] font-semibold transition-colors"
-                    style={
-                      currentPage === n
-                        ? { background: BRAND, color: "#fff" }
-                        : { background: "#fff", border: "1px solid rgba(0,0,0,.12)", color: "#4a4a4a" }
-                    }
-                  >
-                    {n}
-                  </button>
-                ))}
+                {pageItems.map((item, i) =>
+                  item === "gap" ? (
+                    <span key={`gap-${i}`} className="px-[4px] text-black/40" aria-hidden="true">
+                      …
+                    </span>
+                  ) : (
+                    <button
+                      key={item}
+                      type="button"
+                      onClick={() => setCurrentPage(item)}
+                      aria-current={currentPage === item ? "page" : undefined}
+                      className="h-[32px] min-w-[32px] rounded-[8px] px-[6px] text-[12px] font-semibold transition-colors"
+                      style={
+                        currentPage === item
+                          ? { background: BRAND, color: "#fff" }
+                          : { background: "#fff", border: "1px solid rgba(0,0,0,.12)", color: "#4a4a4a" }
+                      }
+                    >
+                      {item}
+                    </button>
+                  )
+                )}
                 <button
                   type="button"
                   onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
@@ -421,7 +443,7 @@ export function UniversityProgramsExplorer({
               {/* Banner */}
               <div className="relative aspect-[21/9] w-full bg-[#f5efeb]">
                 <img
-                  src={getProgramImage(selected.field, 900)}
+                  src={getProgramImage(selected.field, selected.name, 900)}
                   alt=""
                   aria-hidden="true"
                   className="h-full w-full object-cover"
