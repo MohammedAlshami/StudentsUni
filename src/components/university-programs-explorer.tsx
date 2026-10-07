@@ -6,26 +6,7 @@ import { useTranslations, useLocale } from "next-intl";
 import { ChevronLeft, ChevronRight, Clock, Wallet } from "lucide-react";
 import type { LevelPrograms } from "@/lib/university-detail";
 import { formatUsd } from "@/lib/fees";
-import {
-  NiGrowing,
-  NiHandingKey,
-  NiHandshake,
-  NiLaptop,
-  NiLighthouse,
-  NiPuzzle,
-  NiTarget,
-} from "@/components/notion-illustrations";
-
-// Notion illustrations cycled across the program cards.
-const PROGRAM_ILLUSTRATIONS = [
-  NiLighthouse,
-  NiTarget,
-  NiHandshake,
-  NiGrowing,
-  NiPuzzle,
-  NiHandingKey,
-  NiLaptop,
-];
+import { getProgramImage } from "@/lib/program-images";
 
 const LEVEL_LABEL_KEYS: Record<string, string> = {
   foundation: "foundation",
@@ -106,40 +87,45 @@ export function UniversityProgramsExplorer({
 
       {/* Program list */}
       <div className="mt-[16px] divide-y divide-black/10 border border-black/10">
-        {pageItems.map((prog, idx) => {
+        {pageItems.map((prog) => {
           const fee = formatFee(prog.fee, prog.fee_per_year, prog.currency);
-          const Illo = PROGRAM_ILLUSTRATIONS[(pageStart + idx) % PROGRAM_ILLUSTRATIONS.length];
           return (
             <Link
               key={prog.slug}
               href={`/universities/${slug}/${current!.level}/${prog.slug}`}
-              className="group flex min-h-[112px] items-center gap-[16px] p-[16px] transition-colors hover:bg-[#f5efeb] sm:gap-[21px] sm:p-[21px]"
+              className="group flex min-h-[132px] items-center gap-[18px] p-[18px] transition-colors hover:bg-[#f5efeb] sm:gap-[26px] sm:p-[24px]"
             >
-              <span className="flex h-[72px] w-[72px] shrink-0 items-center justify-center rounded-[18px] border border-black/10 bg-white transition-transform duration-300 group-hover:-translate-y-[3px]">
-                <Illo width={56} className="text-[#285b50]" />
+              <span className="relative h-[88px] w-[124px] shrink-0 overflow-hidden rounded-[16px] bg-[#f5efeb] sm:h-[98px] sm:w-[152px]">
+                <img
+                  src={getProgramImage(prog.field, 400)}
+                  alt=""
+                  aria-hidden="true"
+                  loading="lazy"
+                  className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                />
               </span>
               <div className="min-w-0 flex-1">
-                <p className="truncate text-[15px] font-semibold">
+                <p className="truncate text-[17px] font-semibold leading-snug sm:text-[18px]">
                   {locale === "ar" ? (prog.name_ar || prog.name) : locale === "zh" ? (prog.name_zh || prog.name) : prog.name}
                 </p>
                 {prog.field && (
-                  <p className="mt-[3px] text-[12px] text-black/50">
+                  <p className="mt-[4px] truncate text-[13px] text-black/50 sm:text-[14px]">
                     {locale === "ar" ? (prog.field_ar || prog.field) : locale === "zh" ? (prog.field_zh || prog.field) : prog.field}
                   </p>
                 )}
               </div>
-              <div className="flex shrink-0 flex-wrap items-center gap-x-[16px] gap-y-[4px] text-[13px] text-black/70">
+              <div className="flex shrink-0 flex-col items-end gap-[8px]">
                 {prog.duration && (
-                  <span className="flex items-center gap-[5px]">
-                    <Clock size={13} className="text-[#285b50]" /> {prog.duration}
+                  <span className="flex items-center gap-[6px] text-[14px] text-black/70 sm:text-[15px]">
+                    <Clock size={15} className="shrink-0 text-[#285b50]" /> {prog.duration}
                   </span>
                 )}
                 {fee ? (
-                  <span className="flex items-center gap-[5px]">
-                    <Wallet size={13} className="text-[#285b50]" /> {fee}
+                  <span className="flex items-center gap-[6px] whitespace-nowrap text-[16px] font-bold text-[#285b50] sm:text-[18px]">
+                    <Wallet size={16} className="shrink-0" /> {fee}
                   </span>
                 ) : (
-                  <span className="text-black/35">{t("feeInfoPending")}</span>
+                  <span className="text-[13px] text-black/35">{t("feeInfoPending")}</span>
                 )}
               </div>
             </Link>
