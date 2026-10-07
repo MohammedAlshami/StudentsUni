@@ -3,7 +3,9 @@ import path from "path";
 import { Link } from "@/i18n/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
-import { ArrowUpRight, BookOpen, Brain, Briefcase, Building2, Calculator, CalendarDays, Check, ChevronRight, ClipboardList, Clock, Cog, Cpu, Earth, FlaskConical, GraduationCap, HeartPulse, Hotel, Megaphone, Palette, Scale, Search, SendHorizontal, Stethoscope, Users } from "lucide-react";
+import { ChevronRight, Search, Users } from "lucide-react";
+import { NiArrowUpRight, NiBriefcase, NiButterfly, NiCalendarSquare, NiCells, NiCheck, NiCheckHand, NiClipboardCheck, NiFileText, NiGauge, NiGuides, NiHouse, NiLaptop, NiMicrophone, NiPaperPlane, NiPenLine, NiPercent, NiQuotes, NiScale, NiTimeline, NiTruckLocation, NiUserSquare, NiUsers } from "@/components/notion-icons";
+import { NiLighthouse } from "@/components/notion-illustrations";
 import { wrap, Pic, Label, Pill, Heading } from "@/components/marketing-ui";
 import { MarqueeStrip } from "@/components/marquee-strip";
 import { FeaturedUniversities, type FeaturedUniversity } from "@/components/featured-universities";
@@ -14,25 +16,25 @@ const u = (id: string) => `https://images.unsplash.com/${id}?auto=format&fit=cro
 const p = { hero:u("photo-1562774053-701939374585"), graduates:u("photo-1523580846011-d3a5bc25702b"), woman:u("photo-1494790108377-be9c29b29330"), student:u("photo-1524504388940-b1c1722653e1"), students:u("photo-1523240795612-9a054b0db644"), campus:u("photo-1541339907198-e08756dedf3f") };
 
 const FIELD_CATEGORIES = [
-  { keyword: "business", icon: Briefcase },
-  { keyword: "science", icon: FlaskConical },
-  { keyword: "engineering", icon: Cog },
-  { keyword: "comput", icon: Cpu },
-  { keyword: "medic", icon: HeartPulse },
-  { keyword: "education", icon: GraduationCap },
-  { keyword: "design", icon: Palette },
-  { keyword: "law", icon: Scale },
-  { keyword: "account", icon: Calculator },
-  { keyword: "psycholog", icon: Brain },
-  { keyword: "architect", icon: Building2 },
-  { keyword: "hospitality", icon: Hotel },
-  { keyword: "communicat", icon: Megaphone },
-  { keyword: "islamic", icon: BookOpen },
-  { keyword: "health", icon: Stethoscope },
-  { keyword: "social", icon: Earth },
+  { keyword: "business", icon: NiBriefcase },
+  { keyword: "science", icon: NiButterfly },
+  { keyword: "engineering", icon: NiGauge },
+  { keyword: "comput", icon: NiLaptop },
+  { keyword: "medic", icon: NiCells },
+  { keyword: "education", icon: NiFileText },
+  { keyword: "design", icon: NiPenLine },
+  { keyword: "law", icon: NiScale },
+  { keyword: "account", icon: NiPercent },
+  { keyword: "psycholog", icon: NiUserSquare },
+  { keyword: "architect", icon: NiHouse },
+  { keyword: "hospitality", icon: NiTruckLocation },
+  { keyword: "communicat", icon: NiMicrophone },
+  { keyword: "islamic", icon: NiQuotes },
+  { keyword: "health", icon: NiCheckHand },
+  { keyword: "social", icon: NiUsers },
 ];
 
-const HOW_WE_HELP_ICONS = [Search, ClipboardList, SendHorizontal];
+const HOW_WE_HELP_ICONS = [NiGuides, NiClipboardCheck, NiPaperPlane];
 const HOW_WE_HELP_HREFS = ["/universities", "/contact", "/contact"];
 
 function getFeaturedUniversities(): FeaturedUniversity[] {
@@ -118,7 +120,6 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
           <h2 className="text-[34px] font-bold leading-[.98] tracking-[-.06em] text-[#242927] md:text-[42px]">{t("howWeHelp.titleLine1")}<br/>{t("howWeHelp.titleLine2")}</h2>
         </div>
         <div className="flex flex-col items-start gap-y-[16px] md:items-end">
-          <p className="max-w-[420px] text-[16px] leading-relaxed text-black/60 md:text-end">{t("howWeHelp.subtitle")}</p>
           <Pill href="/contact">{t("howWeHelp.cta")}</Pill>
         </div>
       </div>
@@ -129,13 +130,8 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
             <div className="group relative flex flex-col justify-between border border-black/10 bg-white p-[26px] transition-all duration-300 hover:border-[#285b50] hover:shadow-sm md:p-[32px]" key={step.title}>
               <div>
                 <div className="flex items-center justify-between pb-[21px]">
-                  <div className="flex items-center gap-x-[10px]">
-                    <span className="flex h-[36px] w-[36px] shrink-0 items-center justify-center rounded-full bg-[#285b50] text-[15px] font-bold text-white">{i+1}</span>
-                    <span className="font-mono text-[12px] font-bold uppercase tracking-[.1em] text-black/55">{t("howWeHelp.stepPrefix")} 0{i+1}</span>
-                  </div>
-                  <div className="flex h-[42px] w-[42px] items-center justify-center rounded-full bg-[#f5efeb] text-[#285b50] transition-colors group-hover:bg-[#285b50] group-hover:text-white">
-                    <Icon size={22}/>
-                  </div>
+                  <span className="flex h-[36px] w-[36px] shrink-0 items-center justify-center rounded-full bg-[#285b50] text-[15px] font-bold text-white">{i+1}</span>
+                  <Icon size={30} className="text-[#285b50] transition-transform duration-300 group-hover:-translate-y-[3px]"/>
                 </div>
                 <h3 className="mt-[8px] text-[21px] font-bold tracking-[-.03em] text-[#242927]">{step.title}</h3>
                 <p className="mt-[10px] text-[15px] leading-relaxed text-black/60">{step.desc}</p>
@@ -152,9 +148,7 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
       </div>
       <div className="mt-[42px] flex flex-col items-center justify-between rounded-[16px] bg-[#f5efeb] p-[26px] sm:flex-row md:p-[32px]">
         <div className="mb-[16px] flex items-center gap-x-[16px] sm:mb-0">
-          <div className="flex h-[48px] w-[48px] shrink-0 items-center justify-center rounded-full bg-[#285b50] text-white">
-            <GraduationCap size={24}/>
-          </div>
+          <NiLighthouse width={104} className="shrink-0 text-[#285b50]"/>
           <div>
             <h4 className="text-[17px] font-bold text-[#242927]">{t("howWeHelp.calloutTitle")}</h4>
             <p className="text-[14px] text-black/60">{t("howWeHelp.calloutBody")}</p>
@@ -167,10 +161,10 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
     </div>
   </section>
   <section className="py-[62px] md:py-[83px]"><div className={wrap}><SectionTop label={t("fields.label")} title={<>{t("fields.titleLine1")}<br/>{t("fields.titleLine2")}</>} href="/programs" cta={t("fields.cta")}/><div className="mt-[42px] grid grid-cols-2 gap-[16px] sm:grid-cols-3 md:grid-cols-4">{FIELD_CATEGORIES.map((field)=><Link href={`/programs?q=${field.keyword}`} className="group block border border-black/10 bg-white p-[21px] transition-colors hover:border-[#285b50]" key={field.keyword}><field.icon size={26} className="text-[#285b50]"/><h3 className="mt-[16px] text-[15px] font-bold leading-tight group-hover:underline">{t(`fields.categories.${field.keyword}`)}</h3><p className="mt-[6px] text-[13px] text-black/50">{fieldCounts[field.keyword] ?? 0}+ {t("fields.programmesSuffix")}</p></Link>)}</div></div></section>
-  <section className="py-[62px] md:py-[104px]"><div className={`${wrap} grid items-center gap-[52px] md:grid-cols-2 md:gap-[104px]`}><div className="grid h-[333px] grid-cols-[1fr_1.45fr] grid-rows-2 gap-[10px]"><Pic src={p.woman} className="row-span-2 h-full w-full"/><Pic src={p.students} className="h-full w-full"/><Pic src={p.campus} className="h-full w-full"/></div><div><Label>{t("why.label")}</Label><Heading>{t("why.title")}</Heading><p className="mt-[26px] text-[18px] leading-relaxed text-black/60">{t("why.desc")}</p><ul className="my-[26px] space-y-[10px] text-[18px] font-bold"><li className="flex gap-[10px]"><Check size={22}/>{t("why.bullet1")}</li><li className="flex gap-[10px]"><Check size={22}/>{t("why.bullet2")}</li></ul><Pill href="/contact">{tCommon("talkToUs")}</Pill></div></div></section>
+  <section className="py-[62px] md:py-[104px]"><div className={`${wrap} grid items-center gap-[52px] md:grid-cols-2 md:gap-[104px]`}><div className="grid h-[333px] grid-cols-[1fr_1.45fr] grid-rows-2 gap-[10px]"><Pic src={p.woman} className="row-span-2 h-full w-full"/><Pic src={p.students} className="h-full w-full"/><Pic src={p.campus} className="h-full w-full"/></div><div><Label>{t("why.label")}</Label><Heading>{t("why.title")}</Heading><p className="mt-[26px] text-[18px] leading-relaxed text-black/60">{t("why.desc")}</p><ul className="my-[26px] space-y-[10px] text-[18px] font-bold"><li className="flex gap-[10px]"><NiCheck size={22}/>{t("why.bullet1")}</li><li className="flex gap-[10px]"><NiCheck size={22}/>{t("why.bullet2")}</li></ul><Pill href="/contact">{tCommon("talkToUs")}</Pill></div></div></section>
   <section className="border-t border-black/10 py-[62px] md:py-[83px]"><div className={`${wrap} grid gap-[52px] md:grid-cols-[299px_1fr] md:gap-[104px]`}><div><Label>{t("stories.label")}</Label><Heading>{t("stories.titleLine1")}<br/>{t("stories.titleLine2")}<br/>{t("stories.titleLine3")}</Heading></div><blockquote className="border-s border-black/15 ps-[31px]"><Label>{t("stories.quoteLabel")}</Label><p className="text-[23px] font-semibold leading-relaxed">&ldquo;{t("stories.quote")}&rdquo;</p><footer className="mt-[36px] flex items-center gap-[10px] text-[18px] font-bold"><Users size={22}/> {t("stories.author")}<small className="ms-[10px] text-black/55">{t("stories.role")}</small></footer></blockquote></div></section>
-  <section className="pb-[62px]"><div className={wrap}><div className="mx-auto mb-[21px] grid h-[52px] w-[52px] place-items-center rounded-full border-[3px] border-[#285b50] text-[#285b50]"><ArrowUpRight size={25} className="rtl:rotate-90"/></div><div className="grid h-[270px] grid-cols-[130px_1fr_130px] items-center bg-white text-center md:grid-cols-[237px_1fr_231px]"><Pic src={p.graduates} className="h-[270px] w-full"/><div><Label>{t("cta.label")}</Label><Heading className="text-[29px] md:text-[36px]">{t("cta.titleLine1")}<br/>{t("cta.titleLine2")}</Heading><div className="mt-[21px]"><Pill href="/contact">{tCommon("talkToUs")}</Pill></div></div><Pic src={p.student} className="h-[270px] w-full"/></div></div></section>
-  <section className="bg-white py-[62px]"><div className={wrap}><SectionTop label={t("blog.label")} title={<>{t("blog.titleLine1")}<br/>{t("blog.titleLine2")}</>} href="/blog" cta={t("blog.cta")}/><div className="mt-[42px] grid gap-[26px] md:grid-cols-3">{latestPosts.map((post)=><Link key={post.slug} href={`/blog/${post.slug}`} className="group block border border-black/10 bg-white transition-colors hover:border-[#285b50]"><Pic src={post.coverImage} className="h-[187px] w-full border-b border-black/10"/><div className="p-[21px]"><p className="text-[12px] font-bold uppercase tracking-[.08em] text-[#285b50]">{post.category}</p><h3 className="mt-[8px] text-[17px] font-bold leading-snug group-hover:underline">{post.title}</h3><p className="mt-[10px] text-[13px] leading-relaxed text-black/55 line-clamp-3">{post.excerpt}</p><div className="mt-[16px] flex items-center gap-[16px] border-t border-black/10 pt-[16px] text-[12px] text-black/50"><span className="flex items-center gap-[5px]"><CalendarDays size={12}/> {formatDate(post.date, locale)}</span><span className="flex items-center gap-[5px]"><Clock size={12}/> {t("blog.readTime", {min: post.readTimeMin})}</span></div></div></Link>)}</div></div></section>
+  <section className="pb-[62px]"><div className={wrap}><div className="mx-auto mb-[21px] grid h-[52px] w-[52px] place-items-center rounded-full border-[3px] border-[#285b50] text-[#285b50]"><NiArrowUpRight size={25} className="rtl:rotate-90"/></div><div className="grid h-[270px] grid-cols-[130px_1fr_130px] items-center bg-white text-center md:grid-cols-[237px_1fr_231px]"><Pic src={p.graduates} className="h-[270px] w-full"/><div><Label>{t("cta.label")}</Label><Heading className="text-[29px] md:text-[36px]">{t("cta.titleLine1")}<br/>{t("cta.titleLine2")}</Heading><div className="mt-[21px]"><Pill href="/contact">{tCommon("talkToUs")}</Pill></div></div><Pic src={p.student} className="h-[270px] w-full"/></div></div></section>
+  <section className="bg-white py-[62px]"><div className={wrap}><SectionTop label={t("blog.label")} title={<>{t("blog.titleLine1")}<br/>{t("blog.titleLine2")}</>} href="/blog" cta={t("blog.cta")}/><div className="mt-[42px] grid gap-[26px] md:grid-cols-3">{latestPosts.map((post)=><Link key={post.slug} href={`/blog/${post.slug}`} className="group block border border-black/10 bg-white transition-colors hover:border-[#285b50]"><Pic src={post.coverImage} className="h-[187px] w-full border-b border-black/10"/><div className="p-[21px]"><p className="text-[12px] font-bold uppercase tracking-[.08em] text-[#285b50]">{post.category}</p><h3 className="mt-[8px] text-[17px] font-bold leading-snug group-hover:underline">{post.title}</h3><p className="mt-[10px] text-[13px] leading-relaxed text-black/55 line-clamp-3">{post.excerpt}</p><div className="mt-[16px] flex items-center gap-[16px] border-t border-black/10 pt-[16px] text-[12px] text-black/50"><span className="flex items-center gap-[5px]"><NiCalendarSquare size={14}/> {formatDate(post.date, locale)}</span><span className="flex items-center gap-[5px]"><NiTimeline size={14}/> {t("blog.readTime", {min: post.readTimeMin})}</span></div></div></Link>)}</div></div></section>
   <section className="bg-white py-[62px]"><div className={wrap}><div className="text-center"><Label>{t("faq.label")}</Label><Heading>{t("faq.titleLine1")}<br/>{t("faq.titleLine2")}</Heading></div><div className="mx-auto mt-[52px] max-w-[720px]">{faqItems.map((faq)=><div className="border-b border-black/15 py-[26px] text-[18px]" key={faq.q}><b>{faq.q}</b><p className="mt-[10px] max-w-[582px] text-[16px] leading-relaxed text-black/55">{faq.a}</p></div>)}</div></div></section>
 </main> }
 function SectionTop({label,title,href,cta}:{label:string;title:React.ReactNode;href:string;cta:string}) { return <div className="flex items-start justify-between gap-[21px]"><div><Label>{label}</Label><Heading>{title}</Heading></div><Pill href={href}>{cta}</Pill></div> }

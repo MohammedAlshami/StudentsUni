@@ -24,21 +24,16 @@ function isHeroPage(pathname: string): boolean {
 export function SiteHeader() {
   const pathname = usePathname();
   const t = useTranslations("nav");
-  const [hidden, setHidden] = useState(false);
   const [lifted, setLifted] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const bareHero = pathname === "/contact";
   const transparent = isHeroPage(pathname) || bareHero;
   const darkText = bareHero && !lifted && !menuOpen;
 
+  // Once the page is scrolled the bar "lifts": it shrinks and becomes a
+  // rounded floating pill instead of hiding away on scroll-down.
   useEffect(() => {
-    let lastY = window.scrollY;
-    const onScroll = () => {
-      const y = window.scrollY;
-      setLifted(y > 8);
-      setHidden(y > lastY && y > 83);
-      lastY = y;
-    };
+    const onScroll = () => setLifted(window.scrollY > 8);
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
@@ -47,13 +42,21 @@ export function SiteHeader() {
   return (
     <>
       <header
-        className={`fixed inset-x-0 top-0 z-20 transition-[transform,background-color,color] duration-300 ${darkText ? "text-[#242927]" : "text-white"} ${hidden && !menuOpen ? "-translate-y-full" : "translate-y-0"} ${menuOpen || !transparent || lifted ? "bg-[#285b50]" : "bg-transparent"}`}
+        className={`fixed inset-x-0 top-0 z-20 transition-colors duration-300 ${darkText ? "text-[#242927]" : "text-white"} ${menuOpen || (!transparent && !lifted) ? "bg-[#285b50]" : "bg-transparent"}`}
       >
         <div
-          className={`${wrap} flex h-[83px] items-center gap-[42px] text-[14px] font-semibold uppercase tracking-wide`}
+          className={`flex items-center text-[14px] font-semibold uppercase tracking-wide transition-all duration-300 ease-out ${
+            lifted
+              ? "mx-auto my-[14px] h-[62px] w-[min(1140px,calc(100%-2.6rem))] gap-[26px] rounded-[24px] bg-[#285b50] px-[22px] shadow-[0_12px_34px_rgba(0,0,0,0.20)] md:w-[min(1140px,calc(100%-5.2rem))] md:px-[26px]"
+              : `${wrap} h-[83px] gap-[42px]`
+          }`}
         >
           <Link href="/" className="me-auto flex items-center gap-[10px] text-[23px] font-bold normal-case tracking-tight">
-            <img src={darkText ? "/logo.svg" : "/logo-light.svg"} alt="" className="h-[31px] w-auto" />
+            <img
+              src={darkText ? "/logo.svg" : "/logo-light.svg"}
+              alt=""
+              className={`w-auto transition-[height] duration-300 ${lifted ? "h-[25px]" : "h-[31px]"}`}
+            />
             Arabic Era
           </Link>
           <nav className="hidden gap-[31px] md:flex">
@@ -75,7 +78,7 @@ export function SiteHeader() {
           </button>
         </div>
         {menuOpen && (
-          <nav className="border-t border-white/15 md:hidden">
+          <nav className="border-t border-white/15 bg-[#285b50] md:hidden">
             <div className={`${wrap} flex flex-col gap-[4px] py-[16px] text-[15px] font-semibold uppercase tracking-wide`}>
               <Link href="/universities" className="py-[12px]" onClick={() => setMenuOpen(false)}>{t("universities")}</Link>
               <Link href="/programs" className="py-[12px]" onClick={() => setMenuOpen(false)}>{t("programs")}</Link>
