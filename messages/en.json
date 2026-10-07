@@ -187,6 +187,15 @@
     "included": "Fees include",
     "notIncluded": "Not included"
   },
+  "languageCentresPage": {
+    "label": "English language institutes",
+    "titleLine1": "Find an English",
+    "titleLine2": "centre that fits.",
+    "subtitle": "{count} accredited English language centres across Malaysia — search by name or city.",
+    "searchPlaceholder": "Search institutes or cities",
+    "matchCount": "{filtered} of {total} institutes",
+    "noResults": "No institutes match your search. Try a different name or city."
+  },
   "about": {
     "hero": {
       "label": "Who we are",

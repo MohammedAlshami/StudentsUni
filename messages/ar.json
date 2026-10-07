@@ -187,6 +187,15 @@
     "included": "الرسوم تشمل",
     "notIncluded": "غير مشمول"
   },
+  "languageCentresPage": {
+    "label": "معاهد اللغة الإنجليزية",
+    "titleLine1": "ابحث عن معهد",
+    "titleLine2": "لغة يناسبك.",
+    "subtitle": "{count} معهد لغة إنجليزية معتمد في ماليزيا — ابحث بالاسم أو المدينة.",
+    "searchPlaceholder": "ابحث عن معهد أو مدينة",
+    "matchCount": "{filtered} من {total} معهد",
+    "noResults": "لا توجد معاهد مطابقة لبحثك. جرّب اسمًا أو مدينة أخرى."
+  },
   "about": {
     "hero": {
       "label": "من نحن",

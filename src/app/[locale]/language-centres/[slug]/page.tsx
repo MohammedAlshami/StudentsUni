@@ -1,73 +1,15 @@
-import fs from "fs";
-import path from "path";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Check, Globe, MapPin, Users, X } from "lucide-react";
 import { wrap, Label, Heading, Pill } from "@/components/marketing-ui";
 import { getLanguageCentreImage } from "@/lib/language-centre-images";
+import {
+  formatCentreFee as money,
+  loadAllLanguageCentres as loadAllCentres,
+  loadLanguageCentre as loadCentre,
+} from "@/lib/language-centres";
 import { NiLighthouse } from "@/components/notion-illustrations";
-
-type Offer = {
-  label?: string | null;
-  price?: number | null;
-  price_myr?: number | null;
-  currency?: string | null;
-};
-
-type Course = {
-  name?: string | null;
-  name_ar?: string | null;
-  type?: string | null;
-  duration?: string | null;
-  hours?: string | null;
-  fee_myr?: number | null;
-  fee_usd?: number | null;
-  currency?: string | null;
-  fees_table?: Offer[] | null;
-  discount_pct?: number | null;
-  source?: string | null;
-};
-
-type Centre = {
-  slug: string;
-  name: string;
-  name_ar?: string | null;
-  city?: string | null;
-  website?: string | null;
-  description?: string | null;
-  student_count?: number | null;
-  course_count?: number | null;
-  courses?: Course[] | null;
-  offers?: Offer[] | null;
-  inclusions?: string[] | null;
-  exclusions?: string[] | null;
-  sources?: Array<{ url: string; publisher: string; fetched_at: string }> | null;
-};
-
-const CENTRES_DIR = path.join(process.cwd(), "public/data/language-centres");
-
-function loadCentre(slug: string): Centre | null {
-  const file = path.join(CENTRES_DIR, `${slug}.json`);
-  if (!fs.existsSync(file)) return null;
-  return JSON.parse(fs.readFileSync(file, "utf-8")) as Centre;
-}
-
-function loadAllCentres(): Centre[] {
-  const indexFile = path.join(CENTRES_DIR, "index.json");
-  if (!fs.existsSync(indexFile)) return [];
-  const index = JSON.parse(fs.readFileSync(indexFile, "utf-8")) as { centres: Array<{ slug: string }> };
-  return index.centres
-    .map((c) => loadCentre(c.slug))
-    .filter((c): c is Centre => Boolean(c));
-}
-
-function money(value: number | null | undefined, currency: string | null | undefined): string {
-  if (value == null) return "—";
-  const formatted = value.toLocaleString("en-US", { maximumFractionDigits: 0 });
-  const cur = (currency || "MYR").toUpperCase();
-  return cur === "USD" ? `$${formatted}` : cur === "MYR" ? `RM ${formatted}` : `${formatted} ${cur}`;
-}
 
 export async function generateStaticParams(): Promise<Array<{ locale: string; slug: string }>> {
   const locales = ["en", "ar", "zh"];

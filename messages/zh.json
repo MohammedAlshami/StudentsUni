@@ -187,6 +187,15 @@
     "included": "费用包含",
     "notIncluded": "不包含"
   },
+  "languageCentresPage": {
+    "label": "英语语言学院",
+    "titleLine1": "找到适合你的",
+    "titleLine2": "英语中心。",
+    "subtitle": "马来西亚共 {count} 所认证英语语言中心 — 按名称或城市搜索。",
+    "searchPlaceholder": "搜索学院或城市",
+    "matchCount": "{filtered} / {total} 所学院",
+    "noResults": "没有符合条件的学院。请尝试其他名称或城市。"
+  },
   "about": {
     "hero": {
       "label": "关于我们",

@@ -7,6 +7,7 @@ import { ChevronRight, Search, Users } from "lucide-react";
 import { NiArrowUpRight, NiBriefcase, NiButterfly, NiCalendarSquare, NiCells, NiCheck, NiCheckHand, NiClipboardCheck, NiFileText, NiGauge, NiGuides, NiHouse, NiLaptop, NiMicrophone, NiPaperPlane, NiPenLine, NiPercent, NiQuotes, NiScale, NiTimeline, NiTruckLocation, NiUserSquare, NiUsers } from "@/components/notion-icons";
 import { NiLighthouse } from "@/components/notion-illustrations";
 import { FeaturedInstitutes } from "@/components/featured-institutes";
+import { FEATURED_LANGUAGE_CENTRE_SLUGS } from "@/lib/language-centre-images";
 import { wrap, Pic, Label, Pill, Heading } from "@/components/marketing-ui";
 import { MarqueeStrip } from "@/components/marquee-strip";
 import { FeaturedUniversities, type FeaturedUniversity } from "@/components/featured-universities";
@@ -123,7 +124,11 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
   const featured = getFeaturedUniversities();
   const latestPosts = getLatestPosts(3);
   const fieldCounts = getFieldCounts();
-  const institutes = getLanguageCentres();
+  const allCentres = getLanguageCentres();
+  // Landing shows a curated subset — same count as the featured universities.
+  const institutes = FEATURED_LANGUAGE_CENTRE_SLUGS
+    .map((slug) => allCentres.find((c) => c.slug === slug))
+    .filter((c): c is LanguageCentre => Boolean(c));
   const howWeHelpSteps = t.raw("howWeHelp.steps") as Array<{ title: string; desc: string; action: string }>;
   const faqItems = t.raw("faq.items") as Array<{ q: string; a: string }>;
   return <main className="overflow-x-hidden bg-[#f5efeb] font-sans text-[#242927]">
