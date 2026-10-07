@@ -5,7 +5,8 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { ChevronRight, Search, Users } from "lucide-react";
 import { NiArrowUpRight, NiBriefcase, NiButterfly, NiCalendarSquare, NiCells, NiCheck, NiCheckHand, NiClipboardCheck, NiFileText, NiGauge, NiGuides, NiHouse, NiLaptop, NiMicrophone, NiPaperPlane, NiPenLine, NiPercent, NiQuotes, NiScale, NiTimeline, NiTruckLocation, NiUserSquare, NiUsers } from "@/components/notion-icons";
-import { NiHandshake, NiLighthouse } from "@/components/notion-illustrations";
+import { NiLighthouse } from "@/components/notion-illustrations";
+import { LanguageCentreStrip } from "@/components/language-centre-strip";
 import { wrap, Pic, Label, Pill, Heading } from "@/components/marketing-ui";
 import { MarqueeStrip } from "@/components/marquee-strip";
 import { FeaturedUniversities, type FeaturedUniversity } from "@/components/featured-universities";
@@ -36,9 +37,6 @@ const FIELD_CATEGORIES = [
 
 const HOW_WE_HELP_ICONS = [NiGuides, NiClipboardCheck, NiPaperPlane];
 const HOW_WE_HELP_HREFS = ["/universities", "/contact", "/contact"];
-
-// Notion icons cycled across the English-institute cards.
-const ENGLISH_INSTITUTE_ICONS = [NiMicrophone, NiGuides, NiFileText, NiUsers, NiCheckHand, NiGauge];
 
 type LanguageCentre = {
   slug: string;
@@ -183,38 +181,7 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
     </div>
   </section>
   <section className="py-[62px] md:py-[83px]"><div className={wrap}><SectionTop label={t("fields.label")} title={<>{t("fields.titleLine1")}<br/>{t("fields.titleLine2")}</>} href="/programs" cta={t("fields.cta")}/><div className="mt-[42px] grid grid-cols-2 gap-[16px] sm:grid-cols-3 md:grid-cols-4">{FIELD_CATEGORIES.map((field)=><Link href={`/programs?q=${field.keyword}`} className="group flex min-h-[172px] flex-col justify-between border border-black/10 bg-white p-[21px] transition-colors hover:border-[#285b50]" key={field.keyword}><field.icon size={36} className="text-[#285b50]"/><h3 className="mt-[16px] text-[15px] font-bold leading-tight group-hover:underline">{t(`fields.categories.${field.keyword}`)}</h3><p className="mt-[6px] text-[13px] text-black/50">{fieldCounts[field.keyword] ?? 0}+ {t("fields.programmesSuffix")}</p></Link>)}</div></div></section>
-  <section className="bg-white py-[62px] md:py-[83px]">
-    <div className={wrap}>
-      <div className="flex flex-col gap-y-[21px] border-b border-black/10 pb-[32px] md:flex-row md:items-end md:justify-between">
-        <div className="max-w-[680px]">
-          <span className="mb-[16px] block text-[13px] font-bold uppercase tracking-[.12em] text-[#285b50]">{t("englishInstitutes.label")}</span>
-          <h2 className="text-[34px] font-bold leading-[.98] tracking-[-.06em] text-[#242927] md:text-[42px]">{t("englishInstitutes.titleLine1")}<br/>{t("englishInstitutes.titleLine2")}</h2>
-        </div>
-        <div className="flex items-end gap-x-[21px]">
-          <NiHandshake width={150} className="hidden shrink-0 text-[#285b50] md:block"/>
-          <Pill href="/contact">{t("englishInstitutes.cta")}</Pill>
-        </div>
-      </div>
-      <div className="mt-[42px] grid grid-cols-2 gap-[16px] sm:grid-cols-3 md:grid-cols-4">
-        {institutes.map((centre, i) => {
-          const Icon = ENGLISH_INSTITUTE_ICONS[i % ENGLISH_INSTITUTE_ICONS.length];
-          return (
-            <div className="group flex min-h-[172px] flex-col justify-between border border-black/10 bg-[#f5efeb] p-[21px] transition-colors hover:border-[#285b50]" key={centre.slug}>
-              <div>
-                <Icon size={36} className="text-[#285b50]"/>
-                <h3 className="mt-[16px] text-[15px] font-bold leading-tight">{centre.name}</h3>
-                {centre.city && <p className="mt-[6px] text-[13px] text-black/50">{centre.city}</p>}
-              </div>
-              <div className="mt-[16px] flex flex-wrap items-center gap-x-[12px] border-t border-black/5 pt-[12px] text-[12px] text-black/50">
-                <span className="flex items-center gap-[5px]"><NiFileText size={14}/>{centre.course_count ?? 0}+ {t("englishInstitutes.coursesSuffix")}</span>
-                {centre.student_count != null && <span className="flex items-center gap-[5px]"><NiUsers size={14}/>{centre.student_count}</span>}
-              </div>
-            </div>
-          );
-        })}
-      </div>
-    </div>
-  </section>
+  <section className="py-[62px] md:py-[83px]"><div className={wrap}><div className="flex items-start justify-between gap-[21px]"><div><Label>{t("englishInstitutes.label")}</Label><Heading>{t("englishInstitutes.titleLine1")}<br/>{t("englishInstitutes.titleLine2")}</Heading></div><Pill href="/contact">{t("englishInstitutes.cta")}</Pill></div><LanguageCentreStrip centres={institutes} /></div></section>
   <section className="py-[62px] md:py-[104px]"><div className={`${wrap} grid items-center gap-[52px] md:grid-cols-2 md:gap-[104px]`}><div className="grid h-[333px] grid-cols-[1fr_1.45fr] grid-rows-2 gap-[10px]"><Pic src={p.woman} className="row-span-2 h-full w-full"/><Pic src={p.students} className="h-full w-full"/><Pic src={p.campus} className="h-full w-full"/></div><div><Label>{t("why.label")}</Label><Heading>{t("why.title")}</Heading><p className="mt-[26px] text-[18px] leading-relaxed text-black/60">{t("why.desc")}</p><ul className="my-[26px] space-y-[10px] text-[18px] font-bold"><li className="flex gap-[10px]"><NiCheck size={22}/>{t("why.bullet1")}</li><li className="flex gap-[10px]"><NiCheck size={22}/>{t("why.bullet2")}</li></ul><Pill href="/contact">{tCommon("talkToUs")}</Pill></div></div></section>
   <section className="border-t border-black/10 py-[62px] md:py-[83px]"><div className={`${wrap} grid gap-[52px] md:grid-cols-[299px_1fr] md:gap-[104px]`}><div><Label>{t("stories.label")}</Label><Heading>{t("stories.titleLine1")}<br/>{t("stories.titleLine2")}<br/>{t("stories.titleLine3")}</Heading></div><blockquote className="border-s border-black/15 ps-[31px]"><Label>{t("stories.quoteLabel")}</Label><p className="text-[23px] font-semibold leading-relaxed">&ldquo;{t("stories.quote")}&rdquo;</p><footer className="mt-[36px] flex items-center gap-[10px] text-[18px] font-bold"><Users size={22}/> {t("stories.author")}<small className="ms-[10px] text-black/55">{t("stories.role")}</small></footer></blockquote></div></section>
   <section className="pb-[62px]"><div className={wrap}><div className="mx-auto mb-[21px] grid h-[52px] w-[52px] place-items-center rounded-full border-[3px] border-[#285b50] text-[#285b50]"><NiArrowUpRight size={25} className="rtl:rotate-90"/></div><div className="grid h-[270px] grid-cols-[130px_1fr_130px] items-center bg-white text-center md:grid-cols-[237px_1fr_231px]"><Pic src={p.graduates} className="h-[270px] w-full"/><div><Label>{t("cta.label")}</Label><Heading className="text-[29px] md:text-[36px]">{t("cta.titleLine1")}<br/>{t("cta.titleLine2")}</Heading><div className="mt-[21px]"><Pill href="/contact">{tCommon("talkToUs")}</Pill></div></div><Pic src={p.student} className="h-[270px] w-full"/></div></div></section>
