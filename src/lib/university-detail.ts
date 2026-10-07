@@ -3,6 +3,7 @@ import path from "path";
 
 export type ProgramSummary = {
   slug: string;
+  level: string;
   name: string;
   name_ar?: string;
   name_zh?: string;
@@ -10,9 +11,20 @@ export type ProgramSummary = {
   field_ar?: string;
   field_zh?: string;
   duration: string | null;
+  mode: string | null;
+  intakes: string[];
   fee: number | null;
   fee_per_year: number | null;
   currency: string;
+  description: string | null;
+  requirements: NormalizedProgramDetail["requirements"];
+  accreditation: NormalizedProgramDetail["accreditation"];
+  faculty: string | null;
+  campus: string | null;
+  credits: number | string | null;
+  awarding_body: string | null;
+  awarding_country: string | null;
+  confidence: string;
   hasDetail: boolean;
 };
 
@@ -55,6 +67,13 @@ export type NormalizedProgramDetail = {
     mqa_status: string | null;
     mqa_ref: string | null;
   };
+  // Extra detail surfaced by the programme explorer / detail modal.
+  description: string | null;
+  faculty: string | null;
+  campus: string | null;
+  credits: number | string | null;
+  awarding_body: string | null;
+  awarding_country: string | null;
   confidence: string;
   hasDetail: boolean;
 };
@@ -216,6 +235,12 @@ export function loadProgramDetail(
         mqa_status: (accreditation.mqa_status as string) ?? null,
         mqa_ref: (accreditation.mqa_ref as string) ?? null,
       },
+      description: (fileDetail.description as string) ?? null,
+      faculty: (fileDetail.faculty as string) ?? null,
+      campus: (fileDetail.campus as string) ?? null,
+      credits: (fileDetail.credits as number | string) ?? null,
+      awarding_body: (fileDetail.awarding_body as string) ?? null,
+      awarding_country: (fileDetail.awarding_country as string) ?? null,
       confidence: (fileDetail.confidence as string) || "medium",
       hasDetail: true,
     };
@@ -245,6 +270,12 @@ export function loadProgramDetail(
           mqa_status: (raw.accreditation as string) ?? null,
           mqa_ref: null,
         },
+        description: (raw.description as string) ?? null,
+        faculty: (raw.faculty as string) ?? null,
+        campus: (raw.campus as string) ?? null,
+        credits: (raw.credits as number | string) ?? null,
+        awarding_body: (raw.awarding_body as string) ?? null,
+        awarding_country: (raw.awarding_country as string) ?? null,
         confidence: typeof raw.confidence === "number" ? String(raw.confidence) : "medium",
         hasDetail: true,
       };
@@ -264,6 +295,12 @@ export function loadProgramDetail(
     fees: { currency: "MYR", total: null, per_year: null, notes: "" },
     requirements: { english_requirement: null, a_level: null, ib: null, other_qualifications: null, previous_education: null, pre_university: null, foundation: null, diploma_pathway: null, general: null },
     accreditation: { mqa_status: null, mqa_ref: null },
+    description: null,
+    faculty: null,
+    campus: null,
+    credits: null,
+    awarding_body: null,
+    awarding_country: null,
     confidence: "low",
     hasDetail: false,
   };
@@ -280,6 +317,7 @@ export function getProgramsByLevel(universityName: string, slug: string, levels:
       const detail = loadProgramDetail(universityName, slug, level, raw);
       return {
         slug: entrySlug(raw) || slugify(detail.program_name),
+        level,
         name: detail.program_name,
         name_ar: detail.program_name_ar,
         name_zh: detail.program_name_zh,
@@ -287,9 +325,20 @@ export function getProgramsByLevel(universityName: string, slug: string, levels:
         field_ar: detail.field_ar,
         field_zh: detail.field_zh,
         duration: detail.duration,
+        mode: detail.mode,
+        intakes: detail.intakes,
         fee: detail.fees.total,
         fee_per_year: detail.fees.per_year,
         currency: detail.fees.currency,
+        description: detail.description,
+        requirements: detail.requirements,
+        accreditation: detail.accreditation,
+        faculty: detail.faculty,
+        campus: detail.campus,
+        credits: detail.credits,
+        awarding_body: detail.awarding_body,
+        awarding_country: detail.awarding_country,
+        confidence: detail.confidence,
         hasDetail: detail.hasDetail,
       };
     });
