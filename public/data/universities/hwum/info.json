@@ -31,9 +31,14 @@
       "url": "https://www.hwum.edu.my",
       "type": "official",
       "note": "Malaysia campus website (connection issues during data collection)"
+    },
+    {
+      "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d8%b1%d9%8a%d9%88%d8%aa-%d9%88%d8%a7%d8%aa-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-heriot-watt-malaysia/",
+      "publisher": "Khutwatuk",
+      "fetched_at": "2026-10-07"
     }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "notes": "Branch campus of Heriot-Watt University (UK). Campus opened in Putrajaya in 2014. First green campus in Malaysia. Offers foundation, undergraduate and postgraduate programmes based on UK curriculum.",
   "fees": {
     "currency": "MYR",
@@ -42,5 +47,6 @@
     "per_year_local": 35000,
     "per_year_international": null,
     "notes": "International programme fees verified from Heriot-Watt University Malaysia official 2026/27 Fee-International schedule (incl. 6% SST); see individual programme files. Last verified 2026-09-18."
-  }
+  },
+  "description": "في حالة اردت حجز سكن سنقوم بعرض الغرف المتاحة لك لكي تختار نوع الغرفة التي تريدها حسب رغبتك وميزانيتك وسنقوم بحجز الغرفة لك مسبقا. التنسيق مسبقاً لأجل قدومك وارسال تذكرة سفرك لنا عند حجزك ليقوم ممثل الجامعة بالذهاب إلى المطار يوم وصولك لاستقبالك و يقوم بالإجراءات الإدارية اللازمة لخروجك من المطار ، ثم يقوم بنقلك من المطار إلى الجامعة او السكن​."
 }

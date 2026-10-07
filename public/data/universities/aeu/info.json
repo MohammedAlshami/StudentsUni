@@ -44,10 +44,13 @@
   "notes": "30 programs total from official website (Foundation: 1, Diploma: 4, Bachelor: 10, Master: 7, Doctorate: 2, PhD: 6). Comprehensive listing confirmed via aeU homepage and programs.json.",
   "fees": {
     "currency": "MYR",
-    "local_total": 66000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 22000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+    "notes": "AEU does not publish fees publicly. Contact university for current fee schedule. Financial aid: PTPTN loan, EPF withdrawal, merit scholarship, 10% early settlement, 10% loyalty, 50% senior citizen, 75% disability discounts."
+  },
+  "verified_programs": 30,
+  "deepdive_completed": "2026-09-18",
+  "deepdive_notes": "All 30 programs verified from official website. Duration, mode, intakes, entry requirements, MQA codes updated. Fees not publicly available."
 }

@@ -1,47 +1,52 @@
 {
-  "university": "Heriot-Watt University Malaysia",
-  "university_slug": "hwum",
-  "level": "degree",
-  "program_name": "MA Marketing",
-  "program_slug": "ma-marketing",
-  "field": "",
-  "duration": "3 years",
-  "mode": "Onsite",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Not listed in official HWUM 2026/27 international fee schedule; closest listed programme is MA (Hons) International Business Management with Marketing (RM49,046.20/yr). Verify programme status. No fee verified."
+ "university": "Heriot-Watt University Malaysia",
+ "university_slug": "hwum",
+ "level": "degree",
+ "program_name": "MA Marketing",
+ "program_slug": "ma-marketing",
+ "field": "",
+ "duration": "3 years",
+ "mode": "Onsite",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 42848.0,
+  "per_year": null,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d8%b1%d9%8a%d9%88%d8%aa-%d9%88%d8%a7%d8%aa-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-heriot-watt-malaysia/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": {
+  "mqa_status": null,
+  "mqa_ref": null
+ },
+ "sources": [
+  {
+   "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/ma-hons-marketing-274681/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
+   "publisher": "Heriot-Watt University Malaysia",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
-  },
-  "sources": [
-    {
-      "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/ma-hons-marketing-274681/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
-      "publisher": "Heriot-Watt University Malaysia",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "low",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير arketing",
-  "program_name_zh": "市场营销文学硕士"
+  {
+   "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d8%b1%d9%8a%d9%88%d8%aa-%d9%88%d8%a7%d8%aa-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-heriot-watt-malaysia/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "low",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير arketing",
+ "program_name_zh": "市场营销文学硕士"
 }

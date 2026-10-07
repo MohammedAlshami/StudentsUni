@@ -1,45 +1,62 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Masters Degree",
-  "program_name": "Master of Clinical Psychology",
-  "field": "Social Sciences",
-  "slug": "master-of-clinical-psychology",
-  "duration": "2 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Oct"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 70050,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Masters Degree",
+ "program_name": "Master of Clinical Psychology",
+ "field": "Social Sciences",
+ "slug": "master-of-clinical-psychology",
+ "duration": "2 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Oct"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 70050,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": [
+  {
+   "label": "العمر الأدنى",
+   "value": "18",
+   "note": "سنة"
   },
-  "requirements": null,
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058827/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Clinical Psychology",
-  "program_name_zh": "临床心理学硕士",
-  "field_ar": "العلوم",
-  "field_zh": "社会科学"
+  {
+   "label": "المؤهل",
+   "value": "ثانوية معتمدة",
+   "note": "ماجستير"
+  }
+ ],
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058827/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B1%D9%8A-5869/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Clinical Psychology",
+ "program_name_zh": "临床心理学硕士",
+ "field_ar": "العلوم",
+ "field_zh": "社会科学",
+ "description": "يهدف برنامج علم النفس السريري إلى إعداد أخصائيين يمتلكون المعرفة والمهارات اللازمة لتقييم وتشخيص وعلاج الاضطرابات النفسية وفق أحدث الممارسات العلمية. يركز البرنامج على التقييم النفسي، والعلاج النفسي، والإرشاد، وعلم النفس المرضي، والأخلاقيات المهنية، والبحث العلمي، مع توفير تدريب سريري مكثف تحت إشراف متخصصين. كما ينمي البرنامج مهارات التواصل، والتفكير النقدي، والعمل ضمن فرق الرعاية الصحية متعددة التخصصات. ويؤهل الخريجين للعمل في المستشفيات، والعيادات النفسية، ومراكز الصحة النفسية، والمؤسسات الأكاديمية والبحثية."
 }

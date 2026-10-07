@@ -5,12 +5,14 @@
   "program_name": "Master of Business Administration (Human Resource Management)",
   "slug": "master-of-business-administration-human-resource-management",
   "field": "management",
-  "duration": "1.5 years",
+  "duration": "1 year (FT) / 2 years (PT)",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Apr",
+    "Jun",
+    "Aug",
+    "Oct"
   ],
   "fees": {
     "currency": "MYR",
@@ -24,7 +26,8 @@
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/FA4567",
+    "programme_code": "R2/0414/7/0296"
   },
   "sources": [
     {

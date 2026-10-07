@@ -1,39 +1,45 @@
 {
-  "university": "Universiti Sains Malaysia",
-  "university_slug": "usm",
-  "level": "bachelor",
-  "program_name": "Bachelor of Computer Science (Intelligence Computing/Infrastructure Computing/Software Engineering)(Hons)",
-  "field": "Computing",
-  "slug": "bachelor-of-computer-science",
-  "duration": "8 semesters (4 years)",
-  "mode": "Full-time",
-  "intakes": [
-    "September"
-  ],
-  "fees": {
-    "currency": "USD",
-    "total": 15000,
-    "per_year": 3750,
-    "notes": "Official USM international undergraduate tuition: USD 15,000 total programme (USD 1,875/semester incl. welfare; USD 1,325 registration one-off). per_year derived from official total over 4.0-year duration. Source: https://admission.usm.my/images/data/antarbangsa.csv (accessed 2026-09-18); see also https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
-  },
-  "accreditation": {
-    "mqa_status": "Full Accreditation",
-    "mqa_ref": null
-  },
-  "sources": [
-    "https://admission.usm.my/images/data/antarbangsa.csv",
-    "https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Computer Science (Intelligence Computing/Infrastructure Computing/Software Engineering)(Hons)",
-  "program_name_zh": "Computer Science (Intelligence Computing/Infrastructure Computing/Software Engineering)(Hons)学士",
-  "field_ar": "Computing",
-  "field_zh": "计算机学"
+ "university": "Universiti Sains Malaysia",
+ "university_slug": "usm",
+ "level": "bachelor",
+ "program_name": "Bachelor of Computer Science (Intelligence Computing/Infrastructure Computing/Software Engineering)(Hons)",
+ "field": "Computing",
+ "slug": "bachelor-of-computer-science",
+ "duration": "8 semesters (4 years)",
+ "mode": "Full-time",
+ "intakes": [
+  "September"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 15000,
+  "per_year": 3750,
+  "notes": "Official USM international undergraduate tuition: USD 15,000 total programme (USD 1,875/semester incl. welfare; USD 1,325 registration one-off). per_year derived from official total over 4.0-year duration. Source: https://admission.usm.my/images/data/antarbangsa.csv (accessed 2026-09-18); see also https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+)",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent qualification"
+ },
+ "accreditation": {
+  "mqa_status": "Full Accreditation",
+  "mqa_ref": null
+ },
+ "sources": [
+  "https://admission.usm.my/images/data/antarbangsa.csv",
+  "https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027",
+  {
+   "url": "https://maigaedu.com/program/%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-4326/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Computer Science (Intelligence Computing/Infrastructure Computing/Software Engineering)(Hons)",
+ "program_name_zh": "Computer Science (Intelligence Computing/Infrastructure Computing/Software Engineering)(Hons)学士",
+ "field_ar": "Computing",
+ "field_zh": "计算机学",
+ "description": "برنامج بكالوريوس في علوم الحاسب يهدف إلى إعداد متخصصين يمتلكون المعرفة والمهارات اللازمة في علوم الحاسب لتطوير البرمجيات والأنظمة الذكية وحلول التقنية الحديثة. يركز البرنامج على البرمجة، وهندسة البرمجيات، والذكاء الاصطناعي، وعلوم البيانات، والأمن السيبراني، وقواعد البيانات، والخوارزميات، مع تنمية مهارات الابتكار والبحث والتطوير. ويؤهل البرنامج الخريجين للعمل في شركات البرمجيات، وشركات التكنولوجيا، والمؤسسات الحكومية، والقطاع المالي، ومراكز البحث والتطوير."
 }

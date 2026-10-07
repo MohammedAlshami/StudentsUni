@@ -1,38 +1,44 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "masters",
-  "program_name": "Master of Science in Actuarial Science with a specialism in Economics",
-  "program_slug": "msc-actuarial-science-economics",
-  "field": "Actuarial Studies",
-  "duration": "1 year",
-  "mode": "Full-time / Part-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 42000,
-    "per_year": null,
-    "notes": "APU official course page: total international tuition RM42,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-in-actuarial-science-economics (accessed 2026-09-18)."
-  },
-  "requirements": {
-    "english_requirement": "IELTS : 5.0",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-    "general": "Bachelor’s degree Bachelor’s degree in Actuarial, Mathematics, Statistics or Computing with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in Actuarial, Mathematics, Statistics or Computing with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in Actuarial, Mathematics, Statistics or Computing with CGPA less than 2.50 as accepted by the Senate and a minimum of 5 years of working experience in a relevant field may be accepted. Bachelor’s degree in Finance or Economics with a minimum CGPA of 2.75 as accepted by the Senate, subject to passing pre-requisite courses. Bachelor’s degree in Finance or Economics with a minimum CGPA of 2.50 as accepted by the Senate and a minimum of 5 years of working experience in a relevant field may be accepted, subject to passing pre-requisite courses. Bachelor’s degree in non-related fields with a minimum CGPA of 2.75 and a minimum of 5 years of working experience in the related fields as accepted by the Senate, subject to passing the pre-requisite courses, professional courses, or accredited micro-credentials program. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/msc-in-actuarial-science-economics",
-    "https://www.studymalaysia.com/edu/apu/courses/",
-    "https://www.studymalaysia.com/what/course/APU/0053545/"
-  ],
-  "confidence": 0.7,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Science in Actuarial Science with a specialism in Economics",
-  "program_name_zh": "精算学理学硕士（经济学专业）",
-  "field_ar": "Actuarial Studies",
-  "field_zh": "精算学"
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "masters",
+ "program_name": "Master of Science in Actuarial Science with a specialism in Economics",
+ "program_slug": "msc-actuarial-science-economics",
+ "field": "Actuarial Studies",
+ "duration": "1 year",
+ "mode": "Full-time / Part-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 42000,
+  "per_year": null,
+  "notes": "APU official course page: total international tuition RM42,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-in-actuarial-science-economics (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 5.0",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+  "general": "Bachelor’s degree Bachelor’s degree in Actuarial, Mathematics, Statistics or Computing with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in Actuarial, Mathematics, Statistics or Computing with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in Actuarial, Mathematics, Statistics or Computing with CGPA less than 2.50 as accepted by the Senate and a minimum of 5 years of working experience in a relevant field may be accepted. Bachelor’s degree in Finance or Economics with a minimum CGPA of 2.75 as accepted by the Senate, subject to passing pre-requisite courses. Bachelor’s degree in Finance or Economics with a minimum CGPA of 2.50 as accepted by the Senate and a minimum of 5 years of working experience in a relevant field may be accepted, subject to passing pre-requisite courses. Bachelor’s degree in non-related fields with a minimum CGPA of 2.75 and a minimum of 5 years of working experience in the related fields as accepted by the Senate, subject to passing the pre-requisite courses, professional courses, or accredited micro-credentials program. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/msc-in-actuarial-science-economics",
+  "https://www.studymalaysia.com/edu/apu/courses/",
+  "https://www.studymalaysia.com/what/course/APU/0053545/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D9%88%D8%A7%D8%B1%D9%8A%D8%A9-5647/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.7,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Science in Actuarial Science with a specialism in Economics",
+ "program_name_zh": "精算学理学硕士（经济学专业）",
+ "field_ar": "Actuarial Studies",
+ "field_zh": "精算学",
+ "description": "يهدف برنامج العلوم في العلوم الاكتوارية إلى تزويد الطالب بمعرفة أكاديمية ومهارات عملية متخصصة في المجال، مع ربط المفاهيم النظرية بالتطبيقات الحديثة وسوق العمل. يساعد البرنامج الطالب على تطوير التفكير التحليلي وحل المشكلات والعمل على المشاريع التطبيقية، ويؤهله للانطلاق المهني أو متابعة الدراسات العليا في تخصص قريب."
 }

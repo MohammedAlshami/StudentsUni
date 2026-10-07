@@ -1,44 +1,50 @@
 {
-  "university": "Universiti Sains Malaysia",
-  "university_slug": "usm",
-  "level": "bachelor",
-  "program_name": "Bachelor of Nursing(Hons)",
-  "field": "Medicine",
-  "slug": "bachelor-of-nursing",
-  "duration": "8 semesters (4 years)",
-  "mode": "Full-time",
-  "intakes": [
-    "September"
-  ],
-  "fees": {
-    "currency": "USD",
-    "total": null,
-    "per_year": null,
-    "notes": "No international tuition published for this programme in USM official international undergraduate fee schedule (antarbangsa.csv) or fee pages; may not be open to international students. Checked https://admission.usm.my/images/data/antarbangsa.csv and https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027 (accessed 2026-09-18)."
+ "university": "Universiti Sains Malaysia",
+ "university_slug": "usm",
+ "level": "bachelor",
+ "program_name": "Bachelor of Nursing(Hons)",
+ "field": "Medicine",
+ "slug": "bachelor-of-nursing",
+ "duration": "8 semesters (4 years)",
+ "mode": "Full-time",
+ "intakes": [
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 177970.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-4378/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+)",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent qualification"
+ },
+ "accreditation": {
+  "mqa_status": "Full Accreditation",
+  "mqa_ref": null
+ },
+ "sources": [
+  {
+   "url": "https://studymalaysia.com/edu/usm/courses/",
+   "publisher": "StudyMalaysia",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
-  },
-  "accreditation": {
-    "mqa_status": "Full Accreditation",
-    "mqa_ref": null
-  },
-  "sources": [
-    {
-      "url": "https://studymalaysia.com/edu/usm/courses/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-14"
-    },
-    "https://admission.usm.my/images/data/antarbangsa.csv",
-    "https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Nursing(Hons)",
-  "program_name_zh": "护理学士（荣誉）",
-  "field_ar": "الطب",
-  "field_zh": "医学"
+  "https://admission.usm.my/images/data/antarbangsa.csv",
+  "https://admission.usm.my/index.php/fee-ug/ijazah-pertama-2026-2027",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-4378/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Nursing(Hons)",
+ "program_name_zh": "护理学士（荣誉）",
+ "field_ar": "الطب",
+ "field_zh": "医学",
+ "description": "برنامج بكالوريوس في التمريض يهدف إلى إعداد ممرضين مؤهلين يمتلكون المعرفة والمهارات السريرية لتقديم رعاية صحية شاملة وفق المعايير المهنية الحديثة. يركز البرنامج على التمريض السريري، والرعاية الصحية، وعلم الأدوية، والصحة العامة، والتمريض المجتمعي، وأخلاقيات المهنة، مع تدريب سريري مكثف في المستشفيات والمراكز الصحية. ويؤهل البرنامج الخريجين للعمل في المستشفيات، والعيادات، والمراكز الصحية، ومؤسسات الرعاية طويلة الأجل، والقطاعين العام والخاص."
 }

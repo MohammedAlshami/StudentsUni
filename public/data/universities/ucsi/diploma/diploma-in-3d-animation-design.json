@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "diploma",
-  "program_name": "Diploma in 3D Animation Design",
-  "field": "3D Animation Design",
-  "duration": "2 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 87472,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-3d-animation-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 4.5 or TOEFL iBT 33",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0007771/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/diploma-3d-animation-design"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم 3D Animation Design",
-  "program_name_zh": "三维动画设计文凭",
-  "field_ar": "التصميم",
-  "field_zh": "三维动画设计"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "diploma",
+ "program_name": "Diploma in 3D Animation Design",
+ "field": "3D Animation Design",
+ "duration": "2 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 87472,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-3d-animation-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 4.5 or TOEFL iBT 33",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0007771/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/diploma-3d-animation-design",
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%B1%D9%83%D8%A9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF-4844/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم 3D Animation Design",
+ "program_name_zh": "三维动画设计文凭",
+ "field_ar": "التصميم",
+ "field_zh": "三维动画设计",
+ "description": "يهدف تصميم الرسوم المتحركة ثلاثية الأبعاد إلى تزويد الطلاب بالمهارات الأساسية في تصميم وتحريك الشخصيات والعناصر الرقمية باستخدام أحدث برامج وتقنيات الرسوم المتحركة. يركز البرنامج على النمذجة ثلاثية الأبعاد، والتحريك، والإخراج، والمؤثرات البصرية، وتصميم المشاهد، وسرد القصص الرقمية. كما يوفر تدريبًا عمليًا يساعد الطلاب على بناء ملف أعمال احترافي يعكس قدراتهم الإبداعية. يؤهل البرنامج الخريجين للعمل في استوديوهات الرسوم المتحركة، وشركات الألعاب، والإنتاج التلفزيوني والسينمائي، ووكالات الإعلان، وصناعة المحتوى الرقمي."
 }

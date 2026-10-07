@@ -1,49 +1,55 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "undergraduate",
-  "program_name": "Bachelor of Computer Science (Systems and Networking) (Hons)",
-  "program_slug": "bachelor-of-computer-science-systems-networking-hons",
-  "field": "Computing & IT",
-  "duration": "3 years (Full-time)",
-  "mode": "Full-time",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 82500,
-    "per_year": 27500,
-    "notes": "Legacy name 'Systems and Networking'; maps to the official Bachelor in Computer Science (Network Engineering) (Honours). International student tuition: RM82,500 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-computer-science-network-engineering-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM78,000. per_year = total / 3yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "undergraduate",
+ "program_name": "Bachelor of Computer Science (Systems and Networking) (Hons)",
+ "program_slug": "bachelor-of-computer-science-systems-networking-hons",
+ "field": "Computing & IT",
+ "duration": "3 years (Full-time)",
+ "mode": "Full-time",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 82500,
+  "per_year": 27500,
+  "notes": "Legacy name 'Systems and Networking'; maps to the official Bachelor in Computer Science (Network Engineering) (Honours). International student tuition: RM82,500 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-computer-science-network-engineering-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM78,000. per_year = total / 3yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+  "a_level": "2 Principals (C+)",
+  "ib": "24 points",
+  "other_qualifications": "STPM with minimum CGPA 2.00 and Grade C in Mathematics; or A-Level with minimum Grade D in Mathematics and a Science/Technology/Engineering subject; or International Baccalaureate with minimum 24 points; or Foundation/Matriculation/STAM in a related field with minimum CGPA 2.00."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "R3/0613/6/0012 (03/29) (MQA/A9889)"
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-computer-science-network-engineering-honours/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "STPM with minimum CGPA 2.00 and Grade C in Mathematics; or A-Level with minimum Grade D in Mathematics and a Science/Technology/Engineering subject; or International Baccalaureate with minimum 24 points; or Foundation/Matriculation/STAM in a related field with minimum CGPA 2.00."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "R3/0613/6/0012 (03/29) (MQA/A9889)"
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-computer-science-network-engineering-honours/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Computer Science (Systems and Networking) (Hons)",
-  "program_name_zh": "Computer Science (Systems and Networking) (Hons)学士",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "计算机与信息技术"
+  {
+   "url": "https://maigaedu.com/program/%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-4419/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Computer Science (Systems and Networking) (Hons)",
+ "program_name_zh": "Computer Science (Systems and Networking) (Hons)学士",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "计算机与信息技术",
+ "description": "يهدف بكالوريوس علوم الحاسب (الأنظمة والشبكات) إلى إعداد متخصصين يمتلكون المعرفة والمهارات اللازمة لتصميم وإدارة وتشغيل البنية التحتية للشبكات وأنظمة الحوسبة الحديثة. يدرس الطلبة البرمجة، وأنظمة التشغيل، والشبكات، والحوسبة السحابية، وإدارة الخوادم، وأمن الشبكات، وقواعد البيانات، مع التركيز على تنمية مهارات التحليل، والتفكير المنطقي، وحل المشكلات التقنية. كما يجمع البرنامج بين الدراسة الأكاديمية والتطبيق العملي في المختبرات والمشاريع التطبيقية التي تحاكي بيئات العمل الحقيقية. ويتعرف الطلبة على أحدث التقنيات في مراكز البيانات، والافتراضية، وإنترنت الأشياء، والبنية التحتية الرقمية، مما يعزز قدرتهم على تصميم حلول تقنية متكاملة. ويؤهل البرنامج الخريجين للعمل كمهندسي شبكات، ومديري أنظمة، ومتخصصي بنية تحتية، ومهندسي دعم تقني، أو متابعة الدراسات العليا في علوم الحاسب وتقنية المعلومات."
 }

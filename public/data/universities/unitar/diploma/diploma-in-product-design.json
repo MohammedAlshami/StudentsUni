@@ -1,57 +1,62 @@
 {
-  "university": "UNITAR International University",
-  "university_slug": "unitar",
-  "level": "Diploma",
-  "program_name": "Diploma in Product Design",
-  "field": "Arts & Design",
-  "slug": "diploma-in-product-design",
-  "duration": "2.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "May",
-    "Sep",
-    "Jan"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No international fee published by UNITAR for this programme (checked 2026-09-18): it is not on the current official programme list (https://www.unitar.my/programmes/), and no foreign-student fee is listed by EasyUni or Uni Enrol. Previous estimate removed."
+ "university": "UNITAR International University",
+ "university_slug": "unitar",
+ "level": "Diploma",
+ "program_name": "Diploma in Product Design",
+ "field": "Arts & Design",
+ "slug": "diploma-in-product-design",
+ "duration": "2.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "May",
+  "Sep",
+  "Jan"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 4800.0,
+  "per_year": null,
+  "notes": "External estimate from abeer (https://abeereducation.com/universities/unitar-international-university)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion",
+  "general": "SPM with a minimum of three (3) credits in any subject, or its equivalent, OR Pass in Unified Examination Certificate (UEC) with minimum 3Bs, OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GP 2.00) in any subject, or its equivalent; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul in any subject, or its equivalent; OR A pass in SKM Level 3 / Sijil Vokasional Malaysia (SVM) (Note: The HEPs are to conduct screening and provide necessary guidance specific to the discipline of the programme); OR A Certificate (Level 3, MQF) with minimum CGPA of 2.00 or its equivalent; OR Other relevant equivalent qualifications recognised by the Malaysian Government AND Pass an interview OR submission of student’s portfolio determined by the HEP as required. Language Requirements ENGLISH REQUIREMENT International Students Minimum score of Band 2 in the Malaysian University English Test (MUET), IELTS 4.5 or equivalent"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/UNITAR/0056634/",
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion",
-    "general": "SPM with a minimum of three (3) credits in any subject, or its equivalent, OR Pass in Unified Examination Certificate (UEC) with minimum 3Bs, OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GP 2.00) in any subject, or its equivalent; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul in any subject, or its equivalent; OR A pass in SKM Level 3 / Sijil Vokasional Malaysia (SVM) (Note: The HEPs are to conduct screening and provide necessary guidance specific to the discipline of the programme); OR A Certificate (Level 3, MQF) with minimum CGPA of 2.00 or its equivalent; OR Other relevant equivalent qualifications recognised by the Malaysian Government AND Pass an interview OR submission of student’s portfolio determined by the HEP as required. Language Requirements ENGLISH REQUIREMENT International Students Minimum score of Band 2 in the Malaysian University English Test (MUET), IELTS 4.5 or equivalent"
+  {
+   "url": "https://studymalaysia.com/edu/unitar/",
+   "publisher": "StudyMalaysia",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/UNITAR/0056634/",
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://studymalaysia.com/edu/unitar/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/diploma-in-animation-design-294060/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://www.unitar.my/programmes/",
-      "publisher": "unitar",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "low",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Product Design",
-  "program_name_zh": "产品设计文凭",
-  "field_ar": "الفنون",
-  "field_zh": "艺术与设计"
+  {
+   "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/diploma-in-animation-design-294060/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://www.unitar.my/programmes/",
+   "publisher": "unitar",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://abeereducation.com/universities/unitar-international-university",
+   "publisher": "abeer",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "low",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Product Design",
+ "program_name_zh": "产品设计文凭",
+ "field_ar": "الفنون",
+ "field_zh": "艺术与设计"
 }

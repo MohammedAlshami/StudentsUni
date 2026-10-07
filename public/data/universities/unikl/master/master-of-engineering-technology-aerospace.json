@@ -1,34 +1,40 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "master",
-  "program_name": "Master of Engineering Technology (Aerospace)",
-  "program_slug": "master-of-engineering-technology-aerospace",
-  "field": "Engineering Technology",
-  "duration": "1.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 10000,
-    "per_year": null,
-    "notes": "Official international tuition: RM2,500/semester; RM10,000 (4 semesters) min, RM20,000 (8 semesters) max; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-engineering-technology-aerospace/ (accessed 2026-09-18)"
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/",
-    "https://www.unikl.edu.my/programme/master-of-engineering-technology-aerospace/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Engineering Technology (Aerospace)",
-  "program_name_zh": "航空航天工程技术硕士",
-  "field_ar": "الهندسة",
-  "field_zh": "工程技术"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "master",
+ "program_name": "Master of Engineering Technology (Aerospace)",
+ "program_slug": "master-of-engineering-technology-aerospace",
+ "field": "Engineering Technology",
+ "duration": "1.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 10000,
+  "per_year": null,
+  "notes": "Official international tuition: RM2,500/semester; RM10,000 (4 semesters) min, RM20,000 (8 semesters) max; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-engineering-technology-aerospace/ (accessed 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.unikl.edu.my/postgraduate-admission/",
+  "https://www.unikl.edu.my/programme/master-of-engineering-technology-aerospace/",
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-5818/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Engineering Technology (Aerospace)",
+ "program_name_zh": "航空航天工程技术硕士",
+ "field_ar": "الهندسة",
+ "field_zh": "工程技术",
+ "description": "يهدف برنامج تقنية الهندسة (الطيران) إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

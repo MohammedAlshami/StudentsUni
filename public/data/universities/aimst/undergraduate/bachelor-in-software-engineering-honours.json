@@ -5,7 +5,7 @@
   "program_name": "Bachelor in Software Engineering (Honours)",
   "slug": "bachelor-in-software-engineering-honours",
   "field": "Engineering",
-  "duration": "4 years",
+  "duration": "3.5 years",
   "mode": "Full-time",
   "intakes": [
     "Sep",
@@ -19,20 +19,19 @@
     "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "local": "AIMST Foundation/Matriculation CGPA 2.0 + Add Math credit at SPM. OR STPM Grade C x2 + credit in Add Math OR Math + Science/Tech/Engineering at SPM. OR STPM Science Stream. OR Diploma in Computing CGPA 2.50. OR Science & Tech Diploma CGPA 2.75. OR DKM/DVM Computing CGPA 2.50. OR DLKM Computing CGPA 2.50.",
+    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80"
   },
   "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": "MQA/PA17127",
+    "programme_code": "N/0612/6/0022"
   },
   "sources": [
     "https://www.aimst.edu.my/academic/bachelor-in-software-engineering-honours/",
     "https://aimst.edu.my/international-students/"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Software Engineering (Honours)",
   "program_name_zh": "软件工程学士（荣誉学位）",

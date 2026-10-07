@@ -5,12 +5,14 @@
   "program_name": "Doctor of Business Administration",
   "slug": "doctor-of-business-administration",
   "field": "business",
-  "duration": "3 years",
+  "duration": "Minimum 3 years (FT) / Minimum 4 years (PT)",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Apr",
+    "Jun",
+    "Aug",
+    "Oct"
   ],
   "fees": {
     "currency": "MYR",
@@ -24,7 +26,8 @@
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/FA2966",
+    "programme_code": "R2/0414/8/0119"
   },
   "sources": [
     {

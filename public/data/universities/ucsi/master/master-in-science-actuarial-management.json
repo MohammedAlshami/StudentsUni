@@ -1,36 +1,42 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "master",
-  "program_name": "Master in Science (Actuarial Management)",
-  "field": "Actuarial Management",
-  "duration": "Minimum 1 Year",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 61021,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-science-actuarial-management-mixed-mode-or-coursework), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6 or TOEFL iBT 60",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0057295/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/master-science-actuarial-management-mixed-mode-or-coursework"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Science (Actuarial Management)",
-  "program_name_zh": "Science (Actuarial Management)硕士",
-  "field_ar": "إدارة",
-  "field_zh": "精算管理"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "master",
+ "program_name": "Master in Science (Actuarial Management)",
+ "field": "Actuarial Management",
+ "duration": "Minimum 1 Year",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 61021,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-science-actuarial-management-mixed-mode-or-coursework), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6 or TOEFL iBT 60",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0057295/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/master-science-actuarial-management-mixed-mode-or-coursework",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D9%88%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%8A%D9%83%D9%84-c-4955/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Science (Actuarial Management)",
+ "program_name_zh": "Science (Actuarial Management)硕士",
+ "field_ar": "إدارة",
+ "field_zh": "精算管理",
+ "description": "يهدف برنامج العلوم في الإدارة الاكتوارية (الهيكل C) إلى تطوير الكفاءات المهنية والبحثية في مجالات العلوم الاكتوارية وإدارة المخاطر المالية. يركز البرنامج على التحليل الإحصائي، والتنبؤ المالي، والتأمين، وإدارة الاستثمارات، وإدارة المخاطر، والحوكمة المالية، مع استخدام أحدث الأدوات الكمية. كما ينمي مهارات التفكير التحليلي، واتخاذ القرار، وحل المشكلات المالية المعقدة. يؤهل البرنامج الخريجين للعمل في شركات التأمين، والمؤسسات الاستثمارية، والبنوك، والاستشارات المالية، والهيئات الرقابية، والمنظمات الدولية ذات الصلة."
 }

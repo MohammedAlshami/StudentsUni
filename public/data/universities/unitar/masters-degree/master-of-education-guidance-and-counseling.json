@@ -1,42 +1,47 @@
 {
-  "university": "UNITAR International University",
-  "university_slug": "unitar",
-  "level": "Masters Degree",
-  "program_name": "Master of Education (Guidance and Counseling)",
-  "field": "Education (Teacher Training & Education Sciences)",
-  "slug": "master-of-education-guidance-and-counseling",
-  "duration": "16 months",
-  "mode": "Full-time",
-  "intakes": [
-    "May",
-    "Sep",
-    "Jan"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No international fee published by UNITAR for this programme (checked 2026-09-18): it is not on the current official programme list (https://www.unitar.my/programmes/), and no foreign-student fee is listed by EasyUni or Uni Enrol. Previous estimate removed."
+ "university": "UNITAR International University",
+ "university_slug": "unitar",
+ "level": "Masters Degree",
+ "program_name": "Master of Education (Guidance and Counseling)",
+ "field": "Education (Teacher Training & Education Sciences)",
+ "slug": "master-of-education-guidance-and-counseling",
+ "duration": "16 months",
+ "mode": "Full-time",
+ "intakes": [
+  "May",
+  "Sep",
+  "Jan"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 3200.0,
+  "per_year": null,
+  "notes": "External estimate from abeer (https://abeereducation.com/universities/unitar-international-university)"
+ },
+ "requirements": null,
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/UNITAR/0054316/",
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": null,
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/UNITAR/0054316/",
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.unitar.my/programmes/",
-      "publisher": "unitar",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "low",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Education (Guidance and Counseling)",
-  "program_name_zh": "Education (Guidance and Counseling)硕士",
-  "field_ar": "التربية والتعليم",
-  "field_zh": "教育（师资培训与教育科学）"
+  {
+   "url": "https://www.unitar.my/programmes/",
+   "publisher": "unitar",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://abeereducation.com/universities/unitar-international-university",
+   "publisher": "abeer",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "low",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Education (Guidance and Counseling)",
+ "program_name_zh": "Education (Guidance and Counseling)硕士",
+ "field_ar": "التربية والتعليم",
+ "field_zh": "教育（师资培训与教育科学）"
 }

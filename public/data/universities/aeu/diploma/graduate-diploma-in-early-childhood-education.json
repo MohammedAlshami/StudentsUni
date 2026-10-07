@@ -5,12 +5,12 @@
   "program_name": "Graduate Diploma in Early Childhood Education",
   "slug": "graduate-diploma-in-early-childhood-education",
   "field": "education",
-  "duration": "3 years",
-  "mode": "Full-time",
+  "duration": "1 year",
+  "mode": ["Fully Online", "Blended Learning"],
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -19,9 +19,8 @@
     "notes": "AeU does not publish a public programme fee schedule (website and 2026 programme brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://aeu.edu.my/study/brochure/"
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "english_requirement": "IELTS 5.0 for international students",
+    "entry_requirements": "STPM Grade C in two subjects; OR STAM Jayyid; OR UEC Grade B in five subjects; OR Matriculation/Foundation CGPA 2.00; OR Diploma CGPA 2.00; OR Graduate Certificate in relevant field. 2 years work experience required"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
@@ -29,12 +28,12 @@
   },
   "sources": [
     {
-      "url": "https://aeu.edu.my/study/programme/",
+      "url": "https://aeu.edu.my/study/programme/graduate-diploma-in-early-childhood-education/",
       "publisher": "Official Website",
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "verified",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "Graduate Diploma in Early Childhood Education",
   "program_name_zh": "幼儿教育研究生文凭",

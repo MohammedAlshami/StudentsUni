@@ -1,36 +1,42 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "master",
-  "program_name": "Master of Music (Performance Studies)",
-  "field": "Music Performance Studies",
-  "duration": "16 months to 3 years",
-  "mode": "Full-time/Part-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 94534,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/mmus-performance-studies), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL iBT 60",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0010012/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/mmus-performance-studies"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Music (Performance Studies)",
-  "program_name_zh": "Music (Performance Studies)硕士",
-  "field_ar": "الموسيقى",
-  "field_zh": "音乐学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "master",
+ "program_name": "Master of Music (Performance Studies)",
+ "field": "Music Performance Studies",
+ "duration": "16 months to 3 years",
+ "mode": "Full-time/Part-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 94534,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/mmus-performance-studies), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL iBT 60",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0010012/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/mmus-performance-studies",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1-4831/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Music (Performance Studies)",
+ "program_name_zh": "Music (Performance Studies)硕士",
+ "field_ar": "الموسيقى",
+ "field_zh": "音乐学",
+ "description": "يهدف برنامج الموسيقى (دراسات الأداء) إلى تطوير المهارات الفنية والأكاديمية للموسيقيين الراغبين في الارتقاء بمستوى أدائهم الاحترافي. يركز البرنامج على تقنيات الأداء، والتفسير الموسيقي، وتحليل الأعمال الموسيقية، وإعداد العروض، والبحث في الأداء الموسيقي. كما يساعد الطلاب على تنمية قدراتهم الإبداعية والتواصل الفني والثقة على المسرح، مع الاستفادة من التوجيه الأكاديمي والتدريب العملي. يؤهل البرنامج الخريجين للعمل كمؤدين محترفين، ومدربين موسيقيين، وأعضاء في الفرق الموسيقية، وأكاديميين في المؤسسات التعليمية والفنية."
 }

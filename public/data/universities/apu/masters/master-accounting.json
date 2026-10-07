@@ -1,42 +1,48 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "masters",
-  "program_name": "Master of Accounting",
-  "program_slug": "master-accounting",
-  "field": "Accounting & Finance",
-  "duration": "1+ year",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 42000,
-    "per_year": null,
-    "notes": "APU official course page: total international tuition RM42,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-in-accounting (accessed 2026-09-18)."
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "masters",
+ "program_name": "Master of Accounting",
+ "program_slug": "master-accounting",
+ "field": "Accounting & Finance",
+ "duration": "1+ year",
+ "mode": "Full-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 42000,
+  "per_year": null,
+  "notes": "APU official course page: total international tuition RM42,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-in-accounting (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 5.5",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+  "general": "Bachelor’s degree Bachelor’s degree in related fields with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in related fields below a CGPA of 2.50 can be accepted, subject to a minimum of 5 years working experience in the relevant fields. Bachelor’s degree in non-related fields with a minimum CGPA of 2.50 as accepted by the Senate and with minimum of 5 years working experience in the relevant fields or any working experience in the Accounting related fields, subject to a rigorous internal assessment and passing pre-requisite courses. Relevant professional accounting qualifications equivalent to a bachelor’s degree as accepted by the Senate. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/msc-in-accounting",
+  "https://www.studymalaysia.com/what/course/APU/0055059/",
+  {
+   "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/master-of-accounting-272113/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS : 5.5",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-    "general": "Bachelor’s degree Bachelor’s degree in related fields with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in related fields below a CGPA of 2.50 can be accepted, subject to a minimum of 5 years working experience in the relevant fields. Bachelor’s degree in non-related fields with a minimum CGPA of 2.50 as accepted by the Senate and with minimum of 5 years working experience in the relevant fields or any working experience in the Accounting related fields, subject to a rigorous internal assessment and passing pre-requisite courses. Relevant professional accounting qualifications equivalent to a bachelor’s degree as accepted by the Senate. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/msc-in-accounting",
-    "https://www.studymalaysia.com/what/course/APU/0055059/",
-    {
-      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/master-of-accounting-272113/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Accounting",
-  "program_name_zh": "会计硕士",
-  "field_ar": "المحاسبة",
-  "field_zh": "会计与金融"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-5648/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.9,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Accounting",
+ "program_name_zh": "会计硕士",
+ "field_ar": "المحاسبة",
+ "field_zh": "会计与金融",
+ "description": "يهدف برنامج المحاسبة إلى تزويد الطالب بمعرفة أكاديمية ومهارات عملية متخصصة في المجال، مع ربط المفاهيم النظرية بالتطبيقات الحديثة وسوق العمل. يساعد البرنامج الطالب على تطوير التفكير التحليلي وحل المشكلات والعمل على المشاريع التطبيقية، ويؤهله للانطلاق المهني أو متابعة الدراسات العليا في تخصص قريب."
 }

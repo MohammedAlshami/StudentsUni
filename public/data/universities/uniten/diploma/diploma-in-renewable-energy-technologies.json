@@ -1,47 +1,53 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "diploma",
-  "program_name": "Diploma in Renewable Energy Technologies",
-  "program_slug": "diploma-in-renewable-energy-technologies",
-  "field": "Engineering",
-  "duration": "2.5 years (Full-time)",
-  "mode": "Full-time",
-  "intakes": [
-    "January",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 33120,
-    "per_year": 13248,
-    "notes": "International student tuition: RM33,120 total. Source: https://www.uniten.edu.my/programme/diploma/diploma-in-renewable-energy-technologies/ (UNITEN official programme page, accessed 2026-09-18). per_year = total / 2.5yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "diploma",
+ "program_name": "Diploma in Renewable Energy Technologies",
+ "program_slug": "diploma-in-renewable-energy-technologies",
+ "field": "Engineering",
+ "duration": "2.5 years (Full-time)",
+ "mode": "Full-time",
+ "intakes": [
+  "January",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 33120,
+  "per_year": 13248,
+  "notes": "International student tuition: RM33,120 total. Source: https://www.uniten.edu.my/programme/diploma/diploma-in-renewable-energy-technologies/ (UNITEN official programme page, accessed 2026-09-18). per_year = total / 2.5yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "Pass SPM or equivalent with minimum credits (Grade C) in at least 3 subjects; or SPMV or equivalent with minimum 3 credits; or Certificate Level 3 (SKM/DKM) or equivalent in the same field."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": null
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/diploma/diploma-in-renewable-energy-technologies/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "Pass SPM or equivalent with minimum credits (Grade C) in at least 3 subjects; or SPMV or equivalent with minimum 3 credits; or Certificate Level 3 (SKM/DKM) or equivalent in the same field."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": null
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/diploma/diploma-in-renewable-energy-technologies/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Renewable Energy Technologies",
-  "program_name_zh": "Renewable Energy Technologies文凭",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9-4413/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Renewable Energy Technologies",
+ "program_name_zh": "Renewable Energy Technologies文凭",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "يهدف دبلوم تقنيات الطاقة المتجددة إلى إعداد كوادر تقنية تمتلك المعرفة والمهارات اللازمة للعمل في قطاع الطاقة النظيفة والمستدامة، الذي يُعد من أسرع القطاعات نموًا على مستوى العالم. يركز البرنامج على دراسة تقنيات الطاقة الشمسية، وطاقة الرياح، والطاقة الكهرومائية، والطاقة الحيوية، وأنظمة تخزين الطاقة، وكفاءة الطاقة، إضافة إلى أساسيات الكهرباء والإلكترونيات، وأنظمة التحكم، والسلامة المهنية. كما يعمل البرنامج على تنمية مهارات تركيب وتشغيل وصيانة أنظمة الطاقة المتجددة، وتحليل الأداء، وتشخيص الأعطال، واستخدام الأدوات والمعدات الحديثة، مع الالتزام بالمعايير البيئية والفنية. ويجمع البرنامج بين الدراسة النظرية والتدريب العملي داخل المختبرات وورش العمل، إلى جانب التدريب الميداني الذي يمنح الطلبة خبرة مباشرة في تنفيذ المشاريع المرتبطة بالطاقة المتجددة. كما يواكب البرنامج التوجهات العالمية نحو الاستدامة والتحول إلى الاقتصاد الأخضر، مما يعزز فرص الخريجين في سوق العمل. ويؤهل البرنامج للعمل في شركات الطاقة المتجددة، ومؤسسات الكهرباء، وشركات المقاولات، والاستشارات الهندسية، ومشاريع الطاقة المستدامة، أو استكمال الدراسة في برامج البكالوريوس في الهندسة الكهربائية أو هندسة الطاقة أو التخصصات الهندسية ذات العلاقة."
 }

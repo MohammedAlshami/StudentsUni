@@ -22,9 +22,19 @@
   ],
   "sources": [
     "https://www.sunway.edu.my",
-    "https://www.studymalaysia.com/edu/sunway/courses/"
+    "https://www.studymalaysia.com/edu/sunway/courses/",
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D9%86%D9%88%D8%A7%D9%8A-None/60/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://abeereducation.com/universities/sunway-university",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 105000,
@@ -32,5 +42,15 @@
     "per_year_local": 35000,
     "per_year_international": null,
     "notes": "Programme-level international fees verified from Sunway University official course pages (quoted in USD, payable in RM equivalent at prevailing rate); see individual programme files. Last verified 2026-09-18."
-  }
+  },
+  "founded_year": 1987,
+  "local_rank": 3,
+  "description": "Sunway University is one of Malaysia’s leading private universities dedicated to providing quality holistic education for all regardless of race, creed or financial standing. By upholding our core values of Integrity, Humility and Excellence, we support the discovery, advancement, transmission and application of knowledge that meets the needs of our society and the global community. Our values-based education guides our actions and behaviour. We strive to ensure our campus community develops a sustainable mindset by embracing an ecological worldview, by understanding systems perspective and by developing emotional intelligence.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01JKJNAJ2YTW2E1HRDVBMBS9YF.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01JKJNEBYEG8KHBXHN9FAQCC7M.webp",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ]
 }

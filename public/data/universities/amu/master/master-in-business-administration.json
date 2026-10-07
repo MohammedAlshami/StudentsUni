@@ -5,12 +5,14 @@
   "program_name": "Master in Business Administration",
   "slug": "master-in-business-administration",
   "field": "business",
-  "duration": "1.5 years",
+  "duration": "1.5 years (FT) / 2 years (PT)",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Apr",
+    "Jun",
+    "Aug",
+    "Oct"
   ],
   "fees": {
     "currency": "MYR",
@@ -20,11 +22,12 @@
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "other_qualifications": "Bachelor CGPA 2.50 (related field) or 2.00 (with assessment)"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/FA2819",
+    "programme_code": "R2/340/7/0230"
   },
   "sources": [
     {

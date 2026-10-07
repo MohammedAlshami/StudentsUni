@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "diploma",
-  "program_name": "Diploma in Graphic Design",
-  "field": "Graphic Design",
-  "duration": "2 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 90483,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-graphic-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 4 or TOEFL iBT 30",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0007770/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/diploma-graphic-design"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Graphic Design",
-  "program_name_zh": "平面设计文凭",
-  "field_ar": "التصميم الجرافيكي",
-  "field_zh": "平面设计"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "diploma",
+ "program_name": "Diploma in Graphic Design",
+ "field": "Graphic Design",
+ "duration": "2 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 90483,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-graphic-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 4 or TOEFL iBT 30",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0007770/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/diploma-graphic-design",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83%D9%8A-4846/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Graphic Design",
+ "program_name_zh": "平面设计文凭",
+ "field_ar": "التصميم الجرافيكي",
+ "field_zh": "平面设计",
+ "description": "يهدف التصميم الجرافيكي إلى إعداد مصممين يمتلكون المهارات الإبداعية والتقنية لإنتاج حلول بصرية احترافية تلبي احتياجات مختلف القطاعات. يركز البرنامج على تصميم الهوية البصرية، والإعلانات، والمطبوعات، والوسائط الرقمية، والرسم الرقمي، واستخدام أحدث برامج التصميم. كما ينمي مهارات التفكير الإبداعي، والتواصل، والعمل الجماعي، وإدارة المشاريع. يوفر البرنامج تدريبًا عمليًا يساعد الطلاب على بناء ملف أعمال احترافي، ويؤهلهم للعمل في وكالات الإعلان، واستوديوهات التصميم، والشركات، ووسائل الإعلام، أو العمل الحر في مجال التصميم الجرافيكي."
 }

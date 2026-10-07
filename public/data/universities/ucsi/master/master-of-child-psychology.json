@@ -1,36 +1,42 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "master",
-  "program_name": "Master of Child Psychology",
-  "field": "Child Psychology",
-  "duration": "1.5 years",
-  "mode": "Full-time/Part-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 62670,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-child-psychology), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 97,364."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6 or TOEFL iBT 60",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0057298/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/master-child-psychology"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Child Psychology",
-  "program_name_zh": "儿童心理学硕士",
-  "field_ar": "علم النفس",
-  "field_zh": "儿童心理学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "master",
+ "program_name": "Master of Child Psychology",
+ "field": "Child Psychology",
+ "duration": "1.5 years",
+ "mode": "Full-time/Part-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 62670,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-child-psychology), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 97,364."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6 or TOEFL iBT 60",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0057298/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/master-child-psychology",
+  {
+   "url": "https://maigaedu.com/program/%D8%B9%D9%84%D9%85-%D9%86%D9%81%D8%B3-%D8%A7%D9%84%D8%B7%D9%81%D9%84-4785/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Child Psychology",
+ "program_name_zh": "儿童心理学硕士",
+ "field_ar": "علم النفس",
+ "field_zh": "儿童心理学",
+ "description": "يهدف برنامج علم نفس الطفل إلى تزويد الطلاب بفهم متعمق لنمو الطفل من الجوانب النفسية والمعرفية والاجتماعية والانفعالية. يركز البرنامج على دراسة مراحل النمو، والصحة النفسية للأطفال، وصعوبات التعلم، والتقييم النفسي، وأساليب التدخل والإرشاد. كما يساعد الطلاب على اكتساب مهارات البحث العلمي، وتحليل السلوك، وتصميم البرامج الداعمة لنمو الأطفال. يؤهل البرنامج الخريجين للعمل في المدارس، ومراكز الإرشاد النفسي، والمؤسسات الصحية، ومراكز رعاية الأطفال، والمنظمات المجتمعية، أو متابعة الدراسات العليا والبحث العلمي في مجال علم النفس."
 }

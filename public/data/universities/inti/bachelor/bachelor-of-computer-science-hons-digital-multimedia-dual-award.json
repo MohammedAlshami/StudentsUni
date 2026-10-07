@@ -1,46 +1,51 @@
 {
-  "university": "INTI International University",
-  "university_slug": "inti",
-  "level": "bachelor",
-  "program_name": "Bachelor of Computer Science (Hons) (Digital Multimedia) (Dual-Award Degree)",
-  "program_slug": "bachelor-of-computer-science-hons-digital-multimedia-dual-award",
-  "field": "Audio-visual Techniques & Media Production",
-  "duration": "3 Years",
-  "mode": "Full-time",
-  "study_type": "Full-time Study",
-  "intakes": [
-    "Aug",
-    "Jan",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "The BSc (Hons) Computer Science (Digital Multimedia) dual-award programme is no longer listed on newinti.edu.my (checked 2026-09-18). The closest current programmes are Bachelor of Arts (Hons) Digital Media (international approx RM79,640) and BSc (Hons) Computer Science majors with Coventry University; no fee for this exact award is published. Fee remains null."
+ "university": "INTI International University",
+ "university_slug": "inti",
+ "level": "bachelor",
+ "program_name": "Bachelor of Computer Science (Hons) (Digital Multimedia) (Dual-Award Degree)",
+ "program_slug": "bachelor-of-computer-science-hons-digital-multimedia-dual-award",
+ "field": "Audio-visual Techniques & Media Production",
+ "duration": "3 Years",
+ "mode": "Full-time",
+ "study_type": "Full-time Study",
+ "intakes": [
+  "Aug",
+  "Jan",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 75040.0,
+  "per_year": null,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-inti-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": "KPT/JPS(N/481/6/0261)02/2018",
+ "awarding_country": "Malaysia",
+ "awarding_body": "Dual-award Degree - conferred by INTI and University of Coventry, UK",
+ "faculty": "Computing & IT",
+ "sources": [
+  "https://studymalaysia.com/what/course/INTI/0009952/",
+  {
+   "url": "https://www.easyuni.my/malaysia/inti-college-sabah-90/bachelor-of-computer-science-honours-online-learning-293574/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": "KPT/JPS(N/481/6/0261)02/2018",
-  "awarding_country": "Malaysia",
-  "awarding_body": "Dual-award Degree - conferred by INTI and University of Coventry, UK",
-  "faculty": "Computing & IT",
-  "sources": [
-    "https://studymalaysia.com/what/course/INTI/0009952/",
-    {
-      "url": "https://www.easyuni.my/malaysia/inti-college-sabah-90/bachelor-of-computer-science-honours-online-learning-293574/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Computer Science (Hons) (Digital Multimedia) (Dual-Award Degree)",
-  "program_name_zh": "计算机科学学士（荣誉学位）（数字多媒体）（双联学位）",
-  "field_ar": "الإعلام",
-  "field_zh": "视听技术与媒体制作"
+  {
+   "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-inti-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Computer Science (Hons) (Digital Multimedia) (Dual-Award Degree)",
+ "program_name_zh": "计算机科学学士（荣誉学位）（数字多媒体）（双联学位）",
+ "field_ar": "الإعلام",
+ "field_zh": "视听技术与媒体制作"
 }

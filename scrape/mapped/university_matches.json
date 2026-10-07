@@ -1,0 +1,892 @@
+[
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/asia-pacific-university-apu",
+  "scraped_name": "Asia Pacific University of Technology & Innovation",
+  "scraped_name_ar": null,
+  "scraped_abbr": "APU",
+  "our_slug": "apu",
+  "score": 1.0,
+  "how": "override:asia pacific university"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/city-university-malaysia",
+  "scraped_name": "City University Malaysia",
+  "scraped_name_ar": null,
+  "scraped_abbr": "CityU",
+  "our_slug": "cityu",
+  "score": 1.0,
+  "how": "override:city university malaysia"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/infrastructure-university-of-kuala-lumpur-iukl",
+  "scraped_name": "جامعة IUKL",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "unikl",
+  "score": 0.9,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/lincoln-university-college",
+  "scraped_name": "Lincoln University College",
+  "scraped_name_ar": null,
+  "scraped_abbr": "LUC",
+  "our_slug": "luc",
+  "score": 1.0,
+  "how": "override:lincoln university college"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/mahsa-university",
+  "scraped_name": "MAHSA University",
+  "scraped_name_ar": null,
+  "scraped_abbr": "MAHSA",
+  "our_slug": "mahsa",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/management-science-university-msu",
+  "scraped_name": "Management and Science University",
+  "scraped_name_ar": null,
+  "scraped_abbr": "MSU",
+  "our_slug": "msu",
+  "score": 1.0,
+  "how": "override:management and science university"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/multimedia-university-mmu",
+  "scraped_name": "Multimedia University",
+  "scraped_name_ar": null,
+  "scraped_abbr": "MMU",
+  "our_slug": "mmu",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/segi-university",
+  "scraped_name": "SEGi University and Colleges",
+  "scraped_name_ar": null,
+  "scraped_abbr": "SEGi",
+  "our_slug": "segi",
+  "score": 1.0,
+  "how": "override:جامعة سيجي"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/taylors-university",
+  "scraped_name": "Taylor's University",
+  "scraped_name_ar": null,
+  "scraped_abbr": "Taylor's",
+  "our_slug": "taylors",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/ucsi-university",
+  "scraped_name": "UCSI University",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "ucsi",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/unitar-international-university",
+  "scraped_name": "UNITAR International University",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "unitar",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/universiti-tenaga-nasional-uniten",
+  "scraped_name": "Universiti Tenaga Nasional (UNITEN)",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "uniten",
+  "score": 1.0,
+  "how": "override:universiti tenaga nasional"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/cyberjaya-uoc",
+  "scraped_name": "University of Cyberjaya",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "uoc",
+  "score": 1.0,
+  "how": "override:university of cyberjaya"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/quest-international-university-qiu",
+  "scraped_name": "Quest International University (QIU)",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "qiu",
+  "score": 0.9,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/universiti-teknologi-petronas",
+  "scraped_name": "Universiti Teknologi PETRONAS",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "utp",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/universiti-teknologi-malaysia",
+  "scraped_name": "Universiti Teknologi Malaysia",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "utm",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/universiti-kuala-lumpur-unikl",
+  "scraped_name": "Universiti Kuala Lumpur UNIKL",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "unikl",
+  "score": 1.0,
+  "how": "override:university kuala lumpur"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/sunway-university",
+  "scraped_name": "SUNWAY UNIVERSITY",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "sunway",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/utauniversiti-tunku-abdul-rahman-utar",
+  "scraped_name": "جامعة UTAR في ماليزيا",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.54,
+  "how": "override:utar"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/inti-international-university",
+  "scraped_name": "INTI International University",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "inti",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/swinburne-sarawaks-campus",
+  "scraped_name": "Swinburne Sarawak’s campus",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "swinburne",
+  "score": 1.0,
+  "how": "override:swinburne"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/university-of-nottingham",
+  "scraped_name": "University of Nottingham",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "unmc",
+  "score": 1.0,
+  "how": "override:university of nottingham"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/university-malaya-um",
+  "scraped_name": "جامعة مالايا (UM)",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "um",
+  "score": 1.0,
+  "how": "override:universiti malaya"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/university-of-southampton-malaysia",
+  "scraped_name": "جامعة ساوثهامبتون ماليزيا",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "usmc",
+  "score": 1.0,
+  "how": "override:university of southampton malaysia"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/newcastle-university-malaysia",
+  "scraped_name": "جامعات نيوكاسل",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "numed",
+  "score": 1.0,
+  "how": "override:newcastle university malaysia"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/imu-university",
+  "scraped_name": "International Medical University (IMU)",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "imu",
+  "score": 1.0,
+  "how": "override:international medical university"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/kuala-lumpur-university-klust",
+  "scraped_name": "جامعة كوالالمبور في ماليزيا KLUST",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "klust",
+  "score": 1.0,
+  "how": "override:جامعة كوالالمبور في ماليزيا"
+ },
+ {
+  "source": "abeer",
+  "source_url": "https://abeereducation.com/universities/universiti-poly-tech-malaysia-uptm",
+  "scraped_name": "Universiti Poly-Tech Malaysia (UPTM)",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "uptm",
+  "score": 1.0,
+  "how": "override:universiti poly tech malaysia"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D9%8A%D8%AC%D9%8A/12/",
+  "scraped_name": "SEGi University",
+  "scraped_name_ar": "جامعة سيجي",
+  "scraped_abbr": null,
+  "our_slug": "segi",
+  "score": 1.0,
+  "how": "override:جامعة سيجي"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AA%D9%86%D8%A7%D8%AC%D8%A7-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9/13/",
+  "scraped_name": "Tenaga University",
+  "scraped_name_ar": "جامعة تناجا الوطنية",
+  "scraped_abbr": null,
+  "our_slug": "uniten",
+  "score": 1.0,
+  "how": "override:tenaga university"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7-%D8%A7%D9%84%D8%A2%D8%B3%D9%8A%D9%88%D9%8A/14/",
+  "scraped_name": "Asia Pacific University (APU)",
+  "scraped_name_ar": "جامعة المحيط الآسيوي",
+  "scraped_abbr": null,
+  "our_slug": "apu",
+  "score": 1.0,
+  "how": "override:asia pacific university"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%83%D9%88%D8%A7%D9%84%D8%A7%D9%84%D9%85%D8%A8%D9%88%D8%B1/17/",
+  "scraped_name": "University Kuala Lumpur",
+  "scraped_name_ar": "جامعة كوالالمبور",
+  "scraped_abbr": null,
+  "our_slug": "unikl",
+  "score": 1.0,
+  "how": "override:university kuala lumpur"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9/18/",
+  "scraped_name": "Infrastructure University",
+  "scraped_name_ar": "جامعة البنية التحتية",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.45,
+  "how": "override:infrastructure university"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%88-%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%B1%D8%A9/19/",
+  "scraped_name": "Management Science",
+  "scraped_name_ar": "جامعة العلوم و الأدارة",
+  "scraped_abbr": null,
+  "our_slug": "msu",
+  "score": 1.0,
+  "how": "override:management science"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AC%D9%8A%D9%85%D8%A7%D8%AA%D9%8A%D9%83%D8%A7/20/",
+  "scraped_name": "Geomatika College",
+  "scraped_name_ar": "جامعة جيماتيكا",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": "override:geomatika college"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%85%D9%87%D8%B3%D8%A7/23/",
+  "scraped_name": "MAHSA University",
+  "scraped_name_ar": "جامعة مهسا",
+  "scraped_abbr": null,
+  "our_slug": "mahsa",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A5%D9%86%D8%AA%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9/24/",
+  "scraped_name": "INTI International",
+  "scraped_name_ar": "جامعة إنتي الدولية",
+  "scraped_abbr": null,
+  "our_slug": "inti",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D9%8A%D8%AA%D9%8A/25/",
+  "scraped_name": "CITY University",
+  "scraped_name_ar": "جامعة سيتي",
+  "scraped_abbr": null,
+  "our_slug": "cityu",
+  "score": 1.0,
+  "how": "override:جامعة سيتي"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D8%A7%D9%8A%D8%A8%D8%B1%D8%AC%D8%A7%D9%8A%D8%A7/34/",
+  "scraped_name": "Cyberjaya University",
+  "scraped_name_ar": "جامعة سايبرجايا",
+  "scraped_abbr": null,
+  "our_slug": "uoc",
+  "score": 1.0,
+  "how": "override:cyberjaya university"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D9%8A%D8%AF%D8%A7%D9%8A%D8%A7-%D9%8A%D9%88-%D8%B3%D9%8A-%D8%A7%D8%B3-%D8%A7%D9%8A/35/",
+  "scraped_name": "UCSI University",
+  "scraped_name_ar": "جامعة يو سي اس اي (UCSI)",
+  "scraped_abbr": null,
+  "our_slug": "ucsi",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%85%D9%84%D8%AA%D9%8A%D9%85%D8%AF%D9%8A%D8%A7/38/",
+  "scraped_name": "Multimedia university (MMU)",
+  "scraped_name_ar": "جامعة ملتيمديا",
+  "scraped_abbr": null,
+  "our_slug": "mmu",
+  "score": 0.9,
+  "how": "fuzzy"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%84%D9%8A%D9%86%D9%83%D9%88%D9%86/42/",
+  "scraped_name": "Lincoln University",
+  "scraped_name_ar": "جامعة لينكولن",
+  "scraped_abbr": null,
+  "our_slug": "luc",
+  "score": 1.0,
+  "how": "override:جامعة لينكولن"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AA%D8%A7%D9%8A%D9%84%D9%88%D8%B1%D8%B2/46/",
+  "scraped_name": "Taylor's University",
+  "scraped_name_ar": "جامعة تايلورز",
+  "scraped_abbr": null,
+  "our_slug": "taylors",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%81%D8%A7/48/",
+  "scraped_name": "Alfa university",
+  "scraped_name_ar": "جامعة الفا",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": "override:alfa university"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D9%8A%D8%B3-%D9%83%D9%88%D9%84%D8%AC-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-None/59/",
+  "scraped_name": "YES International College",
+  "scraped_name_ar": "يس كولج الدولية",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.45,
+  "how": "override:yes international college"
+ },
+ {
+  "source": "maiga",
+  "source_url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D9%86%D9%88%D8%A7%D9%8A-None/60/",
+  "scraped_name": "Sunway university",
+  "scraped_name_ar": "جامعة سنواي",
+  "scraped_abbr": null,
+  "our_slug": "sunway",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "quickuni",
+  "source_url": "https://quickuni.com/",
+  "scraped_name": "SUNWAY UNIVERSITY",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "sunway",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "quickuni",
+  "source_url": "https://quickuni.com/",
+  "scraped_name": "ASIA PACIFIC UNIVERSITY",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "apu",
+  "score": 1.0,
+  "how": "override:asia pacific university"
+ },
+ {
+  "source": "quickuni",
+  "source_url": "https://quickuni.com/",
+  "scraped_name": "UNIVERSITY OF SOUTHAMPTON MALAYSIA",
+  "scraped_name_ar": null,
+  "scraped_abbr": null,
+  "our_slug": "usmc",
+  "score": 1.0,
+  "how": "override:university of southampton malaysia"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d8%a9-%d9%88%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة الأدارة والعلوم | MSU",
+  "scraped_name_ar": "جامعة الأدارة والعلوم | MSU",
+  "scraped_abbr": null,
+  "our_slug": "msu",
+  "score": 1.0,
+  "how": "override:جامعة الادارة والعلوم"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-ucsi-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة UCSI | UCSI",
+  "scraped_name_ar": "جامعة UCSI | UCSI",
+  "scraped_abbr": null,
+  "our_slug": "ucsi",
+  "score": 1.0,
+  "how": "override:جامعة UCSI"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%aa%d8%b3%d9%85%d8%a7%d9%86%d9%8a%d8%a7-university-of-tasmania/",
+  "scraped_name": "جامعة تسمانيا | Tasmania",
+  "scraped_name_ar": "جامعة تسمانيا | Tasmania",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": "override:جامعة تسمانيا"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%88%d9%84%d9%88%d9%86%d8%ba%d9%88%d9%86%d8%ba-%d9%85%d8%a8%d8%aa%d8%b9%d8%ab/",
+  "scraped_name": "جامعة ولونجونج | Wollongong",
+  "scraped_name_ar": "جامعة ولونجونج | Wollongong",
+  "scraped_abbr": null,
+  "our_slug": "uowm",
+  "score": 1.0,
+  "how": "override:جامعة ولونجونج"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-rmit-%d9%81%d9%8a-%d8%a3%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7/",
+  "scraped_name": "جامعةRMIT University | RMIT",
+  "scraped_name_ar": "جامعةRMIT University | RMIT",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": null
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d8%af%d9%8a%d9%84%d8%a7%d9%8a%d8%af-%d9%81%d9%8a-%d8%a3%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-university-of-adelaide/",
+  "scraped_name": "جامعة اديلايد |  Adelaide",
+  "scraped_name_ar": "جامعة اديلايد |  Adelaide",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": "override:جامعة اديلايد"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%84%d8%a7-%d8%aa%d8%b1%d9%88%d8%a8-%d9%81%d9%8a-%d8%a3%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-la-trobe-university/",
+  "scraped_name": "جامعة لا تروب | La Trobe",
+  "scraped_name_ar": "جامعة لا تروب | La Trobe",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": "override:جامعة لا تروب"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d9%87-%d8%ac%d8%b1%d9%8a%d9%81%d9%8a%d8%ab-%d9%81%d9%8a-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7/",
+  "scraped_name": "جامعة جريفيث | Griffith",
+  "scraped_name_ar": "جامعة جريفيث | Griffith",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": "override:جامعة جريفيث"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a5%d8%af%d9%8a%d8%ab-%d9%83%d9%88%d8%a7%d9%86-%d9%81%d9%8a-%d8%a3%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-edith-cowan-university/",
+  "scraped_name": "جامعة إديث كوان | Edith Cowan",
+  "scraped_name_ar": "جامعة إديث كوان | Edith Cowan",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": "override:جامعة اديث كوان"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%af%d9%8a%d9%83%d9%8a%d9%86-%d9%81%d9%8a-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-deakin-university/",
+  "scraped_name": "جامعة ديكين | Deakin",
+  "scraped_name_ar": "جامعة ديكين | Deakin",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": "override:جامعة ديكين"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%85%d9%88%d9%86%d8%a7%d8%b4-%d9%81%d9%8a-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-monash-university/",
+  "scraped_name": "جامعة موناش | Monash",
+  "scraped_name_ar": "جامعة موناش | Monash",
+  "scraped_abbr": null,
+  "our_slug": "monash",
+  "score": 1.0,
+  "how": "override:جامعة موناش"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%b3%d9%8a%d8%af%d9%86%d9%8a-%d9%81%d9%8a-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-university-of-sydney/",
+  "scraped_name": "جامعة سيدني | Sydney",
+  "scraped_name_ar": "جامعة سيدني | Sydney",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": "override:جامعة سيدني"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-iukl-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة البنية التحتية | IUKL",
+  "scraped_name_ar": "جامعة البنية التحتية | IUKL",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.3,
+  "how": "override:جامعة البنية التحتية"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d9%84%d8%a8-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-help/",
+  "scraped_name": "جامعة هيلب | HELP",
+  "scraped_name_ar": "جامعة هيلب | HELP",
+  "scraped_abbr": null,
+  "our_slug": "help",
+  "score": 0.9,
+  "how": "fuzzy"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%84%d9%8a%d9%85%d9%83%d9%88%d9%83%d9%88%d9%8a%d9%86%d8%ac-limkokwing-university/",
+  "scraped_name": "جامعة ليمكوكوينج | Limkokwing",
+  "scraped_name_ar": "جامعة ليمكوكوينج | Limkokwing",
+  "scraped_abbr": null,
+  "our_slug": "luct",
+  "score": 1.0,
+  "how": "override:جامعة ليمكوكوينج"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d9%87-%d9%83%d9%88%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a8%d9%88%d8%b1-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-unikl/",
+  "scraped_name": "جامعة كوالالمبور | UniKl",
+  "scraped_name_ar": "جامعة كوالالمبور | UniKl",
+  "scraped_abbr": null,
+  "our_slug": "unikl",
+  "score": 1.0,
+  "how": "override:جامعة كوالالمبور"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%85%d9%88%d9%86%d8%a7%d8%b4-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a9-%d9%81%d8%b1%d8%b9-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة موناش | Monash",
+  "scraped_name_ar": "جامعة موناش | Monash",
+  "scraped_abbr": null,
+  "our_slug": "monash",
+  "score": 1.0,
+  "how": "override:جامعة موناش"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%b3%d8%a7%d9%8a%d8%a8%d8%b1%d8%ac%d8%a7%d9%8a%d8%a7-%d9%84%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9/",
+  "scraped_name": "جامعة سايبرجايا | Cyberjaya",
+  "scraped_name_ar": "جامعة سايبرجايا | Cyberjaya",
+  "scraped_abbr": null,
+  "our_slug": "uoc",
+  "score": 1.0,
+  "how": "override:جامعة سايبرجايا"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%b1%d8%b3%d9%88%d9%85-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%b3%d9%8a%d8%ac%d9%8a-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة سيجي | SEGi",
+  "scraped_name_ar": "جامعة سيجي | SEGi",
+  "scraped_abbr": null,
+  "our_slug": "segi",
+  "score": 1.0,
+  "how": "override:جامعة سيجي"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%85%d9%84%d8%aa%d9%85%d9%8a%d8%af%d9%8a%d8%a7-mmu-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة ملتميديا | MMU",
+  "scraped_name_ar": "جامعة ملتميديا | MMU",
+  "scraped_abbr": null,
+  "our_slug": "mmu",
+  "score": 0.9,
+  "how": "fuzzy"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%aa%d8%a7%d9%8a%d9%84%d9%88%d8%b1-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة تايلور | Taylor&#8217;s",
+  "scraped_name_ar": "جامعة تايلور | Taylor&#8217;s",
+  "scraped_abbr": null,
+  "our_slug": "taylors",
+  "score": 0.9,
+  "how": "fuzzy"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%85%d8%a7%d9%87%d8%b3%d8%a7-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعةماهسا | MAHSA",
+  "scraped_name_ar": "جامعةماهسا | MAHSA",
+  "scraped_abbr": null,
+  "our_slug": "mahsa",
+  "score": 1.0,
+  "how": "override:جامعةماهسا"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-apu-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة APU | APU",
+  "scraped_name_ar": "جامعة APU | APU",
+  "scraped_abbr": null,
+  "our_slug": "apu",
+  "score": 1.0,
+  "how": "override:جامعة APU"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a9/",
+  "scraped_name": "جامعة التكنلوجيا | UTM",
+  "scraped_name_ar": "جامعة التكنلوجيا | UTM",
+  "scraped_abbr": null,
+  "our_slug": "utm",
+  "score": 1.0,
+  "how": "override:جامعة التكنلوجيا"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%8a%d9%88%d9%86%d9%8a-%d9%85%d8%a7%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة يوني ماي | UNIMY",
+  "scraped_name_ar": "جامعة يوني ماي | UNIMY",
+  "scraped_abbr": null,
+  "our_slug": "unimy",
+  "score": 1.0,
+  "how": "override:جامعة يوني ماي"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة سيتي | CITY",
+  "scraped_name_ar": "جامعة سيتي | CITY",
+  "scraped_abbr": null,
+  "our_slug": "cityu",
+  "score": 1.0,
+  "how": "override:جامعة سيتي"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%b5%d9%86%d9%88%d8%a7%d9%8a-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة صنواي | Sunway",
+  "scraped_name_ar": "جامعة صنواي | Sunway",
+  "scraped_abbr": null,
+  "our_slug": "sunway",
+  "score": 0.9,
+  "how": "fuzzy"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%84%d9%8a%d9%86%d9%83%d9%88%d9%84%d9%86-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-lincoln-university/",
+  "scraped_name": "جامعة لينكولن | Lincoln",
+  "scraped_name_ar": "جامعة لينكولن | Lincoln",
+  "scraped_abbr": null,
+  "our_slug": "luc",
+  "score": 1.0,
+  "how": "override:جامعة لينكولن"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a8%d8%aa%d8%b1%d9%88%d9%86%d8%a7%d8%b3-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-utp/",
+  "scraped_name": "جامعة بتروناس | UTP",
+  "scraped_name_ar": "جامعة بتروناس | UTP",
+  "scraped_abbr": null,
+  "our_slug": "utp",
+  "score": 1.0,
+  "how": "override:جامعة بتروناس"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة المدينة العالمية | MEDIU",
+  "scraped_name_ar": "جامعة المدينة العالمية | MEDIU",
+  "scraped_abbr": null,
+  "our_slug": "mediu",
+  "score": 1.0,
+  "how": "override:جامعة المدينة العالمية"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-inti-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة INTI  | INTI",
+  "scraped_name_ar": "جامعة INTI  | INTI",
+  "scraped_abbr": null,
+  "our_slug": "inti",
+  "score": 1.0,
+  "how": "fuzzy"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%85%d8%a7%d9%84%d8%a7%d9%8a%d8%a7-%d9%88%d9%8a%d9%84%d8%b2-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-iumw-university/",
+  "scraped_name": "جامعة مالايا ويلز | IUMW",
+  "scraped_name_ar": "جامعة مالايا ويلز | IUMW",
+  "scraped_abbr": null,
+  "our_slug": "um-wales",
+  "score": 1.0,
+  "how": "override:جامعة مالايا ويلز"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d8%b1%d9%8a%d9%88%d8%aa-%d9%88%d8%a7%d8%aa-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-heriot-watt-malaysia/",
+  "scraped_name": "جامعة هيريوت وات | Heriot-Watt",
+  "scraped_name_ar": "جامعة هيريوت وات | Heriot-Watt",
+  "scraped_abbr": null,
+  "our_slug": "hwum",
+  "score": 1.0,
+  "how": "override:جامعة هيريوت وات"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a9-%d9%85%d8%a8%d8%aa%d8%b9%d8%ab/",
+  "scraped_name": "الجامعة الوطنية | UKM",
+  "scraped_name_ar": "الجامعة الوطنية | UKM",
+  "scraped_abbr": null,
+  "our_slug": "ukm",
+  "score": 1.0,
+  "how": "override:الجامعة الوطنية"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-usm-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة العلوم | USM",
+  "scraped_name_ar": "جامعة العلوم | USM",
+  "scraped_abbr": null,
+  "our_slug": "usm",
+  "score": 1.0,
+  "how": "override:جامعة العلوم"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a8%d9%88%d8%aa%d8%b1%d8%a7-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a9-university-putra-malaysia-upm/",
+  "scraped_name": "جامعة بوترا | UPM",
+  "scraped_name_ar": "جامعة بوترا | UPM",
+  "scraped_abbr": null,
+  "our_slug": "upm",
+  "score": 1.0,
+  "how": "override:جامعة بوترا"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%aa%d8%b1%d8%aa%d9%8a%d8%a8-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%85%d8%a7%d9%84%d8%a7%d9%8a%d8%a7-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a7/",
+  "scraped_name": "جامعة ملايا | UM",
+  "scraped_name_ar": "جامعة ملايا | UM",
+  "scraped_abbr": null,
+  "our_slug": "um",
+  "score": 1.0,
+  "how": "override:جامعة ملايا"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-utar-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+  "scraped_name": "جامعة أوتار | UTAR",
+  "scraped_name_ar": "جامعة أوتار | UTAR",
+  "scraped_abbr": null,
+  "our_slug": null,
+  "score": 0.0,
+  "how": "override:جامعة أوتار"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d8%a9-imu/",
+  "scraped_name": "الجامعة الطبية | IMU",
+  "scraped_name_ar": "الجامعة الطبية | IMU",
+  "scraped_abbr": null,
+  "our_slug": "imu",
+  "score": 1.0,
+  "how": "override:الجامعة الطبية"
+ },
+ {
+  "source": "khutwatuk",
+  "source_url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%aa%d9%86%d8%a7%d8%ac%d8%a7-university-uniten/",
+  "scraped_name": "جامعة تناجا | UNITEN",
+  "scraped_name_ar": "جامعة تناجا | UNITEN",
+  "scraped_abbr": null,
+  "our_slug": "uniten",
+  "score": 1.0,
+  "how": "override:جامعة تناجا"
+ }
+]

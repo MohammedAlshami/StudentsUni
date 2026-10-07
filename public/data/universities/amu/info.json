@@ -6,7 +6,7 @@
   "abbr": "AMU",
   "type": "private-university",
   "state": "Selangor",
-  "city": null,
+  "city": "Subang Jaya",
   "website": "https://www.amu.edu.my",
   "levels_available": [
     "foundation",
@@ -46,6 +46,6 @@
     "international_total": null,
     "per_year_local": 22000,
     "per_year_international": null,
-    "notes": "International programme fees verified from AMU official 2025 international fee structure (excludes 6% SST); see individual programme files. Last verified 2026-09-18."
+    "notes": "International programme fees verified from AMU official 2025 international fee structure (excludes 6% SST); see individual programme files. All international fees verified from official source. Last verified 2026-09-18."
   }
 }

@@ -35,9 +35,24 @@
     "https://www.studymalaysia.com/edu/ucsi/courses/",
     "https://www.ucsiuniversity.edu.my/programmes/",
     "https://www.ucsiuniversity.edu.my/undergraduate",
-    "https://www.ucsiuniversity.edu.my/postgraduate"
+    "https://www.ucsiuniversity.edu.my/postgraduate",
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D9%8A%D8%AF%D8%A7%D9%8A%D8%A7-%D9%8A%D9%88-%D8%B3%D9%8A-%D8%A7%D8%B3-%D8%A7%D9%8A/35/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-ucsi-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+      "publisher": "Khutwatuk",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://abeereducation.com/universities/ucsi-university",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": null,
@@ -45,5 +60,15 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "International totals vary by programme and level. Verified from UCSI official programme pages (ucsiuniversity.edu.my/programmes) on 2026-09-18: e.g. Foundation RM39,476-54,411; Diploma RM67,057-101,093; Bachelor RM96,906-532,524; Master RM50,067-94,534; PhD RM71,479-89,806. See individual programme files."
-  }
+  },
+  "founded_year": 1986,
+  "local_rank": 26,
+  "accreditation": "معتمد MQA؛ معتمد MOHE",
+  "description": "جامعة UCSI هي جامعة خاصة في ماليزيا . إنها أفضل 284 جامعة في العالم بأسره. يصنف استطلاع توظيف الخريجين 2021 الذي أجرته وزارة التعليم العالي الماليزية حاليًا جميع برامج جامعة UCSI على أنها قابلة للتوظيف بنسبة 100٪ ، مما يجعل خريجيها قابلين للتسويق بدرجة كبيرة تقدم جامعة UCSI اليوم أكثر من 150 برنامجًا في الهندسة، والأعمال التجارية، والحوسبة، والطب، والصيدلة، والضيافة، والعلوم التطبيقية، والعلوم الاكتوارية، والعلوم الاجتماعية، والهندسة المعمارية، والموسيقى، والفنون والتصميم، في مستويات البكالوريوس، والماجستير، والدكتوراه. توفر الأنشطة والترفيه الطلابي وتعزز الخبرات التعليمية للطلاب في UCSI مع فرص متنوعة للخبرة العملية من خلال الأنشطة الملحقة بالمناهج الدراسية. التزامًا بالسعي وراء المعرفة، يتم اختيار طلاب UCSI سنويًا من قبل أفضل الجامعات في العالم مثل جامعة هارفارد، وكلية إمبريال كوليدج لندن",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J30H54NA6VRE7TFPF3JWJEGM.png",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J76BMF47822Y4M6MFYNP1SD3.webp",
+  "intakes": [
+    "February and September"
+  ],
+  "city": "سيلانغور"
 }

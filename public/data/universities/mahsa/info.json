@@ -19,9 +19,19 @@
     "doctorate": 4
   },
   "sources": [
-    "https://www.mahsa.edu.my"
+    "https://www.mahsa.edu.my",
+    {
+      "url": "https://abeereducation.com/universities/mahsa-university",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%85%D9%87%D8%B3%D8%A7/23/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 66000,
@@ -29,5 +39,24 @@
     "per_year_local": 22000,
     "per_year_international": null,
     "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+  },
+  "founded_year": 2004,
+  "qs_rank": 577,
+  "local_rank": 51,
+  "student_count": 5000,
+  "languages_of_instruction": "الإنجليزية",
+  "accreditation": "MQA، MMC، Malaysian Dental Council، Pharmacy Board",
+  "recognition": {
+    "مصر": "MAHSA معتمدة في مصر وفق ممثلها الرسمي TRACK Education، والمجلس الأعلى للجامعات يعادل شهاداتها. الإجراءات تتطلب تقديم الشهادة وكشف الدرجات مع ترجمة معتمدة. تحذير مهم: تخصصات الطب وطب الأسنان والصيدلة تحتاج مراجعة وزارة الصحة المصرية بالإضافة للمجلس الأعلى للجامعات. تواصل معنا لنعلمك وضع تخصصك قبل التسجيل.",
+    "السودان": "هيئة الاعتراف والمعادلة السودانية تعترف بالجامعات الماليزية المعتمدة من MQA. جامعة ماهسا مدرجة ضمن هذه الجامعات. التخصصات الطبية تحتاج موافقة مسبقة من الجهة الصحية المختصة في السودان قبل التسجيل."
+  },
+  "description": "إذا كان هدفك دراسة الطب أو طب الأسنان أو الصيدلة في ماليزيا، فجامعة ماهسا من أوضح الخيارات في السوق. ليست جامعة عامة تقدم عشرات التخصصات، بل جامعة طبية متخصصة تأسست لهذا الهدف تحديداً منذ 2004، وتملك مستشفى خاص على حرمها وشراكة بريطانية في العلوم الصحية مع Northumbria University.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J30GZEW29458BEDX9HTM8GKV.png",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J30GZEW4ZJRMPY9N6SSPZNDR.webp",
+  "faculties": [
+    "المنح الدراسية المتاحة في جامعة ماهسا"
+  ],
+  "intakes": [
+    "Sep"
+  ]
 }

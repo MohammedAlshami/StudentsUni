@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Pharmacy (Hons)",
-  "field": "Pharmacy",
-  "duration": "4 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Feb",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 232726,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-pharmacy-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005876/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-pharmacy-honours"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Pharmacy (Hons)",
-  "program_name_zh": "Pharmacy (Hons)学士",
-  "field_ar": "الصيدلة",
-  "field_zh": "药剂学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Pharmacy (Hons)",
+ "field": "Pharmacy",
+ "duration": "4 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Feb",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 232726,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-pharmacy-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005876/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-pharmacy-honours",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9-4802/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Pharmacy (Hons)",
+ "program_name_zh": "Pharmacy (Hons)学士",
+ "field_ar": "الصيدلة",
+ "field_zh": "药剂学",
+ "description": "يهدف برنامج الصيدلة إلى إعداد صيادلة مؤهلين يمتلكون المعرفة العلمية والمهارات المهنية اللازمة لتقديم الرعاية الصيدلانية الآمنة والفعالة. يجمع البرنامج بين العلوم الصيدلانية الأساسية والتدريب العملي في مجالات تصنيع الأدوية، والصيدلة السريرية، وعلم الأدوية، والكيمياء الصيدلانية، مع التركيز على أخلاقيات المهنة والتواصل مع المرضى. كما يوفر البرنامج تدريباً سريرياً ومخبرياً متكاملاً يؤهل الخريجين للعمل في المستشفيات، والصيدليات، وشركات الأدوية، والهيئات الصحية، أو لمواصلة الدراسات العليا."
 }

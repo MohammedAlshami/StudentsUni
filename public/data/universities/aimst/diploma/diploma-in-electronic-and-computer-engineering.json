@@ -19,20 +19,20 @@
     "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "local": "SPM credits in Math + natural science/technical subjects. OR Accredited Certificate Level with PT3. OR Recognized Technical/Vocational Skills + bridging programme. OR Matriculation Technical/Science Stream. OR APEL A.",
+    "english_requirement": "IELTS 5.0 or TOEFL 60"
   },
   "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": "MQA/PA18038",
+    "programme_code": "N/0713/4/0044"
   },
   "sources": [
     "https://www.aimst.edu.my/academic/diploma-in-electronic-computer-engineering/",
     "https://www.studymalaysia.com/what/course/AIMST/0005374/",
     "https://aimst.edu.my/international-students/"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Electronic and Computer Engineering",
   "program_name_zh": "电子与计算机工程文凭",

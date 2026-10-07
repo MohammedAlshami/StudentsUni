@@ -1,64 +1,69 @@
 {
-  "university": "HELP University",
-  "university_slug": "help",
-  "level": "bachelor",
-  "program_name": "Bachelor of Business (Human Resource Management) (Honours)",
-  "program_slug": "bachelor-of-business-human-resource-management-honours",
-  "field": "Business Management & Administration",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "Feb",
-    "May",
-    "Aug",
-    "Oct"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "HELP University does not publish an international student fee for this programme: the official programme page lists only the Malaysian-student indicative total fee (RM 82,800), and the 2026 HELP University Programme Fees Summary (v4, July 2026) is explicitly Malaysian-only. Sources checked on 2026-09-18: https://university.help.edu.my/programme/bachelor-of-business-human-resource-management/; https://university.help.edu.my/admissions-study-awards/fee-schedule/ (page empty); https://university.help.edu.my/admissions-study-awards/international-student-admissions/; https://university.help.edu.my/brochures/ (2026 fees summary PDF). No international fee published."
+ "university": "HELP University",
+ "university_slug": "help",
+ "level": "bachelor",
+ "program_name": "Bachelor of Business (Human Resource Management) (Honours)",
+ "program_slug": "bachelor-of-business-human-resource-management-honours",
+ "field": "Business Management & Administration",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "Feb",
+  "May",
+  "Aug",
+  "Oct"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 66400.0,
+  "per_year": null,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d9%84%d8%a8-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-help/)"
+ },
+ "sources": [
+  "https://studymalaysia.com/what/course/HELP/0005682/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "sources": [
-    "https://studymalaysia.com/what/course/HELP/0005682/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-of-business-human-resource-management-27879/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://university.help.edu.my/brochures/",
-      "publisher": "help",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://university.help.edu.my/programme/bachelor-of-business-human-resource-management/",
-      "publisher": "HELP University",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification",
-    "general": "Entry Requirements Matriculation/Foundation or its equivalent: Minimum CGPA of 2.00 out of 4.00** Diploma (Level 4, MQF): Minimum CGPA 2.00 out of 4.00 STPM: Minimum Grade C (GP 2.0) in any TWO subjects Advanced Diploma (Level 5, MQF): Minimum CGPA of 2.00 out of 4.00 Sijil Tinggi Agama Malaysia (STAM): Minimum grade of Jayyid (good) Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM): Subjected to Senate / Academic Board’s approval Diploma Lanjutan Kemahiran Malaysia (DLKM): Subjected to Senate / Academic Board’s approval A-Level: 2 passes Senior Middle 3 (UEC): 5 B’s*** CPU: 5 passes with a minimum average of 50% Australian Matriculation Programmes: University Aggregate of 50% or ATAR score of at least 50 for various programmes Equivalent qualification Notes The stated qualifications need to be supported with a pass in Mathematics, English, Sejarah, and Bahasa Melayu at SPM level. **Please refer to the Faculty of Business, Economics, and Accounting on the Mathematics and English requirement. English Requirement (International Students) Minimum IELTS 5.5 or equivalent International English Language qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "program_name_ar": "بكالوريوس Business (Human Resource Management) (Honours)",
-  "program_name_zh": "商业学士（人力资源管理）（荣誉学位）",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业管理与行政"
+  {
+   "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-of-business-human-resource-management-27879/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://university.help.edu.my/brochures/",
+   "publisher": "help",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://university.help.edu.my/programme/bachelor-of-business-human-resource-management/",
+   "publisher": "HELP University",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d9%84%d8%a8-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-help/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification",
+  "general": "Entry Requirements Matriculation/Foundation or its equivalent: Minimum CGPA of 2.00 out of 4.00** Diploma (Level 4, MQF): Minimum CGPA 2.00 out of 4.00 STPM: Minimum Grade C (GP 2.0) in any TWO subjects Advanced Diploma (Level 5, MQF): Minimum CGPA of 2.00 out of 4.00 Sijil Tinggi Agama Malaysia (STAM): Minimum grade of Jayyid (good) Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM): Subjected to Senate / Academic Board’s approval Diploma Lanjutan Kemahiran Malaysia (DLKM): Subjected to Senate / Academic Board’s approval A-Level: 2 passes Senior Middle 3 (UEC): 5 B’s*** CPU: 5 passes with a minimum average of 50% Australian Matriculation Programmes: University Aggregate of 50% or ATAR score of at least 50 for various programmes Equivalent qualification Notes The stated qualifications need to be supported with a pass in Mathematics, English, Sejarah, and Bahasa Melayu at SPM level. **Please refer to the Faculty of Business, Economics, and Accounting on the Mathematics and English requirement. English Requirement (International Students) Minimum IELTS 5.5 or equivalent International English Language qualification"
+ },
+ "program_name_ar": "بكالوريوس Business (Human Resource Management) (Honours)",
+ "program_name_zh": "商业学士（人力资源管理）（荣誉学位）",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业管理与行政"
 }

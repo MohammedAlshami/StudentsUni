@@ -5,12 +5,12 @@
   "program_name": "Diploma in Information Technology",
   "slug": "diploma-in-information-technology",
   "field": "ict",
-  "duration": "3 years",
+  "duration": "2.5 years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Jun",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -25,7 +25,8 @@
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/FA10561",
+    "programme_code": "R/0611/4/0181"
   },
   "sources": [
     {

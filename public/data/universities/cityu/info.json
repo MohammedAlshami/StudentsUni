@@ -42,15 +42,44 @@
   "established": 1984,
   "sources": [
     "https://www.city.edu.my",
-    "https://city.edu.my/admission-scholarships/international-students/"
+    "https://city.edu.my/admission-scholarships/international-students/",
+    {
+      "url": "https://abeereducation.com/universities/city-university-malaysia",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D9%8A%D8%AA%D9%8A/25/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
-    "local_total": 66000,
+    "local_total": null,
     "international_total": null,
     "per_year_local": 22000,
     "per_year_international": null,
-    "notes": "No public international fee schedule is published by City University Malaysia; the latest fee structure is issued by the International Marketing Office (imo@city.edu.my) on request. International totals are left null. Sources checked: https://city.edu.my/admission-scholarships/international-students/ and the official programme listings https://city.edu.my/programmes/foundation/, https://city.edu.my/programmes/diploma/, https://city.edu.my/programmes/bachelor/, https://city.edu.my/programmes/masters-phd/ (all accessed 2026-09-18)."
-  }
+    "notes": "City University does not publish fees publicly. Contact International Marketing Office (imo@city.edu.my) for fee structure."
+  },
+  "founded_year": 1984,
+  "qs_rank": 106,
+  "local_rank": 80,
+  "student_count": 7800,
+  "alumni_count": 38000,
+  "languages_of_instruction": "الإنجليزية",
+  "accreditation": "MQA ماليزيا، وزارة التعليم العالي MOHE",
+  "recognition": {
+    "مصر": "المجلس الأعلى للجامعات المصري يعادل شهادات الجامعات الأجنبية المعتمدة. City معتمدة من MQA وهذا يدعم إمكانية المعادلة. الإجراءات تتطلب تقديم الشهادة وكشف الدرجات مع ترجمة معتمدة ودفع رسوم المعادلة. تحذير مهم: المعادلة قد تختلف حسب التخصص. تواصل مع المجلس الأعلى للجامعات على موقع scu.eun.eg للتأكد من وضع تخصصك تحديداً قبل التسجيل.",
+    "السودان": "هيئة الاعتراف والمعادلة السودانية تعترف بالجامعات الماليزية المعتمدة من MQA. City مدرجة ضمن هذه الجامعات. يُنصح بالتواصل مع الهيئة للتأكد من وضع التخصص المطلوب قبل اتخاذ القرار. تحذير مهم: City جامعة خاصة، بعض التخصصات قد تحتاج إجراءات تحقق إضافية مقارنة بالجامعات الحكومية. راجع الهيئة المختصة في بلدك بناءً على تخصصك تحديداً."
+  },
+  "description": "جامعة City Malaysia جامعة خاصة بحثية تأسست عام 1984 في Petaling Jaya بالقرب من كوالالمبور، وتعمل منذ أكثر من 40 عاماً في تقديم تعليم عملي وأكاديمي في نفس الوقت. تضم 7,800 طالب من 60 جنسية، وتمتلك شراكات دولية موثقة مع جامعات في بريطانيا وفرنسا وأمريكا.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J30GVKHAPYDZ1KSBDFZN4537.png",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J30GVKHCMQE6PERAM9F2XNZB.webp",
+  "intakes": [
+    "January",
+    "May",
+    "September"
+  ]
 }

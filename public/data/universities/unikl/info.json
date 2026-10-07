@@ -25,9 +25,24 @@
   "sources": [
     "https://www.unikl.edu.my",
     "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
-    "https://www.studymalaysia.com/edu/unikl/courses/"
+    "https://www.studymalaysia.com/edu/unikl/courses/",
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%83%D9%88%D8%A7%D9%84%D8%A7%D9%84%D9%85%D8%A8%D9%88%D8%B1/17/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://abeereducation.com/universities/infrastructure-university-of-kuala-lumpur-iukl",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d9%87-%d9%83%d9%88%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a8%d9%88%d8%b1-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-unikl/",
+      "publisher": "Khutwatuk",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 66000,
@@ -35,5 +50,16 @@
     "per_year_local": 22000,
     "per_year_international": null,
     "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+  },
+  "founded_year": 2000,
+  "local_rank": 19,
+  "description": "UniKL at a glance is the leading entrepreneurial technical university in Malaysia based in the heart of Malaysia’s capital and commerce area. The university aims to provide our graduates with the knowledge, skills and attitude required to contribute towards society in an effort to play major roles in a globalised and knowledge-based economy.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J30GXMR2K2VMQVV5C4DMADCK.png",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J30GXMR5A8BP75F797VT6YBH.webp",
+  "intakes": [
+    "March",
+    "June",
+    "October"
+  ],
+  "city": "كوالالمبور"
 }

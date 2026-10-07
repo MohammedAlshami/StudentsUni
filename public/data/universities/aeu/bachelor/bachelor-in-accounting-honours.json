@@ -5,37 +5,46 @@
   "program_name": "Bachelor in Accounting (Honours)",
   "slug": "bachelor-in-accounting-honours",
   "field": "accounting",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
+  "duration": {
+    "full_time": "3 years (9 semesters)",
+    "part_time": "5 years (15 semesters)"
+  },
+  "mode": ["Fully Online", "Blended Learning"],
+  "intakes": ["Jan", "May", "Sep"],
   "fees": {
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "AeU does not publish a public programme fee schedule (website and 2026 programme brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://aeu.edu.my/study/brochure/"
+    "notes": "AEU does not publish fees publicly. Contact university for current fee schedule. Financial aid available: PTPTN loan, EPF withdrawal, merit scholarship, 10% early settlement discount, 10% loyalty discount, 50% senior citizen discount, 75% disability discount."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "direct_entry": "STPM Grade C+ (GP 2.33) in two subjects; OR STAM Jayyid; OR Matriculation/Foundation CGPA 2.50; OR Diploma (Level 4 MQF) CGPA 2.50; OR Diploma in Accounting fields CGPA 2.50 (CGPA 2.00-2.50 subject to assessment); OR DKM/DVM in Accounting CGPA 2.50; OR DLKM in Accounting CGPA 2.50; OR Advanced Diploma (Level 5 MQF) CGPA 2.50; OR other equivalent qualifications. AND Credit in Mathematics at SPM level. AND MUET Band 3.0 or Credit in English at SPM.",
+    "apel_entry": "Minimum 21 years of age with relevant working experience.",
+    "english_requirement": "MUET Band 3.0 or Credit in English at SPM (Malaysian students). IELTS equivalent for international students.",
+    "a_level": "2 Principals (C+)",
+    "ib": null,
+    "other_qualifications": "DKM/DVM/DLKM in Accounting fields accepted with CGPA 2.50"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/PA12884",
+    "programme_code": "N-DL/344/6/0547"
   },
+  "highlights": ["9 paper exemptions from ACCA"],
+  "assessment": "Assignment 50%, Examination 50%",
   "sources": [
     {
-      "url": "https://aeu.edu.my/study/programme/",
+      "url": "https://aeu.edu.my/programme/bachelor-in-accounting-hons/",
       "publisher": "Official Website",
-      "fetched_at": "2026-09-14"
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://aeu.edu.my/wp-content/uploads/2020/04/BACC_2026.pdf",
+      "publisher": "Official Brochure",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "verified",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Accounting (Honours)",
   "program_name_zh": "会计学士（荣誉学位）",

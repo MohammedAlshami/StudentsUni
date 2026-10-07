@@ -1,55 +1,61 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Pre-University/Foundation Studies",
-  "program_name": "Foundation in Allied Health Sciences",
-  "field": "Science",
-  "slug": "foundation-in-allied-health-sciences",
-  "duration": "1 year",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Oct",
-    "Mar"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 28000,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM3,000, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Pre-University/Foundation Studies",
+ "program_name": "Foundation in Allied Health Sciences",
+ "field": "Science",
+ "slug": "foundation-in-allied-health-sciences",
+ "duration": "1 year",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Oct",
+  "Mar"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 28000,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM3,000, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0055128/",
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+  {
+   "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0055128/",
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/foundation-in-allied-science-278776/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Allied Health Sciences",
-  "program_name_zh": "联合健康科学基础课程",
-  "field_ar": "العلوم",
-  "field_zh": "理科"
+  {
+   "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/foundation-in-allied-science-278776/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%B9%D9%84%D9%88%D9%85-%D8%B5%D8%AD%D9%8A%D8%A9-%D9%85%D8%B3%D8%A7%D9%86%D8%AF%D8%A9-5860/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Allied Health Sciences",
+ "program_name_zh": "联合健康科学基础课程",
+ "field_ar": "العلوم",
+ "field_zh": "理科",
+ "description": "يهدف برنامج العلوم الصحية المساندة إلى إعداد الطلبة أكاديميًا وعلميًا للانتقال إلى برامج الفي مختلف التخصصات الصحية، من خلال تزويدهم بالمعارف الأساسية في العلوم الطبيعية والعلوم الصحية، وتنمية المهارات الأكاديمية والعملية اللازمة للنجاح في الدراسة الجامعية. يركز البرنامج على بناء قاعدة معرفية متينة في مجالات الأحياء والكيمياء والفيزياء والرياضيات، إلى جانب تنمية مهارات التفكير العلمي، وحل المشكلات، والتواصل الفعال، واستخدام التقنيات الحديثة في التعلم. كما يتعرف الطلبة على المبادئ الأساسية في التشريح، ووظائف الأعضاء، والمصطلحات الطبية، وأخلاقيات المهن الصحية، مما يمنحهم فهمًا أوليًا لطبيعة العمل في القطاع الصحي. يعتمد البرنامج على أساليب تعليم حديثة تشمل المحاضرات، والأنشطة التطبيقية، والتجارب المخبرية، والعمل الجماعي، بما يعزز قدرة الطلبة على التعلم الذاتي والاستعداد للدراسة المتخصصة. ويعد هذا البرنامج خيارًا مثاليًا للطلبة الراغبين في متابعة دراستهم في تخصصات مثل التمريض، والعلاج الطبيعي، وعلوم المختبرات الطبية، والتغذية، والصحة العامة، والعلاج الوظيفي، والتكنولوجيا الطبية، وغيرها من تخصصات العلوم الصحية. وعند إكمال البرنامج بنجاح، يمتلك الطلبة الأساس العلمي والمهارات الأكاديمية التي تمكنهم من مواصلة دراستهم الجامعية بثقة وتحقيق النجاح في مسيرتهم الأكاديمية والمهنية."
 }

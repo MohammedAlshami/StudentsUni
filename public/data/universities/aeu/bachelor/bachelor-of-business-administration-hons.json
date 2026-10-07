@@ -5,37 +5,43 @@
   "program_name": "Bachelor of Business Administration (Hons)",
   "slug": "bachelor-of-business-administration-hons",
   "field": "business",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
+  "duration": "4 years 4 months (14 semesters)",
+  "mode": ["Fully Online", "Blended Learning"],
+  "intakes": ["Jan", "May", "Sep"],
   "fees": {
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "AeU does not publish a public programme fee schedule (website and 2026 programme brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://aeu.edu.my/study/brochure/"
+    "notes": "AEU does not publish fees publicly. Contact university for current fee schedule. Financial aid available: PTPTN loan, EPF withdrawal, merit scholarship, 10% early settlement discount, 10% loyalty discount, 50% senior citizen discount, 75% disability discount."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "direct_entry": "STPM Grade C (GP 2.0) in two subjects AND pass in Mathematics and English at SPM; OR STAM Jayyid AND pass in Mathematics and English at SPM; OR Diploma/Advanced Diploma; OR Matriculation/Foundation CGPA 2.00; OR UEC Grade B in five subjects AND pass in Mathematics and English; OR other equivalent qualifications.",
+    "apel_entry": "Minimum 21 years of age with relevant working experience.",
+    "english_requirement": "IELTS 5.5 or equivalent for international students. MUET Band 3 for Malaysian students.",
+    "a_level": "2 Principals (C)",
+    "ib": null,
+    "other_qualifications": "UEC Grade B in five subjects accepted"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "A 9101",
+    "programme_code": "R2-DL/340/6/0458"
   },
+  "concentrations": ["Marketing and E-Commerce", "Finance", "Supply Chain Management"],
+  "assessment": "Assignment 60%, Examination 40%",
   "sources": [
     {
-      "url": "https://aeu.edu.my/study/programme/",
+      "url": "https://aeu.edu.my/programme/bachelor-of-business-administration/",
       "publisher": "Official Website",
-      "fetched_at": "2026-09-14"
+      "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://aeu.edu.my/wp-content/uploads/2018/04/BBA_2026.pdf",
+      "publisher": "Official Brochure",
+      "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": "verified",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Business Administration (Hons)",
   "program_name_zh": "工商管理学士（荣誉学位）",

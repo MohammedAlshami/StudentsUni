@@ -6,12 +6,17 @@
   "state": "Kuala Lumpur",
   "website": "https://www.uptm.edu.my",
   "studymalaysia_url": null,
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "sources": [
     {
       "url": "https://www.uptm.edu.my/index.php/academics/programmes/diploma-programmes",
       "publisher": "University Website",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://abeereducation.com/universities/universiti-poly-tech-malaysia-uptm",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
     }
   ],
   "levels_available": [
@@ -35,5 +40,11 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "Official international fees where published: bachelor's RM50,800-RM60,750 total; diplomas RM22,000-RM28,810; master's RM24,670-RM28,850. Several programmes publish no international fee. Source: https://www.uptm.edu.my/ programme pages (checked 2026-09-18)."
-  }
+  },
+  "description": "Universiti Poly-Tech Malaysia (UPTM) is a private university located in Kuala Lumpur, Malaysia. The university focuses on business, technology, computing, multimedia, and professional studies, with an emphasis on innovation, ethics, and industry-ready education. It offers Foundation, Diploma, Bachelor’s, and Postgraduate programs for local and international students.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01KSQB9CG1FMM618B973S6N65H.jpg",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01KSQB9CG3MKSEPGD7M9VHEYBC.webp",
+  "intakes": [
+    "May August December"
+  ]
 }

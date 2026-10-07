@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Science (Hons) Finance & Investment",
-  "field": "Finance & Investment",
-  "duration": "3 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 115186,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-finance-and-investment), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6 or TOEFL iBT 60",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0008893/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-finance-and-investment"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Science (Hons) Finance & Investment",
-  "program_name_zh": "Science (Hons) Finance & Investment学士",
-  "field_ar": "التمويل",
-  "field_zh": "金融与投资"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Science (Hons) Finance & Investment",
+ "field": "Finance & Investment",
+ "duration": "3 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 115186,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-finance-and-investment), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6 or TOEFL iBT 60",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0008893/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-finance-and-investment",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-4886/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Science (Hons) Finance & Investment",
+ "program_name_zh": "Science (Hons) Finance & Investment学士",
+ "field_ar": "التمويل",
+ "field_zh": "金融与投资",
+ "description": "يهدف برنامج العلوم في التمويل والاستثمار إلى إعداد متخصصين يمتلكون المعرفة والمهارات اللازمة لإدارة الاستثمارات والأسواق المالية واتخاذ القرارات المالية الاستراتيجية. يركز البرنامج على التحليل المالي، وإدارة المحافظ الاستثمارية، وأسواق رأس المال، وإدارة المخاطر، والتخطيط المالي، والتكنولوجيا المالية، مع تنمية مهارات التحليل الكمي واتخاذ القرار. كما يجمع بين الدراسة الأكاديمية والتطبيق العملي، ويؤهل الخريجين للعمل في البنوك، وشركات الاستثمار، والمؤسسات المالية، وشركات التأمين، والاستشارات المالية، أو لمواصلة الدراسات العليا في التمويل والاقتصاد."
 }

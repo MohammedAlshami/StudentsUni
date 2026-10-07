@@ -1,48 +1,54 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "postgraduate",
-  "program_name": "Master of Science in Civil Engineering",
-  "program_slug": "master-of-science-in-civil-engineering",
-  "field": "Civil Engineering",
-  "duration": "2 - 3 years (Full-time) / 3 - 4 years (Part-time)",
-  "mode": "Full-time / Part-time",
-  "intakes": [
-    "January",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 16800,
-    "per_year": 8400,
-    "notes": "International student tuition: RM16,800 total. Source: https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-civil-engineering-by-research/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Postgraduate Fee Structure (Dec 2024). per_year = total / 2yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "postgraduate",
+ "program_name": "Master of Science in Civil Engineering",
+ "program_slug": "master-of-science-in-civil-engineering",
+ "field": "Civil Engineering",
+ "duration": "2 - 3 years (Full-time) / 3 - 4 years (Part-time)",
+ "mode": "Full-time / Part-time",
+ "intakes": [
+  "January",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 16800,
+  "per_year": 8400,
+  "notes": "International student tuition: RM16,800 total. Source: https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-civil-engineering-by-research/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Postgraduate Fee Structure (Dec 2024). per_year = total / 2yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0/TOEFL 3.0/MUET 3.5/Linguaskill 154",
+  "other_qualifications": "A Bachelor's degree in the field or related fields with minimum CGPA 2.75; or CGPA 2.50-2.75 subject to rigorous internal assessment; or CGPA 2.00-2.50 with 5 years relevant work experience and rigorous internal assessment; or prerequisite courses for non-related fields; or APEL-A certification from MQA."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "R3/0716/7/0007 (04/29) (MQA/A10022)"
+ },
+ "college": "College of Graduate Studies (COGS)",
+ "structure": "By Research (Structure A)",
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-civil-engineering-by-research/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0/TOEFL 3.0/MUET 3.5/Linguaskill 154",
-    "other_qualifications": "A Bachelor's degree in the field or related fields with minimum CGPA 2.75; or CGPA 2.50-2.75 subject to rigorous internal assessment; or CGPA 2.00-2.50 with 5 years relevant work experience and rigorous internal assessment; or prerequisite courses for non-related fields; or APEL-A certification from MQA."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/n3qjdeqf/uniten-fee-structure-international-pg.pdf",
+   "publisher": "UNITEN International Postgraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "R3/0716/7/0007 (04/29) (MQA/A10022)"
-  },
-  "college": "College of Graduate Studies (COGS)",
-  "structure": "By Research (Structure A)",
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-civil-engineering-by-research/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/n3qjdeqf/uniten-fee-structure-international-pg.pdf",
-      "publisher": "UNITEN International Postgraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Science in Civil Engineering",
-  "program_name_zh": "土木工程理学硕士",
-  "field_ar": "الهندسة المدنية",
-  "field_zh": "土木工程"
+  {
+   "url": "https://maigaedu.com/program/%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-4410/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Science in Civil Engineering",
+ "program_name_zh": "土木工程理学硕士",
+ "field_ar": "الهندسة المدنية",
+ "field_zh": "土木工程",
+ "description": "يهدف ماجستير العلوم في الهندسة المدنية إلى تطوير الكفاءات العلمية والمهنية للمهندسين في مجالات التصميم الإنشائي، وإدارة مشاريع البناء، والبنية التحتية، والموارد المائية، والهندسة الجيوتقنية، والنقل، مع التركيز على البحث العلمي والتطبيقات الهندسية المتقدمة. يدرس الطلبة موضوعات متخصصة في التحليل الإنشائي، والهندسة البيئية، والاستدامة، وإدارة المخاطر، وتقنيات البناء الحديثة، واستخدام البرمجيات الهندسية المتقدمة، مع تنمية مهارات البحث، والابتكار، والتخطيط، وحل المشكلات الهندسية المعقدة. كما يشجع البرنامج على تنفيذ مشاريع بحثية وتطبيقية تسهم في تطوير حلول مستدامة لمشروعات البنية التحتية والإنشاءات. ويستفيد الطلبة من بيئة بحثية متقدمة وإشراف أكاديمي متخصص وفرص للتعاون مع القطاع الهندسي، مما يعزز جودة مخرجاتهم العلمية. ويؤهل البرنامج الخريجين للعمل في المناصب الهندسية العليا، والاستشارات، وإدارة المشاريع، والجامعات، ومراكز البحوث، أو متابعة دراسة الدكتوراه في الهندسة المدنية والتخصصات الهندسية المرتبطة بها."
 }

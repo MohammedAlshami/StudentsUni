@@ -1,0 +1,174 @@
+{
+ "slug": "awesome-language-center",
+ "name": "معهد أوسم | Awesome",
+ "name_ar": null,
+ "aliases": [
+  "معهد أوسم | Awesome"
+ ],
+ "city": null,
+ "country": "Malaysia",
+ "website": null,
+ "logo": null,
+ "description": "معهد أوسم في ماليزيا لدراسة اللغة الإنجليزية هو أكاديمية تعليمية رائدة متخصصة في تقديم دورات متقدمة وشاملة لتعلم اللغة الإنجليزية. يتميز المعهد بجودة التعليم العالي والبرامج المبتكرة التي تلبي احتياجات مختلف المستويات من المبتدئين إلى المتقدمين. يُقدم المعهد دورات مكثفة مخصصة لتحسين مهارات الاستماع والتحدث والقراءة والكتابة، مع التركيز على استخدام اللغة الإنجليزية في الحياة اليومية والمهنية. يوفر المعهد بيئة تعليمية محفزة تضم فصولاً دراسية مجهزة بأحدث التقنيات التعليمية، بالإضافة إلى كوادر تدريسية مؤهلة وذات خبرة. يتيح المعهد أيضاً للطلاب الفرصة للمشاركة في أنشطة تفاعلية وورش عمل تعزز من تجربتهم التعليمية. كما يُعد المعهد مكانًا مثاليًا للطلاب الدوليين الراغبين في تحسين لغتهم الإنجليزية أثناء الاستمتاع بالثقافة الماليزية الغنية والمتنوعة.",
+ "student_count": null,
+ "course_count": 13,
+ "sources": [
+  {
+   "url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+   "publisher": "Khutwatuk",
+   "fetched_at": "2026-10-06"
+  }
+ ],
+ "courses": [],
+ "offers": [
+  {
+   "label": "عرض 1 شهر",
+   "price": 2100.0,
+   "currency": "MYR",
+   "price_myr": 2100.0,
+   "price_usd": 445.0,
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "عرض 2 شهرين",
+   "price": 3900.0,
+   "currency": "MYR",
+   "price_myr": 3900.0,
+   "price_usd": 824.0,
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "عرض 3 أشهر",
+   "price": 5500.0,
+   "currency": "MYR",
+   "price_myr": 5500.0,
+   "price_usd": 1160.0,
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "عرض 6 أشهر",
+   "price": 12200.0,
+   "currency": "MYR",
+   "price_myr": 12200.0,
+   "price_usd": 2575.0,
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "عرض 8 أشهر",
+   "price": 15600.0,
+   "currency": "MYR",
+   "price_myr": 15600.0,
+   "price_usd": 3293.0,
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "عرض 10 أشهر",
+   "price": 18200.0,
+   "currency": "MYR",
+   "price_myr": 18200.0,
+   "price_usd": 3842.0,
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "مدة الكورس: 1 شهر",
+   "price": 2100.0,
+   "currency": "MYR",
+   "price_myr": 2100.0,
+   "duration": "1 شهر",
+   "price_usd": 445.0,
+   "visa_duration": "بدون تأشيرة",
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "مدة الكورس: 2 شهرين",
+   "price": 3900.0,
+   "currency": "MYR",
+   "price_myr": 3900.0,
+   "duration": "2 شهرين",
+   "price_usd": 824.0,
+   "visa_duration": "بدون تأشيرة",
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "مدة الكورس: 3 أشهر",
+   "price": 5500.0,
+   "currency": "MYR",
+   "price_myr": 5500.0,
+   "duration": "3 أشهر",
+   "price_usd": 1160.0,
+   "visa_duration": "بدون تأشيرة",
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "مدة الكورس: 6 أشهر",
+   "price": 12200.0,
+   "currency": "MYR",
+   "price_myr": 12200.0,
+   "duration": "6 أشهر",
+   "price_usd": 2575.0,
+   "visa_duration": "6 اشهر",
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "مدة الكورس: 8 أشهر",
+   "price": 15600.0,
+   "currency": "MYR",
+   "price_myr": 15600.0,
+   "duration": "8 أشهر",
+   "price_usd": 3293.0,
+   "visa_duration": "8 أشهر",
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "مدة الكورس: 10 أشهر",
+   "price": 18200.0,
+   "currency": "MYR",
+   "price_myr": 18200.0,
+   "duration": "10 أشهر",
+   "price_usd": 3842.0,
+   "visa_duration": "1 سنة",
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  },
+  {
+   "label": "مدة الكورس: 12 أشهر",
+   "price": 20400.0,
+   "currency": "MYR",
+   "price_myr": 20400.0,
+   "duration": "12 أشهر",
+   "price_usd": 4305.0,
+   "visa_duration": "1 سنة",
+   "source": "khutwatuk",
+   "source_url": "https://khutwatuk.com/%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%88%d8%b3%d9%85-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/"
+  }
+ ],
+ "inclusions": [
+  "رسوم التسجيل للمعهد",
+  "رسوم الدراسة",
+  "أختبار تحديد المستوى",
+  "شريحة اتصال وانترنت لمدة شهر مجاناً",
+  "رسوم التأشيرة (فيزا الطالب)",
+  "رسوم التأمين الصحي و الفحص الطبي",
+  "رسوم الإستقبال من المطار",
+  "الاستشارة التعليمية للمعاهد والعروض",
+  "استخراج ورقة القبول من المعهد",
+  "التقديم لك على الفيزا الدراسية ومتابعتها",
+  "تنسيق السكن لك حسب إختيارك ورغبيتك وقدرتك المالية",
+  "الأستقبال من المطار والتوصيل الى السكن",
+  "مرافقة الطالب للمعهد لإكمال التسجيل وأختبار تحديد المستوى"
+ ],
+ "exclusions": [
+  "الرسوم غير شاملة السكن."
+ ]
+}

@@ -1,50 +1,55 @@
 {
-  "university": "UNITAR International University",
-  "university_slug": "unitar",
-  "level": "Pre-University/Foundation Studies",
-  "program_name": "Foundation in Design",
-  "field": "Arts & Design",
-  "slug": "foundation-in-design",
-  "duration": "1 Yr (3 Sem)",
-  "mode": "Full-time Study",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No international fee published by UNITAR for this programme (checked 2026-09-18): it is not on the current official programme list (https://www.unitar.my/programmes/), and no foreign-student fee is listed by EasyUni or Uni Enrol. Previous estimate removed."
+ "university": "UNITAR International University",
+ "university_slug": "unitar",
+ "level": "Pre-University/Foundation Studies",
+ "program_name": "Foundation in Design",
+ "field": "Arts & Design",
+ "slug": "foundation-in-design",
+ "duration": "1 Yr (3 Sem)",
+ "mode": "Full-time Study",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 1700.0,
+  "per_year": null,
+  "notes": "External estimate from abeer (https://abeereducation.com/universities/unitar-international-university)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/UNITAR/0056630/",
+  {
+   "url": "https://studymalaysia.com/edu/unitar/",
+   "publisher": "StudyMalaysia",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+  {
+   "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/foundation-in-arts-294074/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/UNITAR/0056630/",
-    {
-      "url": "https://studymalaysia.com/edu/unitar/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/foundation-in-arts-294074/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://www.unitar.my/programmes/",
-      "publisher": "unitar",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "low",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Design",
-  "program_name_zh": "Design预科",
-  "field_ar": "الفنون",
-  "field_zh": "艺术与设计"
+  {
+   "url": "https://www.unitar.my/programmes/",
+   "publisher": "unitar",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://abeereducation.com/universities/unitar-international-university",
+   "publisher": "abeer",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "low",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Design",
+ "program_name_zh": "Design预科",
+ "field_ar": "الفنون",
+ "field_zh": "艺术与设计"
 }

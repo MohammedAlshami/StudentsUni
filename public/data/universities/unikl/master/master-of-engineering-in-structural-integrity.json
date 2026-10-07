@@ -1,39 +1,45 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "master",
-  "program_name": "Master of Engineering in Structural Integrity",
-  "program_slug": "master-of-engineering-in-structural-integrity",
-  "field": "Engineering",
-  "duration": "18 months",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 28600,
-    "per_year": null,
-    "notes": "Official international tuition: RM28,600 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-engineering-in-structural-integrity/ (accessed 2026-09-18)"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "master",
+ "program_name": "Master of Engineering in Structural Integrity",
+ "program_slug": "master-of-engineering-in-structural-integrity",
+ "field": "Engineering",
+ "duration": "18 months",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 28600,
+  "per_year": null,
+  "notes": "Official international tuition: RM28,600 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-engineering-in-structural-integrity/ (accessed 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.unikl.edu.my/postgraduate-admission/",
+  {
+   "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-engineering-in-structural-integrity-293780/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/",
-    {
-      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-engineering-in-structural-integrity-293780/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    "https://www.unikl.edu.my/programme/master-of-engineering-in-structural-integrity/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Engineering in Structural Integrity",
-  "program_name_zh": "结构完整性工程硕士",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+  "https://www.unikl.edu.my/programme/master-of-engineering-in-structural-integrity/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%81%D9%8A-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-5696/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Engineering in Structural Integrity",
+ "program_name_zh": "结构完整性工程硕士",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "يهدف برنامج الهندسة في سلامة الهياكل إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

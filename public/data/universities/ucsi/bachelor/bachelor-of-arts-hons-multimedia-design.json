@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Arts (Hons) Multimedia Design",
-  "field": "Multimedia Design",
-  "duration": "3 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 128381,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/ba-honours-multimedia-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL iBT 46",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0006185/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/ba-honours-multimedia-design"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Arts (Hons) Multimedia Design",
-  "program_name_zh": "多媒体设计（荣誉）文学士",
-  "field_ar": "التصميم",
-  "field_zh": "设计学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Arts (Hons) Multimedia Design",
+ "field": "Multimedia Design",
+ "duration": "3 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 128381,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/ba-honours-multimedia-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL iBT 46",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0006185/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/ba-honours-multimedia-design",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%81%D9%8A-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9-4842/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Arts (Hons) Multimedia Design",
+ "program_name_zh": "多媒体设计（荣誉）文学士",
+ "field_ar": "التصميم",
+ "field_zh": "设计学",
+ "description": "يهدف برنامج الآداب في تصميم الوسائط المتعددة إلى إعداد متخصصين في تصميم وإنتاج المحتوى الرقمي التفاعلي. يركز البرنامج على التصميم الجرافيكي، والرسوم المتحركة، وإنتاج الفيديو، وتصميم الويب، وتجربة المستخدم، والإعلام الرقمي. كما ينمي مهارات الإبداع، والتقنيات الرقمية، والعمل الجماعي، وإدارة المشاريع. يوفر البرنامج خبرة عملية تساعد الطلاب على إنتاج مشاريع احترافية تلبي متطلبات سوق العمل، ويؤهلهم للعمل في شركات الإعلام، والتسويق الرقمي، والتصميم، والإنتاج الإبداعي."
 }

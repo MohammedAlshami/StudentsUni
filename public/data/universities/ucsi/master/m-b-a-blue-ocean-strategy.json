@@ -1,36 +1,42 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "master",
-  "program_name": "M.B.A. (Blue Ocean Strategy)",
-  "field": "Blue Ocean Strategy",
-  "duration": "1.5 years – 3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 52513,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-business-administration-blue-ocean-strategy), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 56,202."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0008895/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/master-business-administration-blue-ocean-strategy"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "M.B.A. (Blue Ocean Strategy)",
-  "program_name_zh": "M.B.A. (Blue Ocean Strategy)",
-  "field_ar": "Blue Ocean Strategy",
-  "field_zh": "蓝海战略"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "master",
+ "program_name": "M.B.A. (Blue Ocean Strategy)",
+ "field": "Blue Ocean Strategy",
+ "duration": "1.5 years – 3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 52513,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-business-administration-blue-ocean-strategy), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 56,202."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0008895/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/master-business-administration-blue-ocean-strategy",
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7-%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82-4904/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "M.B.A. (Blue Ocean Strategy)",
+ "program_name_zh": "M.B.A. (Blue Ocean Strategy)",
+ "field_ar": "Blue Ocean Strategy",
+ "field_zh": "蓝海战略",
+ "description": "يهدف برنامج إدارة الأعمال (استراتيجية المحيط الأزرق) إلى إعداد قادة أعمال قادرين على ابتكار فرص جديدة للنمو وتحقيق ميزة تنافسية مستدامة من خلال استراتيجيات الأعمال المبتكرة. يركز البرنامج على القيادة، والإدارة الاستراتيجية، والابتكار، وريادة الأعمال، والتسويق، والتحول الرقمي، واتخاذ القرار، مع تطبيق مفهوم استراتيجية المحيط الأزرق لتطوير أسواق جديدة وتقليل المنافسة. كما ينمي البرنامج مهارات التفكير الإبداعي وحل المشكلات وإدارة التغيير، ويؤهل الخريجين لتولي مناصب قيادية في المؤسسات المحلية والعالمية أو تأسيس مشاريعهم الخاصة."
 }

@@ -4,7 +4,7 @@
   "level": "master",
   "program_name": "Master of Philosophy in Management",
   "field": "Management",
-  "duration": "1.5 years",
+  "duration": "2 years (FT) / 3 years (PT)",
   "mode": "Full Time",
   "intakes": [
     "January",
@@ -19,8 +19,11 @@
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "bachelors": "Bachelor's degree CGPA 2.5; OR 5 years working experience",
+    "other_qualifications": "Equivalent bachelor's degree"
   },
+  "mqa_ref": "MQA/PA 16218",
+  "programme_code": "N/0414/7/0043",
   "accreditation": null,
   "sources": [
     {

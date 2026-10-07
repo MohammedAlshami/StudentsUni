@@ -8,7 +8,7 @@
   "address": "Wisma CL, 5, Jalan Sri Semantan 1, Off Jalan Semantan, Bukit Damansara, 50490 Kuala Lumpur",
   "tel": "+603-2716 2000",
   "email": "marketing@help.edu.my",
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": null,
@@ -16,5 +16,14 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "No public international-student fee schedule; HELP publishes a Malaysian-student-only fee summary (2026 HELP University Programme Fees Summary, July 2026). See individual programme records."
-  }
+  },
+  "description": "في حالة اردت حجز سكن سنقوم بعرض الغرف المتاحة لك لكي تختار نوع الغرفة التي تريدها حسب رغبتك وميزانيتك وسنقوم بحجز الغرفة لك مسبقا. التنسيق مسبقاً لأجل قدومك وارسال تذكرة سفرك لنا عند حجزك ليقوم ممثل الجامعة بالذهاب إلى المطار يوم وصولك لاستقبالك و يقوم بالإجراءات الإدارية اللازمة لخروجك من المطار ، ثم يقوم بنقلك من المطار إلى الجامعة او السكن​.",
+  "city": "كوالالمبور",
+  "sources": [
+    {
+      "url": "https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d9%84%d8%a8-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-help/",
+      "publisher": "Khutwatuk",
+      "fetched_at": "2026-10-07"
+    }
+  ]
 }

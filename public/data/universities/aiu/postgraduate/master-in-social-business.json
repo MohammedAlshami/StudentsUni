@@ -8,21 +8,23 @@
   "duration": "1.5 - 2 years (Full-time), 2 - 3 years (Part-time)",
   "mode": "Full-time / Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Oct"
   ],
   "fees": {
     "currency": "MYR",
     "total": 30950,
     "per_year": null,
-    "notes": "Master in Social Business: international total RM30,950 (tuition RM25,800 + registration/admin/convocation RM750 + resource RM3,200 + refundable security deposit RM1,200). Excludes EMGS fee and insurance. Source: https://aiu.edu.my/postgraduate/, fetched 2026-09-18."
+    "malaysian_ft": 30350,
+    "international_ft": 30950,
+    "malaysian_pt": 31950,
+    "notes": "Malaysian FT: MYR 30,350; International FT: MYR 30,950; Malaysian PT: MYR 31,950. Excludes EMGS fee and insurance. Source: https://aiu.edu.my/postgraduate/, verified 2026-09-18."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.0 or TOEFL 550; Malaysian: MUET Band 4",
+    "other_qualifications": "Bachelor's degree with CGPA 2.75 or equivalent"
   },
-  "accreditation": "N/0419/7/0001 (12/27) MQA/PA 15825",
+  "accreditation": "MQA/PA 15825",
+  "programme_code": "N/0419/7/0001",
   "sources": [
     "https://www.aiu.edu.my/postgraduate",
     {

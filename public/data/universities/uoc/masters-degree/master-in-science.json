@@ -1,55 +1,61 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Masters Degree",
-  "program_name": "Master in Science",
-  "field": "Science",
-  "slug": "master-in-science",
-  "duration": "2 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Dec",
-    "Sep",
-    "Mar",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 46500,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Masters Degree",
+ "program_name": "Master in Science",
+ "field": "Science",
+ "slug": "master-in-science",
+ "duration": "2 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Dec",
+  "Sep",
+  "Mar",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 46500,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "general": "Any of these: A Bachelor’s degree in a relevant field (Bachelor&#39;s Degree Level): Bachelor’s degree in a relevant field with a minimum CGPA of 2.75 or equivalent; OR A Bachelor’s degree in a relevant field with a minimum CGPA of 2.50 and less than 2.75 may be accepted subject to rigorous internal assessment; OR A Bachelor’s degree in a relevant field with a CGPA less than 2.50, but with a minimum 5 years of relevant work experience may be accepted subject to internal assessment; OR Others: Other equivalent qualifications recognized by the Malaysian Government and acceptable by the University. English Proficiency (For International Students): Minimum TOEFL score of 550 (pBT) or 80 (iBT) or IELTS score of 6.0."
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0055135/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "general": "Any of these: A Bachelor’s degree in a relevant field (Bachelor&#39;s Degree Level): Bachelor’s degree in a relevant field with a minimum CGPA of 2.75 or equivalent; OR A Bachelor’s degree in a relevant field with a minimum CGPA of 2.50 and less than 2.75 may be accepted subject to rigorous internal assessment; OR A Bachelor’s degree in a relevant field with a CGPA less than 2.50, but with a minimum 5 years of relevant work experience may be accepted subject to internal assessment; OR Others: Other equivalent qualifications recognized by the Malaysian Government and acceptable by the University. English Proficiency (For International Students): Minimum TOEFL score of 550 (pBT) or 80 (iBT) or IELTS score of 6.0."
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0055135/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/master-in-science-278791/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Science",
-  "program_name_zh": "理学硕士",
-  "field_ar": "العلوم",
-  "field_zh": "理科"
+  {
+   "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/master-in-science-278791/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-5870/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Science",
+ "program_name_zh": "理学硕士",
+ "field_ar": "العلوم",
+ "field_zh": "理科",
+ "description": "يهدف برنامج العلوم إلى إعداد باحثين يمتلكون القدرة على إنتاج معرفة علمية جديدة من خلال تنفيذ مشاريع بحثية متقدمة في مختلف التخصصات العلمية. يركز البرنامج على تطوير مهارات البحث، والتفكير النقدي، وتحليل البيانات، واستخدام الأساليب العلمية الحديثة، وإعداد الرسائل العلمية وفق المعايير الأكاديمية الدولية. ويعمل الطلبة تحت إشراف أكاديميين متخصصين لإجراء بحوث مبتكرة تسهم في معالجة التحديات العلمية والمجتمعية. كما يشجع البرنامج على النشر العلمي، والمشاركة في المؤتمرات، والتعاون البحثي مع المؤسسات المحلية والدولية. ويؤهل البرنامج الخريجين للعمل في الجامعات، ومراكز الأبحاث، والمؤسسات الصناعية، والهيئات الحكومية، أو متابعة دراسات الدكتوراه في مختلف المجالات العلمية."
 }

@@ -5,12 +5,12 @@
   "program_name": "Diploma in Islamic Studies",
   "slug": "diploma-in-islamic-studies",
   "field": "islamic-studies",
-  "duration": "3 years",
-  "mode": "Full-time",
+  "duration": "2.5 years",
+  "mode": ["Fully Online", "Blended Learning"],
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -19,9 +19,8 @@
     "notes": "AeU does not publish a public programme fee schedule (website and 2026 programme brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://aeu.edu.my/study/brochure/"
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "english_requirement": "IELTS 4.0 for international students",
+    "entry_requirements": "SPM 3 credits AND pass in Arabic/Islamic Studies; OR O-Level Grade C in three subjects; OR Islamic Studies certificate CGPA 2.00; OR STPM Grade C in one subject; OR STAM Maqbul; OR other equivalent"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
@@ -29,12 +28,12 @@
   },
   "sources": [
     {
-      "url": "https://aeu.edu.my/study/programme/",
+      "url": "https://aeu.edu.my/study/programme/diploma-in-islamic-studies/",
       "publisher": "Official Website",
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "verified",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Islamic Studies",
   "program_name_zh": "伊斯兰研究文凭",

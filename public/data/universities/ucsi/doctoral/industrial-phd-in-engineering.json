@@ -1,36 +1,42 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "doctoral",
-  "program_name": "Industrial PhD in Engineering",
-  "field": "Engineering",
-  "duration": "Full Time 3 - 5 Years / Part Time 4 - 7 Years",
-  "mode": "Full-time/Part-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 84750,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/industrial-phd-engineering), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 85,799."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0",
-    "other_qualifications": "Master degree with research experience"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0057301/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/industrial-phd-engineering"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "Industrial PhD in Engineering",
-  "program_name_zh": "工程学工业博士",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "doctoral",
+ "program_name": "Industrial PhD in Engineering",
+ "field": "Engineering",
+ "duration": "Full Time 3 - 5 Years / Part Time 4 - 7 Years",
+ "mode": "Full-time/Part-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 84750,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/industrial-phd-engineering), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 85,799."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0",
+  "other_qualifications": "Master degree with research experience"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0057301/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/industrial-phd-engineering",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%85%D8%B9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D8%B3%D8%AA%D8%AF%D8%B1%D8%A7%D9%83%D9%8A-4852/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "Industrial PhD in Engineering",
+ "program_name_zh": "工程学工业博士",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "صُمم برنامج الدكتوراه الصناعية في الهندسة مع البرنامج الاستدراكي لتأهيل الطلاب أكاديمياً قبل الانخراط في أبحاث تطبيقية متقدمة بالتعاون مع القطاع الصناعي. يركز البرنامج على تطوير حلول مبتكرة للتحديات الهندسية، وربط المعرفة الأكاديمية بالتطبيقات العملية، مع تعزيز مهارات البحث، وإدارة المشاريع، والابتكار الصناعي. كما يوفر بيئة تعليمية تدعم التعاون مع الشركات والمؤسسات الصناعية، وتطوير التقنيات الحديثة التي تسهم في رفع كفاءة الإنتاج والاستدامة. ويؤهل البرنامج الخريجين لقيادة الأبحاث الصناعية والعمل في المؤسسات البحثية والهندسية والقطاعات الصناعية المتقدمة."
 }

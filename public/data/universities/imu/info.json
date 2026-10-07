@@ -38,9 +38,14 @@
       "url": "https://www.imu.edu.my/programmes",
       "type": "official",
       "note": "Programmes search page"
+    },
+    {
+      "url": "https://abeereducation.com/universities/imu-university",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
     }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": null,
@@ -48,5 +53,13 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "Official international fees published per programme at https://imu.edu.my/academics/programmes/ (fetched 2026-09-18); no single aggregate applies. See individual programme records."
-  }
+  },
+  "languages_of_instruction": "الإنجليزية",
+  "description": "قرار دراسة الطب من أثقل القرارات التي يتخذها الطالب وأهله معاً. الجامعة التي تختارها ستحدد مساراتك المهنية لعقود. الجامعة الطبية الدولية IMU هي أول جامعة طبية خاصة في ماليزيا، متخصصة بالكامل في العلوم الطبية والصحية منذ تأسيسها. تدريب سريري مبكر، شراكات مع مستشفيات تعليمية محلية ودولية، وإمكانية الانتقال لجامعات شريكة في بريطانيا وأستراليا هذا ما يجعل IMU خياراً يستحق الدراسة الجادة لأي طالب خليجي يريد مسارًا طبياً منظماً ومعترفاً به.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01KRRA52HCFM275DDMNQY3JVA8.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01KRRA52HEJMJSZZRF5JFCBT89.webp",
+  "intakes": [
+    "April",
+    "July & September"
+  ]
 }

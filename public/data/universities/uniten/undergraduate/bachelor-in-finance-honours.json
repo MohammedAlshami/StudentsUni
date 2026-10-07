@@ -1,51 +1,57 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "undergraduate",
-  "program_name": "Bachelor in Finance (Honours)",
-  "program_slug": "bachelor-in-finance-honours",
-  "field": "Finance",
-  "duration": "3 years (Full-time)",
-  "mode": "Full-time",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 72600,
-    "per_year": 24200,
-    "notes": "International student tuition: RM72,600 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-finance-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM69,000. per_year = total / 3yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "undergraduate",
+ "program_name": "Bachelor in Finance (Honours)",
+ "program_slug": "bachelor-in-finance-honours",
+ "field": "Finance",
+ "duration": "3 years (Full-time)",
+ "mode": "Full-time",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 72600,
+  "per_year": 24200,
+  "notes": "International student tuition: RM72,600 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-finance-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM69,000. per_year = total / 3yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+  "a_level": "2 subjects (Grade C)",
+  "ib": "24 points",
+  "other_qualifications": "A-Level with minimum Grade C in any 2 subjects; or STPM with minimum Grade C (CGPA 2.00) in any 2 subjects; or Foundation/Matriculation in a related field with minimum CGPA 2.50; or Diploma in Finance/Banking/Insurance or a related field with minimum CGPA 2.50."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "N/0414/6/0149 (12/28) (MQA/PSA17298) / R2/0414/6/0024 (01/25) (MQA/A9987)"
+ },
+ "college": "UNITEN Business School (UBS)",
+ "campus": "KSHAS",
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-finance-honours/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
-    "a_level": "2 subjects (Grade C)",
-    "ib": "24 points",
-    "other_qualifications": "A-Level with minimum Grade C in any 2 subjects; or STPM with minimum Grade C (CGPA 2.00) in any 2 subjects; or Foundation/Matriculation in a related field with minimum CGPA 2.50; or Diploma in Finance/Banking/Insurance or a related field with minimum CGPA 2.50."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "N/0414/6/0149 (12/28) (MQA/PSA17298) / R2/0414/6/0024 (01/25) (MQA/A9987)"
-  },
-  "college": "UNITEN Business School (UBS)",
-  "campus": "KSHAS",
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-finance-honours/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Finance (Honours)",
-  "program_name_zh": "金融荣誉学士",
-  "field_ar": "التمويل",
-  "field_zh": "金融"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-4442/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Finance (Honours)",
+ "program_name_zh": "金融荣誉学士",
+ "field_ar": "التمويل",
+ "field_zh": "金融",
+ "description": "يهدف بكالوريوس المالية إلى إعداد متخصصين يمتلكون المعرفة والمهارات اللازمة لإدارة الموارد المالية واتخاذ القرارات الاستثمارية والاستراتيجية في مختلف المؤسسات. يركز البرنامج على الإدارة المالية، والاستثمار، والأسواق المالية، وتحليل القوائم المالية، وإدارة المخاطر، والتمويل المؤسسي، والتخطيط المالي، والتكنولوجيا المالية (FinTech)، مع تنمية مهارات التحليل الكمي، والتفكير النقدي، واستخدام الأدوات المالية الحديثة. كما يساعد البرنامج الطلبة على فهم كيفية إدارة رأس المال، وتقييم الاستثمارات، وتحليل الأداء المالي، واتخاذ قرارات مبنية على البيانات في بيئة اقتصادية متغيرة. ويجمع البرنامج بين الدراسة الأكاديمية، ودراسات الحالة، والمحاكاة المالية، والمشاريع التطبيقية، مما يمنح الطلبة خبرة عملية في التعامل مع التحديات المالية الواقعية. كما يواكب البرنامج التطورات في الأسواق العالمية، والتحول الرقمي، والذكاء الاصطناعي في القطاع المالي، مما يعزز جاهزية الخريجين لسوق العمل. ويؤهل البرنامج للعمل في البنوك، والمؤسسات الاستثمارية، وشركات التأمين، والأسواق المالية، والاستشارات المالية، والهيئات الحكومية، أو متابعة الدراسات العليا والحصول على الشهادات المهنية العالمية في المالية والاستثمار."
 }

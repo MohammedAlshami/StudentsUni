@@ -1,41 +1,47 @@
 {
-  "university": "Universiti Sains Malaysia",
-  "university_slug": "usm",
-  "level": "master",
-  "program_name": "Master of Pharmacy in Clinical Pharmacy",
-  "field": "Medicine",
-  "slug": "master-of-pharmacy-clinical-pharmacy",
-  "duration": "FT: Min 2 Sem/Max 4 Sem. Intake commences in September only.",
-  "mode": "Flexible Full-time/Part-time",
-  "intakes": [
-    "September"
-  ],
-  "fees": {
-    "currency": "USD",
-    "total": 7400,
-    "per_year": null,
-    "notes": "Official USM international postgraduate tuition (total per programme): USD 7,400; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
+ "university": "Universiti Sains Malaysia",
+ "university_slug": "usm",
+ "level": "master",
+ "program_name": "Master of Pharmacy in Clinical Pharmacy",
+ "field": "Medicine",
+ "slug": "master-of-pharmacy-clinical-pharmacy",
+ "duration": "FT: Min 2 Sem/Max 4 Sem. Intake commences in September only.",
+ "mode": "Flexible Full-time/Part-time",
+ "intakes": [
+  "September"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 7400,
+  "per_year": null,
+  "notes": "Official USM international postgraduate tuition (total per programme): USD 7,400; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": {
+  "mqa_status": "Full Accreditation",
+  "mqa_ref": null
+ },
+ "sources": [
+  {
+   "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
+   "publisher": "USM Admissions",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": {
-    "mqa_status": "Full Accreditation",
-    "mqa_ref": null
-  },
-  "sources": [
-    {
-      "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
-      "publisher": "USM Admissions",
-      "fetched_at": "2026-09-14"
-    },
-    "https://admission.usm.my/index.php/postgraduate/fee-pg"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Pharmacy in Clinical Pharmacy",
-  "program_name_zh": "临床药学药学硕士",
-  "field_ar": "الطب",
-  "field_zh": "医学"
+  "https://admission.usm.my/index.php/postgraduate/fee-pg",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B1%D9%8A%D8%A9-4395/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Pharmacy in Clinical Pharmacy",
+ "program_name_zh": "临床药学药学硕士",
+ "field_ar": "الطب",
+ "field_zh": "医学",
+ "description": "برنامج ماجستير في الصيدلة السريرية يهدف إلى إعداد صيادلة متخصصين في تحسين العلاج الدوائي وضمان الاستخدام الآمن والفعال للأدوية داخل المؤسسات الصحية. يركز البرنامج على العلاج الدوائي، والرعاية الصيدلانية، والصيدلة السريرية، وعلم الأدوية، وسلامة المرضى، والبحث السريري، مع تنمية مهارات اتخاذ القرار السريري والعمل ضمن الفريق الطبي. ويؤهل البرنامج الخريجين للعمل في المستشفيات، والعيادات، والمراكز الطبية، والجامعات، ومؤسسات الرعاية الصحية."
 }

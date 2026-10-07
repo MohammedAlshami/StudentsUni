@@ -1,41 +1,47 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Diploma",
-  "program_name": "Diploma in Pharmacy",
-  "field": "Medicine & Healthcare",
-  "slug": "diploma-in-pharmacy",
-  "duration": "3 years",
-  "mode": "Full-time Study",
-  "intakes": [
-    "Jul",
-    "Mar",
-    "Oct"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 64500,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Diploma",
+ "program_name": "Diploma in Pharmacy",
+ "field": "Medicine & Healthcare",
+ "slug": "diploma-in-pharmacy",
+ "duration": "3 years",
+ "mode": "Full-time Study",
+ "intakes": [
+  "Jul",
+  "Mar",
+  "Oct"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 64500,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058792/",
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058792/",
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Pharmacy",
-  "program_name_zh": "药剂学文凭",
-  "field_ar": "الطب",
-  "field_zh": "医学与医疗保健"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9-5858/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Pharmacy",
+ "program_name_zh": "药剂学文凭",
+ "field_ar": "الطب",
+ "field_zh": "医学与医疗保健",
+ "description": "يهدف برنامج دبلوم في الصيدلة إلى إعداد مساعدي الصيادلة المؤهلين للعمل في الصيدليات والمستشفيات والمؤسسات الصحية، من خلال تزويدهم بالمعارف الأساسية في علوم الأدوية، والصيدلة، والتشريح، وعلم وظائف الأعضاء، وصرف الأدوية، وسلامة المرضى، وأخلاقيات المهنة. كما يكتسب الطلبة مهارات عملية في تحضير الأدوية، وإدارة المخزون الدوائي، والتعامل مع المرضى، واستخدام الأنظمة الصيدلانية الحديثة، بما يؤهلهم للعمل بكفاءة في القطاع الصحي أو مواصلة الدراسة في مجال الصيدلة."
 }

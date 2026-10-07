@@ -1,39 +1,45 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "master",
-  "program_name": "Master in Creative Digital Media",
-  "program_slug": "master-in-creative-digital-media",
-  "field": "Creative Arts & Design",
-  "duration": "2 years",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": 6180,
-    "notes": "Official international tuition: RM3,090/semester, RM6,180/year; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-in-creative-digital-media/ (accessed 2026-09-18)"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "master",
+ "program_name": "Master in Creative Digital Media",
+ "program_slug": "master-in-creative-digital-media",
+ "field": "Creative Arts & Design",
+ "duration": "2 years",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 21480.0,
+  "per_year": 6180,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D8%A7%D9%84%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%D9%8A-5736/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.unikl.edu.my/postgraduate-admission/",
+  {
+   "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-miit-260/master-in-creative-digital-media-293798/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/",
-    {
-      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-miit-260/master-in-creative-digital-media-293798/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    "https://www.unikl.edu.my/programme/master-in-creative-digital-media/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Creative Digital Media",
-  "program_name_zh": "创意数码媒体硕士",
-  "field_ar": "الفنون",
-  "field_zh": "创意艺术与设计"
+  "https://www.unikl.edu.my/programme/master-in-creative-digital-media/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D8%A7%D9%84%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%D9%8A-5736/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Creative Digital Media",
+ "program_name_zh": "创意数码媒体硕士",
+ "field_ar": "الفنون",
+ "field_zh": "创意艺术与设计",
+ "description": "يهدف برنامج الإعلام الرقمي الإبداعي إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

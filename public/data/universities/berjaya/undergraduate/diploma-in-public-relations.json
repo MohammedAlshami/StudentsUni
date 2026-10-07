@@ -4,7 +4,7 @@
   "level": "diploma",
   "program_name": "Diploma in Public Relations",
   "field": "Communication",
-  "duration": "3 years",
+  "duration": "2 years (includes 16-week internship)",
   "mode": "Full Time",
   "intakes": [
     "January",
@@ -19,9 +19,14 @@
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "spm": "Minimum 3 credits including English",
+    "o_levels": "Minimum 3 credits including English",
+    "uec": "Minimum 3 credits including English",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
+  "mqa_ref": "MQA/FA 3061",
+  "programme_code": "R2/0323/4/0010",
   "accreditation": null,
   "sources": [
     {

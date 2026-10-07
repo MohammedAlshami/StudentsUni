@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "diploma",
-  "program_name": "Diploma in Aquaculture with Entrepreneurship",
-  "field": "Aquaculture with Entrepreneurship",
-  "duration": "2 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 85507,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-aquaculture-entrepreneurship), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL iBT 35",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0055410/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/diploma-aquaculture-entrepreneurship"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Aquaculture with Entrepreneurship",
-  "program_name_zh": "水产养殖与创业文凭",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "水产养殖与创业"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "diploma",
+ "program_name": "Diploma in Aquaculture with Entrepreneurship",
+ "field": "Aquaculture with Entrepreneurship",
+ "duration": "2 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 85507,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-aquaculture-entrepreneurship), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL iBT 35",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0055410/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/diploma-aquaculture-entrepreneurship",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B2%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A-%D9%88%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-4826/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Aquaculture with Entrepreneurship",
+ "program_name_zh": "水产养殖与创业文凭",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "水产养殖与创业",
+ "description": "يهدف برنامج الاستزراع المائي مع ريادة الأعمال إلى إعداد متخصصين يمتلكون المعرفة والمهارات اللازمة لإدارة مشاريع الاستزراع المائي بطريقة مستدامة ومبتكرة. يركز البرنامج على تربية الأحياء المائية، وإدارة المزارع، وجودة المياه، وصحة الكائنات المائية، إلى جانب مبادئ ريادة الأعمال وإدارة المشاريع. كما يوفر تدريباً عملياً يساعد الطلاب على اكتساب الخبرة في القطاع، ويؤهلهم للعمل في مزارع الاستزراع المائي، والمؤسسات البيئية، أو إنشاء مشاريعهم الخاصة في هذا المجال."
 }

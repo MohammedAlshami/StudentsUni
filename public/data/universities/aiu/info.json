@@ -11,7 +11,7 @@
     "postgraduate"
   ],
   "program_counts": {
-    "undergraduate": 12,
+    "undergraduate": 14,
     "postgraduate": 7
   },
   "schools": [
@@ -29,10 +29,11 @@
   "last_updated": "2026-09-18",
   "fees": {
     "currency": "MYR",
-    "local_total": 66000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 22000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Undergraduate study is fully funded by Albukhary Foundation scholarships for eligible students; international postgraduate fees verified from AIU official postgraduate page. See individual programme files. Last verified 2026-09-18."
+    "postgraduate_note": "Masters: MYR 8,150 (Malaysian FT) / MYR 8,750 (International FT). PhD: MYR 19,150 (Malaysian FT) / MYR 19,750 (International FT). Social Business Masters: MYR 30,350 (Malaysian FT) / MYR 30,950 (International FT).",
+    "notes": "Undergraduate study is fully funded by Albukhary Foundation scholarships for eligible students. Single October intake. Last verified 2026-09-18."
   }
 }

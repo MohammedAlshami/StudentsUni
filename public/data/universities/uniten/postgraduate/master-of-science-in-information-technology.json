@@ -1,48 +1,54 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "postgraduate",
-  "program_name": "Master of Science in Information Technology",
-  "program_slug": "master-of-science-in-information-technology",
-  "field": "Information Technology",
-  "duration": "2 - 3 years (Full-time) / 2 - 4 years (Part-time)",
-  "mode": "Full-time / Part-time",
-  "intakes": [
-    "January",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 16800,
-    "per_year": 8400,
-    "notes": "International student tuition: RM16,800 total. Source: https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-information-technology-by-research/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Postgraduate Fee Structure (Dec 2024). per_year = total / 2yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "postgraduate",
+ "program_name": "Master of Science in Information Technology",
+ "program_slug": "master-of-science-in-information-technology",
+ "field": "Information Technology",
+ "duration": "2 - 3 years (Full-time) / 2 - 4 years (Part-time)",
+ "mode": "Full-time / Part-time",
+ "intakes": [
+  "January",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 16800,
+  "per_year": 8400,
+  "notes": "International student tuition: RM16,800 total. Source: https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-information-technology-by-research/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Postgraduate Fee Structure (Dec 2024). per_year = total / 2yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0/TOEFL 4.0/MUET 4.0/Linguaskill 169",
+  "other_qualifications": "A Bachelor's degree in Computing or related fields with minimum CGPA 3.00; or CGPA 2.00-3.00 subject to rigorous internal assessment; or a non-Computing degree with minimum CGPA 2.50 subject to relevant work experience or prerequisite courses; or equivalent qualification; or APEL-A certification from MQA."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "R3/0611/7/0004 (12/27) (MQA/A8588)"
+ },
+ "college": "College of Graduate Studies (COGS)",
+ "structure": "By Research (Structure A)",
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-information-technology-by-research/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0/TOEFL 4.0/MUET 4.0/Linguaskill 169",
-    "other_qualifications": "A Bachelor's degree in Computing or related fields with minimum CGPA 3.00; or CGPA 2.00-3.00 subject to rigorous internal assessment; or a non-Computing degree with minimum CGPA 2.50 subject to relevant work experience or prerequisite courses; or equivalent qualification; or APEL-A certification from MQA."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/n3qjdeqf/uniten-fee-structure-international-pg.pdf",
+   "publisher": "UNITEN International Postgraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "R3/0611/7/0004 (12/27) (MQA/A8588)"
-  },
-  "college": "College of Graduate Studies (COGS)",
-  "structure": "By Research (Structure A)",
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/postgraduate/master-of-science-in-information-technology-by-research/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/n3qjdeqf/uniten-fee-structure-international-pg.pdf",
-      "publisher": "UNITEN International Postgraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Science in Information Technology",
-  "program_name_zh": "Science in Information Technology硕士",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "信息技术"
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-4416/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Science in Information Technology",
+ "program_name_zh": "Science in Information Technology硕士",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "信息技术",
+ "description": "يهدف ماجستير تقنية المعلومات إلى تطوير الكفاءات التقنية والبحثية للمتخصصين في مجال تقنية المعلومات، وإعدادهم لقيادة مشاريع التحول الرقمي والابتكار في المؤسسات. يركز البرنامج على مجالات متقدمة تشمل هندسة البرمجيات، وإدارة قواعد البيانات، والحوسبة السحابية، والأمن السيبراني، وتحليل البيانات، وإدارة مشاريع تقنية المعلومات، مع تنمية مهارات البحث العلمي، والتفكير التحليلي، وتصميم الحلول التقنية الحديثة. كما يساعد البرنامج الطلبة على فهم أحدث الاتجاهات في التكنولوجيا وتوظيفها لمعالجة التحديات التقنية وتحسين كفاءة المؤسسات. ويجمع البرنامج بين الدراسة الأكاديمية، والمشاريع التطبيقية، والبحوث المتقدمة، مما يمنح الطلبة خبرة عملية في تصميم وتنفيذ الحلول الرقمية. كما يواكب البرنامج التطورات في الذكاء الاصطناعي، وإنترنت الأشياء، والحوسبة المتقدمة، مما يعزز جاهزية الخريجين للمنافسة في سوق العمل العالمي. ويؤهل البرنامج للعمل في المناصب التقنية والإدارية العليا، وشركات التكنولوجيا، والاتصالات، والبنوك، والهيئات الحكومية، أو متابعة دراسة الدكتوراه في تقنية المعلومات والتخصصات المرتبطة بها."
 }

@@ -1,47 +1,53 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "foundation",
-  "program_name": "Foundation in Computer Science",
-  "program_slug": "foundation-in-computer-science",
-  "field": "Computing & IT",
-  "duration": "1 year (Full-time)",
-  "mode": "Full-time",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 19800,
-    "per_year": 19800,
-    "notes": "International student tuition: RM19,800 total. Source: https://www.uniten.edu.my/programme/foundation/foundation-in-computer-science/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 1yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "foundation",
+ "program_name": "Foundation in Computer Science",
+ "program_slug": "foundation-in-computer-science",
+ "field": "Computing & IT",
+ "duration": "1 year (Full-time)",
+ "mode": "Full-time",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 19800,
+  "per_year": 19800,
+  "notes": "International student tuition: RM19,800 total. Source: https://www.uniten.edu.my/programme/foundation/foundation-in-computer-science/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 1yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "Test of English Proficiency (TEP) or English Short Course (ESC) required if English requirement is not met (UNITEN).",
+  "other_qualifications": "Pass SPM/O-Level with minimum 5 credits (Grade C) including Mathematics and 2 Science subjects; or UEC with Grade B6 in 4 subjects; international applicants require a High School Certificate with minimum 50% and Grade C in Mathematics and one Science subject."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "R3/0011/3/0012 (11/28) (MQA/A9112)"
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/foundation/foundation-in-computer-science/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "Test of English Proficiency (TEP) or English Short Course (ESC) required if English requirement is not met (UNITEN).",
-    "other_qualifications": "Pass SPM/O-Level with minimum 5 credits (Grade C) including Mathematics and 2 Science subjects; or UEC with Grade B6 in 4 subjects; international applicants require a High School Certificate with minimum 50% and Grade C in Mathematics and one Science subject."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "R3/0011/3/0012 (11/28) (MQA/A9112)"
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/foundation/foundation-in-computer-science/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Computer Science",
-  "program_name_zh": "Computer Science预科",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "计算机与信息技术"
+  {
+   "url": "https://maigaedu.com/program/%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D8%A8-4417/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Computer Science",
+ "program_name_zh": "Computer Science预科",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "计算机与信息技术",
+ "description": "تهدف علوم الحاسب إلى إعداد الطلبة أكاديميًا للالتحاق ببرامج البكالوريوس في علوم الحاسب والتخصصات التقنية ذات العلاقة. يركز البرنامج على بناء أساس قوي في الرياضيات، والبرمجة الأساسية، وتقنية المعلومات، واللغة الإنجليزية، والتفكير المنطقي، وحل المشكلات، إلى جانب تنمية المهارات الأكاديمية والرقمية اللازمة للنجاح في الدراسة الجامعية. كما يتعرف الطلبة على المفاهيم الأساسية في علوم الحاسب، والخوارزميات، والشبكات، وقواعد البيانات، مما يمنحهم فهمًا أوليًا لمجالات التقنية المختلفة. ويعتمد البرنامج على أساليب تعليم حديثة تجمع بين المحاضرات، والمختبرات العملية، والأنشطة التطبيقية التي تعزز قدرة الطلبة على التعلم الذاتي والعمل الجماعي. كما يساعد البرنامج على تطوير مهارات التواصل، والبحث، وإدارة الوقت، والتفكير النقدي، وهي مهارات ضرورية في المجال التقني. ويؤهل البرنامج الطلبة للانتقال إلى برامج البكالوريوس في علوم الحاسب، وهندسة البرمجيات، والأمن السيبراني، والذكاء الاصطناعي، وتقنية المعلومات، مع امتلاك قاعدة معرفية قوية تسهم في نجاحهم الأكاديمي والمهني."
 }

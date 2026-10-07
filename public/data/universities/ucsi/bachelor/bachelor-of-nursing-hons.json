@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Nursing (Hons)",
-  "field": "Nursing",
-  "duration": "4 Years of Full-time study (26 weeks per semester, no short semester)",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "Jul"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 117500,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-nursing-hons), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005872/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-nursing-hons"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Nursing (Hons)",
-  "program_name_zh": "护理学士（荣誉学位）",
-  "field_ar": "التمريض",
-  "field_zh": "护理"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Nursing (Hons)",
+ "field": "Nursing",
+ "duration": "4 Years of Full-time study (26 weeks per semester, no short semester)",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "Jul"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 117500,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-nursing-hons), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005872/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-nursing-hons",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-4777/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Nursing (Hons)",
+ "program_name_zh": "护理学士（荣誉学位）",
+ "field_ar": "التمريض",
+ "field_zh": "护理",
+ "description": "يهدف برنامج التمريض إلى إعداد ممرضين مؤهلين يمتلكون المعرفة العلمية والمهارات السريرية اللازمة لتقديم رعاية صحية آمنة وشاملة للأفراد والأسر والمجتمعات. يجمع البرنامج بين الدراسة الأكاديمية والتدريب السريري في المستشفيات والمراكز الصحية، مع التركيز على الرعاية القائمة على الأدلة، وأخلاقيات المهنة، والتواصل، والعمل ضمن فرق الرعاية الصحية متعددة التخصصات. كما يطور مهارات القيادة، والتفكير النقدي، واتخاذ القرار، ويؤهل الخريجين للعمل في المؤسسات الصحية أو لمواصلة الدراسات العليا في تخصصات التمريض المختلفة."
 }

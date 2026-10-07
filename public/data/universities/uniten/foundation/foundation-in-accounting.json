@@ -1,47 +1,53 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "foundation",
-  "program_name": "Foundation in Accounting",
-  "program_slug": "foundation-in-accounting",
-  "field": "Business",
-  "duration": "1 year (Full-time)",
-  "mode": "Full-time",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 19800,
-    "per_year": 19800,
-    "notes": "International student tuition: RM19,800 total. Source: https://www.uniten.edu.my/programme/foundation/foundation-in-accounting/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 1yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "foundation",
+ "program_name": "Foundation in Accounting",
+ "program_slug": "foundation-in-accounting",
+ "field": "Business",
+ "duration": "1 year (Full-time)",
+ "mode": "Full-time",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 19800,
+  "per_year": 19800,
+  "notes": "International student tuition: RM19,800 total. Source: https://www.uniten.edu.my/programme/foundation/foundation-in-accounting/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 1yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "Test of English Proficiency (TEP) or English Short Course (ESC) required if English requirement is not met (UNITEN).",
+  "other_qualifications": "Pass SPM/O-Level with minimum 5 credits (Grade C) including Mathematics; or UEC with minimum 3 subjects Grade B6; international applicants require a High School Certificate with minimum 50% and Grade C in Mathematics and English."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "R3/0410/3/0013 (08/28) (MQA/A9234)"
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/foundation/foundation-in-accounting/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "Test of English Proficiency (TEP) or English Short Course (ESC) required if English requirement is not met (UNITEN).",
-    "other_qualifications": "Pass SPM/O-Level with minimum 5 credits (Grade C) including Mathematics; or UEC with minimum 3 subjects Grade B6; international applicants require a High School Certificate with minimum 50% and Grade C in Mathematics and English."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "R3/0410/3/0013 (08/28) (MQA/A9234)"
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/foundation/foundation-in-accounting/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Accounting",
-  "program_name_zh": "会计学基础课程",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-4432/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Accounting",
+ "program_name_zh": "会计学基础课程",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业",
+ "description": "تهدف المحاسبة إلى إعداد الطلبة أكاديميًا للالتحاق ببرامج البكالوريوس في المحاسبة والمالية والتخصصات الإدارية ذات الصلة. يركز البرنامج على بناء أساس قوي في مبادئ المحاسبة، والرياضيات، والاقتصاد، وإدارة الأعمال، واللغة الإنجليزية، وتقنية المعلومات، مع تنمية مهارات التفكير التحليلي، والتواصل، وحل المشكلات، والبحث الأكاديمي. كما يساعد البرنامج الطلبة على فهم المفاهيم الأساسية المتعلقة بالتقارير المالية، والعمليات المحاسبية، والبيئة الاقتصادية، مما يسهل انتقالهم إلى الدراسة الجامعية المتخصصة. ويعتمد البرنامج على أساليب تعليم حديثة تشمل المحاضرات، والأنشطة التطبيقية، والمشاريع، والعمل الجماعي، مما يعزز قدرة الطلبة على التعلم الذاتي والتفكير النقدي. كما يوفر بيئة أكاديمية داعمة تساعد الطلبة على اكتساب المهارات الشخصية والمهنية اللازمة للنجاح في التعليم العالي. ويؤهل البرنامج للانتقال إلى برامج البكالوريوس في المحاسبة، والمالية، وإدارة الأعمال، والاقتصاد، مع امتلاك قاعدة معرفية متينة تدعم النجاح الأكاديمي والمهني."
 }

@@ -36,9 +36,14 @@
       "url": "https://study.um.edu.my/doc/booklets/International%20Booklet%20-%20Updated%2015%20Dec%202025.pdf",
       "publisher": "Universiti Malaya",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://abeereducation.com/universities/university-malaya-um",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
     }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 4200,
@@ -46,5 +51,19 @@
     "per_year_local": 1400,
     "per_year_international": null,
     "notes": "International tuition varies by programme (RM59,400-RM673,200 total) per the official UM International Booklet 2025/26. See individual programme files."
-  }
+  },
+  "description": "إذا كنت تبحث عن وجهة دراسية تجمع بين التميز الأكاديمي والتكلفة المعقولة، فإن جامعة مالايا في ماليزيا قد تكون الخيار الذي طالما حلمت به. تخيل نفسك في حرم جامعي عريق يمتد على مساحات خضراء شاسعة، محاطًا بطلاب من أكثر من 80 جنسية، تدرس على يد أساتذة حاصلين على جوائز دولية، وكل ذلك في واحدة من أكثر المدن حيوية في آسيا.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01KEVMNXS0F7J0Q6D9GKG0Y9D1.png",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01KEVMNXS3HNEBHNWKJN2EJAGG.webp",
+  "faculties": [
+    "برامج البكالوريوس (المدة: 3-5 سنوات)",
+    "برامج الماجستير (المدة: 1-2.5 سنة)",
+    "برامج الدكتوراه (المدة: 3-5 سنوات)",
+    "برامج اللغة الإنجليزية"
+  ],
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ]
 }

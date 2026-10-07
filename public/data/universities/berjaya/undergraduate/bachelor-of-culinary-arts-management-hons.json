@@ -4,7 +4,7 @@
   "level": "bachelor",
   "program_name": "Bachelor of Culinary Arts Management (Honours)",
   "field": "Culinary Arts",
-  "duration": "3 years",
+  "duration": "3 years (includes 16-week internship)",
   "mode": "Full Time",
   "intakes": [
     "January",
@@ -19,11 +19,17 @@
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
+    "stpm": "Minimum 2 principal passes",
+    "a_level": "Minimum 2 principal passes",
+    "uec": "Minimum 5 credits",
     "ib": "24 points",
     "other_qualifications": "Equivalent pre-university qualification"
   },
-  "accreditation": null,
+  "mqa_ref": "MQA/FA 1081",
+  "programme_code": "R2/811/6/0072",
+  "accreditation": {
+    "note": "WORLDCHEFS Recognition"
+  },
   "sources": [
     {
       "url": "https://www.berjaya.edu.my/university/faculty-of-culinary-arts/bachelor-of-culinary-arts-management-hons/index.html",

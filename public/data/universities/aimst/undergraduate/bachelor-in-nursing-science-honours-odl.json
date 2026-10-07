@@ -6,7 +6,7 @@
   "slug": "bachelor-in-nursing-science-honours-odl",
   "field": "Nursing",
   "duration": "4 years",
-  "mode": "Full-time",
+  "mode": "Online Distance Learning (ODL)",
   "intakes": [
     "Sep",
     "Feb",
@@ -19,20 +19,20 @@
     "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "local": "STPM CGPA 2.0 OR Matriculation/Foundation CGPA 2.5 OR UEC B6 x5 OR Diploma/Bachelor CGPA 2.5 OR Diploma in Nursing recognized by MNB OR STAM Jayyid 2.0. Must possess current PC/RON for nurses.",
+    "international": "A-Level Grade C x3 CGPA 2.5 OR Foundation CGPA 2.5 OR STPM CGPA 2.0 OR Diploma in Nursing CGPA 2.5 + registered with Nursing Council + TPC from MNB + MUET Band 3.0 or IELTS 5.5.",
+    "english_requirement": "MUET Band 3.0 or IELTS 5.5"
   },
   "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": "MQA/PA18037",
+    "programme_code": "N-DL/0913/6/0031"
   },
   "sources": [
     "https://www.aimst.edu.my/academic/bachelor-in-nursing-science-honours-odl/",
     "https://aimst.edu.my/international-students/"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Nursing Science (Honours) (ODL)",
   "program_name_zh": "护理学学士（荣誉学位）（远程教学）",

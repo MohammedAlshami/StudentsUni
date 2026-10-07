@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Electrical & Electronic Engineering with Honours",
-  "field": "Electrical & Electronic Engineering",
-  "duration": "4 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 136381,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-electrical-and-electronics-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 139,974."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005344/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-electrical-and-electronics-engineering-honours"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Electrical & Electronic Engineering with Honours",
-  "program_name_zh": "电气与电子工程荣誉学士",
-  "field_ar": "الهندسة",
-  "field_zh": "工程学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Electrical & Electronic Engineering with Honours",
+ "field": "Electrical & Electronic Engineering",
+ "duration": "4 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 136381,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-electrical-and-electronics-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 139,974."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005344/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-electrical-and-electronics-engineering-honours",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-4861/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Electrical & Electronic Engineering with Honours",
+ "program_name_zh": "电气与电子工程荣誉学士",
+ "field_ar": "الهندسة",
+ "field_zh": "工程学",
+ "description": "يهدف برنامج الهندسة الكهربائية والإلكترونية إلى إعداد مهندسين متخصصين في تصميم وتطوير الأنظمة الكهربائية والإلكترونية وأنظمة التحكم والاتصالات والطاقة. يجمع البرنامج بين المعرفة النظرية والتطبيق العملي من خلال المختبرات والمشاريع والتدريب الصناعي، مع التركيز على الابتكار والتقنيات الذكية. كما يطور مهارات التفكير التحليلي وحل المشكلات والعمل ضمن فرق متعددة التخصصات، ويؤهل الخريجين للعمل في قطاعات الطاقة، والاتصالات، والإلكترونيات، والأتمتة الصناعية، أو لمواصلة الدراسات العليا والبحث العلمي."
 }

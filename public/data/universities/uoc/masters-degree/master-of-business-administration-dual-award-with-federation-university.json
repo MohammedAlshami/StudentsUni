@@ -1,35 +1,52 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Masters Degree",
-  "program_name": "Master of Business Administration (Dual Award with Federation University)",
-  "field": "Business Management & Administration",
-  "slug": "master-of-business-administration-dual-award-with-federation-university",
-  "duration": "1 Year (Full-time) / 2 Years (Part-time)",
-  "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": [
-    "Oct"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 48800,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Masters Degree",
+ "program_name": "Master of Business Administration (Dual Award with Federation University)",
+ "field": "Business Management & Administration",
+ "slug": "master-of-business-administration-dual-award-with-federation-university",
+ "duration": "1 Year (Full-time) / 2 Years (Part-time)",
+ "mode": "Flexible Full-time/Part-time Mode",
+ "intakes": [
+  "Oct"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 48800,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": [
+  {
+   "label": "العمر الأدنى",
+   "value": "18",
+   "note": "سنة"
   },
-  "requirements": null,
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058791/",
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Business Administration (Dual Award with Federation University)",
-  "program_name_zh": "工商管理硕士（与澳大利亚联邦大学双学位）",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业管理与行政"
+  {
+   "label": "المؤهل",
+   "value": "ثانوية معتمدة",
+   "note": "ماجستير"
+  }
+ ],
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058791/",
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D9%88%D8%AC%D8%A9-5849/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Business Administration (Dual Award with Federation University)",
+ "program_name_zh": "工商管理硕士（与澳大利亚联邦大学双学位）",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业管理与行政",
+ "description": "يهدف برنامج إدارة الأعمال (الدرجة المزدوجة) إلى إعداد قادة أعمال يمتلكون رؤية عالمية وخبرة أكاديمية دولية من خلال دراسة منهج متطور بالتعاون مع جامعة شريكة تمنح درجة علمية مزدوجة. يركز البرنامج على الإدارة الدولية، والاستراتيجية، والابتكار، والقيادة، والمالية، والتسويق، وإدارة الأعمال العالمية، مع تنمية مهارات التفكير النقدي والتواصل والعمل في بيئات متعددة الثقافات. كما يمنح الطلبة فرصة اكتساب خبرات أكاديمية ومهنية دولية تعزز قدرتهم على المنافسة في سوق العمل العالمي. ويؤهل البرنامج الخريجين لتولي المناصب القيادية في الشركات المحلية والعالمية والمنظمات الدولية."
 }

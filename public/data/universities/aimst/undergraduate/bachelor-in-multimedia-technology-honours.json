@@ -19,20 +19,19 @@
     "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
+    "local": "STPM Grade C (GP 2.0) x2 subjects. OR STAM Jayyid. OR Matriculation/Foundation CGPA 2.0. OR Diploma Level 4 MQF CGPA 2.0. OR Advanced Diploma Level 5 MQF CGPA 2.0. OR DKM/DVM. OR DLKM. PLUS interview/portfolio + MUET Band 3.",
+    "english_requirement": "MUET Band 3 or equivalent CEFR Low B2"
   },
   "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": "MQA/PA17419",
+    "programme_code": "N/0211/6/0084"
   },
   "sources": [
     "https://www.aimst.edu.my/academic/bachelor-in-multimedia-technology-honours/",
     "https://aimst.edu.my/international-students/"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Multimedia Technology (Honours)",
   "program_name_zh": "多媒体技术学士（荣誉学位）",

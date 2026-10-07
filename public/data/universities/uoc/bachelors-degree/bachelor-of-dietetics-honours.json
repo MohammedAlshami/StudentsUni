@@ -1,47 +1,53 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Bachelor's Degree",
-  "program_name": "Bachelor of Dietetics (Honours)",
-  "field": "Science",
-  "slug": "bachelor-of-dietetics-honours",
-  "duration": "4 years",
-  "mode": "Full-time Study",
-  "intakes": [
-    "Jul",
-    "Mar",
-    "Oct"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 115600,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Bachelor's Degree",
+ "program_name": "Bachelor of Dietetics (Honours)",
+ "field": "Science",
+ "slug": "bachelor-of-dietetics-honours",
+ "duration": "4 years",
+ "mode": "Full-time Study",
+ "intakes": [
+  "Jul",
+  "Mar",
+  "Oct"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 115600,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058806/",
+  {
+   "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058806/",
-    {
-      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Dietetics (Honours)",
-  "program_name_zh": "营养学荣誉学士",
-  "field_ar": "العلوم",
-  "field_zh": "理科"
+  {
+   "url": "https://maigaedu.com/program/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC%D9%8A%D8%A9-5887/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Dietetics (Honours)",
+ "program_name_zh": "营养学荣誉学士",
+ "field_ar": "العلوم",
+ "field_zh": "理科",
+ "description": "يهدف برنامج علم التغذية العلاجية إلى إعداد أخصائيي تغذية يمتلكون المعرفة والمهارات اللازمة لتقديم الاستشارات الغذائية وتعزيز الصحة والوقاية من الأمراض من خلال التغذية السليمة. يركز البرنامج على علوم التغذية، والكيمياء الحيوية، وعلم وظائف الأعضاء، والتغذية العلاجية، وتغذية المجتمع، وسلامة الغذاء، وتقييم الحالة الغذائية، وإدارة خدمات التغذية. كما ينمي البرنامج مهارات التحليل، والتواصل، والبحث العلمي، والعمل ضمن فرق الرعاية الصحية متعددة التخصصات. ويجمع البرنامج بين الدراسة النظرية والتدريب العملي في المستشفيات، والعيادات، ومراكز الصحة العامة، والمؤسسات الغذائية، مما يساعد الطلبة على تطبيق معارفهم في بيئات عمل حقيقية. ويؤهل البرنامج الخريجين للعمل كأخصائيي تغذية علاجية، أو مستشاري تغذية، أو في المؤسسات الصحية والغذائية، إضافة إلى إمكانية مواصلة الدراسات العليا في علوم التغذية والصحة."
 }

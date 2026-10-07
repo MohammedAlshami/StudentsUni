@@ -1,39 +1,45 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "foundation",
-  "program_name": "Foundation for Science Po and Business Management Schools in France (Pre France SPBM)",
-  "program_slug": "foundation-for-science-po-business-management-france",
-  "field": "Business & Management",
-  "duration": "1 Year",
-  "mode": "Full-time",
-  "intakes": [
-    "February"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "International fee not published: the official programme page lists only the local fee (RM62,816, inclusive of tuition, hostel and registration); no international rate is published. Source: https://www.unikl.edu.my/programme/foundation-for-science-po-and-business-management-schools-in-france-pre-france-spbm/ (accessed 2026-09-18)."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": {
-    "mqa_code": null,
-    "valid_until": null,
-    "additional_codes": null
-  },
-  "sources": [
-    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
-    "https://www.unikl.edu.my/programme/foundation-for-science-po-business-management-france/",
-    "https://www.unikl.edu.my/programme/foundation-for-science-po-and-business-management-schools-in-france-pre-france-spbm/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "Foundation for Science Po and Business Management Schools in France (Pre France SPBM)",
-  "program_name_zh": "法国政治学院及商业管理学院预科（法国SPBM预科）",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业与管理"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "foundation",
+ "program_name": "Foundation for Science Po and Business Management Schools in France (Pre France SPBM)",
+ "program_slug": "foundation-for-science-po-business-management-france",
+ "field": "Business & Management",
+ "duration": "1 Year",
+ "mode": "Full-time",
+ "intakes": [
+  "February"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 24980.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-5732/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": {
+  "mqa_code": null,
+  "valid_until": null,
+  "additional_codes": null
+ },
+ "sources": [
+  "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
+  "https://www.unikl.edu.my/programme/foundation-for-science-po-business-management-france/",
+  "https://www.unikl.edu.my/programme/foundation-for-science-po-and-business-management-schools-in-france-pre-france-spbm/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-5732/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "Foundation for Science Po and Business Management Schools in France (Pre France SPBM)",
+ "program_name_zh": "法国政治学院及商业管理学院预科（法国SPBM预科）",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业与管理",
+ "description": "يهدف برنامج إدارة الأعمال إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

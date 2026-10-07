@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "diploma",
-  "program_name": "Diploma in Fashion Design",
-  "field": "Fashion Design",
-  "duration": "2 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 89804,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-fashion-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 4 or TOEFL iBT 30",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0006144/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/diploma-fashion-design"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Fashion Design",
-  "program_name_zh": "时装设计文凭",
-  "field_ar": "التصميم",
-  "field_zh": "时装设计"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "diploma",
+ "program_name": "Diploma in Fashion Design",
+ "field": "Fashion Design",
+ "duration": "2 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 89804,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-fashion-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 4 or TOEFL iBT 30",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0006144/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/diploma-fashion-design",
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D8%B2%D9%8A%D8%A7%D8%A1-4845/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Fashion Design",
+ "program_name_zh": "时装设计文凭",
+ "field_ar": "التصميم",
+ "field_zh": "时装设计",
+ "description": "يهدف تصميم الأزياء إلى إعداد مصممين مبدعين يمتلكون المهارات الفنية والتقنية اللازمة للعمل في صناعة الأزياء الحديثة. يركز البرنامج على تصميم الملابس، والرسم الفني، واختيار الأقمشة، وصناعة النماذج، والخياطة، وإنتاج المجموعات، إلى جانب التعرف على اتجاهات الموضة العالمية. كما يساعد الطلاب على تطوير الإبداع والابتكار واستخدام برامج التصميم الحديثة، مع اكتساب خبرة عملية في تنفيذ المشاريع. يؤهل البرنامج الخريجين للعمل في دور الأزياء، وشركات تصميم الملابس، ومصانع النسيج، ومتاجر الأزياء، أو تأسيس مشاريعهم الخاصة في مجال تصميم الأزياء."
 }

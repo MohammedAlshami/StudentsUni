@@ -1,38 +1,44 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "pre-university",
-  "program_name": "Foundation Programme (Architecture & Design Route)",
-  "program_slug": "foundation-programme-architecture-design",
-  "field": "Architecture & Design",
-  "duration": "1 year",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 28400,
-    "per_year": null,
-    "notes": "StudyMalaysia course page: international fees RM28,400. APU course page does not publish a fee table for this programme. Source: https://studymalaysia.com/what/course/APU/0058857/ (accessed 2026-09-18)."
-  },
-  "requirements": {
-    "english_requirement": "IELTS : 4.0 / TOEFL IBT : 1.5 / Pearson (PTE) : 36 / MUET : Band 3",
-    "other_qualifications": "High school completion",
-    "general": "Industrial Design, Animation & Visual Effects SPM 5 Credits in at least 5 subjects at SPM level with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 5 Credits (Grade C & above) in at least 5 subjects at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC. A qualification that APU accepts as equivalent to the above. Note: Some Degree Programmes may require a Credit in Mathematics at SPM/IGCSE/O-Level or equivalent. The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA). International Students"
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/foundation-programme-architecture-design",
-    "https://www.studymalaysia.com/what/course/APU/0058857/",
-    "https://studymalaysia.com/what/course/APU/0058857/"
-  ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "Foundation Programme (Architecture & Design Route)",
-  "program_name_zh": "基础课程（建筑与设计方向）",
-  "field_ar": "العمارة",
-  "field_zh": "建筑与设计"
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "pre-university",
+ "program_name": "Foundation Programme (Architecture & Design Route)",
+ "program_slug": "foundation-programme-architecture-design",
+ "field": "Architecture & Design",
+ "duration": "1 year",
+ "mode": "Full-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 28400,
+  "per_year": null,
+  "notes": "StudyMalaysia course page: international fees RM28,400. APU course page does not publish a fee table for this programme. Source: https://studymalaysia.com/what/course/APU/0058857/ (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 4.0 / TOEFL IBT : 1.5 / Pearson (PTE) : 36 / MUET : Band 3",
+  "other_qualifications": "High school completion",
+  "general": "Industrial Design, Animation & Visual Effects SPM 5 Credits in at least 5 subjects at SPM level with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 5 Credits (Grade C & above) in at least 5 subjects at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC. A qualification that APU accepts as equivalent to the above. Note: Some Degree Programmes may require a Credit in Mathematics at SPM/IGCSE/O-Level or equivalent. The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA). International Students"
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/foundation-programme-architecture-design",
+  "https://www.studymalaysia.com/what/course/APU/0058857/",
+  "https://studymalaysia.com/what/course/APU/0058857/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85-5690/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.9,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "Foundation Programme (Architecture & Design Route)",
+ "program_name_zh": "基础课程（建筑与设计方向）",
+ "field_ar": "العمارة",
+ "field_zh": "建筑与设计",
+ "description": "يهدف برنامج الهندسة المعمارية والتصميم إلى تأهيل الطالب أكاديمياً ولغوياً للانتقال إلى مرحلة البكالوريوس، من خلال بناء أساس قوي في مهارات الدراسة واللغة والرياضيات والمفاهيم الأساسية المرتبطة بالمسار المختار."
 }

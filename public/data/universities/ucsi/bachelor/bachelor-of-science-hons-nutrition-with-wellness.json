@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Science (Hons) Nutrition with Wellness",
-  "field": "Nutrition with Wellness",
-  "duration": "3 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 140095,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-nutrition-wellness), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "TOEFL iBT 46",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0010013/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-nutrition-wellness"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Science (Hons) Nutrition with Wellness",
-  "program_name_zh": "Science (Hons) Nutrition with Wellness学士",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "营养与健康"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Science (Hons) Nutrition with Wellness",
+ "field": "Nutrition with Wellness",
+ "duration": "3 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 140095,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-nutrition-wellness), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "TOEFL iBT 46",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0010013/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-nutrition-wellness",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%81%D9%8A%D8%A9-4822/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Science (Hons) Nutrition with Wellness",
+ "program_name_zh": "Science (Hons) Nutrition with Wellness学士",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "营养与健康",
+ "description": "يهدف برنامج العلوم في التغذية والعافية إلى إعداد متخصصين قادرين على تعزيز الصحة والوقاية من الأمراض من خلال التغذية السليمة وأنماط الحياة الصحية. يركز البرنامج على علوم التغذية، والعافية، والصحة العامة، والتغذية العلاجية، وتقييم الحالة الغذائية، مع تنمية مهارات التواصل والبحث العلمي. كما يؤهل الخريجين للعمل في المستشفيات، والمراكز الصحية، وشركات الأغذية، ومراكز اللياقة والعافية، أو لمواصلة الدراسات العليا في التغذية والصحة العامة."
 }

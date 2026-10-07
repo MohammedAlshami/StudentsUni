@@ -22,9 +22,14 @@
   },
   "sources": [
     "https://www.klust.edu.my",
-    "https://www.klust.edu.my/academic/postgraduate"
+    "https://www.klust.edu.my/academic/postgraduate",
+    {
+      "url": "https://abeereducation.com/universities/kuala-lumpur-university-klust",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": null,
@@ -32,5 +37,20 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "KLUST does not publish programme fees publicly (fee enquiries by request). See individual programme records."
-  }
+  },
+  "description": "عندما نتحدث عن الدراسة في ماليزيا فان جامعة Kuala Lumpur University of Science and Technology (KLUST) إحدى تلك الجامعات التي تحتل ترتيبًا ومكانة مرتفعة.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01KABMM3SXW4A3H2FZBT16MR7B.jpg",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01KH0ZQ45H6QAVX4KQWBXT5JPV.webp",
+  "faculties": [
+    "برامج السنة التحضيرية (Foundation)",
+    "برامج الدبلوم",
+    "برامج البكالوريوس",
+    "برامج الماجستير",
+    "برامج الدكتوراه"
+  ],
+  "intakes": [
+    "March",
+    "June",
+    "October"
+  ]
 }

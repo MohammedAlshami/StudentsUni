@@ -73,9 +73,19 @@
       "url": "https://www.mmu.edu.my/fee-structure-international/",
       "publisher": "Multimedia University",
       "fetched_at": "2026-09-18"
+    },
+    {
+      "url": "https://abeereducation.com/universities/multimedia-university-mmu",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%85%D9%84%D8%AA%D9%8A%D9%85%D8%AF%D9%8A%D8%A7/38/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
     }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 105000,
@@ -83,5 +93,21 @@
     "per_year_local": 35000,
     "per_year_international": 4500,
     "notes": "Verified international tuition from Multimedia University official 2026 sources: total from RM6,150 to RM104,000 across 77 programmes; values shown are the lowest totals. Sources: https://www.mmu.edu.my/wp-content/uploads/2026/06/October-2026-Pricing-16-JUNE-2026-update-UG-Fee-International-Fee-2026.pdf; https://www.mmu.edu.my/wp-content/uploads/2026/06/2026-Pricing-30-JUNE-2026-UPDATE-PG-Fee-Structure-International-Update-21-04-2026.pdf; https://www.mmu.edu.my/fee-structure-international/"
-  }
+  },
+  "founded_year": 1996,
+  "qs_rank": 851,
+  "local_rank": 16,
+  "student_count": 30000,
+  "international_students": 60,
+  "languages_of_instruction": "الإنجليزية",
+  "recognition": {
+    "مصر": "المجلس الأعلى للجامعات المصري يعادل شهادات الجامعات المعتمدة من MQA. اعتماد MMU الكامل يدعم إمكانية المعادلة لمعظم التخصصات. تواصل معنا لنعلمك وضع تخصصك تحديداً قبل التسجيل.",
+    "السودان": "هيئة الاعتراف والمعادلة السودانية تعترف بالجامعات الماليزية المعتمدة من MQA. MMU مدرجة ضمن هذه الجامعات. يُنصح بالتحقق من وضع التخصص قبل اتخاذ القرار."
+  },
+  "description": "جامعة MMU لم تُبنَ كأي جامعة خاصة عادية. بُنيت عام 1996 من قِبَل شركة Telekom Malaysia الحكومية لغرض واحد: إنتاج مهندسين ومتخصصين في التقنية يواكبون مستقبل الاتصالات والحوسبة. هذه الخلفية تفسر كل شيء: لماذا تصنيفها في Computer Science 171 عالمياً، ولماذا شراكاتها مع Cisco وMicrosoft وOracle وليس مع جامعات فقط.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01JZZGZ89ARFJ32XMJ1TSB45BR.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J30H1RM16WW3TM4154AMS4QG.webp",
+  "intakes": [
+    "March July October"
+  ]
 }

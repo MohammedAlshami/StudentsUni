@@ -15,9 +15,14 @@
   ],
   "total_programs": 13,
   "sources": [
-    "https://www.studymalaysia.com/edu/unimy/courses/"
+    "https://www.studymalaysia.com/edu/unimy/courses/",
+    {
+      "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%8a%d9%88%d9%86%d9%8a-%d9%85%d8%a7%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+      "publisher": "Khutwatuk",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 66000,
@@ -25,5 +30,7 @@
     "per_year_local": 22000,
     "per_year_international": null,
     "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+  },
+  "description": "جامعة UNIMY في ماليزيا لعلوم الكمبيوتر والهندسة ، وهي جامعة بوتيك محترمة تقع في قلب PJ City Centre سيلانجور. تأسست UNIMY في عام 2013 ، هدف جامعة يوني ماي في ماليزيا – UNIMY University إنشاء أمة رقمية. مع تحول المسارات المهنية التقليدية نحو مناهج أكثر ديناميكية ، فإن مؤسستنا مكرسة لإعداد الطلاب لتحديات الثورة الصناعية 4.0 (IR 4.0) والتحول الرقمي السريع الذي يشكل مستقبل التوظيف. في UNIMY ، نحن ملتزمون بتشكيل قادة ومبتكرين الغد. معًا ، لنبدأ رحلة تحويلية نحو مستقبل رقمي مزدهر ، حيث يتم إطلاق العنان لإمكانات كل فرد وتمكينها لإحداث تأثير دائم في العالم أن تكون جامعة رائدة في مجال التكنولوجيا الرقمية وتطوير الخريجين المطلوبين للغاية في بيئة مركزية رقمية نابضة بالحياة تشجع الابتكار والحلول المتقدمة باستخدام التقنيات الرقمية المتسارعة.",
+  "city": "سيلانجور"
 }

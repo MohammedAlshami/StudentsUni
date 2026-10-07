@@ -1,41 +1,47 @@
 {
-  "university": "Universiti Sains Malaysia",
-  "university_slug": "usm",
-  "level": "master",
-  "program_name": "Master of Public Health",
-  "field": "Medicine",
-  "slug": "master-of-public-health",
-  "duration": "FT: Min 2 Sem/Max 4 Sem",
-  "mode": "Flexible Full-time/Part-time",
-  "intakes": [
-    "September"
-  ],
-  "fees": {
-    "currency": "USD",
-    "total": 9000,
-    "per_year": null,
-    "notes": "Official USM international postgraduate tuition (total per programme): USD 9,000; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
+ "university": "Universiti Sains Malaysia",
+ "university_slug": "usm",
+ "level": "master",
+ "program_name": "Master of Public Health",
+ "field": "Medicine",
+ "slug": "master-of-public-health",
+ "duration": "FT: Min 2 Sem/Max 4 Sem",
+ "mode": "Flexible Full-time/Part-time",
+ "intakes": [
+  "September"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 9000,
+  "per_year": null,
+  "notes": "Official USM international postgraduate tuition (total per programme): USD 9,000; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": {
+  "mqa_status": "Full Accreditation",
+  "mqa_ref": null
+ },
+ "sources": [
+  {
+   "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
+   "publisher": "USM Admissions",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": {
-    "mqa_status": "Full Accreditation",
-    "mqa_ref": null
-  },
-  "sources": [
-    {
-      "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
-      "publisher": "USM Admissions",
-      "fetched_at": "2026-09-14"
-    },
-    "https://admission.usm.my/index.php/postgraduate/fee-pg"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Public Health",
-  "program_name_zh": "公共卫生硕士",
-  "field_ar": "الطب",
-  "field_zh": "医学"
+  "https://admission.usm.my/index.php/postgraduate/fee-pg",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-4371/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Public Health",
+ "program_name_zh": "公共卫生硕士",
+ "field_ar": "الطب",
+ "field_zh": "医学",
+ "description": "برنامج ماجستير في الصحة العامة يهدف إلى إعداد متخصصين قادرين على تطوير البرامج الصحية وتحسين صحة المجتمع من خلال السياسات والبحوث. يركز البرنامج على الوبائيات، وتعزيز الصحة، وإدارة الرعاية الصحية، والإحصاء الحيوي، والصحة البيئية، والسياسات الصحية، مع تنمية مهارات البحث وتحليل البيانات الصحية. ويؤهل البرنامج الخريجين للعمل في وزارات الصحة، والمستشفيات، والمنظمات الصحية، والهيئات الحكومية، والمنظمات الدولية، ومراكز الأبحاث."
 }

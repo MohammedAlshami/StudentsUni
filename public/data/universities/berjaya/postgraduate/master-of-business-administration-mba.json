@@ -4,7 +4,7 @@
   "level": "master",
   "program_name": "Master of Business Administration (MBA)",
   "field": "Business Administration",
-  "duration": "1.5 years",
+  "duration": "1 year (FT) / 2 years (PT)",
   "mode": "Full Time",
   "intakes": [
     "January",
@@ -18,9 +18,12 @@
     "notes": "Previous estimate removed: no international student fee is published on Berjaya University College's official programme pages (berjaya.edu.my/university, accessed 2026-09-18); fee details provided on enquiry."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "MUET Band 5; OR IELTS 6.0; OR TOEFL 550/CBT 213/iBT 79-80",
+    "bachelors": "CGPA 2.5; OR 5 years working experience if CGPA below 2.5",
+    "other_qualifications": "Equivalent bachelor's degree"
   },
+  "mqa_ref": "MQA/FA 1978",
+  "programme_code": "R2/340/7/0208",
   "accreditation": null,
   "sources": [
     {

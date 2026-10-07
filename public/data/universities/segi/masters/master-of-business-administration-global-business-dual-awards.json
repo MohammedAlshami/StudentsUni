@@ -1,36 +1,42 @@
 {
-  "university": "SEGi University",
-  "university_slug": "segi",
-  "level": "masters",
-  "program_name": "Master of Business Administration (Global Business) (Dual Awards)",
-  "program_slug": "master-of-business-administration-global-business-dual-awards",
-  "field": "Business Management & Administration",
-  "duration": "1 Year",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "SEGi official website is inaccessible from this environment (Cloudflare bot protection) and no official fee schedule is publicly indexed; set to null rather than use stale aggregator data. Checked segi.edu.my (fetched 2026-09-18)"
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/SEGI/0054566/",
-    "https://eduswasta.my/university/segi-university/"
-  ],
-  "confidence": 0.7,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Business Administration (Global Business) (Dual Awards)",
-  "program_name_zh": "工商管理硕士（环球商务）（双文凭）",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业管理与行政"
+ "university": "SEGi University",
+ "university_slug": "segi",
+ "level": "masters",
+ "program_name": "Master of Business Administration (Global Business) (Dual Awards)",
+ "program_slug": "master-of-business-administration-global-business-dual-awards",
+ "field": "Business Management & Administration",
+ "duration": "1 Year",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 23824.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A3%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86-5414/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/SEGI/0054566/",
+  "https://eduswasta.my/university/segi-university/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A3%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86-5414/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.7,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Business Administration (Global Business) (Dual Awards)",
+ "program_name_zh": "工商管理硕士（环球商务）（双文凭）",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业管理与行政",
+ "description": "يهدف إدارة الأعمال في الأعمال العالمية (أونلاين) إلى إعداد قادة أعمال يمتلكون القدرة على إدارة المؤسسات في بيئة اقتصادية دولية متغيرة من خلال برنامج مرن يعتمد بالكامل على التعلم الإلكتروني. يركز البرنامج على الإدارة الدولية، والتسويق العالمي، والتجارة الدولية، والاقتصاد العالمي، وإدارة سلاسل التوريد، والتمويل الدولي، والقيادة، والاستراتيجية، وإدارة الابتكار، مع تنمية مهارات التفكير الاستراتيجي، والتفاوض، وإدارة الفرق متعددة الثقافات، واتخاذ القرارات في الأسواق العالمية. كما يساعد البرنامج الدارسين على فهم تأثير العولمة، والتحول الرقمي، والتقنيات الحديثة على بيئات الأعمال، وتطوير حلول مبتكرة للتحديات التي تواجه المؤسسات الدولية. وتوفر بيئة التعلم الإلكتروني محتوى تفاعليًا، ودراسات حالة واقعية، ومشاريع جماعية، وإشرافًا أكاديميًا مستمرًا، مما يمنح الطلبة تجربة تعليمية مرنة وعالية الجودة. ويؤهل البرنامج الخريجين للعمل في الشركات متعددة الجنسيات، والمؤسسات الدولية، وإدارة التجارة العالمية، والاستشارات، والمناصب التنفيذية، أو تأسيس مشاريع ذات طابع دولي، بالإضافة إلى إمكانية متابعة الدراسات العليا والبحث العلمي في مجالات الإدارة والأعمال الدولية."
 }

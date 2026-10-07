@@ -1,37 +1,42 @@
 {
-  "university": "University Malaysia of Computer Science & Engineering",
-  "university_slug": "unimy",
-  "level": "bachelors",
-  "program_name": "Bachelor of Computer Science with Honours",
-  "field": "Computing",
-  "duration": "3 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": 21900,
-    "notes": "UNIMY official fee structures page (https://www.unimy.edu.my/fee-structures/), accessed 2026-09-18: international student fee MYR 21,900 per year."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/edu/unimy/courses/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "slug": "bachelor-of-computer-science-with-honours",
-  "program_name_ar": "بكالوريوس Computer Science with Honours",
-  "program_name_zh": "计算机科学荣誉学士",
-  "field_ar": "Computing",
-  "field_zh": "计算机学"
+ "university": "University Malaysia of Computer Science & Engineering",
+ "university_slug": "unimy",
+ "level": "bachelors",
+ "program_name": "Bachelor of Computer Science with Honours",
+ "field": "Computing",
+ "duration": "3 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 46000.0,
+  "per_year": 21900,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%8a%d9%88%d9%86%d9%8a-%d9%85%d8%a7%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/edu/unimy/courses/",
+  {
+   "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%8a%d9%88%d9%86%d9%8a-%d9%85%d8%a7%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "slug": "bachelor-of-computer-science-with-honours",
+ "program_name_ar": "بكالوريوس Computer Science with Honours",
+ "program_name_zh": "计算机科学荣誉学士",
+ "field_ar": "Computing",
+ "field_zh": "计算机学"
 }

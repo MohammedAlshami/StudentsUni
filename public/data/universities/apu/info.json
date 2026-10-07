@@ -32,9 +32,19 @@
   "sources": [
     "https://www.apu.edu.my",
     "https://www.studymalaysia.com/edu/apu/courses/",
-    "https://www.apu.edu.my/fees"
+    "https://www.apu.edu.my/fees",
+    {
+      "url": "https://abeereducation.com/universities/asia-pacific-university-apu",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7-%D8%A7%D9%84%D8%A2%D8%B3%D9%8A%D9%88%D9%8A/14/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 19500,
@@ -42,5 +52,39 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "APU official course pages (international student fees; excludes 6% SST). Totals range from RM21,200 (Foundation in Computing ODL) to RM137,200 (engineering bachelors); Malaysian from RM19,500. Per-programme figures are on each programme page. Source: https://www.apu.edu.my/fees and APU course pages (accessed 2026-09-18)."
-  }
+  },
+  "founded_year": 1993,
+  "qs_rank": 597,
+  "qs_year": 2026,
+  "local_rank": 37,
+  "student_count": 11000,
+  "employability": "100% فور التخرج",
+  "alumni_count": 90000,
+  "languages_of_instruction": "الإنجليزية 100%",
+  "recognition": {
+    "مصر": "المجلس الأعلى للجامعات المصرية (SCU) يعادل شهادات الجامعات الأجنبية المعتمدة. APU معتمدة من MQA ماليزيا وQAA بريطانيا، وهذا يدعم إمكانية المعادلة. خطوات المعادلة تشمل تقديم الشهادة وكشف الدرجات للمجلس الأعلى للجامعات مع ترجمة معتمدة ودفع رسوم المعادلة. تحذير مهم: المعادلة قد تختلف حسب التخصص. راجع المجلس الأعلى للجامعات على موقع scu.eun.eg للتأكد من وضع تخصصك تحديداً قبل التقديم.",
+    "السودان": "هيئة الاعتراف والمعادلة السودانية تعترف بالجامعات الماليزية المعتمدة من MQA. APU معتمدة من MQA وهذا أساس الاعتراف في السودان. يُنصح بالتواصل مع هيئة الاعتراف للتأكد من وضع التخصص المطلوب قبل التسجيل.",
+    "السعودية": "المركز الوطني للمعادلات يعادل شهادات الجامعات الماليزية المعتمدة من MQA. تخصصات التقنية كـ AI وCybersecurity معادلة سريعة",
+    "الإمارات": "وزارة التعليم تعادل شهادات MQA. الشهادة البريطانية المزدوجة من De Montfort تُقبل بدون مشاكل",
+    "قطر": "وزارة التعليم تعادل الجامعات الماليزية المعتمدة. خريجو APU يعملون في شركات قطرية كبرى",
+    "عمان": "APU ضمن الجامعات الماليزية المعترف بها في عمان. المعادلة عبر وزارة التعليم العالي"
+  },
+  "description": "جامعة APU (Asia Pacific University of Technology & Innovation) جامعة خاصة تقنية دولية في كوالالمبور، مصنفة ضمن أفضل 2% من الجامعات عالمياً وفق QS 2026. تأسست عام 1993 وتضم أكثر من 11,000 طالب من 130 دولة، مع تركيز كامل على التخصصات التقنية الحديثة والذكاء الاصطناعي والأمن السيبراني.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J406N6X2JGCHX47MP375RAFX.png",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J30GSKWJ8G9P5K7KK7EAN82N.webp",
+  "faculties": [
+    "الحوسبة والتكنولوجيا",
+    "الهندسة",
+    "الأعمال والإدارة",
+    "المحاسبة والمالية",
+    "التصميم والإعلام",
+    "الدراسات العليا"
+  ],
+  "intakes": [
+    "March",
+    "July",
+    "September",
+    "November"
+  ],
+  "city": "كوالالمبور"
 }

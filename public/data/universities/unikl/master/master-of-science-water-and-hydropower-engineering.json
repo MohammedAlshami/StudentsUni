@@ -1,44 +1,50 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "master",
-  "program_name": "Master of Science (Water and Hydropower Engineering)",
-  "program_slug": "master-of-science-water-and-hydropower-engineering",
-  "field": "Engineering",
-  "duration": "2 years",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 110400,
-    "per_year": null,
-    "notes": "Official international tuition: RM110,400 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-science-water-and-hydropower-engineering/ (accessed 2026-09-18)"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "master",
+ "program_name": "Master of Science (Water and Hydropower Engineering)",
+ "program_slug": "master-of-science-water-and-hydropower-engineering",
+ "field": "Engineering",
+ "duration": "2 years",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 110400,
+  "per_year": null,
+  "notes": "Official international tuition: RM110,400 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-science-water-and-hydropower-engineering/ (accessed 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.unikl.edu.my/postgraduate-admission/",
+  {
+   "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-science-water-and-hydropower-engineering-293776/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+  {
+   "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-science-pharmacy-293797/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "accreditation": null,
-  "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/",
-    {
-      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-science-water-and-hydropower-engineering-293776/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-science-pharmacy-293797/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    "https://www.unikl.edu.my/programme/master-of-science-water-and-hydropower-engineering/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Science (Water and Hydropower Engineering)",
-  "program_name_zh": "水利水电工程理学硕士",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+  "https://www.unikl.edu.my/programme/master-of-science-water-and-hydropower-engineering/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D9%88%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D9%88%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-5695/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Science (Water and Hydropower Engineering)",
+ "program_name_zh": "水利水电工程理学硕士",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "يهدف برنامج العلوم (هندسة المياه والطاقة الكهرومائية) إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Music (Hons) Contemporary Music",
-  "field": "Contemporary Music",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 167757,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-contemporary-music-hons), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL iBT 40",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005870/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-contemporary-music-hons"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Music (Hons) Contemporary Music",
-  "program_name_zh": "Music (Hons) Contemporary Music学士",
-  "field_ar": "الموسيقى",
-  "field_zh": "音乐学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Music (Hons) Contemporary Music",
+ "field": "Contemporary Music",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 167757,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-contemporary-music-hons), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL iBT 40",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005870/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-contemporary-music-hons",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%D8%A9-4833/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Music (Hons) Contemporary Music",
+ "program_name_zh": "Music (Hons) Contemporary Music学士",
+ "field_ar": "الموسيقى",
+ "field_zh": "音乐学",
+ "description": "يهدف برنامج الموسيقى في الموسيقى المعاصرة إلى إعداد فنانين يمتلكون المعرفة والمهارات اللازمة للعمل في صناعة الموسيقى الحديثة. يركز البرنامج على الأداء الموسيقي، والإنتاج الموسيقي، والتأليف، وكتابة الأغاني، وتقنيات التسجيل، والتكنولوجيا الموسيقية. كما ينمي مهارات الإبداع، والعمل الجماعي، وإدارة المشاريع الفنية، والتواصل مع الجمهور. يوفر البرنامج خبرة عملية من خلال العروض والتسجيلات، ويؤهل الخريجين للعمل كمؤدين، ومنتجين، وملحنين، ومؤلفين موسيقيين، أو في شركات الإنتاج الموسيقي."
 }

@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Science (Hons) Business Information System",
-  "field": "Business Information System",
-  "duration": "3 Years (14 weeks per semester, 7 weeks per short semester)",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 114651,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-business-information-systems-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 116,792."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL iBT 42",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005503/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-business-information-systems-honours"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Science (Hons) Business Information System",
-  "program_name_zh": "Science (Hons) Business Information System学士",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业管理"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Science (Hons) Business Information System",
+ "field": "Business Information System",
+ "duration": "3 Years (14 weeks per semester, 7 weeks per short semester)",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 114651,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-business-information-systems-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 116,792."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL iBT 42",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005503/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-business-information-systems-honours",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D9%86%D8%B8%D9%85-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-4923/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Science (Hons) Business Information System",
+ "program_name_zh": "Science (Hons) Business Information System学士",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业管理",
+ "description": "يهدف برنامج العلوم في نظم معلومات الأعمال إلى إعداد متخصصين يجمعون بين المعرفة التقنية والإدارية لتطوير وإدارة الأنظمة الرقمية الداعمة للأعمال. يركز البرنامج على تحليل الأعمال، وإدارة قواعد البيانات، وتحليل النظم، وإدارة المشاريع، والذكاء الاصطناعي، والتحول الرقمي، مع تنمية مهارات البرمجة والتواصل وحل المشكلات. كما يوفر البرنامج خبرة عملية من خلال المشاريع والتدريب، ويؤهل الخريجين للعمل في تحليل النظم، وإدارة المعلومات، والاستشارات التقنية، والتحول الرقمي، أو لمواصلة الدراسات العليا."
 }

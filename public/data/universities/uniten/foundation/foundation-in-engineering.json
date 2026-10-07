@@ -1,47 +1,53 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "foundation",
-  "program_name": "Foundation in Engineering",
-  "program_slug": "foundation-in-engineering",
-  "field": "Engineering",
-  "duration": "1 year (Full-time)",
-  "mode": "Full-time",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 21800,
-    "per_year": 21800,
-    "notes": "International student tuition: RM21,800 total. Source: https://www.uniten.edu.my/programme/foundation/foundation-in-engineering/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 1yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "foundation",
+ "program_name": "Foundation in Engineering",
+ "program_slug": "foundation-in-engineering",
+ "field": "Engineering",
+ "duration": "1 year (Full-time)",
+ "mode": "Full-time",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 21800,
+  "per_year": 21800,
+  "notes": "International student tuition: RM21,800 total. Source: https://www.uniten.edu.my/programme/foundation/foundation-in-engineering/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 1yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "Test of English Proficiency (TEP) or English Short Course (ESC) required if English requirement is not met (UNITEN).",
+  "other_qualifications": "Pass SPM/O-Level with minimum 5 credits (Grade C) including Mathematics/Additional Mathematics, Physics and English; or UEC with minimum 3 subjects Grade B6 including English, Mathematics/Advanced Mathematics and Physics."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "R3/0011/3/0230 (06/28) (MQA/A9167)"
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/foundation/foundation-in-engineering/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "Test of English Proficiency (TEP) or English Short Course (ESC) required if English requirement is not met (UNITEN).",
-    "other_qualifications": "Pass SPM/O-Level with minimum 5 credits (Grade C) including Mathematics/Additional Mathematics, Physics and English; or UEC with minimum 3 subjects Grade B6 including English, Mathematics/Advanced Mathematics and Physics."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "R3/0011/3/0230 (06/28) (MQA/A9167)"
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/foundation/foundation-in-engineering/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Engineering",
-  "program_name_zh": "工程基础课程",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-4401/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Engineering",
+ "program_name_zh": "工程基础课程",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "تهدف الهندسة إلى إعداد الطلبة أكاديميًا ومهاريًا للالتحاق ببرامج البكالوريوس في مختلف التخصصات الهندسية، من خلال بناء قاعدة علمية قوية في الرياضيات، والفيزياء، والكيمياء، وتقنية المعلومات، واللغة الإنجليزية، إلى جانب تنمية مهارات التفكير الهندسي وحل المشكلات. يركز البرنامج على تعريف الطلبة بالمفاهيم الأساسية للهندسة وتطبيقاتها في الحياة العملية، مع تعزيز مهارات التحليل، والاستنتاج، والعمل الجماعي، والتواصل، وإدارة الوقت، والتي تُعد ضرورية للنجاح في الدراسة الجامعية. كما يساعد البرنامج الطلبة على اكتساب مهارات استخدام البرمجيات الأساسية والأدوات العلمية، وفهم المبادئ الأولية للتصميم الهندسي والبحث العلمي. ويعتمد البرنامج على أساليب تعليم حديثة تشمل المحاضرات، والأنشطة التطبيقية، والمختبرات العلمية، مما يساعد الطلبة على تطوير قدراتهم الأكاديمية والعملية. كما يوفر بيئة تعليمية داعمة تسهم في تهيئة الطلبة لمواجهة متطلبات البرامج الهندسية المتخصصة، وتعزيز ثقتهم في قدراتهم العلمية. ويؤهل البرنامج الطلبة للانتقال إلى برامج البكالوريوس في الهندسة المدنية، والهندسة الميكانيكية، والهندسة الكهربائية، والإلكترونية، وغيرها من التخصصات الهندسية، مع امتلاك أساس علمي متين يساعدهم على تحقيق النجاح في مسيرتهم الأكاديمية والمهنية."
 }

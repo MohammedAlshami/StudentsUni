@@ -1,44 +1,50 @@
 {
-  "program_name": "Bachelor of Information Technology in Graphics and Multimedia (Hons)",
-  "field": "",
-  "duration": "3 years (Full-time)",
-  "mode": "Onsite",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 82500,
-    "per_year": 27500,
-    "notes": "Legacy file name; maps to the official Bachelor in Information Technology (Graphics & Multimedia) (Honours). International student tuition: RM82,500 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-information-technology-graphics-multimedia-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM78,000. per_year = total / 3yr nominal duration."
+ "program_name": "Bachelor of Information Technology in Graphics and Multimedia (Hons)",
+ "field": "",
+ "duration": "3 years (Full-time)",
+ "mode": "Onsite",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 82500,
+  "per_year": 27500,
+  "notes": "Legacy file name; maps to the official Bachelor in Information Technology (Graphics & Multimedia) (Honours). International student tuition: RM82,500 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-information-technology-graphics-multimedia-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM78,000. per_year = total / 3yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+  "a_level": "2 Principals (C+)",
+  "ib": "24 points",
+  "other_qualifications": "STPM with minimum Grade C (CGPA 2.00) in any 2 subjects and Mathematics (Grade C); or STAM with minimum JAYYID in any 2 subjects and Mathematics (Grade C); or Matriculation/Foundation in a related field with minimum CGPA 2.00 and Mathematics SPM (Grade C); or Diploma in Computing with minimum CGPA 2.50.",
+  "general": "Foundation in Information Technology SPM / O-Level: Pass with 5 credits Math: C 4 additional subjects: C UEC: Pass with Grade B in 4 subjects Math: B 3 additional subjects: B Foundation in Computer Science SPM / O-Level: Pass with 5 credits Math: C 2 Science subjects: C 2 additional subjects: C UEC: Pass with Grade B in 4 subjects Advanced Math: B 3 additional subjects: B  All Engineering Programmes STPM: Pass with Grade C (CGPA 2.00) Math: C Physics: C A-Level: Pass with Grade D in 2 subjects Math: D Physics: D Matriculation / Foundation: Pass with CGPA 2.00 Diploma: Pass Diploma in a related field (CGPA 2.00) UEC: Pass with Grade B in 5 subjects Math: B Physics: B IB: Total 24 points in 6 subjects, including Mathematics &amp; Physics Other Qualifications: Pass in SAM / SACE / AUSMAT / WACE / Ontario SSD (55% in Math + any Physical Science) Pass American Degree Transfer Programme (ADTP) (CGPA 2.00 in 2 years)  Information System (Business Analytics) &amp; Information Technology (Graphics &amp; Multimedia) STPM / STAM: Pass with Grade C / JAYYID in any 2 subjects Math (SPM): C Matriculation / Foundation: Pass with CGPA 2.00 Math (SPM): C Diploma (Computing Field): Pass with CGPA 2.50 Diploma (Non-Computing Field): Pass with CGPA 2.75 A-Level: Pass with Grade D in any 2 subjects Math (SPM): E UEC: Pass with Grade B in 5 subjects Math: B English: B 1 subject Science / ICT: B IB: Pass with 24 points Math: included Math (SPM): E Other Qualifications: Pass SAM / SACE / AUSMAT / WACE / ADTP (CGPA 2.00 in 2 years) Math: C Math (SPM): E   ENGLISH REQUIREMENTS For Malaysian Students: Malaysian students may enrol without MUET. However, students are required to complete MUET during duration of study (before graduation). IELTS (5.0 and above) or TOEFL (500 and above) or TOEFL Internet Based Test (42 and above) is also accepted. MUET – Malaysia University English Test Achieve Band 1 and above For International Students: International students are required to have one of the English proficiency score stated below to enrol in UNITEN. Bachelor students who do not fulfill this English requirement are required to sit for the Intensive English Programme (IEP) and pass the requirement below before starting their Bachelor programme. MUET – Malaysia University English Test Achieve Band 3.5 and above   IELTS – International English Language Testing System Achieve 5.0 and above   TOEFL - Test of English as a Foreign Language Achieve 500 (TOEFL) or 42 (TOEFL Internet Based Test) and above"
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "R3/0611/6/0004 (03/31) (MQA/A9888)"
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-information-technology-graphics-multimedia-honours/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "STPM with minimum Grade C (CGPA 2.00) in any 2 subjects and Mathematics (Grade C); or STAM with minimum JAYYID in any 2 subjects and Mathematics (Grade C); or Matriculation/Foundation in a related field with minimum CGPA 2.00 and Mathematics SPM (Grade C); or Diploma in Computing with minimum CGPA 2.50.",
-    "general": "Foundation in Information Technology SPM / O-Level: Pass with 5 credits Math: C 4 additional subjects: C UEC: Pass with Grade B in 4 subjects Math: B 3 additional subjects: B Foundation in Computer Science SPM / O-Level: Pass with 5 credits Math: C 2 Science subjects: C 2 additional subjects: C UEC: Pass with Grade B in 4 subjects Advanced Math: B 3 additional subjects: B  All Engineering Programmes STPM: Pass with Grade C (CGPA 2.00) Math: C Physics: C A-Level: Pass with Grade D in 2 subjects Math: D Physics: D Matriculation / Foundation: Pass with CGPA 2.00 Diploma: Pass Diploma in a related field (CGPA 2.00) UEC: Pass with Grade B in 5 subjects Math: B Physics: B IB: Total 24 points in 6 subjects, including Mathematics &amp; Physics Other Qualifications: Pass in SAM / SACE / AUSMAT / WACE / Ontario SSD (55% in Math + any Physical Science) Pass American Degree Transfer Programme (ADTP) (CGPA 2.00 in 2 years)  Information System (Business Analytics) &amp; Information Technology (Graphics &amp; Multimedia) STPM / STAM: Pass with Grade C / JAYYID in any 2 subjects Math (SPM): C Matriculation / Foundation: Pass with CGPA 2.00 Math (SPM): C Diploma (Computing Field): Pass with CGPA 2.50 Diploma (Non-Computing Field): Pass with CGPA 2.75 A-Level: Pass with Grade D in any 2 subjects Math (SPM): E UEC: Pass with Grade B in 5 subjects Math: B English: B 1 subject Science / ICT: B IB: Pass with 24 points Math: included Math (SPM): E Other Qualifications: Pass SAM / SACE / AUSMAT / WACE / ADTP (CGPA 2.00 in 2 years) Math: C Math (SPM): E   ENGLISH REQUIREMENTS For Malaysian Students: Malaysian students may enrol without MUET. However, students are required to complete MUET during duration of study (before graduation). IELTS (5.0 and above) or TOEFL (500 and above) or TOEFL Internet Based Test (42 and above) is also accepted. MUET – Malaysia University English Test Achieve Band 1 and above For International Students: International students are required to have one of the English proficiency score stated below to enrol in UNITEN. Bachelor students who do not fulfill this English requirement are required to sit for the Intensive English Programme (IEP) and pass the requirement below before starting their Bachelor programme. MUET – Malaysia University English Test Achieve Band 3.5 and above   IELTS – International English Language Testing System Achieve 5.0 and above   TOEFL - Test of English as a Foreign Language Achieve 500 (TOEFL) or 42 (TOEFL Internet Based Test) and above"
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "R3/0611/6/0004 (03/31) (MQA/A9888)"
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-information-technology-graphics-multimedia-honours/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Information Technology in Graphics and Multimedia (Hons)",
-  "program_name_zh": "Information Technology in Graphics and Multimedia (Hons)学士"
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9-4423/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Information Technology in Graphics and Multimedia (Hons)",
+ "program_name_zh": "Information Technology in Graphics and Multimedia (Hons)学士",
+ "description": "يهدف بكالوريوس تقنية المعلومات (الرسومات والوسائط المتعددة) إلى إعداد متخصصين يمتلكون مهارات تقنية وإبداعية في تصميم وتطوير المحتوى الرقمي والوسائط التفاعلية. يدرس الطلبة التصميم الرقمي، والرسوم المتحركة، وتطوير تطبيقات الوسائط المتعددة، وتجربة المستخدم، وإنتاج الفيديو، والبرمجة، وتقنيات الويب، مع التركيز على تنمية الإبداع، والتفكير التصميمي، والعمل الجماعي، واستخدام أحدث البرمجيات الاحترافية. كما يجمع البرنامج بين الدراسة الأكاديمية والمشاريع التطبيقية التي تساعد الطلبة على بناء ملف أعمال احترافي يعكس مهاراتهم التقنية والفنية. ويواكب البرنامج التطورات في الواقع الافتراضي، والواقع المعزز، وصناعة الألعاب، والإعلام الرقمي، مما يعزز فرص الخريجين في سوق العمل. ويؤهل البرنامج للعمل في شركات التصميم والإنتاج الرقمي، ووكالات الإعلان، وشركات تطوير الألعاب، والمؤسسات الإعلامية، أو متابعة الدراسات العليا في الوسائط المتعددة وتقنية المعلومات."
 }

@@ -1,0 +1,43 @@
+{
+  "university": "Albukhary International University",
+  "university_slug": "aiu",
+  "level": "undergraduate",
+  "program_name": "Bachelor in Data Science (Honours)",
+  "program_slug": "bachelor-in-data-science-honours",
+  "field": "Computing & Technology",
+  "duration": "3 years (9 semesters)",
+  "mode": "Full-time",
+  "intakes": [
+    "Oct"
+  ],
+  "credits": 120,
+  "school": "School of Computing and Informatics",
+  "fees": {
+    "currency": "MYR",
+    "total": null,
+    "per_year": null,
+    "notes": "Fully funded by Albukhary Foundation scholarships for eligible students. No self-funded tuition fee is published. Postgraduate students are not eligible for AIU scholarships. Verified 2026-09-18."
+  },
+  "requirements": {
+    "english_requirement": "IELTS 5.0 or TOEFL 550; Malaysian: MUET Band 4",
+    "a_level": "2 Principals (C+)",
+    "ib": "24 points",
+    "other_qualifications": "Equivalent qualification"
+  },
+  "accreditation": "MQA/PA 16976",
+  "programme_code": "N/0613/6/0071",
+  "sources": [
+    "https://www.aiu.edu.my/academics",
+    {
+      "url": "https://aiu.edu.my/scholarship/",
+      "publisher": "Albukhary International University",
+      "fetched_at": "2026-09-18"
+    }
+  ],
+  "confidence": 0.95,
+  "last_updated": "2026-09-18",
+  "program_name_ar": "بكالوريوس Data Science (Honours)",
+  "program_name_zh": "数据科学学士（荣誉学位）",
+  "field_ar": "Computing & Technology",
+  "field_zh": "计算机与科技"
+}

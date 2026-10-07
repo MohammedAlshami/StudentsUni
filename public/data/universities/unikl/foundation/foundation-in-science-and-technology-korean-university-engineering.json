@@ -1,39 +1,45 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "foundation",
-  "program_name": "Foundation in Science and Technology for Korean University - Engineering",
-  "program_slug": "foundation-in-science-and-technology-korean-university-engineering",
-  "field": "Engineering",
-  "duration": "1 Year",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 42900,
-    "per_year": 42900,
-    "notes": "International tuition per the official UniKL programme page: RM14,300 per semester, RM42,900 total for 3 semesters (1 year); excludes visa processing and SST. Source: https://www.unikl.edu.my/programme/foundation-in-science-and-technology-for-korean-university/ (accessed 2026-09-18)."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": {
-    "mqa_code": null,
-    "valid_until": null,
-    "additional_codes": null
-  },
-  "sources": [
-    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
-    "https://www.unikl.edu.my/programme/foundation-in-science-and-technology-korean-university-engineering/",
-    "https://www.unikl.edu.my/programme/foundation-in-science-and-technology-for-korean-university/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Science and Technology for Korean University - Engineering",
-  "program_name_zh": "韩国大学理工科基础课程——工程",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "foundation",
+ "program_name": "Foundation in Science and Technology for Korean University - Engineering",
+ "program_slug": "foundation-in-science-and-technology-korean-university-engineering",
+ "field": "Engineering",
+ "duration": "1 Year",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 42900,
+  "per_year": 42900,
+  "notes": "International tuition per the official UniKL programme page: RM14,300 per semester, RM42,900 total for 3 semesters (1 year); excludes visa processing and SST. Source: https://www.unikl.edu.my/programme/foundation-in-science-and-technology-for-korean-university/ (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": {
+  "mqa_code": null,
+  "valid_until": null,
+  "additional_codes": null
+ },
+ "sources": [
+  "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
+  "https://www.unikl.edu.my/programme/foundation-in-science-and-technology-korean-university-engineering/",
+  "https://www.unikl.edu.my/programme/foundation-in-science-and-technology-for-korean-university/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-5711/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Science and Technology for Korean University - Engineering",
+ "program_name_zh": "韩国大学理工科基础课程——工程",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "يهدف برنامج العلوم والتكنولوجيا إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

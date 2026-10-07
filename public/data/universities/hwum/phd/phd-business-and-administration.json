@@ -1,45 +1,50 @@
 {
-  "university": "Heriot-Watt University Malaysia",
-  "university_slug": "hwum",
-  "level": "phd",
-  "program_name": "PhD Business and Administration",
-  "program_slug": "phd-business-and-administration",
-  "field": "",
-  "duration": "3 years",
-  "mode": "Onsite",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": 42612,
-    "notes": "Annual international fee RM42,612 (full-time, incl. SST); total depends on duration. Official 2026/27 international fee incl. 6% SST. Source: https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees and Fee-International.pdf (as of Jan 2026), fetched 2026-09-18."
+ "university": "Heriot-Watt University Malaysia",
+ "university_slug": "hwum",
+ "level": "phd",
+ "program_name": "PhD Business and Administration",
+ "program_slug": "phd-business-and-administration",
+ "field": "",
+ "duration": "3 years",
+ "mode": "Onsite",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 38640.0,
+  "per_year": 42612,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d8%b1%d9%8a%d9%88%d8%aa-%d9%88%d8%a7%d8%aa-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-heriot-watt-malaysia/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.5 or TOEFL 95",
+  "other_qualifications": "Master degree with research experience"
+ },
+ "accreditation": {
+  "mqa_status": null,
+  "mqa_ref": null
+ },
+ "sources": [
+  {
+   "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/phd-business-and-administration-294624/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.5 or TOEFL 95",
-    "other_qualifications": "Master degree with research experience"
+  {
+   "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
+   "publisher": "Heriot-Watt University Malaysia",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
-  },
-  "sources": [
-    {
-      "url": "https://www.easyuni.my/malaysia/heriot-watt-university-malaysia-11472/phd-business-and-administration-294624/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://www.hw.ac.uk/malaysia/study/fees-and-funding/tuition-fees",
-      "publisher": "Heriot-Watt University Malaysia",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دكتوراه فلسفة Administration",
-  "program_name_zh": "工商管理学博士"
+  {
+   "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d8%b1%d9%8a%d9%88%d8%aa-%d9%88%d8%a7%d8%aa-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-heriot-watt-malaysia/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دكتوراه فلسفة Administration",
+ "program_name_zh": "工商管理学博士"
 }

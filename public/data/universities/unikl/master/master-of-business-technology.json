@@ -1,34 +1,40 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "master",
-  "program_name": "Master of Business Technology",
-  "program_slug": "master-of-business-technology",
-  "field": "Business & Technology",
-  "duration": "1.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 28080,
-    "per_year": null,
-    "notes": "Official international tuition: full-time RM14,040/semester, RM28,080 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-business-technology/ (accessed 2026-09-18)"
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/",
-    "https://www.unikl.edu.my/programme/master-of-business-technology/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Business Technology",
-  "program_name_zh": "商业技术硕士",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业与技术"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "master",
+ "program_name": "Master of Business Technology",
+ "program_slug": "master-of-business-technology",
+ "field": "Business & Technology",
+ "duration": "1.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 28080,
+  "per_year": null,
+  "notes": "Official international tuition: full-time RM14,040/semester, RM28,080 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-business-technology/ (accessed 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.unikl.edu.my/postgraduate-admission/",
+  "https://www.unikl.edu.my/programme/master-of-business-technology/",
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-5722/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Business Technology",
+ "program_name_zh": "商业技术硕士",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业与技术",
+ "description": "يهدف برنامج تكنولوجيا الأعمال إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

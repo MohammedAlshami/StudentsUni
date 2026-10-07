@@ -5,8 +5,8 @@
   "program_name": "Master of Nursing Science",
   "slug": "master-of-nursing-science",
   "field": "Nursing",
-  "duration": "1.5 years",
-  "mode": "Full-time",
+  "duration": "2-6 years (full-time research)",
+  "mode": "Research-based",
   "intakes": [
     "Sep",
     "Feb",
@@ -19,18 +19,19 @@
     "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "local": "Bachelor's degree CGPA 2.75. CGPA 2.50-2.74 accepted via internal assessment. CGPA <2.50 requires 5+ years work experience.",
+    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90"
   },
   "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": "MQA/PA18113",
+    "programme_code": "N/0913/7/0011"
   },
   "sources": [
     "https://www.aimst.edu.my/academic/master-of-nursing-science/",
     "https://aimst.edu.my/international-students/"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Nursing Science",
   "program_name_zh": "护理学硕士",

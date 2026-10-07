@@ -13,11 +13,21 @@
     "phd"
   ],
   "total_programs": 62,
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "sources": [
     "https://university.taylors.edu.my/en/study/explore-all-programmes.html",
     "https://university.taylors.edu.my/en.html",
-    "https://university.taylors.edu.my/en/study/scholarships-and-financial-aid/fees-schedules.html"
+    "https://university.taylors.edu.my/en/study/scholarships-and-financial-aid/fees-schedules.html",
+    {
+      "url": "https://abeereducation.com/universities/taylors-university",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AA%D8%A7%D9%8A%D9%84%D9%88%D8%B1%D8%B2/46/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    }
   ],
   "fees": {
     "currency": "MYR",
@@ -26,5 +36,29 @@
     "per_year_local": 35000,
     "per_year_international": 16709,
     "notes": "Verified international student fees: published programme totals RM18,514-RM512,760; published per-year figures RM16,709-RM102,552 (MYR, before any separate service tax where noted). Some programmes have no published international fee (null). See individual programme files. Sources: https://university.taylors.edu.my/en/study/scholarships-and-financial-aid/fees-schedules.html (accessed 2026-09-18)."
-  }
+  },
+  "founded_year": 1969,
+  "qs_rank": 253,
+  "local_rank": 34,
+  "student_count": 22000,
+  "languages_of_instruction": "الإنجليزية",
+  "accreditation": "MQA، Self-Accreditation Status (2025)، SETARA",
+  "recognition": {
+    "مصر": "المجلس الأعلى للجامعات المصري يعادل شهادات الجامعات المعتمدة من MQA. Taylor's معتمدة بالكامل وتصنيفها العالمي يدعم ملف المعادلة بشكل أقوى من معظم الجامعات الماليزية الأخرى. تواصل معنا لنعلمك وضع تخصصك تحديداً قبل التسجيل.",
+    "السودان": "هيئة الاعتراف والمعادلة السودانية تعترف بالجامعات الماليزية المعتمدة من MQA. Taylor's مدرجة ضمن هذه الجامعات. يُنصح بالتواصل مع الهيئة للتأكد من وضع التخصص المطلوب قبل اتخاذ القرار."
+  },
+  "description": "المرتبة 253 عالمياً بين آلاف الجامعات، الأولى بين كل الجامعات الخاصة في جنوب شرق آسيا لأربع سنوات متتالية، وحرم جامعي على ضفاف بحيرة فاز بجائزة أفضل مشروع معماري في ماليزيا. Taylor's University ليست مجرد جامعة خاصة في سوبانغ جايا، بل مؤسسة بنت مكانتها على خمسة عقود من العمل الأكاديمي الجاد منذ 1969.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J30H4FHFVTW2MXVZWZ8MGPMN.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J30H4FHHK5KQV856F886FP6Y.webp",
+  "faculties": [
+    "لماذا الرسوم أعلى من غيرها",
+    "المنح الدراسية",
+    "تكاليف المعيشة في سوبانغ جايا"
+  ],
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "city": "سيلانغور (20 دقيقة من كوالالمبور)"
 }

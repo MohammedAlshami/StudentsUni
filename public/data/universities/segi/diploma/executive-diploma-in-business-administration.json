@@ -1,39 +1,45 @@
 {
-  "university": "SEGi University",
-  "university_slug": "segi",
-  "level": "diploma",
-  "program_name": "Executive Diploma in Business Administration",
-  "program_slug": "executive-diploma-in-business-administration",
-  "field": "Business Management & Administration",
-  "duration": "2.5 – 3 Yrs",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "SEGi official website is inaccessible from this environment (Cloudflare bot protection) and no official fee schedule is publicly indexed; set to null rather than use stale aggregator data. Checked segi.edu.my (fetched 2026-09-18)"
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": "MQA/FA4032",
-  "campus": "SEGi University Kota Damansara",
-  "exam_body": "Internal Diploma, Malaysia",
-  "sources": [
-    "https://studymalaysia.com/what/course/SEGI/0005819/",
-    "https://eduswasta.my/university/segi-university/"
-  ],
-  "confidence": 0.85,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "Executive Diploma in Business Administration",
-  "program_name_zh": "Executive Diploma in Business Administration",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业管理与行政"
+ "university": "SEGi University",
+ "university_slug": "segi",
+ "level": "diploma",
+ "program_name": "Executive Diploma in Business Administration",
+ "program_slug": "executive-diploma-in-business-administration",
+ "field": "Business Management & Administration",
+ "duration": "2.5 – 3 Yrs",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 28904.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D9%81%D9%8A-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A3%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86-5407/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": "MQA/FA4032",
+ "campus": "SEGi University Kota Damansara",
+ "exam_body": "Internal Diploma, Malaysia",
+ "sources": [
+  "https://studymalaysia.com/what/course/SEGI/0005819/",
+  "https://eduswasta.my/university/segi-university/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A-%D9%81%D9%8A-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A3%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86-5407/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.85,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "Executive Diploma in Business Administration",
+ "program_name_zh": "Executive Diploma in Business Administration",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业管理与行政",
+ "description": "صُمم الدبلوم التنفيذي في إدارة الأعمال (أونلاين) لتلبية احتياجات الموظفين ورواد الأعمال والراغبين في تطوير مهاراتهم الإدارية من خلال برنامج مرن يعتمد على التعلم الإلكتروني. يركز البرنامج على المفاهيم الأساسية في الإدارة، والتسويق، والإدارة المالية، والموارد البشرية، والقيادة، وإدارة المشاريع، وريادة الأعمال، مع التركيز على التطبيقات العملية التي تساعد الدارسين على تحسين الأداء المؤسسي واتخاذ القرارات الإدارية بكفاءة. كما يعمل البرنامج على تنمية مهارات التفكير الاستراتيجي، وحل المشكلات، والتواصل، والعمل الجماعي، وإدارة التغيير، بما يساهم في تعزيز الكفاءة المهنية والقدرة على مواجهة تحديات بيئة الأعمال الحديثة. ويستفيد الدارسون من منصات تعليم إلكتروني متطورة توفر محتوى تفاعليًا ومحاضرات مرنة تتناسب مع جداولهم العملية، مع دعم أكاديمي مستمر. ويؤهل البرنامج الخريجين لتطوير مسيرتهم المهنية في مختلف القطاعات الحكومية والخاصة، أو إدارة مشاريعهم الخاصة، كما يشكل خطوة مناسبة للراغبين في استكمال دراستهم في إدارة الأعمال أو التخصصات الإدارية ذات الصلة."
 }

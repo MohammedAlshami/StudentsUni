@@ -6,12 +6,17 @@
   "state": "Johor",
   "website": "https://www.newcastle.edu.my",
   "studymalaysia_url": "https://studymalaysia.com/edu/numed/courses/",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-10-07",
   "sources": [
     {
       "url": "https://studymalaysia.com/edu/numed/courses/",
       "publisher": "StudyMalaysia",
       "fetched_at": "2026-09-15T00:00:00+08:00"
+    },
+    {
+      "url": "https://abeereducation.com/universities/newcastle-university-malaysia",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
     }
   ],
   "levels_available": [
@@ -31,5 +36,17 @@
     "per_year_local": 22000,
     "per_year_international": null,
     "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+  },
+  "qs_rank": 129,
+  "qs_year": 2025,
+  "description": "جامعة نيوكاسل ماليزيا (NUMed) ليست جامعة ماليزية بالمعنى التقليدي بل هي حرم دولي تابع مباشرة لجامعة نيوكاسل في المملكة المتحدة، عضو مجموعة راسل المرموقة. تأسست عام 2011 في إسكاندار بوتري بولاية جوهور، وتقدم نفس المناهج البريطانية والشهادة ذاتها، بتكلفة أقل بكثير من الدراسة في بريطانيا.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01KHK82XM8M1AFX5E06R5X95ZN.png",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01KHK82XM9AK1V1TRZYA80QGCW.webp",
+  "faculties": [
+    "دراسة الطب في جامعة NUMed"
+  ],
+  "intakes": [
+    "March",
+    "August"
+  ]
 }

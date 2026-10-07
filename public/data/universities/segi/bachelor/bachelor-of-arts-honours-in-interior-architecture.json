@@ -1,42 +1,48 @@
 {
-  "university": "SEGi University",
-  "university_slug": "segi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Arts (Honours) in Interior Architecture",
-  "slug": "bachelor-of-arts-honours-in-interior-architecture",
-  "field": "Architecture & Building",
-  "duration": "3.5 Yrs",
-  "mode": "Full-time Study",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "SEGi official website is inaccessible from this environment (Cloudflare bot protection) and no official fee schedule is publicly indexed; set to null rather than use stale aggregator data. Checked segi.edu.my (fetched 2026-09-18)"
+ "university": "SEGi University",
+ "university_slug": "segi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Arts (Honours) in Interior Architecture",
+ "slug": "bachelor-of-arts-honours-in-interior-architecture",
+ "field": "Architecture & Building",
+ "duration": "3.5 Yrs",
+ "mode": "Full-time Study",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 104055.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%83%D9%88%D8%AA%D8%A7-%D8%AF%D8%A7%D9%85%D8%A7%D9%86%D8%B3%D8%A7%D8%B1%D8%A7-5359/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/SEGI/0009977/",
+  {
+   "url": "https://www.easyuni.my/malaysia/segi-university-246/ba-hons-in-interior-architecture-294368/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/SEGI/0009977/",
-    {
-      "url": "https://www.easyuni.my/malaysia/segi-university-246/ba-hons-in-interior-architecture-294368/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Arts (Honours) in Interior Architecture",
-  "program_name_zh": "Arts (Honours) in Interior Architecture学士",
-  "field_ar": "العمارة",
-  "field_zh": "建筑与建造"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%83%D9%88%D8%AA%D8%A7-%D8%AF%D8%A7%D9%85%D8%A7%D9%86%D8%B3%D8%A7%D8%B1%D8%A7-5359/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Arts (Honours) in Interior Architecture",
+ "program_name_zh": "Arts (Honours) in Interior Architecture学士",
+ "field_ar": "العمارة",
+ "field_zh": "建筑与建造",
+ "description": "يهدف الفنون في العمارة الداخلية إلى إعداد مصممين محترفين قادرين على تصميم وتطوير المساحات الداخلية بما يحقق التوازن بين الجمال والوظيفة وراحة المستخدم. يدرس الطلبة التصميم الداخلي، والتخطيط الفراغي، ومواد التشطيب، والإضاءة، وتصميم الأثاث، وتاريخ التصميم، والرسم الهندسي، والنمذجة ثلاثية الأبعاد، واستخدام البرامج الرقمية المتخصصة، مع التركيز على تطوير الإبداع، والتفكير التصميمي، وحل المشكلات، والتواصل مع العملاء. كما يكتسب الطلبة خبرة عملية من خلال تنفيذ مشاريع تصميم واستوديوهات تطبيقية تحاكي بيئات العمل الواقعية، مما يساعدهم على بناء ملف أعمال احترافي قبل التخرج. ويواكب البرنامج أحدث الاتجاهات في التصميم المستدام، والتصميم الذكي، وتجربة المستخدم، مما يعزز جاهزية الخريجين للعمل في مكاتب التصميم الداخلي، وشركات الاستشارات الهندسية، وشركات الأثاث، والتطوير العقاري، أو متابعة الدراسات العليا في التصميم والعمارة الداخلية."
 }

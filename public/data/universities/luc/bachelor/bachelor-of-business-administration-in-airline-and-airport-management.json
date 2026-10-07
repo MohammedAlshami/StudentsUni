@@ -1,46 +1,52 @@
 {
-  "university": "Lincoln University College",
-  "university_slug": "luc",
-  "level": "bachelor",
-  "program_name": "Bachelor of Business Administration in Airline and Airport Management",
-  "field": "Business & Management",
-  "duration": "2.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Mar",
-    "Nov"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Lincoln University College does not publish tuition fees. The official programme page/FAQ (checked 2026-09-18) directs fee enquiries to admission@lincoln.edu.my / imd@lincoln.edu.my / finance@lincoln.edu.my. Checked lincoln.edu.my sitemap and WordPress media library (988 files) plus Wayback Machine archives (2014-2026): no official international fee schedule is published. No fee value is asserted."
+ "university": "Lincoln University College",
+ "university_slug": "luc",
+ "level": "bachelor",
+ "program_name": "Bachelor of Business Administration in Airline and Airport Management",
+ "field": "Business & Management",
+ "duration": "2.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Mar",
+  "Nov"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 49000.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-4519/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  {
+   "url": "https://www.lincoln.edu.my/school-of-business-management/",
+   "publisher": "Unknown",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    {
-      "url": "https://www.lincoln.edu.my/school-of-business-management/",
-      "publisher": "Unknown",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    "https://www.lincoln.edu.my/bachelor-of-business-administration-in-airline-and-airport-management/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Business Administration in Airline and Airport Management",
-  "program_name_zh": "航空与机场管理工商管理学士",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业与管理"
+  "https://www.lincoln.edu.my/bachelor-of-business-administration-in-airline-and-airport-management/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-4519/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Business Administration in Airline and Airport Management",
+ "program_name_zh": "航空与机场管理工商管理学士",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业与管理",
+ "description": "يقدم برنامج بكالوريوس إدارة الأعمال في إدارة شركات الطيران والمطارات مساراً تعليمياً منظماً يناسب مستوى بكالوريوس، وتبلغ مدة الدراسة فيه 3 سنة بحسب البيانات المدرجة في هذا الصف. يهدف هذا البرنامج إلى مساعدة الطالب على بناء معرفة متدرجة تبدأ من المفاهيم الأساسية ثم تنتقل إلى التطبيق والتحليل وحل المشكلات في المجال المختار. يركز المسار على تطوير التفكير النقدي، مهارات البحث، القدرة على التواصل المهني، وفهم المعايير الأخلاقية التي يحتاجها الطالب في الدراسة والعمل. كما يساعد الطالب على ربط المعرفة النظرية بالمواقف العملية، وتنظيم وقته، واستخدام المصادر العلمية والمهنية بطريقة مسؤولة. في مجال الهندسة والتكنولوجيا، يساعد البرنامج الطالب على فهم الأنظمة، التصميم، التشغيل، الصيانة، وإدارة المشاريع التقنية بطريقة عملية. يركز المسار على التحليل، الحساب، استخدام الأدوات الحديثة، السلامة، والجودة، مع تدريب الطالب على حل المشكلات الواقعية وربط المعرفة التقنية باحتياجات الصناعة والمجتمع. يعتمد البرنامج على تجربة تعلم منظمة تجمع بين المحاضرات، الأنشطة، القراءات، التدريب أو المشاريع بحسب طبيعة التخصص. ويمنح الطالب فرصة للتفاعل مع المدرسين والزملاء، طرح الأسئلة، وبناء فهم أعمق من خلال التطبيق والمناقشة المستمرة. بنهاية الدراسة، يصبح الطالب أكثر استعداداً للانتقال إلى فرص مهنية أو أكاديمية مرتبطة بالتخصص، سواء في المؤسسات، المراكز المتخصصة، الشركات، الجهات التعليمية، أو القطاعات التي تحتاج إلى معرفة مهنية موثوقة. كما يوفر البرنامج أساساً جيداً للتطوير المستمر، متابعة الدراسات الأعلى، وبناء مسار مهني يتناسب مع طموح الطالب وقدراته."
 }

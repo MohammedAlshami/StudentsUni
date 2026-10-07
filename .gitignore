@@ -43,3 +43,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# scraped data artifacts (regenerate with scrape/map/*.py — too large for git)
+scrape/_merged/
+scrape/_backup/
+scrape/__pycache__/
+scrape/**/__pycache__/
+scrape/**/*.jsonl
+scrape/**/*.log
+scrape/**/cache/

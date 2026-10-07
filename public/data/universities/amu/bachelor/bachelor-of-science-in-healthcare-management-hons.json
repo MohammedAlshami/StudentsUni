@@ -5,12 +5,11 @@
   "program_name": "Bachelor of Science in Healthcare Management (Hons)",
   "slug": "bachelor-of-science-in-healthcare-management-hons",
   "field": "healthcare",
-  "duration": "3 years",
+  "duration": "4 years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -20,13 +19,13 @@
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
+    "a_level": "STPM/Matriculation GPA 2.33 in 2 science subjects",
     "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "A9630",
+    "programme_code": "R3/0913/6/0027"
   },
   "sources": [
     {

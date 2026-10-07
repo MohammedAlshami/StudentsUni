@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "BA (Hons) Game Design",
-  "field": "Game Design",
-  "duration": "3 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 121830,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/ba-hons-game-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL iBT 46",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0057290/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/ba-hons-game-design"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Hons) Game Design",
-  "program_name_zh": "Hons) Game Design学士",
-  "field_ar": "التصميم",
-  "field_zh": "设计学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "BA (Hons) Game Design",
+ "field": "Game Design",
+ "duration": "3 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 121830,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/ba-hons-game-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL iBT 46",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0057290/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/ba-hons-game-design",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%81%D9%8A-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-4843/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Hons) Game Design",
+ "program_name_zh": "Hons) Game Design学士",
+ "field_ar": "التصميم",
+ "field_zh": "设计学",
+ "description": "يهدف برنامج الآداب في تصميم الألعاب إلى إعداد مطوري ومصممي ألعاب يمتلكون المعرفة التقنية والإبداعية لتطوير ألعاب رقمية مبتكرة. يركز البرنامج على تصميم الشخصيات، والبيئات، وآليات اللعب، وسرد القصص، والرسوم المتحركة، وبرمجة الألعاب، وتجربة المستخدم. كما يساعد الطلاب على تطوير مهارات التفكير الإبداعي والعمل الجماعي وإدارة المشاريع. يؤهل البرنامج الخريجين للعمل في شركات تطوير الألعاب، واستوديوهات الرسوم المتحركة، والإنتاج الرقمي، وتقنيات الواقع الافتراضي والمعزز، وريادة الأعمال في صناعة الألعاب."
 }

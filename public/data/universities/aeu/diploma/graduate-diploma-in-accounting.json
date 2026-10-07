@@ -5,12 +5,12 @@
   "program_name": "Graduate Diploma in Accounting",
   "slug": "graduate-diploma-in-accounting",
   "field": "accounting",
-  "duration": "3 years",
-  "mode": "Full-time",
+  "duration": "1 year",
+  "mode": ["Fully Online", "Blended Learning"],
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -19,9 +19,9 @@
     "notes": "AeU does not publish a public programme fee schedule (website and 2026 programme brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://aeu.edu.my/study/brochure/"
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "english_requirement": "IELTS 5.0 for international students",
+    "entry_requirements": "Diploma CGPA 2.00; OR two STPM principles; OR A-Level/Foundation/Matriculation",
+    "apel": "Minimum 21 years of age with 2 years work experience"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
@@ -29,12 +29,12 @@
   },
   "sources": [
     {
-      "url": "https://aeu.edu.my/study/programme/",
+      "url": "https://aeu.edu.my/study/programme/graduate-diploma-in-accounting/",
       "publisher": "Official Website",
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "verified",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "Graduate Diploma in Accounting",
   "program_name_zh": "会计研究生文凭",

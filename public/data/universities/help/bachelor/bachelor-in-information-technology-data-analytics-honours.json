@@ -1,62 +1,67 @@
 {
-  "university": "HELP University",
-  "university_slug": "help",
-  "level": "bachelor",
-  "program_name": "Bachelor in Information Technology (Data Analytics) (Honours)",
-  "program_slug": "bachelor-in-information-technology-data-analytics-honours",
-  "field": "Computing & IT",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Aug"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "HELP University does not publish an international student fee for this programme: the official programme page lists only the Malaysian-student indicative total fee (RM 82,800), and the 2026 HELP University Programme Fees Summary (v4, July 2026) is explicitly Malaysian-only. Sources checked on 2026-09-18: https://university.help.edu.my/programme/bachelor-of-information-technology-data-analytics/; https://university.help.edu.my/admissions-study-awards/fee-schedule/ (page empty); https://university.help.edu.my/admissions-study-awards/international-student-admissions/; https://university.help.edu.my/brochures/ (2026 fees summary PDF). No international fee published."
+ "university": "HELP University",
+ "university_slug": "help",
+ "level": "bachelor",
+ "program_name": "Bachelor in Information Technology (Data Analytics) (Honours)",
+ "program_slug": "bachelor-in-information-technology-data-analytics-honours",
+ "field": "Computing & IT",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Aug"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 60900.0,
+  "per_year": null,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d9%84%d8%a8-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-help/)"
+ },
+ "sources": [
+  "https://studymalaysia.com/what/course/HELP/0058725/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "sources": [
-    "https://studymalaysia.com/what/course/HELP/0058725/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-hons-in-information-technology-27882/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://university.help.edu.my/brochures/",
-      "publisher": "help",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://university.help.edu.my/programme/bachelor-of-information-technology-data-analytics/",
-      "publisher": "HELP University",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification",
-    "general": "Entry Requirements A pass in STPM with a minimum grade of C (CGPA 2.00) in any TWO (2) subjects or any equivalent qualification and a credit in Mathematics at SPM level or its equivalent; OR A pass in STAM with a minimum grade of Jayyid in any TWO (2) subjects (including a credit in Mathematics at SPM level or its equivalent); OR A pass in Matriculation or Foundation studies with a minimum CGPA of 2.00 and a credit in Mathematics at SPM level or its equivalent; OR Diploma in Computing (Level 4, MQF) or equivalent with a minimum CGPA of 2.50; OR Any Diploma in Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75; OR Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in Computing fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval; OR Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval. Notes: Candidates for categories (iv) until (vii) with a CGPA below 2.75 but more than 2.00 may be admitted subject to a thorough internal evaluation process. English Requirement (International Students) Minimum IELTS 5.0 or equivalent International English Language qualification."
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "program_name_ar": "بكالوريوس Information Technology (Data Analytics) (Honours)",
-  "program_name_zh": "信息技术学士（数据分析）（荣誉学位）",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "计算机与信息技术"
+  {
+   "url": "https://www.easyuni.my/malaysia/help-university-19/bachelor-hons-in-information-technology-27882/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://university.help.edu.my/brochures/",
+   "publisher": "help",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://university.help.edu.my/programme/bachelor-of-information-technology-data-analytics/",
+   "publisher": "HELP University",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d9%84%d8%a8-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-help/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification",
+  "general": "Entry Requirements A pass in STPM with a minimum grade of C (CGPA 2.00) in any TWO (2) subjects or any equivalent qualification and a credit in Mathematics at SPM level or its equivalent; OR A pass in STAM with a minimum grade of Jayyid in any TWO (2) subjects (including a credit in Mathematics at SPM level or its equivalent); OR A pass in Matriculation or Foundation studies with a minimum CGPA of 2.00 and a credit in Mathematics at SPM level or its equivalent; OR Diploma in Computing (Level 4, MQF) or equivalent with a minimum CGPA of 2.50; OR Any Diploma in Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75; OR Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) in Computing fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval; OR Diploma Lanjutan Kemahiran Malaysia (DLKM) in Computing fields with a minimum CGPA of 2.50, subject to HEP Senate/Academic Board’s approval. Notes: Candidates for categories (iv) until (vii) with a CGPA below 2.75 but more than 2.00 may be admitted subject to a thorough internal evaluation process. English Requirement (International Students) Minimum IELTS 5.0 or equivalent International English Language qualification."
+ },
+ "program_name_ar": "بكالوريوس Information Technology (Data Analytics) (Honours)",
+ "program_name_zh": "信息技术学士（数据分析）（荣誉学位）",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "计算机与信息技术"
 }

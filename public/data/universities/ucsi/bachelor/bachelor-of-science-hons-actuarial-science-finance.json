@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Science (Hons) Actuarial Science and Finance",
-  "field": "Actuarial Science and Finance",
-  "duration": "3 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 120269,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-actuarial-science-and-finance), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5 or TOEFL iBT 40",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0008892/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-actuarial-science-and-finance"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Science (Hons) Actuarial Science and Finance",
-  "program_name_zh": "理学学士（荣誉）精算学与金融学",
-  "field_ar": "العلوم",
-  "field_zh": "精算学与金融学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Science (Hons) Actuarial Science and Finance",
+ "field": "Actuarial Science and Finance",
+ "duration": "3 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 120269,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-actuarial-science-and-finance), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5 or TOEFL iBT 40",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0008892/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-actuarial-science-and-finance",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D9%88%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-4958/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Science (Hons) Actuarial Science and Finance",
+ "program_name_zh": "理学学士（荣誉）精算学与金融学",
+ "field_ar": "العلوم",
+ "field_zh": "精算学与金融学",
+ "description": "يهدف برنامج العلوم في العلوم الاكتوارية والمالية إلى الجمع بين العلوم الاكتوارية والتمويل لإعداد متخصصين قادرين على إدارة المخاطر وتحليل الأسواق المالية. يركز البرنامج على الرياضيات المالية، والإحصاء، والاستثمار، والتأمين، وإدارة المحافظ، وتحليل البيانات، والتخطيط المالي. كما يساعد الطلاب على تطوير مهارات التحليل واتخاذ القرارات الاستراتيجية في القطاع المالي. يؤهل البرنامج الخريجين للعمل في شركات التأمين، والبنوك، والمؤسسات الاستثمارية، والاستشارات المالية، والهيئات التنظيمية، والشركات العالمية."
 }

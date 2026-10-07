@@ -1,41 +1,46 @@
 {
-  "university": "Universiti Putra Malaysia",
-  "university_slug": "upm",
-  "level": "undergraduate",
-  "program_name": "Bachelor of Education in Agricultural Science with Honours",
-  "program_slug": "bachelor-of-education-agricultural-science",
-  "field": "Education",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": {
-    "main": "September",
-    "secondary": "February"
-  },
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Not listed in UPM's official international tuition fee schedule (Apr 2026); no published international fee. Source: https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf"
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+)",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent qualification"
-  },
-  "accreditation": {
-    "mqa_status": "Full Accreditation",
-    "mqa_ref": null
-  },
-  "sources": [
-    "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800",
-    "https://www.studymalaysia.com/edu/upm/courses/",
-    "https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Education in Agricultural Science with Honours",
-  "program_name_zh": "Education in Agricultural Science with Honours学士",
-  "field_ar": "التربية والتعليم",
-  "field_zh": "教育"
+ "university": "Universiti Putra Malaysia",
+ "university_slug": "upm",
+ "level": "undergraduate",
+ "program_name": "Bachelor of Education in Agricultural Science with Honours",
+ "program_slug": "bachelor-of-education-agricultural-science",
+ "field": "Education",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": {
+  "main": "September",
+  "secondary": "February"
+ },
+ "fees": {
+  "currency": "MYR",
+  "total": 16450.0,
+  "per_year": null,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a8%d9%88%d8%aa%d8%b1%d8%a7-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a9-university-putra-malaysia-upm/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+)",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent qualification"
+ },
+ "accreditation": {
+  "mqa_status": "Full Accreditation",
+  "mqa_ref": null
+ },
+ "sources": [
+  "https://www.upm.edu.my/kemasukan/program/prasiswazah-75800",
+  "https://www.studymalaysia.com/edu/upm/courses/",
+  "https://bursar.upm.edu.my/upload/dokumen/20260406115752Tuition_Fees_International_(1).pdf",
+  {
+   "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a8%d9%88%d8%aa%d8%b1%d8%a7-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a9-university-putra-malaysia-upm/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Education in Agricultural Science with Honours",
+ "program_name_zh": "Education in Agricultural Science with Honours学士",
+ "field_ar": "التربية والتعليم",
+ "field_zh": "教育"
 }

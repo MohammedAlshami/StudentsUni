@@ -7,7 +7,7 @@
   "website": "https://cyberjaya.edu.my/",
   "studymalaysia_url": "https://studymalaysia.com/edu/cucms/courses/",
   "total_programs": 61,
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 66000,
@@ -15,5 +15,35 @@
     "per_year_local": 22000,
     "per_year_international": null,
     "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+  },
+  "founded_year": 2005,
+  "qs_rank": 951,
+  "local_rank": 50,
+  "accreditation": "MQA، SETARA، برنامج الطب معتمد من المجلس الطبي الماليزي MMC",
+  "description": "جامعة سايبرجايا بدأت عام 2005 ببرنامجين فقط: الطب والصيدلة. هذا الاختيار المتعمد شكّل هويتها وما زال يشكّلها حتى اليوم. حين توسعت لاحقاً لتضم الأعمال وتقنية المعلومات والتصميم وعلم النفس، لم تفعل ذلك لتصبح جامعة شاملة، بل أضافت تخصصات تكمل منظومتها الصحية وتخدم سوقاً محلياً ناشطاً في مدينة سايبرجايا التقنية.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J76BR0ESBTA2RKVK8T9D5EF6.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J4YD9YVF3C2DEZ0R92HWA524.webp",
+  "faculties": [
+    "1. التخصصات الطبية والصحية",
+    "2. كلية الأعمال والتكنولوجيا",
+    "3. كلية الفنون الإبداعية والتصميم",
+    "4. الدراسات العليا",
+    "5. الفاونديشن والدبلوم"
+  ],
+  "intakes": [
+    "سنوي"
+  ],
+  "city": "سيلانغور 30 دقيقة من كوالالمبور والمطار الدولي",
+  "sources": [
+    {
+      "url": "https://abeereducation.com/universities/cyberjaya-uoc",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D8%A7%D9%8A%D8%A8%D8%B1%D8%AC%D8%A7%D9%8A%D8%A7/34/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    }
+  ]
 }

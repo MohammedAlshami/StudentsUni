@@ -1,56 +1,62 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Bachelor's Degree",
-  "program_name": "Bachelor in Physiotherapy (Hons)",
-  "field": "Medicine & Healthcare",
-  "slug": "bachelor-in-physiotherapy-hons",
-  "duration": "4 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Oct",
-    "Mar"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 110600,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Bachelor's Degree",
+ "program_name": "Bachelor in Physiotherapy (Hons)",
+ "field": "Medicine & Healthcare",
+ "slug": "bachelor-in-physiotherapy-hons",
+ "duration": "4 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Oct",
+  "Mar"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 110600,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0055129/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0055129/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Physiotherapy (Hons)",
-  "program_name_zh": "Physiotherapy (Hons)学士",
-  "field_ar": "الطب",
-  "field_zh": "医学与医疗保健"
+  {
+   "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-5876/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Physiotherapy (Hons)",
+ "program_name_zh": "Physiotherapy (Hons)学士",
+ "field_ar": "الطب",
+ "field_zh": "医学与医疗保健",
+ "description": "يهدف برنامج العلاج الطبيعي إلى إعداد أخصائيي علاج طبيعي يمتلكون المعرفة العلمية والمهارات السريرية اللازمة لتقييم وتشخيص وعلاج المشكلات الحركية والوظيفية لدى المرضى من مختلف الفئات العمرية. يركز البرنامج على دراسة التشريح، ووظائف الأعضاء، والميكانيكا الحيوية، وعلم الحركة، وإعادة التأهيل، والعلاج اليدوي، والتمارين العلاجية، والعلاج الطبيعي للحالات العصبية والعظمية والرياضية. كما ينمي البرنامج مهارات التفكير السريري، والتواصل، والعمل ضمن فرق الرعاية الصحية متعددة التخصصات، مع الالتزام بأخلاقيات المهنة. ويجمع البرنامج بين الدراسة النظرية والتدريب السريري المكثف في المستشفيات ومراكز إعادة التأهيل والعيادات المتخصصة، مما يمنح الطلبة خبرة عملية متقدمة. ويؤهل البرنامج الخريجين للعمل في المستشفيات، ومراكز العلاج الطبيعي، والعيادات، والأندية الرياضية، ومراكز التأهيل، أو مواصلة الدراسات العليا في تخصصات العلاج الطبيعي."
 }

@@ -19,9 +19,14 @@
   "sources": [
     "https://www.ukm.my/portal/undergraduate-programmes/",
     "https://www.ukm.my/portal/postgraduate-programme/",
-    "https://www.ukm.my/permatapintar/asasipintar/"
+    "https://www.ukm.my/permatapintar/asasipintar/",
+    {
+      "url": "https://khutwatuk.com/%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a9-%d9%85%d8%a8%d8%aa%d8%b9%d8%ab/",
+      "publisher": "Khutwatuk",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 4200,
@@ -29,5 +34,6 @@
     "per_year_local": 1400,
     "per_year_international": null,
     "notes": "International fees are programme-specific; see each programme's verified international fee and the official fee schedule at https://www.ukm.my/ukmshape/ukmshape-learning-fees/ (accessed 2026-09-18)."
-  }
+  },
+  "description": "الجامعة الوطنية في ماليزيا (الملايو: Universiti Kebangsaan Malaysia ، والمختصرة باسم UKM) هي جامعة عامة تقع في Bandar Baru Bangi ، Hulu Langat District ، Selangor ، ماليزيا. يقع المستشفى التعليمي التابع لها ، Universiti Kebangsaan Malaysia Medical Center (UKMMC) في Cheras ولديها أيضًا فرع جامعي في كوالالمبور. هناك 17500 طالب جامعي مسجلين ، و 5105 طلاب دراسات عليا منهم 1368 طالبًا أجنبيًا من 35 دولة. تتميز جامعة UKM في التخصصات الطبية والدراسات العليا ( الماجستير – الدكتوراه ) لتميزها في البحوثات العلمية. خطاب القبول في مرحلة البكالوريوس : شهر خطاب القبول في مرحلة الماجستير: شهر الی شهرین خطاب القبول في مرحلة الدكتوراه : شهر الی شهرین تستغرق إجراءات التاشيرة (الفيزا الدراسية) من 4 أسابيع إلى 6 أسابيع."
 }

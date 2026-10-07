@@ -42,9 +42,14 @@
     "https://www.monash.edu.my/study",
     "https://www.studymalaysia.com/edu/monash/courses/",
     "https://www.monash.edu.my/study/undergraduate/fees",
-    "https://www.monash.edu.my/study/postgraduate-and-research/fees"
+    "https://www.monash.edu.my/study/postgraduate-and-research/fees",
+    {
+      "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%85%d9%88%d9%86%d8%a7%d8%b4-%d9%81%d9%8a-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-monash-university/",
+      "publisher": "Khutwatuk",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": null,
@@ -52,5 +57,6 @@
     "per_year_local": 43200,
     "per_year_international": 49920,
     "notes": "Monash Malaysia official 2026 fee schedule: international annual tuition from RM40,320 (Diploma of Business) and RM49,920 (bachelor's) to RM138,720 (Medicine); research degrees RM54,720/year. Lowest bachelor's annual values shown. Sources: https://www.monash.edu.my/study/undergraduate/fees and https://www.monash.edu.my/study/postgraduate-and-research/fees"
-  }
+  },
+  "description": "جامعة موناش Monash University هي جامعة بحثية عامة مقرها في ملبورن ، فيكتوريا ، أستراليا. جامعة Monash حديثة وعالمية ومكثفة في البحث العلمي ، تقدم التميز التعليمي والبحثي في أستراليا وعبر المحيطين الهندي والهادئ. يوجد للجامعة اربعة فروع (واحد في ماليزيا) وأكثر من 100 شريك دولي ، نحن نحدث فرقًا على المستوى العالمي. ستتمتع بإمكانية الوصول إلى المزيد من عمليات التعاون البحثي ، والمزيد من الشراكات العالمية ، وخيارات أكبر للفرص الخارجية. تتمتع جميع التخصصات في جامعة موناش بتركيز عالمي، سواء كنت تتناول موضوعات تتعلق بقضايا عالمية، أو تشارك في برامج الدراسة بالخارج، أو تتعلم جنبًا إلى جنب مع طلاب من ثقافات متنوعة. تؤهلك جامعة موناش لسوق العمل العالمية – يمكنك بدء دراستك في أستراليا ومواصلة دراستك في إيطاليا أو ماليزيا أو الهند أو الصين أو أي من المؤسسات الشريكة لنا البالغ عددها 100 مؤسسة حول العال"
 }

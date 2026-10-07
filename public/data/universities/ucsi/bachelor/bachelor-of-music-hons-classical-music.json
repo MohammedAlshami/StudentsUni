@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Music (Hons) Classical Music",
-  "field": "Classical Music",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 167757,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-classical-music-hons), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL iBT 40",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005869/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-classical-music-hons"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Music (Hons) Classical Music",
-  "program_name_zh": "音乐学士（荣誉）古典音乐",
-  "field_ar": "الموسيقى",
-  "field_zh": "古典音乐"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Music (Hons) Classical Music",
+ "field": "Classical Music",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 167757,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-classical-music-hons), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL iBT 40",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005869/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-classical-music-hons",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D8%B3%D9%8A%D9%83%D9%8A%D8%A9-4832/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Music (Hons) Classical Music",
+ "program_name_zh": "音乐学士（荣誉）古典音乐",
+ "field_ar": "الموسيقى",
+ "field_zh": "古典音乐",
+ "description": "يهدف برنامج الموسيقى في الموسيقى الكلاسيكية إلى إعداد موسيقيين يمتلكون مهارات احترافية في الأداء والنظرية الموسيقية. يركز البرنامج على العزف، والغناء، والنظريات الموسيقية، والتأليف، والتاريخ الموسيقي، والتدريب العملي من خلال العروض والحفلات. كما يساعد الطلاب على تطوير الإبداع، والانضباط، والعمل الجماعي، والقدرة على الأداء أمام الجمهور. يؤهل البرنامج الخريجين للعمل كموسيقيين محترفين، أو معلمين، أو مؤلفين موسيقيين، أو أعضاء في الفرق الموسيقية والأوركسترا والمؤسسات الثقافية."
 }

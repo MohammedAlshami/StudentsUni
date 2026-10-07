@@ -1,36 +1,42 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "master",
-  "program_name": "Master of Art & Design",
-  "field": "Art & Design",
-  "duration": "Full time: 2 year, part time: 3 years",
-  "mode": "Full-time/Part-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 68606,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-arts-and-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 76,635."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL iBT 46",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0057300/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/master-arts-and-design"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Art & Design",
-  "program_name_zh": "艺术与设计硕士",
-  "field_ar": "التصميم",
-  "field_zh": "艺术与设计"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "master",
+ "program_name": "Master of Art & Design",
+ "field": "Art & Design",
+ "duration": "Full time: 2 year, part time: 3 years",
+ "mode": "Full-time/Part-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 68606,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-arts-and-design), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 76,635."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL iBT 46",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0057300/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/master-arts-and-design",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85-4837/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Art & Design",
+ "program_name_zh": "艺术与设计硕士",
+ "field_ar": "التصميم",
+ "field_zh": "艺术与设计",
+ "description": "يهدف برنامج الفنون والتصميم إلى تطوير المهارات الإبداعية والبحثية للطلاب في مجالات التصميم والفنون المعاصرة. يركز البرنامج على الابتكار، والتصميم الجرافيكي، والفنون البصرية، وإدارة المشاريع الإبداعية، والتفكير التصميمي، واستخدام التقنيات الحديثة في الإنتاج الفني. كما يساعد الطلاب على تطوير مشاريع إبداعية قائمة على البحث والتحليل، وتعزيز قدراتهم في حل المشكلات. يؤهل البرنامج الخريجين للعمل في وكالات التصميم، والاستوديوهات الإبداعية، والمؤسسات الثقافية، والتعليم، والاستشارات، وريادة الأعمال في القطاع الإبداعي."
 }

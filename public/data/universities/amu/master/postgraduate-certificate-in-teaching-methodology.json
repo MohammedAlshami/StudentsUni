@@ -5,12 +5,10 @@
   "program_name": "Postgraduate Certificate in Teaching Methodology",
   "slug": "postgraduate-certificate-in-teaching-methodology",
   "field": "education",
-  "duration": "1.5 years",
+  "duration": "9 months (FT) / 12 months (PT)",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -24,7 +22,8 @@
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/FA0866",
+    "programme_code": "R2/145/7/0012"
   },
   "sources": [
     {

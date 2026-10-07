@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "diploma",
-  "program_name": "Diploma in Interior Architecture",
-  "field": "Interior Architecture",
-  "duration": "2.5 years / 7 semesters (inclusive of 6-month Industry Experience)",
-  "mode": "Full-time",
-  "intakes": [
-    "Feb",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 74731,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-interior-architecture), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 4.0 or TOEFL iBT 24",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0006018/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/diploma-interior-architecture"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Interior Architecture",
-  "program_name_zh": "室内建筑文凭",
-  "field_ar": "العمارة",
-  "field_zh": "室内建筑"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "diploma",
+ "program_name": "Diploma in Interior Architecture",
+ "field": "Interior Architecture",
+ "duration": "2.5 years / 7 semesters (inclusive of 6-month Industry Experience)",
+ "mode": "Full-time",
+ "intakes": [
+  "Feb",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 74731,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-interior-architecture), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 4.0 or TOEFL iBT 24",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0006018/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/diploma-interior-architecture",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-4882/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Interior Architecture",
+ "program_name_zh": "室内建筑文凭",
+ "field_ar": "العمارة",
+ "field_zh": "室内建筑",
+ "description": "يهدف برنامج العمارة الداخلية إلى إعداد الطلاب بالمعرفة والمهارات الأساسية في تصميم المساحات الداخلية وتخطيطها بما يحقق الراحة والجمال والوظيفة. يركز البرنامج على التصميم، والرسم، والمواد، والإضاءة، والأثاث، واستخدام برامج التصميم الحديثة، مع تعزيز الإبداع والتفكير النقدي. كما يوفر تدريباً عملياً يساعد الطلاب على اكتساب خبرة مهنية تؤهلهم للعمل في شركات التصميم الداخلي، ومكاتب العمارة، وشركات الأثاث والديكور، أو لمواصلة دراستهم الجامعية في تخصصات التصميم والعمارة."
 }

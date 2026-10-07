@@ -1,51 +1,57 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Diploma",
-  "program_name": "Diploma in Accounting",
-  "field": "Accounting & Finance",
-  "slug": "diploma-in-accounting",
-  "duration": "2.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Oct",
-    "Mar"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 40300,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Diploma",
+ "program_name": "Diploma in Accounting",
+ "field": "Accounting & Finance",
+ "slug": "diploma-in-accounting",
+ "duration": "2.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Oct",
+  "Mar"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 40300,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058822/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058822/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Accounting",
-  "program_name_zh": "会计文凭",
-  "field_ar": "المحاسبة",
-  "field_zh": "会计与金融"
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-5846/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Accounting",
+ "program_name_zh": "会计文凭",
+ "field_ar": "المحاسبة",
+ "field_zh": "会计与金融",
+ "description": "يهدف برنامج دبلوم في المحاسبة إلى تزويد الطلبة بالمعارف والمهارات الأساسية في المحاسبة المالية، والمحاسبة الإدارية، والتدقيق، والضرائب، وإعداد التقارير المالية، واستخدام الأنظمة المحاسبية الحديثة. يركز البرنامج على تطوير مهارات التحليل المالي، وإعداد الميزانيات، وإدارة السجلات المحاسبية، واتخاذ القرارات المالية وفق المعايير المهنية والأخلاقية. كما يكتسب الطلبة خبرة عملية في استخدام البرامج المحاسبية والتعامل مع البيانات المالية في بيئات الأعمال المختلفة. ويؤهل البرنامج الخريجين للعمل في المؤسسات الحكومية والخاصة أو مواصلة الدراسة في برامج الفي المحاسبة والمالية والتخصصات ذات الصلة."
 }

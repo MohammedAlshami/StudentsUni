@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Science (Hons) Biotechnology",
-  "field": "Biotechnology",
-  "duration": "3 Years (14 weeks per semester, 7 weeks per short semester)",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 140396,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-biotechnology), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "TOEFL iBT 40",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005502/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-biotechnology"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Science (Hons) Biotechnology",
-  "program_name_zh": "生物技术理学学士（荣誉学位）",
-  "field_ar": "التكنولوجيا الحيوية",
-  "field_zh": "生物技术"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Science (Hons) Biotechnology",
+ "field": "Biotechnology",
+ "duration": "3 Years (14 weeks per semester, 7 weeks per short semester)",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 140396,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-biotechnology), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "TOEFL iBT 40",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005502/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-honours-biotechnology",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D9%8A%D8%A9-4820/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Science (Hons) Biotechnology",
+ "program_name_zh": "生物技术理学学士（荣誉学位）",
+ "field_ar": "التكنولوجيا الحيوية",
+ "field_zh": "生物技术",
+ "description": "يهدف برنامج العلوم في التكنولوجيا الحيوية إلى إعداد متخصصين يمتلكون المعرفة والمهارات اللازمة لتطبيق العلوم الحيوية في مجالات الصحة، والزراعة، والصناعة، والبيئة. يركز البرنامج على علم الوراثة، والأحياء الجزيئية، والهندسة الوراثية، والتقنيات المخبرية، مع تنمية مهارات البحث والابتكار. كما يوفر تدريباً عملياً ومشاريع تطبيقية تؤهل الخريجين للعمل في المختبرات، وشركات التكنولوجيا الحيوية، والصناعات الدوائية، والمؤسسات البحثية، أو لمواصلة الدراسات العليا في العلوم الحيوية."
 }

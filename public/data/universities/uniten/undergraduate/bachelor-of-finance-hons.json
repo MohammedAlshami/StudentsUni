@@ -1,44 +1,50 @@
 {
-  "program_name": "Bachelor of Finance (Hons)",
-  "field": "",
-  "duration": "3 years (Full-time)",
-  "mode": "Onsite",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 72600,
-    "per_year": 24200,
-    "notes": "Legacy file name; maps to the official Bachelor in Finance (Honours). International student tuition: RM72,600 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-finance-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM69,000. per_year = total / 3yr nominal duration."
+ "program_name": "Bachelor of Finance (Hons)",
+ "field": "",
+ "duration": "3 years (Full-time)",
+ "mode": "Onsite",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 72600,
+  "per_year": 24200,
+  "notes": "Legacy file name; maps to the official Bachelor in Finance (Honours). International student tuition: RM72,600 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-finance-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM69,000. per_year = total / 3yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+  "a_level": "2 subjects (Grade C)",
+  "ib": "24 points",
+  "other_qualifications": "A-Level with minimum Grade C in any 2 subjects; or STPM with minimum Grade C (CGPA 2.00) in any 2 subjects; or Foundation/Matriculation in a related field with minimum CGPA 2.50; or Diploma in Finance/Banking/Insurance or a related field with minimum CGPA 2.50.",
+  "general": "STPM Pass STPM with a minimum Grade C+ (CGPA 2.33) in any 2 subjects Math (SPM): C BI (SPM): E A-LEVEL Pass A-Level with a minimum Grade C in any 2 subjects (CGPA 2.00) Math (SPM): C BI (SPM): E MATRICULATION Pass Matriculation with a minimum CGPA 2.50 Math (SPM): C BI (SPM): E FOUNDATION Pass Foundation with a minimum CGPA 2.50 Math (SPM): C BI (SPM): E Candidates without a credit in Mathematics and Pass English at SPM level will be required to take supplementary Mathematics and English subjects that are equivalent to SPM level. DIPLOMA Any qualification equivalent to a Diploma in Finance, Banking, Insurance, or a related field (Level 4, MQF) with a minimum CGPA of 2.50 (out of 4.00) Math (SPM): C BI (SPM): E DVM/DLKM/DKM Pass with a minimum CGPA of 2.50 AND Pass Sijil Vokasional Malaysia (SVM) UEC (Unified Examination Certificate) Pass UEC with a minimum Grade B in FIVE (5) subjects including: Math: B 4 Any Subjects: B English: E STAM Pass STAM with a minimum Grade JAYYID Math (SPM): C BI (SPM): E INTERNATIONAL BACCALAUREATE DIPLOMA PROGRAMME (IB) Pass with a minimum of 24 points in 6 subjects OTHERS South Australian Matriculation (SAM), Australian Matriculation (AUSMAT), South Australian Certificate of Education (SACE), Western Australian Certificate of Education (WACE), Overseas Preparatory Programme Pass with a minimum of Grade C OR 60% ATAR Rank in any of the following subjects: Math: C Economy OR Accounting: C ENGLISH REQUIREMENTS For Malaysian Students: Students have taken MUET before enrol. However, students are required to complete MUET during the duration of the study (before graduation). IELTS (5.0 and above) or TOEFL (500 and above) or TOEFL Internet-Based Test (42 and above) is also accepted. MUET – Malaysia University English Test Achieve Band 1 and above For International Students: International students are required to have one of the English proficiency scores stated below to enrol in UNITEN. Bachelor students who do not fulfil this English requirement are required to sit for the Intensive English Programme (IEP) and pass the requirement below before starting their Bachelor programme. MUET – Malaysia University English Test Achieve Band 4 and above   IELTS – International English Language Testing System Achieve 6.0 and above   TOEFL - Test of English as a Foreign Language Achieve 550 (TOEFL) or 60 (TOEFL Internet Based Test) and above  "
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "N/0414/6/0149 (12/28) (MQA/PSA17298) / R2/0414/6/0024 (01/25) (MQA/A9987)"
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-finance-honours/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
-    "a_level": "2 subjects (Grade C)",
-    "ib": "24 points",
-    "other_qualifications": "A-Level with minimum Grade C in any 2 subjects; or STPM with minimum Grade C (CGPA 2.00) in any 2 subjects; or Foundation/Matriculation in a related field with minimum CGPA 2.50; or Diploma in Finance/Banking/Insurance or a related field with minimum CGPA 2.50.",
-    "general": "STPM Pass STPM with a minimum Grade C+ (CGPA 2.33) in any 2 subjects Math (SPM): C BI (SPM): E A-LEVEL Pass A-Level with a minimum Grade C in any 2 subjects (CGPA 2.00) Math (SPM): C BI (SPM): E MATRICULATION Pass Matriculation with a minimum CGPA 2.50 Math (SPM): C BI (SPM): E FOUNDATION Pass Foundation with a minimum CGPA 2.50 Math (SPM): C BI (SPM): E Candidates without a credit in Mathematics and Pass English at SPM level will be required to take supplementary Mathematics and English subjects that are equivalent to SPM level. DIPLOMA Any qualification equivalent to a Diploma in Finance, Banking, Insurance, or a related field (Level 4, MQF) with a minimum CGPA of 2.50 (out of 4.00) Math (SPM): C BI (SPM): E DVM/DLKM/DKM Pass with a minimum CGPA of 2.50 AND Pass Sijil Vokasional Malaysia (SVM) UEC (Unified Examination Certificate) Pass UEC with a minimum Grade B in FIVE (5) subjects including: Math: B 4 Any Subjects: B English: E STAM Pass STAM with a minimum Grade JAYYID Math (SPM): C BI (SPM): E INTERNATIONAL BACCALAUREATE DIPLOMA PROGRAMME (IB) Pass with a minimum of 24 points in 6 subjects OTHERS South Australian Matriculation (SAM), Australian Matriculation (AUSMAT), South Australian Certificate of Education (SACE), Western Australian Certificate of Education (WACE), Overseas Preparatory Programme Pass with a minimum of Grade C OR 60% ATAR Rank in any of the following subjects: Math: C Economy OR Accounting: C ENGLISH REQUIREMENTS For Malaysian Students: Students have taken MUET before enrol. However, students are required to complete MUET during the duration of the study (before graduation). IELTS (5.0 and above) or TOEFL (500 and above) or TOEFL Internet-Based Test (42 and above) is also accepted. MUET – Malaysia University English Test Achieve Band 1 and above For International Students: International students are required to have one of the English proficiency scores stated below to enrol in UNITEN. Bachelor students who do not fulfil this English requirement are required to sit for the Intensive English Programme (IEP) and pass the requirement below before starting their Bachelor programme. MUET – Malaysia University English Test Achieve Band 4 and above   IELTS – International English Language Testing System Achieve 6.0 and above   TOEFL - Test of English as a Foreign Language Achieve 550 (TOEFL) or 60 (TOEFL Internet Based Test) and above  "
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "N/0414/6/0149 (12/28) (MQA/PSA17298) / R2/0414/6/0024 (01/25) (MQA/A9987)"
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-finance-honours/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Finance (Hons)",
-  "program_name_zh": "Finance (Hons)学士"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-4442/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Finance (Hons)",
+ "program_name_zh": "Finance (Hons)学士",
+ "description": "يهدف بكالوريوس المالية إلى إعداد متخصصين يمتلكون المعرفة والمهارات اللازمة لإدارة الموارد المالية واتخاذ القرارات الاستثمارية والاستراتيجية في مختلف المؤسسات. يركز البرنامج على الإدارة المالية، والاستثمار، والأسواق المالية، وتحليل القوائم المالية، وإدارة المخاطر، والتمويل المؤسسي، والتخطيط المالي، والتكنولوجيا المالية (FinTech)، مع تنمية مهارات التحليل الكمي، والتفكير النقدي، واستخدام الأدوات المالية الحديثة. كما يساعد البرنامج الطلبة على فهم كيفية إدارة رأس المال، وتقييم الاستثمارات، وتحليل الأداء المالي، واتخاذ قرارات مبنية على البيانات في بيئة اقتصادية متغيرة. ويجمع البرنامج بين الدراسة الأكاديمية، ودراسات الحالة، والمحاكاة المالية، والمشاريع التطبيقية، مما يمنح الطلبة خبرة عملية في التعامل مع التحديات المالية الواقعية. كما يواكب البرنامج التطورات في الأسواق العالمية، والتحول الرقمي، والذكاء الاصطناعي في القطاع المالي، مما يعزز جاهزية الخريجين لسوق العمل. ويؤهل البرنامج للعمل في البنوك، والمؤسسات الاستثمارية، وشركات التأمين، والأسواق المالية، والاستشارات المالية، والهيئات الحكومية، أو متابعة الدراسات العليا والحصول على الشهادات المهنية العالمية في المالية والاستثمار."
 }

@@ -5,12 +5,12 @@
   "program_name": "Diploma in Accounting",
   "slug": "diploma-in-accounting",
   "field": "accounting",
-  "duration": "3 years",
+  "duration": "2 years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Jun",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -25,7 +25,8 @@
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/FA10779",
+    "programme_code": "R/0411/4/0105"
   },
   "sources": [
     {

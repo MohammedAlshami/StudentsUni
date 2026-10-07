@@ -1,58 +1,63 @@
 {
-  "university": "Multimedia University",
-  "university_slug": "mmu",
-  "level": "bachelor",
-  "program_name": "Bachelor of Engineering (Hons.) Electronics majoring in Nanotechnology",
-  "field": "Engineering",
-  "duration": "4 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Aug",
-    "Mar",
-    "Oct"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No international fee published in MMU's official 2026 international fee schedule (June 2026); contact MMU for current fee. Source: https://www.mmu.edu.my/fee-structure-international/"
+ "university": "Multimedia University",
+ "university_slug": "mmu",
+ "level": "bachelor",
+ "program_name": "Bachelor of Engineering (Hons.) Electronics majoring in Nanotechnology",
+ "field": "Engineering",
+ "duration": "4 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Aug",
+  "Mar",
+  "Oct"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 25750.0,
+  "per_year": null,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%85%d9%84%d8%aa%d9%85%d9%8a%d8%af%d9%8a%d8%a7-mmu-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": {
+  "mqa_status": "Full Accreditation",
+  "mqa_ref": "R3/0713/6/0059"
+ },
+ "sources": [
+  {
+   "url": "https://www.mmu.edu.my/full-list-of-programmes-offered/",
+   "publisher": "Multimedia University",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.studymalaysia.com/what/course/MMU/0055548/",
+   "publisher": "StudyMalaysia",
+   "fetched_at": "2026-09-14"
   },
-  "accreditation": {
-    "mqa_status": "Full Accreditation",
-    "mqa_ref": "R3/0713/6/0059"
+  {
+   "url": "https://www.mmu.edu.my/fee-structure/",
+   "publisher": "Multimedia University",
+   "fetched_at": "2026-09-15"
   },
-  "sources": [
-    {
-      "url": "https://www.mmu.edu.my/full-list-of-programmes-offered/",
-      "publisher": "Multimedia University",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://www.studymalaysia.com/what/course/MMU/0055548/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://www.mmu.edu.my/fee-structure/",
-      "publisher": "Multimedia University",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.mmu.edu.my/fee-structure-international/",
-      "publisher": "Multimedia University",
-      "fetched_at": "2026-09-15"
-    }
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Engineering (Hons.) Electronics majoring in Nanotechnology",
-  "program_name_zh": "电子工程荣誉学士（纳米技术专业）",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+  {
+   "url": "https://www.mmu.edu.my/fee-structure-international/",
+   "publisher": "Multimedia University",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%85%d9%84%d8%aa%d9%85%d9%8a%d8%af%d9%8a%d8%a7-mmu-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Engineering (Hons.) Electronics majoring in Nanotechnology",
+ "program_name_zh": "电子工程荣誉学士（纳米技术专业）",
+ "field_ar": "الهندسة",
+ "field_zh": "工程"
 }

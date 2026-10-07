@@ -1,51 +1,57 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Diploma",
-  "program_name": "Diploma in Early Childhood Education",
-  "field": "Education (Teacher Training & Education Sciences)",
-  "slug": "diploma-in-early-childhood-education",
-  "duration": "2.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Oct",
-    "Mar"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 58600,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Diploma",
+ "program_name": "Diploma in Early Childhood Education",
+ "field": "Education (Teacher Training & Education Sciences)",
+ "slug": "diploma-in-early-childhood-education",
+ "duration": "2.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Oct",
+  "Mar"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 58600,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058805/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058805/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Early Childhood Education",
-  "program_name_zh": "幼儿教育文凭",
-  "field_ar": "التربية والتعليم",
-  "field_zh": "教育（师资培训与教育科学）"
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1%D8%A9-5897/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Early Childhood Education",
+ "program_name_zh": "幼儿教育文凭",
+ "field_ar": "التربية والتعليم",
+ "field_zh": "教育（师资培训与教育科学）",
+ "description": "يهدف برنامج دبلوم في تعليم الطفولة المبكرة إلى إعداد معلمين ومربّين مؤهلين للعمل مع الأطفال في سنواتهم الأولى، من خلال تزويدهم بالمعارف والمهارات المتعلقة بنمو الطفل، وطرق التدريس الحديثة، وتصميم الأنشطة التعليمية، وإدارة الصفوف، والتواصل مع الأطفال وأولياء الأمور. كما يركز البرنامج على تنمية الإبداع والابتكار في التعليم، وتعزيز القيم والأخلاقيات المهنية، بما يؤهل الخريجين للعمل في رياض الأطفال والمؤسسات التعليمية المختلفة."
 }

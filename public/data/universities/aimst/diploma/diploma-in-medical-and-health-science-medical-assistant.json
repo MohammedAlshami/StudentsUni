@@ -5,7 +5,7 @@
   "program_name": "Diploma in Medical and Health Science (Medical Assistant)",
   "slug": "diploma-in-medical-and-health-science-medical-assistant",
   "field": "Medical Science",
-  "duration": "3 years",
+  "duration": "3 years (6 semesters)",
   "mode": "Full-time",
   "intakes": [
     "Sep",
@@ -19,19 +19,20 @@
     "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "local": "SPM minimum 5 credits: Bahasa Melayu + Science (Biology/Chemistry or Physics+Bio or Science) + Math or Add Math + 2 other subjects.",
+    "international": "GCE O-Level 5 credits.",
+    "english_requirement": "IELTS 5.0 or TOEFL 60"
   },
   "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": "MQA/PA18332",
+    "programme_code": "N/0913/4/0066"
   },
   "sources": [
     "https://www.aimst.edu.my/academic/diploma-in-medical-and-health-science-medical-assistant/",
     "https://aimst.edu.my/international-students/"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Medical and Health Science (Medical Assistant)",
   "program_name_zh": "医学与健康科学文凭（医疗助理）",

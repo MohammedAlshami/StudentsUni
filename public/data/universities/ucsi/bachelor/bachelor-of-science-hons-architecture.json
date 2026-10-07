@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Science (Hons) in Architecture",
-  "field": "Architecture",
-  "duration": "3.3 years / 7 semesters (inclusive of 3-month Professional Internship)",
-  "mode": "Full-time",
-  "intakes": [
-    "Mar",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 129342,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-hons-architecture), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL iBT 44",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005512/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-hons-architecture"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Science (Hons) in Architecture",
-  "program_name_zh": "建筑学荣誉理学学士",
-  "field_ar": "العمارة",
-  "field_zh": "建筑学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Science (Hons) in Architecture",
+ "field": "Architecture",
+ "duration": "3.3 years / 7 semesters (inclusive of 3-month Professional Internship)",
+ "mode": "Full-time",
+ "intakes": [
+  "Mar",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 129342,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-science-hons-architecture), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL iBT 44",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005512/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-science-hons-architecture",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D8%A9-4878/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Science (Hons) in Architecture",
+ "program_name_zh": "建筑学荣誉理学学士",
+ "field_ar": "العمارة",
+ "field_zh": "建筑学",
+ "description": "يهدف برنامج العلوم في العمارة إلى إعداد معماريين يمتلكون المعرفة والمهارات اللازمة لتصميم المباني والفراغات العمرانية وفق أعلى المعايير المهنية. يجمع البرنامج بين الإبداع الفني، والمعرفة التقنية، والاستدامة، والتكنولوجيا الرقمية، مع التركيز على تطوير مهارات التصميم، والرسم، والنمذجة، وإدارة المشاريع. كما يتيح للطلاب اكتساب خبرة عملية من خلال المشاريع والاستوديوهات والتدريب، مما يؤهلهم للعمل في مكاتب الهندسة المعمارية، وشركات التطوير العقاري، والمؤسسات الحكومية، أو لمواصلة الدراسات العليا في العمارة والتخطيط العمراني."
 }

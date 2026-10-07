@@ -8,21 +8,22 @@
   "duration": "2 - 4 years (Full-time), 3 - 6 years (Part-time)",
   "mode": "Full-time / Part-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Oct"
   ],
   "fees": {
     "currency": "MYR",
     "total": 8750,
     "per_year": null,
-    "notes": "Master of Education (by research): international total RM8,750 (tuition RM4,000 + registration/admin/convocation RM750 + resource RM1,200 + examination RM1,600 + refundable security deposit RM1,200). Excludes EMGS fee and insurance. Source: https://aiu.edu.my/postgraduate/, fetched 2026-09-18."
+    "malaysian_ft": 8150,
+    "international_ft": 8750,
+    "notes": "Malaysian FT: MYR 8,150; International FT: MYR 8,750. Excludes EMGS fee and insurance. Source: https://aiu.edu.my/postgraduate/, verified 2026-09-18."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.0 or TOEFL 550; Malaysian: MUET Band 4",
+    "other_qualifications": "Bachelor's degree with CGPA 2.75 or equivalent"
   },
-  "accreditation": "N/140/7/0028 (6/26) MQA/PA 14318",
+  "accreditation": "MQA/PA 14318",
+  "programme_code": "N/140/7/0028",
   "sources": [
     "https://www.aiu.edu.my/postgraduate",
     {

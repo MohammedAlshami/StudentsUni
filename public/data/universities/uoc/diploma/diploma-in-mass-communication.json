@@ -1,45 +1,51 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Diploma",
-  "program_name": "Diploma in Mass Communication",
-  "field": "Communication & Broadcasting",
-  "slug": "diploma-in-mass-communication",
-  "duration": "2 years",
-  "mode": "Full-time Study",
-  "intakes": [
-    "April",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 40600,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Diploma",
+ "program_name": "Diploma in Mass Communication",
+ "field": "Communication & Broadcasting",
+ "slug": "diploma-in-mass-communication",
+ "duration": "2 years",
+ "mode": "Full-time Study",
+ "intakes": [
+  "April",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 40600,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058793/",
+  {
+   "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058793/",
-    {
-      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Mass Communication",
-  "program_name_zh": "大众传播文凭",
-  "field_ar": "الاتصالات",
-  "field_zh": "传播与广播"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1%D9%8A-5893/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Mass Communication",
+ "program_name_zh": "大众传播文凭",
+ "field_ar": "الاتصالات",
+ "field_zh": "传播与广播",
+ "description": "يهدف برنامج دبلوم في الاتصال الجماهيري إلى إعداد الطلبة للعمل في مجالات الإعلام والاتصال من خلال تزويدهم بالمعارف النظرية والمهارات العملية في الصحافة، والإعلام الرقمي، والإنتاج الإعلامي، والعلاقات العامة، والإعلان، والاتصال المؤسسي. يركز البرنامج على تطوير مهارات الكتابة الإعلامية، وإعداد المحتوى، والتصوير، وإنتاج الفيديو، وإدارة وسائل التواصل الاجتماعي، والتواصل الفعال مع مختلف فئات المجتمع. كما يتعرف الطلبة على أخلاقيات المهنة، والقوانين الإعلامية، وأساليب البحث في الإعلام والاتصال. ويعتمد البرنامج على التعلم التطبيقي والمشروعات العملية التي تساعد الطلبة على اكتساب خبرات حقيقية في إنتاج المحتوى الإعلامي واستخدام التقنيات الحديثة. كما يعزز البرنامج الإبداع والابتكار والعمل الجماعي، ويؤهل الخريجين لمواصلة الدراسة أو العمل في المؤسسات الإعلامية، والشركات، والهيئات الحكومية، ووكالات الإعلان، وشركات الإنتاج الإعلامي."
 }

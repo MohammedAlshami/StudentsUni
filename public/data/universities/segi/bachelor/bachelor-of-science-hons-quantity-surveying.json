@@ -1,52 +1,58 @@
 {
-  "university": "SEGi University",
-  "university_slug": "segi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Science (Hons) Quantity Surveying",
-  "slug": "bachelor-of-science-hons-quantity-surveying",
-  "field": "Architecture & Building",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "May",
-    "Sep",
-    "Jan"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "SEGi official website is inaccessible from this environment (Cloudflare bot protection) and no official fee schedule is publicly indexed; set to null rather than use stale aggregator data. Checked segi.edu.my (fetched 2026-09-18)"
+ "university": "SEGi University",
+ "university_slug": "segi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Science (Hons) Quantity Surveying",
+ "slug": "bachelor-of-science-hons-quantity-surveying",
+ "field": "Architecture & Building",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "May",
+  "Sep",
+  "Jan"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 91393.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D9%88%D8%AA%D8%A7-%D8%AF%D8%A7%D9%85%D8%A7%D9%86%D8%B3%D8%A7%D8%B1%D8%A7-5370/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/SEGI/0054507/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/SEGI/0054507/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/segi-university-246/bsc-hons-quantity-surveying-267694/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Science (Hons) Quantity Surveying",
-  "program_name_zh": "工料测量荣誉理学士",
-  "field_ar": "العمارة",
-  "field_zh": "建筑与建造"
+  {
+   "url": "https://www.easyuni.my/malaysia/segi-university-246/bsc-hons-quantity-surveying-267694/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D9%88%D8%AA%D8%A7-%D8%AF%D8%A7%D9%85%D8%A7%D9%86%D8%B3%D8%A7%D8%B1%D8%A7-5370/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Science (Hons) Quantity Surveying",
+ "program_name_zh": "工料测量荣誉理学士",
+ "field_ar": "العمارة",
+ "field_zh": "建筑与建造",
+ "description": "يهدف العلوم في المساحة الكمية إلى إعداد متخصصين يمتلكون المعرفة والمهارات اللازمة لإدارة التكاليف والموارد المالية في مشاريع البناء والإنشاءات، بما يضمن تنفيذ المشاريع بكفاءة وضمن الميزانية المحددة. يدرس الطلبة موضوعات تشمل تقدير التكاليف، وإعداد المناقصات، وإدارة العقود، وقياس الكميات، وإدارة المشاريع، واقتصاديات البناء، وقوانين الإنشاءات، وتقنيات البناء، واستخدام البرمجيات المتخصصة في المساحة الكمية وإدارة التكاليف. كما يركز البرنامج على تنمية مهارات التحليل، والتفاوض، واتخاذ القرارات، والتخطيط المالي، وإدارة المخاطر، والعمل ضمن فرق متعددة التخصصات. ويجمع البرنامج بين الدراسة الأكاديمية والتطبيق العملي من خلال المشاريع، ودراسات الحالة، والتدريب الميداني، مما يمنح الطلبة خبرة واقعية في قطاع الإنشاءات. كما يواكب البرنامج التطورات في البناء الرقمي، ونمذجة معلومات البناء (BIM)، والاستدامة، مما يعزز قدرة الخريجين على إدارة المشاريع الحديثة. ويؤهل البرنامج الخريجين للعمل في شركات المقاولات، ومكاتب الاستشارات الهندسية، وشركات التطوير العقاري، والجهات الحكومية، أو متابعة الدراسات العليا والتأهيل المهني في مجال المساحة الكمية وإدارة المشاريع."
 }

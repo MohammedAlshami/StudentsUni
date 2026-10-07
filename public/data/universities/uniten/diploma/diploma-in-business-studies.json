@@ -1,48 +1,54 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "diploma",
-  "program_name": "Diploma in Business Studies",
-  "program_slug": "diploma-in-business-studies",
-  "field": "Business",
-  "duration": "2 years (Full-time)",
-  "mode": "Full-time",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 28800,
-    "per_year": 14400,
-    "notes": "International student tuition: RM28,800 total. Source: https://www.uniten.edu.my/programme/diploma/diploma-in-business-studies/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 2yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "diploma",
+ "program_name": "Diploma in Business Studies",
+ "program_slug": "diploma-in-business-studies",
+ "field": "Business",
+ "duration": "2 years (Full-time)",
+ "mode": "Full-time",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 28800,
+  "per_year": 14400,
+  "notes": "International student tuition: RM28,800 total. Source: https://www.uniten.edu.my/programme/diploma/diploma-in-business-studies/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 2yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "Pass SPM/O-Level with minimum Grade C in any 3 subjects; or UEC with minimum 3 subjects Grade B6; or STPM with minimum Grade C (CGPA 2.00) in any subject; or STAM with minimum MAQBUL; or SKM Level 3 in a related field; international applicants require a High School Certificate with minimum 50% and Grade C in Mathematics and English."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "R2/0414/4/0433 (03/27) (MQA/FA1120)"
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/diploma/diploma-in-business-studies/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "Pass SPM/O-Level with minimum Grade C in any 3 subjects; or UEC with minimum 3 subjects Grade B6; or STPM with minimum Grade C (CGPA 2.00) in any subject; or STAM with minimum MAQBUL; or SKM Level 3 in a related field; international applicants require a High School Certificate with minimum 50% and Grade C in Mathematics and English."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "R2/0414/4/0433 (03/27) (MQA/FA1120)"
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/diploma/diploma-in-business-studies/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Business Studies",
-  "program_name_zh": "商业学文凭",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业"
+  {
+   "url": "https://maigaedu.com/program/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-4435/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Business Studies",
+ "program_name_zh": "商业学文凭",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业",
+ "description": "يهدف دبلوم دراسات الأعمال إلى إعداد كوادر مهنية تمتلك المعرفة الأساسية والمهارات العملية للعمل في مختلف قطاعات الأعمال والإدارة. يركز البرنامج على الإدارة، والتسويق، والمحاسبة، والاقتصاد، وريادة الأعمال، وإدارة الموارد البشرية، وخدمة العملاء، مع تنمية مهارات القيادة، والتواصل، والعمل الجماعي، واتخاذ القرارات. كما يساعد البرنامج الطلبة على فهم بيئة الأعمال الحديثة وتطبيق المفاهيم الإدارية في المؤسسات المختلفة، مع استخدام التقنيات الرقمية في إدارة العمليات التجارية. ويجمع البرنامج بين الدراسة الأكاديمية، والتطبيقات العملية، ودراسات الحالة، مما يمنح الطلبة خبرة تؤهلهم للاندماج في سوق العمل أو متابعة الدراسة الجامعية. كما يواكب البرنامج التطورات في ريادة الأعمال والتحول الرقمي، ويؤهل الخريجين للعمل في المؤسسات التجارية، والشركات، والقطاع الحكومي، أو استكمال الدراسة في برامج البكالوريوس في إدارة الأعمال والتخصصات المرتبطة بها."
 }

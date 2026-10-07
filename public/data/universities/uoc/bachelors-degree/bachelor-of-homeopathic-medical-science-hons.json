@@ -1,60 +1,66 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Bachelor's Degree",
-  "program_name": "Bachelor of Homeopathic Medical Science (Hons)",
-  "field": "Medicine & Healthcare",
-  "slug": "bachelor-of-homeopathic-medical-science-hons",
-  "duration": "5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Oct"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 99300,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Bachelor's Degree",
+ "program_name": "Bachelor of Homeopathic Medical Science (Hons)",
+ "field": "Medicine & Healthcare",
+ "slug": "bachelor-of-homeopathic-medical-science-hons",
+ "duration": "5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Oct"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 99300,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0055133/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0055133/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-of-homeopathic-medical-science-hons-278783/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Homeopathic Medical Science (Hons)",
-  "program_name_zh": "顺势医学荣誉学士",
-  "field_ar": "الطب",
-  "field_zh": "医学与医疗保健"
+  {
+   "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-of-homeopathic-medical-science-hons-278783/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AB%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%88%D9%85%D9%8A%D9%88%D8%A8%D8%A7%D8%AB%D9%8A-5862/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Homeopathic Medical Science (Hons)",
+ "program_name_zh": "顺势医学荣誉学士",
+ "field_ar": "الطب",
+ "field_zh": "医学与医疗保健",
+ "description": "يهدف برنامج العلوم الطبية المثلية (الهوميوباثي) إلى إعداد ممارسين يمتلكون المعرفة العلمية والمهارات المهنية في مجال الطب المثلي، مع فهم متكامل للعلوم الطبية الأساسية والرعاية الصحية الشاملة. يركز البرنامج على التشريح، وعلم وظائف الأعضاء، وعلم الأمراض، والصيدلة المثلية، ومبادئ العلاج المثلي، والتشخيص السريري، وأخلاقيات المهنة، والبحث العلمي. كما ينمي البرنامج مهارات التواصل مع المرضى، والتقييم السريري، ووضع الخطط العلاجية المناسبة وفق الممارسات المهنية المعتمدة. ويجمع البرنامج بين الدراسة النظرية والتدريب السريري في العيادات والمراكز الصحية، مما يمنح الطلبة خبرة عملية في تقديم الرعاية الصحية. ويؤهل البرنامج الخريجين للعمل في مراكز الطب التكميلي، والعيادات المتخصصة، ومؤسسات الرعاية الصحية، أو متابعة الدراسات العليا والبحوث في مجالات الطب المثلي والعلوم الصحية."
 }

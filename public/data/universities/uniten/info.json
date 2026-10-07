@@ -33,9 +33,19 @@
   "sources": [
     "https://www.uniten.edu.my",
     "https://www.uniten.edu.my/programme/",
-    "https://www.studymalaysia.com/edu/uniten/courses/"
+    "https://www.studymalaysia.com/edu/uniten/courses/",
+    {
+      "url": "https://abeereducation.com/universities/universiti-tenaga-nasional-uniten",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AA%D9%86%D8%A7%D8%AC%D8%A7-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9/13/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 6000,
@@ -43,5 +53,22 @@
     "per_year_local": 6000,
     "per_year_international": 8400,
     "notes": "Verified international tuition RM16,800-RM104,500 total across all levels (UNITEN official programme pages, 2026; official International Fee Structures Dec 2024). Values shown are the lowest totals."
-  }
+  },
+  "founded_year": 1997,
+  "local_rank": 18,
+  "employability": "94.5% خلال 6 أشهر من التخرج وفق Graduate Tracer Study",
+  "accreditation": "MQA معتمدة رسمياً",
+  "description": "UNITEN ليست جامعة خاصة عادية. هي جامعة تمتلكها شركة تناجا ناسيونال، أكبر شركة كهرباء في ماليزيا ومن أكبر شركات الطاقة في جنوب شرق آسيا. هذا الارتباط المباشر بقطاع الطاقة ليس مجرد علاقة أكاديمية، بل يعني أن طلاب الهندسة يتدربون في شركة حقيقية ذات بنية تحتية ضخمة، ويدخلون سوق عمل تعرف اسم جامعتهم جيداً.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J30H8EX2M47ZTX8M162JYSN6.png",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J76BTR4WDVCNFVEE669E5V7T.webp",
+  "faculties": [
+    "1. كلية الهندسة",
+    "2. كلية علوم الحاسب والمعلومات",
+    "3. كلية الأعمال والمحاسبة",
+    "4. كلية اقتصاديات الطاقة والعلوم الاجتماعية"
+  ],
+  "intakes": [
+    "سنوي"
+  ],
+  "city": "بوتراجايا (هندسة وIT) وحرم Sultan Haji Ahmad Shah في بانغ (أعمال ومحاسبة)"
 }

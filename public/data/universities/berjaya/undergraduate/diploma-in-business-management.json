@@ -4,7 +4,7 @@
   "level": "diploma",
   "program_name": "Diploma in Business Management",
   "field": "Business",
-  "duration": "3 years",
+  "duration": "2 years",
   "mode": "Full Time",
   "intakes": [
     "January",
@@ -19,9 +19,14 @@
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "spm": "Minimum 3 credits",
+    "o_levels": "Minimum 3 credits",
+    "uec": "Minimum 3Bs",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
+  "mqa_ref": "MQA/FA 1768",
+  "programme_code": "R2/345/4/0174",
   "accreditation": null,
   "sources": [
     {

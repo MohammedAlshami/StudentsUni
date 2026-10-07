@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Arts (Hons) Accounting & Finance",
-  "field": "Accounting & Finance",
-  "duration": "3 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 118218,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-arts-hons-accounting-and-finance), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5 or TOEFL iBT 40",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005586/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-arts-hons-accounting-and-finance"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Arts (Hons) Accounting & Finance",
-  "program_name_zh": "会计与金融荣誉文学士",
-  "field_ar": "المحاسبة",
-  "field_zh": "会计与金融"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Arts (Hons) Accounting & Finance",
+ "field": "Accounting & Finance",
+ "duration": "3 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 118218,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-arts-hons-accounting-and-finance), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5 or TOEFL iBT 40",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005586/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-arts-hons-accounting-and-finance",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-4889/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Arts (Hons) Accounting & Finance",
+ "program_name_zh": "会计与金融荣誉文学士",
+ "field_ar": "المحاسبة",
+ "field_zh": "会计与金融",
+ "description": "يهدف برنامج الآداب في المحاسبة والمالية إلى إعداد متخصصين يجمعون بين المعرفة المحاسبية والتحليل المالي لاتخاذ قرارات أعمال فعالة. يركز البرنامج على المحاسبة، وإدارة التمويل، والتدقيق، والاستثمار، وإدارة المخاطر، والحوكمة، مع تنمية مهارات استخدام التقنيات المالية الحديثة. كما يجمع بين الدراسة النظرية والتطبيق العملي، ويؤهل الخريجين للعمل في المؤسسات المالية، وشركات المحاسبة، والبنوك، وشركات الاستثمار، أو لمواصلة الدراسات العليا والشهادات المهنية المتخصصة."
 }

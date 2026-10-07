@@ -1,53 +1,59 @@
 {
-  "university": "City University Malaysia",
-  "university_slug": "cityu",
-  "level": "undergraduate",
-  "program_name": "Bachelor of Environmental Health (Hons)",
-  "program_slug": "bachelor-of-environmental-health-hons",
-  "field": "Health Sciences",
-  "duration": "4 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Feb",
-    "Jun",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "City University Malaysia does not publish an international fee schedule: the official International Students page states the latest fee structure is available only from the International Marketing Office (imo@city.edu.my) or CityU representatives on request, and the official programme page and programme listing show no tuition fee. Sources checked: https://city.edu.my/admission-scholarships/international-students/; https://city.edu.my/bachelor-of-environmental-health-hons/; https://city.edu.my/programmes/bachelor/ (all accessed 2026-09-18)."
+ "university": "City University Malaysia",
+ "university_slug": "cityu",
+ "level": "undergraduate",
+ "program_name": "Bachelor of Environmental Health (Hons)",
+ "program_slug": "bachelor-of-environmental-health-hons",
+ "field": "Health Sciences",
+ "duration": "4 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Feb",
+  "Jun",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 60750.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-4983/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": "MQA",
+ "sources": [
+  {
+   "url": "https://www.city.edu.my",
+   "publisher": "Unknown",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": "MQA",
-  "sources": [
-    {
-      "url": "https://www.city.edu.my",
-      "publisher": "Unknown",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://city.edu.my/admission-scholarships/international-students/",
-      "publisher": "City University Malaysia",
-      "fetched_at": "2026-09-18"
-    },
-    "https://city.edu.my/bachelor-of-environmental-health-hons/",
-    "https://city.edu.my/programmes/bachelor/"
-  ],
-  "confidence": 0.5,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Environmental Health (Hons)",
-  "program_name_zh": "环境健康学士（荣誉学位）",
-  "field_ar": "العلوم",
-  "field_zh": "健康科学"
+  {
+   "url": "https://city.edu.my/admission-scholarships/international-students/",
+   "publisher": "City University Malaysia",
+   "fetched_at": "2026-09-18"
+  },
+  "https://city.edu.my/bachelor-of-environmental-health-hons/",
+  "https://city.edu.my/programmes/bachelor/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-4983/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.8,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Environmental Health (Hons)",
+ "program_name_zh": "环境健康学士（荣誉学位）",
+ "field_ar": "العلوم",
+ "field_zh": "健康科学",
+ "description": "يقدم برنامج Environmental Health مدخلاً أكاديميًا متكاملًا إلى مجال السلامة والصحة والبيئة، ويهدف إلى مساعدة الطالب على فهم طبيعة التخصص من خلال الجمع بين المعرفة النظرية والتطبيق العملي. يركز البرنامج على بناء طريقة تفكير مهنية تساعد الطالب على تحليل المشكلات، قراءة المتطلبات، تطوير الحلول، وتقديم الأفكار بصورة واضحة ومنظمة. ومن خلال موضوعاته الأساسية، يتعرف الطالب على المفاهيم التي يقوم عليها المجال، وعلى المهارات التي يحتاجها للنجاح في الدراسة والممارسة العملية، مثل تقييم المخاطر، الوقاية، فهم اللوائح، وحماية الإنسان والبيئة في مواقع العمل. ولا يقتصر البرنامج على حفظ المعلومات، بل يشجع الطالب على البحث، النقاش، العمل الجماعي، وإنتاج مشاريع أو أعمال تعكس فهمه للتخصص. كما يمنح الطالب فرصة لاكتشاف اهتماماته داخل المجال، سواء كانت مرتبطة بالتحليل، الإبداع، الإدارة، التقنية، البحث، أو خدمة المجتمع. ويهتم البرنامج بتنمية القدرة على اتخاذ القرار، تقييم البدائل، احترام أخلاقيات المهنة، وفهم العلاقة بين المعرفة الأكاديمية والتحديات التي تظهر في بيئات العمل الحديثة. يساعد هذا المسار كذلك على تطوير مهارات التواصل والكتابة والعرض، وهي مهارات مهمة لأي طالب يريد أن يعبّر عن أفكاره بثقة ويشارك بفاعلية في بيئة أكاديمية أو مهنية. يناسب البرنامج الطلاب الذين يرغبون في بناء أساس قوي ومنظم، وفهم أعمق لطبيعة التخصص قبل الانتقال إلى مراحل أكثر تقدمًا أو إلى فرص عمل مرتبطة به. وبنهاية الدراسة، يكون الطالب أكثر استعدادًا للتعامل مع التحديات الواقعية في هذا المجال، وأكثر قدرة على ربط ما يتعلمه باحتياجات السوق والمجتمع."
 }

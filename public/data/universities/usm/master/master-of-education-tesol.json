@@ -1,41 +1,47 @@
 {
-  "university": "Universiti Sains Malaysia",
-  "university_slug": "usm",
-  "level": "master",
-  "program_name": "Master of Education in English Language Education/TESOL",
-  "field": "Education",
-  "slug": "master-of-education-tesol",
-  "duration": "FT: Min 2 Sem/Max 4 Sem; PT: Min 4 Sem/Max 8 Sem",
-  "mode": "Flexible Full-time/Part-time",
-  "intakes": [
-    "September"
-  ],
-  "fees": {
-    "currency": "USD",
-    "total": 6800,
-    "per_year": null,
-    "notes": "Official USM international postgraduate tuition (total per programme): USD 6,800; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
+ "university": "Universiti Sains Malaysia",
+ "university_slug": "usm",
+ "level": "master",
+ "program_name": "Master of Education in English Language Education/TESOL",
+ "field": "Education",
+ "slug": "master-of-education-tesol",
+ "duration": "FT: Min 2 Sem/Max 4 Sem; PT: Min 4 Sem/Max 8 Sem",
+ "mode": "Flexible Full-time/Part-time",
+ "intakes": [
+  "September"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 6800,
+  "per_year": null,
+  "notes": "Official USM international postgraduate tuition (total per programme): USD 6,800; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": {
+  "mqa_status": "Full Accreditation",
+  "mqa_ref": null
+ },
+ "sources": [
+  {
+   "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
+   "publisher": "USM Admissions",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": {
-    "mqa_status": "Full Accreditation",
-    "mqa_ref": null
-  },
-  "sources": [
-    {
-      "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
-      "publisher": "USM Admissions",
-      "fetched_at": "2026-09-14"
-    },
-    "https://admission.usm.my/index.php/postgraduate/fee-pg"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Education in English Language Education/TESOL",
-  "program_name_zh": "Education in English Language Education/TESOL硕士",
-  "field_ar": "التربية والتعليم",
-  "field_zh": "教育"
+  "https://admission.usm.my/index.php/postgraduate/fee-pg",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%AF%D8%B1%D9%8A%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%83%D9%84%D8%BA%D8%A9-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-4290/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Education in English Language Education/TESOL",
+ "program_name_zh": "Education in English Language Education/TESOL硕士",
+ "field_ar": "التربية والتعليم",
+ "field_zh": "教育",
+ "description": "برنامج ماجستير في التربية (تدريس اللغة الإنجليزية كلغة ثانية) يهدف إلى إعداد معلمين وقادة تربويين متخصصين في تدريس اللغة الإنجليزية كلغة ثانية باستخدام أحدث النظريات والاستراتيجيات التعليمية. يركز البرنامج على مناهج تدريس اللغة الإنجليزية، وتصميم المناهج، وطرائق التدريس، وتقويم تعلم اللغة، واللغويات التطبيقية، والتكنولوجيا التعليمية، والبحث التربوي، مع تنمية مهارات القيادة والتفكير النقدي والتطوير المهني. كما يكتسب الطلبة القدرة على تصميم بيئات تعليمية فعالة، وتطوير البرامج التعليمية، واستخدام التقنيات الحديثة في تعليم اللغة الإنجليزية. ويؤهل البرنامج الخريجين للعمل كمعلمين، ومشرفين تربويين، ومطوري مناهج، وباحثين، وقادة في المؤسسات التعليمية، والجامعات، ومراكز التدريب، والمنظمات التعليمية المحلية والدولية."
 }

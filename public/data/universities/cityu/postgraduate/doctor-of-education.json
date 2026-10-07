@@ -20,7 +20,7 @@
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "other_qualifications": "Recognised Master's degree; OR Bachelor's degree with minimum CGPA 2.50 and relevant work experience"
   },
   "accreditation": "MQA",
   "sources": [
@@ -42,7 +42,7 @@
     "https://city.edu.my/doctor-of-education/",
     "https://city.edu.my/programmes/masters-phd/"
   ],
-  "confidence": 0.5,
+  "confidence": 0.8,
   "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Education",
   "program_name_zh": "教育博士",

@@ -4,7 +4,7 @@
   "level": "doctorate",
   "program_name": "Doctor of Philosophy in Management",
   "field": "Management",
-  "duration": "3 years",
+  "duration": "3 years (FT) / 4 years (PT)",
   "mode": "Full Time",
   "intakes": [
     "January",
@@ -19,8 +19,11 @@
   },
   "requirements": {
     "english_requirement": "IELTS 6.5 or TOEFL 95",
-    "other_qualifications": "Master degree with research experience"
+    "masters": "Master's degree CGPA 2.5; OR 5 years working experience; OR APEL (min 35 years old)",
+    "other_qualifications": "Equivalent master's degree"
   },
+  "mqa_ref": "MQA/PA 16217",
+  "programme_code": "N/0414/8/0016",
   "accreditation": null,
   "sources": [
     {

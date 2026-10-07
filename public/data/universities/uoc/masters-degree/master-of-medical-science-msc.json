@@ -1,40 +1,57 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Masters Degree",
-  "program_name": "Master of Medical Science (MSc)",
-  "field": "Medicine & Healthcare",
-  "slug": "master-of-medical-science-msc",
-  "duration": "Full-time: 2 - 6 years Part-time: 4 - 8 years",
-  "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": [
-    "Oct"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 39000,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Masters Degree",
+ "program_name": "Master of Medical Science (MSc)",
+ "field": "Medicine & Healthcare",
+ "slug": "master-of-medical-science-msc",
+ "duration": "Full-time: 2 - 6 years Part-time: 4 - 8 years",
+ "mode": "Flexible Full-time/Part-time Mode",
+ "intakes": [
+  "Oct"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 39000,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": [
+  {
+   "label": "العمر الأدنى",
+   "value": "18",
+   "note": "سنة"
   },
-  "requirements": null,
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0055136/",
-    {
-      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Medical Science (MSc)",
-  "program_name_zh": "医学科学硕士",
-  "field_ar": "الطب",
-  "field_zh": "医学与医疗保健"
+  {
+   "label": "المؤهل",
+   "value": "ثانوية معتمدة",
+   "note": "ماجستير"
+  }
+ ],
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0055136/",
+  {
+   "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-5871/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Medical Science (MSc)",
+ "program_name_zh": "医学科学硕士",
+ "field_ar": "الطب",
+ "field_zh": "医学与医疗保健",
+ "description": "يهدف برنامج العلوم الطبية إلى إعداد باحثين متخصصين قادرين على إجراء بحوث علمية متقدمة في مجالات العلوم الطبية والعلوم الصحية، بما يسهم في تطوير المعرفة الطبية وتحسين جودة الرعاية الصحية. يركز البرنامج على تصميم وتنفيذ المشاريع البحثية، وتحليل البيانات، واستخدام التقنيات المخبرية الحديثة، والالتزام بأخلاقيات البحث العلمي، مع توفير إشراف أكاديمي متخصص طوال فترة الدراسة. ويمكن للطلبة إجراء أبحاث في مجالات مثل علم الأمراض، وعلم وظائف الأعضاء، وعلم الأحياء الدقيقة، وعلم المناعة، والعلوم الطبية الحيوية، وغيرها من التخصصات الطبية. ويؤهل البرنامج الخريجين للعمل كباحثين في الجامعات، والمستشفيات، ومراكز البحوث، وشركات التكنولوجيا الحيوية، أو متابعة دراسة الدكتوراه في العلوم الطبية."
 }

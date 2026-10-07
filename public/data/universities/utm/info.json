@@ -27,9 +27,14 @@
     "https://admission.utm.my/programme-fees-ug-international/",
     "https://admission.utm.my/fees-pg-inter/",
     "https://space.utm.my/diploma/",
-    "https://space.utm.my/foundation/"
+    "https://space.utm.my/foundation/",
+    {
+      "url": "https://abeereducation.com/universities/universiti-teknologi-malaysia",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": null,
@@ -37,5 +42,23 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "International fees vary by programme and level. Undergraduate totals RM45,788-RM76,000 (official UG fee page: https://admission.utm.my/programme-fees-ug-international/); foundation RM16,950; diploma RM43,700-RM50,300; postgraduate varies by field. See individual programme files. Retrieved 2026-09-18."
-  }
+  },
+  "founded_year": 1972,
+  "qs_rank": 153,
+  "qs_year": 2026,
+  "international_students": 5600,
+  "accreditation": "MQA، برامج الهندسة معتمدة من EAC/BEM",
+  "description": "UTM ليست جامعة خاصة تنافس على الطلاب. هي جامعة حكومية بحثية أسستها الدولة الماليزية عام 1972 لتكون ركيزة الهندسة والتكنولوجيا في البلاد، ونجحت في ذلك بشكل موثق. المرتبة 153 عالمياً في QS 2026 وصعودها من 188 في عامين يعكس زخماً بحثياً حقيقياً لا جامعة تشتري تصنيفها.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01KTV2NEF35FR0AS28NZDH19WN.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01K0F15YZJ7SJ8XWEYY1CD10FA.webp",
+  "faculties": [
+    "1. كلية الهندسة",
+    "2. كلية الحوسبة والذكاء الاصطناعي",
+    "3. كلية البيئة المبنية والمساحة",
+    "4. كلية العلوم وكلية العلوم الاجتماعية والإنسانية"
+  ],
+  "intakes": [
+    "March",
+    "September"
+  ]
 }

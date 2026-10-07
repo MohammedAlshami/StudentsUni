@@ -1,60 +1,66 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Pre-University/Foundation Studies",
-  "program_name": "Foundation in Science (Medical/Pharmacy)",
-  "field": "Science",
-  "slug": "foundation-in-science-medical-pharmacy",
-  "duration": "1 year",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Oct",
-    "Mar"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 28000,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM3,000, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Pre-University/Foundation Studies",
+ "program_name": "Foundation in Science (Medical/Pharmacy)",
+ "field": "Science",
+ "slug": "foundation-in-science-medical-pharmacy",
+ "duration": "1 year",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Oct",
+  "Mar"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 28000,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM3,000, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0006345/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0006345/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/foundation-in-science-medicine-pharmacy-26917/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Science (Medical/Pharmacy)",
-  "program_name_zh": "理科基础课程（医学/药学方向）",
-  "field_ar": "العلوم",
-  "field_zh": "理科"
+  {
+   "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/foundation-in-science-medicine-pharmacy-26917/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9-5866/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Science (Medical/Pharmacy)",
+ "program_name_zh": "理科基础课程（医学/药学方向）",
+ "field_ar": "العلوم",
+ "field_zh": "理科",
+ "description": "يهدف برنامج العلوم (الصيدلة) إلى إعداد الطلبة للالتحاق ببرامج الفي الصيدلة والعلوم الصيدلانية والتخصصات العلمية ذات الصلة، من خلال توفير قاعدة معرفية قوية في العلوم الأساسية والمهارات الأكاديمية اللازمة للنجاح في التعليم الجامعي. يركز البرنامج على دراسة الكيمياء، والأحياء، والفيزياء، والرياضيات، إلى جانب التعرف على أساسيات العلوم الصيدلانية، وتقنيات المختبرات، والمصطلحات الطبية، ومبادئ السلامة في المختبرات. كما يعمل على تطوير مهارات التفكير النقدي، والتحليل العلمي، والتواصل الفعال، واستخدام التقنيات الحديثة في التعلم والبحث. يعتمد البرنامج على مزيج من المحاضرات النظرية، والتجارب العملية، والأنشطة التطبيقية التي تساعد الطلبة على فهم المفاهيم العلمية وتطبيقها في بيئات تعليمية متقدمة. ويمنح البرنامج الطلبة الثقة والجاهزية للانتقال إلى الدراسة الجامعية في تخصصات الصيدلة، والتكنولوجيا الصيدلانية، والكيمياء، والتكنولوجيا الحيوية، والعلوم الطبية الحيوية، والتغذية، وغيرها من البرامج العلمية. ويعد هذا البرنامج خطوة أساسية نحو بناء مستقبل مهني ناجح في مجالات الرعاية الصحية والصناعات الدوائية والبحث العلمي."
 }

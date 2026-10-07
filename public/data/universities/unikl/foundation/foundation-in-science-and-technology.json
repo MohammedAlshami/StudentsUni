@@ -1,46 +1,52 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "foundation",
-  "program_name": "Foundation in Science and Technology",
-  "program_slug": "foundation-in-science-and-technology",
-  "field": "Science & Technology",
-  "duration": "1 Year",
-  "mode": "Full-time",
-  "intakes": [
-    "February",
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 9000,
-    "per_year": null,
-    "notes": "Official international tuition: RM9,000 (subject to terms and conditions); excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/foundation-in-science-and-technology/ (accessed 2026-09-18)"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "foundation",
+ "program_name": "Foundation in Science and Technology",
+ "program_slug": "foundation-in-science-and-technology",
+ "field": "Science & Technology",
+ "duration": "1 Year",
+ "mode": "Full-time",
+ "intakes": [
+  "February",
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 9000,
+  "per_year": null,
+  "notes": "Official international tuition: RM9,000 (subject to terms and conditions); excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/foundation-in-science-and-technology/ (accessed 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "other_qualifications": "High school completion",
+  "general": "Entry Level and Requirements For Local Students Pass in SPM / O-Level with at least Grade C in 5 subjects For International Students Students must complete 11 years of schooling and obtain a general pass in their Secondary School Certificate, O-levels or equivalent with min Grade C in 5 subjects including Mathematics and one Science subject."
+ },
+ "accreditation": {
+  "mqa_code": "MQA/FA0846",
+  "valid_until": null,
+  "additional_codes": null
+ },
+ "sources": [
+  "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
+  "https://studymalaysia.com/what/course/UNIKL/0055849/",
+  {
+   "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/foundation-in-science-and-technology-293676/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion",
-    "general": "Entry Level and Requirements For Local Students Pass in SPM / O-Level with at least Grade C in 5 subjects For International Students Students must complete 11 years of schooling and obtain a general pass in their Secondary School Certificate, O-levels or equivalent with min Grade C in 5 subjects including Mathematics and one Science subject."
-  },
-  "accreditation": {
-    "mqa_code": "MQA/FA0846",
-    "valid_until": null,
-    "additional_codes": null
-  },
-  "sources": [
-    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
-    "https://studymalaysia.com/what/course/UNIKL/0055849/",
-    {
-      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/foundation-in-science-and-technology-293676/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    "https://www.unikl.edu.my/programme/foundation-in-science-and-technology/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Science and Technology",
-  "program_name_zh": "科学与技术预科",
-  "field_ar": "العلوم",
-  "field_zh": "科学与技术"
+  "https://www.unikl.edu.my/programme/foundation-in-science-and-technology/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-5711/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Science and Technology",
+ "program_name_zh": "科学与技术预科",
+ "field_ar": "العلوم",
+ "field_zh": "科学与技术",
+ "description": "يهدف برنامج العلوم والتكنولوجيا إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

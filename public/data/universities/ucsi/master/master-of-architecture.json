@@ -1,35 +1,41 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "master",
-  "program_name": "Master of Architecture",
-  "field": "Architecture",
-  "duration": "2 Years / 4 Semesters",
-  "mode": "Full-time",
-  "intakes": [
-    "Mar",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 77330,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-architecture), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0055562/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/master-architecture"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Architecture",
-  "program_name_zh": "建筑学硕士",
-  "field_ar": "العمارة",
-  "field_zh": "建筑学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "master",
+ "program_name": "Master of Architecture",
+ "field": "Architecture",
+ "duration": "2 Years / 4 Semesters",
+ "mode": "Full-time",
+ "intakes": [
+  "Mar",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 77330,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/master-architecture), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0055562/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/master-architecture",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D8%A9-4874/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Architecture",
+ "program_name_zh": "建筑学硕士",
+ "field_ar": "العمارة",
+ "field_zh": "建筑学",
+ "description": "يهدف برنامج العمارة إلى تطوير المهارات المهنية والإبداعية للمعماريين من خلال دراسة متقدمة في التصميم المعماري، والتخطيط العمراني، والاستدامة، وتقنيات البناء الحديثة. يجمع البرنامج بين المعرفة النظرية والتطبيق العملي، مع التركيز على تصميم مشاريع مبتكرة تلبي الاحتياجات البيئية والاجتماعية والاقتصادية. كما ينمي مهارات البحث، والتفكير النقدي، وإدارة المشاريع، والعمل ضمن فرق متعددة التخصصات. ويؤهل البرنامج الخريجين للحصول على فرص مهنية متقدمة في شركات الهندسة والاستشارات المعمارية، والجهات الحكومية، أو لمواصلة الدراسات العليا والبحث العلمي."
 }

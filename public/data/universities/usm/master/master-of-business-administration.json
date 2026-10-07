@@ -1,46 +1,52 @@
 {
-  "university": "Universiti Sains Malaysia",
-  "university_slug": "usm",
-  "level": "master",
-  "program_name": "Master of Business Administration (MBA)",
-  "field": "Business",
-  "slug": "master-of-business-administration",
-  "duration": "FT: Min 3 Sem/Max 4 Sem; PT: Min 4 Sem/Max 8 Sem",
-  "mode": "Flexible Full-time/Part-time",
-  "intakes": [
-    "September"
-  ],
-  "fees": {
-    "currency": "USD",
-    "total": 9600,
-    "per_year": null,
-    "notes": "Official USM international postgraduate tuition (total per programme): USD 9,600; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
+ "university": "Universiti Sains Malaysia",
+ "university_slug": "usm",
+ "level": "master",
+ "program_name": "Master of Business Administration (MBA)",
+ "field": "Business",
+ "slug": "master-of-business-administration",
+ "duration": "FT: Min 3 Sem/Max 4 Sem; PT: Min 4 Sem/Max 8 Sem",
+ "mode": "Flexible Full-time/Part-time",
+ "intakes": [
+  "September"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 9600,
+  "per_year": null,
+  "notes": "Official USM international postgraduate tuition (total per programme): USD 9,600; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": {
+  "mqa_status": "Full Accreditation",
+  "mqa_ref": null
+ },
+ "sources": [
+  {
+   "url": "https://studymalaysia.com/edu/usm/courses/",
+   "publisher": "StudyMalaysia",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+  {
+   "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
+   "publisher": "USM Admissions",
+   "fetched_at": "2026-09-14"
   },
-  "accreditation": {
-    "mqa_status": "Full Accreditation",
-    "mqa_ref": null
-  },
-  "sources": [
-    {
-      "url": "https://studymalaysia.com/edu/usm/courses/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
-      "publisher": "USM Admissions",
-      "fetched_at": "2026-09-14"
-    },
-    "https://admission.usm.my/index.php/postgraduate/fee-pg"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Business Administration (MBA)",
-  "program_name_zh": "工商管理硕士（MBA）",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业"
+  "https://admission.usm.my/index.php/postgraduate/fee-pg",
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-4228/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Business Administration (MBA)",
+ "program_name_zh": "工商管理硕士（MBA）",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业",
+ "description": "برنامج ماجستير في إدارة الأعمال يهدف إلى إعداد قادة أعمال محترفين يمتلكون المعرفة المتقدمة والمهارات الإدارية والاستراتيجية اللازمة لإدارة المؤسسات بكفاءة في بيئات الأعمال المحلية والعالمية. يركز البرنامج على تطوير القدرات القيادية، والتخطيط الاستراتيجي، وإدارة الموارد البشرية، والتسويق، والتمويل، وريادة الأعمال، وإدارة العمليات، مع تنمية مهارات اتخاذ القرار المبني على البيانات وتحليل المشكلات التنظيمية. كما يتيح البرنامج للطلبة دراسة أحدث الممارسات الإدارية والتوجهات العالمية، ويعزز القدرة على الابتكار وإدارة التغيير والتحول الرقمي داخل المؤسسات. ويكتسب الطلبة مهارات التواصل، والعمل الجماعي، وإدارة المشاريع، والتفاوض، وتحليل الأسواق، بما يؤهلهم لقيادة الفرق وتحقيق النمو المؤسسي المستدام. ويشجع البرنامج على تطبيق المعرفة من خلال دراسات الحالة والمشاريع التطبيقية التي تربط بين الجوانب الأكاديمية والعملية. ويؤهل الخريجين للعمل في المناصب الإدارية والتنفيذية والاستشارية في الشركات المحلية والعالمية، والقطاع الحكومي، والمنظمات غير الربحية، أو تأسيس مشاريعهم الخاصة والمساهمة في تطوير بيئة الأعمال والاقتصاد."
 }

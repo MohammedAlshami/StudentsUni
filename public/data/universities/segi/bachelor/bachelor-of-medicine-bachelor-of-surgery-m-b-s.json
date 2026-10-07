@@ -1,42 +1,48 @@
 {
-  "university": "SEGi University",
-  "university_slug": "segi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Medicine, Bachelor of Surgery (M.B.,B.S.)",
-  "slug": "bachelor-of-medicine-bachelor-of-surgery-m-b-s",
-  "field": "Medicine & Healthcare",
-  "duration": "5 Yrs",
-  "mode": "Full-time Study",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "SEGi official website is inaccessible from this environment (Cloudflare bot protection) and no official fee schedule is publicly indexed; set to null rather than use stale aggregator data. Checked segi.edu.my (fetched 2026-09-18)"
+ "university": "SEGi University",
+ "university_slug": "segi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Medicine, Bachelor of Surgery (M.B.,B.S.)",
+ "slug": "bachelor-of-medicine-bachelor-of-surgery-m-b-s",
+ "field": "Medicine & Healthcare",
+ "duration": "5 Yrs",
+ "mode": "Full-time Study",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 418804.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A7%D9%84%D8%B7%D8%A8-%D9%88%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9-%D9%83%D9%88%D8%AA%D8%A7-%D8%AF%D8%A7%D9%85%D8%A7%D9%86%D8%B3%D8%A7%D8%B1%D8%A7-5471/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/SEGI/0054464/",
+  {
+   "url": "https://www.easyuni.my/malaysia/segi-university-246/bachelor-of-medicine-and-bachelor-of-surgery-mbbs-226176/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/SEGI/0054464/",
-    {
-      "url": "https://www.easyuni.my/malaysia/segi-university-246/bachelor-of-medicine-and-bachelor-of-surgery-mbbs-226176/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Medicine, Bachelor of Surgery (M.B.,B.S.)",
-  "program_name_zh": "Medicine, Bachelor of Surgery (M.B.,B.S.)学士",
-  "field_ar": "الطب",
-  "field_zh": "医学与医疗保健"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B7%D8%A8-%D9%88%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9-%D9%83%D9%88%D8%AA%D8%A7-%D8%AF%D8%A7%D9%85%D8%A7%D9%86%D8%B3%D8%A7%D8%B1%D8%A7-5471/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Medicine, Bachelor of Surgery (M.B.,B.S.)",
+ "program_name_zh": "Medicine, Bachelor of Surgery (M.B.,B.S.)学士",
+ "field_ar": "الطب",
+ "field_zh": "医学与医疗保健",
+ "description": "يهدف الطب والجراحة إلى إعداد أطباء يمتلكون المعرفة الطبية والمهارات السريرية والأخلاق المهنية اللازمة لتقديم رعاية صحية شاملة وآمنة وفقًا للمعايير الدولية. يجمع البرنامج بين العلوم الطبية الأساسية والعلوم السريرية، حيث يدرس الطلبة التشريح، ووظائف الأعضاء، والكيمياء الحيوية، وعلم الأمراض، وعلم الأدوية، والطب الباطني، والجراحة، وطب الأطفال، والنساء والتوليد، والطب النفسي، وطب الأسرة، إضافة إلى التدريب السريري المكثف في المستشفيات والمراكز الصحية. كما يركز البرنامج على تنمية مهارات التشخيص، والتواصل مع المرضى، والعمل ضمن فرق الرعاية الصحية، والبحث العلمي، واتخاذ القرارات الطبية المبنية على الأدلة. ويواكب البرنامج التطورات الحديثة في التعليم الطبي والتقنيات الصحية، ويؤهل الخريجين للعمل كأطباء بعد استيفاء متطلبات الترخيص المعتمدة، أو متابعة التدريب التخصصي والدراسات العليا في مختلف فروع الطب، والإسهام في تطوير خدمات الرعاية الصحية والبحث الطبي."
 }

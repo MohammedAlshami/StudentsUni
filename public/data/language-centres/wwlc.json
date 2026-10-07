@@ -1,0 +1,758 @@
+{
+ "slug": "wwlc",
+ "name": "WWLC",
+ "name_ar": "WORDSWORTH",
+ "aliases": [
+  "WWLC",
+  "WORDSWORTH"
+ ],
+ "city": "كوالالمبور",
+ "country": "Malaysia",
+ "website": null,
+ "logo": null,
+ "description": null,
+ "student_count": null,
+ "course_count": 11,
+ "sources": [
+  {
+   "url": "https://maigaedu.com/center/wordsworth/45/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-1-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/261/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-2-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/262/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-12-%D9%84%D9%85%D8%AF%D8%A9-3-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/263/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-4-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/264/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-24-%D9%84%D9%85%D8%AF%D8%A9-6-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/266/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-7-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/267/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-35-%D9%84%D9%85%D8%AF%D8%A9-8-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/268/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-9-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/269/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-10-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/270/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-11-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/271/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  },
+  {
+   "url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-66-%D9%84%D9%85%D8%AF%D8%A9-12-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/272/",
+   "publisher": "MAIGA",
+   "fetched_at": "2026-10-06"
+  }
+ ],
+ "courses": [
+  {
+   "name": "دورة لغة إنجليزية",
+   "name_ar": "دورة لغة إنجليزية",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "1 شهر",
+   "hours": "120,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 1 شهر",
+   "fee_myr": 3000.0,
+   "fee_usd": 766.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "2,500 رينجت ماليزي",
+     "rm_price": 2500.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "3,000 رينجت ماليزي",
+     "rm_price": 3000.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "لا تأشيرة مطلوبة (حتى 3 أشهر)",
+     "note": "تأشيرة السياحة كافية تماماً لهذه الدورة."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-1-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/261/"
+  },
+  {
+   "name": "دورة لغة إنجليزية",
+   "name_ar": "دورة لغة إنجليزية",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "2 أشهر",
+   "hours": "240,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 2 أشهر",
+   "fee_myr": 5500.0,
+   "fee_usd": 1405.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "5,000 رينجت ماليزي",
+     "rm_price": 5000.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "5,500 رينجت ماليزي",
+     "rm_price": 5500.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "لا تأشيرة مطلوبة (حتى 3 أشهر)",
+     "note": "تأشيرة السياحة كافية تماماً لهذه الدورة."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-2-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/262/"
+  },
+  {
+   "name": "دورة لغة إنجليزية 1+2",
+   "name_ar": "دورة لغة إنجليزية 1+2",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "3 أشهر",
+   "hours": "360,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 3 أشهر",
+   "fee_myr": 8000.0,
+   "fee_usd": 2043.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "7,500 رينجت ماليزي",
+     "rm_price": 7500.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "8,000 رينجت ماليزي",
+     "rm_price": 8000.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "لا تأشيرة مطلوبة (حتى 3 أشهر)",
+     "note": "تأشيرة السياحة كافية تماماً لهذه الدورة."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-12-%D9%84%D9%85%D8%AF%D8%A9-3-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/263/"
+  },
+  {
+   "name": "دورة لغة إنجليزية",
+   "name_ar": "دورة لغة إنجليزية",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "4 أشهر",
+   "hours": "480,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 4 أشهر",
+   "fee_myr": 13300.0,
+   "fee_usd": 3397.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "10,000 رينجت ماليزي",
+     "rm_price": 10000.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "التأشيرة + التأمين",
+     "value": "2,800 رينجت ماليزي",
+     "rm_price": 2800.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "13,300 رينجت ماليزي",
+     "rm_price": 13300.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "تأشيرة الطالب مطلوبة (أكثر من 3 أشهر)",
+     "note": "رسوم الفيزا تُدفع للمعهد مباشرةً — سيساعدك المعهد في إجراءات استخراجها بشكل كامل."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-4-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/264/"
+  },
+  {
+   "name": "دورة لغة إنجليزية 2+4",
+   "name_ar": "دورة لغة إنجليزية 2+4",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "6 أشهر",
+   "hours": "720,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 6 أشهر",
+   "fee_myr": 18300.0,
+   "fee_usd": 4674.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "15,000 رينجت ماليزي",
+     "rm_price": 15000.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "التأشيرة + التأمين",
+     "value": "2,800 رينجت ماليزي",
+     "rm_price": 2800.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "18,300 رينجت ماليزي",
+     "rm_price": 18300.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "تأشيرة الطالب مطلوبة (أكثر من 3 أشهر)",
+     "note": "رسوم الفيزا تُدفع للمعهد مباشرةً — سيساعدك المعهد في إجراءات استخراجها بشكل كامل."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-24-%D9%84%D9%85%D8%AF%D8%A9-6-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/266/"
+  },
+  {
+   "name": "دورة لغة إنجليزية",
+   "name_ar": "دورة لغة إنجليزية",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "7 أشهر",
+   "hours": "840,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 7 أشهر",
+   "fee_myr": 21600.0,
+   "fee_usd": 5517.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "17,500 رينجت ماليزي",
+     "rm_price": 17500.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "التأشيرة + التأمين",
+     "value": "3,600 رينجت ماليزي",
+     "rm_price": 3600.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "21,600 رينجت ماليزي",
+     "rm_price": 21600.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "تأشيرة الطالب مطلوبة (أكثر من 3 أشهر)",
+     "note": "رسوم الفيزا تُدفع للمعهد مباشرةً — سيساعدك المعهد في إجراءات استخراجها بشكل كامل."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-7-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/267/"
+  },
+  {
+   "name": "دورة لغة إنجليزية 3+5",
+   "name_ar": "دورة لغة إنجليزية 3+5",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "8 أشهر",
+   "hours": "960,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 8 أشهر",
+   "fee_myr": 24100.0,
+   "fee_usd": 6155.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "20,000 رينجت ماليزي",
+     "rm_price": 20000.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "التأشيرة + التأمين",
+     "value": "3,600 رينجت ماليزي",
+     "rm_price": 3600.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "24,100 رينجت ماليزي",
+     "rm_price": 24100.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "تأشيرة الطالب مطلوبة (أكثر من 3 أشهر)",
+     "note": "رسوم الفيزا تُدفع للمعهد مباشرةً — سيساعدك المعهد في إجراءات استخراجها بشكل كامل."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-35-%D9%84%D9%85%D8%AF%D8%A9-8-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/268/"
+  },
+  {
+   "name": "دورة لغة إنجليزية",
+   "name_ar": "دورة لغة إنجليزية",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "9 أشهر",
+   "hours": "1080,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 9 أشهر",
+   "fee_myr": 26600.0,
+   "fee_usd": 6794.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "22,500 رينجت ماليزي",
+     "rm_price": 22500.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "التأشيرة + التأمين",
+     "value": "3,600 رينجت ماليزي",
+     "rm_price": 3600.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "26,600 رينجت ماليزي",
+     "rm_price": 26600.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "تأشيرة الطالب مطلوبة (أكثر من 3 أشهر)",
+     "note": "رسوم الفيزا تُدفع للمعهد مباشرةً — سيساعدك المعهد في إجراءات استخراجها بشكل كامل."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-9-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/269/"
+  },
+  {
+   "name": "دورة لغة إنجليزية",
+   "name_ar": "دورة لغة إنجليزية",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "10 أشهر",
+   "hours": "1200,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 10 أشهر",
+   "fee_myr": 29100.0,
+   "fee_usd": 7432.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "25,000 رينجت ماليزي",
+     "rm_price": 25000.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "التأشيرة + التأمين",
+     "value": "3,600 رينجت ماليزي",
+     "rm_price": 3600.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "29,100 رينجت ماليزي",
+     "rm_price": 29100.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "تأشيرة الطالب مطلوبة (أكثر من 3 أشهر)",
+     "note": "رسوم الفيزا تُدفع للمعهد مباشرةً — سيساعدك المعهد في إجراءات استخراجها بشكل كامل."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-10-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/270/"
+  },
+  {
+   "name": "دورة لغة إنجليزية",
+   "name_ar": "دورة لغة إنجليزية",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "11 أشهر",
+   "hours": "1320,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 11 أشهر",
+   "fee_myr": 31600.0,
+   "fee_usd": 8071.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "27,500 رينجت ماليزي",
+     "rm_price": 27500.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "التأشيرة + التأمين",
+     "value": "3,600 رينجت ماليزي",
+     "rm_price": 3600.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "31,600 رينجت ماليزي",
+     "rm_price": 31600.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "تأشيرة الطالب مطلوبة (أكثر من 3 أشهر)",
+     "note": "رسوم الفيزا تُدفع للمعهد مباشرةً — سيساعدك المعهد في إجراءات استخراجها بشكل كامل."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%85%D8%AF%D8%A9-11-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/271/"
+  },
+  {
+   "name": "دورة لغة إنجليزية 6+6",
+   "name_ar": "دورة لغة إنجليزية 6+6",
+   "type": "دورات اللغة الانجليزية المكثفة",
+   "duration": "12 أشهر",
+   "hours": "1440,0 ساعة إجمالاً 6 س/يوم × 5 أيام/أسبوع × 4 أسابيع × 12 أشهر",
+   "fee_myr": 34100.0,
+   "fee_usd": 8709.0,
+   "currency": "MYR",
+   "fee_before_discount_myr": null,
+   "discount_pct": null,
+   "fees_table": [
+    {
+     "label": "الرسوم الدراسية",
+     "value": "30,000 رينجت ماليزي",
+     "rm_price": 30000.0,
+     "negative": false
+    },
+    {
+     "label": "الرسوم الإدارية",
+     "value": "500 رينجت ماليزي",
+     "rm_price": 500.0,
+     "negative": false
+    },
+    {
+     "label": "التأشيرة + التأمين",
+     "value": "3,600 رينجت ماليزي",
+     "rm_price": 3600.0,
+     "negative": false
+    },
+    {
+     "label": "الإجمالي",
+     "value": "34,100 رينجت ماليزي",
+     "rm_price": 34100.0,
+     "negative": false
+    }
+   ],
+   "intakes": null,
+   "requirements": [
+    {
+     "label": "الحد الأدنى للعمر",
+     "value": "17 سنة فأكثر",
+     "note": "لا يوجد حد أقصى للعمر — الدورة مفتوحة لجميع الأعمار"
+    },
+    {
+     "label": "مستوى الإنجليزية المطلوب",
+     "value": "لا يُشترط مستوى محدد — يُقبل المبتدئون",
+     "note": null
+    },
+    {
+     "label": "اختبار تحديد المستوى",
+     "value": "إلزامي — مجاني تماماً",
+     "note": "يُجرى عند التسجيل (أونلاين أو حضورياً) لتحديد المستوى المناسب"
+    },
+    {
+     "label": "متطلبات التأشيرة",
+     "value": "تأشيرة الطالب مطلوبة (أكثر من 3 أشهر)",
+     "note": "رسوم الفيزا تُدفع للمعهد مباشرةً — سيساعدك المعهد في إجراءات استخراجها بشكل كامل."
+    }
+   ],
+   "source": "maiga",
+   "source_url": "https://maigaedu.com/course/%D8%AF%D9%88%D8%B1%D8%A9-%D9%84%D8%BA%D8%A9-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-66-%D9%84%D9%85%D8%AF%D8%A9-12-%D8%A3%D8%B4%D9%87%D8%B1-wordsworth/272/"
+  }
+ ],
+ "offers": [],
+ "inclusions": [],
+ "exclusions": []
+}

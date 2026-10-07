@@ -46,9 +46,19 @@
   "total_programs_found": 43,
   "sources": [
     "https://studymalaysia.com/edu/inti/courses/",
-    "https://newinti.edu.my"
+    "https://newinti.edu.my",
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A5%D9%86%D8%AA%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9/24/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://abeereducation.com/universities/inti-international-university",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": null,
@@ -56,5 +66,14 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "Official international programme fees are published per programme at https://newinti.edu.my/find-a-programme/ (fetched 2026-09-18); no single aggregate applies. See individual programme records."
-  }
+  },
+  "founded_year": 1986,
+  "local_rank": 35,
+  "description": "INTI International University is a private university located in Malaysia. The main campus was initially known as INTI University College until 31 May 2010 when the Higher Education Ministry announced its upgrade to university status.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01JKJP3ATTBKYMFH478XAQS0TJ.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01JKJP3ATW5M6SHSH9ZJA5QZK2.webp",
+  "intakes": [
+    "March",
+    "August"
+  ]
 }

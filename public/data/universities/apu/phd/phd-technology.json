@@ -1,42 +1,48 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "phd",
-  "program_name": "PhD in Technology",
-  "program_slug": "phd-technology",
-  "field": "Computing & Technology",
-  "duration": "3 years",
-  "mode": "Full-time / Part-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 50800,
-    "per_year": null,
-    "notes": "APU official course page: total international tuition RM50,800 (excludes 6% SST). Source: https://www.apu.edu.my/course/phd-in-technology (accessed 2026-09-18)."
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "phd",
+ "program_name": "PhD in Technology",
+ "program_slug": "phd-technology",
+ "field": "Computing & Technology",
+ "duration": "3 years",
+ "mode": "Full-time / Part-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 50800,
+  "per_year": null,
+  "notes": "APU official course page: total international tuition RM50,800 (excludes 6% SST). Source: https://www.apu.edu.my/course/phd-in-technology (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.5 or TOEFL 95",
+  "other_qualifications": "Master degree with research experience"
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/phd-in-technology",
+  "https://www.studymalaysia.com/edu/apu/courses/",
+  "https://www.studymalaysia.com/what/course/APU/0053227/",
+  {
+   "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/phd-in-computing-243146/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.5 or TOEFL 95",
-    "other_qualifications": "Master degree with research experience"
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/phd-in-technology",
-    "https://www.studymalaysia.com/edu/apu/courses/",
-    "https://www.studymalaysia.com/what/course/APU/0053227/",
-    {
-      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/phd-in-computing-243146/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": 0.7,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دكتوراه فلسفة",
-  "program_name_zh": "科技学博士",
-  "field_ar": "Computing & Technology",
-  "field_zh": "计算机与科技"
+  {
+   "url": "https://maigaedu.com/program/%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-5569/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.7,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دكتوراه فلسفة",
+ "program_name_zh": "科技学博士",
+ "field_ar": "Computing & Technology",
+ "field_zh": "计算机与科技",
+ "description": "يركز برنامج فلسفة التكنولوجيا على إعداد الطالب للبحث العلمي المتقدم في مجال التخصص من خلال تطوير مهارات صياغة المشكلة البحثية، مراجعة الأدبيات، جمع البيانات وتحليلها، وكتابة الأطروحة أو الرسالة العلمية. يناسب البرنامج الطلاب الراغبين في العمل الأكاديمي أو البحثي أو تطوير خبرة متقدمة في المجال."
 }

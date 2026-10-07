@@ -1,51 +1,68 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Advanced Diploma Level",
-  "program_name": "Diploma in Nursing",
-  "field": "Medicine & Healthcare",
-  "slug": "diploma-in-nursing",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "April",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 60200,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Advanced Diploma Level",
+ "program_name": "Diploma in Nursing",
+ "field": "Medicine & Healthcare",
+ "slug": "diploma-in-nursing",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "April",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 60200,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": [
+  {
+   "label": "العمر الأدنى",
+   "value": "18",
+   "note": "سنة"
   },
-  "requirements": null,
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058830/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Nursing",
-  "program_name_zh": "护理文凭",
-  "field_ar": "الطب",
-  "field_zh": "医学与医疗保健"
+  {
+   "label": "المؤهل",
+   "value": "ثانوية معتمدة",
+   "note": "دبلوم"
+  }
+ ],
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058830/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-5864/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Nursing",
+ "program_name_zh": "护理文凭",
+ "field_ar": "الطب",
+ "field_zh": "医学与医疗保健",
+ "description": "يهدف برنامج دبلوم في التمريض إلى إعداد ممرضين وممرضات يمتلكون المعرفة والمهارات اللازمة لتقديم رعاية صحية آمنة وشاملة للمرضى في مختلف المراحل العمرية. يجمع البرنامج بين الدراسة النظرية والتدريب العملي في المختبرات والمستشفيات، ويغطي مجالات التمريض الأساسي، ورعاية البالغين، وتمريض الأطفال، وتمريض الأمومة، والصحة النفسية، والصحة المجتمعية، إضافة إلى أخلاقيات المهنة وسلامة المرضى. ويؤهل البرنامج الخريجين للعمل في المستشفيات والمراكز الصحية والعيادات أو مواصلة الدراسة في برامج البكالوريوس."
 }

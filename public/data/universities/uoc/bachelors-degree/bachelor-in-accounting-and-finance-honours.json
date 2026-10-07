@@ -1,62 +1,68 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Bachelor's Degree",
-  "program_name": "Bachelor in Accounting and Finance (Honours)",
-  "field": "Accounting & Finance",
-  "slug": "bachelor-in-accounting-and-finance-honours",
-  "duration": "3.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Oct",
-    "Mar"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 79050,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Bachelor's Degree",
+ "program_name": "Bachelor in Accounting and Finance (Honours)",
+ "field": "Accounting & Finance",
+ "slug": "bachelor-in-accounting-and-finance-honours",
+ "duration": "3.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Oct",
+  "Mar"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 79050,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058825/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058825/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-of-accounting-and-finance-hons-294548/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Accounting and Finance (Honours)",
-  "program_name_zh": "会计与金融荣誉学士",
-  "field_ar": "المحاسبة",
-  "field_zh": "会计与金融"
+  {
+   "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-of-accounting-and-finance-hons-294548/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-5844/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Accounting and Finance (Honours)",
+ "program_name_zh": "会计与金融荣誉学士",
+ "field_ar": "المحاسبة",
+ "field_zh": "会计与金融",
+ "description": "يهدف برنامج المحاسبة والمالية إلى إعداد متخصصين يمتلكون المعرفة والمهارات اللازمة للعمل في مجالات المحاسبة والتمويل وإدارة الأعمال. يركز البرنامج على المحاسبة المالية، والمحاسبة الإدارية، والتدقيق، والضرائب، وإدارة الاستثمارات، والتحليل المالي، وإدارة المخاطر، والتمويل المؤسسي، وفقًا للمعايير الدولية والممارسات المهنية الحديثة. كما يطور البرنامج مهارات التفكير التحليلي، واتخاذ القرارات المالية، واستخدام الأنظمة المحاسبية الرقمية، وأخلاقيات المهنة، والتواصل المهني. ويجمع بين الدراسة النظرية والتطبيقات العملية ودراسات الحالة، مما يساعد الطلبة على فهم التحديات المالية في بيئة الأعمال. ويؤهل البرنامج الخريجين للعمل كمحاسبين، ومدققين، ومحللين ماليين، ومستشارين ضريبيين، وموظفين في البنوك والمؤسسات المالية، أو مواصلة الدراسات المهنية والعليا في المحاسبة والمالية."
 }

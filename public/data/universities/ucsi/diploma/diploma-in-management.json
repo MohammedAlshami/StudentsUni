@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "diploma",
-  "program_name": "Diploma in Management",
-  "field": "Management",
-  "duration": "2 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 78314,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-management), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5 or TOEFL iBT 40",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0006027/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/diploma-management"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Management",
-  "program_name_zh": "管理学文凭",
-  "field_ar": "إدارة",
-  "field_zh": "管理学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "diploma",
+ "program_name": "Diploma in Management",
+ "field": "Management",
+ "duration": "2 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 78314,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-management), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5 or TOEFL iBT 40",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0006027/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/diploma-management",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-4900/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Management",
+ "program_name_zh": "管理学文凭",
+ "field_ar": "إدارة",
+ "field_zh": "管理学",
+ "description": "يهدف برنامج الإدارة إلى تزويد الطلاب بالمعرفة الأساسية والمهارات العملية في إدارة الأعمال والعمليات التنظيمية. يركز البرنامج على مبادئ الإدارة، والتسويق، والمحاسبة، والموارد البشرية، وخدمة العملاء، وريادة الأعمال، مع تنمية مهارات القيادة، والعمل الجماعي، والتواصل، وحل المشكلات. كما يوفر البرنامج أساساً أكاديمياً ومهنياً يؤهل الخريجين للعمل في مختلف القطاعات التجارية والإدارية أو لمواصلة دراستهم الجامعية في إدارة الأعمال والتخصصات ذات الصلة."
 }

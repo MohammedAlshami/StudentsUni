@@ -8,9 +8,9 @@
   "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Jun",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -20,13 +20,15 @@
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
+    "a_level": "STPM C in 2 subjects + Maths credit",
+    "matriculation": "Matriculation CGPA 2.00 + Maths",
+    "diploma": "Diploma CGPA 2.75",
     "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/FA14329",
+    "programme_code": "R/0611/6/0141"
   },
   "sources": [
     {

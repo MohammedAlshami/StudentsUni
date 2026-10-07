@@ -1,52 +1,58 @@
 {
-  "university": "Lincoln University College",
-  "university_slug": "luc",
-  "level": "bachelor",
-  "program_name": "Bachelor of Business Administration in Human Resource Management",
-  "field": "Business & Management",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Mar",
-    "Nov"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Lincoln University College does not publish tuition fees. The official programme page/FAQ (checked 2026-09-18) directs fee enquiries to admission@lincoln.edu.my / imd@lincoln.edu.my / finance@lincoln.edu.my. Checked lincoln.edu.my sitemap and WordPress media library (988 files) plus Wayback Machine archives (2014-2026): no official international fee schedule is published. No fee value is asserted."
+ "university": "Lincoln University College",
+ "university_slug": "luc",
+ "level": "bachelor",
+ "program_name": "Bachelor of Business Administration in Human Resource Management",
+ "field": "Business & Management",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Mar",
+  "Nov"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 49000.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-4513/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification",
+  "general": "Pass in Sijil Tinggi Pelajaran Malaysia (STPM) with a minimum NGMP of 2.00 or Grade C in 2 subjects, or Pass in A-Level with at least in 2 subjects; or Pass in Sijil Tinggi Agama Malaysia (STAM) with Jayyid in 3 subjects; or Pass in the Unified Examination Certificate (UEC) with at least a B grade in 5 subjects; or Pass in Foundation / Foundation Program / Foundation / from any universities / colleges with a minimum CGPA of 2.00; or Pass in the Matriculation program of the Ministry of Education Malaysia with a minimum CGPA of 2.00; or Pass in a Diploma (Level 4, Malaysian Qualifications Framework (MQF)) from an institution recognized by the Malaysian government with a minimum CGPA of 2.00: or Pass in the Higher National Diploma (HND) (Level 4, MQF) with a minimum CGPA of 2.00; or Other qualifications as recognized by the Government of Malaysia. English Profiency Requirements (International Students): International English Language Testing System (IELTS) score of 5.5 or its equivalent. If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the programme."
+ },
+ "accreditation": null,
+ "sources": [
+  {
+   "url": "https://www.lincoln.edu.my/school-of-business-management/",
+   "publisher": "Unknown",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification",
-    "general": "Pass in Sijil Tinggi Pelajaran Malaysia (STPM) with a minimum NGMP of 2.00 or Grade C in 2 subjects, or Pass in A-Level with at least in 2 subjects; or Pass in Sijil Tinggi Agama Malaysia (STAM) with Jayyid in 3 subjects; or Pass in the Unified Examination Certificate (UEC) with at least a B grade in 5 subjects; or Pass in Foundation / Foundation Program / Foundation / from any universities / colleges with a minimum CGPA of 2.00; or Pass in the Matriculation program of the Ministry of Education Malaysia with a minimum CGPA of 2.00; or Pass in a Diploma (Level 4, Malaysian Qualifications Framework (MQF)) from an institution recognized by the Malaysian government with a minimum CGPA of 2.00: or Pass in the Higher National Diploma (HND) (Level 4, MQF) with a minimum CGPA of 2.00; or Other qualifications as recognized by the Government of Malaysia. English Profiency Requirements (International Students): International English Language Testing System (IELTS) score of 5.5 or its equivalent. If a student does not meet this requirement, HEPs must offer English proficiency courses to ensure that the student’s proficiency is sufficient to meet the needs of the programme."
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    {
-      "url": "https://www.lincoln.edu.my/school-of-business-management/",
-      "publisher": "Unknown",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/bachelor-of-business-administration-in-human-resource-management-293905/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    "https://www.lincoln.edu.my/bachelor-of-business-administration-in-human-resource-management/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Business Administration in Human Resource Management",
-  "program_name_zh": "工商管理学士（人力资源管理）",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业与管理"
+  {
+   "url": "https://www.easyuni.my/malaysia/lincoln-university-college-9503/bachelor-of-business-administration-in-human-resource-management-293905/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  "https://www.lincoln.edu.my/bachelor-of-business-administration-in-human-resource-management/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-4513/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Business Administration in Human Resource Management",
+ "program_name_zh": "工商管理学士（人力资源管理）",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业与管理",
+ "description": "يقدم برنامج بكالوريوس إدارة الأعمال في إدارة الموارد البشرية مساراً تعليمياً منظماً يناسب مستوى بكالوريوس، وتبلغ مدة الدراسة فيه 3 سنة بحسب البيانات المدرجة في هذا الصف. يهدف هذا البرنامج إلى مساعدة الطالب على بناء معرفة متدرجة تبدأ من المفاهيم الأساسية ثم تنتقل إلى التطبيق والتحليل وحل المشكلات في المجال المختار. يركز المسار على تطوير التفكير النقدي، مهارات البحث، القدرة على التواصل المهني، وفهم المعايير الأخلاقية التي يحتاجها الطالب في الدراسة والعمل. كما يساعد الطالب على ربط المعرفة النظرية بالمواقف العملية، وتنظيم وقته، واستخدام المصادر العلمية والمهنية بطريقة مسؤولة. في مجال الأعمال والإدارة، يساعد البرنامج الطالب على فهم المؤسسات والأسواق والموارد والقرارات المالية والإدارية. يركز المسار على القيادة، التخطيط، التحليل، المحاسبة، إدارة الأفراد أو المشاريع، واستخدام البيانات في اتخاذ قرارات عملية تدعم الأداء والاستدامة. يعتمد البرنامج على تجربة تعلم منظمة تجمع بين المحاضرات، الأنشطة، القراءات، التدريب أو المشاريع بحسب طبيعة التخصص. ويمنح الطالب فرصة للتفاعل مع المدرسين والزملاء، طرح الأسئلة، وبناء فهم أعمق من خلال التطبيق والمناقشة المستمرة. بنهاية الدراسة، يصبح الطالب أكثر استعداداً للانتقال إلى فرص مهنية أو أكاديمية مرتبطة بالتخصص، سواء في المؤسسات، المراكز المتخصصة، الشركات، الجهات التعليمية، أو القطاعات التي تحتاج إلى معرفة مهنية موثوقة. كما يوفر البرنامج أساساً جيداً للتطوير المستمر، متابعة الدراسات الأعلى، وبناء مسار مهني يتناسب مع طموح الطالب وقدراته."
 }

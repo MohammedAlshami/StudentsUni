@@ -1,44 +1,50 @@
 {
-  "program_name": "Bachelor of International Business",
-  "field": "",
-  "duration": "3 years (Full-time)",
-  "mode": "Onsite",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 72600,
-    "per_year": 24200,
-    "notes": "File name says business economics but content/name is International Business; mapped to the official Bachelor in International Business (Honours). International student tuition: RM72,600 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-international-business-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM69,000. per_year = total / 3yr nominal duration."
+ "program_name": "Bachelor of International Business",
+ "field": "",
+ "duration": "3 years (Full-time)",
+ "mode": "Onsite",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 72600,
+  "per_year": 24200,
+  "notes": "File name says business economics but content/name is International Business; mapped to the official Bachelor in International Business (Honours). International student tuition: RM72,600 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-international-business-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM69,000. per_year = total / 3yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+  "a_level": "2 subjects (Grade C)",
+  "ib": "24 points",
+  "other_qualifications": "A-Level with minimum Grade C in any 2 subjects; or STPM with minimum Grade C (CGPA 2.00) in any 2 subjects; or Foundation/Matriculation with minimum CGPA 2.00; or Diploma (Level 4, MQF) or Advanced Diploma (Level 5, MQF) with minimum CGPA 2.00.",
+  "general": "STPM Pass STPM with at least Grade C (CGPA 2.00) in any 2 subjects Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) Candidates without Mathematics &amp; English at SPM level must take equivalent courses during their studies. Matriculation Pass Matriculation with at least CGPA 2.00 Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) Foundation Pass Foundation with at least CGPA 2.00 Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) A-Level Pass A-Level with at least Grade C (CGPA 2.00) in any 2 subjects Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) Diploma Pass Diploma (Level 4, MQF) or Advanced Diploma (Level 5, MQF) with at least CGPA 2.00 Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) STAM Pass STAM with at least Grade JAYYID Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) Note: Candidates without a credit in Mathematics and English at SPM level must take equivalent subjects during their studies.     ENGLISH REQUIREMENTS For Malaysian Students: Students have taken MUET before enrol. However, students are required to complete MUET during the duration of the study (before graduation). IELTS (5.0 and above) or TOEFL (500 and above) or TOEFL Internet-Based Test (42 and above) is also accepted. MUET – Malaysia University English Test Achieve Band 1 and above For International Students: International students are required to have one of the English proficiency scores stated below to enrol in UNITEN. Bachelor students who do not fulfil this English requirement are required to sit for the Intensive English Programme (IEP) and pass the requirement below before starting their Bachelor programme. MUET – Malaysia University English Test Achieve Band 3.5 and above   IELTS – International English Language Testing System Achieve 5.5 and above   TOEFL - Test of English as a Foreign Language Achieve 500 (TOEFL) or 46 (TOEFL Internet Based Test) and above"
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "N/0414/6/0149 (12/28) (MQA/PSA17298) / R3/0414/6/0024 (01/30) (MQA/A9987)"
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-international-business-honours/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
-    "a_level": "2 subjects (Grade C)",
-    "ib": "24 points",
-    "other_qualifications": "A-Level with minimum Grade C in any 2 subjects; or STPM with minimum Grade C (CGPA 2.00) in any 2 subjects; or Foundation/Matriculation with minimum CGPA 2.00; or Diploma (Level 4, MQF) or Advanced Diploma (Level 5, MQF) with minimum CGPA 2.00.",
-    "general": "STPM Pass STPM with at least Grade C (CGPA 2.00) in any 2 subjects Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) Candidates without Mathematics &amp; English at SPM level must take equivalent courses during their studies. Matriculation Pass Matriculation with at least CGPA 2.00 Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) Foundation Pass Foundation with at least CGPA 2.00 Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) A-Level Pass A-Level with at least Grade C (CGPA 2.00) in any 2 subjects Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) Diploma Pass Diploma (Level 4, MQF) or Advanced Diploma (Level 5, MQF) with at least CGPA 2.00 Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) STAM Pass STAM with at least Grade JAYYID Additional Requirements: Mathematics (SPM): Pass (E) English (SPM): Pass (E) Note: Candidates without a credit in Mathematics and English at SPM level must take equivalent subjects during their studies.     ENGLISH REQUIREMENTS For Malaysian Students: Students have taken MUET before enrol. However, students are required to complete MUET during the duration of the study (before graduation). IELTS (5.0 and above) or TOEFL (500 and above) or TOEFL Internet-Based Test (42 and above) is also accepted. MUET – Malaysia University English Test Achieve Band 1 and above For International Students: International students are required to have one of the English proficiency scores stated below to enrol in UNITEN. Bachelor students who do not fulfil this English requirement are required to sit for the Intensive English Programme (IEP) and pass the requirement below before starting their Bachelor programme. MUET – Malaysia University English Test Achieve Band 3.5 and above   IELTS – International English Language Testing System Achieve 5.5 and above   TOEFL - Test of English as a Foreign Language Achieve 500 (TOEFL) or 46 (TOEFL Internet Based Test) and above"
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "N/0414/6/0149 (12/28) (MQA/PSA17298) / R3/0414/6/0024 (01/30) (MQA/A9987)"
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-international-business-honours/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس International Business",
-  "program_name_zh": "国际商务学士"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-4443/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس International Business",
+ "program_name_zh": "国际商务学士",
+ "description": "يهدف بكالوريوس الأعمال الدولية إلى إعداد متخصصين يمتلكون المعرفة والمهارات اللازمة لإدارة العمليات التجارية في الأسواق العالمية وفهم بيئات الأعمال متعددة الثقافات. يركز البرنامج على التجارة الدولية، والتسويق العالمي، والتمويل الدولي، وإدارة سلاسل الإمداد، والاقتصاد الدولي، والاستراتيجية، والقانون التجاري، والتفاوض، مع تنمية مهارات القيادة، والتواصل بين الثقافات، والتحليل، واتخاذ القرارات في بيئات الأعمال العالمية. كما يساعد البرنامج الطلبة على فهم تأثير العولمة والتحول الرقمي والاتفاقيات التجارية الدولية على المؤسسات والأسواق، مع تطوير القدرة على إدارة الأعمال في بيئات تنافسية ومتغيرة. ويجمع البرنامج بين الدراسة الأكاديمية، ودراسات الحالة، والمشاريع التطبيقية، والتدريب المهني، مما يمنح الطلبة خبرة عملية في التعامل مع تحديات التجارة والاستثمار الدوليين. ويؤهل البرنامج الخريجين للعمل في الشركات متعددة الجنسيات، ومؤسسات التجارة الدولية، وشركات الخدمات اللوجستية، والبنوك، والاستشارات، والمنظمات الدولية، أو متابعة الدراسات العليا في إدارة الأعمال والأعمال الدولية."
 }

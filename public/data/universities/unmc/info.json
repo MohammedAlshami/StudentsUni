@@ -15,9 +15,14 @@
   ],
   "total_programs": 95,
   "sources": [
-    "https://www.studymalaysia.com/edu/nottingham/courses/"
+    "https://www.studymalaysia.com/edu/nottingham/courses/",
+    {
+      "url": "https://abeereducation.com/universities/university-of-nottingham",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 66000,
@@ -25,5 +30,11 @@
     "per_year_local": 22000,
     "per_year_international": null,
     "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+  },
+  "description": "The University of Nottingham is a public research university in Nottingham, England. It was founded as University College Nottingham in 1881, and was granted a royal charter in 1948",
+  "logo": "https://abeereducation.com/storage/universities_logos/01JZZHNB8WGFRZFHG7WD9RQ5TB.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01JZZHNB8YA7EYQ4MTY5M98SP8.webp",
+  "intakes": [
+    "September"
+  ]
 }

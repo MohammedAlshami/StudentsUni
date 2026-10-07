@@ -1,44 +1,50 @@
 {
-  "university": "Lincoln University College",
-  "university_slug": "luc",
-  "level": "master",
-  "program_name": "Master of Business Administration (Global Business)",
-  "field": "Business & Management",
-  "duration": "1.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Mar",
-    "Nov"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Lincoln University College does not publish tuition fees. The official programme page/FAQ (checked 2026-09-18) directs fee enquiries to admission@lincoln.edu.my / imd@lincoln.edu.my / finance@lincoln.edu.my. Checked lincoln.edu.my sitemap and WordPress media library (988 files) plus Wayback Machine archives (2014-2026): no official international fee schedule is published. No fee value is asserted."
+ "university": "Lincoln University College",
+ "university_slug": "luc",
+ "level": "master",
+ "program_name": "Master of Business Administration (Global Business)",
+ "field": "Business & Management",
+ "duration": "1.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Mar",
+  "Nov"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 33000.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-4533/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  {
+   "url": "https://www.lincoln.edu.my/school-of-business-management/",
+   "publisher": "Unknown",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    {
-      "url": "https://www.lincoln.edu.my/school-of-business-management/",
-      "publisher": "Unknown",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    "https://www.lincoln.edu.my/master-of-business-administration-global-business/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Business Administration (Global Business)",
-  "program_name_zh": "工商管理硕士（全球商务）",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业与管理"
+  "https://www.lincoln.edu.my/master-of-business-administration-global-business/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-4533/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Business Administration (Global Business)",
+ "program_name_zh": "工商管理硕士（全球商务）",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业与管理",
+ "description": "يقدم برنامج ماجستير إدارة الأعمال (الأعمال العالمية) مساراً تعليمياً منظماً يناسب مستوى ماجستير، وتبلغ مدة الدراسة فيه 1.5 سنة بحسب البيانات المدرجة في هذا الصف. يهدف هذا البرنامج إلى مساعدة الطالب على بناء معرفة متدرجة تبدأ من المفاهيم الأساسية ثم تنتقل إلى التطبيق والتحليل وحل المشكلات في المجال المختار. يركز المسار على تطوير التفكير النقدي، مهارات البحث، القدرة على التواصل المهني، وفهم المعايير الأخلاقية التي يحتاجها الطالب في الدراسة والعمل. كما يساعد الطالب على ربط المعرفة النظرية بالمواقف العملية، وتنظيم وقته، واستخدام المصادر العلمية والمهنية بطريقة مسؤولة. في مجال الأعمال والإدارة، يساعد البرنامج الطالب على فهم المؤسسات والأسواق والموارد والقرارات المالية والإدارية. يركز المسار على القيادة، التخطيط، التحليل، المحاسبة، إدارة الأفراد أو المشاريع، واستخدام البيانات في اتخاذ قرارات عملية تدعم الأداء والاستدامة. يعتمد البرنامج على تجربة تعلم منظمة تجمع بين المحاضرات، الأنشطة، القراءات، التدريب أو المشاريع بحسب طبيعة التخصص. ويمنح الطالب فرصة للتفاعل مع المدرسين والزملاء، طرح الأسئلة، وبناء فهم أعمق من خلال التطبيق والمناقشة المستمرة. بنهاية الدراسة، يصبح الطالب أكثر استعداداً للانتقال إلى فرص مهنية أو أكاديمية مرتبطة بالتخصص، سواء في المؤسسات، المراكز المتخصصة، الشركات، الجهات التعليمية، أو القطاعات التي تحتاج إلى معرفة مهنية موثوقة. كما يوفر البرنامج أساساً جيداً للتطوير المستمر، متابعة الدراسات الأعلى، وبناء مسار مهني يتناسب مع طموح الطالب وقدراته."
 }

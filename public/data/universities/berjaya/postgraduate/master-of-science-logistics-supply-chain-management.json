@@ -4,7 +4,7 @@
   "level": "master",
   "program_name": "Master of Science in Logistics and Supply Chain Management",
   "field": "Logistics and Supply Chain Management",
-  "duration": "1.5 years",
+  "duration": "1 year (FT) / 2 years (PT)",
   "mode": "Full Time",
   "intakes": [
     "January",
@@ -19,8 +19,11 @@
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "bachelors": "Bachelor's in transport/logistics/supply chain CGPA 2.5; OR 5 years working experience",
+    "other_qualifications": "Equivalent bachelor's degree"
   },
+  "mqa_ref": "MQA/FA 10889",
+  "programme_code": "N/345/7/1091",
   "accreditation": null,
   "sources": [
     {

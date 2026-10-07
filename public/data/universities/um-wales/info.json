@@ -14,9 +14,14 @@
   ],
   "total_programs": 37,
   "sources": [
-    "https://www.studymalaysia.com/edu/iumw/courses/"
+    "https://www.studymalaysia.com/edu/iumw/courses/",
+    {
+      "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%85%d8%a7%d9%84%d8%a7%d9%8a%d8%a7-%d9%88%d9%8a%d9%84%d8%b2-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-iumw-university/",
+      "publisher": "Khutwatuk",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": null,
@@ -24,5 +29,7 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "Official international fees published per programme at https://www.umwales.edu.my/admissions/fees/ (fetched 2026-09-18); no single aggregate applies. See individual programme records."
-  }
+  },
+  "description": "في حالة اردت حجز سكن سنقوم بعرض الغرف المتاحة لك لكي تختار نوع الغرفة التي تريدها حسب رغبتك وميزانيتك وسنقوم بحجز الغرفة لك مسبقا. التنسيق مسبقاً لأجل قدومك وارسال تذكرة سفرك لنا عند حجزك ليقوم ممثل الجامعة بالذهاب إلى المطار يوم وصولك لاستقبالك و يقوم بالإجراءات الإدارية اللازمة لخروجك من المطار ، ثم يقوم بنقلك من المطار إلى الجامعة او السكن​.",
+  "city": "كوالالمبور"
 }

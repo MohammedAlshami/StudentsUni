@@ -1,44 +1,50 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "undergraduate",
-  "program_name": "Bachelor of Arts (Honours) in Human Resource Management",
-  "program_slug": "ba-human-resource-management",
-  "field": "Business & Management",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 108500,
-    "per_year": null,
-    "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/ba-hons-human-resource-management (accessed 2026-09-18)."
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "undergraduate",
+ "program_name": "Bachelor of Arts (Honours) in Human Resource Management",
+ "program_slug": "ba-human-resource-management",
+ "field": "Business & Management",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 108500,
+  "per_year": null,
+  "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/ba-hons-human-resource-management (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 5.5 / TOEFL IBT : 3.5 / Pearson (PTE) : 51 / MUET : Band 4",
+  "a_level": "2 Passes (Grade A-D) in A-Level with a Pass in English and Mathematics at SPM/ O-Level/ IGCSE or its equivalent.",
+  "ib": null,
+  "other_qualifications": null,
+  "general": "Direct Entry to Level 1 of the Degree STPM 2 Passes in STPM with a minimum Grade C (GP 2.0) and a Pass in English and Mathematics at SPM Level or its equivalent. A-Level 2 Passes (Grade A-D) in A-Level with a Pass in English and Mathematics at SPM/ O-Level/ IGCSE or its equivalent. UEC 5 Grade B’s in UEC with a Pass in Mathematics and English. Matriculation/ Foundation Passed Foundation programme (minimum CGPA of 2.0). Entry to Level 2 of the Degree Diploma Successful completion of the APU Diploma or Successful completion of studies in another recognised institute with academic credits equivalent to Level 1 of an Honours Degree (Subject to the approval of the APU Academic Board) * The requirement to pass Mathematics and English subjects at STPM, A-Level and UEC can be waived should the qualifications contain Mathematics and English subjects with equivalent/higher achievement. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/ba-hons-human-resource-management",
+  "https://www.studymalaysia.com/what/course/APU/0005281/",
+  {
+   "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/ba-hons-in-human-resource-management-227588/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS : 5.5 / TOEFL IBT : 3.5 / Pearson (PTE) : 51 / MUET : Band 4",
-    "a_level": "2 Passes (Grade A-D) in A-Level with a Pass in English and Mathematics at SPM/ O-Level/ IGCSE or its equivalent.",
-    "ib": null,
-    "other_qualifications": null,
-    "general": "Direct Entry to Level 1 of the Degree STPM 2 Passes in STPM with a minimum Grade C (GP 2.0) and a Pass in English and Mathematics at SPM Level or its equivalent. A-Level 2 Passes (Grade A-D) in A-Level with a Pass in English and Mathematics at SPM/ O-Level/ IGCSE or its equivalent. UEC 5 Grade B’s in UEC with a Pass in Mathematics and English. Matriculation/ Foundation Passed Foundation programme (minimum CGPA of 2.0). Entry to Level 2 of the Degree Diploma Successful completion of the APU Diploma or Successful completion of studies in another recognised institute with academic credits equivalent to Level 1 of an Honours Degree (Subject to the approval of the APU Academic Board) * The requirement to pass Mathematics and English subjects at STPM, A-Level and UEC can be waived should the qualifications contain Mathematics and English subjects with equivalent/higher achievement. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/ba-hons-human-resource-management",
-    "https://www.studymalaysia.com/what/course/APU/0005281/",
-    {
-      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/ba-hons-in-human-resource-management-227588/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Arts (Honours) in Human Resource Management",
-  "program_name_zh": "人力资源管理文学士（荣誉学位）",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业与管理"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-5633/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.9,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Arts (Honours) in Human Resource Management",
+ "program_name_zh": "人力资源管理文学士（荣誉学位）",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业与管理",
+ "description": "يهدف برنامج الموارد البشرية إلى تزويد الطالب بمعرفة أكاديمية ومهارات عملية متخصصة في المجال، مع ربط المفاهيم النظرية بالتطبيقات الحديثة وسوق العمل. يساعد البرنامج الطالب على تطوير التفكير التحليلي وحل المشكلات والعمل على المشاريع التطبيقية، ويؤهله للانطلاق المهني أو متابعة الدراسات العليا في تخصص قريب."
 }

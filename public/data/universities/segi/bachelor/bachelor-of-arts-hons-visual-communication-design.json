@@ -1,52 +1,58 @@
 {
-  "university": "SEGi University",
-  "university_slug": "segi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Arts (Hons) Visual Communication Design",
-  "slug": "bachelor-of-arts-hons-visual-communication-design",
-  "field": "Audio-visual Techniques & Media Production",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "May",
-    "Sep",
-    "Jan"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "SEGi official website is inaccessible from this environment (Cloudflare bot protection) and no official fee schedule is publicly indexed; set to null rather than use stale aggregator data. Checked segi.edu.my (fetched 2026-09-18)"
+ "university": "SEGi University",
+ "university_slug": "segi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Arts (Hons) Visual Communication Design",
+ "slug": "bachelor-of-arts-hons-visual-communication-design",
+ "field": "Audio-visual Techniques & Media Production",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "May",
+  "Sep",
+  "Jan"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 63710.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A-%D8%A3%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86-5309/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/SEGI/0054508/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/SEGI/0054508/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/segi-university-246/ba-hons-visual-communication-design-294335/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Arts (Hons) Visual Communication Design",
-  "program_name_zh": "Arts (Hons) Visual Communication Design学士",
-  "field_ar": "الإعلام",
-  "field_zh": "视听技术与媒体制作"
+  {
+   "url": "https://www.easyuni.my/malaysia/segi-university-246/ba-hons-visual-communication-design-294335/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A-%D8%A3%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86-5309/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Arts (Hons) Visual Communication Design",
+ "program_name_zh": "Arts (Hons) Visual Communication Design学士",
+ "field_ar": "الإعلام",
+ "field_zh": "视听技术与媒体制作",
+ "description": "يهدف تصميم الاتصال البصري (أونلاين) إلى إعداد مصممين محترفين يمتلكون القدرة على توظيف التصميم البصري لنقل الرسائل والأفكار بطريقة إبداعية وفعالة من خلال برنامج مرن يعتمد على التعلم الإلكتروني. يركز البرنامج على تصميم الهوية البصرية، والإعلانات، والمطبوعات، والوسائط الرقمية، وتجربة المستخدم، والطباعة، وتصميم العلامات التجارية، مع دراسة نظريات الاتصال البصري واستخدام أحدث البرمجيات الاحترافية. كما ينمي البرنامج مهارات التفكير الإبداعي، وتحليل احتياجات العملاء، وإدارة المشاريع، والتواصل المهني، بما يساعد الطلبة على تطوير حلول تصميم مبتكرة تلبي متطلبات المؤسسات والأسواق الحديثة. ويستفيد الطلبة من بيئة تعليمية إلكترونية تفاعلية تتضمن مشاريع تطبيقية وملف أعمال رقمي يعكس قدراتهم الإبداعية قبل التخرج. كما يواكب البرنامج الاتجاهات الحديثة في التصميم الرقمي، والتسويق البصري، وصناعة المحتوى، مما يعزز جاهزية الخريجين للعمل في وكالات الإعلان، وشركات التصميم، والمؤسسات الإعلامية، أو تأسيس مشاريعهم الخاصة في مجال التصميم والاتصال البصري."
 }

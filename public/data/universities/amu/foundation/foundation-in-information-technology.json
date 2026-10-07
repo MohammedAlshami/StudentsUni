@@ -8,9 +8,9 @@
   "duration": "1 year",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Jun",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -24,7 +24,8 @@
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/FA11228",
+    "programme_code": "R/0611/3/0015"
   },
   "sources": [
     {

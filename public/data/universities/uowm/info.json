@@ -32,9 +32,14 @@
       "url": "https://www.uow.edu.my/programmes",
       "type": "official",
       "note": "Programmes page listing courses across Business, Built Environment, Computing, Communication, Engineering, Hospitality, Health Science, Law, Pre-University, and Social Science"
+    },
+    {
+      "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%88%d9%84%d9%88%d9%86%d8%ba%d9%88%d9%86%d8%ba-%d9%85%d8%a8%d8%aa%d8%b9%d8%ab/",
+      "publisher": "Khutwatuk",
+      "fetched_at": "2026-10-07"
     }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-10-07",
   "notes": "Formerly KDU University College, rebranded as UOW Malaysia after UOW Global Enterprises acquisition in 2019. Received university status in 2023. Campuses at Glenmarie (Selangor), George Town (Penang), and Batu Kawan (Penang). Offers programmes from Certificate to PhD level.",
   "fees": {
     "currency": "MYR",
@@ -43,5 +48,6 @@
     "per_year_local": 22000,
     "per_year_international": null,
     "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+  },
+  "description": "جامعة ولونجونج | University of Wollongong (اختصار باسم UOW) هي جامعة بحثية أسترالية عامة تقع في مدينة ولونجونج الساحلية ، نيو ساوث ويلز “Wollongong, New South Wales”، على بعد ساعة ونصف جنوب سيدني تم تصنيفها من بين أفضل 20 جامعة حديثة في العالم. لدى جامعة Wollongong أكثر من 33000 طالب (بما في ذلك أكثر من 12300 طالب دولي) ، وقاعدة خريجين تضم أكثر من 176000 [LC1] وأكثر من 2400 موظف بما في ذلك 16 أستاذًا متميزًا. يوجد في جامعة ولونجونج | University of Wollongon أربع كليات تعليمية: الآداب، والعلوم الاجتماعية والإنسانية، والأعمال التجارية والقانون، والهندسة وعلوم المعلومات، والعلوم، والطب والصحة. لدى جامعة ولونجونج تسعة فروع جامعية في جميع أنحاء نيو ساوث ويلز لتوفير تجارب تعليمية استثنائية. وتمتلك جامعة UOW خارج أستراليا حرم جامعي في دبي وهونغ كونغ ومدن في ماليزيا. وأيضًا شراكات في الصين وسنغافو"
 }

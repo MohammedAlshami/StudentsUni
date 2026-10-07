@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of (Hons) Petroleum Engineering",
-  "field": "Petroleum Engineering",
-  "duration": "4 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 139614,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-petroleum-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 143,207."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005369/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-petroleum-engineering-honours"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس (Hons) Petroleum Engineering",
-  "program_name_zh": "石油工程荣誉学士",
-  "field_ar": "هندسة البترول",
-  "field_zh": "石油工程"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of (Hons) Petroleum Engineering",
+ "field": "Petroleum Engineering",
+ "duration": "4 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 139614,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-petroleum-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 143,207."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005369/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-petroleum-engineering-honours",
+  {
+   "url": "https://maigaedu.com/program/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%84-4866/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس (Hons) Petroleum Engineering",
+ "program_name_zh": "石油工程荣誉学士",
+ "field_ar": "هندسة البترول",
+ "field_zh": "石油工程",
+ "description": "يهدف برنامج هندسة البترول إلى إعداد مهندسين متخصصين في استكشاف وإنتاج النفط والغاز وإدارة المكامن وتقنيات الحفر والإنتاج. يجمع البرنامج بين المعرفة العلمية والتطبيقات العملية باستخدام أحدث التقنيات الهندسية، مع التركيز على السلامة، والاستدامة، وكفاءة العمليات. كما يكتسب الطلاب خبرات عملية من خلال المختبرات والتدريب الصناعي، مما يؤهلهم للعمل في شركات النفط والغاز، والخدمات البترولية، والاستشارات الهندسية، والهيئات التنظيمية، أو لمواصلة الدراسات العليا والبحث العلمي."
 }

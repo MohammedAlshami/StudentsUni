@@ -1,51 +1,57 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "undergraduate",
-  "program_name": "Bachelor in Business Administration (Entrepreneurship and Venture Management) (Honours)",
-  "program_slug": "bachelor-in-business-administration-entrepreneurship-and-venture-management-honours",
-  "field": "Business Administration - Entrepreneurship and Venture Management",
-  "duration": "3 years (Full-time)",
-  "mode": "Full-time",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 72600,
-    "per_year": 24200,
-    "notes": "International student tuition: RM72,600 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-business-administration-entrepreneurship-and-venture-management-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM69,000. per_year = total / 3yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "undergraduate",
+ "program_name": "Bachelor in Business Administration (Entrepreneurship and Venture Management) (Honours)",
+ "program_slug": "bachelor-in-business-administration-entrepreneurship-and-venture-management-honours",
+ "field": "Business Administration - Entrepreneurship and Venture Management",
+ "duration": "3 years (Full-time)",
+ "mode": "Full-time",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 72600,
+  "per_year": 24200,
+  "notes": "International student tuition: RM72,600 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-in-business-administration-entrepreneurship-and-venture-management-honours/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM69,000. per_year = total / 3yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+  "a_level": "2 subjects (Grade C)",
+  "ib": "24 points",
+  "other_qualifications": "A-Level with minimum Grade C in any 2 subjects; or STPM with minimum Grade C (CGPA 2.00) in any 2 subjects; or Foundation/Matriculation with minimum CGPA 2.00; or Diploma (Level 4, MQF) or Advanced Diploma (Level 5, MQF) with minimum CGPA 2.00."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "R/0414/6/0023 (09/27) (MQA/SWA5518)"
+ },
+ "college": "UNITEN Business School (UBS)",
+ "campus": "KSHAS",
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-business-administration-entrepreneurship-and-venture-management-honours/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
-    "a_level": "2 subjects (Grade C)",
-    "ib": "24 points",
-    "other_qualifications": "A-Level with minimum Grade C in any 2 subjects; or STPM with minimum Grade C (CGPA 2.00) in any 2 subjects; or Foundation/Matriculation with minimum CGPA 2.00; or Diploma (Level 4, MQF) or Advanced Diploma (Level 5, MQF) with minimum CGPA 2.00."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "R/0414/6/0023 (09/27) (MQA/SWA5518)"
-  },
-  "college": "UNITEN Business School (UBS)",
-  "campus": "KSHAS",
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-in-business-administration-entrepreneurship-and-venture-management-honours/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Business Administration (Entrepreneurship and Venture Management) (Honours)",
-  "program_name_zh": "Business Administration (Entrepreneurship and Venture Management) (Honours)学士",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业管理"
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D9%88%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%A6%D8%A9-4446/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Business Administration (Entrepreneurship and Venture Management) (Honours)",
+ "program_name_zh": "Business Administration (Entrepreneurship and Venture Management) (Honours)学士",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业管理",
+ "description": "يهدف بكالوريوس إدارة الأعمال تخصص الريادة وإدارة المشاريع الناشئة إلى إعداد رواد أعمال وقادة أعمال يمتلكون القدرة على تأسيس وإدارة المشاريع الناشئة وتطوير الأفكار الابتكارية إلى مشروعات ناجحة ومستدامة. يركز البرنامج على ريادة الأعمال، ونماذج الأعمال، وإدارة الابتكار، وإدارة المشاريع، والتمويل الريادي، والتسويق، والاستراتيجية، وإدارة المخاطر، مع تنمية مهارات القيادة، والإبداع، والتفاوض، وحل المشكلات، واتخاذ القرارات. كما يساعد البرنامج الطلبة على تطوير خطط الأعمال، وتحليل الأسواق، وجذب المستثمرين، وإدارة مراحل نمو الشركات الناشئة في بيئة أعمال متغيرة وسريعة التطور. ويجمع البرنامج بين الدراسة الأكاديمية، والمشاريع التطبيقية، وحاضنات الأعمال، ودراسات الحالة، مما يمنح الطلبة خبرة عملية في تأسيس وإدارة المشاريع. كما يواكب البرنامج أحدث الاتجاهات في الاقتصاد الرقمي، والابتكار، وريادة الأعمال الاجتماعية، ويؤهل الخريجين لإطلاق مشاريعهم الخاصة أو العمل في الشركات الناشئة، والمؤسسات الاستثمارية، والاستشارات، أو متابعة الدراسات العليا في إدارة الأعمال وريادة الأعمال."
 }

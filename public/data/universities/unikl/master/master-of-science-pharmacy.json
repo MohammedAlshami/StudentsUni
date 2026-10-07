@@ -1,34 +1,40 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "master",
-  "program_name": "Master of Science (Pharmacy)",
-  "program_slug": "master-of-science-pharmacy",
-  "field": "Pharmacy",
-  "duration": "1.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": 16180,
-    "notes": "Official international tuition: RM8,090/semester, RM16,180/year; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-science-pharmacy/ (accessed 2026-09-18)"
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/",
-    "https://www.unikl.edu.my/programme/master-of-science-pharmacy/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Science (Pharmacy)",
-  "program_name_zh": "理学硕士（药剂学）",
-  "field_ar": "الصيدلة",
-  "field_zh": "药剂学"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "master",
+ "program_name": "Master of Science (Pharmacy)",
+ "program_slug": "master-of-science-pharmacy",
+ "field": "Pharmacy",
+ "duration": "1.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 35780.0,
+  "per_year": 16180,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9-5751/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.unikl.edu.my/postgraduate-admission/",
+  "https://www.unikl.edu.my/programme/master-of-science-pharmacy/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9-5751/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Science (Pharmacy)",
+ "program_name_zh": "理学硕士（药剂学）",
+ "field_ar": "الصيدلة",
+ "field_zh": "药剂学",
+ "description": "يهدف برنامج العلوم (الصيدلة) إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

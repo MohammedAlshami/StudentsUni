@@ -7,7 +7,7 @@
   "website": "https://www.unitar.my/",
   "studymalaysia_url": "https://studymalaysia.com/edu/unitar/courses/",
   "total_programs": 40,
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": null,
@@ -15,5 +15,29 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "UNITAR publishes only local-student tuition on its programme pages ('Price listed above is applicable to local students only'). EasyUni/Uni Enrol list foreign-student tuition of about MYR 14,000-60,500 depending on programme; 22 legacy/non-listed programmes have no published international fee. See individual programme records. Sources: https://www.unitar.my/programmes/, https://www.easyuni.my/malaysia/unitar-international-university-11409/courses/ (accessed 2026-09-18)."
-  }
+  },
+  "founded_year": 1997,
+  "student_count": 7000,
+  "description": "UNITAR تأسست عام 1997 برؤية مختلفة عن معظم الجامعات الخاصة في ماليزيا. بينما كانت الجامعات الأخرى تبني حرماتها التقليدية، بنت UNITAR نظاماً تعليمياً يجمع الحضور والتعلم الإلكتروني في منظومة واحدة. هذا الاختيار المبكر جعلها أول جامعة افتراضية في جنوب شرق آسيا، وأعطاها عقوداً من الخبرة في التعليم عن بُعد قبل أن يصبح هذا النمط شائعاً.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J30H6TZY0GVJVDAYANVPTVQ1.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J30H6V012DMP5NSR5V3XG4S1.webp",
+  "faculties": [
+    "1. كلية الأعمال والتكنولوجيا",
+    "2. كلية التعليم والعلوم الإنسانية",
+    "3. كلية الإعلام والفنون والتصميم",
+    "4. UNITAR Graduate School (الدراسات العليا)"
+  ],
+  "intakes": [
+    "January",
+    "May",
+    "Septmber"
+  ],
+  "city": "Selangor",
+  "sources": [
+    {
+      "url": "https://abeereducation.com/universities/unitar-international-university",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    }
+  ]
 }

@@ -1,50 +1,56 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Diploma",
-  "program_name": "Diploma in Information Technology (IT)",
-  "field": "Computing & IT",
-  "slug": "diploma-in-information-technology-it",
-  "duration": "2.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "April",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 42600,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Diploma",
+ "program_name": "Diploma in Information Technology (IT)",
+ "field": "Computing & IT",
+ "slug": "diploma-in-information-technology-it",
+ "duration": "2.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "April",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 42600,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058818/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058818/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Information Technology (IT)",
-  "program_name_zh": "信息技术（IT）文凭",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "计算机与信息技术"
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-5883/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Information Technology (IT)",
+ "program_name_zh": "信息技术（IT）文凭",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "计算机与信息技术",
+ "description": "يهدف برنامج دبلوم في تكنولوجيا المعلومات إلى إعداد الطلبة بالمعارف والمهارات التقنية اللازمة للعمل في قطاع تقنية المعلومات الذي يشهد تطورًا متسارعًا. يركز البرنامج على تزويد الطلبة بأساس متين في علوم الحاسوب، والبرمجة، وقواعد البيانات، والشبكات، وأمن المعلومات، وتطوير تطبيقات الويب والهواتف الذكية، بالإضافة إلى استخدام أحدث الأدوات والتقنيات الرقمية. كما ينمي البرنامج مهارات التفكير المنطقي، وتحليل المشكلات، وإدارة المشاريع التقنية، والعمل ضمن فرق متعددة التخصصات. ويجمع البرنامج بين الدراسة النظرية والتطبيقات العملية داخل المختبرات الحديثة، مما يمنح الطلبة خبرة عملية تساعدهم على مواكبة متطلبات سوق العمل. ويكتسب الطلبة أيضًا مهارات التواصل، والتعلم الذاتي، والابتكار، وأخلاقيات العمل في مجال تقنية المعلومات. ويؤهل البرنامج الخريجين لمواصلة الدراسة في مرحلة الأو الالتحاق بالوظائف التقنية في مختلف القطاعات الحكومية والخاصة، بما يسهم في إعداد كوادر قادرة على دعم التحول الرقمي وتطوير الحلول التقنية الحديثة."
 }

@@ -5,12 +5,12 @@
   "program_name": "Doctor of Education",
   "slug": "doctor-of-education",
   "field": "education",
-  "duration": "3 years",
-  "mode": "Full-time",
+  "duration": "4 years",
+  "mode": ["Fully Online", "Blended Learning"],
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -19,8 +19,8 @@
     "notes": "AeU does not publish a public programme fee schedule (website and 2026 programme brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://aeu.edu.my/study/brochure/"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.5 or TOEFL 95",
-    "other_qualifications": "Master degree with research experience"
+    "english_requirement": "IELTS 5.0 / TOEFL PBT 410-433 / MUET Band 3 for international students",
+    "entry_requirements": "Recognised Master's degree. Statement of research intent + CV required"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
@@ -28,12 +28,12 @@
   },
   "sources": [
     {
-      "url": "https://aeu.edu.my/study/programme/",
+      "url": "https://aeu.edu.my/study/programme/doctor-of-education/",
       "publisher": "Official Website",
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "verified",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه Education",
   "program_name_zh": "教育博士",

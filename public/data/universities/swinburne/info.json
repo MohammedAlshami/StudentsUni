@@ -7,7 +7,7 @@
   "website": "http://www.swinburne.edu.my",
   "studymalaysia_url": "https://studymalaysia.com/edu/swinburne/courses/",
   "total_programs": 32,
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": null,
@@ -17,6 +17,18 @@
     "notes": "International 2026 indicative fees: Foundation RM29,040 total; Bachelor degrees RM36,680-RM52,360/year; Masters RM38,300-RM58,720 total; PhD RM43,480 total (official fees page https://www.swinburne.edu.my/study/admission/fees-3/, checked 2026-09-18); excludes SST where applicable."
   },
   "sources": [
-    "https://www.swinburne.edu.my/study/admission/fees-3/"
+    "https://www.swinburne.edu.my/study/admission/fees-3/",
+    {
+      "url": "https://abeereducation.com/universities/swinburne-sarawaks-campus",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    }
+  ],
+  "description": "Swinburne University of Technology Sarawak Campus is the international branch campus of Swinburne University of Technology, Melbourne, Australia. The Sarawak campus opened in Kuching, the capital city of the Malaysian state of Sarawak, in 2000.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01JKJP9JQT1KGJ5PWNGVRFZ7VY.svg",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01JKJP9JQVCXMMFZESS76EH5MH.webp",
+  "intakes": [
+    "March",
+    "September"
   ]
 }

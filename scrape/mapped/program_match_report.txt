@@ -1,0 +1,21 @@
+programs matched: 949
+fee patches: 144  desc: 338  duration: 0  requirements: 338
+files to patch: 390
+
+per-university (fee/desc/dur):
+  apu        programs= 113 matched_fee=  0 desc= 56 dur=  0
+  cityu      programs=  74 matched_fee= 55 desc= 55 dur=  0
+  help       programs=  58 matched_fee=  8 desc=  0 dur=  0
+  hwum       programs=  28 matched_fee=  6 desc=  0 dur=  0
+  inti       programs=  43 matched_fee=  1 desc=  0 dur=  0
+  luc        programs=  22 matched_fee= 15 desc= 15 dur=  0
+  mmu        programs=  90 matched_fee=  4 desc=  0 dur=  0
+  segi       programs=  43 matched_fee=  9 desc=  9 dur=  0
+  ucsi       programs=  86 matched_fee=  0 desc= 58 dur=  0
+  unikl      programs=  54 matched_fee= 11 desc= 35 dur=  0
+  unimy      programs=  13 matched_fee=  4 desc=  0 dur=  0
+  unitar     programs=  40 matched_fee= 22 desc=  0 dur=  0
+  uniten     programs=  62 matched_fee=  0 desc= 51 dur=  0
+  uoc        programs=  61 matched_fee=  0 desc= 48 dur=  0
+  upm        programs=  88 matched_fee=  7 desc=  0 dur=  0
+  usm        programs=  48 matched_fee=  2 desc= 11 dur=  0

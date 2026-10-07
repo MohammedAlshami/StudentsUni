@@ -4,7 +4,7 @@
   "level": "diploma",
   "program_name": "Diploma in Culinary Arts",
   "field": "Culinary Arts",
-  "duration": "3 years",
+  "duration": "2 years (includes 16-week internship)",
   "mode": "Full Time",
   "intakes": [
     "January",
@@ -19,9 +19,14 @@
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "spm": "Minimum 3 credits",
+    "o_levels": "Minimum 3 credits",
+    "uec": "Minimum 3 credits",
     "a_level": "1 Principal",
     "other_qualifications": "High school completion"
   },
+  "mqa_ref": "A 9013",
+  "programme_code": "R3/811/4/0121",
   "accreditation": null,
   "sources": [
     {

@@ -5,12 +5,12 @@
   "program_name": "Bachelor of Accountancy",
   "slug": "bachelor-of-accountancy",
   "field": "accounting",
-  "duration": "3 years",
+  "duration": "4 years",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Jun",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -20,13 +20,15 @@
   },
   "requirements": {
     "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
+    "a_level": "STPM C+ in 2 subjects + Maths credit",
+    "diploma": "Diploma CGPA 2.50",
+    "matriculation": "Matriculation CGPA 2.50",
     "other_qualifications": "Equivalent pre-university qualification"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/FA11416",
+    "programme_code": "R/0411/6/0055"
   },
   "sources": [
     {

@@ -5,12 +5,12 @@
   "program_name": "Bachelor of Education (TESL) with Honours",
   "slug": "bachelor-of-education-tesl-with-honours",
   "field": "education",
-  "duration": "3 years",
-  "mode": "Full-time",
+  "duration": "4 years",
+  "mode": ["Fully Online", "Blended Learning"],
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -19,10 +19,10 @@
     "notes": "AeU does not publish a public programme fee schedule (website and 2026 programme brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://aeu.edu.my/study/brochure/"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+    "english_requirement": "IELTS 5.0 for international students",
+    "malaysian": "MUET Band 3.0 or Credit in English at SPM",
+    "entry_requirements": "STPM Grade C in two subjects; OR STAM Jayyid; OR UEC Grade B in five subjects; OR Matriculation/Foundation CGPA 2.00; OR Diploma CGPA 2.00; OR other equivalent",
+    "apel": "Minimum 21 years of age with relevant working experience"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
@@ -30,12 +30,12 @@
   },
   "sources": [
     {
-      "url": "https://aeu.edu.my/study/programme/",
+      "url": "https://aeu.edu.my/study/programme/bachelor-of-education-tesl-with-honours/",
       "publisher": "Official Website",
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "verified",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Education (TESL) with Honours",
   "program_name_zh": "教育学士（TESL）（荣誉学位）",

@@ -1,57 +1,62 @@
 {
-  "university": "UNITAR International University",
-  "university_slug": "unitar",
-  "level": "Diploma",
-  "program_name": "Diploma in Logistics Management",
-  "field": "Transport Services",
-  "slug": "diploma-in-logistics-management",
-  "duration": "2.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "May",
-    "Sep",
-    "Jan"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No international fee published by UNITAR for the conventional Diploma in Logistics Management (checked 2026-09-18): the official programme page shows local-student tuition only and Uni Enrol's conventional-programme page lists no international fee. EasyUni lists a foreign-student tuition of MYR 25,015 for the separate online variant only. Previous estimate removed."
+ "university": "UNITAR International University",
+ "university_slug": "unitar",
+ "level": "Diploma",
+ "program_name": "Diploma in Logistics Management",
+ "field": "Transport Services",
+ "slug": "diploma-in-logistics-management",
+ "duration": "2.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "May",
+  "Sep",
+  "Jan"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 4800.0,
+  "per_year": null,
+  "notes": "External estimate from abeer (https://abeereducation.com/universities/unitar-international-university)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion",
+  "general": "Pass SPM / SPMV / O-Level with credit in at least 3 subjects; OR Pass Sijil Kemahiran Malaysia (SKM) (Level 3 MQF) in relevant field subject to Senate approval and MUST attend bridging courses; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM), with a minimum of Grade C (GP 2.0) in any subject ; OR Any qualifications equivalent to Certificate (Level 3, MQF) in the related field with at least CGPA of 2.00; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul; OR Any other qualifications that recognized by the Malaysian government Language Requirements International Students Minimum score of 5.0 for IELTS OR its equivalent."
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/UNITAR/0056633/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion",
-    "general": "Pass SPM / SPMV / O-Level with credit in at least 3 subjects; OR Pass Sijil Kemahiran Malaysia (SKM) (Level 3 MQF) in relevant field subject to Senate approval and MUST attend bridging courses; OR A pass in Sijil Tinggi Persekolahan Malaysia (STPM), with a minimum of Grade C (GP 2.0) in any subject ; OR Any qualifications equivalent to Certificate (Level 3, MQF) in the related field with at least CGPA of 2.00; OR A pass in Sijil Tinggi Agama Malaysia (STAM) with a minimum grade of Maqbul; OR Any other qualifications that recognized by the Malaysian government Language Requirements International Students Minimum score of 5.0 for IELTS OR its equivalent."
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/UNITAR/0056633/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/diploma-in-logistics-management-online-294069/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://www.unitar.my/programmes/",
-      "publisher": "unitar",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "low",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Logistics Management",
-  "program_name_zh": "物流管理文凭",
-  "field_ar": "Transport Services",
-  "field_zh": "运输服务"
+  {
+   "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/diploma-in-logistics-management-online-294069/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://www.unitar.my/programmes/",
+   "publisher": "unitar",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://abeereducation.com/universities/unitar-international-university",
+   "publisher": "abeer",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "low",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Logistics Management",
+ "program_name_zh": "物流管理文凭",
+ "field_ar": "Transport Services",
+ "field_zh": "运输服务"
 }

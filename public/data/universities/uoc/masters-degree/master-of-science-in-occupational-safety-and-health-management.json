@@ -1,53 +1,59 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Masters Degree",
-  "program_name": "Master of Science in Occupational Safety and Health Management",
-  "field": "Science",
-  "slug": "master-of-science-in-occupational-safety-and-health-management",
-  "duration": "2 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Jan"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 52050,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Masters Degree",
+ "program_name": "Master of Science in Occupational Safety and Health Management",
+ "field": "Science",
+ "slug": "master-of-science-in-occupational-safety-and-health-management",
+ "duration": "2 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Sep",
+  "Jan"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 52050,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "general": "Any of these: Degree in related field (Bachelor&#39;s Degree Level): A bachelor’s degree with a minimum CGPA of 2.50 or equivalent, as accepted by the Malaysian government and the University; or A bachelor’s degree in the field or related fields or equivalent with a CGPA between 2.00 to 2.50 can be accepted subject to rigorous internal assessment. Equivalent entries (Certificate): A bachelor&#39;s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the University and with 3 years of relevant working experience, subject to a rigorous internal assessment. Equivalent entries (Bachelor&#39;s Degree Level): A bachelor&#39;s degree in non-related fields with a minimum of 2.00 as accepted by the University and without relevant working experience, subject to passing prerequisite courses. English Proficiency (For International Students): Band 4 in MUET or equivalent to CEFR (Mid B2)."
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0055137/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "general": "Any of these: Degree in related field (Bachelor&#39;s Degree Level): A bachelor’s degree with a minimum CGPA of 2.50 or equivalent, as accepted by the Malaysian government and the University; or A bachelor’s degree in the field or related fields or equivalent with a CGPA between 2.00 to 2.50 can be accepted subject to rigorous internal assessment. Equivalent entries (Certificate): A bachelor&#39;s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the University and with 3 years of relevant working experience, subject to a rigorous internal assessment. Equivalent entries (Bachelor&#39;s Degree Level): A bachelor&#39;s degree in non-related fields with a minimum of 2.00 as accepted by the University and without relevant working experience, subject to passing prerequisite courses. English Proficiency (For International Students): Band 4 in MUET or equivalent to CEFR (Mid B2)."
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0055137/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/msc-in-occupational-safety-and-health-management-278788/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Science in Occupational Safety and Health Management",
-  "program_name_zh": "Science in Occupational Safety and Health Management硕士",
-  "field_ar": "العلوم",
-  "field_zh": "理科"
+  {
+   "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/msc-in-occupational-safety-and-health-management-278788/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-5870/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Science in Occupational Safety and Health Management",
+ "program_name_zh": "Science in Occupational Safety and Health Management硕士",
+ "field_ar": "العلوم",
+ "field_zh": "理科",
+ "description": "يهدف برنامج العلوم إلى إعداد باحثين يمتلكون القدرة على إنتاج معرفة علمية جديدة من خلال تنفيذ مشاريع بحثية متقدمة في مختلف التخصصات العلمية. يركز البرنامج على تطوير مهارات البحث، والتفكير النقدي، وتحليل البيانات، واستخدام الأساليب العلمية الحديثة، وإعداد الرسائل العلمية وفق المعايير الأكاديمية الدولية. ويعمل الطلبة تحت إشراف أكاديميين متخصصين لإجراء بحوث مبتكرة تسهم في معالجة التحديات العلمية والمجتمعية. كما يشجع البرنامج على النشر العلمي، والمشاركة في المؤتمرات، والتعاون البحثي مع المؤسسات المحلية والدولية. ويؤهل البرنامج الخريجين للعمل في الجامعات، ومراكز الأبحاث، والمؤسسات الصناعية، والهيئات الحكومية، أو متابعة دراسات الدكتوراه في مختلف المجالات العلمية."
 }

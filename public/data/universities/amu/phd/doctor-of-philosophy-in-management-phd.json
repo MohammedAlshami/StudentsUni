@@ -5,12 +5,10 @@
   "program_name": "Doctor of Philosophy in Management (PhD)",
   "slug": "doctor-of-philosophy-in-management-phd",
   "field": "management",
-  "duration": "3 years",
+  "duration": "Minimum 3 years (FT) / Minimum 4 years (PT)",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Flexible (year-round)"
   ],
   "fees": {
     "currency": "MYR",
@@ -24,7 +22,8 @@
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "MQA/FA10029",
+    "programme_code": "R2/0414/8/0021"
   },
   "sources": [
     {

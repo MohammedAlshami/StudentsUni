@@ -1,62 +1,68 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Bachelor's Degree",
-  "program_name": "Bachelor of Multimedia (Honours) in 3D Animation",
-  "field": "Arts & Design",
-  "slug": "bachelor-of-multimedia-honours-in-3d-animation",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Oct",
-    "Mar"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 83300,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Bachelor's Degree",
+ "program_name": "Bachelor of Multimedia (Honours) in 3D Animation",
+ "field": "Arts & Design",
+ "slug": "bachelor-of-multimedia-honours-in-3d-animation",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Oct",
+  "Mar"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 83300,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058799/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058799/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-of-multimedia-in-3d-animation-hons-294545/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Multimedia (Honours) in 3D Animation",
-  "program_name_zh": "多媒体学士（荣誉）三维动画",
-  "field_ar": "الفنون",
-  "field_zh": "艺术与设计"
+  {
+   "url": "https://www.easyuni.com/malaysia/university-of-cyberjaya-uoc-203/courses/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/bachelor-of-multimedia-in-3d-animation-hons-294545/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%B1%D9%83%D8%A9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF-5891/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Multimedia (Honours) in 3D Animation",
+ "program_name_zh": "多媒体学士（荣誉）三维动画",
+ "field_ar": "الفنون",
+ "field_zh": "艺术与设计",
+ "description": "يهدف برنامج الوسائط المتعددة في الرسوم المتحركة ثلاثية الأبعاد إلى إعداد متخصصين في إنتاج الرسوم المتحركة والوسائط الرقمية باستخدام أحدث التقنيات والأدوات الإبداعية. يركز البرنامج على تصميم الشخصيات، والنمذجة ثلاثية الأبعاد، والتحريك، والمؤثرات البصرية، وتصميم الألعاب الرقمية، والإخراج الفني، وإنتاج الأفلام الرقمية، إلى جانب تنمية مهارات الإبداع والابتكار والعمل الجماعي. كما يكتسب الطلبة خبرة عملية من خلال تنفيذ مشاريع تحاكي بيئة العمل في استوديوهات الإنتاج وشركات الألعاب والوسائط الرقمية. ويعتمد البرنامج على التعلم التطبيقي واستخدام البرمجيات الاحترافية لإعداد الخريجين لمواكبة التطورات في صناعة الرسوم المتحركة والترفيه الرقمي. ويؤهل البرنامج للعمل في استوديوهات الرسوم المتحركة، وشركات الألعاب، والإنتاج الإعلامي، والإعلانات الرقمية، أو مواصلة الدراسات العليا في الوسائط المتعددة والتصميم الرقمي."
 }

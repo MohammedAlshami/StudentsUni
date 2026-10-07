@@ -15,9 +15,19 @@
   ],
   "sources": [
     "https://www.lincoln.edu.my",
-    "https://www.studymalaysia.com/edu/lincoln-university-college/courses/"
+    "https://www.studymalaysia.com/edu/lincoln-university-college/courses/",
+    {
+      "url": "https://abeereducation.com/universities/lincoln-university-college",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%84%D9%8A%D9%86%D9%83%D9%88%D9%86/42/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "program_counts": {
     "foundation": 1,
     "diploma": 1,
@@ -32,5 +42,26 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "Lincoln University College does not publish tuition fees. Official programme pages/FAQ direct fee enquiries to admission@lincoln.edu.my (checked 2026-09-18). Checked lincoln.edu.my sitemap, WordPress media library (988 files) and Wayback archives (2014-2026): no official international fee schedule is published."
-  }
+  },
+  "founded_year": 2002,
+  "qs_rank": 185,
+  "local_rank": 37,
+  "student_count": 70,
+  "languages_of_instruction": "الإنجليزية",
+  "accreditation": "MQA، 5 نجوم SETARA، ISO 9001:2015، WHO، IAU، ACU",
+  "recognition": {
+    "مصر": "المجلس الأعلى للجامعات المصري يعادل شهادات الجامعات الأجنبية المعتمدة. Lincoln معتمدة من MQA وSETARA 5 نجوم وهذا يدعم إمكانية المعادلة. الإجراءات تتطلب تقديم الشهادة وكشف الدرجات مع ترجمة معتمدة ودفع رسوم المعادلة. تحذير مهم: تخصصات الطب والصيدلة وطب الأسنان في جامعة لينكولن تحتاج إلى مراجعة المجلس الأعلى للجامعات على scu.eun.eg للتأكد من وضع التخصص تحديداً قبل التسجيل.",
+    "السودان": "هيئة الاعتراف والمعادلة السودانية تعترف بالجامعات الماليزية المعتمدة من MQA. Lincoln مدرجة ضمن هذه الجامعات. يُنصح بالتواصل مع الهيئة للتأكد من وضع التخصص المطلوب، خاصة للتخصصات الطبية التي قد تحتاج اعتمادات مهنية إضافية. تحذير مهم: تخصصات الطب والصيدلة وطب الأسنان تحتاج إلى موافقة مسبقة من الهيئة المهنية المختصة في بلدك قبل التسجيل، وليس فقط معادلة الشهادة الأكاديمية."
+  },
+  "description": "دراسة الطب في الخارج قرار كبير، والسؤال الأول دائماً: هل الشهادة معترف بها عند العودة؟ جامعة لينكولن ماليزيا (Lincoln University College) تجيب على هذا السؤال بوضوح برنامج الطب معتمد من WHO وMMC وFAIMER وNMC الهندية، والصيدلة وطب الأسنان والتمريض كلها تحمل اعتمادات مهنية رسمية تفتح أبواب التسجيل المهني في ماليزيا وخارجها.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J30GYMYYC1PXXCE3P6FFDY6X.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J30GYMZ1F7BFA3F2VC3RVYZN.webp",
+  "faculties": [
+    "المنح الدراسية المتاحة في Lincoln"
+  ],
+  "intakes": [
+    "Jan",
+    "May",
+    "Sep"
+  ]
 }

@@ -1,49 +1,55 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "undergraduate",
-  "program_name": "Bachelor of Mechanical Engineering (Hons)",
-  "program_slug": "bachelor-of-mechanical-engineering-hons",
-  "field": "Engineering",
-  "duration": "4 years (Full-time)",
-  "mode": "Full-time",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 104500,
-    "per_year": 26125,
-    "notes": "International student tuition: RM104,500 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-of-mechanical-engineering-hons/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM98,000. per_year = total / 4yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "undergraduate",
+ "program_name": "Bachelor of Mechanical Engineering (Hons)",
+ "program_slug": "bachelor-of-mechanical-engineering-hons",
+ "field": "Engineering",
+ "duration": "4 years (Full-time)",
+ "mode": "Full-time",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 104500,
+  "per_year": 26125,
+  "notes": "International student tuition: RM104,500 total. Source: https://www.uniten.edu.my/programme/undergraduate/bachelor-of-mechanical-engineering-hons/ (UNITEN official programme page, accessed 2026-09-18). UNITEN International Undergraduate Fee Structure (Dec 2024) listed RM98,000. per_year = total / 4yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
+  "a_level": "2 subjects (Grade D) including Mathematics and Physics",
+  "ib": "24 points",
+  "other_qualifications": "STPM with minimum Grade C (CGPA 2.00) in Mathematics and Physics; or A-Level with minimum Grade D in Mathematics and Physics; or Matriculation with minimum CGPA 2.00; or Foundation in a related field with minimum CGPA 2.00; or Diploma in a related field with minimum CGPA 2.00."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited; recognised by the Board of Engineers Malaysia (BEM) and accredited by the Engineering Accreditation Council (EAC) under the Washington Accord",
+  "mqa_ref": "R3/0714/6/0003 (06/33) (MQA/FA9202)"
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-of-mechanical-engineering-hons/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL 46 (iBT) or MUET Band 3.5; Intensive English Programme (IEP) required if requirement is not met.",
-    "a_level": "2 subjects (Grade D) including Mathematics and Physics",
-    "ib": "24 points",
-    "other_qualifications": "STPM with minimum Grade C (CGPA 2.00) in Mathematics and Physics; or A-Level with minimum Grade D in Mathematics and Physics; or Matriculation with minimum CGPA 2.00; or Foundation in a related field with minimum CGPA 2.00; or Diploma in a related field with minimum CGPA 2.00."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited; recognised by the Board of Engineers Malaysia (BEM) and accredited by the Engineering Accreditation Council (EAC) under the Washington Accord",
-    "mqa_ref": "R3/0714/6/0003 (06/33) (MQA/FA9202)"
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/undergraduate/bachelor-of-mechanical-engineering-hons/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Mechanical Engineering (Hons)",
-  "program_name_zh": "机械工程学士（荣誉学位）",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D9%8A%D8%A9-4406/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Mechanical Engineering (Hons)",
+ "program_name_zh": "机械工程学士（荣誉学位）",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "يهدف بكالوريوس الهندسة الميكانيكية إلى إعداد مهندسين قادرين على تصميم وتحليل وتشغيل وصيانة الأنظمة الميكانيكية المستخدمة في مختلف القطاعات الصناعية والهندسية. يدرس الطلبة ميكانيكا الموائع، والديناميكا، وانتقال الحرارة، وخواص المواد، وتصميم الآلات، وأنظمة التصنيع، والطاقة، والهندسة الحرارية، مع التركيز على استخدام البرمجيات الهندسية الحديثة في التصميم والمحاكاة والتحليل. كما يركز البرنامج على تنمية مهارات الابتكار، والتفكير الهندسي، والعمل الجماعي، وإدارة المشاريع، وحل المشكلات التقنية، بما يساعد الطلبة على تطوير حلول عملية تلبي احتياجات الصناعة الحديثة. ويكتسب الطلبة خبرة عملية من خلال المختبرات، والمشاريع التطبيقية، والتدريب الصناعي، مما يعزز جاهزيتهم للعمل في بيئات مهنية متنوعة. ويواكب البرنامج التطورات في التصنيع الذكي، والأتمتة، والطاقة المستدامة، والتقنيات الصناعية الحديثة، ويؤهل الخريجين للعمل في الصناعات التحويلية، والطاقة، والسيارات، والطيران، والاستشارات الهندسية، أو متابعة الدراسات العليا في الهندسة الميكانيكية والتخصصات المرتبطة بها."
 }

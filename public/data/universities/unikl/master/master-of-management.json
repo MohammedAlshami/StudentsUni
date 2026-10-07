@@ -1,44 +1,50 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "master",
-  "program_name": "Master of Management",
-  "program_slug": "master-of-management",
-  "field": "Business & Management",
-  "duration": "2 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": 8490,
-    "notes": "Official international tuition: RM4,245/semester, RM8,490/year; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-management/ (accessed 2026-09-18)"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "master",
+ "program_name": "Master of Management",
+ "program_slug": "master-of-management",
+ "field": "Business & Management",
+ "duration": "2 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 18980.0,
+  "per_year": 8490,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-5718/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": {
+  "mqa_code": "A10143",
+  "valid_until": null,
+  "additional_codes": null
+ },
+ "sources": [
+  "https://www.unikl.edu.my/postgraduate-admission/",
+  "https://www.unikl.edu.my/programme/master-of-management/",
+  "https://studymalaysia.com/what/course/UNIKL/0008082/",
+  {
+   "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-management-264856/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": {
-    "mqa_code": "A10143",
-    "valid_until": null,
-    "additional_codes": null
-  },
-  "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/",
-    "https://www.unikl.edu.my/programme/master-of-management/",
-    "https://studymalaysia.com/what/course/UNIKL/0008082/",
-    {
-      "url": "https://www.easyuni.my/malaysia/universiti-kuala-lumpur-unikl-10245/master-of-management-264856/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Management",
-  "program_name_zh": "管理学硕士",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业与管理"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-5718/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Management",
+ "program_name_zh": "管理学硕士",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业与管理",
+ "description": "يهدف برنامج الإدارة إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

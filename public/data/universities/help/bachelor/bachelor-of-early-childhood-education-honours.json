@@ -1,56 +1,61 @@
 {
-  "university": "HELP University",
-  "university_slug": "help",
-  "level": "bachelor",
-  "program_name": "Bachelor of Early Childhood Education (Honours)",
-  "program_slug": "bachelor-of-early-childhood-education-honours",
-  "field": "Education",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Aug"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "HELP University does not publish an international student fee for this programme: the official programme page lists only the Malaysian-student indicative total fee (RM 76,800), and the 2026 HELP University Programme Fees Summary (v4, July 2026) is explicitly Malaysian-only. Sources checked on 2026-09-18: https://university.help.edu.my/programme/bachelor-of-early-childhood-education/; https://university.help.edu.my/admissions-study-awards/fee-schedule/ (page empty); https://university.help.edu.my/admissions-study-awards/international-student-admissions/; https://university.help.edu.my/brochures/ (2026 fees summary PDF). No international fee published."
+ "university": "HELP University",
+ "university_slug": "help",
+ "level": "bachelor",
+ "program_name": "Bachelor of Early Childhood Education (Honours)",
+ "program_slug": "bachelor-of-early-childhood-education-honours",
+ "field": "Education",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Aug"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 64000.0,
+  "per_year": null,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d9%84%d8%a8-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-help/)"
+ },
+ "sources": [
+  "https://studymalaysia.com/what/course/HELP/0058729/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "sources": [
-    "https://studymalaysia.com/what/course/HELP/0058729/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://university.help.edu.my/brochures/",
-      "publisher": "help",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://university.help.edu.my/programme/bachelor-of-early-childhood-education/",
-      "publisher": "HELP University",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "program_name_ar": "بكالوريوس Early Childhood Education (Honours)",
-  "program_name_zh": "幼儿教育学士（荣誉学位）",
-  "field_ar": "التربية والتعليم",
-  "field_zh": "教育"
+  {
+   "url": "https://university.help.edu.my/brochures/",
+   "publisher": "help",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://university.help.edu.my/programme/bachelor-of-early-childhood-education/",
+   "publisher": "HELP University",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d9%84%d8%a8-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-help/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "program_name_ar": "بكالوريوس Early Childhood Education (Honours)",
+ "program_name_zh": "幼儿教育学士（荣誉学位）",
+ "field_ar": "التربية والتعليم",
+ "field_zh": "教育"
 }

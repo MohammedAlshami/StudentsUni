@@ -1,47 +1,64 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Masters Degree",
-  "program_name": "Master of Business Administration (MBA)",
-  "field": "Business Management & Administration",
-  "slug": "master-of-business-administration-mba",
-  "duration": "1 year",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Oct",
-    "Mar"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 30300,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Masters Degree",
+ "program_name": "Master of Business Administration (MBA)",
+ "field": "Business Management & Administration",
+ "slug": "master-of-business-administration-mba",
+ "duration": "1 year",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Oct",
+  "Mar"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 30300,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": [
+  {
+   "label": "العمر الأدنى",
+   "value": "18",
+   "note": "سنة"
   },
-  "requirements": null,
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058826/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Business Administration (MBA)",
-  "program_name_zh": "工商管理硕士（MBA）",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业管理与行政"
+  {
+   "label": "المؤهل",
+   "value": "ثانوية معتمدة",
+   "note": "ماجستير"
+  }
+ ],
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058826/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-5847/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Business Administration (MBA)",
+ "program_name_zh": "工商管理硕士（MBA）",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业管理与行政",
+ "description": "يهدف برنامج إدارة الأعمال إلى تطوير القيادات الإدارية من خلال تزويد الطلبة بالمعرفة المتقدمة في الإدارة، والتسويق، والمالية، وإدارة الموارد البشرية، والاستراتيجية، وريادة الأعمال، وإدارة المشاريع. يركز البرنامج على تنمية مهارات التفكير الاستراتيجي، واتخاذ القرار، والقيادة، والابتكار، وحل المشكلات، بما يمكن الدارسين من مواجهة تحديات بيئة الأعمال الحديثة. ويعتمد البرنامج على دراسات الحالة، والمشاريع التطبيقية، والعمل الجماعي، بما يربط المفاهيم الأكاديمية بالتطبيق العملي. ويؤهل البرنامج الخريجين لتولي المناصب القيادية والإدارية في المؤسسات الحكومية والخاصة، أو تأسيس مشاريعهم الخاصة، أو متابعة الدراسات العليا والبحث العلمي."
 }

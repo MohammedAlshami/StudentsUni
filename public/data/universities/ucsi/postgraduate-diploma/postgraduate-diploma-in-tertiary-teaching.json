@@ -1,36 +1,42 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "postgraduate-diploma",
-  "program_name": "Postgraduate Diploma in Tertiary Teaching",
-  "field": "Tertiary Teaching",
-  "duration": "Full-time : 12 months, part-time : 18-24 months",
-  "mode": "Full-time/Part-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 35312,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/postgraduate-diploma-tertiary-teaching-pgdtt), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0057299/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/postgraduate-diploma-tertiary-teaching-pgdtt"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "Postgraduate Diploma in Tertiary Teaching",
-  "program_name_zh": "高等教育教学研究生文凭",
-  "field_ar": "التدريس",
-  "field_zh": "高等教育教学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "postgraduate-diploma",
+ "program_name": "Postgraduate Diploma in Tertiary Teaching",
+ "field": "Tertiary Teaching",
+ "duration": "Full-time : 12 months, part-time : 18-24 months",
+ "mode": "Full-time/Part-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 35312,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/postgraduate-diploma-tertiary-teaching-pgdtt), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0057299/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/postgraduate-diploma-tertiary-teaching-pgdtt",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D9%8A-4789/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "Postgraduate Diploma in Tertiary Teaching",
+ "program_name_zh": "高等教育教学研究生文凭",
+ "field_ar": "التدريس",
+ "field_zh": "高等教育教学",
+ "description": "يهدف الدراسات العليا في التدريس بالتعليم العالي إلى إعداد الأكاديميين والمحاضرين لتطوير مهاراتهم في التدريس الجامعي وفق أحدث الممارسات التربوية. يركز البرنامج على تصميم المقررات، واستراتيجيات التدريس، وتقويم تعلم الطلبة، والتكنولوجيا التعليمية، وإدارة الصفوف الجامعية، وأساليب التعليم النشط. كما يساعد المشاركين على تحسين جودة العملية التعليمية وتنمية مهارات التفكير النقدي والابتكار في التدريس. يؤهل البرنامج العاملين في مؤسسات التعليم العالي لتقديم تجربة تعليمية متميزة، والمساهمة في تطوير البرامج الأكاديمية وتحسين مخرجات التعلم."
 }

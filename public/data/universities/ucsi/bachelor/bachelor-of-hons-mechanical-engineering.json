@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of (Hons) Mechanical Engineering",
-  "field": "Mechanical Engineering",
-  "duration": "4 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 136593,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-mechanical-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 140,186."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005366/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-mechanical-engineering-honours"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس (Hons) Mechanical Engineering",
-  "program_name_zh": "机械工程荣誉学士",
-  "field_ar": "الهندسة الميكانيكية",
-  "field_zh": "机械工程"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of (Hons) Mechanical Engineering",
+ "field": "Mechanical Engineering",
+ "duration": "4 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 136593,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-mechanical-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 140,186."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005366/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-mechanical-engineering-honours",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D9%8A%D8%A9-4864/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس (Hons) Mechanical Engineering",
+ "program_name_zh": "机械工程荣誉学士",
+ "field_ar": "الهندسة الميكانيكية",
+ "field_zh": "机械工程",
+ "description": "يهدف برنامج الهندسة الميكانيكية إلى إعداد مهندسين يمتلكون المعرفة والمهارات اللازمة لتصميم وتحليل وتصنيع وصيانة الأنظمة والآلات الميكانيكية. يجمع البرنامج بين الدراسة النظرية والتطبيق العملي في مجالات التصنيع، والمواد، والحراريات، والطاقة، والأتمتة، مع التركيز على الابتكار وحل المشكلات الهندسية. كما يتيح البرنامج فرص التدريب الصناعي والمشاريع التطبيقية، مما يؤهل الخريجين للعمل في الصناعات التحويلية، والطاقة، والسيارات، والطيران، والاستشارات الهندسية، أو لمواصلة الدراسات العليا."
 }

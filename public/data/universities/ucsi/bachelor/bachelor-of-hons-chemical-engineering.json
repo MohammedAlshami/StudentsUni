@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of (Hons) Chemical Engineering",
-  "field": "Chemical Engineering",
-  "duration": "4 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 139137,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-chemical-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 142,730."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005337/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-chemical-engineering-honours"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس (Hons) Chemical Engineering",
-  "program_name_zh": "(Hons) Chemical Engineering学士",
-  "field_ar": "الهندسة الكيميائية",
-  "field_zh": "化学工程"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of (Hons) Chemical Engineering",
+ "field": "Chemical Engineering",
+ "duration": "4 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 139137,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-chemical-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 142,730."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005337/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-chemical-engineering-honours",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-4859/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس (Hons) Chemical Engineering",
+ "program_name_zh": "(Hons) Chemical Engineering学士",
+ "field_ar": "الهندسة الكيميائية",
+ "field_zh": "化学工程",
+ "description": "يهدف برنامج الهندسة الكيميائية إلى إعداد مهندسين قادرين على تصميم وتشغيل وتحسين العمليات الصناعية والكيميائية باستخدام أحدث التقنيات الهندسية. يركز البرنامج على تطبيق مبادئ الكيمياء والرياضيات والهندسة في تطوير المنتجات والعمليات الصناعية مع الالتزام بمعايير الجودة والسلامة والاستدامة. كما يكتسب الطلاب خبرة عملية من خلال المختبرات والمشاريع والتدريب الصناعي، مما يؤهلهم للعمل في الصناعات الكيميائية، والبتروكيماوية، والدوائية، والغذائية، والطاقة، أو لمواصلة الدراسات العليا والبحث العلمي في مجالات الهندسة والتكنولوجيا."
 }

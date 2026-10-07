@@ -1,37 +1,43 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "masters",
-  "program_name": "Master of Business Administration with a specialism in Business Analytics",
-  "program_slug": "mba-business-analytics",
-  "field": "Business & Management",
-  "duration": "FT: 1+ year; PT: 2 years 6 months",
-  "mode": "Full-time / Part-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 42000,
-    "per_year": null,
-    "notes": "APU official course page: total international tuition RM42,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-of-business-administration-business-analytics (accessed 2026-09-18)."
-  },
-  "requirements": {
-    "english_requirement": "IELTS : 6.0",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-    "general": "Bachelor’s degree Bachelor’s degree in related fields with a minimum CGPA of 2.50, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the Senate and with relevant working experience, subject to a rigorous internal assessment. ​Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the Senate and without relevant working experience, subject to passing pre-requisite courses. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/msc-of-business-administration-business-analytics",
-    "https://www.studymalaysia.com/what/course/APU/0009930/"
-  ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Business Administration with a specialism in Business Analytics",
-  "program_name_zh": "工商管理硕士（商业分析专业）",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业与管理"
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "masters",
+ "program_name": "Master of Business Administration with a specialism in Business Analytics",
+ "program_slug": "mba-business-analytics",
+ "field": "Business & Management",
+ "duration": "FT: 1+ year; PT: 2 years 6 months",
+ "mode": "Full-time / Part-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 42000,
+  "per_year": null,
+  "notes": "APU official course page: total international tuition RM42,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-of-business-administration-business-analytics (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 6.0",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+  "general": "Bachelor’s degree Bachelor’s degree in related fields with a minimum CGPA of 2.50, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted, subject to a rigorous internal assessment. Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the Senate and with relevant working experience, subject to a rigorous internal assessment. ​Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the Senate and without relevant working experience, subject to passing pre-requisite courses. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/msc-of-business-administration-business-analytics",
+  "https://www.studymalaysia.com/what/course/APU/0009930/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%8A-%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-5620/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.9,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Business Administration with a specialism in Business Analytics",
+ "program_name_zh": "工商管理硕士（商业分析专业）",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业与管理",
+ "description": "يهدف برنامج إدارة الأعمال في تحليلات الأعمال إلى تزويد الطالب بمعرفة أكاديمية ومهارات عملية متخصصة في المجال، مع ربط المفاهيم النظرية بالتطبيقات الحديثة وسوق العمل. يساعد البرنامج الطالب على تطوير التفكير التحليلي وحل المشكلات والعمل على المشاريع التطبيقية، ويؤهله للانطلاق المهني أو متابعة الدراسات العليا في تخصص قريب."
 }

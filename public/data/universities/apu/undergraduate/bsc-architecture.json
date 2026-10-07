@@ -1,39 +1,45 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "undergraduate",
-  "program_name": "Bachelor of Science (Honours) in Architecture",
-  "program_slug": "bsc-architecture",
-  "field": "Architecture",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 110400,
-    "per_year": null,
-    "notes": "APU official course page: total international tuition RM110,400 (excludes 6% SST). Source: https://www.apu.edu.my/course/bachelor-of-science-architecture (accessed 2026-09-18)."
-  },
-  "requirements": {
-    "english_requirement": "IELTS : 5.0 / TOEFL IBT : 2.5 / Pearson (PTE) : 47 / MUET : Band 3.5",
-    "a_level": "Minimum Grade D in 2 subjects, excluding General Paper and a Credit pass in SPM/‘O’ Levels Mathematics",
-    "ib": null,
-    "other_qualifications": null,
-    "general": "General Requirements Direct Entry to Level 1 of the Degree STPM Minimum Grade C in 2 subjects and a Credit pass in SPM/O-Level Mathematics or equivalent A-Level Minimum Grade D in 2 subjects, excluding General Paper and a Credit pass in SPM/‘O’ Levels Mathematics UEC Pass with Minimum 5Bs, including Credit in Mathematics Foundation Pass with minimum CGPA 2.00 Diploma Pass with CGPA 2.00 Direct Entry to Level 2 of the Degree Architecture Related Diplomas A Diploma in Architecture related areas with a minimum CGPA of 2.00 and fulfilment of requirements for Credit Transfer is subject to approval by the APU Academic Board. Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA). A Credit pass in Mathematics at SPM/O-Level or equivalent qualification can be waived should any other higher qualifications contain Mathematics with an equivalent/higher achievement. Pass the Architecture Aptitude Test/ Interview as determined by the Head of School as required. Pass an Interview OR submission of Portfolio as required."
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/bachelor-of-science-architecture",
-    "https://www.studymalaysia.com/what/course/APU/0058647/"
-  ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Science (Honours) in Architecture",
-  "program_name_zh": "建筑学荣誉理学士",
-  "field_ar": "العمارة",
-  "field_zh": "建筑学"
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "undergraduate",
+ "program_name": "Bachelor of Science (Honours) in Architecture",
+ "program_slug": "bsc-architecture",
+ "field": "Architecture",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 110400,
+  "per_year": null,
+  "notes": "APU official course page: total international tuition RM110,400 (excludes 6% SST). Source: https://www.apu.edu.my/course/bachelor-of-science-architecture (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 5.0 / TOEFL IBT : 2.5 / Pearson (PTE) : 47 / MUET : Band 3.5",
+  "a_level": "Minimum Grade D in 2 subjects, excluding General Paper and a Credit pass in SPM/‘O’ Levels Mathematics",
+  "ib": null,
+  "other_qualifications": null,
+  "general": "General Requirements Direct Entry to Level 1 of the Degree STPM Minimum Grade C in 2 subjects and a Credit pass in SPM/O-Level Mathematics or equivalent A-Level Minimum Grade D in 2 subjects, excluding General Paper and a Credit pass in SPM/‘O’ Levels Mathematics UEC Pass with Minimum 5Bs, including Credit in Mathematics Foundation Pass with minimum CGPA 2.00 Diploma Pass with CGPA 2.00 Direct Entry to Level 2 of the Degree Architecture Related Diplomas A Diploma in Architecture related areas with a minimum CGPA of 2.00 and fulfilment of requirements for Credit Transfer is subject to approval by the APU Academic Board. Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA). A Credit pass in Mathematics at SPM/O-Level or equivalent qualification can be waived should any other higher qualifications contain Mathematics with an equivalent/higher achievement. Pass the Architecture Aptitude Test/ Interview as determined by the Head of School as required. Pass an Interview OR submission of Portfolio as required."
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/bachelor-of-science-architecture",
+  "https://www.studymalaysia.com/what/course/APU/0058647/",
+  {
+   "url": "https://maigaedu.com/program/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-5682/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.9,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Science (Honours) in Architecture",
+ "program_name_zh": "建筑学荣誉理学士",
+ "field_ar": "العمارة",
+ "field_zh": "建筑学",
+ "description": "يهدف برنامج هندسة معمارية إلى تزويد الطالب بمعرفة أكاديمية ومهارات عملية متخصصة في المجال، مع ربط المفاهيم النظرية بالتطبيقات الحديثة وسوق العمل. يساعد البرنامج الطالب على تطوير التفكير التحليلي وحل المشكلات والعمل على المشاريع التطبيقية، ويؤهله للانطلاق المهني أو متابعة الدراسات العليا في تخصص قريب."
 }

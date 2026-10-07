@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "diploma",
-  "program_name": "Diploma in Culinary Arts",
-  "field": "Culinary Arts",
-  "duration": "2 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 67057,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-culinary-arts), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 4.0 or TOEFL iBT 2.0",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0008898/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/diploma-culinary-arts"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Culinary Arts",
-  "program_name_zh": "烹饪艺术文凭",
-  "field_ar": "الفنون",
-  "field_zh": "烹饪艺术"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "diploma",
+ "program_name": "Diploma in Culinary Arts",
+ "field": "Culinary Arts",
+ "duration": "2 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 67057,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-culinary-arts), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 4.0 or TOEFL iBT 2.0",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0008898/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/diploma-culinary-arts",
+  {
+   "url": "https://maigaedu.com/program/%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B7%D9%87%D9%8A-4948/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Culinary Arts",
+ "program_name_zh": "烹饪艺术文凭",
+ "field_ar": "الفنون",
+ "field_zh": "烹饪艺术",
+ "description": "يهدف فنون الطهي إلى إعداد طهاة محترفين يمتلكون المعرفة والمهارات الأساسية في إعداد وتقديم الأطعمة المحلية والعالمية. يجمع البرنامج بين التدريب العملي والدراسة النظرية في تقنيات الطهي، وسلامة الأغذية، وإدارة المطابخ، وتخطيط قوائم الطعام، وإدارة التكاليف. كما يساعد الطلاب على تطوير مهارات الإبداع، والعمل الجماعي، والانضباط المهني، والقدرة على العمل في بيئات سريعة. يؤهل البرنامج الخريجين للعمل في الفنادق، والمطاعم، وشركات الضيافة، وخدمات التموين، أو مواصلة دراستهم في برامج الذات الصلة."
 }

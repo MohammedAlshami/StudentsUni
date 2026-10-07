@@ -1,58 +1,64 @@
 {
-  "university": "City University Malaysia",
-  "university_slug": "cityu",
-  "level": "diploma",
-  "program_name": "Diploma in Business Management",
-  "program_slug": "diploma-in-business-management",
-  "field": "Business & Management",
-  "duration": "2 years 8 months",
-  "mode": "Full-time",
-  "intakes": [
-    "Feb",
-    "Jun",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "City University Malaysia does not publish an international fee schedule: the official International Students page states the latest fee structure is available only from the International Marketing Office (imo@city.edu.my) or CityU representatives on request, and the official programme page and programme listing show no tuition fee. Sources checked: https://city.edu.my/admission-scholarships/international-students/; https://city.edu.my/diploma-in-business-management-mqa-accredited-city-u/; https://city.edu.my/programmes/diploma/ (all accessed 2026-09-18)."
+ "university": "City University Malaysia",
+ "university_slug": "cityu",
+ "level": "diploma",
+ "program_name": "Diploma in Business Management",
+ "program_slug": "diploma-in-business-management",
+ "field": "Business & Management",
+ "duration": "2 years 8 months",
+ "mode": "Full-time",
+ "intakes": [
+  "Feb",
+  "Jun",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 38300.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-4962/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion",
+  "general": "Any one of these: SPM: Pass with Minimum 3 credits equivalent qualification STPM: Pass with Minimum C GPA of 2.0 equivalent qualification STAM: Pass with Minimum Maqbul grade SKM Level 3: Pass  in relevant fields (HEP is required to implement a screening and bridging program which correspond to the program field)  CERTIFICATE: Pass in certificate (Level 3, MQF) English Requirements For International Students MUET: Min. Band 3 or CEFR equivalent (High B1) or its equivalent.  "
+ },
+ "accreditation": "MQA",
+ "sources": [
+  {
+   "url": "https://www.city.edu.my",
+   "publisher": "Unknown",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion",
-    "general": "Any one of these: SPM: Pass with Minimum 3 credits equivalent qualification STPM: Pass with Minimum C GPA of 2.0 equivalent qualification STAM: Pass with Minimum Maqbul grade SKM Level 3: Pass  in relevant fields (HEP is required to implement a screening and bridging program which correspond to the program field)  CERTIFICATE: Pass in certificate (Level 3, MQF) English Requirements For International Students MUET: Min. Band 3 or CEFR equivalent (High B1) or its equivalent.  "
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": "MQA",
-  "sources": [
-    {
-      "url": "https://www.city.edu.my",
-      "publisher": "Unknown",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/diploma-in-business-management-243150/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://city.edu.my/admission-scholarships/international-students/",
-      "publisher": "City University Malaysia",
-      "fetched_at": "2026-09-18"
-    },
-    "https://city.edu.my/diploma-in-business-management-mqa-accredited-city-u/",
-    "https://city.edu.my/programmes/diploma/"
-  ],
-  "confidence": 0.5,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Business Management",
-  "program_name_zh": "商业管理文凭",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业与管理"
+  {
+   "url": "https://www.easyuni.my/malaysia/city-university-malaysia-10212/diploma-in-business-management-243150/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://city.edu.my/admission-scholarships/international-students/",
+   "publisher": "City University Malaysia",
+   "fetched_at": "2026-09-18"
+  },
+  "https://city.edu.my/diploma-in-business-management-mqa-accredited-city-u/",
+  "https://city.edu.my/programmes/diploma/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-4962/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.8,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Business Management",
+ "program_name_zh": "商业管理文凭",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业与管理",
+ "description": "يقدم برنامج Business Management مدخلاً أكاديميًا متكاملًا إلى مجال الإدارة والأعمال، ويهدف إلى مساعدة الطالب على فهم طبيعة التخصص من خلال الجمع بين المعرفة النظرية والتطبيق العملي. يركز البرنامج على بناء طريقة تفكير مهنية تساعد الطالب على تحليل المشكلات، قراءة المتطلبات، تطوير الحلول، وتقديم الأفكار بصورة واضحة ومنظمة. ومن خلال موضوعاته الأساسية، يتعرف الطالب على المفاهيم التي يقوم عليها المجال، وعلى المهارات التي يحتاجها للنجاح في الدراسة والممارسة العملية، مثل التخطيط، القيادة، إدارة الموارد، فهم العملاء، وتحليل بيئات الأعمال. ولا يقتصر البرنامج على حفظ المعلومات، بل يشجع الطالب على البحث، النقاش، العمل الجماعي، وإنتاج مشاريع أو أعمال تعكس فهمه للتخصص. كما يمنح الطالب فرصة لاكتشاف اهتماماته داخل المجال، سواء كانت مرتبطة بالتحليل، الإبداع، الإدارة، التقنية، البحث، أو خدمة المجتمع. ويهتم البرنامج بتنمية القدرة على اتخاذ القرار، تقييم البدائل، احترام أخلاقيات المهنة، وفهم العلاقة بين المعرفة الأكاديمية والتحديات التي تظهر في بيئات العمل الحديثة. يساعد هذا المسار كذلك على تطوير مهارات التواصل والكتابة والعرض، وهي مهارات مهمة لأي طالب يريد أن يعبّر عن أفكاره بثقة ويشارك بفاعلية في بيئة أكاديمية أو مهنية. يناسب البرنامج الطلاب الذين يرغبون في بناء أساس قوي ومنظم، وفهم أعمق لطبيعة التخصص قبل الانتقال إلى مراحل أكثر تقدمًا أو إلى فرص عمل مرتبطة به. وبنهاية الدراسة، يكون الطالب أكثر استعدادًا للتعامل مع التحديات الواقعية في هذا المجال، وأكثر قدرة على ربط ما يتعلمه باحتياجات السوق والمجتمع."
 }

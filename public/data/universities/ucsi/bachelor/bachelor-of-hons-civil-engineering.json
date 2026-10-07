@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of (Hons) Civil Engineering",
-  "field": "Civil Engineering",
-  "duration": "4 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 137229,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-civil-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 140,822."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0053373/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-civil-engineering-honours"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس (Hons) Civil Engineering",
-  "program_name_zh": "土木工程荣誉学士",
-  "field_ar": "الهندسة المدنية",
-  "field_zh": "土木工程"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of (Hons) Civil Engineering",
+ "field": "Civil Engineering",
+ "duration": "4 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 137229,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-civil-engineering-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 140,822."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0053373/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-civil-engineering-honours",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-4860/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس (Hons) Civil Engineering",
+ "program_name_zh": "土木工程荣誉学士",
+ "field_ar": "الهندسة المدنية",
+ "field_zh": "土木工程",
+ "description": "يهدف برنامج الهندسة المدنية إلى إعداد مهندسين يمتلكون المعرفة والمهارات اللازمة لتصميم وتنفيذ وإدارة مشاريع البنية التحتية والإنشاءات الحديثة. يركز البرنامج على الهندسة الإنشائية، والنقل، والموارد المائية، والهندسة الجيوتقنية، وإدارة المشاريع، مع تعزيز مهارات التحليل وحل المشكلات والعمل الجماعي. كما يوفر البرنامج تدريباً عملياً ومشاريع تطبيقية تؤهل الخريجين للعمل في شركات المقاولات، والاستشارات الهندسية، والهيئات الحكومية، وشركات تطوير البنية التحتية، أو لمواصلة الدراسات العليا والبحث العلمي."
 }

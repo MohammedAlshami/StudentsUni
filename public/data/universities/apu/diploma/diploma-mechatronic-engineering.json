@@ -1,43 +1,49 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "diploma",
-  "program_name": "Diploma in Mechatronic Engineering",
-  "program_slug": "diploma-mechatronic-engineering",
-  "field": "Engineering",
-  "duration": "2+ years",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 54200,
-    "per_year": null,
-    "notes": "APU official course page: total international tuition RM54,200 (excludes 6% SST). Source: https://www.apu.edu.my/course/diploma-in-mechatronic-engineering (accessed 2026-09-18)."
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "diploma",
+ "program_name": "Diploma in Mechatronic Engineering",
+ "program_slug": "diploma-mechatronic-engineering",
+ "field": "Engineering",
+ "duration": "2+ years",
+ "mode": "Full-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 54200,
+  "per_year": null,
+  "notes": "APU official course page: total international tuition RM54,200 (excludes 6% SST). Source: https://www.apu.edu.my/course/diploma-in-mechatronic-engineering (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 5.0 / TOEFL IBT : 2.5 / Pearson (PTE) : 47 / MUET : Band 3.5",
+  "a_level": null,
+  "other_qualifications": "High school completion",
+  "general": "General Requirements SPM 3 Credits in at least 3 subjects at SPM level including Mathematics and any Science Subject (Science, Physics, Chemistry or Biology) with a minimum of a pass in Bahasa Malaysia, Sejarah (History) and English; IGCSE/O-LEVELS 3 Credits (Grade C & above) in at least 3 subjects at IGCSE/ O-Levels including Mathematics and any Science Subjects (Science, Physics, Chemistry or Biology) with a minimum Pass in English at SPM/ O-Level/ IGCSE; UEC 3 Credit (Grade B & above) in at least 3 subjects in UEC including Mathematics and any Science subject (Science, Physics, Chemistry or Biology) with a Pass in English; STPM Pass Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent with a pass in Mathematics, English and ONE (1) relevant science/technical/vocational subject at the SPM level; Certificate Recognised Certificate in Engineering/Engineering Technology or its equivalent; Recognised related Vocational and Technical/ Skills Certificate or its equivalent with ONE (1) year of relevant work experience or a minimum of ONE (1) semester of a bridging programme; Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/diploma-in-mechatronic-engineering",
+  "https://www.studymalaysia.com/what/course/APU/0058239/",
+  {
+   "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/diploma-in-mechatronic-engineering-293247/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS : 5.0 / TOEFL IBT : 2.5 / Pearson (PTE) : 47 / MUET : Band 3.5",
-    "a_level": null,
-    "other_qualifications": "High school completion",
-    "general": "General Requirements SPM 3 Credits in at least 3 subjects at SPM level including Mathematics and any Science Subject (Science, Physics, Chemistry or Biology) with a minimum of a pass in Bahasa Malaysia, Sejarah (History) and English; IGCSE/O-LEVELS 3 Credits (Grade C & above) in at least 3 subjects at IGCSE/ O-Levels including Mathematics and any Science Subjects (Science, Physics, Chemistry or Biology) with a minimum Pass in English at SPM/ O-Level/ IGCSE; UEC 3 Credit (Grade B & above) in at least 3 subjects in UEC including Mathematics and any Science subject (Science, Physics, Chemistry or Biology) with a Pass in English; STPM Pass Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent with a pass in Mathematics, English and ONE (1) relevant science/technical/vocational subject at the SPM level; Certificate Recognised Certificate in Engineering/Engineering Technology or its equivalent; Recognised related Vocational and Technical/ Skills Certificate or its equivalent with ONE (1) year of relevant work experience or a minimum of ONE (1) semester of a bridging programme; Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/diploma-in-mechatronic-engineering",
-    "https://www.studymalaysia.com/what/course/APU/0058239/",
-    {
-      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/diploma-in-mechatronic-engineering-293247/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Mechatronic Engineering",
-  "program_name_zh": "机电工程文凭",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+  {
+   "url": "https://maigaedu.com/program/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%A7%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-5689/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.9,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Mechatronic Engineering",
+ "program_name_zh": "机电工程文凭",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "يهدف برنامج هندسة الميكاترونية إلى تزويد الطالب بمعرفة أكاديمية ومهارات عملية متخصصة في المجال، مع ربط المفاهيم النظرية بالتطبيقات الحديثة وسوق العمل. يساعد البرنامج الطالب على تطوير التفكير التحليلي وحل المشكلات والعمل على المشاريع التطبيقية، ويؤهله للانطلاق المهني أو متابعة الدراسات العليا في تخصص قريب."
 }

@@ -23,9 +23,14 @@
   "sources": [
     "https://www.limkokwing.edu.my",
     "https://limkokwing.net/malaysia/academic/courses/",
-    "https://en.wikipedia.org/wiki/Limkokwing_University_of_Creative_Technology"
+    "https://en.wikipedia.org/wiki/Limkokwing_University_of_Creative_Technology",
+    {
+      "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%84%d9%8a%d9%85%d9%83%d9%88%d9%83%d9%88%d9%8a%d9%86%d8%ac-limkokwing-university/",
+      "publisher": "Khutwatuk",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 45000,
@@ -33,5 +38,6 @@
     "per_year_local": 15000,
     "per_year_international": null,
     "notes": "Limkokwing University official website was unreachable (HTTP 522) as of 2026-09-18; no official international fees could be verified. See individual programme files."
-  }
+  },
+  "description": "يوجد في الحرم الجامعى للجامعة 34 نادي يمثلون طلاباً من بلدان الوطن العربي مثل ،العراق و اليمن و السعودية و فلسطين و سوريا و لبنان و الاردن و ليبيا و غيرها من الدول مثل الصين و اندونيسيا وتايلاند والهند وايران وسري لانكا و بوتسوانا و دول اوربا وامريكا الجنوبية . تتيح لاعضاءها المشاركة في الانشطة الرياضية والثقافيه والدينية ، وكل أنماط الحياة المتعلقة بهذه البلدان، مما يخلق جواً فريداً متعدد الاوجه . فازت الجامعة على جائزة أعلى التحاق الطلاب الدوليين والجائزة الخاصة للعولمة من وزارة التربية والتعليم الماليزية وجائزة التميز من وزارة التجارة الدولية والصناعة، و قد حصلت على جوائز عالمية مثل جائزة قوس أوروبا للجودة والتكنولوجيا، فرانكفورت. جائزة الجودة الدولية، لندن؛ جائزة الجودة عصر البلاتين القرن الدولية، جنيف؛ جائزة النجمة الذهبية الدولية، باريس؛ والقيادة الحكيمة في جائزة التعليم المبتكرة، ني"
 }

@@ -1,36 +1,42 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "master",
-  "program_name": "Master of Science in Nutrition with Management",
-  "field": "Nutrition with Management",
-  "duration": "Minimum 1 year – Full time study / Minimum 2 years – Part time study",
-  "mode": "Full-time/Part-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 76866,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/msc-nutrition-management), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 86,621."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0057297/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/msc-nutrition-management"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Science in Nutrition with Management",
-  "program_name_zh": "营养与管理理学硕士",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "营养与管理"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "master",
+ "program_name": "Master of Science in Nutrition with Management",
+ "field": "Nutrition with Management",
+ "duration": "Minimum 1 year – Full time study / Minimum 2 years – Part time study",
+ "mode": "Full-time/Part-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 76866,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/msc-nutrition-management), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 86,621."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0057297/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/msc-nutrition-management",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D8%B9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D8%B3%D8%AA%D8%AF%D8%B1%D8%A7%D9%83%D9%8A-4819/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Science in Nutrition with Management",
+ "program_name_zh": "营养与管理理学硕士",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "营养与管理",
+ "description": "صُمم برنامج العلوم في التغذية مع الإدارة والبرنامج الاستدراكي لتأهيل الطلاب أكاديمياً قبل دراسة التخصص. يجمع البرنامج بين علوم التغذية والإدارة الحديثة، مع التركيز على البحث العلمي، وإدارة الخدمات الصحية، وسلامة الغذاء، والقيادة، والابتكار. كما يساعد الطلاب على تطوير مهارات التفكير النقدي وإدارة المشاريع الصحية، ويؤهلهم للعمل في المؤسسات الصحية، وشركات الأغذية، ومراكز البحث، أو لمواصلة الدراسات العليا في مجالات التغذية والإدارة."
 }

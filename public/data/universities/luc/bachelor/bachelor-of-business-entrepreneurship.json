@@ -1,37 +1,43 @@
 {
-  "university": "Lincoln University College",
-  "university_slug": "luc",
-  "level": "bachelor",
-  "program_name": "Bachelor of Business Entrepreneurship",
-  "field": "Business & Management",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Mar",
-    "Nov"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Lincoln University College does not publish tuition fees. The official programme page/FAQ (checked 2026-09-18) directs fee enquiries to admission@lincoln.edu.my / imd@lincoln.edu.my / finance@lincoln.edu.my. Checked lincoln.edu.my sitemap and WordPress media library (988 files) plus Wayback Machine archives (2014-2026): no official international fee schedule is published. No fee value is asserted."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.lincoln.edu.my/school-of-business-management/",
-    "https://www.lincoln.edu.my/bachelor-of-business-entrepreneurship/"
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Business Entrepreneurship",
-  "program_name_zh": "商业创业学士",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业与管理"
+ "university": "Lincoln University College",
+ "university_slug": "luc",
+ "level": "bachelor",
+ "program_name": "Bachelor of Business Entrepreneurship",
+ "field": "Business & Management",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Mar",
+  "Nov"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 49000.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-4516/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.lincoln.edu.my/school-of-business-management/",
+  "https://www.lincoln.edu.my/bachelor-of-business-entrepreneurship/",
+  {
+   "url": "https://maigaedu.com/program/%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-4516/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Business Entrepreneurship",
+ "program_name_zh": "商业创业学士",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业与管理",
+ "description": "يقدم برنامج بكالوريوس ريادة الأعمال مساراً تعليمياً منظماً يناسب مستوى بكالوريوس، وتبلغ مدة الدراسة فيه 3 سنة بحسب البيانات المدرجة في هذا الصف. يهدف هذا البرنامج إلى مساعدة الطالب على بناء معرفة متدرجة تبدأ من المفاهيم الأساسية ثم تنتقل إلى التطبيق والتحليل وحل المشكلات في المجال المختار. يركز المسار على تطوير التفكير النقدي، مهارات البحث، القدرة على التواصل المهني، وفهم المعايير الأخلاقية التي يحتاجها الطالب في الدراسة والعمل. كما يساعد الطالب على ربط المعرفة النظرية بالمواقف العملية، وتنظيم وقته، واستخدام المصادر العلمية والمهنية بطريقة مسؤولة. في مجال الأعمال والإدارة، يساعد البرنامج الطالب على فهم المؤسسات والأسواق والموارد والقرارات المالية والإدارية. يركز المسار على القيادة، التخطيط، التحليل، المحاسبة، إدارة الأفراد أو المشاريع، واستخدام البيانات في اتخاذ قرارات عملية تدعم الأداء والاستدامة. يعتمد البرنامج على تجربة تعلم منظمة تجمع بين المحاضرات، الأنشطة، القراءات، التدريب أو المشاريع بحسب طبيعة التخصص. ويمنح الطالب فرصة للتفاعل مع المدرسين والزملاء، طرح الأسئلة، وبناء فهم أعمق من خلال التطبيق والمناقشة المستمرة. بنهاية الدراسة، يصبح الطالب أكثر استعداداً للانتقال إلى فرص مهنية أو أكاديمية مرتبطة بالتخصص، سواء في المؤسسات، المراكز المتخصصة، الشركات، الجهات التعليمية، أو القطاعات التي تحتاج إلى معرفة مهنية موثوقة. كما يوفر البرنامج أساساً جيداً للتطوير المستمر، متابعة الدراسات الأعلى، وبناء مسار مهني يتناسب مع طموح الطالب وقدراته."
 }

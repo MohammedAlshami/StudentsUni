@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Optometry (Hons)",
-  "field": "Optometry",
-  "duration": "4 years (17 weeks per semester)",
-  "mode": "Full-time",
-  "intakes": [
-    "Feb",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 162860,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-optometry-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.5 or TOEFL iBT 42",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0010014/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/bachelor-optometry-honours"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Optometry (Hons)",
-  "program_name_zh": "验光学学士（荣誉学位）",
-  "field_ar": "Optometry",
-  "field_zh": "验光学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Optometry (Hons)",
+ "field": "Optometry",
+ "duration": "4 years (17 weeks per semester)",
+ "mode": "Full-time",
+ "intakes": [
+  "Feb",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 162860,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/bachelor-optometry-honours), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.5 or TOEFL iBT 42",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0010014/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/bachelor-optometry-honours",
+  {
+   "url": "https://maigaedu.com/program/%D9%82%D9%8A%D8%A7%D8%B3-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1-4772/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Optometry (Hons)",
+ "program_name_zh": "验光学学士（荣誉学位）",
+ "field_ar": "Optometry",
+ "field_zh": "验光学",
+ "description": "يهدف برنامج البصريات إلى إعداد أخصائيي بصريات مؤهلين لتقييم صحة العين، وتشخيص اضطرابات الإبصار، ووصف العدسات الطبية، وتقديم الرعاية البصرية الشاملة. يجمع البرنامج بين الدراسة الأكاديمية والتدريب السريري، مع التركيز على فحص العين، والعدسات اللاصقة، والبصريات السريرية، وصحة العين، واستخدام أحدث الأجهزة التشخيصية. كما ينمي مهارات التواصل مع المرضى واتخاذ القرارات السريرية، ويؤهل الخريجين للعمل في المستشفيات، وعيادات البصريات، ومراكز العيون، أو لمواصلة الدراسات العليا في علوم البصريات والرعاية الصحية."
 }

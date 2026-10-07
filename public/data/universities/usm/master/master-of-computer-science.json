@@ -1,41 +1,47 @@
 {
-  "university": "Universiti Sains Malaysia",
-  "university_slug": "usm",
-  "level": "master",
-  "program_name": "Master of Computer Science",
-  "field": "Computing",
-  "slug": "master-of-computer-science",
-  "duration": "FT: Min 2 Sem/Max 4 Sem",
-  "mode": "Flexible Full-time/Part-time",
-  "intakes": [
-    "September"
-  ],
-  "fees": {
-    "currency": "USD",
-    "total": 8000,
-    "per_year": null,
-    "notes": "Official USM international postgraduate tuition (total per programme): USD 8,000; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
+ "university": "Universiti Sains Malaysia",
+ "university_slug": "usm",
+ "level": "master",
+ "program_name": "Master of Computer Science",
+ "field": "Computing",
+ "slug": "master-of-computer-science",
+ "duration": "FT: Min 2 Sem/Max 4 Sem",
+ "mode": "Flexible Full-time/Part-time",
+ "intakes": [
+  "September"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 8000,
+  "per_year": null,
+  "notes": "Official USM international postgraduate tuition (total per programme): USD 8,000; excludes one-off registration/personal bond fees. Source: https://admission.usm.my/index.php/postgraduate/fee-pg (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": {
+  "mqa_status": "Full Accreditation",
+  "mqa_ref": null
+ },
+ "sources": [
+  {
+   "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
+   "publisher": "USM Admissions",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": {
-    "mqa_status": "Full Accreditation",
-    "mqa_ref": null
-  },
-  "sources": [
-    {
-      "url": "https://admission.usm.my/index.php/postgraduate/fee-pg",
-      "publisher": "USM Admissions",
-      "fetched_at": "2026-09-14"
-    },
-    "https://admission.usm.my/index.php/postgraduate/fee-pg"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Computer Science",
-  "program_name_zh": "计算机科学硕士",
-  "field_ar": "Computing",
-  "field_zh": "计算机学"
+  "https://admission.usm.my/index.php/postgraduate/fee-pg",
+  {
+   "url": "https://maigaedu.com/program/%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-4317/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Computer Science",
+ "program_name_zh": "计算机科学硕士",
+ "field_ar": "Computing",
+ "field_zh": "计算机学",
+ "description": "برنامج ماجستير في علوم الحاسب يهدف إلى تطوير المهارات المتقدمة في علوم الحاسوب وإعداد متخصصين في البحث والتطوير التقني. يركز البرنامج على الذكاء الاصطناعي، وهندسة البرمجيات، وعلوم البيانات، والأمن السيبراني، والحوسبة السحابية، والخوارزميات، مع تنمية المهارات البحثية والقدرة على تطوير حلول تقنية مبتكرة. ويؤهل البرنامج الخريجين للعمل في شركات التكنولوجيا، ومراكز الأبحاث، والمؤسسات الحكومية، والجامعات، وقيادة مشاريع التحول الرقمي والابتكار التقني."
 }

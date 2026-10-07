@@ -1,39 +1,45 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "undergraduate",
-  "program_name": "Bachelor in Interactive Media and Immersive Technology (Honours) with a specialism in VR/AR",
-  "program_slug": "bsc-interactive-media-immersive-technology-vr-ar",
-  "field": "Design & Creative Media",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 108500,
-    "per_year": null,
-    "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/bsc-interactive-media-immersive-technology-vr-ar (accessed 2026-09-18)."
-  },
-  "requirements": {
-    "english_requirement": "IELTS : 5.5 / TOEFL IBT : 3.5 / Pearson (PTE) : 51 / MUET : Band 4",
-    "a_level": "2 Passes (Grade A-D) in A-Level. Pass an interview or a portfolio review. *Overseas qualification that are equivalent to 12th Grade/A-Level/HSC are accepted.",
-    "ib": null,
-    "other_qualifications": null,
-    "general": "General Requirements STPM 2 Passes in STPM with minimum Grade C (GP 2.0) in any subject. Pass an interview or a portfolio review. A-Level 2 Passes (Grade A-D) in A-Level. Pass an interview or a portfolio review. *Overseas qualification that are equivalent to 12th Grade/A-Level/HSC are accepted. UEC 5 Grade B Passes in UEC in any subjects. Pass an interview or a portfolio review. Foundation/ Matriculation A pass in Matriculation or Foundation studies with minimum CGPA of 2.0. Pass an interview or a portfolio review. ICT Related Platforms Diploma with a minimum CGPA of 2.0. Pass an interview or a portfolio review. Note: Students who do not have a Credit in Additional Mathematics in SPM/ O-Level/IGCSE but have an acceptable achievement in Mathematics related subjects during the Foundation which may be equivalent to SPM/O-Level/IGCSE Additional Mathematics, can be accepted into Degree Programmes. Students can be given preferential entry for ICT related subject in SPM/ O-Level/ IGCSE. Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/bsc-interactive-media-immersive-technology-vr-ar",
-    "https://www.studymalaysia.com/what/course/APU/0056894/"
-  ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Interactive Media and Immersive Technology (Honours) with a specialism in VR/AR",
-  "program_name_zh": "互动媒体与沉浸式技术荣誉学士（虚拟现实/增强现实专修）",
-  "field_ar": "التصميم",
-  "field_zh": "设计与创意媒体"
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "undergraduate",
+ "program_name": "Bachelor in Interactive Media and Immersive Technology (Honours) with a specialism in VR/AR",
+ "program_slug": "bsc-interactive-media-immersive-technology-vr-ar",
+ "field": "Design & Creative Media",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 108500,
+  "per_year": null,
+  "notes": "APU official course page: total international tuition RM108,500 (excludes 6% SST). Source: https://www.apu.edu.my/course/bsc-interactive-media-immersive-technology-vr-ar (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 5.5 / TOEFL IBT : 3.5 / Pearson (PTE) : 51 / MUET : Band 4",
+  "a_level": "2 Passes (Grade A-D) in A-Level. Pass an interview or a portfolio review. *Overseas qualification that are equivalent to 12th Grade/A-Level/HSC are accepted.",
+  "ib": null,
+  "other_qualifications": null,
+  "general": "General Requirements STPM 2 Passes in STPM with minimum Grade C (GP 2.0) in any subject. Pass an interview or a portfolio review. A-Level 2 Passes (Grade A-D) in A-Level. Pass an interview or a portfolio review. *Overseas qualification that are equivalent to 12th Grade/A-Level/HSC are accepted. UEC 5 Grade B Passes in UEC in any subjects. Pass an interview or a portfolio review. Foundation/ Matriculation A pass in Matriculation or Foundation studies with minimum CGPA of 2.0. Pass an interview or a portfolio review. ICT Related Platforms Diploma with a minimum CGPA of 2.0. Pass an interview or a portfolio review. Note: Students who do not have a Credit in Additional Mathematics in SPM/ O-Level/IGCSE but have an acceptable achievement in Mathematics related subjects during the Foundation which may be equivalent to SPM/O-Level/IGCSE Additional Mathematics, can be accepted into Degree Programmes. Students can be given preferential entry for ICT related subject in SPM/ O-Level/ IGCSE. Any qualification that APU accepts as equivalent to the above. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/bsc-interactive-media-immersive-technology-vr-ar",
+  "https://www.studymalaysia.com/what/course/APU/0056894/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%B1%D8%A9-%D8%AA%D8%AE%D8%B5%D8%B5-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D8%B2%D8%B2-5670/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.9,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Interactive Media and Immersive Technology (Honours) with a specialism in VR/AR",
+ "program_name_zh": "互动媒体与沉浸式技术荣誉学士（虚拟现实/增强现实专修）",
+ "field_ar": "التصميم",
+ "field_zh": "设计与创意媒体",
+ "description": "يهدف برنامج الوسائط التفاعلية والتكنولوجيا الغامرة تخصص الواقع الافتراضي/الواقع المعزز إلى تزويد الطالب بمعرفة أكاديمية ومهارات عملية متخصصة في المجال، مع ربط المفاهيم النظرية بالتطبيقات الحديثة وسوق العمل. يساعد البرنامج الطالب على تطوير التفكير التحليلي وحل المشكلات والعمل على المشاريع التطبيقية، ويؤهله للانطلاق المهني أو متابعة الدراسات العليا في تخصص قريب."
 }

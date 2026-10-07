@@ -6,7 +6,7 @@
   "state": "Selangor",
   "website": "https://www.msu.edu.my",
   "studymalaysia_url": "https://studymalaysia.com/edu/msu/courses/",
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "sources": [
     {
       "url": "https://studymalaysia.com/edu/msu/courses/",
@@ -17,6 +17,16 @@
       "url": "https://www.msu.edu.my",
       "publisher": "University Website",
       "fetched_at": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "url": "https://abeereducation.com/universities/management-science-university-msu",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%88-%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%B1%D8%A9/19/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
     }
   ],
   "fees": {
@@ -26,5 +36,32 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "MSU official programme pages publish Malaysian fees only; international fees below are from StudyMalaysia course pages (accessed 2026-09-18), cross-checked where possible against MSU official pages. International totals range from RM28,205 (foundation) to RM608,110 (Bachelor in Dental Surgery); Malaysian from RM15,800. Fees may change; confirm with MSU."
-  }
+  },
+  "founded_year": 2001,
+  "qs_rank": 597,
+  "qs_year": 2026,
+  "local_rank": 31,
+  "student_count": 15000,
+  "international_students": 7500,
+  "employability": "99% خلال 6 أشهر من التخرج",
+  "languages_of_instruction": "الإنجليزية",
+  "accreditation": "MQA، SETARA Tier 5 (أعلى تصنيف للجامعات التطبيقية)",
+  "recognition": {
+    "مصر": "المجلس الأعلى للجامعات المصري يعادل شهادات الجامعات الأجنبية المعتمدة. MSU معتمدة من MQA وهذا يدعم إمكانية المعادلة لمعظم التخصصات. الإجراءات تتطلب تقديم الشهادة وكشف الدرجات مع ترجمة معتمدة. تحذير مهم: تخصص MBBS يحتاج موافقة MCC الماليزية إضافة للمجلس الأعلى للجامعات ووزارة الصحة المصرية. تواصل معنا لنعلمك وضع تخصصك تحديداً قبل التسجيل.",
+    "السودان": "هيئة الاعتراف والمعادلة السودانية تعترف بالجامعات الماليزية المعتمدة من MQA. MSU مدرجة ضمن هذه الجامعات. التخصصات الطبية تحتاج موافقة مسبقة من الهيئة السودانية للأطباء قبل التسجيل."
+  },
+  "description": "99% من خريجي جامعة MSU يجدون وظائف خلال 6 أشهر من التخرج هذا الرقم ليس شعاراً تسويقياً، بل نتيجة موثقة من وزارة التعليم العالي الماليزية تجعلها الأعلى في هذا المعدل بين الجامعات الخاصة في ماليزيا.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J30H0EY7TEKG5543WSP3EBRA.png",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J30H0EY987SZ6NKJY2T7ZWE6.webp",
+  "faculties": [
+    "المنح الدراسية في جامعة MSU",
+    "تكاليف المعيشة في شاه علم"
+  ],
+  "intakes": [
+    "February",
+    "July",
+    "September",
+    "Novmber"
+  ],
+  "city": "سيلانغور (30 دقيقة من كوالالمبور)"
 }

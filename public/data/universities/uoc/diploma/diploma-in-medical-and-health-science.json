@@ -1,56 +1,62 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Diploma",
-  "program_name": "Diploma in Medical and Health Science",
-  "field": "Science",
-  "slug": "diploma-in-medical-and-health-science",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "May",
-    "Nov"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 71500,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Diploma",
+ "program_name": "Diploma in Medical and Health Science",
+ "field": "Science",
+ "slug": "diploma-in-medical-and-health-science",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "May",
+  "Nov"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 71500,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion",
+  "general": "Any of these: SPM: Pass with a minimum of 5 credits in the following subjects: Bahasa Malaysia Science subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR General Science / Applied Science Mathematics or Additional Mathematics 2 (two) other subjects AND pass in English STPM: Pass with a Grade C (GPA 2.00) in one subject AND a minimum of 3 credits in the following subjects: Science Subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR General Science Mathematics or Additional Mathematics UEC: Pass with minimum Grade B in 3 subjects: Science subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR Mathematics / Advanced Mathematics General Science O-Level/IGCSE: Pass with a minimum of 5 credits in the following subjects: Two (2) credits from Science or Mathematics subject (Biology/ Physics/Chemistry/General Science); Three (3) from any other subjects; AND Pass in English OR Candidates with other relevant qualifications are subject to approval by the MAB Certificate in health-related field: Certificate in a Health-related field recognised and approved by the MAB AND a minimum of 3 credits in the following subjects: Science subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR General Science Mathematics or Additional Mathematics Additional Requirements: Medical Status - Students must be certified medically fit by a registered medical practitioner recognised by the University and free from: Mental illness Physical and sensory disability HIV-AIDS Hepatitis B and C Epilepsy Drug addiction and substance abuse Any other medical condition certified unfit English Proficiency (For International Students): English Proficiency for International Students: Minimum IELTS score of 4.0 or equivalent"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058828/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion",
-    "general": "Any of these: SPM: Pass with a minimum of 5 credits in the following subjects: Bahasa Malaysia Science subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR General Science / Applied Science Mathematics or Additional Mathematics 2 (two) other subjects AND pass in English STPM: Pass with a Grade C (GPA 2.00) in one subject AND a minimum of 3 credits in the following subjects: Science Subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR General Science Mathematics or Additional Mathematics UEC: Pass with minimum Grade B in 3 subjects: Science subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR Mathematics / Advanced Mathematics General Science O-Level/IGCSE: Pass with a minimum of 5 credits in the following subjects: Two (2) credits from Science or Mathematics subject (Biology/ Physics/Chemistry/General Science); Three (3) from any other subjects; AND Pass in English OR Candidates with other relevant qualifications are subject to approval by the MAB Certificate in health-related field: Certificate in a Health-related field recognised and approved by the MAB AND a minimum of 3 credits in the following subjects: Science subjects: Biology or Chemistry; OR Physics with a pass in Biology; OR General Science Mathematics or Additional Mathematics Additional Requirements: Medical Status - Students must be certified medically fit by a registered medical practitioner recognised by the University and free from: Mental illness Physical and sensory disability HIV-AIDS Hepatitis B and C Epilepsy Drug addiction and substance abuse Any other medical condition certified unfit English Proficiency (For International Students): English Proficiency for International Students: Minimum IELTS score of 4.0 or equivalent"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058828/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/diploma-in-medical-and-health-science-278780/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Medical and Health Science",
-  "program_name_zh": "医药与健康科学文凭",
-  "field_ar": "العلوم",
-  "field_zh": "理科"
+  {
+   "url": "https://www.easyuni.my/malaysia/university-of-cyberjaya-uoc-203/diploma-in-medical-and-health-science-278780/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9-5859/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Medical and Health Science",
+ "program_name_zh": "医药与健康科学文凭",
+ "field_ar": "العلوم",
+ "field_zh": "理科",
+ "description": "يهدف برنامج دبلوم في العلوم الطبية والصحية إلى تزويد الطلبة بأساس علمي متكامل في العلوم الطبية والصحية، وإعدادهم للعمل في المجالات الصحية المساندة أو لمواصلة الدراسة الجامعية. يركز البرنامج على دراسة الأحياء، والكيمياء، والتشريح، وعلم وظائف الأعضاء، وعلم الأحياء الدقيقة، والصحة العامة، وأسس الرعاية الصحية، والمهارات المخبرية، مع تنمية مهارات التواصل والعمل الجماعي وأخلاقيات المهن الصحية، بما يواكب احتياجات القطاع الصحي وسوق العمل."
 }

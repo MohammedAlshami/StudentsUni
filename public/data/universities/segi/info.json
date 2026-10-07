@@ -19,9 +19,19 @@
   ],
   "sources": [
     "https://www.segi.edu.my",
-    "https://studymalaysia.com/edu/segi/courses/"
+    "https://studymalaysia.com/edu/segi/courses/",
+    {
+      "url": "https://abeereducation.com/universities/segi-university",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    },
+    {
+      "url": "https://maigaedu.com/university/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B3%D9%8A%D8%AC%D9%8A/12/",
+      "publisher": "MAIGA",
+      "fetched_at": "2026-10-07"
+    }
   ],
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 66000,
@@ -29,5 +39,22 @@
     "per_year_local": 22000,
     "per_year_international": null,
     "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+  },
+  "founded_year": 1977,
+  "qs_rank": 731,
+  "local_rank": 33,
+  "student_count": 20000,
+  "alumni_count": 100000,
+  "languages_of_instruction": "الإنجليزية",
+  "accreditation": "MQA، QS 5 Stars Plus، SETARA، ACCA، CIMA، IEM",
+  "recognition": {
+    "مصر": "المجلس الأعلى للجامعات المصري يعادل شهادات الجامعات الأجنبية المعتمدة من MQA. SEGi معتمدة بالكامل. تواصل معنا لنعلمك وضع تخصصك تحديداً قبل التسجيل، خاصة للتخصصات الطبية التي تحتاج مراجعة إضافية من وزارة الصحة.",
+    "السودان": "هيئة الاعتراف والمعادلة السودانية تعترف بالجامعات الماليزية المعتمدة من MQA. SEGi مدرجة ضمن هذه الجامعات. التخصصات الطبية تحتاج موافقة مسبقة من الجهة الصحية المختصة قبل التسجيل."
+  },
+  "description": "47 سنة في التعليم العالي ليست رقماً عادياً. SEGi بدأت عام 1977 كمركز تدريب صغير في قلب كوالالمبور، وتحولت اليوم إلى جامعة بـ 6 فروع و27,000 طالب من أكثر من 80 دولة، ودخلت تصنيف QS العالمي لأول مرة عام 2026 في المرتبة 731. هذه التجربة الممتدة تظهر في كل شيء: في تنوع التخصصات، في عمق الشراكات الدولية، وفي قدرتها على بناء منظومة تعليمية تخدم كل طالب بغض النظر عن ميزانيته أو تخصصه أو موقعه.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J30H2YBQGA2ZHSBT4A80W55C.png",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J30H2YBSAG76N8TJBFCDHRKQ.webp",
+  "faculties": [
+    "المنح الدراسية في SEGi"
+  ]
 }

@@ -1,42 +1,48 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "masters",
-  "program_name": "Master of Finance",
-  "program_slug": "master-finance",
-  "field": "Accounting & Finance",
-  "duration": "FT: 1+ year; PT: 2 years 6 months",
-  "mode": "Full-time / Part-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 42000,
-    "per_year": null,
-    "notes": "APU official course page: total international tuition RM42,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-of-finance (accessed 2026-09-18)."
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "masters",
+ "program_name": "Master of Finance",
+ "program_slug": "master-finance",
+ "field": "Accounting & Finance",
+ "duration": "FT: 1+ year; PT: 2 years 6 months",
+ "mode": "Full-time / Part-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 42000,
+  "per_year": null,
+  "notes": "APU official course page: total international tuition RM42,000 (excludes 6% SST). Source: https://www.apu.edu.my/course/msc-of-finance (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 6.5",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
+  "general": "Bachelor’s degree Bachelor’s degree in related fields with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a minimum of 5 years working experience in the relevant fields. Bachelor’s degree in a non-related field with a minimum CGPA of 2.50 as accepted by the Senate and without relevant work experience, subject to passing pre-requisite courses. (Applicants with Bachelor’s Degree in Business, Economics, Software Engineering, Banking & Finance, Engineering, Actuarial Science, Mathematics and Statistics maybe considered for entry to the Master of Finance programme.) Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/msc-of-finance",
+  "https://www.studymalaysia.com/what/course/APU/0055061/",
+  {
+   "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/master-of-finance-243140/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "requirements": {
-    "english_requirement": "IELTS : 6.5",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower",
-    "general": "Bachelor’s degree Bachelor’s degree in related fields with a minimum CGPA of 2.75, or its equivalent qualification as accepted by the Senate. Bachelor’s degree in related fields with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75 can be accepted, subject to a minimum of 5 years working experience in the relevant fields. Bachelor’s degree in a non-related field with a minimum CGPA of 2.50 as accepted by the Senate and without relevant work experience, subject to passing pre-requisite courses. (Applicants with Bachelor’s Degree in Business, Economics, Software Engineering, Banking & Finance, Engineering, Actuarial Science, Mathematics and Statistics maybe considered for entry to the Master of Finance programme.) Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA)."
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/msc-of-finance",
-    "https://www.studymalaysia.com/what/course/APU/0055061/",
-    {
-      "url": "https://www.easyuni.my/malaysia/asia-pacific-university-of-technology-and-innovation-apu-8/master-of-finance-243140/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Finance",
-  "program_name_zh": "金融学硕士",
-  "field_ar": "المحاسبة",
-  "field_zh": "会计与金融"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-5650/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.9,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Finance",
+ "program_name_zh": "金融学硕士",
+ "field_ar": "المحاسبة",
+ "field_zh": "会计与金融",
+ "description": "يهدف برنامج المالية إلى تزويد الطالب بمعرفة أكاديمية ومهارات عملية متخصصة في المجال، مع ربط المفاهيم النظرية بالتطبيقات الحديثة وسوق العمل. يساعد البرنامج الطالب على تطوير التفكير التحليلي وحل المشكلات والعمل على المشاريع التطبيقية، ويؤهله للانطلاق المهني أو متابعة الدراسات العليا في تخصص قريب."
 }

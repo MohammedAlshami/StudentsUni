@@ -30,10 +30,15 @@
     "https://www.studymalaysia.com/edu/utp/courses/",
     "https://www.utp.edu.my/Pages/Students/Prospective%20Files/Programme-Offered.aspx",
     "https://eduadvisor.my/university/universiti-teknologi-petronas-utp/all-courses",
-    "https://afterschool.my/uni/universiti-teknologi-petronas/courses"
+    "https://afterschool.my/uni/universiti-teknologi-petronas/courses",
+    {
+      "url": "https://abeereducation.com/universities/universiti-teknologi-petronas",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    }
   ],
   "confidence": "high",
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "MYR",
     "local_total": 66000,
@@ -41,5 +46,11 @@
     "per_year_local": 22000,
     "per_year_international": null,
     "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 3yr duration)"
-  }
+  },
+  "description": "Universiti Teknologi PETRONAS is a Malaysian research university established 10 January 1997. It is wholly owned by Petroliam Nasional Berhad, Malaysia's oil and gas multinational corporation. The campus is built on 400 hectares in the new township of Seri Iskandar, Perak, Malaysia.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J5B74HH7MXMFSCB4GHQB9Q2A.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J5B74HH8QBZNAKCCNNKK91AQ.webp",
+  "intakes": [
+    "سنوي"
+  ]
 }

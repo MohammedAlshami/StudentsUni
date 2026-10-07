@@ -5,12 +5,12 @@
   "program_name": "Master of Science (Management)",
   "slug": "master-of-science-management",
   "field": "management",
-  "duration": "1.5 years",
-  "mode": "Full-time",
+  "duration": "1-2 years",
+  "mode": ["Fully Online", "Blended Learning"],
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -19,8 +19,9 @@
     "notes": "AeU does not publish a public programme fee schedule (website and 2026 programme brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://aeu.edu.my/study/brochure/"
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "english_requirement": "IELTS 6.0 for international students",
+    "entry_requirements": "Bachelor's in business-related field CGPA 2.75; OR CGPA 2.50 subject to assessment; OR below 2.50 with 5 years work experience. Research intent required",
+    "apel": "Minimum 30 years of age with STPM/Diploma and relevant work experience"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
@@ -28,12 +29,12 @@
   },
   "sources": [
     {
-      "url": "https://aeu.edu.my/study/programme/",
+      "url": "https://aeu.edu.my/study/programme/master-of-science-management/",
       "publisher": "Official Website",
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "verified",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "ماجستير Science (Management)",
   "program_name_zh": "理学硕士（管理）",

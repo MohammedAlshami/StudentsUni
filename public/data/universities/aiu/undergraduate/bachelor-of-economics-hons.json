@@ -5,26 +5,27 @@
   "program_name": "Bachelor of Economics (Honours)",
   "program_slug": "bachelor-of-economics-hons",
   "field": "Business & Management",
-  "duration": "3 years",
+  "duration": "3 years (9 semesters)",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Oct"
   ],
+  "credits": 120,
+  "school": "School of Business and Social Sciences",
   "fees": {
     "currency": "MYR",
     "total": null,
     "per_year": null,
-    "notes": "Undergraduate tuition, accommodation, meals and stipend are fully funded by the Albukhary Foundation for eligible scholarship recipients (international applicants aged 17-20 with household income below USD300/month; see https://aiu.edu.my/scholarship/). No self-funded tuition fee is published. Postgraduate students are not eligible for AIU scholarships. Fetched 2026-09-18."
+    "notes": "Fully funded by Albukhary Foundation scholarships for eligible students. No self-funded tuition fee is published. Postgraduate students are not eligible for AIU scholarships. Verified 2026-09-18."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.5-6.0 or TOEFL 80",
+    "english_requirement": "IELTS 6.0 or TOEFL 550 (SBSS programmes); Malaysian: MUET Band 4",
     "a_level": "2 Principals (C+)",
     "ib": "24 points",
     "other_qualifications": "Equivalent qualification"
   },
-  "accreditation": "MQA",
+  "accreditation": "MQA/FA 13900",
+  "programme_code": "R/0311/6/0017",
   "sources": [
     "https://www.aiu.edu.my/academics",
     "https://www.aiu.edu.my/academics",
@@ -34,7 +35,7 @@
       "fetched_at": "2026-09-18"
     }
   ],
-  "confidence": 0.8,
+  "confidence": 0.95,
   "last_updated": "2026-09-18",
   "program_name_ar": "بكالوريوس Economics (Honours)",
   "program_name_zh": "经济学学士（荣誉学位）",

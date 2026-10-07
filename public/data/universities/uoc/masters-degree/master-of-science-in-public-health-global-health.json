@@ -1,45 +1,62 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Masters Degree",
-  "program_name": "Master of Science in Public Health (Global Health)",
-  "field": "Medicine & Healthcare",
-  "slug": "master-of-science-in-public-health-global-health",
-  "duration": "1 year",
-  "mode": "Full-time",
-  "intakes": [
-    "Oct"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 55300,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Masters Degree",
+ "program_name": "Master of Science in Public Health (Global Health)",
+ "field": "Medicine & Healthcare",
+ "slug": "master-of-science-in-public-health-global-health",
+ "duration": "1 year",
+ "mode": "Full-time",
+ "intakes": [
+  "Oct"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 55300,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": [
+  {
+   "label": "العمر الأدنى",
+   "value": "18",
+   "note": "سنة"
   },
-  "requirements": null,
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058820/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Science in Public Health (Global Health)",
-  "program_name_zh": "公共卫生理学硕士（全球健康）",
-  "field_ar": "الطب",
-  "field_zh": "医学与医疗保健"
+  {
+   "label": "المؤهل",
+   "value": "ثانوية معتمدة",
+   "note": "ماجستير"
+  }
+ ],
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058820/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
+  },
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-5868/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Science in Public Health (Global Health)",
+ "program_name_zh": "公共卫生理学硕士（全球健康）",
+ "field_ar": "الطب",
+ "field_zh": "医学与医疗保健",
+ "description": "يهدف برنامج العلوم في الصحة العامة (الصحة العالمية) إلى إعداد متخصصين قادرين على مواجهة التحديات الصحية العالمية من خلال تطوير المعرفة والمهارات في مجالات الصحة العامة، وعلم الأوبئة، وتعزيز الصحة، وإدارة البرامج الصحية، والسياسات الصحية، والبحث العلمي. يركز البرنامج على تحليل القضايا الصحية العالمية، والوقاية من الأمراض، وإدارة الأزمات الصحية، وتحسين جودة الخدمات الصحية باستخدام أساليب علمية حديثة. كما يعزز مهارات القيادة، والتخطيط، والعمل مع المنظمات المحلية والدولية. ويؤهل البرنامج الخريجين للعمل في وزارات الصحة، والمنظمات الدولية، والمؤسسات البحثية، والهيئات الصحية، والمنظمات غير الحكومية، أو مواصلة الدراسات البحثية والدكتوراه."
 }

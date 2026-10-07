@@ -1,51 +1,57 @@
 {
-  "university": "University of Cyberjaya",
-  "university_slug": "uoc",
-  "level": "Diploma",
-  "program_name": "Diploma in Business Administration",
-  "field": "Business Management & Administration",
-  "slug": "diploma-in-business-administration",
-  "duration": "2.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jul",
-    "Oct",
-    "Mar"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 42600,
-    "per_year": null,
-    "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ "university": "University of Cyberjaya",
+ "university_slug": "uoc",
+ "level": "Diploma",
+ "program_name": "Diploma in Business Administration",
+ "field": "Business Management & Administration",
+ "slug": "diploma-in-business-administration",
+ "duration": "2.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jul",
+  "Oct",
+  "Mar"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 42600,
+  "per_year": null,
+  "notes": "International total payable fee for the entire programme per UOC official International Fees Structure (includes registration RM2,000, processing RM1,500, administration RM8,000/RM5,000 ODL, EMGS RM2,800 and resource fees); per-year amount not published. Source: https://cyberjaya.edu.my/admission/fees/international-fees-structure (fetched 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/CUCMS/0058821/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/CUCMS/0058821/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
-      "publisher": "University of Cyberjaya",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Business Administration",
-  "program_name_zh": "工商管理文凭",
-  "field_ar": "إدارة الأعمال",
-  "field_zh": "商业管理与行政"
+  {
+   "url": "https://cyberjaya.edu.my/admission/fees/international-fees-structure",
+   "publisher": "University of Cyberjaya",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-5845/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Business Administration",
+ "program_name_zh": "工商管理文凭",
+ "field_ar": "إدارة الأعمال",
+ "field_zh": "商业管理与行政",
+ "description": "يهدف برنامج دبلوم في إدارة الأعمال إلى إعداد الطلبة بالمعارف والمهارات الأساسية في الإدارة الحديثة، وإدارة الموارد البشرية، والتسويق، والمالية، وريادة الأعمال، وإدارة العمليات، بما يمكنهم من العمل بكفاءة في بيئات الأعمال المختلفة. يركز البرنامج على تنمية مهارات القيادة، والتخطيط، واتخاذ القرار، والتواصل، والعمل الجماعي، وحل المشكلات، مع تزويد الطلبة بفهم شامل لبيئة الأعمال المحلية والعالمية. كما يتضمن البرنامج تطبيقات عملية ودراسات حالة تساعد الطلبة على ربط المفاهيم النظرية بالواقع العملي، بالإضافة إلى تطوير مهارات استخدام التقنيات الحديثة في الإدارة. ويؤهل البرنامج الخريجين لمواصلة الدراسة الجامعية أو الالتحاق بوظائف متنوعة في القطاعين الحكومي والخاص، أو تأسيس مشاريعهم الريادية الخاصة."
 }

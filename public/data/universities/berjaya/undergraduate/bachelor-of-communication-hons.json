@@ -4,7 +4,7 @@
   "level": "bachelor",
   "program_name": "Bachelor of Communication (Honours)",
   "field": "Communication",
-  "duration": "3 years",
+  "duration": "3 years (includes internship)",
   "mode": "Full Time",
   "intakes": [
     "January",
@@ -18,11 +18,17 @@
     "notes": "Previous estimate removed: no international student fee is published on Berjaya University College's official programme pages (berjaya.edu.my/university, accessed 2026-09-18); fee details provided on enquiry."
   },
   "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
+    "english_requirement": "Credit in English at SPM; OR equivalent",
+    "stpm": "Grade C (GPA 2.00) in 2 subjects + credit in English at SPM",
+    "stam": "Jayyid + credit in English",
+    "diploma": "CGPA 2.00 + credit in English",
+    "matriculation_foundation": "CGPA 2.00 + credit in English",
+    "uec": "Grade B in 5 subjects",
+    "a_level": "Equivalent pre-university qualification",
     "other_qualifications": "Equivalent pre-university qualification"
   },
+  "mqa_ref": "MQA/FA 10056",
+  "programme_code": "R/321/6/0243",
   "accreditation": null,
   "sources": [
     {

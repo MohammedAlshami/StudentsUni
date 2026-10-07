@@ -1,38 +1,44 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "foundation",
-  "program_name": "Foundation in Computer Technology",
-  "program_slug": "foundation-in-computer-technology",
-  "field": "Information Technology",
-  "duration": "1 Year",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 19500,
-    "per_year": null,
-    "notes": "Official international tuition: RM9,750/semester, RM19,500 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/foundation-in-computer-technology/ (accessed 2026-09-18)"
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": {
-    "mqa_code": null,
-    "valid_until": null,
-    "additional_codes": null
-  },
-  "sources": [
-    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
-    "https://www.unikl.edu.my/programme/foundation-in-computer-technology/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Computer Technology",
-  "program_name_zh": "计算机技术基础课程",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "信息技术"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "foundation",
+ "program_name": "Foundation in Computer Technology",
+ "program_slug": "foundation-in-computer-technology",
+ "field": "Information Technology",
+ "duration": "1 Year",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 19500,
+  "per_year": null,
+  "notes": "Official international tuition: RM9,750/semester, RM19,500 total; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/foundation-in-computer-technology/ (accessed 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": {
+  "mqa_code": null,
+  "valid_until": null,
+  "additional_codes": null
+ },
+ "sources": [
+  "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
+  "https://www.unikl.edu.my/programme/foundation-in-computer-technology/",
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8-5748/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Computer Technology",
+ "program_name_zh": "计算机技术基础课程",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "信息技术",
+ "description": "يهدف برنامج تقنية الحاسوب إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

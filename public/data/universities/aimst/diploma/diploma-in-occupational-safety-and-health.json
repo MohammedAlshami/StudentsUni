@@ -5,7 +5,7 @@
   "program_name": "Diploma in Occupational Safety and Health",
   "slug": "diploma-in-occupational-safety-and-health",
   "field": "Occupational Safety and Health",
-  "duration": "3 years",
+  "duration": "2.6 years",
   "mode": "Full-time",
   "intakes": [
     "Sep",
@@ -19,19 +19,20 @@
     "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
+    "local": "SPM 3 credits (Math + 1 Science + 1 other) + Pass in English. OR SKM/SVM Level 3. OR Certificate Level 3 MQF CGPA 2.0. OR STPM Grade C (GP 2.0). OR STAM Maqbul.",
+    "international": "Equivalent qualifications as per MQA requirements.",
+    "english_requirement": "IELTS 5.0 or TOEFL 60"
   },
   "accreditation": {
-    "mqa_status": null,
-    "mqa_ref": null
+    "mqa_status": "Full Accreditation",
+    "mqa_ref": "MQA/PA18332",
+    "programme_code": "N/1022/4/0054"
   },
   "sources": [
     "https://www.aimst.edu.my/academic/diploma-in-occupational-safety-and-health/",
     "https://aimst.edu.my/international-students/"
   ],
-  "confidence": "low",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "دبلوم Occupational Safety and Health",
   "program_name_zh": "职业安全与健康文凭",

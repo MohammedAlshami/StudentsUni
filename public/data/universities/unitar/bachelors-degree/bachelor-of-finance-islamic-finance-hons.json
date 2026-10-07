@@ -1,52 +1,57 @@
 {
-  "university": "UNITAR International University",
-  "university_slug": "unitar",
-  "level": "Bachelor's Degree",
-  "program_name": "Bachelor of Finance (Islamic Finance) (Hons)",
-  "field": "Accounting & Finance",
-  "slug": "bachelor-of-finance-islamic-finance-hons",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "May",
-    "Sep",
-    "Jan"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No international fee published by UNITAR for this programme (checked 2026-09-18): it is not on the current official programme list (https://www.unitar.my/programmes/), and no foreign-student fee is listed by EasyUni or Uni Enrol. Previous estimate removed."
+ "university": "UNITAR International University",
+ "university_slug": "unitar",
+ "level": "Bachelor's Degree",
+ "program_name": "Bachelor of Finance (Islamic Finance) (Hons)",
+ "field": "Accounting & Finance",
+ "slug": "bachelor-of-finance-islamic-finance-hons",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "May",
+  "Sep",
+  "Jan"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 8900.0,
+  "per_year": null,
+  "notes": "External estimate from abeer (https://abeereducation.com/universities/unitar-international-university)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/UNITAR/0006271/",
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/bachelor-of-finance-fintech-honours-294052/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/UNITAR/0006271/",
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/unitar-international-university-11409/bachelor-of-finance-fintech-honours-294052/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    },
-    {
-      "url": "https://www.unitar.my/programmes/",
-      "publisher": "unitar",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "low",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Finance (Islamic Finance) (Hons)",
-  "program_name_zh": "金融学士（伊斯兰金融）（荣誉学位）",
-  "field_ar": "المحاسبة",
-  "field_zh": "会计与金融"
+  {
+   "url": "https://www.unitar.my/programmes/",
+   "publisher": "unitar",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://abeereducation.com/universities/unitar-international-university",
+   "publisher": "abeer",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "low",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Finance (Islamic Finance) (Hons)",
+ "program_name_zh": "金融学士（伊斯兰金融）（荣誉学位）",
+ "field_ar": "المحاسبة",
+ "field_zh": "会计与金融"
 }

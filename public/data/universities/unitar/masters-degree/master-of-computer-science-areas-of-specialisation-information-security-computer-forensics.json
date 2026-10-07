@@ -1,42 +1,47 @@
 {
-  "university": "UNITAR International University",
-  "university_slug": "unitar",
-  "level": "Masters Degree",
-  "program_name": "Master of Computer Science (Areas of specialisation: Information Security/Computer Forensics)",
-  "field": "Computing & IT",
-  "slug": "master-of-computer-science-areas-of-specialisation-information-security-computer-forensics",
-  "duration": "1 Yr",
-  "mode": "Flexible Full-time/Part-time Mode",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "No international fee published by UNITAR for this programme (checked 2026-09-18): it is not on the current official programme list (https://www.unitar.my/programmes/), and no foreign-student fee is listed by EasyUni or Uni Enrol. Previous estimate removed."
+ "university": "UNITAR International University",
+ "university_slug": "unitar",
+ "level": "Masters Degree",
+ "program_name": "Master of Computer Science (Areas of specialisation: Information Security/Computer Forensics)",
+ "field": "Computing & IT",
+ "slug": "master-of-computer-science-areas-of-specialisation-information-security-computer-forensics",
+ "duration": "1 Yr",
+ "mode": "Flexible Full-time/Part-time Mode",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "USD",
+  "total": 3200.0,
+  "per_year": null,
+  "notes": "External estimate from abeer (https://abeereducation.com/universities/unitar-international-university)"
+ },
+ "requirements": null,
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/UNITAR/0054312/",
+  {
+   "url": "https://studymalaysia.com/edu/unitar/",
+   "publisher": "StudyMalaysia",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": null,
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/UNITAR/0054312/",
-    {
-      "url": "https://studymalaysia.com/edu/unitar/",
-      "publisher": "StudyMalaysia",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.unitar.my/programmes/",
-      "publisher": "unitar",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "low",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Computer Science (Areas of specialisation: Information Security/Computer Forensics)",
-  "program_name_zh": "计算机科学硕士（专业领域：信息安全/计算机取证）",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "计算机与信息技术"
+  {
+   "url": "https://www.unitar.my/programmes/",
+   "publisher": "unitar",
+   "fetched_at": "2026-09-18"
+  },
+  {
+   "url": "https://abeereducation.com/universities/unitar-international-university",
+   "publisher": "abeer",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "low",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Computer Science (Areas of specialisation: Information Security/Computer Forensics)",
+ "program_name_zh": "计算机科学硕士（专业领域：信息安全/计算机取证）",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "计算机与信息技术"
 }

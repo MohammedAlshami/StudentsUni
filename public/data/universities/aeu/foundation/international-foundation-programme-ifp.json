@@ -6,11 +6,11 @@
   "slug": "international-foundation-programme-ifp",
   "field": "general",
   "duration": "1 year",
-  "mode": "Full-time",
+  "mode": ["Fully Online", "Blended Learning"],
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "May",
+    "Sep"
   ],
   "fees": {
     "currency": "MYR",
@@ -19,8 +19,8 @@
     "notes": "AeU does not publish a public programme fee schedule (website and 2026 programme brochures checked 2026-09-18); set to null rather than estimate. Source checked: https://aeu.edu.my/study/brochure/"
   },
   "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
+    "english_requirement": "Contact university for details",
+    "entry_requirements": "SPM or equivalent. Contact university for details"
   },
   "accreditation": {
     "mqa_status": "MQA approved",
@@ -28,12 +28,12 @@
   },
   "sources": [
     {
-      "url": "https://aeu.edu.my/study/programme/",
+      "url": "https://aeu.edu.my/study/programme/international-foundation-programme-ifp/",
       "publisher": "Official Website",
       "fetched_at": "2026-09-14"
     }
   ],
-  "confidence": "verified",
+  "confidence": "high",
   "last_updated": "2026-09-18",
   "program_name_ar": "International Foundation Programme (IFP)",
   "program_name_zh": "国际基础课程（IFP）",

@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "diploma",
-  "program_name": "Diploma in Music Performance",
-  "field": "Music Performance",
-  "duration": "2.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 101093,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-music-performance), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 4.0 or TOEFL iBT 30-31",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0057286/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/diploma-music-performance"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Music Performance",
-  "program_name_zh": "音乐表演文凭",
-  "field_ar": "الموسيقى",
-  "field_zh": "音乐表演"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "diploma",
+ "program_name": "Diploma in Music Performance",
+ "field": "Music Performance",
+ "duration": "2.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 101093,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-music-performance), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 4.0 or TOEFL iBT 30-31",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0057286/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/diploma-music-performance",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A-4834/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Music Performance",
+ "program_name_zh": "音乐表演文凭",
+ "field_ar": "الموسيقى",
+ "field_zh": "音乐表演",
+ "description": "يهدف الأداء الموسيقي إلى إعداد الطلاب لإتقان مهارات الأداء والغناء والعزف باستخدام أساليب تعليمية تجمع بين الدراسة النظرية والتدريب العملي. يركز البرنامج على تطوير تقنيات الأداء، وقراءة النوتة الموسيقية، والنظريات الموسيقية، والعمل الجماعي، وإعداد العروض الحية. كما يساعد الطلاب على بناء الثقة بالنفس، وتنمية الإبداع، وصقل مهاراتهم الفنية. يؤهل البرنامج الخريجين للعمل كمؤدين موسيقيين، أو أعضاء في الفرق الموسيقية، أو مدربين، أو مواصلة الدراسة في برامج الالموسيقية."
 }

@@ -5,12 +5,14 @@
   "program_name": "Master of Science in Healthcare Management",
   "slug": "master-of-science-in-healthcare-management",
   "field": "healthcare",
-  "duration": "1.5 years",
+  "duration": "1.5 years (FT) / 2 years (PT)",
   "mode": "Full-time",
   "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
+    "Jan",
+    "Apr",
+    "Jun",
+    "Aug",
+    "Oct"
   ],
   "fees": {
     "currency": "MYR",
@@ -24,7 +26,8 @@
   },
   "accreditation": {
     "mqa_status": "MQA approved",
-    "mqa_ref": null
+    "mqa_ref": "A9905",
+    "programme_code": "R3/0910/7/0021"
   },
   "sources": [
     {

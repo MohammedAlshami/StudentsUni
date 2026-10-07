@@ -1,34 +1,40 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "master",
-  "program_name": "Master of Electrical Engineering",
-  "program_slug": "master-of-electrical-engineering",
-  "field": "Engineering",
-  "duration": "1.5 years",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 30210,
-    "per_year": null,
-    "notes": "Official international tuition: total tuition fee on-time graduation RM30,210; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-electrical-engineering/ (accessed 2026-09-18)"
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.unikl.edu.my/postgraduate-admission/",
-    "https://www.unikl.edu.my/programme/master-of-electrical-engineering/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "ماجستير Electrical Engineering",
-  "program_name_zh": "电气工程硕士",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "master",
+ "program_name": "Master of Electrical Engineering",
+ "program_slug": "master-of-electrical-engineering",
+ "field": "Engineering",
+ "duration": "1.5 years",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 30210,
+  "per_year": null,
+  "notes": "Official international tuition: total tuition fee on-time graduation RM30,210; excludes visa processing fee; 6% SST applies. Source: https://www.unikl.edu.my/programme/master-of-electrical-engineering/ (accessed 2026-09-18)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.unikl.edu.my/postgraduate-admission/",
+  "https://www.unikl.edu.my/programme/master-of-electrical-engineering/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-5788/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "ماجستير Electrical Engineering",
+ "program_name_zh": "电气工程硕士",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "يهدف برنامج الهندسة الكهربائية إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

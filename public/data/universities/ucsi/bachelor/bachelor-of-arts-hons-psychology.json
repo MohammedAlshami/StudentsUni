@@ -1,38 +1,44 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Arts (Hons) Psychology",
-  "field": "Psychology",
-  "duration": "3 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 97362,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/ba-hons-psychology), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 101,846."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL iBT 40",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0005620/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/ba-hons-psychology"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Arts (Hons) Psychology",
-  "program_name_zh": "心理学荣誉文学士",
-  "field_ar": "علم النفس",
-  "field_zh": "心理学"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Arts (Hons) Psychology",
+ "field": "Psychology",
+ "duration": "3 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 97362,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/ba-hons-psychology), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 101,846."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL iBT 40",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0005620/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/ba-hons-psychology",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%81%D9%8A-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%86%D9%81%D8%B3-4792/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Arts (Hons) Psychology",
+ "program_name_zh": "心理学荣誉文学士",
+ "field_ar": "علم النفس",
+ "field_zh": "心理学",
+ "description": "يهدف برنامج الآداب في علم النفس إلى تزويد الطلاب بفهم شامل للسلوك الإنساني والعمليات العقلية والعوامل المؤثرة في الصحة النفسية. يركز البرنامج على علم النفس المعرفي، والاجتماعي، والنمائي، والإرشادي، والبحث العلمي، والإحصاء النفسي، وأخلاقيات المهنة. كما يساعد الطلاب على تطوير مهارات التحليل، والتواصل، والبحث، وفهم احتياجات الأفراد والمجتمعات. يؤهل البرنامج الخريجين للعمل في المؤسسات التعليمية، ومراكز الإرشاد، والموارد البشرية، والمنظمات الاجتماعية، أو متابعة الدراسات العليا في مختلف تخصصات علم النفس."
 }

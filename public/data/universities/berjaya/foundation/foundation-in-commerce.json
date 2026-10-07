@@ -4,7 +4,7 @@
   "level": "foundation",
   "program_name": "Foundation in Commerce",
   "field": "Commerce",
-  "duration": "1 year",
+  "duration": "1 year (3 semesters)",
   "mode": "Full Time",
   "intakes": [
     "January",
@@ -19,8 +19,13 @@
   },
   "requirements": {
     "english_requirement": "IELTS 5.0 or TOEFL 60",
+    "spm": "Minimum 5 credits",
+    "o_levels": "Minimum 5 credits",
+    "uec": "Minimum 3Bs",
     "other_qualifications": "High school completion"
   },
+  "mqa_ref": "MQA/FA 1483",
+  "programme_code": "R2/010/3/0069",
   "accreditation": null,
   "sources": [
     {

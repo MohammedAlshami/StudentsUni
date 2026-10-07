@@ -1,35 +1,40 @@
 {
-  "university": "University Malaysia of Computer Science & Engineering",
-  "university_slug": "unimy",
-  "level": "masters",
-  "program_name": "Master of Science (Computer Science) - By Coursework",
-  "field": "Computing",
-  "duration": "2 Years",
-  "mode": "Part-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "Programme not listed on UNIMY's official fee structures page (https://www.unimy.edu.my/fee-structures/, accessed 2026-09-18); previous estimate removed."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/edu/unimy/courses/"
-  ],
-  "confidence": "low",
-  "last_updated": "2026-09-18",
-  "slug": "master-of-science-computer-science--by-coursework",
-  "program_name_ar": "ماجستير Science (Computer Science) - By Coursework",
-  "program_name_zh": "计算机科学理学硕士（授课型）",
-  "field_ar": "Computing",
-  "field_zh": "计算机学"
+ "university": "University Malaysia of Computer Science & Engineering",
+ "university_slug": "unimy",
+ "level": "masters",
+ "program_name": "Master of Science (Computer Science) - By Coursework",
+ "field": "Computing",
+ "duration": "2 Years",
+ "mode": "Part-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 18000.0,
+  "per_year": null,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%8a%d9%88%d9%86%d9%8a-%d9%85%d8%a7%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
+  "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/edu/unimy/courses/",
+  {
+   "url": "https://khutwatuk.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%8a%d9%88%d9%86%d9%8a-%d9%85%d8%a7%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "low",
+ "last_updated": "2026-10-07",
+ "slug": "master-of-science-computer-science--by-coursework",
+ "program_name_ar": "ماجستير Science (Computer Science) - By Coursework",
+ "program_name_zh": "计算机科学理学硕士（授课型）",
+ "field_ar": "Computing",
+ "field_zh": "计算机学"
 }

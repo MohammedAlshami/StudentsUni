@@ -10,7 +10,7 @@
   "email": "choose@aimst.edu.my",
   "registration": "DU010(K)",
   "established": "2001",
-  "total_programs": 39,
+  "total_programs": 48,
   "levels": [
     "foundation",
     "diploma",
@@ -42,5 +42,5 @@
     "per_year_international": null,
     "notes": "AIMST does not publish tuition fees on its official website: programme pages list entry requirements/structure only and the International Students page lists programme durations and visa/accommodation costs but no tuition. Fees are provided on application/enquiry (choose@aimst.edu.my). Source: https://aimst.edu.my/international-students/ (checked 2026-09-18)."
   },
-  "confidence": "low"
+  "confidence": "medium"
 }

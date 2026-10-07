@@ -8,8 +8,8 @@
   "duration": "3 years",
   "mode": "Full-time",
   "intakes": [
-    "Feb",
-    "Jun",
+    "Jan",
+    "May",
     "Sep"
   ],
   "fees": {
@@ -20,7 +20,7 @@
   },
   "requirements": {
     "english_requirement": "IELTS 6.0-6.5 or TOEFL 90",
-    "other_qualifications": "Bachelor degree with minimum 2nd Class Lower"
+    "other_qualifications": "Recognised Master's degree; OR Bachelor's degree with minimum CGPA 2.50 and relevant work experience"
   },
   "accreditation": "MQA",
   "sources": [
@@ -42,7 +42,7 @@
     "https://city.edu.my/doctor-of-philosophy-business-administration/",
     "https://city.edu.my/programmes/masters-phd/"
   ],
-  "confidence": 0.5,
+  "confidence": 0.8,
   "last_updated": "2026-09-18",
   "program_name_ar": "دكتوراه فلسفة (Business Administration)",
   "program_name_zh": "哲学博士（工商管理）",

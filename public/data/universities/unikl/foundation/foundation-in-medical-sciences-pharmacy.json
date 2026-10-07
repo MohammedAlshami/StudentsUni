@@ -1,39 +1,45 @@
 {
-  "university": "Universiti Kuala Lumpur",
-  "university_slug": "unikl",
-  "level": "foundation",
-  "program_name": "Foundation in Medical Sciences (Bachelor of Pharmacy)",
-  "program_slug": "foundation-in-medical-sciences-pharmacy",
-  "field": "Medical Sciences",
-  "duration": "1 Year",
-  "mode": "Full-time",
-  "intakes": [
-    "July"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 25000,
-    "per_year": 25000,
-    "notes": "International tuition per the official UniKL programme page: RM25,000 total for the 1-year Foundation in Medical Sciences (progression to MBBS or Bachelor of Pharmacy (Hons) is based on academic performance); excludes visa processing and SST. Source: https://www.unikl.edu.my/programme/foundation-in-medical-sciences/ (accessed 2026-09-18)."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 5.0 or TOEFL 60",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": {
-    "mqa_code": null,
-    "valid_until": null,
-    "additional_codes": null
-  },
-  "sources": [
-    "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
-    "https://www.unikl.edu.my/programme/foundation-in-medical-sciences-pharmacy/",
-    "https://www.unikl.edu.my/programme/foundation-in-medical-sciences/"
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Medical Sciences (Bachelor of Pharmacy)",
-  "program_name_zh": "医学基础课程（药剂学学士）",
-  "field_ar": "العلوم",
-  "field_zh": "医学科学"
+ "university": "Universiti Kuala Lumpur",
+ "university_slug": "unikl",
+ "level": "foundation",
+ "program_name": "Foundation in Medical Sciences (Bachelor of Pharmacy)",
+ "program_slug": "foundation-in-medical-sciences-pharmacy",
+ "field": "Medical Sciences",
+ "duration": "1 Year",
+ "mode": "Full-time",
+ "intakes": [
+  "July"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 25000,
+  "per_year": 25000,
+  "notes": "International tuition per the official UniKL programme page: RM25,000 total for the 1-year Foundation in Medical Sciences (progression to MBBS or Bachelor of Pharmacy (Hons) is based on academic performance); excludes visa processing and SST. Source: https://www.unikl.edu.my/programme/foundation-in-medical-sciences/ (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 5.0 or TOEFL 60",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": {
+  "mqa_code": null,
+  "valid_until": null,
+  "additional_codes": null
+ },
+ "sources": [
+  "https://www.unikl.edu.my/wp-content/uploads/2026/09/List-Programme-Offered-2026-as-28-Aug-2026-.pdf",
+  "https://www.unikl.edu.my/programme/foundation-in-medical-sciences-pharmacy/",
+  "https://www.unikl.edu.my/programme/foundation-in-medical-sciences/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-5763/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Medical Sciences (Bachelor of Pharmacy)",
+ "program_name_zh": "医学基础课程（药剂学学士）",
+ "field_ar": "العلوم",
+ "field_zh": "医学科学",
+ "description": "يهدف برنامج العلوم الطبية إلى إعداد الطالب بالمعرفة الأكاديمية والمهارات العملية المطلوبة في سوق العمل، من خلال دراسة أساسيات المجال والتطبيقات الحديثة المرتبطة به. يركز البرنامج على بناء مهارات التحليل وحل المشكلات والعمل الجماعي واستخدام الأدوات التقنية والمهنية المناسبة. كما يساعد الطالب على ربط الجانب النظري بالتطبيق العملي عبر المختبرات والمشاريع والتدريب، مما يؤهله للعمل في القطاعات المرتبطة بالتخصص أو متابعة الدراسات العليا والتطوير المهني."
 }

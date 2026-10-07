@@ -1,0 +1,166 @@
+{
+ "country": "Malaysia",
+ "total": 16,
+ "centres": [
+  {
+   "slug": "awesome-language-center",
+   "name": "معهد أوسم | Awesome",
+   "name_ar": null,
+   "city": null,
+   "logo": null,
+   "course_count": 13,
+   "student_count": null,
+   "sources": 1
+  },
+  {
+   "slug": "big-ben-academy",
+   "name": "Big Ben Academy",
+   "name_ar": "أكاديمية بيج بين",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 12,
+   "student_count": 28,
+   "sources": 14
+  },
+  {
+   "slug": "bright-language-center",
+   "name": "Bright Language Center",
+   "name_ar": "معهد برايت",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 7,
+   "student_count": 94,
+   "sources": 10
+  },
+  {
+   "slug": "britannia-language-center",
+   "name": "BRITANNIA LANGUAGE CENTER",
+   "name_ar": "معهد بريتانيا",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 14,
+   "student_count": 20,
+   "sources": 16
+  },
+  {
+   "slug": "elc-english-center",
+   "name": "ELC English Center",
+   "name_ar": "المعهد الاسترالي",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 16,
+   "student_count": 118,
+   "sources": 17
+  },
+  {
+   "slug": "elit-english-center",
+   "name": "Elit English Center",
+   "name_ar": "معهد ايليت النيوزلندي",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 24,
+   "student_count": 27,
+   "sources": 25
+  },
+  {
+   "slug": "els-english-center",
+   "name": "ELS",
+   "name_ar": "معهد الامريكي اي ال اس",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 12,
+   "student_count": 32,
+   "sources": 13
+  },
+  {
+   "slug": "ems-english-center",
+   "name": "EMS English Center",
+   "name_ar": "معهد اي ام اس",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 10,
+   "student_count": 49,
+   "sources": 12
+  },
+  {
+   "slug": "erican",
+   "name": "Erican",
+   "name_ar": "ايريكان",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 1,
+   "student_count": null,
+   "sources": 2
+  },
+  {
+   "slug": "excel",
+   "name": "EXCEL",
+   "name_ar": "إكسل",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 12,
+   "student_count": 1,
+   "sources": 13
+  },
+  {
+   "slug": "iabt",
+   "name": "International Academy of Business & Technology",
+   "name_ar": "أكاديمية الأعمال والتكنولوجيا الدولية",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 12,
+   "student_count": 2,
+   "sources": 14
+  },
+  {
+   "slug": "manchester-language-centre",
+   "name": "Manchester Language Centre",
+   "name_ar": "MLC",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 12,
+   "student_count": 2,
+   "sources": 13
+  },
+  {
+   "slug": "menara-language-centre",
+   "name": "Menara Language Centre",
+   "name_ar": "معهد منارا",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 10,
+   "student_count": 8,
+   "sources": 11
+  },
+  {
+   "slug": "sheffield-academy",
+   "name": "Sheffield Academy",
+   "name_ar": "اكاديمية شيفليد",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 13,
+   "student_count": 61,
+   "sources": 18
+  },
+  {
+   "slug": "stratford-international",
+   "name": "Stratford International Language Centre",
+   "name_ar": "معهد سترادفورد",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 24,
+   "student_count": 6,
+   "sources": 25
+  },
+  {
+   "slug": "wwlc",
+   "name": "WWLC",
+   "name_ar": "WORDSWORTH",
+   "city": "كوالالمبور",
+   "logo": null,
+   "course_count": 11,
+   "student_count": null,
+   "sources": 12
+  }
+ ]
+}

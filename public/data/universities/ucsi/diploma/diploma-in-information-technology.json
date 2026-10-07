@@ -1,37 +1,43 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "diploma",
-  "program_name": "Diploma in Information Technology",
-  "field": "Information Technology",
-  "duration": "2.5 Years",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 71604,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-information-technology), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 70,617."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 4.0 or TOEFL iBT 30-31",
-    "a_level": "1 Principal",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0004691/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/diploma-information-technology"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Information Technology",
-  "program_name_zh": "信息技术文凭",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "信息技术"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "diploma",
+ "program_name": "Diploma in Information Technology",
+ "field": "Information Technology",
+ "duration": "2.5 Years",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 71604,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/diploma-information-technology), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025. With bridging course: RM 70,617."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 4.0 or TOEFL iBT 30-31",
+  "a_level": "1 Principal",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0004691/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/diploma-information-technology",
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%85%D8%B3%D8%A7%D8%B1-tvet-4930/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Information Technology",
+ "program_name_zh": "信息技术文凭",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "信息技术",
+ "description": "يهدف برنامج تكنولوجيا المعلومات (مسار TVET) إلى إعداد كوادر تقنية تجمع بين المعرفة الأكاديمية والتدريب المهني لتلبية احتياجات سوق العمل. يركز البرنامج على البرمجة، وإدارة الشبكات، وصيانة الأنظمة، والدعم الفني، وقواعد البيانات، مع تدريب عملي مكثف باستخدام أحدث التقنيات. كما ينمي مهارات التواصل، والعمل الجماعي، وحل المشكلات، والابتكار، ويؤهل الخريجين للعمل في شركات التكنولوجيا، ومراكز الدعم الفني، والمؤسسات الحكومية والخاصة، أو لمواصلة الدراسة في برامج الذات الصلة."
 }

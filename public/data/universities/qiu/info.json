@@ -7,7 +7,7 @@
   "website": "https://qiu.edu.my",
   "studymalaysia_url": "https://studymalaysia.com/edu/qiu/courses/",
   "total_programs": 51,
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-10-07",
   "fees": {
     "currency": "USD",
     "local_total": null,
@@ -15,5 +15,20 @@
     "per_year_local": null,
     "per_year_international": null,
     "notes": "QIU does not publish programme fees; its pages state fees/funding are by enquiry (checked 2026-09-18). International totals listed by Uni Enrol range from USD 3,200 to USD 89,762.55 depending on programme; six programmes have no published international fee. See individual programme records. Source: https://unienrol.com/study-malaysia/quest-international-university-qiu (accessed 2026-09-18)."
-  }
+  },
+  "description": "Based in Ipoh, Perak, QIU is a private university offering cutting-edge Foundation, Diploma, Bachelor's Degree and Postgraduate programmes. We #DreamBig.",
+  "logo": "https://abeereducation.com/storage/universities_logos/01J76BNH98T1J9JWYES6E3DATT.webp",
+  "hero_image": "https://abeereducation.com/storage/featured_images/hero/01J5ASCVG1WZWCPJK0AR06JMTD.webp",
+  "intakes": [
+    "April",
+    "July",
+    "Septmber/October"
+  ],
+  "sources": [
+    {
+      "url": "https://abeereducation.com/universities/quest-international-university-qiu",
+      "publisher": "Abeer Education",
+      "fetched_at": "2026-10-07"
+    }
+  ]
 }

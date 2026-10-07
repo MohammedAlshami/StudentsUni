@@ -1,52 +1,58 @@
 {
-  "university": "SEGi University",
-  "university_slug": "segi",
-  "level": "bachelor",
-  "program_name": "Bachelor of Arts (Hons) Multimedia Design",
-  "slug": "bachelor-of-arts-hons-multimedia-design",
-  "field": "Audio-visual Techniques & Media Production",
-  "duration": "3 years",
-  "mode": "Full-time",
-  "intakes": [
-    "May",
-    "Sep",
-    "Jan"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "SEGi official website is inaccessible from this environment (Cloudflare bot protection) and no official fee schedule is publicly indexed; set to null rather than use stale aggregator data. Checked segi.edu.my (fetched 2026-09-18)"
+ "university": "SEGi University",
+ "university_slug": "segi",
+ "level": "bachelor",
+ "program_name": "Bachelor of Arts (Hons) Multimedia Design",
+ "slug": "bachelor-of-arts-hons-multimedia-design",
+ "field": "Audio-visual Techniques & Media Production",
+ "duration": "3 years",
+ "mode": "Full-time",
+ "intakes": [
+  "May",
+  "Sep",
+  "Jan"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 63710.0,
+  "per_year": null,
+  "notes": "External estimate from maiga (https://maigaedu.com/program/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9-%D8%A3%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86-5323/)"
+ },
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://studymalaysia.com/what/course/SEGI/0054505/",
+  {
+   "url": "https://www.easyuni.com/malaysia/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://www.easyuni.com/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-15"
   },
-  "accreditation": null,
-  "sources": [
-    "https://studymalaysia.com/what/course/SEGI/0054505/",
-    {
-      "url": "https://www.easyuni.com/malaysia/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.com/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-15"
-    },
-    {
-      "url": "https://www.easyuni.my/malaysia/segi-university-246/ba-hons-multimedia-design-294367/",
-      "publisher": "EasyUni",
-      "fetched_at": "2026-09-14"
-    }
-  ],
-  "confidence": "high",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "بكالوريوس Arts (Hons) Multimedia Design",
-  "program_name_zh": "多媒体设计（荣誉）文学士",
-  "field_ar": "الإعلام",
-  "field_zh": "视听技术与媒体制作"
+  {
+   "url": "https://www.easyuni.my/malaysia/segi-university-246/ba-hons-multimedia-design-294367/",
+   "publisher": "EasyUni",
+   "fetched_at": "2026-09-14"
+  },
+  {
+   "url": "https://maigaedu.com/program/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9-%D8%A3%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86-5323/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "high",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "بكالوريوس Arts (Hons) Multimedia Design",
+ "program_name_zh": "多媒体设计（荣誉）文学士",
+ "field_ar": "الإعلام",
+ "field_zh": "视听技术与媒体制作",
+ "description": "يهدف تصميم الوسائط المتعددة (أونلاين) إلى إعداد مصممين ومبدعين قادرين على إنتاج محتوى رقمي احترافي يجمع بين الفن والتكنولوجيا من خلال برنامج جامعي مرن يعتمد على التعلم الإلكتروني. يدرس الطلبة التصميم الرقمي، والرسوم المتحركة، وتصميم واجهات المستخدم، وإنتاج الفيديو، وتحرير الصوت، والوسائط التفاعلية، وتجربة المستخدم، مع استخدام أحدث البرامج والأدوات الاحترافية في صناعة المحتوى الرقمي. كما يركز البرنامج على تنمية الإبداع، والتفكير التصميمي، وإدارة المشاريع، والعمل الجماعي، بما يساعد الطلبة على إنتاج حلول بصرية مبتكرة تلبي احتياجات المؤسسات وقطاع الصناعات الإبداعية. وتوفر بيئة التعلم الإلكتروني مشاريع عملية، وورش عمل افتراضية، وتقييمات تطبيقية تساعد الطلبة على بناء ملف أعمال احترافي قبل التخرج. كما يواكب البرنامج التطورات الحديثة في الإعلام الرقمي، والألعاب، والواقع الافتراضي، والتسويق الرقمي، مما يعزز فرص الخريجين في سوق العمل. ويؤهل البرنامج للعمل في شركات التصميم، والإنتاج الإعلامي، ووكالات الإعلان، والاستوديوهات الرقمية، أو العمل الحر ومواصلة الدراسات العليا في التصميم والوسائط المتعددة."
 }

@@ -11,18 +11,21 @@
       "field": "Business & Management",
       "duration": "1.5 - 2 years (Full-time), 2 - 3 years (Part-time)",
       "mode": "Full-time / Part-time",
-      "intakes": null,
+      "intakes": [
+        "Oct"
+      ],
       "fees": {
         "local": "RM30,350",
-        "international": "RM30,950"
+        "international": "RM30,950",
+        "local_pt": "RM31,950"
       },
-      "requirements": "Bachelor's degree with minimum CGPA of 2.75 or equivalent",
+      "requirements": "Bachelor's degree with CGPA 2.75 or equivalent",
       "accreditation": "MQA/PA 15825",
       "sources": [
         "https://www.aiu.edu.my/postgraduate"
       ],
       "confidence": 0.95,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Business Management",
@@ -30,18 +33,21 @@
       "field": "Business & Management",
       "duration": "2 - 4 years (Full-time), 3 - 6 years (Part-time)",
       "mode": "Full-time / Part-time",
-      "intakes": null,
+      "intakes": [
+        "Oct"
+      ],
       "fees": {
         "local": "RM8,150",
-        "international": "RM8,750"
+        "international": "RM8,750",
+        "local_pt": "RM10,750"
       },
-      "requirements": "Bachelor's degree with minimum CGPA of 2.75 or equivalent",
+      "requirements": "Bachelor's degree with CGPA 2.75 or equivalent",
       "accreditation": "MQA/PA 14317",
       "sources": [
         "https://www.aiu.edu.my/postgraduate"
       ],
       "confidence": 0.95,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Education",
@@ -49,18 +55,20 @@
       "field": "Education",
       "duration": "2 - 4 years (Full-time), 3 - 6 years (Part-time)",
       "mode": "Full-time / Part-time",
-      "intakes": null,
+      "intakes": [
+        "Oct"
+      ],
       "fees": {
         "local": "RM8,150",
         "international": "RM8,750"
       },
-      "requirements": "Bachelor's degree with minimum CGPA of 2.75 or equivalent",
+      "requirements": "Bachelor's degree with CGPA 2.75 or equivalent",
       "accreditation": "MQA/PA 14318",
       "sources": [
         "https://www.aiu.edu.my/postgraduate"
       ],
       "confidence": 0.95,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Master of Computing",
@@ -68,18 +76,20 @@
       "field": "Computing & Technology",
       "duration": "2 - 4 years (Full-time), 3 - 6 years (Part-time)",
       "mode": "Full-time / Part-time",
-      "intakes": null,
+      "intakes": [
+        "Oct"
+      ],
       "fees": {
         "local": "RM8,150",
         "international": "RM8,750"
       },
-      "requirements": "Bachelor's degree with minimum CGPA of 3.00 or equivalent",
+      "requirements": "Bachelor's degree with CGPA 3.00 or equivalent",
       "accreditation": "MQA/PA 18676",
       "sources": [
         "https://www.aiu.edu.my/postgraduate"
       ],
       "confidence": 0.95,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Philosophy (Business Management)",
@@ -87,10 +97,13 @@
       "field": "Business & Management",
       "duration": "3 - 6 years (Full-time), 4 - 8 years (Part-time)",
       "mode": "Full-time / Part-time",
-      "intakes": null,
+      "intakes": [
+        "Oct"
+      ],
       "fees": {
         "local": "RM19,150",
-        "international": "RM19,750"
+        "international": "RM19,750",
+        "local_pt": "RM23,750"
       },
       "requirements": "Master's degree from AIU or any university recognised by the AIU Senate",
       "accreditation": "MQA/PA 14320",
@@ -98,7 +111,7 @@
         "https://www.aiu.edu.my/postgraduate"
       ],
       "confidence": 0.95,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Philosophy (Education)",
@@ -106,7 +119,9 @@
       "field": "Education",
       "duration": "3 - 6 years (Full-time), 4 - 8 years (Part-time)",
       "mode": "Full-time / Part-time",
-      "intakes": null,
+      "intakes": [
+        "Oct"
+      ],
       "fees": {
         "local": "RM19,150",
         "international": "RM19,750"
@@ -117,7 +132,7 @@
         "https://www.aiu.edu.my/postgraduate"
       ],
       "confidence": 0.95,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     },
     {
       "program_name": "Doctor of Philosophy in Computer Science",
@@ -125,7 +140,9 @@
       "field": "Computing & Technology",
       "duration": "3 - 6 years (Full-time), 4 - 8 years (Part-time)",
       "mode": "Full-time / Part-time",
-      "intakes": null,
+      "intakes": [
+        "Oct"
+      ],
       "fees": {
         "local": "RM19,150",
         "international": "RM19,750"
@@ -136,15 +153,15 @@
         "https://www.aiu.edu.my/postgraduate"
       ],
       "confidence": 0.95,
-      "last_updated": "2026-09-14"
+      "last_updated": "2026-09-18"
     }
   ],
   "fees": {
     "currency": "MYR",
-    "local_total": 33000,
+    "local_total": null,
     "international_total": null,
-    "per_year_local": 22000,
+    "per_year_local": null,
     "per_year_international": null,
-    "notes": "Estimated ~RM22000/year for typical private university programme (per_year based on 1.5yr duration)"
+    "notes": "Masters: MYR 8,150 (Malaysian FT) / MYR 8,750 (International FT). PhD: MYR 19,150 (Malaysian FT) / MYR 19,750 (International FT). Social Business Masters: MYR 30,350 (Malaysian FT) / MYR 30,950 (International FT). Single October intake. Last verified 2026-09-18."
   }
 }

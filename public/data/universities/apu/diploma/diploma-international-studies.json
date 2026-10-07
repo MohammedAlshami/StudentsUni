@@ -1,38 +1,44 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "diploma",
-  "program_name": "Diploma in International Studies",
-  "program_slug": "diploma-international-studies",
-  "field": "International Relations",
-  "duration": "2+ years",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 54200,
-    "per_year": null,
-    "notes": "APU official course page: total international tuition RM54,200 (excludes 6% SST). Source: https://www.apu.edu.my/course/diploma-in-international-studies (accessed 2026-09-18)."
-  },
-  "requirements": {
-    "english_requirement": "IELTS : 5.0 / TOEFL IBT : 2.5 / Pearson (PTE) : 47 / MUET : Band 3.5",
-    "a_level": null,
-    "other_qualifications": "High school completion",
-    "general": "General Requirements SPM 3 Credits in at least 3 subjects including English at SPM level, with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 3 Credits (Grade C & above) in at least 3 subjects including English at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects including English in UEC; CERTIFICATE Pass relevant Certificate Programme or its equivalent; A qualification that APU accepts as equivalent to the above. Credit in English is required at SPM/IGCSE/O-Level or equivalent. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/diploma-in-international-studies",
-    "https://www.studymalaysia.com/what/course/APU/0056381/"
-  ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم International Studies",
-  "program_name_zh": "国际研究文凭",
-  "field_ar": "العلاقات الدولية",
-  "field_zh": "国际关系"
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "diploma",
+ "program_name": "Diploma in International Studies",
+ "program_slug": "diploma-international-studies",
+ "field": "International Relations",
+ "duration": "2+ years",
+ "mode": "Full-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 54200,
+  "per_year": null,
+  "notes": "APU official course page: total international tuition RM54,200 (excludes 6% SST). Source: https://www.apu.edu.my/course/diploma-in-international-studies (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 5.0 / TOEFL IBT : 2.5 / Pearson (PTE) : 47 / MUET : Band 3.5",
+  "a_level": null,
+  "other_qualifications": "High school completion",
+  "general": "General Requirements SPM 3 Credits in at least 3 subjects including English at SPM level, with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 3 Credits (Grade C & above) in at least 3 subjects including English at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects including English in UEC; CERTIFICATE Pass relevant Certificate Programme or its equivalent; A qualification that APU accepts as equivalent to the above. Credit in English is required at SPM/IGCSE/O-Level or equivalent. Note: The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/diploma-in-international-studies",
+  "https://www.studymalaysia.com/what/course/APU/0056381/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-5678/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.9,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم International Studies",
+ "program_name_zh": "国际研究文凭",
+ "field_ar": "العلاقات الدولية",
+ "field_zh": "国际关系",
+ "description": "يهدف برنامج الدراسات الدولية إلى تزويد الطالب بمعرفة أكاديمية ومهارات عملية متخصصة في المجال، مع ربط المفاهيم النظرية بالتطبيقات الحديثة وسوق العمل. يساعد البرنامج الطالب على تطوير التفكير التحليلي وحل المشكلات والعمل على المشاريع التطبيقية، ويؤهله للانطلاق المهني أو متابعة الدراسات العليا في تخصص قريب."
 }

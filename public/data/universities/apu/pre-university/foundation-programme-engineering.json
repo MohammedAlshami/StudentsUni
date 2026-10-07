@@ -1,38 +1,44 @@
 {
-  "university": "Asia Pacific University of Technology & Innovation",
-  "university_slug": "apu",
-  "level": "pre-university",
-  "program_name": "Foundation Programme (Engineering Route)",
-  "program_slug": "foundation-programme-engineering",
-  "field": "Engineering",
-  "duration": "1 year",
-  "mode": "Full-time",
-  "intakes": [
-    "Sep",
-    "Feb",
-    "Jun"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 29200,
-    "per_year": null,
-    "notes": "StudyMalaysia course page: international fees RM29,200. APU course page does not publish a fee table for this programme. Source: https://studymalaysia.com/what/course/APU/0005481/ (accessed 2026-09-18)."
-  },
-  "requirements": {
-    "english_requirement": "IELTS : 4.0 / TOEFL IBT : 1.5 / Pearson (PTE) : 36 / MUET : Band 3",
-    "other_qualifications": "High school completion",
-    "general": "Engineering SPM 5 Credits in at least 5 subjects at SPM level including a Credit in Mathematics and Physics OR Chemistry OR Technical Science with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 5 Credits (Grade C & above) in at least 5 subjects including Mathematics and Physics OR Chemistry OR Technical Science at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC including Mathematics and Physics OR Chemistry OR Technical Science; Any qualification that APU accepts as equivalent to the above. Note: Engineering Degree Programmes require a Credit in Mathematics and Physics or Chemistry or Technical Science at SPM/IGCSE/O-Level or equivalent. The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
-  },
-  "accreditation": "MQA",
-  "sources": [
-    "https://www.apu.edu.my/course/foundation-programme-engineering",
-    "https://www.studymalaysia.com/what/course/APU/0005481/",
-    "https://studymalaysia.com/what/course/APU/0005481/"
-  ],
-  "confidence": 0.9,
-  "last_updated": "2026-09-18",
-  "program_name_ar": "Foundation Programme (Engineering Route)",
-  "program_name_zh": "基础课程（工程方向）",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+ "university": "Asia Pacific University of Technology & Innovation",
+ "university_slug": "apu",
+ "level": "pre-university",
+ "program_name": "Foundation Programme (Engineering Route)",
+ "program_slug": "foundation-programme-engineering",
+ "field": "Engineering",
+ "duration": "1 year",
+ "mode": "Full-time",
+ "intakes": [
+  "Sep",
+  "Feb",
+  "Jun"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 29200,
+  "per_year": null,
+  "notes": "StudyMalaysia course page: international fees RM29,200. APU course page does not publish a fee table for this programme. Source: https://studymalaysia.com/what/course/APU/0005481/ (accessed 2026-09-18)."
+ },
+ "requirements": {
+  "english_requirement": "IELTS : 4.0 / TOEFL IBT : 1.5 / Pearson (PTE) : 36 / MUET : Band 3",
+  "other_qualifications": "High school completion",
+  "general": "Engineering SPM 5 Credits in at least 5 subjects at SPM level including a Credit in Mathematics and Physics OR Chemistry OR Technical Science with a minimum of a pass in Bahasa Malaysia and Sejarah (History); IGCSE/O-LEVELS 5 Credits (Grade C & above) in at least 5 subjects including Mathematics and Physics OR Chemistry OR Technical Science at IGCSE/O-Levels; UEC 3 Credits (Grade B & above) in at least 3 subjects in UEC including Mathematics and Physics OR Chemistry OR Technical Science; Any qualification that APU accepts as equivalent to the above. Note: Engineering Degree Programmes require a Credit in Mathematics and Physics or Chemistry or Technical Science at SPM/IGCSE/O-Level or equivalent. The above entry requirements may differ for specific programmes based on the latest programme standards published by Malaysian Qualifications Agency (MQA). The qualification and entry requirements for the programmes will be determined based on the \" Comparison List of Equivalency of International Qualifications with SPM (O-Levels equivalent) and STPM (A-Levels equivalent) \" published by Malaysian Qualifications Agency (MQA)."
+ },
+ "accreditation": "MQA",
+ "sources": [
+  "https://www.apu.edu.my/course/foundation-programme-engineering",
+  "https://www.studymalaysia.com/what/course/APU/0005481/",
+  "https://studymalaysia.com/what/course/APU/0005481/",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-5691/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": 0.9,
+ "last_updated": "2026-10-07",
+ "program_name_ar": "Foundation Programme (Engineering Route)",
+ "program_name_zh": "基础课程（工程方向）",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "يهدف برنامج الهندسة إلى تأهيل الطالب أكاديمياً ولغوياً للانتقال إلى مرحلة البكالوريوس، من خلال بناء أساس قوي في مهارات الدراسة واللغة والرياضيات والمفاهيم الأساسية المرتبطة بالمسار المختار."
 }

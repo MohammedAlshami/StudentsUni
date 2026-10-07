@@ -1,47 +1,52 @@
 {
-  "university": "HELP University",
-  "university_slug": "help",
-  "level": "bachelor",
-  "program_name": "Bachelor of Information Technology (Honours)(2U 1I)(Work-Based Learning)",
-  "program_slug": "bachelor-of-information-technology-honours-2u-1i-work-based-learning",
-  "field": "Computing & IT",
-  "duration": "3 years",
-  "mode": "Full-time Study",
-  "intakes": [
-    "Jan",
-    "May",
-    "Aug",
-    "Oct"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": null,
-    "per_year": null,
-    "notes": "HELP University does not publish an international student fee for this programme: the official programme page lists only the Malaysian-student indicative total fee (RM 82,800), and the 2026 HELP University Programme Fees Summary (v4, July 2026) is explicitly Malaysian-only. Sources checked on 2026-09-18: https://university.help.edu.my/programme/bachelor-of-information-technology-work-based-learning/; https://university.help.edu.my/admissions-study-awards/fee-schedule/ (page empty); https://university.help.edu.my/admissions-study-awards/international-student-admissions/; https://university.help.edu.my/brochures/ (2026 fees summary PDF). No international fee published."
+ "university": "HELP University",
+ "university_slug": "help",
+ "level": "bachelor",
+ "program_name": "Bachelor of Information Technology (Honours)(2U 1I)(Work-Based Learning)",
+ "program_slug": "bachelor-of-information-technology-honours-2u-1i-work-based-learning",
+ "field": "Computing & IT",
+ "duration": "3 years",
+ "mode": "Full-time Study",
+ "intakes": [
+  "Jan",
+  "May",
+  "Aug",
+  "Oct"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 72700.0,
+  "per_year": null,
+  "notes": "External estimate from khutwatuk (https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d9%84%d8%a8-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-help/)"
+ },
+ "sources": [
+  "https://studymalaysia.com/what/course/HELP/0057835/",
+  {
+   "url": "https://university.help.edu.my/brochures/",
+   "publisher": "help",
+   "fetched_at": "2026-09-18"
   },
-  "sources": [
-    "https://studymalaysia.com/what/course/HELP/0057835/",
-    {
-      "url": "https://university.help.edu.my/brochures/",
-      "publisher": "help",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://university.help.edu.my/programme/bachelor-of-information-technology-work-based-learning/",
-      "publisher": "HELP University",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "requirements": {
-    "english_requirement": "IELTS 6.0 or TOEFL 80",
-    "a_level": "2 Principals (C+) including relevant subjects",
-    "ib": "24 points",
-    "other_qualifications": "Equivalent pre-university qualification"
+  {
+   "url": "https://university.help.edu.my/programme/bachelor-of-information-technology-work-based-learning/",
+   "publisher": "HELP University",
+   "fetched_at": "2026-09-18"
   },
-  "program_name_ar": "بكالوريوس Information Technology (Honours)(2U 1I)(Work-Based Learning)",
-  "program_name_zh": "信息技术学士（荣誉学位）（2U 1I）（工作本位学习）",
-  "field_ar": "تقنية المعلومات",
-  "field_zh": "计算机与信息技术"
+  {
+   "url": "https://khutwatuk.com/%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d9%87%d9%8a%d9%84%d8%a8-%d9%81%d9%8a-%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7-help/",
+   "publisher": "khutwatuk",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "requirements": {
+  "english_requirement": "IELTS 6.0 or TOEFL 80",
+  "a_level": "2 Principals (C+) including relevant subjects",
+  "ib": "24 points",
+  "other_qualifications": "Equivalent pre-university qualification"
+ },
+ "program_name_ar": "بكالوريوس Information Technology (Honours)(2U 1I)(Work-Based Learning)",
+ "program_name_zh": "信息技术学士（荣誉学位）（2U 1I）（工作本位学习）",
+ "field_ar": "تقنية المعلومات",
+ "field_zh": "计算机与信息技术"
 }

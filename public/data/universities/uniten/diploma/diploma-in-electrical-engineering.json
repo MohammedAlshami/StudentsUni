@@ -1,48 +1,54 @@
 {
-  "university": "Universiti Tenaga Nasional",
-  "university_slug": "uniten",
-  "level": "diploma",
-  "program_name": "Diploma in Electrical Engineering",
-  "program_slug": "diploma-in-electrical-engineering",
-  "field": "Engineering",
-  "duration": "2.5 years (Full-time)",
-  "mode": "Full-time",
-  "intakes": [
-    "January",
-    "June",
-    "September"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 31800,
-    "per_year": 12720,
-    "notes": "International student tuition: RM31,800 total. Source: https://www.uniten.edu.my/programme/diploma/diploma-in-electrical-engineering/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 2.5yr nominal duration."
+ "university": "Universiti Tenaga Nasional",
+ "university_slug": "uniten",
+ "level": "diploma",
+ "program_name": "Diploma in Electrical Engineering",
+ "program_slug": "diploma-in-electrical-engineering",
+ "field": "Engineering",
+ "duration": "2.5 years (Full-time)",
+ "mode": "Full-time",
+ "intakes": [
+  "January",
+  "June",
+  "September"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 31800,
+  "per_year": 12720,
+  "notes": "International student tuition: RM31,800 total. Source: https://www.uniten.edu.my/programme/diploma/diploma-in-electrical-engineering/ (UNITEN official programme page, accessed 2026-09-18). Confirmed by UNITEN International Undergraduate Fee Structure (Dec 2024). per_year = total / 2.5yr nominal duration."
+ },
+ "requirements": {
+  "english_requirement": "MUET Band 3 or IELTS 5.5 required for candidates with Grades D/E in English at SPM/O-Level.",
+  "a_level": "1 Principal",
+  "other_qualifications": "Pass SPM/O-Level with minimum 3 credits (Grade C) including Mathematics, one Science/Technical/Engineering subject and one additional subject, and English (Grade E); or UEC with minimum 3 subjects Grade B6 including Mathematics and one Science/Technical/Engineering subject; or SVM/SKM/Engineering Technology Certificate Level 3 (CGPA 2.00) or equivalent; international applicants require a High School Certificate with minimum 50% (Arab Saudi/MENA) or Grade C (overseas) in Mathematics and Physics."
+ },
+ "accreditation": {
+  "mqa_status": "MQA accredited",
+  "mqa_ref": "R2/0712/4/0001 (05/28) (MQA/FA15340)"
+ },
+ "sources": [
+  {
+   "url": "https://www.uniten.edu.my/programme/diploma/diploma-in-electrical-engineering/",
+   "publisher": "UNITEN",
+   "fetched_at": "2026-09-18"
   },
-  "requirements": {
-    "english_requirement": "MUET Band 3 or IELTS 5.5 required for candidates with Grades D/E in English at SPM/O-Level.",
-    "a_level": "1 Principal",
-    "other_qualifications": "Pass SPM/O-Level with minimum 3 credits (Grade C) including Mathematics, one Science/Technical/Engineering subject and one additional subject, and English (Grade E); or UEC with minimum 3 subjects Grade B6 including Mathematics and one Science/Technical/Engineering subject; or SVM/SKM/Engineering Technology Certificate Level 3 (CGPA 2.00) or equivalent; international applicants require a High School Certificate with minimum 50% (Arab Saudi/MENA) or Grade C (overseas) in Mathematics and Physics."
+  {
+   "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
+   "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
+   "fetched_at": "2026-09-18"
   },
-  "accreditation": {
-    "mqa_status": "MQA accredited",
-    "mqa_ref": "R2/0712/4/0001 (05/28) (MQA/FA15340)"
-  },
-  "sources": [
-    {
-      "url": "https://www.uniten.edu.my/programme/diploma/diploma-in-electrical-engineering/",
-      "publisher": "UNITEN",
-      "fetched_at": "2026-09-18"
-    },
-    {
-      "url": "https://unitendev.blob.core.windows.net/mysitestorage/media/dkolzt34/uniten-fee-structure-international-ug.pdf",
-      "publisher": "UNITEN International Undergraduate Fee Structure (Dec 2024)",
-      "fetched_at": "2026-09-18"
-    }
-  ],
-  "confidence": "verified",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "دبلوم Electrical Engineering",
-  "program_name_zh": "Electrical Engineering文凭",
-  "field_ar": "الهندسة",
-  "field_zh": "工程"
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-4403/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "verified",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "دبلوم Electrical Engineering",
+ "program_name_zh": "Electrical Engineering文凭",
+ "field_ar": "الهندسة",
+ "field_zh": "工程",
+ "description": "يهدف دبلوم الهندسة الكهربائية إلى إعداد كوادر تقنية تمتلك المعرفة والمهارات الأساسية في تصميم وتركيب وتشغيل وصيانة الأنظمة الكهربائية في القطاعات الصناعية والتجارية. يدرس الطلبة الدوائر الكهربائية، والآلات الكهربائية، وأنظمة التحكم، والإلكترونيات الأساسية، وتمديدات الكهرباء، وأجهزة القياس، والسلامة الكهربائية، مع التركيز على الجوانب التطبيقية واستخدام الأجهزة والمعدات الحديثة. كما يطور البرنامج مهارات التحليل، والتفكير المنطقي، والعمل الجماعي، والالتزام بمعايير الجودة والسلامة، بما يساعد الطلبة على التعامل مع الأنظمة الكهربائية بكفاءة واحترافية. ويكتسب الطلبة خبرة عملية من خلال المختبرات والتدريب الميداني والمشروعات التطبيقية، مما يعزز جاهزيتهم للاندماج في سوق العمل. كما يواكب البرنامج التطورات في مجالات الطاقة المتجددة، والشبكات الذكية، والأتمتة الصناعية، مما يوسع من آفاق الخريجين المهنية. ويؤهل البرنامج للعمل في شركات الكهرباء، والمصانع، وشركات المقاولات، ومؤسسات الصيانة، والقطاع الحكومي، أو استكمال الدراسة في برامج البكالوريوس في الهندسة الكهربائية أو الهندسة الكهربائية والإلكترونية."
 }

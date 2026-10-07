@@ -1,36 +1,42 @@
 {
-  "university": "UCSI University",
-  "university_slug": "ucsi",
-  "level": "pre-university",
-  "program_name": "Foundation in Music",
-  "field": "Music",
-  "duration": "1 Year",
-  "mode": "Full-time",
-  "intakes": [
-    "Jan",
-    "May",
-    "Sep"
-  ],
-  "fees": {
-    "currency": "MYR",
-    "total": 54411,
-    "per_year": null,
-    "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/foundation-music), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
-  },
-  "requirements": {
-    "english_requirement": "IELTS 4.0 or TOEFL iBT 30-31",
-    "other_qualifications": "High school completion"
-  },
-  "accreditation": null,
-  "sources": [
-    "https://www.studymalaysia.com/what/course/UCSI/0057285/",
-    "https://www.studymalaysia.com/edu/ucsi/courses/",
-    "https://www.ucsiuniversity.edu.my/programmes/foundation-music"
-  ],
-  "confidence": "medium",
-  "last_updated": "2026-09-18",
-  "program_name_ar": "تأسيس Music",
-  "program_name_zh": "音乐基础课程",
-  "field_ar": "الموسيقى",
-  "field_zh": "音乐"
+ "university": "UCSI University",
+ "university_slug": "ucsi",
+ "level": "pre-university",
+ "program_name": "Foundation in Music",
+ "field": "Music",
+ "duration": "1 Year",
+ "mode": "Full-time",
+ "intakes": [
+  "Jan",
+  "May",
+  "Sep"
+ ],
+ "fees": {
+  "currency": "MYR",
+  "total": 54411,
+  "per_year": null,
+  "notes": "International total fee from UCSI official programme page (https://www.ucsiuniversity.edu.my/programmes/foundation-music), retrieved 2026-09-18. Per UCSI note, amount is approximate; a 6% service tax applies to non-Malaysian citizens from 1 Jul 2025."
+ },
+ "requirements": {
+  "english_requirement": "IELTS 4.0 or TOEFL iBT 30-31",
+  "other_qualifications": "High school completion"
+ },
+ "accreditation": null,
+ "sources": [
+  "https://www.studymalaysia.com/what/course/UCSI/0057285/",
+  "https://www.studymalaysia.com/edu/ucsi/courses/",
+  "https://www.ucsiuniversity.edu.my/programmes/foundation-music",
+  {
+   "url": "https://maigaedu.com/program/%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89-4835/",
+   "publisher": "maiga",
+   "fetched_at": "2026-10-07"
+  }
+ ],
+ "confidence": "medium",
+ "last_updated": "2026-10-07",
+ "program_name_ar": "تأسيس Music",
+ "program_name_zh": "音乐基础课程",
+ "field_ar": "الموسيقى",
+ "field_zh": "音乐",
+ "description": "يهدف برنامج الموسيقى إلى إعداد الطلاب أكاديميًا وفنيًا للالتحاق ببرامج الفي الموسيقى. يركز البرنامج على أساسيات النظريات الموسيقية، وقراءة النوتة، والعزف، والغناء، والاستماع الموسيقي، وتنمية المهارات الإبداعية والفنية. كما يساعد الطلاب على تطوير مهارات التواصل، والعمل الجماعي، والانضباط، والثقة في الأداء. يوفر البرنامج بيئة تعليمية داعمة تُمكن الطلاب من بناء قاعدة معرفية ومهارية قوية تؤهلهم للنجاح في الدراسة الجامعية ومواصلة مسيرتهم المهنية في مجال الموسيقى."
 }
