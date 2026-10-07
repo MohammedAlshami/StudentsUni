@@ -6,6 +6,26 @@ import { useTranslations, useLocale } from "next-intl";
 import { ChevronLeft, ChevronRight, Clock, Wallet } from "lucide-react";
 import type { LevelPrograms } from "@/lib/university-detail";
 import { formatUsd } from "@/lib/fees";
+import {
+  NiGrowing,
+  NiHandingKey,
+  NiHandshake,
+  NiLaptop,
+  NiLighthouse,
+  NiPuzzle,
+  NiTarget,
+} from "@/components/notion-illustrations";
+
+// Notion illustrations cycled across the program cards.
+const PROGRAM_ILLUSTRATIONS = [
+  NiLighthouse,
+  NiTarget,
+  NiHandshake,
+  NiGrowing,
+  NiPuzzle,
+  NiHandingKey,
+  NiLaptop,
+];
 
 const LEVEL_LABEL_KEYS: Record<string, string> = {
   foundation: "foundation",
@@ -86,15 +106,19 @@ export function UniversityProgramsExplorer({
 
       {/* Program list */}
       <div className="mt-[16px] divide-y divide-black/10 border border-black/10">
-        {pageItems.map((prog) => {
+        {pageItems.map((prog, idx) => {
           const fee = formatFee(prog.fee, prog.fee_per_year, prog.currency);
+          const Illo = PROGRAM_ILLUSTRATIONS[(pageStart + idx) % PROGRAM_ILLUSTRATIONS.length];
           return (
             <Link
               key={prog.slug}
               href={`/universities/${slug}/${current!.level}/${prog.slug}`}
-              className="flex flex-col gap-[10px] p-[16px] transition-colors hover:bg-[#f5efeb] sm:flex-row sm:items-center sm:justify-between"
+              className="group flex min-h-[112px] items-center gap-[16px] p-[16px] transition-colors hover:bg-[#f5efeb] sm:gap-[21px] sm:p-[21px]"
             >
-              <div className="min-w-0">
+              <span className="flex h-[72px] w-[72px] shrink-0 items-center justify-center rounded-[18px] border border-black/10 bg-white transition-transform duration-300 group-hover:-translate-y-[3px]">
+                <Illo width={56} className="text-[#285b50]" />
+              </span>
+              <div className="min-w-0 flex-1">
                 <p className="truncate text-[15px] font-semibold">
                   {locale === "ar" ? (prog.name_ar || prog.name) : locale === "zh" ? (prog.name_zh || prog.name) : prog.name}
                 </p>

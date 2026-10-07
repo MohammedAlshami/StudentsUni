@@ -103,7 +103,7 @@ export function InstitutionDetail(props: InstitutionDetailProps) {
             : undefined
         }
       >
-        <div className={`${wrap} pt-[125px] pb-[52px]`}>
+        <div className={`${wrap} pt-[155px] pb-[86px]`}>
           <Link href={backHref} className="text-[13px] text-white/60 hover:underline">
             <span className="inline-block rtl:-scale-x-100">&larr;</span> {backLabel}
           </Link>
@@ -158,8 +158,8 @@ export function InstitutionDetail(props: InstitutionDetailProps) {
       </div>
 
       {/* Quick facts */}
-      <div className="border-b border-black/10 bg-[#f5efeb]">
-        <div className={`${wrap} grid grid-cols-2 gap-[21px] py-[26px] sm:grid-cols-4`}>
+      <div className={`${wrap} pt-[26px]`}>
+        <div className="grid grid-cols-2 gap-[21px] rounded-[28px] border border-black/10 bg-[#f5efeb] px-[26px] py-[26px] sm:grid-cols-4 sm:rounded-full">
           {stats.map((stat, i) => (
             <div className="flex items-center gap-[10px]" key={i}>
               <stat.icon size={20} className="shrink-0 text-[#285b50]" />
@@ -211,7 +211,7 @@ export function InstitutionDetail(props: InstitutionDetailProps) {
       </div>
 
       {/* CTA */}
-      <div className="bg-[#f5efeb] pb-[62px]">
+      <div className="bg-white pb-[62px]">
         <div className={wrap}>
           <div className="mx-auto mb-[21px] grid h-[52px] w-[52px] place-items-center rounded-full border-[3px] border-[#285b50] text-[#285b50]">
             <ArrowUpRight size={25} className="rtl:rotate-90" />
