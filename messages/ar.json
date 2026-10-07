@@ -185,7 +185,16 @@
     "feesNote": "الرسوم إرشادية وقد تختلف — تواصل مع المعهد للحصول على أحدث الأسعار.",
     "offersTitle": "العروض الحالية",
     "included": "الرسوم تشمل",
-    "notIncluded": "غير مشمول"
+    "notIncluded": "غير مشمول",
+    "backToList": "العودة إلى جميع المعاهد",
+    "gallery": "معرض الصور",
+    "galleryCaption": "صورة المعهد.",
+    "applyLabel": "استشارة مجانية",
+    "readyToApply": "هل أنت مستعد للتعلم في",
+    "feeRange": "نطاق الرسوم",
+    "notFound": "المعهد غير موجود",
+    "categoryLabel": "نوع المعهد",
+    "sourcesNote": "بناءً على {count} مرجع موثّق."
   },
   "languageCentresPage": {
     "label": "معاهد اللغة الإنجليزية",

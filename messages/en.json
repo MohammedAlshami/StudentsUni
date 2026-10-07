@@ -185,7 +185,16 @@
     "feesNote": "Fees are indicative and may vary — contact the centre for current pricing.",
     "offersTitle": "Current offers",
     "included": "Fees include",
-    "notIncluded": "Not included"
+    "notIncluded": "Not included",
+    "backToList": "Back to all institutes",
+    "gallery": "Gallery",
+    "galleryCaption": "Photo of the institute.",
+    "applyLabel": "Free consultation",
+    "readyToApply": "Ready to learn English at",
+    "feeRange": "Fee range",
+    "notFound": "Institute not found",
+    "categoryLabel": "Institute type",
+    "sourcesNote": "Based on {count} sourced reference(s)."
   },
   "languageCentresPage": {
     "label": "English language institutes",

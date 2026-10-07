@@ -2,13 +2,14 @@ import fs from "fs";
 import path from "path";
 import { Link } from "@/i18n/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { ArrowUpRight, BadgeCheck, GraduationCap, Layers, MapPin, Wallet } from "lucide-react";
-import { wrap, Pic, Label, Heading, Pill, institutionTypeLabel } from "@/components/marketing-ui";
+import { BadgeCheck, GraduationCap, Layers, MapPin, Wallet } from "lucide-react";
 import { getUniversityImage, getUniversityGallery, UNIVERSITY_PHOTOS } from "@/lib/university-images";
 import { formatUsdRange } from "@/lib/fees";
 import { getUniversityStats } from "@/lib/university-stats";
 import { detectLevels, getProgramsByLevel } from "@/lib/university-detail";
 import { UniversityProgramsExplorer } from "@/components/university-programs-explorer";
+import { InstitutionDetail } from "@/components/institution-detail";
+import { institutionTypeLabel } from "@/components/marketing-ui";
 import { routing } from "@/i18n/routing";
 
 const LEVEL_LABEL_KEYS: Record<string, string> = {
@@ -110,101 +111,33 @@ export default async function UniversityDetailPage({
   const stateClause = info.state ? t("aboutBasedIn", { state: info.state }) : t("aboutInMalaysia");
 
   return (
-    <div className="bg-white font-sans text-[#242927]">
-      {/* Header */}
-      <div
-        className="relative bg-[#285b50] bg-cover bg-center text-white"
-        style={
-          coverPhoto
-            ? { backgroundImage: `linear-gradient(90deg,rgba(0,0,0,.82),rgba(0,0,0,.55)),url(${coverPhoto})` }
-            : undefined
-        }
-      >
-        <div className={`${wrap} pt-[125px] pb-[52px]`}>
-          <Link href="/universities" className="text-[13px] text-white/60 hover:underline">
-            <span className="inline-block rtl:-scale-x-100">&larr;</span> {tProgram("backToUniversities")}
-          </Link>
-          <div className="mt-[26px] flex flex-col gap-[26px] md:flex-row md:items-center">
-            <div className="flex h-[104px] w-[104px] shrink-0 items-center justify-center overflow-hidden rounded-full bg-white">
-              {image ? (
-                <img
-                  src={image.url}
-                  alt={displayName}
-                  className={image.kind === "logo" ? "h-[70%] w-[70%] object-contain" : "h-full w-full object-cover"}
-                />
-              ) : (
-                <span className="text-[25px] font-bold text-[#285b50]">{displayAbbr}</span>
-              )}
-            </div>
-            <div className="flex-1">
-              <Label>{typeLabel}</Label>
-              <h1 className="text-[36px] font-bold leading-[.98] tracking-[-.04em] md:text-[42px]">
-                {displayName}
-                {displayAbbr && (
-                  <span className="ms-[11px] text-[18px] font-normal text-white/50">({displayAbbr})</span>
-                )}
-              </h1>
-              <div className="mt-[16px] flex flex-wrap items-center gap-[21px] text-[14px] text-white/70">
-                {info.state && (
-                  <span className="flex items-center gap-[6px]">
-                    <MapPin size={14} /> {info.state}
-                  </span>
-                )}
-                {info.website && (
-                  <a
-                    href={info.website}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="underline hover:text-white"
-                  >
-                    {info.website.replace(/^https?:\/\//, "")}
-                  </a>
-                )}
-              </div>
-            </div>
-            <Pill white>{tProgram("applyThroughUs")}</Pill>
-          </div>
-        </div>
-      </div>
-
-      {/* Quick facts */}
-      <div className="border-b border-black/10 bg-[#f5efeb]">
-        <div className={`${wrap} grid grid-cols-2 gap-[21px] py-[26px] sm:grid-cols-4`}>
-          <div className="flex items-center gap-[10px]">
-            <GraduationCap size={20} className="shrink-0 text-[#285b50]" />
-            <div>
-              <p className="text-[16px] font-bold leading-none">{stats.totalPrograms || "—"}</p>
-              <p className="mt-[4px] text-[12px] text-black/55">{t("programmes")}</p>
-            </div>
-          </div>
-          <div className="flex items-center gap-[10px]">
-            <Layers size={20} className="shrink-0 text-[#285b50]" />
-            <div>
-              <p className="text-[16px] font-bold leading-none">{levels.length || "—"}</p>
-              <p className="mt-[4px] text-[12px] text-black/55">{t("studyLevels")}</p>
-            </div>
-          </div>
-          <div className="flex items-center gap-[10px]">
-            <Wallet size={20} className="shrink-0 text-[#285b50]" />
-            <div>
-              <p className="text-[16px] font-bold leading-none">{feeRangeText ?? "—"}</p>
-              <p className="mt-[4px] text-[12px] text-black/55">{t("feeRangeSample")}</p>
-            </div>
-          </div>
-          <div className="flex items-center gap-[10px]">
-            <BadgeCheck size={20} className="shrink-0 text-[#285b50]" />
-            <div>
-              <p className="text-[16px] font-bold leading-none">{typeLabel}</p>
-              <p className="mt-[4px] text-[12px] text-black/55">{t("institutionType")}</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* About */}
-      <div className={`${wrap} py-[42px]`}>
-        <Label>{t("about")}</Label>
-        <p className="max-w-[750px] text-[16px] leading-relaxed text-black/70">
+    <InstitutionDetail
+      backHref="/universities"
+      backLabel={tProgram("backToUniversities")}
+      coverPhoto={coverPhoto}
+      avatarUrl={image?.url ?? null}
+      avatarAlt={displayName}
+      avatarFallback={displayAbbr}
+      avatarFit={image?.kind === "logo" ? "contain" : "cover"}
+      badgeLabel={typeLabel}
+      title={displayName}
+      abbr={displayAbbr || undefined}
+      meta={[
+        ...(info.state ? [{ icon: MapPin, text: info.state }] : []),
+        ...(info.website
+          ? [{ text: info.website.replace(/^https?:\/\//, ""), href: info.website }]
+          : []),
+      ]}
+      applyLabel={tProgram("applyThroughUs")}
+      stats={[
+        { icon: GraduationCap, value: stats.totalPrograms || "—", label: t("programmes") },
+        { icon: Layers, value: levels.length || "—", label: t("studyLevels") },
+        { icon: Wallet, value: feeRangeText ?? "—", label: t("feeRangeSample") },
+        { icon: BadgeCheck, value: typeLabel, label: t("institutionType") },
+      ]}
+      aboutLabel={t("about")}
+      aboutText={
+        <>
           {t("aboutText", {
             name: displayName,
             type: typeLabel.toLowerCase(),
@@ -222,74 +155,26 @@ export default async function UniversityDetailPage({
               {t("visitWebsiteSuffix")}
             </>
           )}
-        </p>
-        {sourceCount > 0 && (
-          <p className="mt-[10px] text-[12px] text-black/40">
-            {t("sourcesNote", { count: sourceCount })}
-          </p>
-        )}
-      </div>
-
-      {/* Gallery */}
-      {gallery.length > 0 && (
-        <div className={`${wrap} pb-[42px]`}>
-          <Label>{t("gallery")}</Label>
-          {gallery.length >= 3 ? (
-            <div className="grid grid-cols-2 gap-[10px] md:grid-cols-[1.45fr_1fr] md:grid-rows-2">
-              <img
-                src={gallery[0]}
-                alt={displayName}
-                className="row-span-2 h-[220px] w-full object-cover md:h-full"
-              />
-              <img src={gallery[1]} alt={displayName} className="h-[105px] w-full object-cover md:h-full" />
-              <img src={gallery[2]} alt={displayName} className="h-[105px] w-full object-cover md:h-full" />
-            </div>
-          ) : (
-            <div className={`grid gap-[10px] ${gallery.length === 2 ? "grid-cols-2" : "grid-cols-1"}`}>
-              {gallery.map((url) => (
-                <img key={url} src={url} alt={displayName} className="h-[220px] w-full object-cover" />
-              ))}
-            </div>
-          )}
-          <p className="mt-[10px] text-[11px] text-black/40">{t("galleryCaptionSpecific")}</p>
-        </div>
-      )}
-
-      {/* Programs by Level */}
-      <div className={`${wrap} pb-[52px]`}>
-        <Label>{t("programmes")}</Label>
-        <UniversityProgramsExplorer slug={slug} levels={levelPrograms} />
-      </div>
-
-      {/* CTA */}
-      <div className="bg-[#f5efeb] pb-[62px]">
-        <div className={wrap}>
-          <div className="mx-auto mb-[21px] grid h-[52px] w-[52px] place-items-center rounded-full border-[3px] border-[#285b50] text-[#285b50]">
-            <ArrowUpRight size={25} className="rtl:rotate-90" />
-          </div>
-          <div
-            className={`grid h-[270px] items-center bg-white text-center ${
-              gallery.length >= 2 ? "grid-cols-[130px_1fr_130px] md:grid-cols-[237px_1fr_231px]" : "grid-cols-1"
-            }`}
-          >
-            {gallery.length >= 2 && <Pic src={gallery[0]} className="h-[270px] w-full" />}
-            <div>
-              <Label>{tCommon("freeConsultation")}</Label>
-              <Heading className="text-[29px] md:text-[36px]">
-                {t("readyToApplyTo")}
-                <br />
-                {displayName}?
-              </Heading>
-              <div className="mt-[21px]">
-                <Pill>{tCommon("talkToUs")}</Pill>
-              </div>
-            </div>
-            {gallery.length >= 2 && (
-              <Pic src={gallery[gallery.length > 2 ? 2 : 1]} className="h-[270px] w-full" />
-            )}
-          </div>
-        </div>
-      </div>
-    </div>
+        </>
+      }
+      sourcesNote={sourceCount > 0 ? t("sourcesNote", { count: sourceCount }) : undefined}
+      gallery={gallery}
+      galleryLabel={t("gallery")}
+      galleryCaption={t("galleryCaptionSpecific")}
+      contentLabel={t("programmes")}
+      ctaPhotoLeft={gallery.length >= 2 ? gallery[0] : null}
+      ctaPhotoRight={gallery.length >= 2 ? gallery[gallery.length > 2 ? 2 : 1] : null}
+      ctaBadgeLabel={tCommon("freeConsultation")}
+      ctaTitle={
+        <>
+          {t("readyToApplyTo")}
+          <br />
+          {displayName}?
+        </>
+      }
+      ctaPillLabel={tCommon("talkToUs")}
+    >
+      <UniversityProgramsExplorer slug={slug} levels={levelPrograms} />
+    </InstitutionDetail>
   );
 }

@@ -185,7 +185,16 @@
     "feesNote": "费用仅供参考，可能有所变动。请联系中心获取最新价格。",
     "offersTitle": "当前优惠",
     "included": "费用包含",
-    "notIncluded": "不包含"
+    "notIncluded": "不包含",
+    "backToList": "返回所有学院",
+    "gallery": "图库",
+    "galleryCaption": "学院照片。",
+    "applyLabel": "免费咨询",
+    "readyToApply": "准备好在",
+    "feeRange": "费用范围",
+    "notFound": "未找到该学院",
+    "categoryLabel": "学院类型",
+    "sourcesNote": "基于 {count} 个已记录来源。"
   },
   "languageCentresPage": {
     "label": "英语语言学院",
